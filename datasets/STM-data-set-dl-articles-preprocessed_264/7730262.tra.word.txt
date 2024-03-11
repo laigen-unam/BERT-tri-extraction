@@ -1,0 +1,342 @@
+JOURNAL OF BACTERIOLOGY , May 1995 , p. 2335 -- 2342 Vol .
+177 , No. 9 0021 - 9193/95 / $ 04.00 0 Transcriptional Control of the nuo Operon Which Encodes the Energy - Conserving NADH Dehydrogenase of Salmonella typhimurium C. DAWN ARCHER 1 † AND THOMAS ELLIOTT 2 * Department of Microbiology , University of Alabama at Birmingham , Birmingham , Alabama 35294 , 1 and Department of Microbiology and Immunology , West Virginia University Health Sciences Center , Morgantown , West Virginia 26506 2 The 14 nuo genes encode the subunits of the type I ( energy - conserving ) NADH dehydrogenase , a key component of the respiratory chain .
+Salmonella typhimurium , like Escherichia coli , has two enzymes that can oxidize NADH and transfer electrons to ubiquinone , but only the type I enzyme translocates protons across the membrane to generate a proton motive force .
+Cells with the type I enzyme are energetically more efficient ; the role of the type II enzyme ( encoded by ndh ) is not established , but it may function like a relief valve to allow more rapid NADH recycling .
+Here , we have investigated transcription of the nuo gene cluster , primarily in S. typhimurium .
+Studies with polar insertion mutants demonstrate that these genes are arranged as a single , large operon that is expressed from a complex promoter region upstream of nuoA .
+The DNA sequence of the promoter region was determined , and primer - extension analysis of nuo transcripts was used to map four major RNA 5 ends to this region .
+A set of lac operon fusions to various DNA segments from the nuo promoter region was also constructed .
+Analysis of these fusions confirmed the presence of at least two nuo promoters .
+Mutations in the global regulatory genes arcA , oxrA ( fnr ) , crp , cya , and katF were tested for effects on expression of the nuo operon .
+However , none of the mutations tested had a large effect on expression of type I NADH dehydrogenase .
+and Immunology , P.O. Box 9177 , WVU Health Sciences Center , Morgantown , WV 26506 - 9177 .
+† Present address : Department of Microbiology and Immunology , Morgantown , WV 26506 - 9177 .
+NADH dehydrogenase is the first component of the respiratory chain and transfers electrons from NADH to ubiquinone .
+Two quite different types of NADH dehydrogenase have been described .
+NADH dehydrogenase type I ( NADH dh I ) is a large complex composed of numerous subunits ; a substantial part of this complex is integral to the membrane .
+Bovine mitochondrial NADH dh I is composed of more than 40 subunits with an aggregate amino - acid content which exceeds that of a prokaryotic ribosome ( reviewed in reference 43 ) .
+As NADH dh I transfers electrons to ubiquinone , it conserves energy by translocating protons to contribute to the electrochemical gradient ( 28 ) .
+In contrast , type II NADH dehydrogenases ( NADH dh II ) are soluble enzymes composed of a single subunit , which do not translocate protons and , hence , can not conserve energy ( 29 ) .
+There is substantial biochemical evidence to indicate that Escherichia coli has both types of NADH dehydrogenase ( 22 , 29 , 31 , 32 , 48 ) , and recently it has been demonstrated genetically that E. coli has two separate loci which encode these enzymes ( 6 , 45 ) .
+Salmonella typhimurium and E. coli are facultative anaerobes that are capable of respiring in the presence of oxygen or other electron - acceptors such as nitrate .
+The aerobic respiratory chains of these bacteria are branched at both ends , with two NADH dehydrogenases as described above as well as two terminal cytochrome oxidases .
+Calhoun et al. ( 6a ) have demonstrated that the energetic efficiency of E. coli is directly related to the NADH dehydrogenase and terminal oxidase used , and they have suggested that efficiency might be modulated in response to growth - conditions by partitioning of the flow of electrons through the branches of the respiratory chain .
+Such partitioning could be accomplished by the regulation of synthesis of respiratory chain components .
+It is well - known that E. coli regulates the synthesis of many of these proteins in response to the availability of various electron - acceptors ( for reviews , see references 16 and 21 ) .
+For example , the cyo operon , which encodes cytochrome o terminal oxidase , is expressed at higher levels in the presence of oxygen than under anaerobic conditions .
+In contrast , the cyd operon , which encodes the alternative cytochrome d terminal oxidase , is most highly expressed under microaerophilic conditions ( 14a ) .
+Regulation of these operons is dependent on the global regulatory proteins ArcA and FNR .
+Expression of the ndh gene , which encodes NADH dh II , is repressed by FNR under anaerobic conditions ( 15 , 40 ) .
+In both S. typhimurium and E. coli , the subunits of NADH dh I are encoded by the genes of the nuo locus , which includes a total of 14 nuo genes ( 4 , 6 , 33 , 45 , 49 ) .
+S. typhimurium mutants that are defective in NADH dh I were isolated by using a screen for strains with increased - galactosidase activity expressed from a hemA - lacZ protein fusion , as seen on indicator plates that contained both a limiting amount of glucose and 5 - bromo - 4-chloro - 3-indolyl - - D - galactopyranoside ( X - Gal ) ( 4 ) .
+This phenotype was found to be due to a decrease in energy - dependent proteolysis of the fusion protein in nuo mutants under conditions of glucose - starvation .
+In this paper , we characterize the nuo gene cluster , demonstrating that the 14 nuo genes constitute an operon with a single , although complex , promoter region .
+Expression of the nuo operon is also investigated .
+( This work was done by C. D. Archer in partial fulfillment of the requirements for a Ph.D. from the University of Alabama at Birmingham , Birmingham , 1994 .
+) 2335 2336 ARCHER AND ELLIOTT J. BACTERIOL .
+MATERIALS AND METHODS Bacteria and phage .
+The S. typhimurium and E. coli strains used in this study are listed in Table 1 .
+All S. typhimurium strains are derivatives of the wild - type strain LT - 2 .
+The high - frequency , generalized transducing bacteriophage P22 mutant HT105/1 int - 201 was used for all transductions in S. typhimurium ( 36 ) .
+P1 transductions in E. coli were done with phage P1 vir by standard methods ( 38 ) .
+Standard media and techniques have been previously described ( 8 , 10 ) , except as follows .
+N C medium supplemented with 10 mM NH 4 Cl and either 0.2 % ( wt/vol ) glucose or 0.44 % ( wt/vol ) sodium VOL .
+177 , 1995 TRANSCRIPTIONAL CONTROL OF THE nuo OPERON 2337 pyruvate as the carbon source was used as the minimal - medium for growth of liquid cultures ( 1 , 2 ) .
+Anaerobic liquid cultures were grown in bottles that were filled to the neck with minimal - medium that contained 0.44 % ( wt/vol ) sodium pyruvate and 0.32 % ( wt/vol ) disodium fumarate ( 1 ) .
+Aerobic cultures were grown with vigorous shaking .
+All cultures were grown at 37 C. Transposons .
+Transposons Tn10d - Tet and Tn10d - Cam are derivatives of transposon Tn10 that are defective in transposition and are able to confer resistance to tetracycline and chloramphenicol , respectively .
+These transposons have previously been described ( 12 , 44 ) .
+Castilho et al. have constructed several phage Mu - derived transposons that can form lac operon fusions but are defective for transposition ( 6b ) .
+One of these , Mud I1734 ( Kan r lac ) ( 6b ) , was used in this work .
+For convenience , we refer to this Kan r Mud phage as MudJ .
+Isolation of nuo : : MudJ insertions .
+We used nuo - lac fusions formed by the insertion of transposon MudJ to characterize the overall transcription pattern of the nuo locus .
+MudJ insertions were isolated in two plasmids that carry nuo genes ; these insertions were subsequently transferred to the chromosome by homologous recombination .
+One target plasmid was pTE491 , which carries the nuoE and nuoF genes cloned into pBR322 ( 4 ) .
+The second plasmid , pTE513 , carries a 9.5 - kb HindIII fragment ( including nuoN ) that is also inserted into pBR322 .
+These plasmids were used as recipients for MudJ transposon mutagenesis in S. typhimurium ( 20 ) .
+Plasmid insertions were selected as Kan r transformants of E. coli DH5 and screened by PCR for those with correctly oriented insertions in the nuo genes .
+Three MudJ insertions were used in this work ; each is oriented to give lac transcription that is dependent on the nuo promoter region .
+The sites of these MudJ insertions were estimated by gel electrophoretic analysis of PCR products ( 11 ) .
+The nuoF12 and nuoG11 insertions lie 1.5 and 2.3 kb , respectively , downstream of nuoD9 : : Tn10d - Cam ( 4 ) .
+The nuoN13 insertion lies 0.35 kb downstream of the nuoN ATG codon .
+Construction of - Cm insertion mutations .
+Plasmid pTE496 carries a 1,438 - bp PstI - KpnI fragment , including the nuo promoter region , inserted into pK184 ( 23 ) .
+The PstI site has been changed to BamHI by blunting the site with the Klenow fragment of DNA polymerase I and adding BamHI linkers .
+This plasmid was subjected to partial digestion with ClaI , which cuts at two sites , in the nuo promoter region and early in nuoA ( see below ) .
+The - Cm interposon ( 14 ) was isolated as a 3.85 - kb BamHI fragment with filled - in ends and inserted into ClaI - cut and filled - in pTE496 .
+Four simple insertions were isolated and characterized ( two orientations of - Cm at each ClaI site ) .
+The - Cm insertions at the upstream ClaI site have been designated nuo p ( promoter ) mutants since they lie upstream of nuoA , the first structural gene , and have strong effects on nuo transcription ( see below ) .
+Plasmid pTE515 carries a 1,764 - bp SpeI - KpnI fragment that includes the nuo promoter region .
+This insert is similar to that in pTE496 except that it extends an additional 326 bp upstream of the PstI site .
+The - Cm interposon was isolated as a 3.85 - kb BamHI fragment with filled - in ends and inserted into PstI - cut and Klenow - treated pTE496 .
+The resulting - Cm insertion at the PstI site is oriented so that Cam r is transcribed divergently from nuo .
+This insertion is designated zeg - 6821 : : - Cm since it does not affect expression from the nuo promoter ( see below ) .
+Transfer of insertions to the S. typhimurium chromosome .
+The - Cm and nuoN13 : : MudJ insertions were transferred to the bacterial chromosome by the method of Gutterson and Koshland ( 17 ) , which exploits a requirement for DNA polymerase I in the function of ColE1 and P15A plasmid replication origins .
+The method was modified by including a Tn10d - Tet insertion linked to nuo in the polA strain .
+A phage P22 lysate that had been grown on pooled transformants was used to transduce LT - 2 , selecting both the linked Tn10d - Tet and MudJ or - Cm .
+A substantial fraction ( 10 to 40 % ) of these transductants did not inherit the drug resistance marker of the original donor plasmid .
+The nuoG11 : : MudJ insertion was transferred to the chromosome by digestion of the donor plasmid with NheI and subsequent linear transformation of strain TN3552 ( Table 1 ) ( 35 , 37 ) .
+Backcrossed strains that carried these insertions are also listed in Table 1 ( TE5469 , TE5481 , and TE5524 to TE5529 ) .
+All of the MudJ insertion mutants were characterized by genetic linkage to the nuo locus and by their Ace phenotype as well as by PCR mapping to verify that they lie at the expected position on the bacterial chromosome .
+The - Cm insertions were recloned from the chromosome onto pK184 and restriction mapped .
+This analysis showed that one of the insertions , nuo p14 : : - Cm , had suffered a deletion of approximately 300 bp during manipulations following its construction .
+The deletion lies entirely within the - Cm element and does not affect its ability to confer polarity .
+A modification of the method of Chumley and Roth ( 7 , 19 ) was used to construct tandem duplications ( see below ) ( see references 5 and 11 also ) .
+In E. coli , the genes of the cysA locus are transcribed counterclockwise on the chromosome ( 34 ) ; by the duplication method , tests confirmed that this is also true for S. typhimurium .
+Accordingly , phage P22 that had been grown on a Lac cysA : : MudA insertion mutant ( TT10508 [ Table 1 ] ) was used to transduce TE5469 ( nuoG11 : : MudJ ) and TE5529 ( nuoN13 : : MudJ ) , selecting Amp r and screening for Cys .
+Duplications were backcrossed to LT - 2 and saved as strains TE5510 and TE5566 ( Table 1 ) .
+Construction of lac operon fusions to defined fragments of the nuo promoter region .
+The BamHI - EcoRI fragment of pTE496 that contains the nuo promoter region was inserted into the lac operon fusion vector pRS550 ( 39 ) to give pTE497 .
+Other fusions were constructed by PCR to generate DNA fragments of the nuo region .
+Reactions were performed as previously described ( 11 ) , with approximately 1 ng of plasmid template ( pTE496 ) per 50 - l reaction .
+Primer pairs used included lac - 40 ( 5 - GGTTT TCCCA GTCAC GACGT TGT - 3 ) and pnuo2R ( 5 - GAATT CCGTT GTGTA AGCAA AAGAA ATAAC ACA - 3 ) , pnuo2L ( 5 - GGATC CTGAA TTAAC AAAAG CGTGT CACA - 3 ) and pnuo2R , and pnuo1L ( 5 - GGATC CCTTC ACAAC GGACA CGATT CAACA - 3 ) and nuoA1R ( 5 - GAATT CAGTG ATGAG CGATG ACTTC AGTGG ATGT - 3 ) .
+Products were purified with the QIAquick - spin PCR purification kit ( Qiagen ) and cloned into the vector pGEM - T ( Promega ) according to the manufacturer 's instructions .
+The resulting plasmids were pTE521 , pTE522 , and pTE523 , respectively .
+The inserts of these plasmids were sequenced to confirm that no mutations had been introduced into the nuo sequence during PCR .
+The BamHI - EcoRI nuo promoter fragments of pTE521 , pTE522 , and pTE523 were subsequently cloned into pRS550 to give the lac operon fusion plasmids pTE526 , pTE524 , and pTE528 , respectively .
+The BamHI - NarI nuo fragment of pTE523 was substituted for the BamHI - NarI fragment of pTE497 , resulting in pTE525 , which is the same as pTE497 except that it lacks nuo sequences upstream of bp 386 .
+The 621 - bp BamHI - NarI fragment of pTE497 was substituted for the BamHI - NarI fragment of pTE523 to give pTE527 .
+The BamHI - EcoRI fragment of pTE527 was cloned into pRS550 to give pTE531 , which contains the nuo promoter region from the PstI site ( bp 1 ) to bp 716 within the nuoA coding sequence .
+All of these constructs were then transferred to the chromosome of S. typhimurium LT - 2 as single - copy fusions by the method previously described ( 10 ) .
+The RNase III site of plasmid pTL61T ( 26 ) was cloned into plasmids pTE524 , pTE526 , pTE528 , and pTE531 between nuo and lac sequences as follows .
+pTL61T was cut with BamHI , and the ends were blunted with the Klenow fragment of DNA polymerase I .
+Then the plasmid was digested with SacI , which cuts within the lac sequence , and the approximately 2 - kb fragment that contains the RNase III site and part of lacZ was gel purified by using Gene Clean ( Bio 101 ) .
+The nuo - lac fusion plasmids were cut with EcoRI , blunted with the Klenow fragment of DNA polymerase I , and then cut with SacI .
+The large fragment , which consisted of the vector plus the nuo promoter , was gel purified in the same manner .
+Then the fragment that contained lacZ and the RNase III site was added , resulting in plasmids pTE534 , pTE536 , pTE537 , and pTE538 .
+For - galactosidase assays , strains were grown in minimal medium as described below and portions of these cultures were harvested during exponential - growth ( A 600 0.4 ) .
+Assays were performed as previously reported ( 10 , 30 ) .
+NADH oxidase assays were performed as previously described ( 4 ) except that cultures were grown in minimal - medium and harvested during exponential phase ( A 600 0.4 ) .
+Protein concentrations were determined by the method of Lowry et al. ( 27 ) , with bovine serum albumin as the standard .
+Sequencing of double - stranded plasmid DNA was done as previously described ( 9 ) by using Sequenase ( U.S. Biochemical Corp. ) according to the manufacturer 's instructions .
+Plasmid DNA for sequencing was isolated by using Qiagen columns ( Qiagen ) according to the manufacturer 's instructions .
+RNA was isolated from cultures grown aerobically in LB - medium and harvested at an A 600 of 0.4 .
+Primer extension analysis of RNA was performed as previously described ( 47 ) .
+RESULTS AND DISCUSSION Defining the nuo promoter region .
+We determined the approximate limits of the promoter region lying upstream of the first gene in the locus , nuoA ( Fig. 1 ) .
+These studies were performed by using lac fusions to nuoF , nuoG , and the last gene of the locus , nuoN .
+The lac fusions were formed by insertion of the MudJ transposon ; in these strains , - galactosidase is a reporter of nuo transcription .
+We used constructs that were placed in the nuo locus at its normal position on the S. typhimurium chromosome to be sure that all relevant promoter elements could be tested .
+Early experiments showed that transposon insertions 1 to 1.5 kb upstream of nuoA had no effect on nuoG - lac expression ( 3 ) .
+The boundaries of the promoter region were defined more precisely by constructing insertions of - Cm , a highly polar DNA fragment ( interposon ) that blocks transcription ( 14 ) .
+Insertions of - Cm were made at three positions , the PstI site ( bp 1 ) and either ClaI site ( bp 613 and 836 ) .
+The zeg - 6821 : : - Cm insertion at the PstI site had no effect on nuoG - lac expression ( Fig. 1 ) .
+In contrast , an - Cm insertion at the bp 613 ClaI site reduced expression of nuoG - lac to less than 2 % of the wild - type level .
+To reflect its polar effect , this insertion is designated nuo p14 : : - Cm .
+Expression of nuoG - lac was also strongly reduced when - Cm was inserted in the 2338 ARCHER AND ELLIOTT J. BACTERIOL .
+Map of the nuo region .
+Individual genes are represented by shaded boxes ; some genes have been omitted for clarity .
+The arrow in the complex nuo promoter region indicates that transcription is from left to right .
+MudJ transposon insertions ( filled triangles ) that form nuo - lac fusions were isolated at three sites , and interposon - Cm insertions were constructed at two sites ( striped triangles ) to define the limits of the nuo promoter region ( see Materials and Methods for details ) .
+Each line below the top one illustrates an S. typhimurium strain that carries the indicated combination of insertions at the nuo locus in the bacterial chromosome .
+On the right are the results of - galactosidase assays for these strains grown in minimal glycerol medium .
+Some activities are also expressed as a fraction of that seen in a strain that carries the indicated nuo - lac fusion without the - Cm insertion .
+opposite orientation at bp 613 or in either orientation at bp 836 ( 3 ) .
+We conclude that all of the cis - acting elements required for nuo expression lie downstream of bp 1 and that no functional promoter lies downstream of bp 613 of the region shown in Fig. 1 .
+We also tested the effect of the nuo p14 : : - Cm insertion on a nuoN - lac fusion ( Fig. 1 ; compare strains TE5529 and TE5559 ) .
+Expression in the - Cm strain was reduced to less than 10 % of that in the wild type , confirming the operon model .
+The residual expression of the nuoN - lac fusion was about threefold higher than seen with the nuoF - lac and nuoGlac fusions in this experiment .
+This may reflect the presence of weak promoters within the region between nuoG and nuoN .
+The simplest model to explain these results is that transcription initiates within a single promoter region upstream of nuoA .
+However , the data are also consistent with the existence of an upstream nuo gene that is affected by the nuo p14 : : - Cm insertion and activates expression in trans from a second promoter somewhere within the nuo structural genes .
+This seems unlikely , given sequence comparisons which allow assignment of all known Nuo proteins to similar subunits of the mitochondrial NADH dehydrogenase ( 45 ) .
+It is also eliminated by the results of following experiment .
+We constructed strains that carry tandem duplications of the region between nuoG and cysA or between nuoN and cysA by using Mud elements ( Fig. 2 ) .
+In these strains , the duplication `` join point , '' which was derived from the parental fusions described above , included the nuo promoter and a segment of the nuo operon joined to lac .
+A wild - type copy of the nuo operon , unlinked to the nuo - lac fusion , was also present .
+When the nuo p14 : : - Cm insertion was introduced into such a duplication strain by a transductional cross , two kinds of recombinants were recovered .
+In the first type , the - Cm insertion has been inherited in the copy of nuo which is not fused to lac ( these transductants are Ace and Lac ) ; however , the - Cm insertion may recombine into the segment of nuo which is linked to lac ( these transductants are Ace ) .
+The Lac character observed for transductants of the second class demonstrates that a wild - type copy of nuo in trans can not overcome the transcriptional block imposed by nuo p14 : : - Cm .
+Thus , the nuo p14 : : - Cm insertion blocks expression of nuoG and nuoN by polarity .
+Nucleotide sequence of the promoter region of the S. typhimurium nuo operon .
+Figure 3 shows the nucleotide sequence of a 1,438 - bp PstI - KpnI fragment which includes the nuo promoter , the nuoA gene , and an N - terminal fragment of the nuoB gene .
+Altogether , the DNA sequence of about 7.5 kb , corresponding to the upstream half of the nearly 16 - kb nuo operon , has been determined in this study ( 3 , 4 ) .
+The complete sequence may be found under GenBank accession number L22504 .
+Plasmids that carry the remaining nuo genes have been constructed ; available sequence data show that the entire operon is present .
+This confirms the findings of functional studies that have already been reported ( 3 , 4 ) .
+Primer extension analysis of nuo RNA .
+The 5 ends of nuo transcripts were mapped by primer - extension .
+RNA was isolated from three strains , E. coli TE5301 that carried a multicopy plasmid with the S. typhimurium nuo promoter region , the same strain with a control plasmid , and wild - type S. typhimurium LT - 2 .
+The primers used were complementary to target sites which are identical in nuo RNAs from both E. coli and S. typhimurium .
+As shown in Fig. 4A , four major primer - extension products were observed with all RNA samples .
+The inferred RNA 5 ends are indicated by asterisks in the DNA sequence in Fig. 3 .
+The RNA 5 end mapping furthest upstream lies at bp 372 .
+Signals from additional 5 ends were observed near bp 549 , 592 , and 642 .
+Corresponding signals were seen with a different primer , demonstrating the specificity of these primers for nuo RNA ( Fig. 4B ) .
+Other primers were used to analyze the region between bp 1 and bp 372 , but no additional signals were observed ( 3 ) .
+We noted that a strain with a plasmid that carried the PstI - KpnI nuo fragment ( bp 1 to 1438 ) showed no apparent increase in the abundance of nuo RNA 5 ends , compared with that of a wild - type strain with no plasmid ( Fig. 4 ) , nor did that strain show increased - galactosidase levels , compared with those of a strain with the same lac fusion in single copy ( 3 ) .
+177 , 1995 TRANSCRIPTIONAL CONTROL OF THE nuo OPERON 2339 FIG. 2 .
+Tandem duplications of the region between cysA and nuoG or nuoN were constructed by P22 transduction in a series of steps .
+The first selection was for transductants in which the donor and recipient Mud elements had recombined as diagrammed .
+After a backcross to wild type , - Cm elements were introduced by transduction .
+The details of these constructions are described in the text ( diagram based on data in reference 1 ) .
+preliminary experiments suggest that this lack of increase in RNA with multiple copies of the fusion is specific to the fusion at the ClaI site and therefore not an intrinsic property of nuo transcription .
+Mapping nuo promoters by using lac operon fusions .
+Mapping the 5 ends of nuo transcripts points to regions that should contain nuo promoter elements .
+To confirm that a nuo promoter lies upstream of bp 372 , lac operon fusions to various DNA segments of the nuo promoter region were made ( Fig. 5 ) .
+Each fusion was transferred to the chromosome of S. typhimurium LT - 2 , and each resulting strain was assayed for - galactosidase activity .
+The data ( Fig. 5 ) indicate that all of the DNA segments tested direct some level of - galactosidase activity and therefore contain active promoters ; however , the activities for fusions that contained only the upstream DNA segment were quite low .
+This low - level activity conflicts with the results of the primer - extension experiment , in which a substantial fraction of all nuo RNA 5 ends mapped to the upstream ( bp 372 ) site .
+In a similar set of fusions , an RNase III site was added FIG. 3 .
+DNA sequence of a 1,438 - bp PstI - KpnI DNA fragment that contains the nuo promoter region .
+The sequence is oriented in the direction of transcription .
+The positions indicated by asterisks correspond to 5 ends of nuo transcripts that were detected by primer - extension mapping .
+The initiation and termination codons for the nuo genes contained within this fragment are underlined .
+A putative extended 10 sequence for the upstream promoter is overlined .
+2340 ARCHER AND ELLIOTT J. BACTERIOL .
+Primer extension mapping of 5 ends of nuo transcripts .
+Shown are autoradiograms of sequencing gels that were used to analyze primer - extension products .
+RNA was isolated from strains LT - 2 , TE5472 , and TE5473 .
+The sequencing ladders in lanes G , A , T , and C in each panel were generated with the labeled primer that was used for primer - extension in that panel .
+Arrows indicate the 5 ends of transcripts , and numbers indicate the positions ( in base pairs ) of 5 ends relative to the DNA sequence in Fig. 3 .
+Results are from extension of a primer complementary to bp 715 to 698 ( A ) and bp 679 to 655 ( B ) .
+between nuo and lac sequences to reduce the chance that differences in nuo transcript stability or occlusion of the lacZ ribosome binding site would affect lacZ expression ( 26 ) .
+The levels of - galactosidase expression seen with this second set of operon fusions ( Fig. 5 ) were consistent with the primer - extension results and support the idea that most nuo transcription actually occurs from the upstream initiation site ; however , the promoter ( s ) downstream of bp 387 is also reasonably active .
+The higher level of - galactosidase activity obtained with the fragment from bp 1 to 396 than with the fragment from bp 1 to 716 suggests that transcription termination may occur in the region between bp 396 and bp 716 .
+Expression of the nuo operon .
+Many components of the respiratory chain are known to be regulated in response to the availability of electron - acceptors ( for reviews , see references 16 and 21 ) .
+To determine whether expression of the nuo operon is regulated in a similar manner , mutations in known global regulatory genes were introduced into a nuo pAB - lac strain and the expression of - galactosidase was measured under various growth - conditions ( Table 2 ) .
+The mutations studied included insertions in arcA and oxrA , two key regulators of respiratory enzymes .
+The oxrA gene encodes the S. typhimurium homolog of E. coli FNR protein .
+FNR has been reported to repress expression of the alternative NADH dehydrogenase encoded by the ndh gene ( 15 , 40 ) .
+In addition , because nuo mutants display an unusual phenotype during starvation for glucose ( 4 ) , the effects of cya , crp , and katF mutations were also tested .
+Strains were grown either aerobically in minimal - medium that contained glucose or pyruvate as the carbon source or anaerobically in minimal - medium with pyruvate as the carbon source and fumarate as the electron - acceptor .
+Table 2 shows that none of these mutations had a large effect on expression of the nuo pAB - lac operon fusion under the conditions tested .
+In addition , a nuo mutation that eliminated NADH dh I activity ( nuoA2 : : Tn10d - Tet ) was tested for its effects on expression of the nuo pAB - lac operon fusion .
+- Galactosidase activity in the mutant was not significantly higher than that in the wild type ( Table 2 ) .
+These results were confirmed by direct assay of NADH dh I. Assays were performed on extracts of the same strains , grown under conditions in which each mutation would be expected to have an effect .
+The NADH analog deamino - NADH was used as the substrate for these assays because it is a specific substrate of NADH dh I ( 31 ) .
+The data in Table 2 show that none of the mutations tested had a dramatic effect on NADH oxidase activity , confirming the general results of - galactosidase assays .
+In contrast to the - galactosidase data , the mutation in FIG. 5 .
+Mapping nuo promoters by using lac operon fusions .
+Vertical arrows indicate the 5 ends of nuo transcripts , as determined by primer - extension .
+The indicated DNA fragments were inserted into the lac operon fusion vector pRS550 .
+The resulting nuo - lac fusions were transferred to the chromosome of wild - type S. typhimurium LT - 2 as previously described ( 10 ) .
+- Galactosidase activity was measured for two sets of fusions .
+The first four constructs do not have an RNase III site between nuo and lac ; their results are reported in the left column ( without RNase III site ) .
+Each construct in the second set contains an RNase III site between nuo and lac ; their results are shown in the right column ( with RNase III site ) .
+177 , 1995 TRANSCRIPTIONAL CONTROL OF THE nuo OPERON 2341 TABLE 2 .
+Comparison of nuo - lac expression and NADH dh I activities in strains that contained global regulatory mutations Strain and/or mutation Glucose O 2 , - galactosidase Activity a Pyruvate O 2 Pyruvate fumarate O 2 - Galactosidase NADH oxidase - Galactosidase NADH oxidase TE5296 , wild type 1,780 2,040 0.0954 1,750 0.0934 TE5308 , oxrA 1,800 1,960 ND 3,150 0.116 TE5309 , cya 970 1,320 0.0356 ND ND TE5310 , crp 1,030 1,140 0.202 ND ND TE5562 , arcA 1,210 2,290 ND 3,870 0.114 TE5563 , katF 1,630 2,820 ND ND ND TE5804 , nuo 2,070 ND ND ND ND a Deamino - NADH was used as the substrate for NADH dh I assays .
+NADH dh I activities are reported in micromoles of deamino - NADH oxidized per minute per milligram of protein .
+- Galactosidase activities are expressed in Miller units .
+cya results in approximately threefold - lower NADH dh I activity , compared with that of the wild type , while the crp mutation resulted in twofold - higher NADH dh I activity .
+The unusual , opposing effects of these two mutations are not understood .
+In summary , we have characterized the complex promoter region for the nuo genes of S. typhimurium .
+Studies of the polar effects caused by insertion of the - Cm element in strains with lac fusions to the nuoF , nuoG , and nuoN genes demonstrate that the 14 nuo genes constitute an operon that is served by a single complex promoter region upstream of nuoA ( bp 1 to 613 of the sequence in Fig. 3 ) .
+Primer extension mapping of the 5 ends of nuo transcripts identified four major RNA 5 ends ; the distribution and abundance of 5 ends in S. typhimurium are very similar to those in E. coli .
+The RNA 5 end at bp 592 corresponds to a start site near ( but not the same as ) that previously identified as the nuo transcription initiation site in E. coli ( 45 ) .
+The presence of a promoter positioned to direct transcription from bp 372 was confirmed by constructing a set of lac operon fusions that carried different segments of the nuo promoter region .
+These fusions contained an RNase III site that had been cloned between nuo and lac .
+The results suggest that the RNA 5 end that maps at bp 372 is the transcript from the strongest nuo promoter , but other promoters must also lie downstream .
+Examination of the DNA sequence upstream of bp 372 reveals little homology to the consensus 70 35 region .
+There is some homology to the 70 10 hexamer , including an additional TGn motif adjacent to the 10 region ( Fig. 3 ) .
+This motif , referred to as an extended 10 , has previously been shown to be important for some promoters that lack a consensus sequence at 35 ( 24 , 25 ) .
+Further experiments , including in vitro transcription and analysis of promoter mutants , will be necessary to precisely characterize each of the multiple promoters that serve the nuo operon .
+We tested the effects of mutations in certain global regulatory genes on expression of the nuo operon by using a nuo pAB - lac fusion .
+No dramatic effects were seen with any of the mutations tested , including oxrA ( fnr ) , cya , crp , arcA , katF , and nuoA .
+This result is somewhat surprising in light of the near universal regulation of respiratory enzymes , but it was confirmed by direct assay of NADH dehydrogenase .
+We have also mutagenized cultures and screened without success for new classes of regulatory mutants that affect nuo expression .
+Finally , DNA sequence analysis of the region upstream of the nuo operon has revealed the presence of a gene which apparently encodes a transcriptional activator of the LysR family .
+However , disruption of this gene had no effect on expression of nuo - lac fusions in S. typhimurium ( 3 ) .
+We thank the individuals listed in Table 1 for providing bacterial strains .
+This work was supported by Public Health Service grant GM40403 .
+Ailion , M. , T. A. Bobik , and J. R. Roth .
+Two global regulatory systems ( Crp and Arc ) control the cobalamin/propanediol regulon of Salmonella typhimurium .
+Alper , M. D. , and B. N. Ames .
+Transport of antibiotics and metabolite analogs by systems under cyclic AMP control : positive selection of Salmonella typhimurium cya and crp mutants .
+Archer , C. D. , J. Jin , and T. Elliott .
+Archer , C. D. , X. Wang , and T. Elliott .
+Mutants defective in the energy - conserving NADH dehydrogenase of Salmonella typhimurium identified by a decrease in energy - dependent proteolysis after carbon - starvation .
+Bobik , T. A. , M. Ailion , and J. R. Roth .
+A single regulatory gene integrates control of vitamin - B 12 synthesis and propanediol degradation .
+Calhoun , M. W. , and R. B. Gennis .
+Demonstration of separate genetic loci encoding distinct membrane - bound respiratory NADH dehydrogenases in Escherichia coli .
+Calhoun , M. W. , K. L. Oden , R. B. Gennis , M. J. Teixeira de Mattos , and O. M. Neijssel .
+Energetic efficiency of Escherichia coli : effects of mutations in components of the aerobic respiratory chain .
+Castilho , B. A. , P. Olfson , and M. J. Casadaban .
+Plasmid insertion mutagenesis and lac gene fusion with mini - Mu bacteriophage transposons .
+Chumley , F. G. , and J. R. Roth .
+Rearrangement of the bacterial chromosome using Tn10 as a region of homology .
+Davis , R. W. , D. Botstein , and J. R. Roth .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 9 .
+Cloning , genetic characterization , and nucleotide sequence of the hemA - prfA operon of Salmonella typhimurium .
+A method for constructing single - copy lac fusions in Salmonella typhimurium and its application to the hemA - prfA operon .
+Transport of 5 - aminolevulinic acid by the dipeptide permease in Salmonella typhimurium .
+Elliott , T. , and J. R. Roth .
+Characterization of Tn10d - Cam : a transposition - defective Tn10 specifying chloramphenicol resistance .
+Fang , F. C. , S. J. Libby , N. A. Buchmeier , P. C. Loewen , J. Switala , J. Harwood , and D. G. Guiney .
+The alternative factor KatF ( RpoS ) regulates Salmonella virulence .
+Fellay , R. , J. Frey , and H. Krisch .
+Interposon mutagenesis of soil and water bacteria : a family of DNA fragments designed for in - vitro insertional mutagenesis of gram - negative bacteria .
+Fu , H. - A. , S. Iuchi , and E. C. C Lin .
+The requirement of ArcA and Fnr for peak expression of the cyd operon in Escherichia coli under microaerophilic conditions .
+Green , J. , and J. R. Guest .
+Regulation of transcription at the ndh promoter of Escherichia coli by FNR and novel factors .
+Control of electron flow in Escherichia coli : coordinated transcription of respiratory pathway genes .
+2342 ARCHER AND ELLIOTT J. BACTERIOL .
+Gutterson , N. I. , and D. E. Koshland , Jr. 1983 .
+Replacement and amplification of bacterial genes with sequences altered in - vitro .
+Studies on transformation of Escherichia coli with plasmids .
+Hughes , K. T. , and J. R. Roth .
+Directed formation of deletions and duplications using Mud ( Ap , lac ) .
+Hughes , K. T. , and J. R. Roth .
+Transitory cis - complementation : a method for providing transposition functions to defective transposons .
+Iuchi , S. , and E. C. C. Lin .
+Adaptation of Escherichia coli to redox environments by gene expression .
+Jaworowski , A. , G. Mayo , D. C. Shaw , H. D. Campbell , and I. G. Young .
+Characterization of the respiratory NADH dehydrogenase of Escherichia coli and reconstitution of NADH oxidase in ndh mutant membrane vesicles .
+Jobling , M. G. , and R. K. Holmes .
+Construction of vectors with the p15a replicon , kanamycin resistance , inducible lacZ and pUC18 or pUC19 multiple cloning sites .
+Keilty , S. , and M. Rosenberg .
+Constitutive function of a positively regulated promoter reveals new sequences essential for activity .
+Kumar , A. , R. A. Malloch , N. Fujita , D. A. Smillie , A. Ishihama , and R. S. Hayward .
+The minus 35 - recognition region of Escherichia coli sigma 70 is inessential for initiation of transcription at an `` extended minus 10 '' promoter .
+Linn , T. , and R. St. Pierre .
+Improved vector system for constructing transcriptional - fusions that ensures independent translation of lacZ .
+Lowry , O. H. , N. J. Rosebrough , A. L. Farr , and R. J. Randall .
+Protein measurement with the Folin phenol reagent .
+Matsushita , K. , and H. R. Kaback .
+D - Lactate oxidation and generation of the proton electrochemical gradient in membrane vesicles of Escherichia coli GR19N and in proteoliposomes reconstituted with purified D - lactate dehydrogenase and cytochrome o oxidase .
+Matsushita , K. , T. Ohnishi , and H. R. Kaback .
+NADH - ubiquinone oxidoreductases of the Escherichia coli aerobic respiratory chain .
+Experiments in molecular genetics .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 31 .
+Owen , P. , H. R. Kaback , and K. A. Graeme - Cook .
+Identification of antigen 19/27 as dihydrolipoyl dehydrogenase and its probable involvement in ubiquinone - mediated NADH - dependent transport phenomena in membrane vesicles of Escherichia coli .
+Owen , P. , G. J. Kaczorowski , and H. R. Kaback .
+Resolution and identification of iron - containing antigens in membrane vesicles from Escherichia coli .
+Prüß , B. M. , J. M. Nelms , C. Park , and A. J. Wolfe .
+Mutations in NADH : ubiquinone oxidoreductase of Escherichia coli affect growth on mixed amino - acids .
+Rudd , K. E. Personal communication .
+Russell , C. B. , D. S. Thaler , and F. W. Dahlquist .
+Chromosomal transformation of Escherichia coli recD strains with linearized plasmids .
+Phage P22 mutants with increased or decreased transductional abilities .
+Shevell , D. E. , A. M. Abou - Zamzam , B. Demple , and G. C. Walker .
+Construction of an Escherichia coli K - 12 ada deletion by gene replacement in a recD strain reveals a second methyltransferase that repairs alkylated DNA .
+Silhavy , T. J. , M. L. Berman , and L. W. Enquist .
+Experiments with gene fusions .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 39 .
+Simons , R. W. , F. Houman , and N. Kleckner .
+Improved single and multicopy lac - based cloning vectors for protein and operon fusions .
+Spiro , S. , R. E. Roberts , and J. R. Guest .
+FNR - dependent repression of the ndh gene of Escherichia coli and metal ion requirement for FNRregulated gene expression .
+Stewart , V. , and J. Parales , Jr. 1988 .
+Identification and expression of genes narL and narX of the nar ( nitrate reductase ) locus in Escherichia coli K - 12 .
+Strauch , K. L. , J. B. Lenk , B. L. Gamble , and C. G. Miller .
+Oxygen regulation in Salmonella typhimurium .
+The NADH : ubiquinone oxidoreductase ( complex I ) of respiratory chains .
+Way , J. C. , M. A. Davis , D. Morisato , D. E. Roberts , and N. Kleckner .
+New Tn10 derivatives for transposon mutagenesis and for construction of lacZ operon fusions by transposition .
+Weidner , U. , S. Geier , A. Ptock , T. Friedrich , H. Leif , and H. Weiss .
+The gene locus of the proton - translocating NADH : ubiquinone oxidoreductase in Escherichia coli : organization of the 14 genes and relationship between the derived proteins and subunits of mitochondrial complex I. J. Mol .
+Whitfield , H. J. , and G. Levine .
+Isolation and characterization of a mutant of Salmonella typhimurium deficient in a major deoxyribonucleic acid polymerase activity .
+Wilson , H. R. , C. D. Archer , J. Liu , and C. L. Turnbough , Jr. 1992 .
+Translational control of pyrC expression mediated by nucleotide - sensitive selection of transcriptional start sites in Escherichia coli .
+Young , I. G. , B. L. Rogers , H. D. Campbell , A. Jaworowski , and D. C. Shaw .
+Nucleotide sequence coding for the respiratory NADH dehydrogenase of Escherichia coli .
+Zambrano , M. M. , and R. Kolter .
+Escherichia coli mutants lacking NADH dehydrogenase I have a competitive disadvantage in stationary phase .

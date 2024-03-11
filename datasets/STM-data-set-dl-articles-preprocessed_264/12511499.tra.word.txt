@@ -1,0 +1,307 @@
+JOURNAL OF BACTERIOLOGY , Jan. 2003 , p. 525 -- 533 Vol .
+185 , No. 2 0021 - 9193/03 / $ 08.00 0 DOI : 10.1128 / JB .185.2.525 -- 533.2003 Transcription of the Salmonella Invasion Gene Activator , hilA , Requires HilD Activation in the Absence of Negative Regulators Jennifer D. Boddicker , 1 Boyd M. Knosp , 2 and Bradley D. Jones 1 * Department of Microbiology , University of Iowa School of Medicine , 1 and ITS Research Technologies , University of Iowa , 2 Iowa City , Iowa 52242 Salmonella enterica serovar Typhimurium causes human gastroenteritis and a systemic typhoid - like infection in mice .
+Infection is initiated by entry of the bacteria into intestinal epithelial cells and is mediated by a type III secretion system that is encoded by genes in Salmonella pathogenicity island 1 .
+The expression of invasion genes is tightly regulated by environmental conditions such as oxygen and osmolarity , as well as by many bacterial factors .
+The hilA gene encodes an OmpR/ToxR family transcriptional regulator that activates the expression of invasion genes in response to both environmental and genetic regulatory factors .
+HilD is an AraC/XylS regulator that has been postulated to act as a derepressor of hilA expression that promotes transcription by interfering with repressor binding at the hilA promoter .
+Our research group has identified four genes ( hilE , hha , pag , and ams ) that negatively affect hilA transcription .
+Since the postulated function of HilD at the hilA promoter is to counteract the effects of repressors , we examined this model by measuring hilA : : Tn5lacZY expression in strains containing negative regulator mutations in the presence or absence of functional HilD .
+Single negative regulator mutations caused significant derepression of hilA expression , and two or more negative regulator mutations led to very high level expression of hilA .
+However , in all strains tested , the absence of hilD resulted in low - level expression of hilA , suggesting that HilD is required for activation of hilA expression , whether or not negative regulators are present .
+We also observed that deletion of the HilD binding sites in the chromosomal hilA promoter severely decreased hilA expression .
+In addition , we found that a single point mutation at leucine 289 in the C - terminal domain of the subunit of RNA polymerase leads to very low levels of hilA : : Tn5lacZY expression , suggesting that HilD activates transcription of hilA by contacting and recruiting RNA polymerase to the hilA promoter .
+Salmonella enterica serovar Typhimurium is the causative agent of a self - limiting gastroenteritis in humans and a typhoid - like infection in mice that serves as a model of S. enterica serovar Typhi infections in humans .
+Salmonella infections are caused by the ingestion of contaminated food or water , after which the bacteria are able to colonize the small intestine and invade intestinal enterocytes and M cells of the follicle - associated epithelium of Peyer 's patches ( 9 , 30 , 41 ) .
+Invasion is facilitated by a type III secretion system that allows the bacteria to secrete effector proteins into the eukaryotic host cell .
+The cumulative action of secreted effectors leads to engulfment of bacteria into the host cell ( 19 ) .
+Subsequently , hostadapted strains of Salmonella gain access to underlying tissue to grow within the lymphatic system and spread to the liver and spleen , where unchecked growth leads to enteric fever and death ( 19 , 29 , 32 ) .
+More than 25 genes needed to encode the invasion machinery are located on the 40 - kb Salmonella pathogenicity island 1 ( SPI - 1 ) at centisome 63 on the chromosome of serovar Typhimurium ( reviewed in reference 12 ) .
+These genes encode transcriptional regulators , type III secretion system components , chaperones , and secreted effectors .
+Other secreted effector University of Iowa School of Medicine , 51 Newton Rd. , Iowa City , IA 52242 - 1109 .
+proteins ( SigD/SopB , SopE , and SopE2 ) are encoded elsewhere on the chromosome of Salmonella ( 6 , 21 , 22 , 24 , 45 , 49 ) .
+Salmonella has evolved a highly complex regulatory scheme to control the expression of invasion genes .
+Environmental conditions such as growth phase , pH , oxygen tension , and osmolarity regulate expression of hilA , an OmpR/ToxR type transcriptional regulator that is a central node in the regulatory network ( 4 , 5 ) .
+HilA binds to the prg and inv promoters on SPI - 1 to activate transcription of these operons ( 4 , 5 , 34 ) .
+Expression of invF leads to induction of the sic/sip operon , sigD/sopB , and sopE ( 4 , 5 , 11 , 13 , 34 , 47 ) .
+A mutation in hilA results in reduced expression of genes within the prg , inv , and sic/sip operons , as well as drastically reduced invasion of cultured epithelial cells , invasion of M cells , and mouse virulence ( 4 , 41 ) .
+Because of the crucial role HilA plays in invasion gene expression , much work has been done to study its regulation .
+Work from our laboratory has identified mutations in several genes , including hilE , pag , ams , and hha , that increase chromosomal hilA : : Tn5lacZY expression , suggesting that they encode negative regulators of hilA ( 16 , 17 ) .
+Mutations in hilE and pag fall within previously undescribed genes that are Salmonella specific and do not contain typical DNA - binding or protein interaction motifs .
+RNase E is encoded by ams , and Hha is a small histone - like protein that is able to bind to the hilA promoter ( 17 , 38 ) .
+Lon protease has also recently been described as a negative regulator of hilA and invasion gene ex - 525 526 BODDICKER ET AL. .
+Several groups have identified mutations in genes that result in decreased expression of hilA , indicating that csrAB , sirA/barA , pstS , fadD , envZ , fliZ , hilC/sirC/sprA , fis , and hilD have roles in hilA expression ( 1 , 2 , 27 , 36 , 42 , 48 ) .
+HilD , an AraC/XylS type transcriptional regulator , is a particularly important regulator of hilA expression , since a mutation in hilD results in a 14 - fold decrease in chromosomal hilA : : Tn5lacZY - 080 expression and a 53 - fold decrease in invasion of HEp - 2 cells ( 42 ) .
+It is believed that HilD directly regulates hilA expression since it has been shown to bind to hilA promoter sequences ( 40 , 43 ) .
+Currently , HilD is postulated to act as a derepressor of hilA expression , since HilD is needed to allow P hilA - lacZY expression from a plasmid reporter ( 42 ) .
+However , when sequences upstream of the 39 position in the hilA promoter , termed the upstream repressing sequence ( URS ) , were deleted from pLS31 , the hilA reporter plasmid , HilD was no longer required for high - level hilA - lacZY expression ( 42 ) .
+These data led to the proposal that HilD modulates hilA expression by counteracting the effect of a negative regulator ( s ) that may repress hilA by binding at the URS .
+According to this model , HilD would act as a derepressor and not as a typical activator of transcription , which is thought to be the common method of regulation by members of the AraC/XylS family ( 20 , 37 , 42 ) .
+In order to examine this model of HilD activity at the hilA promoter , we were interested in determining the effect of a hilD mutation in strains of Salmonella containing mutations in negative regulators of hilA .
+We reasoned that , if HilD is a derepressor of hilA expression , then deleting negative regulators of the hilA gene would increase hilA expression in the absence of HilD .
+Therefore , we created single , double , and triple mutations in the negative regulator elements hilE , hha , pag , and/or ams in a hilA - lacZY chromosomal reporter strain with or without functional HilD .
+Surprisingly , our results indicate that functional HilD is required for hilA expression even when known negative regulators are deleted .
+Additional experiments were performed that suggest further that HilD provides an essential activating function for hilA .
+MATERIALS AND METHODS Bacterial strains and growth - conditions .
+The bacterial strains and plasmids used in the present study are shown in Table 1 .
+Bacteria were routinely grown in Luria broth ( LB ; Gibco - BRL ) containing the appropriate antibiotics at the following concentrations : ampicillin , 100 g/ml ; kanamycin , 25 g/ml ; tetracycline , 25 g/ml ; and chloramphenicol , 20 g/ml .
+S. enterica serovar Typhimurium strains used in - galactosidase assays were grown under activating conditions for hilA expression by inoculating 3 l of a stationary - phase culture into 3 ml of LB ( 1 % NaCl ) and incubating the culture statically overnight at 37 °C until an optical density at 600 nm of 0.4 to 0.5 was reached , which corresponds to 4.5 10 8 CFU/ml ( 28 , 41 ) .
+Plasmid pJB5 was created by digesting pJB1 ( 48 ) with HindIII and NotI enzymes to remove the last 256 bp of the hilD coding region .
+The lacZY genes were removed from plasmid pGEM - TlacZY as a HindIII - NotI fragment and ligated into pJB1 at the HindIII and NotI sites , creating a singlecopy plasmid hilD - lacZY transcriptional - fusion .
+This plasmid contains 1,039 bp upstream of the putative translation initiation codon of hilD .
+Plasmid pJB3 was created by amplifying the hilD open reading frame including an upstream ribosome - binding site from Salmonella chromosomal DNA with primers BamHI3 hilD and NsiI5 hilD ( primer sequences are in Table 2 ) .
+The amplified product was digested with BamHI and NsiI and ligated into the single - copy cloning vector pZC320 ( 44 ) digested with BamHI and NsiI , such that hilD expression is driven by the lac promoter .
+Restriction digestions , DNA ligations , bacterial electroporations , and PCR amplifications were done under standard conditions and according to standard protocols .
+Creation of defined mutations .
+The hilD : : cam , hha , hilE , and URS mutations were created in the SL1344 chromosome or in pLS31 by using the procedure described by Datsenko and Wanner ( 14 ) .
+Briefly , PCR primers were synthesized with 50 bp of homology to the 5 and 3 ends of the hilD gene , the hha gene , the hilE gene , and sequences from positions 314 to 68 in the hilA promoter .
+Each upstream primer also contains priming site 2 for pKD3 or pKD4 , and each downstream primer contains priming site 1 for pKD3 or pKD4 ( 14 ) .
+The primers are named hilD5FRT , hilD3FRT , hha5W , hha3W , hilE5W , hilE3W , 314hilA , and 68hilA .
+PCR amplification was performed with plasmid pKD3 as the template for the hha , hilE , and hilD primers and plasmid pKD4 as the template for the URS primers to yield the expected fragments of 1.1 kb for pKD3 and 1.6 kb for pKD4 .
+The linear PCR fragments were purified and electroporated into SL1344 or into DH12S pLS31 carrying pKD46 , and mutants were selected on L - chloramphenicol plates when pKD3 was used as the template plasmid or on L - kanamycin plates when pKD4 was used as the template plasmid .
+Several chloramphenicol - resistant , ampicillin - sensitive ( Cam r Amp s ) or kanamycin - resistant , ampicillin - sensitive ( Kan r Amp s ) colonies were purified and found by PCR to have the transformed fragment recombined into the hilD gene , the hha gene , the hilE gene , or the sequence from positions 314 to 68 upstream of hilA .
+The Cam r gene within the hha or hilE chromosomal sequence or the Kan r gene within the URS chromosomal sequence was excised by introduction of plasmid pCP20 ( temperature - sensitive replicon , Amp r ) , which expresses the flp recombinase gene after thermal induction .
+Colonies that were Cam s Amp s or Kan s Amp s were shown to have excised the Cam r or Kan r gene by PCR , and therefore these colonies carry a complete deletion of the hha gene , the hilE gene , or the sequence from 314 to 68 upstream of hilA .
+Antibiotic - resistant gene insertions were moved between strains by transduction with P22 HT int as previously described ( 15 ) .
+Transductants were selected on LB agar containing the appropriate antibiotics and 10 mM EGTA to prevent reinfection by P22 .
+- Galactosidase assays were performed with bacterial cultures by the method of Miller ( 39 ) .
+Introduction of rpoA mutations into SL1344 .
+Unmarked rpoA151 , rpoA153 , rpoA154 , and rpoA155 point mutations were moved from LT2 into SL1344 by P22 - mediated transduction of the zhb - 1624 : : Tn10 marker that is 50 % linked to rpoA mutations ( Tn10 is a mini - Tet element that lacks the transposase sequences ) ( 33 ) .
+P22 lysates were made from several tetracycline - resistant ( Tet r ) SL1344 zhb - 1624 : : Tn10 colonies and used to transduce Tet r into LT2 pepT7 : : MudJ .
+The pepT7 : : MudJ reporter in LT2 has a red colony phenotype on MacConkey agar ; however , each rpoA mutation causes a decrease in pepT7 : : MudJ expression such that colonies appear white or light pink on Mac - Conkey agar .
+Lysates from SL1344 that gave rise to LT2 pepT7 : : MudJ transductants that were white or light pink on MacConkey agar ( 50 % ) were assumed to come from strains that harbored the rpoA mutation of interest .
+Subsequently , these SL1344 rpoA mutant strains were grown on Bochner media containing 24 g of fusaric acid/ml to select for the loss of Tet r associated with zhb - 1624 : : Tn10 ( 8 ) .
+The pepT7 : : MudJ reporter or the hilA : : Tn5lacZY reporter was then transduced into Tet s SL1344 strains containing each rpoA mutation .
+RESULTS Individual or multiple mutations in hilE , hha , pag , orams do not result in high - level expression of the hilA promoter in the absence of HilD .
+Since experiments by Schechter et al. suggested that HilD is not needed for expression of a P hilA - lacZY reporter plasmid when hilA promoter sequences upstream of position 39 are deleted , it was proposed that HilD is a derepressor needed to counteract the effects of negative regulators that utilize the URS to repress the hilA promoter ( 42 ) .
+To investigate this unique model of regulation by HilD , we determined the effect of a hilD mutation in strains of Salmonella that also contained mutations in the negative regulators Hha , HilE , Pag , and RNase E. Work in our laboratory indicates that Hha regulates the hilA promoter directly , due to its ability to bind to the hilA promoter upstream of position 39 ( 17 ) .
+It is unclear how HilE , Pag , or RNase E functions to cause negative regulation of the hilA promoter ; however , they may directly or indirectly modulate hilA expression by interactions at the pro- VOL .
+185 , 2003 HilD ACTIVATION OF hilA TRANSCRIPTION 527 TABLE 1 .
+Sequences of primers used in this work Sequence hilD5FRT ... 5 - GTAGGATACCAGTAAGGAACATTAAAATAACATCAACAAAGGGATAATATGGTGTAGGCTGGAGCTGCTTC - 3 hilD3FRT ... 5 - ATTTTAATAAAAATCTTTACTTAAGTGACAGATACAAAAAATGTTAATGGTCATATGAATATCCTCCTTA - 3 hha5W ... 5 - ATCCTGTTAGTTTGTCTTGTTAAAAATTATTACAATCATAGGTAGAATTTGTGTAGGCTGGAGCTGCTTC - 3 hha3W ... 5 - CGAGGAGGCAGATAACACCTGCGTGTTCTCTAAAAAGTAATGTAGCGTGACATATGAATATCCTCCTTA - 3 314hilA ... 5 - CGCTTGTTAGCTTTCTGCCAGGCATACCTCCTCTCTTCCTCCTGATATCGAGTGTAGGCTGGAGCTGCTTC - 3 68hilA ... 5 - TTTTTGGGGTGTAAATGCTGCTTATTATATCTTCATGGTTAATGGTCTGATCATATGAATATCCTCCTTA - 3 BamHI3 hilD ... 5 - CGCGGATCCTTTACTTAAGTGACAGATACA - 3 NsiI5 hilD ... 5 - CCAATGCATCAACAAAGGGATAATATGGAA - 3 hilE5W ... 5 - GTTATAGCAGATTGTCGGTATTTAATCTGGTATACAGAGACACCAACGAACATATGAATATCCTCCTTA - 3 hilE3W ... 5 - ATTTCGCTATACAGCATCGCCCACTGCGAGTCCGCAAGCTTGTTTTGTCCGTGTAGGCTGGAGCTGCTTC - 3 posed URS .
+We expected that if HilD acts as a derepressor to relieve the effects of negative regulators at the hilA promoter , then strains containing mutations in hilD and negative regulatory elements would have significantly higher hilA expression than would be observed in a strain with a mutation in hilD alone .
+In other words , strains carrying mutations in negative regulatory elements should express hilA in the absence of HilD .
+Figure 1A shows hilA : : Tn5lacZY expression in strains containing mutations in negative regulators alone or in combination with the hilD : : cam mutation .
+The wild - type strain expressed 421.5 Miller units of hilA : : Tn5lacZY - galactosidase activity when grown in activating high - osmolarity , low - oxygen conditions .
+The presence of individual hha , hilE , ams : : Tn5 , or pag : : Tn5 mutations in the strain increased hilA : : Tn5lacZY expression 3.6 - , 2.7 - , 2.9 - , or 6.0 - fold , respectively .
+However , when the hilD : : cam mutation was also present in the strains , individual mutations in negative regulators were unable to increase hilA : : Tn5lacZY expression beyond the level seen in a hilD mutant alone .
+Therefore , mutations in hilE , hha , pag , or ams are unable to relieve repression of the hilA promoter in the absence of a functional hilD gene .
+Since neither HilE , Hha , Pag , nor RNase E is solely responsible for repression of hilA : : Tn5lacZY in the absence of HilD , we considered the possibility that these negative regulators function cooperatively to repress hilA expression .
+We created mutants with double and triple mutations in negative regulators , with or without a hilD : : cam mutation , to determine whether mutations in two or more negative regulators could relieve repression of hilA in the absence of HilD .
+Double or triple mutations in hilE , hha , and ams have an additive effect , since each combination of mutations approximately doubled hilA : : Tn5lacZY expression compared to the effect of single mutations in negative regulators ( Fig. 1B ) .
+An exception is the hha ams double mutant , which exhibits only a 4.5 - fold increase in hilA : : Tn5lacZY expression , compared to increases of 3.6 - or 2.9 - fold for individual mutations in hha or ams , respectively .
+We were unable to create stable double or triple negative regulator mutants that contained pag : : Tn5 , since these strains lost the hilA : : Tn5lacZY reporter at a high rate .
+It is interesting that strains containing hilE hha double mutations , hilE ams double mutations , or hilE hha ams triple mutations all approach 2,500 Miller units of hilA : : Tn5lacZY expression , which is the same level reached by a strain containing a single mutation in pag ( Fig. 1A ) .
+Because of the large increases in hilA : : Tn5lacZY expression FIG. 1 .
+Single or multiple mutations in negative regulators do not relieve repression of hilA in the absence of hilD .
+( A ) Effect of single mutations in hha , hilE , ams , and pag on the expression of a serovar Typhimurium hilA : : Tn5lacZY reporter in the presence or absence of hilD .
+( B ) Effect of multiple repressor mutations on hilA : : Tn5lacZY chromosomal expression in the presence or absence of hilD .
+All bacterial cultures were incubated statically in LB with 1 % NaCl under oxygenlimiting conditions to induce expression of the hilA : : Tn5lacZY reporter .
+Data are representative of at least three independent experiments .
+185 , 2003 HilD ACTIVATION OF hilA TRANSCRIPTION 529 FIG. 2 .
+Effect of hha : : Tn5 , hilE : : Tn5 , ams : : Tn5 , orpag : : Tn5 mutations on P hilD - lacZY expression from pJB5 in serovar Typhimurium .
+- Galactosidase activity for the hilD - lacZY reporter was quantitated as a percentage of the - galactosidase activity of the reporter in wild - type Salmonella , which was set at 100 % .
+Bacterial cultures were incubated statically in LB with 1 % NaCl under oxygen - limiting conditions .
+Data are representative of at least three independent experiments .
+observed for double or triple negative regulator mutants , we expected that some combination of mutations would derepress the hilA promoter to the extent that HilD derepressing activity would be unnecessary .
+However , upon introduction of the hilD : : cam mutation into each of these strains , we found that hilA : : Tn5lacZY expression was always very low , similar to levels observed in a hilD mutant alone ( Fig. 1B ) .
+Interestingly , we also observed that we could easily introduce the pag : : Tn5 mutation into various strains when the hilD : : cam mutation was already present .
+Double or triple negative regulator mutants that included the pag : : Tn5 mutation expressed 40 Miller units of hilA : : Tn5lacZY expression when HilD was absent ( data not shown ) .
+These results seem inconsistent with the idea that HilD simply negates the function of negative regulators of hilA ( i.e. , derepression ) , since HilD is required to obtain wildtype levels of hilA expression even in the absence of several negative regulators .
+An alternative possibility is that the negative regulators modulate hilD expression , whereas another unidentified negative regulator is able to completely repress the hilA promoter in the absence of HilD , although this seems unlikely since many searches for negative regulators have been conducted .
+However , we examined this possibility by determining the effects of negative regulator mutations on P hilD - lacZY expression from plasmid pJB5 in Salmonella ( Fig. 2 ) .
+We found that mutations in hilE , hha , ams , orpag caused virtually no difference in hilD - lacZY expression , suggesting that these regulators do not function by altering the expression of hilD .
+Deletion of the hilA URS from the chromosome results in very low hilA : : Tn5lacZY expression .
+To further investigate the model of HilD regulation at the hilA promoter , we sought to determine the effect of a chromosomal URS deletion on hilA : : Tn5lacZY expression .
+We deleted a region of the native sequence of the hilA promoter from 314 to 68 in the hilA : : Tn5lacZY chromosomal reporter strain , leaving 84 bp of unrelated DNA in its place ( 14 ) .
+These sequences are the same as those deleted in a P hilA - lacZY plasmid reporter that resulted in high levels of HilD - independent hilA expression ( 42 ) .
+In contrast to the reported P hilA - lacZY plasmid results when URS was deleted from pLS31 , removal of chromosomal URSs resulted in very low hilA : : Tn5lacZY expression ( Fig. 3A ) .
+In fact , the expression levels were similar to those observed in the Salmonella strain lacking a functional hilD .
+Introduction of the hilD : : cam mutation into the URS mutant did not reduce hilA : : Tn5lacZY expression further .
+The high levels of hilA expression observed by Schechter et al. ( 42 ) when URSs were deleted from pLS31 are significantly different from the low levels observed when the URS was deleted from the chromosome .
+One explanation for the large difference may be that an artificial promoter was created within the plasmid , or hilA expression may have been artificially activated to drive expression of the plasmid reporter when upstream sequences were deleted .
+In that case , we would expect that the URS mutation , which leaves 84 bp of unrelated DNA in place of the URS from 68 to 314 , could prevent the formation of an artificial promoter when created in pLS31 , resulting in lower reporter expression .
+Therefore , we created the plasmid p URS , with the URS mutation ( this mutation is identical to that constructed in the Salmonella chromosome ) in pLS31 , to examine its effect on P hilA - lacZY expression in Salmonella .
+We found that P hilA - lacZY expression was 5 - fold lower from p URS than from pLS31 and that expression from p URS did not require the presence of HilD ( Fig. 3B ) .
+This may indicate that the 84 - bp insertion partially disrupts a cryptic artificial promoter or an artificial activation from the vector that has been brought closer to the hilA promoter .
+A less likely possibility is that low hilA expression from URS P hilA - lacZY is due to some negative regulatory effect of the small fragment of DNA that has been left in place of upstream sequences in the hilA promoter .
+The point mutation , L289F , in the CTD of RNAP causes a severe decrease in hilA expression .
+The data that we have presented here seem most consistent with the idea that HilD functions as an activator of hilA expression rather than as a derepressor .
+Many transcriptional activators , including various AraC/XylS regulators , are postulated to contact RNA polymerase at the C - terminal domain ( CTD ) to stabilize its interaction at promoter elements , facilitating closed complex formation and subsequent transcription ( 23 , 37 ) .
+Since HilD is a member of the AraC/XylS family of regulators , we thought it was possible that HilD contacts RNA polymerase at the CTD to activate transcription of hilA .
+Point mutations in serovar Typhimurium LT2 chromosomal rpoA have been isolated that result in amino - acid changes in the CTD of RNA polymerase .
+These mutations cause a decrease in the expression of the pepT gene and are believed to disrupt interactions between the CTD and the pepT activator , OxrA ( 33 ) .
+We transduced the rpoA point mutations rpoA151 , rpoA153 , rpoA154 , and rpoA155 by P22 transduction into the wild - type serovar Typhimurium strain SL1344 to determine their effects on the chromosomal hilA : : Tn5lacZY reporter ( Table 3 ) .
+Control experiments confirmed that each mutation caused the expected decrease in the expression of pepT7 : : MudJ in strain SL1344 , as had been pre - 530 BODDICKER ET AL. .
+Control experiments indicated , however , that hilD from plasmid pJB5 was not significantly reduced ( 1.3 - fold ) in the SL1344 rpoA155 strain compared to its expression in SL1344 containing wild - type rpoA ( 1,236.5 9.1 Miller units for SL1344 rpoA155 compared to 1,662.9 17.7 Miller units for wild - type SL1344 ) .
+In addition , we found that the effect of the rpoA155 mutation on hilA expression was not overcome by the expression of hilD from its own promoter or from the lac promoter on plasmids pJB1 and pJB3 , respectively ( Fig. 4 ) .
+Plasmids pJB1 and pJB3 induce expression of P hilA - lacZY from pLS31 in Escherichia coli , similar to the high levels of hilA expression observed by Schechter et al. ( 42 ) in E. coli due to the expression of plasmid encoded hilD .
+E. coli ( pLS31 ) containing parent plasmid pZC320 expresses 82.6 4.3 Miller units of hilA - lacZY - galactosidase activity , whereas E. coli ( pLS31 ) containing pJB1 or pJB3 expresses 573.4 5.4 or 1,093.9 48 Miller units of hilA - lacZY - galactosidase activity , respectively .
+A likely explanation for decreased hilA expression in the SL1344 rpoA155 strain is disruption of an interaction between HilD and the CTD of RNA polymerase that is critical for activation of hilA transcription .
+Deletion of upstream promoter sequences results in an unactivatable hilA promoter .
+( A ) Chromosomal or plasmid pLS31 sequences from positions 68 to 314 of the hilA promoter were replaced , by allelic exchange and deletion , with 84 bp of unrelated sequence to create a Salmonella hilA : : Tn5lacZY reporter strain lacking URS sequences .
+( B ) Expression of chromosomal hilA : : Tn5lacZY was examined in the parent strain EE658 and the EE658 derivatives BJ2565 ( URS ) and BJ2566 ( URS hilD : : cam ) .
+( C ) Effect of URS mutation created in plasmid pLS31 in Salmonella in the presence or absence of hilD .
+- Galactosidase expression was quantitated after growth in low - oxygen , high - osmolarity conditions .
+Data are representative of at least three independent experiments .
+viously reported for strain LT2 ( 33 ) .
+Interestingly , three of the mutations -- rpoA151 , rpoA153 , and rpoA154 -- caused 2 - fold increases in hilA expression that were dependent on the presence of HilD .
+However , the rpoA155 mutation , which changed leucine 289 to phenylalanine , caused a significant decrease in hilA expression , comparable to that observed in a strain containing a mutation in hilD alone .
+One explanation for these results is that the rpoA mutation In this study , we sought to better characterize hilA regulation by investigating the model of HilD derepression of the hilA promoter .
+HilD contains a C - terminal helix - turn - helix DNA - binding motif within a conserved 99 - amino - acid domain characteristic of AraC/XylS family members ( 42 ) .
+These transcriptional regulators are generally considered to activate transcription by direct contact and recruitment of RNA polymerase to their cognate promoters ( 7 , 26 , 37 , 51 ) .
+A current model for HilD function postulates a novel role for an AraC/XylS regulator by suggesting that HilD acts as a derepressor to counteract the effects of negative regulators that bind upstream of 39 on the hilA promoter .
+This model contrasts with more common functions of AraC/XylS regulators that act by contacting and recruiting RNA polymerase to activate transcription ( 42 ) .
+To experimentally examine the HilD derepression model , we determined the effect of single or multiple mutations in the negative regulator elements hha , hilE , pag , and ams on hilA expression , with or without functional HilD .
+We reasoned that mutations in negative regulators that may bind to the URS should reduce the need for HilD and allow higher hilA expression when HilD is absent .
+In contrast , we found that in every combination of negative regulator mutants examined , hilA expression was very low in the absence of HilD .
+The deletion of sequences upstream of 39 in a P hilA - lacZY plasmid reporter has been suggested to allow unregulated high - level expression of P hilA - lacZY in Salmonella and E. coli because sequences necessary for negative regulation of the promoter have been removed ( 42 ) .
+However , our lab has noted that P hilA - lacZY expression from a hilA promoter deletion plasmid reporter can be variable , since its expression was much lower in E. coli strains HB101 and GS162 than in Salmonella or E. coli BW21355 , the strain previously used by the Lee lab to demonstrate unregulated expression of the hilA promoter deletion plasmid ( 17 ) .
+To further investigate the HilD derepressor model , we determined the effect of deleting URSs on hilA expression from the chromosome of Salmonella .
+185 , 2003 HilD ACTIVATION OF hilA TRANSCRIPTION 531 TABLE 3 .
+Effect of rpoA point mutations on hilA : : Tn5lacZY expression Strain background ( mutation ) Mean - galactosidase activity ( Miller units ) SD with strain type a : pepT7 : : MudJ hilA : : Tn5lacZY hilD : : cam hilA : : Tn5lacZY Wild type 718 42 452.6 14.6 43.2 2.1 rpoA151 ( G311E ) 174.8 6.7 886.0 37.6 52.1 6.3 rpoA153 ( R317H ) 390.0 5.5 904.5 88.3 33.4 1.8 rpoA154 ( W321stop ) 342.6 16 834.9 41.8 43.8 0.16 rpoA155 ( L289F ) 439.3 48.2 42.5 0.69 ND a Effects of rpoA mutations on expression from pepT7 : : MudJ or hilA : : Tn5lacZY chromosomal reporters in Salmonella sp. strain SL1344 with or without functional HilD are shown .
+All experiments were repeated at least three times , and the results of one representative experiment are shown .
+The hilD : : cam mutation in the SL1344 hilA : : Tn5lacZY rpoA155 strain could not be constructed , and therefore expression of hilA : : Tn5lacZY in this strain could not be determined .
+of native hilA chromosomal promoter DNA from 68 to 314 did not result in high - level hilA : : Tn5lacZY expression , as predicted by the model .
+Rather , very low expression of hilA was observed in the URS strain , a level of expression that was similar to the low - level expression of hilA in a Salmonella strain containing a mutation in hilD .
+It is interesting that HilD binds in two regions of the hilA promoter , from positions 179 to 231 and from positions 49 to 101 , that are almost completely removed in the URS mutant strains ( 43 ) .
+Therefore , HilD binding sequences appear to be important for chromosomal hilA expression .
+It is unclear why plasmid hilA regulation does not reflect chromosomal hilA regulation when upstream promoter sequences are removed .
+One possibility is that upstream deletions in the plasmid hilA promoter place a cryptic 35 region FIG. 4 .
+Expression of hilD from the lac promoter on plasmid pJB3 does not increase hilA : : Tn5lacZY in SL1344 rpoA155 .
+Plasmid pJB1 or pJB3 or the parent vector , pZC320 , was introduced into SL1344 rpoA155 hilA : : Tn5lacZY , and - galactosidase expression was quantitated from each strain after growth under low - oxygen , high - osmolarity conditions .
+Plasmid pJB1 expresses hilD from its own promoter , whereas plasmid pJB3 expresses hilD from the vector lac promoter .
+Data are representative of at least three independent experiments performed in triplicate .
+present in the parent plasmid near a cryptic 10 sequence to create an active artificial promoter .
+Another possibility is that the promoter deletions bring an activator protein binding sequence within the parent plasmid into close proximity with the native hilA promoter so that interactions with RNA polymerase are stabilized to allow P hilA - lacZY expression .
+Although a number of possible explanations can be proposed to explain the plasmid results , we feel that it is important to recognize that experiments performed with chromosomal reporters are usually the most reliable and trusted for measuring gene expression .
+Since HilD is required for wild - type levels of chromosomal hilA expression in the absence of several negative regulators and since HilD - binding sequences present in the URS appear to be important for hilA expression , we hypothesized that HilD is an activator of hilA transcription .
+In support of this idea , we found that a mutation in the CTD of RNA polymerase that changes leucine 289 to phenylalanine results in reduced levels of hilA expression , a finding similar to that seen in a hilD : : cam strain of Salmonella .
+The CTD is thought to interact with many types of activators , including some of those within the AraC/XylS family , to allow transcription of various promoters ( 23 , 37 ) .
+In the CTD , the first alpha helix and the loop between the third and fourth alpha helices are predicted to be DNA - binding determinants at promoter UP elements .
+However , leucine 289 is predicted to fall on the solvent - exposed face of the third alpha helix of the CTD , such that it is unlikely to be involved in DNA binding and would be accessible for protein interactions ( Fig. 5A and B ) ( 18 , 25 ) .
+Residues in the third alpha helix , including leucine 289 , have been shown to be important for activation of the P2 late promoter , and allele - specific suppressor mutations have been identified in the Ogr activator that overcome rpoA mutations to allow P2 latepromoter expression ( 3 ) .
+Therefore , we propose that leucine 289 is important for a favorable interaction between the CTD and HilD to occur , activating transcription of hilA ( Fig. 5C and D ) .
+Recent unpublished data from our laboratory demonstrate that HilE is able to interact with HilD , suggesting that HilE repression of hilA may occur by inhibiting the ability of HilD to bind and recruit RNA polymerase to the hilA promoter .
+It is possible that leucine 289 of the CTD is responsible for mediating an interaction with an activator other than HilD at the hilA promoter , but we find this idea unlikely for several reasons .
+First , our data suggest that HilD is critical for activation of hilA expression .
+In addition , HilD binds to the hilA promoter in an area from position 49 to 101 , which would 532 BODDICKER ET AL. .
+Structural model of possible HilD interaction with the CTD on promoter DNA .
+( A ) Ribbon structure of the CTD of RNA polymerase with leucine 289 highlighted and each alpha helix labeled as H1 , H2 , H3 , or H4 ( 25 ) .
+( B ) Leucine 289 is predicted to be surface exposed on the CTD of RNA polymerase .
+( C ) Structural model of the possible interaction of HilD and leucine 289 of the CTD of RNA polymerase , with DNA in the 5 - to - 3 direction .
+( D ) A different view of the model presented in panel C , showing the 3 - to - 5 orientation of the DNA .
+Modeling was done by using Sybyl software ( version 6.7 ; Tripos Associate , St. Louis , Mo. ) on an O2 workstation ( SGI , Mountain View , Calif. ) .
+Sybyl - Molcad was used to create panel B , which shows the solvent - exposed Connolly surface , by using the Connolly program to calculate the solvent - accessible surface of the molecule given the coordinates of its atoms ( 10 ) .
+The Sybyl - Composer model was used to perform homology modeling for panels C and D to build structures for the CTD of HilD , from amino - acids 211 to 309 , based on the crystal structure of Rob , an AraC/XylS regulator that is homologous to HilD in its helix - turn - helix DNA - binding domain ( 31 ) .
+allow it to function as a typical class I transcriptional activator ( 23 , 37 ) .
+This makes HilD an excellent candidate for contacting the CTD to recruit RNA polymerase to the hilA promoter .
+Several other positive regulatory elements of hilA expression have been identified .
+However , overexpression of HilD has been shown to overcome the effects of mutations in the positive regulators fis , fadD , fliZ , pstS , sirA , and envZ , suggesting that HilD is the positive regulator responsible for direct activation of the hilA promoter ( 35 , 48 ) .
+Interestingly , although overexpression of HilD is able to overcome the effects of mutations in other positive regulators of hilA , it does not overcome the effect of the L289F mutation in rpoA .
+These data suggest that the L289F mutation does not disrupt interaction with an activator of hilA expression whose loss can be compensated for by overexpression of HilD .
+Taken together , the data presented here indicate that HilD is an activator of hilA transcription and may function by contacting and recruiting the CTD of RNA polymerase to the hilA promoter .
+We thank Charles Miller for the generous gift of the S. enterica serovar Typhimurium rpoA point mutant strains .
+J.D.B. was supported by NIH predoctoral training grant 5T32 AI07511 .
+This work was supported by NIH grant AI28268 to B.D.J. 1 .
+Altier , C. , M. Suyemoto , and S. D. Lawhon .
+Regulation of Salmonella enterica serovar Typhimurium invasion genes by csrA .
+Altier , C. , M. Suyemoto , A. I. Ruiz , K. D. Burnham , and R. Maurer .
+Characterization of two novel regulatory genes affecting Salmonella invasion gene expression .
+Ayers , D. J. , M. G. Sunshine , E. W. Six , and G. E. Christie .
+Mutations affecting two adjacent amino - acid - residues in the alpha subunit of RNA polymerase block transcriptional activation by the bacteriophage P2 Ogr protein .
+Bajaj , V. , C. Hwang , and C. A. Lee .
+hilA is a novel ompR/toxR family member that activates the expression of Salmonella typhimurium invasion genes .
+Bajaj , V. , R. L. Lucas , C. Hwang , and C. A. Lee .
+Co - ordinate regulation of Salmonella typhimurium invasion genes by environmental and regulatory factors is mediated by control of hilA expression .
+185 , 2003 HilD ACTIVATION OF hilA TRANSCRIPTION 533 6 .
+Bakshi , C. S. , V. P. Singh , M. W. Wood , P. W. Jones , T. S. Wallis , and E. E. Galyov .
+Identification of SopE2 , a Salmonella secreted protein which is highly homologous to SopE and involved in bacterial invasion of epithelial cells .
+Bhende , P. M. , and S. M. Egan .
+Genetic evidence that transcription activation by RhaS involves specific amino - acid contacts with sigma - 70 .
+Bochner , B. R. , H. C. Huang , G. L. Schieven , and B. N. Ames .
+Positive selection for loss of tetracycline resistance .
+Clark , M. A. , M. A. Jepson , N. L. Simmons , and B. H. Hirst .
+Preferential interaction of Salmonella typhimurium with mouse Peyer 's patch M cells .
+Solvent - accessible surfaces of proteins and nucleic acids .
+Darwin , K. H. , and V. L. Miller .
+InvF is required for expression of genes encoding proteins secreted by the SPI1 type III secretion apparatus in Salmonella typhimurium .
+Darwin , K. H. , and V. L. Miller .
+Molecular basis of the interaction of Salmonella with the intestinal mucosa .
+Darwin , K. H. , and V. L. Miller .
+Type III secretion chaperone - dependent regulation : activation of virulence genes by SicA and InvF in Salmonella typhimurium .
+Datsenko , K. A. , and B. L. Wanner .
+One - step inactivation of chromosomal genes in Escherichia coli K - 12 using PCR products .
+Davis , R. W. , D. Botstein , and J. R. Roth .
+Advanced bacterial genetics : a manual for genetic engineering .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 16 .
+Fahlen , T. F. , N. Mathur , and B. D. Jones .
+Identification and characterization of mutants with increased expression of hilA , the invasion gene transcriptional activator of Salmonella typhimurium .
+Fahlen , T. F. , R. W. Wilson , J. D. Boddicker , and B. D. Jones .
+Hha is a negative modulator of hilA transcription , the Salmonella typhimurium invasion gene transcriptional activator .
+Gaal , T. , W. Ross , E. E. Blatter , H. Tang , X. Jia , V. V. Krishnan , M. N. Assa , R. H. Ebright , and R. L. Gourse .
+DNA - binding determinants of the alpha subunit of RNA polymerase : novel DNA - binding domain architecture .
+Galán , J. E. , and C. Ginocchio .
+The molecular genetic bases of Salmonella entry into mammalian cells .
+Gallegos , M. T. , R. Schleif , A. Bairoch , K. Hofmann , and J. L. Ramos .
+Arac/XylS family of transcriptional regulators .
+Galyov , E. E. , M. W. Wood , R. Rosqvist , P. B. Mullan , P. R. Watson , S. Hedges , and T. S. Wallis .
+A secreted effector protein of Salmonella dublin is translocated into eukaryotic cells and mediates inflammation and fluid secretion in infected ileal mucosa .
+Hardt , W. D. , H. Urlaub , and J. E. Galán .
+A substrate of the centisome 63 type III protein secretion system of Salmonella typhimurium is encoded by a cryptic bacteriophage .
+Hochschild , A. , and S. L. Dove .
+Protein - protein contacts that activate and repress prokaryotic transcription .
+Hong , K. H. , and V. L. Miller .
+Identification of a novel Salmonella invasion locus homologous to Shigella ipgDE .
+Jeon , Y. H. , T. Negishi , M. Shirakawa , T. Yamazaki , N. Fujita , A. Ishihama , and Y. Kyogoku .
+Solution structure of the activator contact domain of the RNA polymerase alpha subunit .
+Johnson , C. M. , and R. F. Schleif .
+Cooperative action of the catabolite activator protein and AraC in - vitro at the araFGH promoter .
+Johnston , C. , D. A. Pegues , C. J. Hueck , A. Lee , and S. I. Miller .
+Transcriptional activation of Salmonella typhimurium invasion genes by a member of the phosphorylated response - regulator superfamily .
+Jones , B. D. , and S. Falkow .
+Identification and characterization of a Salmonella typhimurium oxygen - regulated gene required for bacterial internalization .
+Jones , B. D. , and S. Falkow .
+Typhoid fever : host immune response and Salmonella virulence determinants .
+Jones , B. D. , N. Ghori , and S. Falkow .
+Salmonella typhimurium initiates murine infection by penetrating and destroying the specialized epithelial M cells of the Peyer 's patches .
+Kwon , H. J. , M. H. Bennik , B. Demple , and T. Ellenberger .
+Crystal structure of the Escherichia coli Rob transcription factor in complex with DNA .
+Levine , M. M. , J. Galen , E. Barry , F. Noriega , S. Chatfield , M. Sztein , G. Dougan , and C. Tacket .
+Attenuated Salmonella as live oral vaccines against typhoid fever and as live vectors .
+Lombardo , M. J. , D. Bagga , and C. G. Miller .
+Mutations in rpoA affect expression of anaerobically regulated genes in Salmonella typhimurium .
+Lostroh , C. P. , and C. A. Lee .
+The HilA box and sequences outside it determine the magnitude of HilA - dependent activation of P prgH from Salmonella pathogenicity island 1 .
+Lucas , R. L. , and C. A. Lee .
+Roles of hilC and hilD in regulation of hilA expression in Salmonella enterica serovar Typhimurium .
+Lucas , R. L. , C. P. Lostroh , C. C. DiRusso , M. P. Spector , B. L. Wanner , and C. A. Lee .
+Multiple factors independently regulate hilA and invasion gene expression in Salmonella enterica serovar Typhimurium .
+Martin , R. G. , and J. L. Rosner .
+The AraC transcriptional activators .
+McDowall , K. J. , and S. N. Cohen .
+The N - terminal domain of the rne gene product has RNase E activity and is non - overlapping with the argininerich RNA - binding site .
+Experiments in molecular genetics .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 40 .
+Olekhnovich , I. N. , and R. J. Kadner .
+DNA - binding activities of the HilC and HilD virulence regulatory proteins of Salmonella enterica serovar Typhimurium .
+Penheiter , K. L. , N. Mathur , D. Giles , T. Fahlen , and B. D. Jones .
+Non - invasive Salmonella typhimurium mutants are avirulent because of an inability to enter and destroy M cells of ileal Peyer 's patches .
+Schechter , L. M. , S. M. Damrauer , and C. A. Lee .
+Two AraC/XylS family members can independently counteract the effect of repressing sequences upstream of the hilA promoter .
+Schechter , L. M. , and C. A. Lee .
+AraC/XylS family members , HilC and HilD , directly bind and derepress the Salmonella typhimurium hilA promoter .
+Shi , J. , and D. P. Biek .
+A versatile low - copy - number cloning vector derived from plasmid F. Gene 164:55 -- 58 .
+Stender , S. , A. Friebel , S. Linder , M. Rohde , S. Mirold , and W. D. Hardt .
+Identification of SopE2 from Salmonella typhimurium , a conserved guanine nucleotide exchange factor for Cdc42 of the host cell .
+Takaya , A. , T. Tomoyasu , A. Tokumitsu , M. Morioka , and T. Yamamoto .
+The ATP - dependent Lon protease of Salmonella enterica serovar Typhimurium regulates invasion and expression of genes carried on Salmonella pathogenicity island 1 .
+Tucker , S. C. , and J. E. Galán .
+Complex function for SicA , a Salmonella enterica serovar Typhimurium type III secretion - associated chaperone .
+Wilson , R. L. , S. J. Libby , A. M. Freet , J. D. Boddicker , T. F. Fahlen , and B. D. Jones .
+Fis , a DNA nucleoid - associated protein , is involved in Salmonella typhimurium SPI - 1 invasion gene expression .
+Wood , M. W. , R. Rosqvist , P. B. Mullan , M. H. Edwards , and E. E. Galyov .
+SopE , a secreted protein of Salmonella dublin , is translocated into the target eukaryotic cell via a sip - dependent mechanism and promotes bacterial entry .
+Wray , C. , and W. J. Sojka .
+Experimental Salmonella typhimurium in calves .
+Zhang , X. , T. Reeder , and R. Schleif .
+Transcription activation parameters at ara pBAD .

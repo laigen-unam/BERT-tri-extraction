@@ -1,0 +1,200 @@
+JOURNAL OF BACrERIOLOGY , Sept. 1993 , p. 5862 - 5866 0021 - 9193/93 / 185862 - 05 $ 02.00 / 0 Vol .
+175 , No. 18 Regulation of the Salmonella typhimurium metF Gene by the MetR Protein JOHN M. COWAN , MARK L. URBANOWSKI , MICHAL TALMI , AND GEORGE V. STAUFFER * Department of Microbiology , The University of Iowa , Iowa City , Iowa 52242 The metF gene in Escherichia coli and Salmonella typhimurium is under negative transcriptional control by the MetJ repressor .
+Expression of an S. typhimurium metF - lacZ gene fusion is repressed up to 10 - fold by methionine addition to the growth medium in E. coli hosts encoding wild - type MetJ repressor ; this repression is not seen in metJ mutants .
+metR mutations which eliminate the MetR activator protein result in two - to threefold - more - severe repression by the MetJ repressor .
+In a metJ metR double mutant , however , the level of metF - lacZ expression is the same as in a metj mutant , suggesting that MetR antagonizes MetJ - mediated methionine repression of the metF promoter .
+A DNA footprint analysis showed that MetR binds to a DNA fragment carrying the metF promoter and protects two separate regions from DNase I digestion : a 46 - bp region from position -50 to -95 upstream of the transcription initiation site and a 24 - bp region from about position +62 to +85 downstream of the transcription initiation site and within the metF structural gene .
+Nucleotide changes in each of the MetR - binding sites away from the consensus sequence disrupt MetR - mediated regulation of the metF - lacZ fusion .
+The folate branch of the methionine pathway in Salmonella typhimunum includes the metE , metH , and metF genes .
+The metF gene product ( 5,10 - methylenetetrahydrofolate reductase ) is involved in the biosynthesis of 5 - methyltetrahydrofolate from 5,10 - methylenetetrahydrofolate ( 20 ) .
+5 - Methyltetrahydrofolate serves as a substrate for the methylation of homocysteine to form methionine by either the metE or the metH gene product ( 20 ) .
+The MetJ repressor negatively regulates the metF gene , as well as all other met biosynthetic genes except metH ( 20 ) .
+The MetJ repressor is believed to function as a dimer , binding to the 8 - bp recognition sequence 5 ' - AGACGTCT - 3 ' ( 1 , 19 ) .
+Five degenerate forms of this 8 - bp sequence occur as tandem repeats in the metF promoter region ( 24 , 25 ) .
+In addition to MetJ - mediated repression , two genes in the folate branch of the methionine pathway , metE and metH , are positively regulated by the metR gene product ( 29 ) .
+The MetR protein belongs to the lysR family of bacterial activator proteins ( 9 ) .
+DNase - I-protection experiments have shown that MetR binds to the metE metR intergenic promoter region ( 3 , 28 ) and also to the metA ( 15 ) and metH ( 2 ) control regions .
+The DNA sequence of the S. typhimunum metF gene has been determined ( 24 ) .
+A computer search of the DNA sequence identified two possible MetR - binding sites in the metF promoter region and a third possible binding site in the structural gene ( Fig. 1 ) .
+We show here that the MetR protein is involved in metF regulation and that all three putative MetR - binding sites are required for MetR - mediated regulation of the metF gene .
+MATERIALS AND METHODS Strains , plasmids , and phages .
+All bacterial strains used in this study were derived from Escherichia coli K - 12 and are described in Table 1 .
+Plasmid pMC1403 ( 4 ) , a lac fusion * 5862 vector , has been described previously , as have bacteriophages M13mpl8 ( 30 ) and Xgt2 ( 18 ) .
+Plasmid pGS174 carries the S. typhimurium metF gene ( 24 ) , and pFlac carries a fusion of the S. typhimunum metF control region and the first 12 amino - acid codons of the structural gene to the eighth codon of lacZ ( 25 ) .
+Luria agar , Luria broth , and glucose minimal - medium ( GM ) have been described previously ( 23 ) .
+Supplements were added at the following concentrations : amino - acids , 50 , ug/ml ; vitamin - B1 , 1 , ug/ml ; ampicillin , 150 pug/ml ; and 5 - bromo - 4-chloro - 3-indolyl - P-Dgalactopyranoside ( X - Gal ) , 40 , ug/ml .
+, B - Galactosidase activity was assayed as described by Miller ( 17 ) , using the chloroform - sodium dodecyl sulfate lysis procedure .
+Results are the averages of two or more assays in which each sample was measured in triplicate .
+Restriction enzyme digestions , ligations , plasmid and phage DNA isolations , and DNA fragment isolations were done as described by Maniatis et al. ( 14 ) .
+Transformations were done by using polyethylene glycol - and dimethyl sulfoxide - prepared competent cells ( 5 ) .
+A 746 - bp EcoRI - BamHI fragment carrying the metF control region was isolated from plasmid pFlac ( 25 ) and was cloned into the EcoRI and BamHI sites of phage M13mpl8 , creating phage M13mpl8 - Flac .
+Point mutations were introduced into the metF control region by the oligonucleotide - directed mutagenesis procedure of Kunkle ( 12 ) as modified by Byerly et al. ( 2 ) .
+Changes were made that were shown previously to prevent MetR binding to the metH control region ( 2 ) .
+The mutations were verified by DNA sequence analysis , and then the EcoRI - BamHI fragments carrying the desired mutations were recloned into plasmid pMC1403 , creating mutant derivatives of the original pFlac fusion plasmid .
+Each mutant metF - lacZ fusion and the lacY and lacA genes were cloned onto bacteriophage Xgt2 , and appropriate strains were lysogenized with the metF - lacZ fusion phage AFlac or mutant derivatives , as previously described ( 26 ) .
+175 , 1993 MetR - MEDIATED REGULATION OF metF 5863 Site 1 Site 2 5 , - CGTTCAGTGTCGCGGCGTGACATGAAGAAAATTCAACTTTGCTGAATATTCCTCATTCTTTGGCGTGATT -85 A -74 G -55 T rJil n r - J2 m rn J3 m - J4 m J5 m TTTCAGTTGACGTCCTTCTGCTTTTCCGTCATTTTTACATCTGGACGTCTAAACGGATAGATGTTTACAACAC -35 -10 +1 Site 3 IATT AITTGAG GCTT GACC - G ACT AACAAATAATAACATGCGATTGATGAGGTAAGGTATGAGCTTTTTTCACGCCAACCAGCGGGAAGCCCTG - 3 +83 G FIG. 1 .
+Nucleotide sequence of the metF control region .
+The transcription start site ( +1 ) and the -10 and -35 promoter sequences are underlined ( 24 ) .
+The ATG translation initiation codon for metF begins at base +70 , within MetR - binding site 3 .
+The sequence ends at codon 12 of the structural gene , the fusion point with lacZ in plasmid pFlac .
+The solid bars indicate MetR - binding sites , with consensus bases indicated in boldface type ( 18 ) .
+The five degenerate forms of the 8 - bp MetJ - binding sequence are indicated as Jl through J5 .
+Dots above the sequence indicated bases homologous to the MetJ consensus binding sequence ( 1 ) .
+Brackets above the MetR - binding sites indicate sequences protected by MetR from DNase I digestion ( see Fig. 3 ) .
+-- * indicates that DNase I cleavage in the unprotected lane was nonrandom and the precise endpoints of protection are not discernible .
+The nucleotide changes constructed by site - directed mutagenesis ( see Materials and Methods ) in the MetR - binding sites away from consensus are indicated below the sequence .
+The allele designations indicate both the base changes and their positions in the DNA sequence relative to the transcription initiation site for metF ( +1 ) .
+I tested for a single copy of the A phage by infection with phage XcI9Oc17 ( 22 ) and then tested for the effects of the mutations on metF - lacZ expression .
+The mobility - shift assay was based on the methods developed by Fried and Crothers ( 6 ) and by Gamer and Revzin ( 7 ) .
+A double - stranded 467 - bp BstEII - Hinfl fragment carrying the metF control region was isolated from plasmid pGS174 ( 24 ) and was - 32p labeled at the Hinfl site .
+The labeled DNA fragment was added to 20 - , ul reaction mixtures containing lx DNA - binding buffer ( 10 mM Tris hydrochloride [ pH 7.5 ] , 50 mM KCI , 0.5 mM EDTA , 2.5 % glycerol , 1 mM dithiothreitol ) plus 125 p , g of bovine serum albumin ( BSA ) per ml .
+The reaction mixtures were incubated at 37 °C for 5 min , and then 2 , ul of purified MetR protein ( 2 ) was added to the reaction mixtures as indicated in Fig. 2 and incubation was continued for an additional 15 min .
+One microliter of loading - dye mixture ( 0.1 % xylene cyanol and 50 % glycerol in H2O ) was added to each reaction mixture , and the samples were immediately loaded onto a 5 % polyacrylamide - glycine gel and run at 12 V/cm for 3 h. DNase - I-protection assay .
+The DNase - I-protection assay was based on the method of Schmitz and Galas ( 21 ) .
+A 746 - bp EcoRI - BamHI fragment carrying the metF control region from plasmid pFlac ( 25 ) was - 32p labeled at the BamHI site of the template strand .
+The labeled DNA fragment was TABLE 1 .
+E. coli strains used in this investigation Straina Genotype GS243 ... AmetE : : Mu pheA905 thi AlacUl69 araD129 rspL GS244 ... AmetR : : Mu pheA905 thi AlacUl69 araD129 rspL GS597 ... metJ97 pheA905 thi AlacUl69 araD129 rspL GS748 ... AmetR : : Mu metJ97 pheA905 thi AlacUl69 araDl29 rspL BW313 .
+HfrKL16 PO/45 lysA ( 61 - 62 ) dut - 1 ung - 1 thi - 1 relAl JM107 ... endA1 gyrA96 thi hisR17 supE44 relAl A - A ( lacproAB ) ( F ' traD36 proAB lacIq lacZAM15 ) a Strains GS243 , GS244 , GS597 , and GS748 were constructed in this laboratory .
+Strains BW313 and JM107 were obtained from M. Feiss .
+added to 160 - pA reaction mixtures containing I x DNAbinding buffer plus 125 , ug of BSA per ml .
+The reaction mixtures were preincubated at 37 °C for 5 min , and then , 16 pul of MetR protein was added to the reaction mixtures as indicated in Fig. 3 and incubation was continued for an additional 15 min .
+An 8 - pl portion of a solution of DNase I ( 2.5 , ug/ml disolved in 20 mM sodium acetate [ pH 7 ] plus - 32 mM CaCl2 ) was added , and incubation was continued at 37 °C for 30 s. Reactions were stopped by adding 33 pul of stop solution ( 3 M ammonium acetate , 15 , ug of sonicated calf thymus DNA per ml , 0.25 M EDTA ) .
+Samples were precipitated , resuspended in loading buffer , and loaded onto a 5 % polyacrylamide - urea sequencing gel alongside the A+G and C+T sequencing reactions ( 16 ) of the same DNA fragment .
+RESULTS MetR - binding site analysis .
+A computer search of the S. typhimurium metF sequence using the MetR - binding consensus sequence 5 ' - TGAANNT/ANNITCA -3 ' ( 27 , 28 ) identified three possible MetR - binding sites ( Fig. 1 ) .
+Two are centered 80 and 60 bp upstream from the +1 transcription initiation site , and the third is centered 77 bp downstream of the +1 transcription initiation site .
+To determine whether the MetR protein binds to the metF control region , we used a gel mobility - shift assay .
+A 467 - bp BstEII - Hinfl DNA fragment carrying the metF control region was isolated from plasmid pGS174 , 32p labeled at the Hinfl end , and used in the gel mobility - shift assay ( see Materials and Methods ) .
+The labeled DNA fragment was shifted to three positions of slower mobility as the MetR concentration was increased from 0.25 to 1 , ug/ml ( Fig. 2 ) .
+The same concentrations of MetR did not shift a control fragment that did not contain a MetR - binding site ( data not shown ) .
+These results suggest that all three MetR - binding sites identified by the computer search might bind the MetR protein .
+A DNase - I-protection assay was used to show where the MetR protein specifically binds in the metF control region ( see Materials and Methods ) .
+At a low concentration ( 0.25 5864 COWAN ET AL. 1 2 3 4 TABLE 2 .
+f - Galactosidase levels in E. coli strains carrying a wild - type metF - lacZ fusion li - Galactosidase activity ' with : Relevant genotype gntp D - Methionine L - Methionine FIG. 2 .
+Mobility shift assay of the 467 - bp BstEII - Hinfl fragment containing the metF control region .
+Lane 1 , no MetR protein ; lanes 2 through 4 , 0.25 , 0.5 , and 1 , ug of MetR protein per ml , respectively .
+The arrow indicates the position of the unbound DNA fragment .
+, ug/ml ) , the MetR protein protected a region from approximately position -68 to -95 upstream of the transcription initiation site ( site 1 in Fig. 3 ) .
+At a higher concentration ( 1 , ug/ml ) , MetR protein also protected two additional regions , from approximately position -50 to -67 upstream of +1 ( site 2 in Fig. 3 ) and from about +62 to +85 downstream of 1 2 1 9 I A 5 6 7 FIG. 3 .
+DNAse I protection assay of the 746 - bp BamHI - EcoRI fragment containing the metF control region .
+The DNA fragment was - 32p labeled at the BamHI site of the template strand .
+The A+G ( lanes 1 ) and C+T ( lanes 2 ) DNA - sequencing reactions were done according to the protocol of Maxam and Gilbert ( 16 ) .
+Lanes 3 , no MetR protein ; lanes 4 through 7 , 0.25 , 0.5 , 1 , and 2 , ug of MetR protein per ml , respectively .
+The two panels show different running times of the samples to optimize the positions of the DNase I - protected regions in the gel .
+The bars labeled 1 , 2 , and 3 indicate the three regions protected by MetR from DNase I digestion and are shown in Fig. 1 .
+243XFlac metE 1,129 178 244XFlac metR 565 66 597XFlac metJ 2,366 2,322 748XFlac metJ metR 2,137 2,177 a Units of activity are nanomoles of o - nitrophenol produced per minute per optical density unit at 600 nm and 28 °C .
+The growth medium was GM plus phenylalanine , vitamin - B1 , and either D - methionine or L - methionine .
+It should be noted that the DNase I control lane ( lane 3 ) in Fig. 3 is overloaded .
+This is especially apparent for the shorter run to optimize site 3 in the autoradiogram .
+However , since lanes 4 and 5 ( 0.25 and 0.5 , ug/ml , respectively ) look identical for both sites 2 and 3 , the results show that MetR protects these sites only at higher concentrations of MetR ( 1 and 2 , ug/ml ) .
+Regulation of the metF - lacZ fusion .
+A metF - lacZ gene fusion constructed previously ( 25 ) and carried on phage Xgt2 ( designated AFlac ) was used to reexamine the effect of MetR on the regulation of the metF gene .
+This phage was used to lysogenize appropriate strains , the lysogens were grown in GM supplemented with either D - methionine ( derepressing condition ) or L - methionine ( repressing condition ) , and , B - galactosidase levels were measured .
+D - Methionine is converted to L - methionine by the cell and serves as a growth rate - limiting source of methionine ( 8 ) .
+In the metR mutant strain GS244 , expression of the metF - lacZ fusion with D - methionine was reduced twofold compared with that in the metE control strain GS243 ( Table 2 ) .
+With L - methionine , however , metF - lacZ expression in the metR mutant was reduced 2.7 - fold compared with that in the metE control strain .
+These results suggest that the role of MetR becomes more important as MetJ - mediated repression is increased .
+This hypothesis would predict that in a metJ mutant , in which all MetJ - mediated repression is abolished , MetR would have no function in metF - lacZ expression .
+To test this hypothesis , strains GS597 ( metl ) and GS748 ( metJ metR ) were lysogenized with XFlac , the lysogens were grown in GM supplemented with D - methionine or L - methionine , and 1 - galactosidase levels were measured .
+In lysogen 748XFlac , the level of metF - lacZ expression was essentially the same as in lysogen 597AFlac under both growth - conditions ( Table 2 ) .
+Effects of MetR - binding site mutations on metF - lacZ expression .
+Mutations that changed each of the three MetR - binding sites individually away from the MetR consensus binding sequence were introduced into the metF control region ( see Materials and Methods and Fig. 1 ) .
+Two base pairs were changed in site 1 , since it has a higher affinity for MetR than sites 2 and 3 ( Fig. 3 ) .
+The mutated metF - lacZ - fusions were subcloned into phage Xgt2 , and the phage was used to lysogenize strains GS748 ( metJ metR ) , GS243 ( metE ) , and GS244 ( metR ) .
+The lysogens were grown in GM supplemented with D - methionine or L - methionine , and 13 - galactosidase levels were determined .
+In strain GS243 ( metE ) , the mutant AFlac lysogens had about twofold - lower 1 - galactosidase levels than the wild - type XFlac lysogen when grown in the presence of D - methionine ( derepressing condition ) and about threefold - lower 1 - galactosidase levels than the wildtype lysogen when grown in the presence of L - methionine VOL .
+P - Galactosidase levels in E. coli strains carrying mutant metF - lacZ - fusions , B - Galactosidase activity ' with : Relevant Lysogen genotype D - Methionine L - Methionine 243XFlac metE 1,129 178 243XFlac - 85A - 74G metE 460 48 243XFlac - 55T metE 471 69 243AFlac +83 G metE 571 56 244XFlac metR 565 66 244XFlac - 85A - 74G metR 583 44 244AFlac - 55T metR 470 60 244AFlac +83 G metR 724 82 748XFlac metJ metR 2,137 2,177 748XFlac - 85A - 74G metJ metR 1,957 2,113 748XFlac - 55T met !
+metR 2,130 2,198 748XFlac +83 G metJ metR 3,026 2,318 a Units of activity are nanomoles of o - nitrophenol produced per minute per optical density unit at 600 nm and 28 ` C .
+The growth medium was GM plus phenylalanine , vitamin - B1 , and either D - methionine or L - methionine .
+In strain GS244 ( metR ) , the mutant and wild - type XFlac lysogens had essentially the same 3 - galactosidase levels when grown under the derepressing condition .
+The addition of L - methionine further repressed metF - lacZ expression , and the , B - galactosidase levels were essentially the same in the wild - type and mutant XFlac lysogens .
+In strain GS748 ( metJmetR ) , the mutant and wild - type AFlac phage had essentially the same P - galactosidase levels under both growth - conditions ( Table 3 ) .
+These results suggest that the mutations are specifically affecting a MetR - dependent mechanism and that all three MetR - binding sites identified by DNase I footprinting are necessary for normal metF - lacZ expression .
+DISCUSSION A computer search of the S. typhimurium metF sequence identified three possible MetR - binding sites ( Fig. 1 ) .
+In vitro binding assays and DNase - I-protection experiments verified that MetR binds to metF promoter DNA and protects two separate regions from DNase I attack ( Fig. 1 ) : ( i ) a ca. 46 - bp region from position -50 to -95 upstream from the transcription initiation site and encompassing two of the predicted MetR - binding sites ( sites 1 and 2 ) in the metF promoter region and ( ii ) a ca. 24 - bp region from approximately position +62 to +85 downstream from the transcriptional initiation site and encompassing the third predicted MetRbinding site located in the metF structural gene ( site 3 ) .
+It should be noted that sites 2 and 3 required higher concentrations of the MetR protein than did site 1 for protection from DNase I digestion , suggesting that they have a lower affinity for MetR protein .
+Results from previous work suggested that MetR has only a minor effect on metF - lacZ expression .
+, B - Galactosidase levels from a metF - lacZ gene fusion were only two - to threefold lower in a metR mutant than in the wild - type strain ( 29 ) .
+In addition , a metR mutation could be complemented by a multicopy plasmid carrying either a metE or metH gene ; presumably the residual expression of either gene from multicopy plasmids in the metR mutant is sufficient for growth .
+Since the transformants did not require a multicopy plasmid carrying metF , the results suggest that metF expression is sufficient in the metR mutant to support growth .
+MetR - MEDIATED REGULATION OF metF 5865 Subsequent studies to determine whether the smaller effect on metF expression is due to a direct or indirect effect of the MetR protein were not done .
+We reexamined the effect of MetR protein on metF - lacZ expression in light of the in - vitro binding assays and the DNase - I-protection experiment .
+In the metR mutant strain GS244 grown under methionine - repressing conditions , metF - lacZ expression was reduced 2.7 - fold compared with that in the metR + control strain GS243 ( Table 2 ) .
+However , at intermediate levels of methionine repression ( D - methionine ) , metF - lacZ expression in the metR mutant was reduced only twofold compared with that in the metR + control strain .
+Under completely nonrepressing conditions ( metJ mutants ) , there was essentially no difference between the metR strain GS748 and the metR + control strain GS597 .
+These results suggest that MetR is required for activation of metF - lacZ only under MetJ - mediated repressing conditions .
+Superrepression by MetJ in a metR mutant is also seen for metE - lacZ expression ( 29 ) .
+However , in the absence of MetJ - mediated repression , metE - lacZ is still regulated over a 100 - fold range by MetR ( 28 ) .
+These results and those described above suggest that MetR could function by two different mechanisms for metE - lacZ and metF - lacZ expression : as an activator and as an antirepressor , respectively .
+The mechanism of MetJ - mediated repression of the metF gene is not known .
+If repression involves steric hinderance of RNA polymerase , then MetR alone or a MetR - RNA polymerase complex could act as an antirepressor to destabilize MetJ binding .
+As shown in Fig. 1 , the MetR - and MetJ - binding sites do not overlap .
+However , MetR bound at MetR - binding sites 1 and 2 in the promoter region could interact directly with MetR bound at site 3 in the structural gene , possibly forming a DNA loop ( 10 , 11 , 13 ) that could antagonize repressor function .
+Mutations introduced by sitedirected mutagenisis into each of the MetR - binding sites away from the consensus MetR - binding sequence completely disrupted MetR - mediated regulation ( Fig. 1 and Table 3 ) .
+Alternatively , MetR could function as an activator for metF .
+The repressor may interfere with RNA polymerase binding , open complex formation , or promoter clearance at the metF promoter ; MetR could partially compensate by affecting any of these parameters .
+In this model , then , differences in the architectures of the nonrepressed promoters may account for the observation that the metE promoter is intrinsically weak and thus always requires activation for full expression ( 28 ) , whereas metF requires activation only under repressing conditions .
+This model also presumes that the step blocked by MetJ is not rate limiting in the absence of the repressor , since metF - lacZ expression in the metJ metR double mutant is only slightly reduced compared with that in the metJ mutant ( Table 2 ) .
+ACKNOWLEDGMENT This investigation was supported by Public Health Service grant GM38912 from the National Institute of General Medical Sciences .
+Belfaiza , J. , C. Parsot , A. Martel , C. Buothier de la Tour , D. Margarita , G. N. Cohen , and I. Saint - Girons .
+Evolution in the biosynthetic pathways : two enzymes catalyzing consecutive steps in methionine biosynthesis originate from a common ancestor and possess a similar regulatory region .
+Byerly , K. A. , M. L. Urbanowski , and G. S. Stauffer .
+The MetR binding site in the Salmonella typhimuium metH gene : 5866 COWAN ET AL. .
+DNA sequence constraints on activation .
+Cai , X. - Y. , M. E. Maxon , B. Redfield , R. Glass , N. Brot , and H. Weissbach .
+Methionine synthesis in Escherichia coli : effect of the MetR protein on metE and metH expression .
+Casadaban , M. J. , J. Chou , and S. N. Cohen .
+In vitro gene fusions that join an enzymatically active , - galactosidase segment to amino - terminal fragments of exogenous proteins : Escherichia coli plasmid vectors for the detection and cloning of translational initiation signals .
+Chung , C. T. , S. L. Niemela , and R. H. Miller .
+One - step preparation of competent Escherichia coli : transformation and storage of bacterial cells in the same solution .
+Fried , M. , and D. M. Crothers .
+Equilibria and kinetics of lac repressor - operator interactions by polyacrylamide gel electrophoresis .
+Garner , M. M. , and A. Revzin .
+A gel electrophoresis method for quantifying the binding of proteins to specific DNA regions : application to components of the Escherichia coli lactose operon regulatoxy system .
+Methionine limitation in Escherichia coli K - 12 by growth on the sulfoxides of D - methionine .
+Henikoff , S. , G. W. Haughn , J. M. Calvo , and J. C. Wallace .
+A large family of bacterial activator proteins .
+Hochschild , A. , and M. Ptashne .
+Cooperative binding of X repressors to sites separated by integral turns of the DNA helix .
+Hou , L. , K. J. Martin , and R. Schleif .
+Alternative DNA loops regulate the arabinose operon in Escherichia coli .
+Rapid and efficient site - specific mutagenesis without phenotypic selection .
+Lee , D. - H. , and R. F. Schleif .
+In vivo DNA loops in araCBAD : size limits and helical repeat .
+Maniatis , T. , E. F. Fritsch , and J. Sambrook .
+Molecular cloning : a laboratory manual .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 15 .
+Mares , R. , M. L. Urbanowski , and G. V. Stauffer .
+Regulation of the Salmonella typhimunum metA gene by the MetR protein and homocysteine .
+Maxam , A. M. , and W. Gilbert .
+Sequencing end - labeled DNA with base - specific chemical cleavages .
+Experiments in molecular genetics .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 18 .
+Panasenko , S. M. , J. R. Cameron , R. W. Davis , and I. R. Lehman .
+Five hundredfold overproduction of DNA ligase after induction of a hybrid lambda lysogen construct in - vitro .
+Phillips , S. E. V. , I. Manfield , I. Parsons , B. E. Davidson , J. B. Rafferty , W. S. Somers , D. Margarita , G. N. Cohen , I. Saint - Girons , and P. G. Stockley .
+Cooperative tandem binding of met repressor of Escherichia coli .
+Saint - Girons , I. , C. Parsot , M. M. Zakin , 0 .
+Barzu , and G. N. Cohen .
+Methionine biosynthesis in Enterobacteriaceae : biochemical , regulatory , and evolutionary aspects .
+Schmitz , A. , and D. J. Galas .
+The interaction of RNA polymerase and Lac repressor with the lac control region .
+Shimada , K. , R. A. Weisberg , and M. E. Gottesmen .
+Prophage lambda at unusual chromosomal locations .
+I. Location of the secondary attachment sites and the properties of the lysogens .
+Stauffer , G. V. , M. D. Plamann , and L. T. Stauffer .
+Construction and expression of hybrid plasmids containing the Escherichia coli glyA gene .
+Stauffer , G. V. , and L. T. Stauffer .
+Cloning and nucleotide sequence of the Salmonella typhimurium LT2 metF gene and its homology with the corresponding sequence of Escherichia coli .
+Stauffer , G. V. , and L. T. Stauffer .
+Salmonella typhimurium LT2 metF operator mutations .
+Urbanowskd , M. L. , L. S. Plamann , and G. V. Stauffer .
+Mutations affecting the regulation of the metB gene of Salmonella typhimurium LT2 .
+Urbanowski , M. L. , and G. V. Stauffer .
+The control region of the metH gene of Salmonella typhimurium LT2 : an atypical met promoter .
+Urbanowski , M. L. , and G. V. Stauffer .
+Genetic and biochemical analysis of the MetR activator - binding site in the metE metR control region of Salmonella typhimurium .
+Urbanowski , M. L. , L. T. Stauffer , L. S. Plamann , and G. V. Stauffer .
+A new methionine locus , metR , that encodes a trans - acting protein required for activation of metE and metH in Escherichia coli and Salmonella typhimurium .
+Yanisch - Perron , C. , J. Vieira , and J. Messing .
+Improved M13 phage cloning vectors and host strains : nucleotide sequences of the M13mpl8 and pUC19 vectors .

@@ -1,0 +1,228 @@
+Closing the loop : The PmrA PmrB two - component system negatively controls expression of its posttranscriptional activator PmrD Akinori Kato , Tammy Latifi , and Eduardo A. Groisman * Department of Molecular Microbiology , Howard Hughes Medical Institute , Washington University School of Medicine , Campus Box 8230 , 660 South Euclid Avenue , St. Louis , MO 63110 Edited by Roy Curtiss , Washington University , St. Louis , MO , and approved February 25 , 2003 ( received for review November 9 , 2002 ) A fundamental question in biology is how an organism integrates multiple signals to mediate an appropriate cellular response .
+The PmrA PmrB two - component system of Salmonella enterica can be activated independently by Fe 3 , which is sensed by the PmrB protein , and in low Mg 2 , which is sensed by the PhoQ protein .
+The low - Mg 2 activation requires pmrD , a PhoP PhoQ - activated gene that activates the response regulator PmrA at a posttranscriptional level .
+We now report that pmrD expression is negatively regulated by the PmrA PmrB system .
+Conditions that activate the PmrA protein independently of pmrD , such as exposure to Fe 3 , resulted in lower levels of pmrD transcription .
+The PmrA protein footprinted the pmrD promoter upstream of the PhoP - binding site but did not interfere with binding of the PhoP protein .
+Mutation of the PmrA - binding site in the pmrD promoter abolished PmrA - mediated repression .
+Negative regulation of the PhoP PhoQ - activated pmrD gene by the PmrA PmrB system closes a regulatory circuit designed to maintain proper cellular levels of activated PmrA protein and constitutes a singular example of a multicomponent feedback loop .
+feedback network signal integration Salmonella The Salmonella PmrA PmrB two - component system is required for resistance to the cationic peptide antibiotic polymyxin B ( 1 ) , resistance to Fe 3 - mediated killing ( 2 ) , growth in soil ( 3 ) , virulence in mice ( 4 ) , and infection of chicken macrophages ( 5 ) .
+PmrA - activated genes encode periplasmic and integral membrane proteins as well as cytoplasmic products mediating the modification of the lipopolysaccharide ( refs .
+6 -- 10 and Y. Shin and E.A.G. , unpublished results ) , suggesting a role for the PmrA PmrB system in remodeling of the Gram - negative envelope .
+Transcription of PmrA - activated genes is coordinately induced by extracytoplasmic Fe 3 , which is sensed by the PmrB protein ( 2 ) , and by extracytoplasmic low Mg 2 ( 11 ) , which is sensed by the PhoQ protein ( ref .
+In addition to PhoQ , the low - Mg 2 induction of PmrA - activated genes requires PhoP ( i.e. , the cognate response regulator of PhoQ ) , the PhoPactivated pmrD gene , as well as the PmrA and PmrB proteins ( 13 ) .
+The role of PhoP PhoQ in the low - Mg 2 activation of the PmrA PmrB system is solely to promote pmrD expression , because pmrD transcription from a heterologous promoter induces PmrA - activated genes even in the absence of the Fe 3 and low - Mg 2 signals , and independently of the PhoP and PhoQ proteins ( 13 ) .
+The PmrD protein activates the PmrA PmrB system via a mechanism that seems phosphorylation - dependent , because it required the putative site of PmrA phosphorylation ( D51 ) ( 13 ) .
+On the other hand , neither the pmrD gene nor the PhoP PhoQ system is required for the Fe 3 - promoted transcription of PmrA - activated genes ( 13 ) .
+In addition to Fe 3 and low Mg 2 , mild acid promotes transcription of PmrA - activated genes in a process that is PhoP - , PhoQ - , and PmrB - independent ( ref .
+12 ; A.K. , M. Cromie , and E.A.G. , unpublished results ) .
+In this article we describe how two separate signals that activate different two - component systems promote distinct responses from the promoter of a small regulatory protein that serves as a positive regulator of one of these systems .
+Our results define a regulatory feedback loop that prevents the potential detrimental production of PmrD protein while maintaining optimal levels of activated PmrA protein , and they provide a singular example of a multicomponent feedback loop , which is highly unusual in bacterial regulatory systems .
+Methods Bacterial Strains , Plasmids , and Growth Conditions .
+Bacterial strains and plasmids used in this study are listed in Table 1 .
+Salmonella enterica serovar Typhimurium strains used in this study are derived from strain 14028s .
+Phage P22 - mediated transductions were performed as described ( 14 ) .
+Bacteria were grown at 37 °C in Luria -- Bertani ( LB ) broth ( 15 ) or N - minimal - medium , pH 7.7 or pH - 5.8 ( 16 ) , supplemented with 0.1 % Casamino - acids , 38 mM glycerol , 10 M or 10 mM MgCl 2 , and 100 M FeSO 4 when indicated .
+Ampicillin , kanamycin , and spectinomycin were used at 50 g ml , tetracycline at 12.5 g ml , and chloramphenicol at 20 g ml .
+Plasmid pCCR9 - pmrB was constructed by cloning between the BamHI and HindIII sites of pCCR9 a PCR fragment containing the pmrB - coding region generated with primers 1914 ( 5 - GTGGATCCGATGCGTTTTCAGCGAA - 3 ) and 1915 ( 5 - ACGAAGCTTATGCCTTTTTCAACAGC - 3 ) and pUH - pmrAB ( 11 ) as template and digested with BamHI and HindIII .
+Sequence analysis demonstrated the presence of wild - type pmrB sequence in the clone .
+Plasmid pCCR9 - pmrBT156R , a pCCR9 - pmrB derivative that encodes a mutant PmrB protein with the T156R substitution , which is conserved in most histidine kinases and crucial for phosphatase activity of the EnvZ protein of Escherichia coli ( 17 ) , was constructed by using the QuikChange site - directed mutagenesis kit ( Stratagene ) with pCCR9 - pmrB plasmid DNA as template and primers 2082 ( 5 - CCCATGAGCTACGCCGGC - CGCTGTCGGG - 3 ) and 2083 ( 5 - CCCGACAGCGGCCG - GCGTAGCTCATGGG - 3 ) .
+Sequence analysis demonstrated the presence of wild - type pmrB sequence in the clone except for the predicted mutated codon .
+Plasmid pGEX - PmrBcT156R , encoding the N - terminal GST fusion of the PmrB cytoplasmic domain containing the T156R mutation , was constructed by cloning between the BamHI and EcoRI sites of pGEX - 2T a PCR fragment containing the pmrBcT156R - coding region generated with primers 1519 ( 5 - GCGGATCCCGTTTTCAGCGAAGAG - 3 ) and 1520 ( 5 - AGGGATCCCGGCGTATTACCCGTC - 3 ) and pCCR9 - pmrBT156R as template and digested with BamHI and EcoRI .
+Sequence analysis confirmed the designed sequence in the inserted DNA .
+This paper was submitted directly ( Track II ) to the PNAS office .
+* To whom correspondence should be addressed .
+100 no. 8 www.pnas.org cgi doi 10.1073 pnas .0836837100 Fig. 1 .
+Model illustrating the regulatory interactions between the PhoP PhoQ and PmrA PmrB two - component systems and the shunt protein PmrD .
+Transcription of PmrA - activated genes is promoted during - growth in low Mg 2 via the PhoP PhoQ system , the PmrD protein , and the PmrA PmrB system ( green arrow ) , and in the presence of iron via the PmrA PmrB system , independently of the PhoP PhoQ system and the PmrD protein .
+The PmrA protein represses transcription of the pmrD gene under conditions that activate PmrA independently of the PhoP PhoQ system ( red line ) .
+Plasmid pKO3 - DwoA1 contains the pmrD - coding region and the 450 - bp upstream sequence of pmrD with the PmrA - binding motif ATTAAT - 5 bp - GTTAAT mutated to AAAAAT - 5 bp - GAAAAT .
+It was constructed as follows : a PCR fragment was amplified by using primers 2308 ( 5 - ACGCGTCGACAAC - CACGGCAGGCTAACCATC - 3 ) and 2312 ( 5 - GTTGTATA - TTTTCCTAACATTTTTTTTTACAGTTCTCACACAC - CCA - 3 ) and pLK4 plasmid DNA as template ( 13 ) .
+Another PCR fragment was amplified by using primers 2311 ( 5 - CTGTAAAAAAAAATGTTAGGAAAATATACAACC - ATTCCATCGCTATTG - 3 ) and 1668 ( 5 - CGGGATCCTCAT - GATGGCTTGCGCGTCAAC - 3 ) and pLK4 as template .
+After digestion with DpnI to eliminate the original pLK4 DNA , both PCR - generated fragments were annealed to each other and amplified by using Platinum Taq DNA polymerase high fidelity ( Invitrogen ) with primers 2308 and 1668 .
+The resulting PCR fragment with the mutated PmrA - binding site was digested with BamHI and SalI and ligated to plasmid pKO3 DNA , which had been digested with BamHI and SalI .
+Sequence analysis confirmed that the inserted DNA had only the designed mutations .
+Plasmid pKO3 - DwoA2 contains the 450 - bp upstream sequence of pmrD and the pmrD - coding region with the PmrAbinding motif GTTAAG in the pmrD - coding region substituted to GTAAAA .
+It was constructed in a manner analogous to that used to make plasmid pKO3 - DwoA1 using primers 2452 ( 5 - CTCTTTTTGACATAATGCGATTTTTTTACCAAC - CATTCCATAGCG - 3 ) and 2451 ( 5 - CGCTATGGAATGGT - TGGTAAAAAAATCGCATTATGTCAAAAAGAG - 3 ) instead of primers 2312 and 2311 .
+Bacterial strains and plasmids used in this study Strain or plasmid Description Ref .
+Introduction of Gene Fusions and Mutations in the Chromosomal pmrD Locus .
+The one - step gene - inactivation method ( 18 ) was used to construct strains harboring mutations in the PmrA - binding sites in the pmrD - promoter and - coding regions to generate a lacZY transcriptional - fusion immediately downstream of the pmrDcoding region as well as to incorporate a FLAG epitope tag on the C - terminal end of PmrD encoded in the chromosome ( 19 ) .
+To incorporate a FLAG tag to the chromosomally encoded PmrD protein , primer 1898 ( 5 - TTCCTGCGACGAATGG - CAGCGGTTGACGCGCAAGCCATCAGACTACAAGGAC - GACGATGACAAGTGACATATGAATATCCTCCTTAG - 3 ) was designed to have the FLAG sequence right upstream of the stop codon of the pmrD gene , which was followed by priming site - 2 sequence of pKD3 ( 18 ) .
+Primer 1899 ( 5 - TATTATGGCGGGGG - TAATGCTGATTTTTCTGCCCGCCAGAGTGTAGGCTG - GAGCTGCTTC - 3 ) harbors the sequence downstream of pmrD attached to priming - site 1 of pKD3 .
+A Cm R cassette was amplified by using these primers and integrated at the 3 end of pmrD on the 42 GENETICS Kato et al. .
+The junction region of pmrD and FLAG was amplified from the chromosome by PCR and confirmed to have the predicted sequence by direct nucleotide sequencing .
+The Cm R cassette was removed by using plasmid pCP20 as described ( 18 ) .
+Construction of a chromosomal pmrD - lacZY fusion strain was done as described ( 20 ) .
+A Cm R cassette was amplified by using pKD3 plasmid DNA as template and primers 2328 ( 5 - CTGCGACGAATGGCAGCGGTTGACGCGCAAGCC - ATCATGACATATGAATATCCTCCTTAG - 3 ) and 1899 and integrated right behind the stop codon of the pmrD gene by the one - step gene - inactivation method ( 18 ) .
+The junction region of pmrD and the Cm R cassette was amplified from the chromosome and confirmed by direct nucleotide sequencing .
+After removing the Cm R cassette , the lacZY transcriptional - fusion plasmid pCE37 was integrated into the FLP recombination target sequence immediately downstream of the pmrD gene by FLPmediated recombination ( 20 ) .
+Inactivation of the PmrA - binding sites in the pmrD locus was done as follows .
+First , we constructed strain EG13720 , which has a deletion of the pmrD gene and its promoter region by the one - step inactivation method by using primers 2398 ( 5 - GCGCTCCAGCAGTGGGTGTGTGAGAACTGTAAAA - ATTAAGCTGTAATGCAAGTAGCG - 3 ) and 2399 ( 5 - TATTATGGCGGGGGTAATGCTGATTTTTCTGCCCGC - CAGATTATTTGCCGACTACCTTGG - 3 ) and the Sp R Sm R cassette from plasmid pKRP13 ( 21 ) .
+Second , to make the same construct as in strain EG13659 except for the mutations in the PmrA - binding site , a fragment encompassing the pmrD promoter with the mutated PmrA - binding sites , the pmrD - coding region and a Cm R cassette , was integrated into the chromosome of strain EG13720 by the one - step method .
+To generate this fragment , two PCRs were done .
+In the first reaction , a Cm R cassette was amplified by using primers 2328 and 1899 and pKD3 as template .
+The generated Cm R cassette had a pmrD 3 sequence at one end .
+After annealing the Cm R cassette with the pmrD 3 region of either plasmid pKO3 - DwoA1 or pKO3 - DwoA2 DNA , which harbor the mutated PmrA - binding sites ( upstream and downstream , respectively ) , the second PCR was done by using primers 2308 and 1899 .
+Sequence analysis of the pmrD gene , its promoter , and junction region of the Cm R cassette amplified from the chromosome confirmed that the strains had only the designed substitutions .
+Strains harboring chromosomal pmrD - FLAG genes were grown in 25 ml as described above to OD 600 , 0.3 -- 0.4 , washed with PBS twice , resuspended in 500 l of PBS , and opened by sonication .
+Whole - cell lysate ( 20 g of protein ) was run on a Bis - Tris 4 -- 12 % gradient gel ( Invitrogen ) with Mes SDS Running buffer , transferred to poly ( vinylidene difluoride ) membranes , and analyzed by Western blot using anti - FLAG M2 monoclonal antibody ( Sigma ) .
+The Benchmark prestained protein ladder ( Invitrogen ) was used as the protein size standard .
+Western blots were developed by using anti - mouse IgG horseradish peroxidase - linked antibodies and the ECL detection system ( Amersham Biosciences ) .
+S1 Nuclease and - Galactosidase Assays .
+The S1 nucleaseprotection assay was performed as described ( 13 ) with RNA from early exponential ( OD 600 , 0.2 -- 0.3 ) phase cultures grown in 25 ml of N - minimal - medium , pH - 5.8 , containing 10 M MgCl 2 .
+Total RNA was isolated with Masterpure RNA - purification kit ( Epicentre Technologies , Madison , WI ) according to manufacturer specifications .
+- Galactosidase assays were carried out in triplicate , and the activity was determined as described ( 22 ) .
+DNase I footprinting assays were done by using probes A -- D. Probes A and B are the same PCR fragments generated by using primers 641 ( 5 - CGTGCCGGTAGAA - GATAAAG - 3 ) and 1064 ( 5 - GCCCTCTTTTTGACATA - ATG - 3 ) and pLK4 as template : probe A has a 32 P label at primer 641 end , whereas probe B has the label at the other end .
+Probes C and D were amplified by using primers 2306 ( 5 - AGACG - TGAACCTCGCTGAATG - 3 ) and 2307 ( 5 - ACAGCACCA - GAACATGGCAC - 3 ) and pLK4 plasmid DNA as template .
+Probe C has a 32 P label at the primer 2306 end , probe D has a label at the other end .
+Binding reactions of PmrA protein with probes A and B were performed as described ( 23 ) .
+Binding reactions of the PhoP and the PmrA proteins with probes C and D were done as follows .
+Proteins were incubated with 25 fmol of DNA probe in 100 l of 2 mM Hepes ( pH 7.9 ) 10 mM KCl 20 M EDTA 500 g/ml BSA 20 g/ml poly ( dI - dC ) 2 % glycerol for 20 min at room temperature .
+DNase I ( GIBCO BRL ) ( 0.01 units ) , 100 M CaCl 2 , and 100 M MgCl 2 were added and incubated for 3 min at room temperature .
+The reaction was stopped by the addition of 100 l of phenol chloroform , and the aqueous phase was precipitated with ethanol .
+The precipitate was dissolved in sequence - loading buffer and electrophoresed on a 6 % acrylamide 7 M urea gel together with a sequence ladder initiated with the appropriate primer by using the T7 Sequenase 2.0 DNA - sequencing kit ( Amersham Biosciences ) .
+The PhoP and PmrA proteins were overproduced in E. coli BL21 ( DE3 ) harboring pSC2 - phoP or pT7.7 - PmrA - His - 6 , respectively .
+Protein purification was performed as described ( 24 ) with the modifications described below .
+After purification , the eluate was dialyzed overnight against 20 mM Hepes ( pH 7.9 ) 100 mM KCl 0.2 mM EDTA 20 % glycerol and stored at 80 °C in the same buffer .
+The cytoplasmic domain of mutant PmrBT156R ( PmrBcT156R ) protein fused to GST was overproduced in E. coli BL21 harboring pGEX - PmrBcT156R .
+The protein was purified following the procedure suggested by the manufacturer ( Amersham Biosciences ) .
+The optimal conditions for expression of GST - PmrBcT156R were induction with isopropyl - Dthiogalactoside ( final concentration of 300 M ) for3hat30 °C .
+The glutathione Sepharose bead - bound GST - PmrBcT156R protein ( GST - PmrBcT156R bead ) was stored in 1 2 PBS 50 % glycerol at 20 °C .
+Phosphorylated PmrA - His - 6 was prepared as follows .
+First , 0.3 nmol of GST - PmrBcT156R beads was incubated in 50 l of PBS 0.1 mM ATP 1 mM MgCl 2 1mMDTTfor4hatroom temperature and then washed with PBS three times to remove free ATP .
+PmrA - His - 6 protein ( 3 nmol ) was incubated with phosphorylated GST - PmrBcT156R beads in 50 lofPBS 1mM MgCl 2 1mMDTTfor4hatroom temperature .
+After the incubation , GST - PmrBcT156R beads were spun - down and removed .
+The only known function of the pmrD gene is to activate the PmrA PmrB two - component system during - growth in low Mg 2 ( Fig. 1 ) .
+Because the PmrA PmrB system can be activated independently of pmrD ( 13 ) , continuous PmrD production under such conditions might interfere with turning off expression of PmrA - activated genes when the environment changes to noninducing conditions .
+Thus , we reasoned that pmrD expression might respond not only to Mg 2 in a PhoP PhoQ - dependent manner but also to the activated state of the PmrA PmrB system .
+The PmrA PmrB System Represses Transcription of the pmrD Gene .
+We examined pmrD expression by using two sets of strains : one harboring the DNA sequence encoding the FLAG epitope immediately upstream of the stop codon of the chromosomal pmrD gene and a second one harboring a lacZY transcriptional fusion immediately downstream of the pmrD gene .
+Western blot analysis with anti - FLAG antibodies demonstrated that the PmrD 4708 www.pnas.org cgi doi 10.1073 pnas .0836837100 Kato et al. .
+The PmrA PmrB system represses PmrD expression .
+( A ) Western blot analysis with anti - FLAG antibodies of cell extracts prepared from a strain harboring a chromosomally encoded PmrD - FLAG protein ( EG13654 ) grown in N - minimal - medium , pH 7.7 , with 10 M ( L ) or 10 mM ( H ) Mg 2 .
+( B ) PmrD - FLAG protein expressed by wild - type ( EG13654 ) , pmrA ( EG13655 ) , and pmrB ( EG13656 ) strains grown in N - minimal - medium , pH - 5.8 , with 10 M Mg 2 detected by Western blot with anti - FLAG antibodies .
+( C ) - Galactosidase activity ( Miller units ) from a pmrD - lacZY transcriptional - fusion expressed by bacteria grown in N - minimal - medium , pH - 5.8 , with 10 M Mg 2 were determined in wild - type ( EG13659 ) , pmrA ( EG13660 ) , pmrB ( EG13661 ) , and phoP ( EG13663 ) strains .
+( D ) - Galactosidase activity ( Miller units ) from a pmrD - lacZY transcriptional - fusion expressed by strain EG13659 grown in N - minimal medium , pH - 5.8 , with 10 mM Mg 2 ( H ) or 10 M Mg 2 ( L ) in the presence ( ) or absence of ( ) of100 M FeSO 4 .
+( E ) S1 nuclease - protection assay of RNAs extracted from bacteria grown in N - minimal - medium , pH - 5.8 , with 10 M Mg 2 .
+Lanes G , A , T , and C correspond to dideoxy chain - termination sequence reactions corresponding to this region .
+The sequence spanning the transcription start site is shown , and the start site is marked with an arrow .
+protein was made by bacteria grown in low Mg 2 but could not be detected in extracts prepared from bacteria grown in high Mg 2 ( Fig. 2A ) , which is consistent with PmrD being encoded by a PhoP - activated gene ( 13 ) .
+Higher PmrD protein amounts were produced in pmrA and pmrB mutants ( Fig. 2B ) , indicating that the PmrA PmrB system represses PmrD expression .
+The PmrA PmrB system exerts its effect at the transcriptional level , because higher levels of - galactosidase activity were detected in pmrA and pmrB mutants than in the isogenic wild - type strain ( Fig. 2C ) .
+Moreover , higher pmrD transcript levels were detected by the S1 nuclease - protection assay in a pmrA mutant than in the wild - type strain ( Fig. 2E ) .
+As expected , there was no pmrD transcription in a phoP mutant ( Fig. 2 C and E ) .
+Furthermore , a 3 - fold decrease in pmrD transcription was observed when wild - type bacteria were exposed to Fe 3 and mild acid ( Fig. 2D ) , conditions that activate the PmrA PmrB system independently of the PmrD protein .
+Cumulatively , these data demonstrate that activation of the PmrA PmrB system represses pmrD transcription .
+The PmrA Protein Binds to the pmrD Promoter .
+We analyzed the pmrD promoter and identified a direct - repeat A GTTAAT separated by 5 nt 59 bp upstream of the transcription start site ( Fig. 3A ) .
+This repeat resembles the PmrA - binding site present in the promoter of other PmrA - activated genes ( 23 , 25 ) , suggesting that the PmrA protein may bind to the pmrD promoter .
+DNase I footprinting assays revealed that purified C - terminal His - tagged PmrA protein protected the 53 to 73 region in the coding strand and the 56 to 71 region in the noncoding strand of the pmrD promoter ( Fig. 3B ) , which overlaps with the direct repeat identified as the PmrA - binding site ( Fig. 3A ) .
+Phosphorylated PmrA protected the same region but at lower protein concentrations than unphosphorylated PmrA ( Fig. 3B ) .
+These results demonstrate that the pmrD promoter harbors a bona fide PmrA - binding site , which could be the target of PmrA - mediated repression .
+Binding of the PhoP and PmrA Proteins to the pmrD Promoter Are Not Mutually Exclusive .
+We previously identified a putative PhoPbinding site in the pmrD promoter ( 13 ) that resembles one half of a PhoP box ( refs .
+We established that this represents a genuine PhoP - binding site because the PhoP protein protected the 29 to 9 region in the coding strand and the 42 to 13 region in the noncoding strand of the pmrD promoter ( Fig. 3C ) .
+DNase I footprinting assays conducted in the presence of both PhoP and PmrA proteins revealed that PmrA did not affect binding of PhoP , nor did PhoP affect binding of PmrA to the pmrD promoter ( Fig. 3C ) .
+The PmrA - Binding Site in the pmrD Promoter Is Required for PmrA - Mediated Repression of PmrD Expression .
+The results described above suggest that the PmrA protein represses pmrD transcription by binding to the pmrD promoter .
+This model predicts that PmrA should be unable to repress pmrD transcription in a strain lacking the PmrA - binding site in the pmrD promoter .
+Consistent with this notion , pmrD transcription remained high in a strain mutated in conserved nucleotides in the PmrA - binding site in the chromosomal copy of the pmrD promoter ( Fig. 4A ) .
+The transcription levels displayed by this strain were similar to those exhibited by a pmrA mutant or a strain mutated in both the pmrA gene and the PmrA - binding site in the pmrD promoter ( Fig. 4A ) .
+On the other hand , transcription of the pmrD gene still depended on a functional phoP gene in the strain mutated in the PmrAbinding site of the pmrD promoter ( Fig. 4A ) .
+This indicates that the role of the PhoP protein is to activate pmrD transcription and not simply to counteract repression by the PmrA protein on the pmrD promoter as proposed for other regulatory proteins such as HilC and HilD ( 28 , 29 ) .
+The PmrA protein seems to repress pmrD transcription directly , because mutation of the conserved nucleotides in the PmrA - binding site in the pmrD promoter prevented PmrA binding ( data not shown ) .
+When DNase I footprinting experiments were carried out by using low ionic - strength conditions and low concentrations of competitor DNA , the PmrA protein protected not only the region containing the direct repeat upstream of the pmrD transcription start site but also a region harboring the GTTAAG sequence located 10 bp downstream of the pmrD start codon ( data not shown ) .
+Although this raised the possibility of a repression mechanism involving DNA - loop formation with the PmrA protein binding to both upstream and downstream sites in the pmrD promoter ( Fig. 3A ) , mutation of the GTTAAG sequence in the pmrD - coding region did not affect PmrAdependent repression ( Fig. 4B ) even though it prevented PmrA GENETICS Kato et al. .
+The PmrA and PhoP proteins footprint the pmrD promoter .
+( A ) DNA sequence of the promoter region of the pmrD gene .
+1 corresponds to the transcription start site , the underlined sequence is the predicted 10 region for the pmrD promoter , the sequence in bold matches the PhoP - binding consensus sequence ( PhoP box ) ( 26 , 27 ) , and the boxed sequences are the PmrA - binding consensus sequence ( PmrA box ) ( 23 , 25 ) .
+Mutated nucleotides at the PmrA - binding sites ( upstream and downstream ) are indicated above the sequence .
+A putative UP element may be represented by the AT - rich PmrA boxes and the sequences immediately surrounding them .
+( B ) DNase I footprinting analysis of the pmrD promoter performed by using probes A ( coding strand ) and B ( noncoding strand ) ( see Methods ) .
+The amount of PmrA and phospho - PmrA ( PmrA - P ) protein added to DNA probes A and B was 0 , 10 , 25 , 50 , and 100 pmol .
+A solid line represents the PmrA - binding region .
+Lanes G , A , T , and C are dideoxy chain - termination sequences corresponding to probes A and B. ( C ) DNase I footprinting analysis of the pmrD promoter performed by using probes C ( coding strand ) and D ( noncoding strand ) ( see Methods ) .
+The amount of PhoP and PmrA proteins was 25 and 5 pmol , respectively .
+A wide bar and a thin line represent the PhoP - binding and PmrA - binding regions , respectively .
+Lanes G , A , T , and C are dideoxy chain - termination sequences corresponding to probes C and D. binding ( data not shown ) .
+Cumulatively , our data demonstrate that the upstream PmrA - binding site in the pmrD promoter is essential for PmrA - dependent repression of pmrD transcription .
+Mutation of the PmrA - binding site in the pmrD promoter abolishes PmrA - mediated repression of pmrD transcription .
+( A ) - Galactosidase activity ( Miller units ) from a pmrD - lacZY transcriptional - fusion expressed by bacteria grown in N - minimal - medium , pH - 5.8 , with 10 M Mg 2 was determined in wild - type ( EG13659 ) , pmrA ( EG13660 ) , and phoP ( EG13663 ) strains harboring a wild - type upstream PmrA - binding site in the pmrD promoter and in wildtype ( EG13723 ) , pmrA ( EG13724 ) , and phoP ( EG13725 ) strains harboring a mutant upstream PmrA - binding site in the pmrD promoter .
+( B ) - Galactosidase activity ( Miller units ) from a pmrD - lacZY transcriptional - fusion expressed by bacteria grown in N - minimal - medium , pH - 5.8 , with 10 M Mg 2 was determined in wild type ( EG13659 ) , a strain with a mutant upstream PmrA - binding site ( EG13723 ) , and a strain with a mutant downstream PmrAbinding site ( EG13728 ) in the pmrD promoter .
+Discussion We previously demonstrated that the PmrD protein is transcriptionally induced in low Mg 2 in a PhoP - dependent manner ( ref .
+We have now established that this induction is reduced severely when Salmonella experiences the PmrAactivating signals Fe 3 and mild acid and that this process depends on the PmrA PmrB system ( Fig. 2 ) .
+The PhoP and PmrA proteins seem to exert their regulatory effects directly , because both proteins footprinted the pmrD promoter ( Fig. 3 B and C ) and because mutation of the PmrA - binding site in the pmrD promoter abolished PmrA - mediated repression of pmrD transcription ( Fig. 4A ) .
+Mechanism of pmrD Repression by the PmrA Protein .
+The PmrA protein binds to the pmrD promoter protecting a region harboring the direct repeat A GTTAAT separated by 5 - bp nucleotides ( Fig. 3B ) .
+This repeat is similar to the direct - repeat C TTTAAT separated by 5 - bp nucleotides present in the promoters of the PmrA - activated genes pmrC , pbgP , and ugd ( 23 , 25 ) .
+However , unlike the latter genes , where the direct repeat is located at positions 21 to 24 relative to the start of transcription , the direct repeat in the pmrD promoter is located 59 bp upstream of the transcription start site ( Fig. 3A ) .
+This may reflect the fact that PmrA acts as an activator of the former loci but as a repressor of the pmrD gene .
+Then , how does the PmrA protein repress pmrD transcription ?
+The PhoP protein binds to the pmrD promoter ( Fig. 3D ) ata site harboring a motif ( termed the PhoP box ) that is also found in other PhoP - activated promoters ( 26 , 27 ) .
+Binding of the PmrA and PhoP proteins to the pmrD promoter was not mutually exclusive ( Fig. 3C ) , ruling out that the PmrA protein represses pmrD transcription by inhibiting binding of the PhoP protein .
+We considered a repression loop mechanism such as that controlling carbon utilization by the AraC , LacI , and GalR proteins ( 30 -- 32 ) , because the PmrA protein footprinted a region including the PmrA box - related sequence GTTAAG within the pmrD - coding region if experiments were carried out under low stringency conditions .
+However , such an `` all - or - nothing '' mechanism is not congruent with the fact that PmrA - mediated repression does not eliminate pmrD transcription ( Fig. 2 ) and that mutation of the 4710 www.pnas.org cgi doi 10.1073 pnas .0836837100 Kato et al. .
+GTTAAG sequence within the pmrD - coding region had no effect on PmrA - dependent repression ( Fig. 4B ) even though it prevented PmrA binding to this site ( data not shown ) .
+We suggest that PmrA binding to the upstream site in the pmrD promoter represses pmrD transcription by interfering with the ability of the C - terminal domain of the subunit of RNA polymerase ( - CTD ) to interact with a putative UP element that overlaps the AT - rich PmrA - binding site ( Fig. 3A ) .
+Although in vitro transcription of the PhoP - activated mgtA gene does not require - CTD ( 27 ) , PmrA binding to the pmrD promoter may hinder - CTD in - vivo .
+Physiological Basis for Feedback Regulation of pmrD by the PmrA Protein .
+Negative feedback loops typically operate by two mechanisms : end - product inhibition , where the final product of a biochemical pathway inhibits an enzyme that catalyzes the first reaction in the pathway , and end - product repression , where a final product of a biosynthetic pathway is an essential ligand for a repressor of the genes encoding the enzymes for that pathway ( 33 ) .
+In both of these cases it makes sense to inhibit early steps in the pathway to avoid the accumulation of intermediates or the synthesis of unnecessary products .
+In contrast , the negative feedback loop of the PmrA protein on pmrD transcription occurs at a much later step .
+This makes sense because inhibiting the first step in the pathway ( i.e. , PhoQ activation ) would compromise expression of the large number of genes that encompass the PhoP regulon ( 34 , 35 ) .
+Furthermore , because the PmrA PmrB system can be activated independently of pmrD by mild acid - pH or Fe 3 ( 2 , 11 , 13 ) , continuous PmrD production under such conditions might interfere with turning off expression of PmrAactivated genes when the environment changes to noninducing conditions .
+Autoregulatory feedback loops in which a protein negatively , or less often positively , controls its own transcription are common in bacteria ( 36 ) .
+On the other hand , multicomponent loops ( i.e. , one protein regulating transcription of a gene that encodes a different protein that controls transcription of the gene encoding the first protein ) have not been described in bacteria ( 36 , 37 ) except in artificial systems designated genetic toggles ( 38 , 39 ) .
+Our results indicate that bacteria use related multicomponent loops : The PmrD protein activates the PmrA protein at a posttranscriptional level ( 13 ) , and activated PmrA protein represses transcription of the pmrD gene .
+Likewise , the alternative factor RpoS of E. coli activates transcription of the gene encoding the RssB protein , a posttranscriptional negative regulator of RpoS ( 40 ) .
+What distinguishes these two examples from the genetic toggles is the apparent absence of oscillatory behavior and that environmental signals affect both transcriptional and posttranscriptional arms of the multicomponent loops .
+We thank B. L. Wanner , J. M. Slauch , H. Hächler , and G. M. Church for plasmids .
+We thank H. Huang for discussions and comments on the manuscript .
+This work was supported by National Institutes of Health Grants AI42236 and AI49561 ( to E.A.G. , who is an Associate Investigator of the Howard Hughes Medical Institute ) .
+Roland , K. L. , Martin , L. E. , Esther , C. R. & Spitznagel , J. K. ( 1993 ) J. Bacteriol .
+Wösten , M. M. , Kox , L. F. , Chamnongpol , S. , Soncini , F. C. & Groisman , E. A. ( 2000 ) Cell 103 , 113 -- 125 .
+Chamnongpol , S. , Dodson , W. , Cromie , M. J. , Harris , Z. L. & Groisman , E. A. ( 2002 ) Mol .
+Gunn , J. S. , Ryan , S. S. , Van Velkinburgh , J. C. , Ernst , R. K. & Miller , S. I. ( 2000 ) Infect .
+Zhao , Y. , Jansen , R. , Gaastra , W. , Arkesteijn , G. , van der Zeijst , B. A. & van Putten , J. P. ( 2002 ) Infect .
+Gunn , J. S. , Lim , K. B. , Krueger , J. , Kim , K. , Guo , L. , Hackett , M. & Miller , S. I. ( 1998 ) Mol .
+Zhou , Z. , Ribeiro , A. A. , Lin , S. , Cotter , R. J. , Miller , S. I. & Raetz , C. R. ( 2001 ) J. Biol .
+Trent , M. S. , Ribeiro , A. A. , Lin , S. , Cotter , R. J. & Raetz , C. R. ( 2001 ) J. Biol .
+Trent , M. S. , Ribeiro , A. A. , Doerrler , W. T. , Lin , S. , Cotter , R. J. & Raetz , C. R. ( 2001 ) J. Biol .
+Breazeale , S. D. , Ribeiro , A. A. & Raetz , C. R. ( 2002 ) J. Biol .
+Soncini , F. C. & Groisman , E. A. ( 1996 ) J. Bacteriol .
+García Véscovi , E. , Soncini , F. C. & Groisman , E. A. ( 1996 ) Cell 84 , 165 -- 174 .
+Kox , L. F. , Wosten , M. M. & Groisman , E. A. ( 2000 ) EMBO J. 19 , 1861 -- 1872 .
+Davis , R. W. , Bolstein , D. & Roth , J. R. ( 1980 ) Advanced Bacterial Genetics ( Cold Spring Harbor Lab .
+Sambrook , J. , Fritsch , E. F. & Maniatis , T. ( 1989 ) Molecular Cloning : A Laboratory Manual ( Cold Spring Harbor Lab .
+Snavely , M. D. , Miller , C. G. & Maguire , M. E. ( 1991 ) J. Biol .
+Dutta , R. , Yoshida , T. & Inouye , M. ( 2000 ) J. Biol .
+Datsenko , K. A. & Wanner , B. L. ( 2000 ) Proc .
+Uzzau , S. , Figueroa - Bossi , N. , Rubino , S. & Bossi , L. ( 2001 ) Proc .
+Ellermeier , C. D. , Janakiraman , A. & Slauch , J. M. ( 2002 ) Gene 290 , 153 -- 161 .
+Reece , K. S. & Phillips , G. J. ( 1995 ) Gene 165 , 141 -- 142 .
+Miller , J. H. ( 1972 ) Experiments in Molecular Genetics ( Cold Spring Harbor Lab .
+Wösten , M. M. S. M. & Groisman , E. A. ( 1999 ) J. Biol .
+Chamnongpol , S. & Groisman , E. A. ( 2000 ) J. Mol .
+Aguirre , A. , Lejona , S. , García Véscovi , E. & Soncini , F. C. ( 2000 ) J. Bacteriol .
+Kato , A. , Tanabe , H. & Utsumi , R. ( 1999 ) J. Bacteriol .
+Yamamoto , K. , Ogasawara , H. , Fujita , N. , Utsumi , R. & Ishihama , A. ( 2002 ) Mol .
+Schechter , L. M. & Lee , C. A. ( 2001 ) Mol .
+Olekhnovich , I. N. & Kadner , R. J. ( 2002 ) J. Bacteriol .
+Martin , K. , Huo , L. & Schleif , R. F. ( 1986 ) Proc .
+Kramer , H. , Niemoller , M. , Amouyal , M. , Revet , B. , von Wilcken - Bergmann , B. & Muller - Hill , B. ( 1987 ) EMBO J. 6 , 1481 -- 1491 .
+Choy , H. E. & Adhya , S. ( 1992 ) Proc .
+Thomas , R. & D'Ari , R. ( 1990 ) Biological Feedback ( CRC , Boca Raton , FL ) .
+Miller , S. I. , Pulkkinen , W. S. , Selsted , M. E. & Mekalanos , J. J. ( 1990 ) Infect .
+Soncini , F. C. , García Véscovi , E. , Solomon , F. & Groisman , E. A. ( 1996 ) J. Bacteriol .
+Thieffry , D. , Huerta , A. M. , Perez - Rueda , E. & Collado - Vides , J. ( 1998 ) BioEssays 20 , 433 -- 440 .
+Shen - Orr , S. S. , Milo , R. , Mangan , S. & Alon , U. ( 2002 ) Nat .
+Elowitz , M. B. & Leibler , S. ( 2000 ) Nature 403 , 335 -- 338 .
+Gardner , T. S. , Cantor , C. R. & Collins , J. J. ( 2000 ) Nature 403 , 339 -- 342 .
+Pruteanu , M. & Hengge - Aronis , R. ( 2002 ) Mol .
+Fields , P. I. , Swanson , R. V. , Haidaris , C. G. & Heffron , F. ( 1986 ) Proc .
+Hanahan , D. ( 1983 ) J. Mol .
+Studier , F. W. & Moffatt , B. A. ( 1986 ) J. Mol .
+Cherepanov , P. P. & Wackernagel , W. ( 1995 ) Gene 158 , 9 -- 14 .
+Randegger , C. C. , Keller , A. , Irla , M. , Wada , A. & Hächler , H. ( 2000 ) Antimicrob .
+Link , A. J. , Phillips , D. & Church , G. M. ( 1997 ) J. Bacteriol .
+GENETICS Kato et al. .

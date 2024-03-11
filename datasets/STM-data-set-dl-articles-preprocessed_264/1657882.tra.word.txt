@@ -1,0 +1,410 @@
+JOURNAL OF BACTERIOLOGY , Nov. 1991 , p. 7176 - 7185 Vol .
+173 , No. 22 0021 - 9193/91 / 227176 - 10 $ 02.00 / 0 The Salmonella typhimurium Virulence Plasmid Encodes a Positive Regulator of a Plasmid - Encoded Virulence Gene ALLISON L. CALDWELL AND PAUL A. GULIG * Department of Immunology and Medical Microbiology , University of Florida College of Medicine , Gainesville , Florida 32610 - 0266 The 90 - kb virulence plasmid of SalmoneUa typhimurium is necessary for invasion beyond the Peyer 's patches to the mesenteric lymph nodes and spleens of orally inoculated mice .
+Two TnS insertions located on the left side of a previously identified 14 - kb virulence region ( P. A. Gulig and R. Curtiss m , Infect .
+58:3262 - 3271 , 1988 ) and mapping 272 bp from each other exhibited opposite effects on splenic infection of mice after oral inoculation .
+spvR23 : : TnS decreased splenic infection by 1,000 - fold , whereas a spv - 14 : : TnS mutant outcompeted wild - type S. typhimurium for splenic infection by 27 - fold in mice fed mixtures of mutated and wild - type S. typhimurium .
+spvR23 : : Tn5 was complemented by a virulence plasmid subclone with an insert sequence encoding only an 891 - bp open reading frame specifying a 33,000 - molecular - weight protein .
+The amino - acid sequence of this open reading frame had significant homology to members of the LysR family of positive regulatory proteins ; thus , the gene was named spvR ( salmonella plasmid virulence ) .
+To examine the possible regulatory effects of spvR on other virulence genes , we constructed a lacZ operon fusion in a downstream virulence gene , spvB .
+When spvR subcloned behind the lac promoter was provided on a separate plasmid in trans to the spvB - lacZ operon fusion , transcription of spvB increased 15 - fold .
+spv - 14 : : TnS , whih conferred a competitive advantage to S. typhimurium , increased the expression of a spvR - lacZ operon fusion in cis .
+spvR is therefore a positive regulator of spvB and an essential virulence gene of S. typhimurium .
+As opposed to having spvR subeloned behind the lac promoter , the wild - type spvR gene present on the virulence plasmid did not function to positively regulate spvB - lacZ in trans when salmonellae were grown to the log phase in L broth , suggesting that this regulatory system is activated in - vivo during infection .
+Related high - molecular - weight plasmids of several serotypes and species of invasive salmonellae encode essential virulence functions ( reviewed in reference 15 ) .
+The 90 - kb virulence plasmid of Salmonella typhimurium is responsible for invasion of salmonellae beyond the Peyer 's patches of the small intestine to the mesenteric lymph nodes and spleens of mice after oral inoculation ( 18 , 40 ) .
+The specific function ( s ) that the virulence plasmid confers to S. typhimurium to enable invasive infection has not been determined ( 15 ) , although it has been suggested that the virulence plasmid may be involved in immunosuppression ( 23 ) .
+Several groups have alluded to functions related to intracellular infection or macrophage resistance as being associated with the virulence plasmid ; however , no direct proof has been published ( 15 , 18 ) .
+The large size of the 90 - kb virulence plasmid of S. typhimurium made it desirable to identify smaller specific regions of the plasmid that were involved in conferring virulence .
+Gulig and Curtiss used in - vivo selection of virulence - conferring clones of the virulence plasmid to identify sequences associated with virulence in mice ( 19 ) .
+S. typhimurium isolates containing virulence - conferring clones were obtained from the spleens of mice fed S. typhimurium containing a library of cloned virulence plasmid sequences .
+A 14 - kb region was common to three virulence - conferring cosmid clones .
+This consensus virulence region was similar to that found by others ( 1 , 2 , 15 , 25 , 27 , 28 , 34 , 36 , 45 , 55 , 56 ) .
+Several genes have been identified in the 14 - kb virulence region that may encode virulence - factors .
+DNA sequence analysis has identified six genes running in a head - to - tail * 7176 orientation throughout the virulence region that may specify the following proteins : a 33,000 - molecular weight protein ( 33K ) , 32K , 70K , 28K , 27.5 K , and 13.5 K ( 16 , 17 , 27 , 31 , 32 , 37 - 39 , 44 , 48 - 50 ) .
+These genes have recently been renamed as salmonella plasmid virulence ( spv ) genes with the names spvR , spvA , spvB , spvC , spvD , and orfE , respectively ( 20 ) .
+Our laboratory designation for these genes was previously vir .
+We have adopted the spv system in this paper .
+Only one of these genes has been conclusively shown to be a virulence gene through the use of genetic analysis involving mutagenesis and complementation with precisely cloned genes .
+virA ( now renamed spvC ) , encoding a 28K protein , was verified as being a virulence gene through complementation of an attenuating Tn5 insertion , vir - 22 : : TnS ( spv - 22 : : TnS ) , with cloned spvC ( 17 ) .
+The sixth gene is not necessary for virulence ( 16 , 27 ) .
+Recently , Pullinger et al. ( 44 ) identified a gene from S. typhimurium in which the deduced amino - acid sequence specifies a 33K protein with homology to the positive regulatory protein MetR of S. typhimurium ( 42 ) .
+The same open reading frame ( ORF ) was subsequently sequenced by Norel et al. ( 38 ) and Taira and Rhen ( 48 ) from their own S. typhimurium strains and by Krause et al. ( 27 ) from Salmonella dublin .
+Genetic confirmation of the essential role in virulence of the gene encoding the 33K protein and other genes in the virulence region and , more specifically , their functions remained to be determined .
+In this report , we identify a TnS insertion , spvR23 : : TnS , in the S. typhimurium virulence plasmid that decreased splenic infection of mice after oral inoculation .
+Sequence analysis revealed that spvR23 : : TnS interrupts an ORF for a 33K protein with identity to those reported by others ( 27 , 38 , 44 , 48 ) that is homologous to MetR .
+The precisely cloned gene VOL .
+173 , 1991 REGULATION OF S. TYPHIMURIUM VIRULENCE PLASMID GENE 7177 TABLE 1 .
+Bacterial strains Strain Relevant genotype Comments or reference S. typhimurium SR - 11 X3181 Wild - type , pStSRlOO + a Virulent X3306 gyrA1816 , pStSR100 + Virulent , Nalr ( 18 ) X3337 gyrA1816 , pStSR100 - Avirulent , Nalr , plasmid cured ( 18 ) UFOO2 pStSRlOOspv - 2 : : TnS Derived from X3181 , Kanr UFOO3 pStSRlOOspv - 14 : : Tn5 Derived from X3181 , Kanr UF004 pStSRlOOspv - 8 : : Tn5 Derived from X3181 , Kanr UF006 pStSR100spvR23 : : TnS Derived from X3181 , Kanr S. typhimurium LT2 - Z X3477 hsdL6 A ( galE - uvrB ) 1005 hsdSA29 Restriction deficient , modification proficient , rough lipopolysaccharide ( 19 ) E. coli MC1061 AlacX74 9 a pStSR100 is the wild - type virulence plasmid of S. typhimurium SR - 11 ( 18 ) .
+fully complemented the spvR23 : : Tn5 mutation of the viru - chloramphenicol , 30 ; kanamycin , 40 ; nalidixic - acid , 25 ; lence plasmid , thus confirming that the 33K protein is a streptomycin , 50 ; and tetracycline , 25 .
+This gene , which has been named spvR Genetic techniques .
+Plasmid extractions were done by the ( 20 ) , is shown to act as a positive regulator at the transcrip - procedure of Bimboim ( 4 ) .
+The plasmids are listed in Table tional level of another plasmid - encoded virulence gene , 2 .
+Transformation of plasmid DNA was performed as despvB .
+The spvR gene does not appear to be expressed at scribed by Humphreys et al. ( 24 ) .
+Generalized transduction levels high enough for it to function as a positive regulator with P22 HTint was done as described previously ( 46 ) .
+when S. typhimurium is grown in the log phase in - vitro in L Restriction enzyme digestion , ligation , and other molecular broth .
+genetic manipulations were performed with enzymes pur - ( A preliminary report of these results was presented at the chased from Bethesda Research Laboratories , Inc. , Gaith - 1991 meeting of the American Society for Microbiology [ 8 ] .
+) ersburg , Md. , or Promega Corp. , Madison , Wis. , and were used according to instructions supplied by the manufacturer .
+MATERIALS AND METHODS DNA sequence analysis .
+DNA sequence analysis was performed on plasmid DNA by using the Sequenase Kit , Bacterial strains and growth - conditions .
+The bacterial version 2 ( U.S. Biochemical Corp. , Cleveland , Ohio ) with strains and their genotypes are listed in Table 1 .
+Culture [ a - 35S ] ATP ( Amersham Corp. , Arlington Heights , Ill. ; spemedia consisted of L broth or L agar ( 29 ) supplemented as cific activity , > 1,000 Ci/mmol ) according to the manufacappropriate with the following antibiotics at the indicated turer 's instructions .
+Sequences of the virulence plasmid concentrations ( micrograms per milliliter ) : ampicillin , 100 ; cloned into pUC13 ( 53 ) were used for creating deletion TABLE 2 .
+A spVR SpvA SpVB ' - + - I I I < 1 - M tet Bs Ev E pGTRO59 1 I tet A E spvA spvB - i - 4 K pGTR1 01 cat E I  cat pGTRO77 pGTRO72 P 1 kb pGTRO75 pGTRO97 pGTRO98 pGTRO69 I I I pGTRO79 lac I II > insertion and orentation of lacZ operon fusions ( 1/4 scale ) vector - encoded genes into which sequences have been cloned virulence plasmid - encoded genes Tn5 Insertions -- no effect on virulence A -- decreases virulence A -- increases virulence Restnction Enzyme Sites B - BamHI Bg - BgIll Bs - BstEII C - Clal E - EcoRI Ev - EcoRV H - Hindlil K - Kpnl S - Sall X - Xhol FIG. 1 .
+Physical maps of relevant plasmids .
+Only insert sequences are shown , with the direction of transcription indicated for vector - encoded genes into which sequences are cloned , lacZ , cat cassettes , and virulence plasmid - encoded genes .
+The thick portion of pYA403 represents the SalI - BgII fragment encoding the 14 - kb virulence region ( 19 ) .
+derivatives , and DNA sequence data were obtained by using the Universal Forward primer supplied with the kit , other recessed and nonrecessed M13 sequencing primers , and oligonucleotides for use as walking primers constructed at the University of Florida Interdisciplinary Center for Biotechnology Research DNA Core Laboratory .
+All sequences were read from both strands .
+DNA sequences flanking Tn5 insertions were determined by using oligonucleotides corresponding to the termini of IS50 as described previously ( 17 ) .
+DNA sequences were analyzed by using the programs of the Genetics Computer Group of the University of Wisconsin ( 11 ) .
+Both strands were examined for ORFs and restriction enzyme sites .
+Nucleic acid and amino - acid homologies with the GenBank ( release 65 ) and EMBL ( release 24 ) data bases were examined by using the TFASTA program ( 30 , 41 ) .
+Alignment of DNA sequences was done with the Gap program .
+Construction of spvB - lacZ operon fusions .
+A lacZ , cat cartridge was isolated from plasmid pSGMU38 ( 12 ) by digestion with BamHI .
+The 5 ' overhangs were filled in with the Klenow fragment of DNA polymerase I .
+The blunt - ended cartridge was isolated from a preparative agarose gel by using the freeze - squeeze procedure ( 3 ) .
+Plasmid pGTR101 ( Fig. 1 ) was linearized with KpnI , the 3 ' overhangs were made blunt ended with T4 DNA polymerase , and the lacZ , cat cassette was ligated into linearized pGTR101 .
+Ligated DNA was transformed into Escherichia coli MC1061 ( / lacX74 ) and plated on L agar containing tetracycline and 5 - bromo - 4 - chloro - 3-indolyl - 4-D - galactoside .
+Blue colonies were picked for further analysis .
+The orientation of the spvB - lacZ operon fusion of resulting pGTRO77 was verified through restriction analysis .
+pGTRO77 was transformed into plasmid - cured S. typhimurium X3337 through rough , restriction - deficient X3477 as an intermediate plasmid host as described previously ( 19 ) .
+Construction of spvR - lacZ operon fusions .
+The blunt - ended BamHI lacZ , cat cassette of pSGMU38 was isolated as described above .
+spv - 23 : : Tn5 - complementing clones pGTRO59 and pGTRO69 were linearized by digestion with EcoRV , which cuts within spvR ( Fig. 1 and 2 ) .
+Linearized DNA was extracted from a preparative agarose gel , and the ends were treated with bacterial alkaline phosphatase to prevent selfligation of the plasmids .
+The lacZ , cat cassette was ligated TTGCAC ATTATT AGGAG ATG -5 -10 RB5 2 14 23 spvR I. ... .
+I I B B - C Bs ... ~ I B Ev E a4kb vir InA44t pT 9 4 U * 100 bp FIG. 2 .
+Schematized DNA sequence of the left 1.8 kb of the 14 - kb virulence region ( 19 ) to spv - 8 : : TnS .
+The spvR ORF is indicated by the heavy arrow .
+The deduced amino - acid sequence of the SpvR protein is shown in Fig. 3 .
+The putative -10 and -35 regions of the spvR promoter , a ribosome binding site ( RBS ) , and a start codon are detailed above the map .
+The locations and allele numbers of spv : : Tn5 insertions are indicated ( V ) .
+The left boundary of the 14 - kb virulence ( vir ) region ( 19 ) and the insert sequences of plasmids pYA442 and pGTRO59 are indicated beneath the map .
+Restriction enzymes sites : B , BcIl ; Bs , BstEII ; C , ClaI ; E , EcoRI ; and Ev , EcoRV .
+173 , 1991 REGULATION OF S. TYPHIMURIUM VIRULENCE PLASMID GENE 7179 TABLE 3 .
+Splenic infection of mice after oral inoculation with mixtures of S. typhimurium strainsa Strain A Strain B CFU Mean paired A B differenceb X3306 UF002 ( spv - 2 : : Tn5 ) 5.35 5.39 0.04 ± 0.74 NS UF003 ( spv - 14 : : Tn5 ) X3306 6.06 4.62 1.43 ± 0.35 < 0.005 X3306 UFO04 ( spv - 8 : : TnS ) 4.80 5.09 0.29 ± 0.35 NS X3306 UFO06 ( spvR23 : : TnS ) 5.37 2.42 2.95 ± 0.77 < 0.005 UF006 ( pGTRO59 ) UFOO6 6.29 2.56 3.73 ± 0.69 < 0.002 UF006 ( pGTRO69 ) UFOO6 5.94 2.65 3.29 ± 0.75 < 0.005 X3337 ( pGTRO69 ) X3337 ( pACYC184 ) 3.71 3.45 0.26 ± 0.38 NS X3181 ( pGTR069 ) X3306 5.95 4.78 1.17 ± 0.30 < 0.0025 X3181 ( pACYC184 ) x3306 5.02 5.25 -0.2 ± 0.49 NS a Mice were inoculated with 5 x 108 CFU each of strains A and B indicated .
+Five days later , spleens were homogenized and plated on L agar plates containing different antibiotics to enable quantitation of each strain .
+Results are reported as log1o CFU .
+`` Mean of the paired differences ( log10 CFU of strain A - log1o CFU of strain B ) ± standard deviation .
+P value for paired differences was > 0 by the Student t test .
+NS , not significant ( P > 0.05 ) .
+into the linearized pGTR059 or pGTRO69 , transformed into E. coli MC1061 , and plated on L agar containing chloramphenicol and 5 - bromo - 4-chloro - 3-indolyl - , - D - galactoside .
+Blue colonies were chosen for further analysis .
+After verification of orientation through restriction analysis , plasmids containing the lacZ , cat insertions in spvR in both the same ( pGTR072 ) and opposite ( pGTRO75 ) orientations relative to spvR were transformed into plasmid - cured S. typhimurium X3337 through the X3477 intermediate .
+Measurement of transcriptional activity of lacZ operon fusions through resulting P - galactosidase activity was performed as described by Miller ( 35 ) .
+Oral inoculation of BALB/c mice to detect splenic salmonella infection was performed exactly as described previously ( 18 ) .
+Statistical analysis to examine differences in splenic CFU was as described ( 18 ) , except that results obtained with infection of mice with mixtures of two S. typhimurium strains are reported as the paired analyses of the differences in the log1o CFU of the two strains being greater than 0 with the Student t test .
+Nucleotide sequence accession number .
+The nucleotide sequence of the DNA shown in Fig. 2 is available via GenBank under accession number M74110 .
+RESULTS Isolation of Tn5 insertions in the left region of the spv ( vir ) locus .
+TnS insertions were produced in the plasmid pYA403 , which contains a 23 - kb insert sequence from the S. typhimurium virulence plasmid and confers wild - type virulence to plasmid - cured S. typhimurium ( 19 ) .
+The insertions described in this study were produced with the insertions described previously ( 19 ) .
+spv - 2 : : TnS , spv - 14 : : Tn5 , spv - 8 : : TnS , and spv - 23 : : TnS were mapped in the left region of the 14 - kb spv locus ( 19 ) , and their map locations are shown in Fig. 1 .
+When the pYA403 : : TnS derivatives were tested for their abilities to confer virulence to plasmid - cured S. typhimurium X3337 as measured by splenic infection after oral inoculation of mice , spv - 23 : : TnS was the only insertion that reduced virulence ( data not shown ) .
+The TnS insertions were then transduced into the virulence plasmid of wild - type S. typhimurium X3181 , and the resulting strains were tested for virulence .
+During infection of mice with single S. typhimurium strains , again only spv - 23 : : TnS decreased virulence , as shown by a 1,000 - fold decrease in splenic infection of UF006 from wild - type levels ( Table 3 ) .
+With the following exception , identical results were obtained when virulence was examined with single and mixed infections of mice .
+The spv - 14 : : TnS mutant of S. typhimurium had higher splenic CFU than did wild - type S. typhimurium X3306 after oral inoculation of mice with mixtures of UFOO3 ( spv - 14 : : TnS ) , and wild - type X3306 ( Table 3 ) .
+In this mixed infection , the UF003 splenic infection ( 1.5 x 106 CFU ) was no higher than that of wild - type S. typhimurium observed in a single infection ( 2.2 x 106 CFU ) .
+However , in the mixed infection , the wild - type X3306 showed a reduced splenic infection ( 4.5 x 104 CFU ) relative to that of wild - type S. typhimurium in a single inoculation .
+This indicated that the spv - 14 : : TnS mutant was outcompeting x3306 for splenic infection of mice , resulting in lower CFU of X3306 , as opposed to UF003 exhibiting an absolute increase in the ability to infect spleens .
+When mice were inoculated with either UF003 or X3306 separately , each strain achieved equal log splenic CFU ( 5.8 + 0.1 and 5.6 ± 1.0 , respectively ) .
+spv - 14 : : TnS and spv - 23 : : TnS mapped within 300 bp of each other as determined by restriction analysis .
+This initial mapping was confirmed by DNA sequence analysis ( see below ) .
+Since spv - 14 : : TnS and spv - 23 : : TnS affected virulence , we reasoned that these insertions affected a virulence gene ( s ) that was bounded by spv - 2 : : TnS on the left and spv - 8 : : Tn5 on the right , which did not alter virulence .
+Isolation of a spv - 23 : : TnS - complementing clone .
+To identify plasmids capable of complementing the spv - 23 : : TnS insertion and therefore encoding the mutated gene ( s ) , we used in vivo selection exactly as described previously ( 19 ) .
+The same recombinant library consisting of approximately 3 - kb virulence plasmid insert sequences in pACYC184 ( 19 ) was transformed into UF006 and fed to mice .
+Plasmid pYA442 was isolated from the spleens of diseased mice and was able to fully complement spv - 23 : : TnS upon transformation into UFOO6 ( data not shown ) .
+Most important , pYA442 contained sequences coinciding with the locus mutated by both spv - 14 : : TnS and spv - 23 : : Tn5 .
+The insert sequence also extended approximately 1.8 kb to the right of the EcoRI site ( Fig. 1 ) .
+Deletion derivatives of pYA442 were constructed to identify the minimal DNA sequence needed to complement spv - 23 : : TnS .
+Because spv - 8 : : TnS had no effect on virulence ( Table 3 ) and mapped slightly to the right of the EcoRI site in the insert sequence of pYA442 , we reasoned that plasmid 7180 CALDWELL AND GULIG DNA to the right of spv - 8 : : TnS should not be necessary for complementation of spv - 23 : : Tn5 .
+We therefore deleted from pYA442 the sequence between the EcoRI site of the virulence plasmid insert sequence and the HindIII site of pACYC184 .
+The resulting plasmid , pGTR059 ( Fig. 1 ) , was transformed into UFOO6 and fully complemented spv - 23 : : TnS ( Table 3 ) .
+pGTRO59 still contained sequences that corresponded to the insertion sites of spv - 14 : : TnS and spv - 23 : : TnS .
+Because spv - 23 : : TnS mapped to the right of a BstEII site in pGTR059 , we deleted from pGTR059 sequences between the BstEII site of the virulence plasmid insert and the Sail site of pACYC184 .
+The deleted sequence encoded the region corresponding to the spv - 14 : : Tn5 insertion sequence .
+The resulting plasmid , pGTR069 , still encoded the sequence that corresponded to the insertion site of spv - 23 : : TnS ( Fig. 1 ) .
+pGTRO69 fully complemented virulence for spv - 23 : : TnS of UFOO6 ( Table 3 ) .
+pGTRO69 alone was unable to confer virulence to virulence - plasmid cured S. typhimurium X3337 ( Table 3 ) .
+Thus , pGTRO69 with an insert size of 1.2 kb was sufficient to complement spv - 23 : : Tn5 and encoded the mutated gene ( s ) .
+DNA sequence analysis of spvR .
+We sequenced the region of the virulence plasmid extending from outside the left boundary of the 14 - kb consensus virulence region ( 19 ) on the left to spv - 8 : : TnS on the right ( Fig. 2 ) .
+The left boundary of the 14 - kb virulence region , as defined by the left end of the insert sequence of the virulence - conferring cosmid clone pYA401 ( 19 ) , was located at the GATC Sau3AI site at bp 139 .
+Our DNA sequence was nearly identical to those obtained by Pullinger et al. ( 44 ) , Norel et al. ( 38 ) , Taira and Rhen ( 48 ) , and Krause et al. ( 27 ) .
+We identified an ORF consisting of 891 bp extending from 416 bp right of spv - 2 : : TnS toward the EcoRI site .
+There were no differences between our DNA sequence of the ORF and the sequences of the others ( 38 , 44 , 48 ) , except as detailed below for Krause et al. ( 27 ) .
+In the noncoding sequence , Pullinger et al. ( 44 ) have a T and G inserted after our bp 1654 and 1656 , respectively .
+Norel et al. ( 38 ) have deletions of 1 of our 10 A 's between bp 652 and 661 and our G at bp 1754 .
+Our sequence differed from the corresponding S. dublin sequence of Krause et al. ( 27 ) in the following ways .
+Within the ORF our A at base 792 is a G resulting in an Asp - to - Gly amino - acid alteration ; whereas our G at base 981 is an A resulting in a Gly - to - Glu amino - acid alteration .
+In the upstream noncoding sequence Krause et al. have a deletion of two A residues immediately 5 ' to the putative ribosome binding site ( bases 652 through 661 ) ; our T at base 130 is a C , and our C at base 597 is an A. spv - 23 : : TnS interrupted this ORF , as did TnJO insertion M242 described by Pullinger et al. ( 44 ) , Tn5 zzx - 2558 described by Taira and Rhen ( 48 ) , and Tn5 - oriT 15 - 2 of Beninger et al. ( 2 ) .
+Our sequence included a consensus ribosome - binding site 6 bp upstream of the putative start codon and consensus promoter -10 and -35 regions 23 and 47 bp , respectively , upstream of the start codon .
+spv - 14 : : TnS was located 163 bp upstream of the start codon and 110 bp upstream of the putative -35 region .
+The BstEII site used for subcloning the spv - 23 : : TnS - complementing region was located outside of the -35 region and 3 ' to spv - 14 : : TnS .
+Thus , pGTRO69 , which complemented spv - 23 : : TnS , encoded the entire ORF but no other ORFs .
+Our amino - acid sequence was compared with the Genbank data base by using the TFASTA program ( 30 , 41 ) and exhibited homology to MetR ( 42 ) ( Fig. 3 ) , as did the deduced amino - acid sequences of others ( 27 , 44 ) .
+Because of these homologies to positive - acting regulatory proteins , the gene SpvR 1 NDFLINKKLKIFITLUETBSFSIATSVLYITRTPLSRVISDLERELKQRL 50 : : 1.11 .
+I. ... : NtR 49 FVRKSQPLRFTPQGEVLLQLANQ ... VLPQISRALQACNEPQQTRLRIAI 95 SpvR 101 IYPBSLKNLIISALTISQKTNI ... NGRAVNSQIIEELCQTNNCIVISA 147 .
+NetR 96 ECNSCIQWLTPALENFRASIPQVENDFTSBVTFDPQPALQQBELDLVNTS 145 SpvR 148 RNYFHRESLVCRTSVE66VNLFIPKKFFLC6KPDI .
+NRLA6TPVLFHE6 195 NetR 146 Y S HP IIP l ... .
+DILPRSELNYSPNFDFEVRLVLAPDNPLASKTQITPEDLASETLLIYPV : A 194 N : etR .
+L PR : - E : I SpvR 196 AKNFNLDTIYHFFEQTLBITNPAFSFDNVDLFSSLYRLQQGLAMLLIPVR 245 IIetR MetR .11 : : : 1 II .
+195 QRS.RLD.VVRNIFLQPAMISPLLKSVDNTLLIQNVM ... A235 SpvR 246 VCRALBLSTDHLNIKBVALCTSLYYPTKKRETPDYRKAIKLIQQELKQS 11tR 236 .
+: .1 :P : ... T 1 295 NetR 236 ... ALPINVVESVERQ6LfLVVltL6SRLYSRAYTSVRM ... .
+I : L ITR T 276 FIG. 3 .
+Amino acid sequence alignment of SpvR with S. typhimurium MetR ( 42 ) .
+Sequences were aligned by using the Gap program .
+Vertical lines indicate identity , colons indicate high similarity , and periods indicate low similarity between aligned amino acid residues .
+encoding the ORF and mutated by spv - 23 : : TnS was named spvR ( 20 ) .
+spv - 23 : : TnS is henceforth called spvR23 : : TnS .
+SpvR also showed significant homology to other members of the LysR family of positive regulatory proteins ( 22 ) .
+Among the most homologous were LysR ( 47 ) and IlvY ( 54 ) .
+SpvR is a positive regulator of other virulence plasmid genes .
+The homology of SpvR to MetR of the LysR family of positive regulatory proteins suggested that spvR encodes a positive regulatory protein for other plasmid - encoded virulence factors .
+To examine this possibility , we measured the effects of cloned spvR in trans on lacZ operon fusions in other cloned virulence plasmid genes .
+A promoterless lacZ gene was inserted into spvB at a unique KpnI site in the plasmid pGTR101 ( Fig. 1 ) .
+The plasmid pGTR101 consists of the 4 - kb EcoRI fragment of the 14 - kb virulence region ( 19 ) subcloned into the EcoRI site of pACYC184 .
+pGTR101 encodes three virulence genes , spvA , spvB , and spvC , which are oriented in a head - to - tail manner with the pACYC184 cat gene in the opposite orientation at the 3 ' end of spvC ( 16 ) .
+In this construct no vector promoter functions are present to affect expression of spvA , spvB , or spvC .
+pGTR101 containing the spvB - lacZ fusion was named pGTR077 .
+Since pGTRO77 was constructed in pACYC184 , we could not use pGTRO59 or pGTRO69 ( also constructed in pACYC184 ) to supply spvR in trans .
+Therefore , pGTRO79 , which contained the spvR gene subcloned behind the lac promoter of the low - copy - number vector pYA2204 , was used to supply spvR in trans .
+pGTRO79 or pYA2204 was transformed into X3337 ( pGTR077 ) .
+The presence of spvR on pGTRO79 increased by 15 - fold the transcription of the spvBlacZ operon fusion relative to the transcription after the addition of the vector alone or no additional plasmid ( Fig. 4 ) .
+To verify that the increase in transcription of spvB was a result of expression of spvR , we repressed the expression of spvR from the lac promoter by transforming into X3337 ( pGTR077 , pGTRO79 ) a compatible lacd subclone , pGTR255 .
+pGTR255 consists of the lacIq gene from pJW701 ( 59 ) cloned into a derivative , pGTR253 , of the temperaturesensitive replicon pHSG422 ( 21 ) .
+At 30 °C , pGTR255 is maintained and produces the Lacd repressor ( 13 ) .
+spvB - lacZ of X3337 ( pGTR077 , pGTRO79 , pGTR255 ) was repressed , but VOL .
+173 , 1991 REGULATION OF S. TYPHIMURIUM VIRULENCE PLASMID GENE 7181 0 0 .5 cis I ?
+503 80 0 X 60 0 Is 38 co 40 - I ?
+35 47 - r O b t , h r ) e - fi Q. NCC c E cc a ( 7 W IlXa C ~ li D 00 0 c 0ODCm 1 - P. 55 g sw fg t ~ iC Plasmids In X3337 FIG. 4 .
+Increased expression of spvB - lacZ by spvR provided in trans .
+S. typhimurium X3337 was transformed with the indicated plasmids and grown to the midlog phase , and the P - galactosidase activity from 4 spvB - lacZ operon fusion of pGTR077 was determined by the method of Miller ( 35 ) .
+The standard devjitions of triplicate samples were less than 10 % of the mean except for those of pYA2204 ( standard deviation , 50 % ) and pGTR253 ( standard deviation , 100 % ) .
+expression did not decrease down to the levels X3337 ( pGTRO77 ) alone , i.e. , with no spvR present ( Fig. 4 ) .
+Interestingly , X3337 ( pGTRO77 , pGTRO79 , pGTR253 ) exhibited a decrease in the expression of spvB - lacZ in comparison to X3337 ( pGTRO77 , pGTRO79 ) .
+However , the decrease was not as great as that seen with pGTR255 containing lacIq .
+The decrease in expression caused by pGTR253 may have been caused by the presence of three plasmid species resulting in decreased copy number of pGTRO77 .
+However , it is clear that the presence of spvR in trans increased the transcription of another virulence plasmid - encoded gene , spvB .
+The role of SpvR as a positive regulator of other virulence plasmidencoded genes that had been hypothesized from amino - acid sequence homology has now been substantiated genetically .
+Similar results have been obtained with lacZ operon fusions in spvA and spvC of pGTR101 ( 58 ) .
+Thus , SpvR is a positive regulator of at least three essential virulence genes .
+spv - 14 : : TnS increases expression of spvR .
+spv - 14 : : TnS , which is located 163 bp 5 ' to the start codon of spvR , enabled UFOO3 to outcompete wild - type S. typhimurium X3306 for splenic infection of mice inoculated with mixtures of wildtype and mutant strains ( Table 3 ) .
+Because spvR encodes a positive regulatory element , we hypothesized that UFOO3 outcompeted wild - type S. typhimurium for splenic infection by increasing the expression of spvR .
+To test this hypothesis , we transduced spv - 14 : : TnS into pGTRO72 and pGTRO75 containing lacZ inserted into spvR in both orientations , resulting in pGTRO97 and pGTRO98 , respectively ( Fig. 1 ) .
+spv - 14 : : TnS increased the production of spvR - lacZ in pGTRO97 from 38 to 72 U ( 1.9 - fold ) , but resulted in little change , if any , in the expression of lacZ in the control plasnmid , pGTRO98 , in which lacZ is downstream of the tet promoter ( Fig. 5 ) .
+Although the pathogenic mechanism by 0.1 co C. ) cm cc seen with c ' J Qa s QR Plasmids in X3337 spv - 14 : : TnS increases transcription of an spvR - 1acZ op - FIG. 5 .
+S. typhimurium X3337 was transformed with the indicated plasmids , and the 0 - galactosidase activities of triplicate samples were determined .
+The standard deviations were less than 10 % of the mean for every sample .
+which UFOO3 outcompetes wild - type S. typhimurium by splenic infection of mice is not completely understood , it is clear that spv - 14 : : TnS increases the expression of spvR .
+Additional copies of spvR increase virulence of S. typhimurium .
+spv - 14 : : TnS increased splenic infection of mice 27 - fold compared with wild - type S. typhimurium x3306 ( Table 3 ) , and spv - 14 : : TnS increased the expression of spvR ( Fig. 5 ) , suggesting that increased expression of spvR would result in increased virulence .
+To test this hypothesis , we examined the effects on virulence of adding cloned spvR present on pGTRO69 to wild - type S. typhimurium .
+X3181 ( pGTR069 ) achieved 18 - fold higher levels of splenic infection than did wild - type S. typhimurium X3306 in mixed infections of mice ( Table 3 ) .
+This increase in splenic infection by pGTRO69 was similar to that seen with spv - 14 : : TnS ( Table 3 ) .
+The vector of pGTRO69 , pACYC184 , did not increase splenic infection of X3181 .
+Mice that were inoculated with X3181 ( pGTRO69 ) alone had log splenic CFU values that were equal to those after infection with wild - type S. typhimurium alone ( 5.9 0.3 and 5.7 ± 1.5 , respectively ) .
+This result was also similar to that seen with single infections of the spv - 14 : : TnS mutant of S. typhimurium .
+That additional copies of spvR increased the virulence of S. typhimurium and that spv - 14 : : TnS increased the expression of spvR are consistent with the hypothesis that spv - 14 : : TnS increased virulence through increased expression of spvR .
+SpvR does not function to stimulate expression of spvB in S. typhimurium growing in L broth .
+Having demonstrated that cloned spvR can act in trans to increase the expression of cloned spvB , we examined the effects in trans of mutations of spvR in the virulence plasmid on cloned spvB - lacZ fusions .
+pGTRO77 was transformed into plasmid - cured S. typhimurium X3337 , wild - type S. typhimurium X3181 , UFOO2 ( spv - 2 : : TnS ) , UFOO3 ( spv - 14 : : TnS ) , and UFOO6 ( spvR23 : : Tn5 ) .
+Expression of spvB - lacZ was then measured as , - galactosidase activity of S. typhimurium cultures in the log phase .
+As described above , detectable levels of P - galactosidase were observed in X3337 ( pGTRO77 ) containing no other plasmid ( Fig. 6 ) , indicating that spvB does not absolutely require SpvR for basal expression .
+Interestingly , the presence of wild - type spvR in X3181 did not affect the expression o TL a - cL 7182 CALDWELL AND GULIG X0 ) co 0 100 - 140 - 120 - 80 - 60 - 40 - 202 C ' ) C ' ) C ' ) ?
+S. typhimurium strains with pGTRO77 FIG. 6 .
+Effects on transcription of spvR alleles present on the virulence plasmid in trans to an spvB - lacZ operon fusion on pGTRO77 .
+S. typhimurium containing either no ( X3337 ) , wild - type ( X3181 ) , control Tn5 ( UF002 ) , constitutive spvR TnS ( UF003 ) , or Spv - Tn5 ( UFO06 ) virulence plasmid genotypes were transformed with pGTRO77 .
+The transcriptional activities of the spvB - lacZ operon fusions were measured in salmonellae grown in L broth .
+The standard deviations were less than 12 % of the mean for every sample .
+of spvB from pGTR077 , nor did spvR23 : : Tn5 ( SpvR - ) and spv - 2 : : TnS ( SpvR + ) .
+Only spv - 14 : : Tn5 , which increased the expression of spvR ( Fig. 5 ) , increased the expression of spvB by 4.2 - fold from 32 to 136 U of activity ( Fig. 6 ) .
+Because the basal expression of spvB - lacZ was not affected by either wild - type spvR or spvR23 : : Tn5 in trans , we hypothesized that wild - type spvR of the virulence plasmid was not sufficiently expressed by S. typhimurium growing in L broth in these experiments to affect the expression of SpvR - regulated genes in trans .
+In the spv - 14 : : Tn5 virulence plasmid background , spvR should be constitutively expressed and in turn should function to positively regulate the expression of spvB .
+DISCUSSION We have identified the spvR gene located in the left side of the 14 - kb virulence region ( 19 ) as both an essential virulence gene and a positive regulatory element for other virulence plasmid genes .
+This was accomplished primarily through analysis of two TnS insertions that were located 272 bp from each other and that exhibited opposite effects on virulence in infection of mice .
+spvR23 : : Tn5 decreased splenic infection after oral inoculation by 1,000 - fold , whereas UFOO3 ( spv - 14 : : Tn5 ) outcompeted wild - type S. typhimurium for splenic infection 27 - fold ( Table 3 ) .
+To identify the gene ( s ) mutated by spvR23 : : Tn5 , we isolated plasmids capable of complementing spvR23 : : Tn5 by selecting in - vivo for complementation .
+A deletion derivative , pGTRO69 , that contained an insert sequence of 1.2 kb extending from a BstEII site to an EcoRI site fully complemented spvR23 : : TnS ( Table 3 ) and encoded only spvR ( Fig. 2 ) .
+The DNA sequence of the left end of the virulence region examined in these studies , including the insert of pGTRO69 , encoded a single ORF of 891 bp that was interrupted by the spvR23 : : Tn5 insertion ( Fig. 2 ) .
+The 33K protein encoded by this ORF is therefore a virulence factor , as shown through 49 CM CL 0 U - Z ) 136 C ' ) o o L - CD LL J. BACTERIOL .
+combined mutation and precise complementation analyses .
+Our DNA sequence of the ORF is identical to sequences published by Pullinger et al. ( 44 ) , Norel et al. ( 38 ) , and Taira and Rhen ( 48 ) .
+Our sequence differed from that of Krause et al. ( 27 ) by two base substitutions resulting in amino - acid changes .
+As Pullinger et al. originally noted , the amino - acid sequence possesses significant homology to the MetR protein of S. typhimurium , a positive regulatory protein ( 42 ) ( Fig. 3 ) .
+The significant homology of MetR with the deduced 33K protein interrupted by spvR23 : : Tn5 resulted in naming the gene spvR ( 20 ) .
+The amino - acid homology of SpvR to MetR was suggestive , but not proof , of a regulatory role for SpvR .
+Our genetic results demonstrated that spvR placed in trans to a clone encoding a spvB - lacZ fusion can increase the expression of spvB ( Fig. 4 ) .
+SpvR was provided from pGTR079 in which spvR was cloned behind the lac promoter .
+This plasmid enabled us to verify the stimulatory effect of spvR on spvB expression by experimental repression of the lac promoter of pGTR079 .
+The addition of pGTR255 , which encodes the lac repressor , resulted in decreased expression of spvB , but expression remained higher than levels seen with the spvBlacZ fusion plasmid alone ( i.e. , in the absence of spvR ) .
+This was not a surprising result , because the spvR insert of pGTR079 contains a putative promoter that should continue to function while the lac promoter is repressed .
+The spvR promoter appears to be functional because pGTR072 , which encodes spvR - lacZ operon fusions with no upstream vectorencoded promoters , has low but detectable levels of expression of spvR ( Fig. 5 ) .
+These results provided evidence that SpvR can act as a positive regulator of other virulence genes .
+We have obtained similar results with lacZ operon fusions in the other two virulence genes of pGTR101 , spvA and spvC ( 58 ) .
+MetR is a DNA binding protein that binds the promoters of metE and metH to positively regulate transcription ( 33 ) of parts of the methionine operon through modulation by homocystine ( 5 , 7 , 52 ) .
+MetR not only positively regulates other genes but also functions as an autorepressor of its own transcription ( 33 ) .
+metR and metE are located side by side but are oriented divergently so that the transcription of the two genes proceeds in opposite directions ( 42 ) .
+The promoter regions of metR and metE are nearly superimposed , and MetR binds at a single location that includes the regulatory site for both metR and metE ( 6 , 33 , 42 ) .
+When MetR binds at this site , transcription of metE increases while transcription of metR decreases ( 6 , 51 ) .
+MetR also binds to the promoter of metH located 3 ' to the metE gene ( 6 ) and glyA ( 43 ) to regulate transcription .
+These characteristics of MetR , including its functions as a positive regulatory protein and as an autorepressor , are also characteristics of other proteins of the same family of proteins as MetR , known as the LysR family of positive regulatory proteins ( 22 ) .
+We therefore examined whether SpvR regulated a divergently transcribed gene .
+The only ORF upstream of spvR in either orientation is an ORF in an IS630 - like element described by Krause et al. ( 26 ) from the S. dublin plasmid .
+This ORF is 608 bp from the spvR start codon , and our DNA sequence confirms the first 63 bp of the gene .
+Therefore , spvR probably does not regulate a divergently transcribed gene .
+spvA , spvB , and spvC , which are regulated by SpvR , are located downstream of spvR , and all of these genes are transcribed in the same direction .
+We are examining possible autoregulatory effects of spvR .
+SpvR does show homology with the amino - acid sequences of LysR family members at the critical conserved residues VOL .
+173 , 1991 REGULATION OF S. TYPHIMURIUM VIRULENCE PLASMID GENE 7183 ( Fig. 3 ) in the amino - terminal end .
+This amino - terminal region of the protein is believed to encode a helix - turn - helix domain possibly involved in DNA binding ( 22 ) .
+A confirmation of structure - function domains must await further analysis of both the spvR gene and the SpvR protein .
+Several procedures including minicell , maxicell , and in vitro transcription - translation expression systems were utilized in an effort to identify the protein product of spvR .
+No product was detected from spvR in any of the presently described plasmids tested , possibly because of the presence of vector - encoded peptides ( data not shown ) .
+However , we recently subcloned spvR by fusing the start codon with that of lacZ driven by the trc promoter , and we were able to identify the SpvR protein in Coomassie blue - stained gels of whole bacterial protein ( data not shown ) .
+Other reports concerning the S. typhimurium spvR homologs did not include a figure demonstrating the expected 33K protein , although Pullinger et al. ( 44 ) were able to identify the protein product .
+Williamson et al. showed the expression of a 33K protein from a homologous region of the S. dublin virulence plasmid ( 57 ) .
+Similarly , Kawahara et al. ( 25 ) reported the expression of a 32K protein in minicells from the mba region of the virulence plasmid of S. choleraesuis that mapped within the homologous region of the virulence plasmid of S. typhimurium .
+spv - 14 : : TnS located 163 bp 5 ' to the spvR start codon enabled mutant salmoneilae to outcompete wild - type S. typhimurium for splenic infection when mice were inoculated with both wild - type and spv - 14 : : TnS mutant S. typhimurium ( Table 3 ) .
+spv - 14 : : TnS increased the expression of spvR ( Fig. 5 ) .
+Because spvR encodes an activator of other virulence genes , constitutive production of SpvR would increase expression of other virulence genes under control of spvR .
+Consistent with this hypothesis , providing additional copies of spvR in trans to the wild - type virulence plasmid also enabled outcompetition against wild - type S. typhimurium for splenic infection of mice ( Table 3 ) .
+It appears that in salmonellae growing in the log phase in L broth , spvR of the wild - type virulence plasmid is not expressed at levels great enough to increase in trans expression of the spvB - lacZ fusion of pGTRO77 .
+When pGTRO77 encoding a spvB - lacZ fusion was placed in trans to the wild - type virulence plasmid , a virulence plasmid with mutated spvR , or a virulence plasmid mutated with a nonattenuating TnS insertion , no differences in expression of spvB were seen relative to that with spvB - lacZ in a virulence plasmid - free strain ( Fig. 6 ) .
+spvB - lacZ of pGTRO77 was capable of responding to increased expression of spvR from the virulence plasmid , because when pGTRO77 was placed in trans to the spv - 14 : : TnS mutated virulence plasmid , in which expression of spvR should be increased , expression of spvB increased .
+We recently determined that the SpvR - mediated regulation of downstream genes is activated in S. typhimurium at the stationary - phase in L broth ( data not shown ) .
+Whether the virulence genes spvA , spvB , and spvC are affected by spvR in cis when S. typhimurium is growing in L broth will not be known until lacZ - fusions in these genes have been recombined into the virulence plasmid .
+Although spv - 14 : : TnS enabled S. typhimurium UFOO3 to outcompete a wild - type strain in a mixed infection ( Table 3 ) , UFOO3 and the wild - type strain resulted in equal levels of splenic infection when mice were infected with either strain individually .
+This suggested that UFOO3 was not inherently more virulent but rather was able to compete better than wild - type salmonellae at a step of infection required for invasion beyond the Peyer 's patches to the mesenteric lymph nodes and spleen .
+Because spvR does not appear to be functioning during - growth in L broth to stimulate expression of effector genes , UFOO3 may be primed for more efficient infection through the constitutive expression of spvR and SpvR - regulated genes .
+This could explain why the spv - 14 : : Tn5 mutant outcompetes the wild - type strain but does not achieve higher levels of splenic infection during infection with single strains .
+Clearly , many questions remain to be answered about the role of spvR in plasmid - mediated virulence of S. typhimurium and regulation of other virulence genes .
+What are the mechanism and site of action of SpvR , and how is spvR itself regulated ?
+In summary , we have identified the spvR gene of the S. typhimurium virulence plasmid as a virulence factor of S. typhimurium that acts as a positive regulator of transcription for other plasmid - encoded virulence genes of S. typhimurium .
+It appears that S. typhimurium growing in L broth in vitro does not express spvR at levels great enough for it to act as a positive regulator of other virulence genes .
+This regulatory system may therefore be induced in - vivo during infection of mice .
+We thank Richard A. Lottenberg , Jorge E. Galan , and Donna H. Duckworth for critical review of this manuscript .
+We thank Vince A. Chiodo , Katharine Kepley , and Chris A. Adams for technical support .
+This work was supported by Public Health Service grant AI - 28421 and American Heart Association - Florida Affiliate grant in aid 89GIA81 to P.A.G. P.A.G. is the recipient of American Cancer Society Junior Faculty Research Award JFRA - 280 .
+Baird , G. D. , E. J. Manning , and P. W. Jones .
+Evidence for related virulence sequences in plasmids of Salmonella dublin and Salmonella typhimurium .
+Beninger , P. R. , G. Chikami , K. Tanabe , C. Roudier , J. Fierer , and D. G. Guiney .
+Physical and genetic mapping of the Salmonella dublin virulence plasmid pSDL2 .
+Relationship to plasmids from other Salmonella strains .
+A rapid procedure for isolation of DNA fragments from agarose gels .
+A rapid alkaline extraction method for the isolation of plasmid DNA .
+Byerly , K. A. , M. L. Urbanowski , and G. V. Stauffer .
+Escherichia coli metR mutants that produce a MetR activator protein with an altered homocysteine response .
+Cai , X. Y. , M. E. Maxon , B. Redfield , R. Glass , N. Brot , and H. Weissbach .
+Methionine synthesis in Escherichia coli : effect of the MetR protein on metE and metH expression .
+Cai , X. Y. , B. Redfield , M. Maxon , H. Weissbach , and N. Brot .
+The effect of homocysteine on MetR regulation of metE , metR and metH expression in - vitro .
+Caldwell , A. L. , S. B. Winram , and P. A. Gulig .
+A Salmonella typhimurium virulence plasmid gene encodes a positive regulatory factor for other plasmid - encoded virulence factors .
+Casadaban , M. , and S. N. Cohen .
+Analysis of gene control signals by DNA fusion and cloning in Escherichia coli .
+Chang , A. C. , and S. N. Cohen .
+Construction and characterization of amplifiable multicopy DNA cloning vehicles derived from the P1SA cryptic miniplasmid .
+Devereux , J. , P. Haeberli , and 0 .
+A comprehen - 7184 CALDWELL AND GULIG J. BACTERIOL .
+sive set of sequence analysis programs for the VAX .
+A general method for fusion of the Escherichia coli lacZ gene to chromosomal genes in Bacillus subtilis .
+Ervin , S. E. , P. A. Small , Jr. , and P. A. Gulig .
+Galan , J. E. , J. F. Timoney , and R. Curtiss III .
+Expression and localization of the Streptococcus equi M protein in Escherichia coli and Salmonella typhimurium , p. 34 - 40 .
+In D. G. Powell ( ed .
+) , Proceedings of the Fifth International Conference on Equine Infectious Diseases .
+University Press of Kentucky , Lexington .
+Virulence plasmids of Salmonella typhimurium and other salmonellae .
+Gulig , P. A. , A. L. Caldweli , and V. A. Chiodo .
+Gulig , P. A. , and V. A. Chiodo .
+Genetic and DNA sequence analysis of the Salmonella typhimurium virulence plasmid gene encoding the 28,000 - molecular - weight protein .
+Gulig , P. A. , and R. Curtiss III .
+Plasmid - associated virulence of Salmonella typhimurium .
+Gulig , P. A. , and R. Curtiss III .
+Cloning and transposon insertion mutagenesis of virulence genes of the 100 - kilobase plasmid of Salmonella typhimurium .
+Gulig , P. A. , H. Danbara , D. Guiney , A. Lax , F. Norel , and M. Rhen .
+Hashimoto - Gotoh , T. , F. C. H. Franklin , A. Nordheim , and K. N. Timmis .
+Specific - purpose plasmid cloning vectors .
+I. Low copy number , temperature - sensitive , mobilization - defective pSC101 - derived containment vectors .
+Henikoff , S. , G. W. Haughn , J. M. Calvo , and J. C. Wallace .
+A large family of bacterial activator proteins .
+Hoertt , B. E. , J. Ou , D. J. Kopecko , L. S. Baron , and R. L. Warren .
+Novel virulence properties of the Salmonella typhimurium virulence - associated plasmid : immune suppression and stimulation of splenomegaly .
+, A. Weston , M. G. M. Brown , and J. R. Saunders .
+Plasmid transformation in Escherichia coli , p. 254 - 279 .
+In S. W. Glover and L. 0 .
+Kawahara , K. , M. Tsuchimoto , K. Sudo , N. Terakado , and H. Danbara .
+Identification and mapping of mba regions of the Salmonella choleraesuis virulence plasmid pKDSC5O responsible for mouse bacteremia .
+Krause , M. , J. Harwood , J. Fierer , and D. Guiney .
+Genetic analysis of homology between the virulence plasmids of Salmonella dublin and Yersinia pseudotuberculosis .
+Krause , M. , C. Roudier , J. Fierer , J. Harwood , and D. Guiney .
+Molecular analysis of the virulence locus of the Salmonella dublin plasmid pSDL2 .
+Lax , A. J. , G. D. Pullinger , G. D. Baird , and C. M. Williamson .
+The virulence plasmid of Salmonella dublin : detailed restriction map and analysis by transposon mutagenesis .
+Transduction of linked genetic characters of the host by bacteriophage P1 .
+Lipman , D. J. , and W. R. Pearson .
+Rapid and sensitive protein similarity searches .
+Matsui , H. , K. Kawahara , N. Terakado , and H. Danbara .
+Nucleotide sequences of genes encoding 32 kDa and 70 kDa polypeptides in mba region of the virulence plasmid , pKDSc50 , of Salmonella choleraesuis .
+Matsui , H. , K. Kawahara , N. Terakado , and H. Danbara .
+Nucleotide sequence of a gene encoding a 29 kDa polypeptide in mba region of the virulence plasmid , pKDSC50 , of Salmonella choleraesuis .
+Maxon , M. E. , B. Redfield , X. Y. Cai , R. Shoeman , K. Fujita , W. Fisher , G. Stauffer , H. Weissbach , and N. Brot .
+Regulation of methionine synthesis in Escherichia coli : effect of the MetR protein on the expression of the metE and metR genes .
+Michiels , T. , M. Y. Popoff , S. Durviaux , C. Coynault , and G. Cornelis .
+A new method for the physical and genetic mapping of large plasmids : application to the localisation of the virulence determinants on the 90 kb plasmid of Salmonella typhimurium .
+Assay of beta - galactosidase , p. 353 - 355 .
+In Experiments in molecular genetics .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 36 .
+Norel , F. , C. Coynault , I. Miras , D. Hermant , and M. Y. Popoff .
+Cloning and expression of plasmid DNA sequences involved in Salmonella serotype typhimurium virulence .
+Pisano , J. Nicoli , and M. Y. Popoff .
+Nucleotide sequence of the plasmid - borne virulence gene mkfA encoding a 28 kDa polypeptide from Salmonella typhimurium .
+Norel , F. , M. R. Pisano , J. Nicoli , and M. Y. Popoff .
+A plasmid - borne virulence region ( 2.8 kb ) from Salmonella typhimurium contains two open reading frames .
+Norel , F. , M. R. Pisano , J. Nicoli , and M. Y. Popoff .
+Nucleotide sequence of the plasmid - borne virulence gene mkjB from Salmonella typhimurium .
+Pardon , P. , M. Y. Popoff , C. Coynault , J. Marly , and I. Miras .
+Virulence - associated plasmids of Salmonella serotype typhimurium in experimental murine infection .
+Pearson , W. R. , and D. J. Lipman .
+Improved tools for biological sequence comparison .
+Plamann , L. S. , and G. V. Stauffer .
+Nucleotide sequence of the Salmonella typhimurium metR gene and the metR - metE control region .
+Plamann , M. D. , and G. V. Stauffer .
+Regulation of the Escherichia coli glyA gene by the metR gene product and homocysteine .
+Pullinger , G. D. , G. D. Baird , C. M. Williamn , and A. J. Lax .
+Nucleotide sequence of a plasmid gene involved in the virulence of salmonellas .
+Rhen , M. , M. Virtanen , and P. H. MAkela 1989 .
+Localization by insertion mutagenesis of a virulence - associated region on the Salmonella typhimurium 96 kilobase pair plasmid .
+Phage P22 - mutants with increased or decreased transduction abilities .
+Stragier , P. , and J. - C .
+Regulation of diaminopimelate decarboxylase synthesis in Escherichia coli .
+Taira , S. , and M. Rhen .
+Molecular organization of genes constituting the virulence determinant on the Salmonella typhimurium 96 kilobase pair plasmid .
+Taira , S. , and M. Rhen .
+Identification and genetic analysis of mkaA - a gene of the Salmonella typhimurium virulence plasmid necessary for intracellular growth .
+Taira , S. , and M. Rhen .
+Nucleotide sequence of mkaD , a virulence - associated gene of Salmonella typhimurium containing variable and constant regions .
+Urbanowski , M. L. , and G. V. Stauffer .
+Genetic and biochemical analysis of the MetR activator - binding site in the metE metR control region of Salmonella typhimurium .
+Urbanowski , M. L. , and G. V. Stauffer .
+Role of homocysteine in metR - mediated activation of the metE and metH genes in Salmonella typhimurium and Escherichia coli .
+Vieira , J. , and J. Messing .
+The pUC plasmids , an M13mp7 - derived system for insertion mutagenesis and sequencing synthetic primers .
+173 , 1991 REGULATION OF S. TYPHIMURIUM VIRULENCE PLASMID GENE 7185 54 .
+Wek , R. C. , and G. W. Hatfield .
+Nucleotide sequence and in - vivo expression of the ilv Y and ilvC genes in Escherichia coli K12 .
+Williamson , C. M. , G. D. Baird , and E. J. Manning .
+A common virulence region on plasmids from eleven serotypes of Salmonella .
+Williamson , C. M. , G. D. Puilinger , and A. J. Lax .
+Identification of an essential virulence region on Salmonella plasmids .
+Williamson , C. M. , G. D. Pullinger , and A. J. Lax .
+Identification of proteins expressed by the essential virulence region of the Salmonella dublin plasmid .
+Winram , S. B. , and P. A. Gulig .
+Wu , H. - Y. , S. Shyy , J. C. Wang , and L. F. Liu .
+Transcription generates positively and negatively supercoiled domains in the template .

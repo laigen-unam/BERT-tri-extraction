@@ -1,0 +1,510 @@
+JOURNAL OF BACTERIOLOGY , July 2007 , p. 4587 -- 4596 Vol .
+189 , No. 13 0021 - 9193/07 / $ 08.00 0 doi : 10.1128 / JB.00178 - 07 Delineation of the Salmonella enterica Serovar Typhimurium HilA Regulon through Genome - Wide Location and Transcript Analysis Inge M. V. Thijs , 1 Sigrid C. J. De Keersmaecker , 1 * Abeer Fadda , 1 Kristof Engelen , 1 Hui Zhao , 1,2 Michael McClelland , 3 Kathleen Marchal , 1,2 and Jos Vanderleyden 1 Centre of Microbial and Plant Genetics , K. U. Leuven , Kasteelpark Arenberg 20 , 3001 Leuven , Belgium 1 ; ESAT - SCD , K. U. Leuven , Kasteelpark Arenberg 10 , 3001 Leuven , Belgium 2 ; and Sidney Kimmel Cancer Center , 10835 Altman Row , San Diego , California 92121 3 The Salmonella enterica serovar Typhimurium HilA protein is the key regulator for the invasion of epithelial cells .
+By a combination of genome - wide location and transcript analysis , the HilA - dependent regulon has been delineated .
+Under invasion - inducing conditions , HilA binds to most of the known target genes and a number of new target genes .
+The sopB , sopE , and sopA genes , encoding effector proteins secreted by the type III secretion system on Salmonella pathogenicity island 1 ( SPI - 1 ) , were identified as being both bound by HilA and differentially regulated in an HilA mutant .
+This suggests a cooperative role for HilA and InvF in the regulation of SPI - 1-secreted effectors .
+Also , siiA , the first gene of SPI - 4 , is both bound by HilA and differentially regulated in an HilA mutant , thus linking this pathogenicity island to the invasion key regulator .
+Finally , the interactions of HilA with the SPI - 2 secretion system gene ssaH and the flagellar gene flhD imply a repressor function for HilA under invasion - inducing conditions .
+Salmonella enterica serovar Typhimurium causes a host - dependent range of diseases from self - limiting gastroenteritis to life - threatening systemic infections .
+The complex infection process is initiated by invasion of the intestinal epithelial monolayer ( 75 ) by means of a type III secretion system ( TTSS ) , encoded on pathogenicity island 1 ( SPI - 1 ) , through which effector proteins are translocated into the epithelial cells ( 17 , 53 ) .
+By manipulating host cell functions via these effector proteins , S. enterica serovar Typhimurium alters the epithelial cell 's cytoskeletal structure , leading to bacterial internalization ( 76 ) .
+The key regulator for the composition and functioning of this invasion - enabling TTSS and associated effector proteins is HilA , an OmpR/ToxR family transcriptional regulator ( 5 ) , which is also encoded within SPI - 1 .
+A complex interaction of environmental and genetic control elements ( 3 , 29 , 43 ) induces HilA to activate the inv/spa and prg operons , encoding components of the TTSS apparatus ( 51 , 52 ) , and the sic/sip operon , encoding a chaperone and secreted proteins ( 23 ) .
+SPI - 4 , which is required for the enteric phase of pathogenesis ( 62 ) , also has been related to HilA ( 2 , 23 , 61 ) .
+Furthermore , HilA represses its own expression ( 23 ) .
+In addition , HilA indirectly regulates expression of secreted proteins by activating the transcription of the SPI - 1 invF gene , encoding an AraC family transcriptional regulator ( 19 ) .
+In this work , data on in - vivo HilA binding , obtained through genome - wide location analysis ( GWLA ) or chromatin immunoprecipitation microarray ( CHIP - chip ) experiments ( 12 ) , have been combined with transcriptional profiling of an hilA Plant Genetics , K. U. Leuven , Kasteelpark Arenberg 20 , 3001 Leuven , Belgium .
+Published ahead of print on 4 May 2007 .
+mutant versus a wild - type strain and in silico motif detection to provide a delineation of the direct HilA regulon , i.e. , all genes directly bound by HilA , on a genome - wide scale .
+Retrieval of most of the known direct HilA target genes validated this approach .
+Moreover , a number of new targets were identified .
+Based on these findings , an extension of the HilA - dependent regulon is proposed .
+MATERIALS AND METHODS Bacterial strains , plasmids , and growth - conditions .
+Salmonella strains used in this study are derived from the wild - type S. enterica serovar Typhimurium strain SL1344 .
+Bacterial strains and plasmids are listed in Table 1 .
+S. enterica serovar Typhimurium and Escherichia coli were grown in Luria - Bertani ( LB ) broth ( 73 ) .
+Except for cloning procedures , salmonellae were cultured under high - osmolarity and limited - aeration conditions ( see below ) at 37 °C , previously shown to promote the induction of SPI - 1 genes and to induce adherence and invasiveness ( 6 , 48 , 54 , 71 ) .
+For agar plates , 15 g/liter agar was added .
+Where appropriate , antibiotics were added at the following final concentrations : ampicillin , 100 g/ml ; and chloramphenicol , 25 g/ml .
+Strain and plasmid construction .
+Standard protocols were used for buffer preparation , cloning , plasmid isolation , isolation of genomic DNA , and E. colicompetent cell preparation and transformation ( 73 ) .
+Salmonellae were transformed as previously described ( 68 ) .
+Cloning steps were performed using E. coli DH5 and TOP10F .
+A strain with chromosomally encoded 9xMyc epitope - tagged HilA was constructed as follows .
+First , the Cm r cassette from plasmid pKD3 ( 20 ) was amplified using primers PRO379 and PRO254 , digested with SpeI and EcoRI , and cloned into pCRII TOPO ( Invitrogen ) , yielding pCMPG5802 .
+PRO379 carries a SpeI restriction site , two translational stops , and priming site 1 of pKD3 ( 20 ) , and PRO254 carries priming site 2 of pKD3 ( 20 ) and an EcoRI restriction site .
+A 9xmyc - carrying SpeI - flanked fragment was isolated from c3390 ( 44 ) and cloned into the SpeI site of pCMPG5802 to generate pCMPG5803 .
+This plasmid is the 9xmyc template plasmid from which a fragment containing 9xmyc , two translational stops , and the Cm r cassette was amplified using primers PRO381 and PRO256 .
+The PCR fragment was subsequently integrated at the 3 end of the hilA gene in the chromosome by selecting for Cm r transformants ( 20 , 85 ) .
+Primer PRO381 carries 36 nucleotides ( nt ) of the sequence immediately upstream of the stop codon of the hilA gene following a priming site on pCMPG5803 , ensuring the in - frame insertion of the 9xmyc epitope through homologous recombination .
+Primer PRO256 carries 36 nt of the sequence starting 4 bp downstream of the 4587 4588 THIJS ET AL. .
+Bacterial strains and plasmids Strain or plasmid Description Source or reference Strains E. coli DH5 F endA1 glnV44 thi - 1 recA1 relA1 gyrA96 deoR nupG 80dlacZ M15 ( lacZYA - argF ) U169 , Gibco BRL hsdR17 ( r K m K ) , E. coli TOP10F F lacI q Tn10 ( Tet r ) mcrA ( mrr - hsdRMS - mcrBC ) 80lacZ M15 lacX74 recA1 araD139 Invitrogen ( ara - leu ) 7697 galU galK rpsL ( Sm r ) endA1 nupG S. enterica serovar xyl hisG rpsL ; virulent ; Sm r 41 Typhimurium SL1344 CMPG5804 SL1344 hilA This work CMPG5805 SL1344 hilA - M9 This work Plasmids pKD3 rep R6K Ap r FRT Cm r FRT 20 pCMPG5802 Fragment with SpeI site , two translational stops , and cat cassette with flanking FRT sites This work from pKD3 cloned into pCRII TOPO ( Invitrogen ) c3390 SpeI - myc9 - SpeI cassette in pBluescript SKII 44 pCMPG5803 M9 template ; SpeI - myc9 - SpeI cassette cloned into SpeI of pCMPG5802 This work pBAD/Myc - His Cloning vector to make C - terminal Myc - and His - tagged proteins expressed under arabinose Invitrogen control ; Ap r pCMPG5338 hilA open reading frame cloned in pBAD/Myc - His 23 , 51 hilA stop codon attached to priming site 2 of pKD3 , which includes a ribosome binding site and start codon ( 20 ) .
+The mutation was transferred to a clean background by P22 transduction ( 21 ) , and the Cm r cassette was removed as described previously ( 20 ) .
+The tagged HilA ( HilA - M9 ) encoded by the resulting strain CMPG5805 is detectable with anti - c-Myc ( M4439 ; Sigma ) and is able to activate invasion gene promoters ( data not shown ) .
+In analogy to the construction of CMPG5805 , the hilA mutant strain CMPG5804 was constructed using primers PRO377 and PRO378 amplifying the Cm r cassette of pKD3 ( 20 ) .
+Primer PRO377 carries 50 nt homologous to the sequence immediately upstream of the hilA gene following priming site 1 of pKD3 ( 20 ) .
+Primer PRO378 carries 50 nt homologous to the sequence immediately downstream of the hilA gene attached to priming site 2 of pKD3 ( 20 ) .
+The ribosome binding site and start codon encoded in priming site 2 ensure efficient translation of the downstream gene iagB .
+All constructs were confirmed by sequencing on an ABI 3100 - Avant genetic analyzer ( 74 ) .
+Genome - wide location analysis ( GWLA ) was performed for three biological replicates of both the SL1344 wild - type strain and the CMPG5805 strain .
+Salmonella strains were cultured under high - osmolarity and limited - aeration conditions ( 71 ) until an optical density at 595 nm of 0.4 ( 1E - 09 CFU/ml ) was reached .
+Chromatin immunoprecipitation was performed essentially as described by Laub et al. ( 47 ) and Shin and Groisman ( 79 ) .
+DNA binding proteins were cross - linked to their binding sites in - vivo by the addition of formaldehyde ( 1 % ) .
+After 20 min , cross - linking was quenched by the addition of glycine ( 125 mM ) .
+Cells were harvested from 50 ml of culture by centrifugation , washed twice with phosphate - buffered saline , resuspended in 500 l of lysis buffer ( 10 mM Tris [ pH 8 ] , 20 % sucrose , 50 mM NaCl , 10 mM EDTA with 10 mg/ml lysozyme ) , and incubated at 37 °C for 30 min .
+Following lysis , 500 l of2 immunoprecipitation buffer ( 100 mM Tris [ pH 8 ] , 300 mM NaCl , 2 % Nonidet P - 40 ( NP - 40 ) , 1 % sodium deoxycholate , 0.2 % sodium dodecyl sulfate ) was added .
+Cellular DNA was then sheared by sonication ( Labsonic U Braun ) to an average size of 500 to 1,000 bp .
+Cell debris was removed by centrifugation , and the supernatant was retained as an input sample in immunoprecipitation experiments .
+A 750 - l aliquot of this input sample was incubated with 4 l of anti - c-Myc monoclonal mouse antibody ( M4439 ; Sigma ) for 4hat4 °C onarotating wheel .
+Next , 30 l of protein G Dynabeads ( Dynal ; Invitrogen ) was added , and the mixture was incubated at 4 °C for an additional hour .
+The beads were collected from each sample with a dedicated magnet and washed twice with 1 immunoprecipitation buffer , twice with wash buffer ( 10 mM Tris - HCl [ pH 8 ] , 250 mM LiCl , 1 mM EDTA , 0.5 % NP - 40 , 0.5 % sodium deoxycholate ) , and once with Tris - EDTA buffer ( pH 8 ) .
+Immunoprecipitated complexes were removed from the beads by treatment with elution buffer ( 50 mM Tris - HCl [ pH 8 ] , 10 mM EDTA , 1 % sodium dodecyl sulfate ) at 65 °C for 10 min .
+Cross - links in the eluted complexes were reversed by overnight incubation at 65 °C .
+DNA was purified from the immunoprecipitate by proteinase K treatment and phenol - chloroform - isoamylalcohol ( 25:24:1 ) extraction and resuspended in 30 l Tris - EDTA buffer ( pH 8 ) .
+The presence of the promoter region of prgH in the immunoprecipitated DNA was verified by PCR using primers PRO304 and PRO447 ( data not shown ) .
+For the array analysis , immunoprecipitated DNA fragments were blunted and amplified via ligation - mediated PCR ( LM - PCR ) ( 63 ) .
+For the macroarray analysis , DNA fragments were labeled with digoxigenin - dUTP ( Roche ) in LM - PCR , according to the manufacturer 's instructions , and hybridized to a macroarray containing the intergenic regions of known and hypothesized HilA target genes , i.e. , prgH , invF , sicA , hilA , and siiA , along with a number of negative controls .
+For the microarray analysis , LM - PCR - amplified DNA fragments were indirectly labeled with Cy5 as previously described ( 64 ) .
+DNA from cells undergoing the same protocol but omitting the immunoprecipitation step was labeled with Cy3 and used as a common reference for all hybridizations .
+The applied Salmonella microarrays covered 99.4 % of the S. enterica serovar Typhimurium LT2 genome nonredundantly supplemented with genes from strains S. enterica serovar Typhi CT18 , S. enterica serovar Paratyphi A SARB42 , and S. enterica serovar Enteritidis PT4 ; each array element , representing a coding sequence , was spotted in triplicate ( 66 , 67 ) .
+Data were linearly rescaled using an orthogonal regression fit .
+To avoid increasing variation in the low - intensity range , no background correction was performed .
+To detect significantly enriched genes , a two - sample t test ( ttest2 ; Statistics Toolbox , Matlab ) was applied to compare log ratios for the GWLA samples from the CMPG5805 and wild - type strains .
+Salmonella strains SL1344 and CMPG5804 were cultured under high - osmolarity and limited - aeration conditions to induce hilA expression ( 71 ) until an optical density at 595 nm of 0.4 was reached .
+Total RNA was isolated with a QIAGEN RNeasy Mini kit according to the manufacturer 's protocol .
+Contaminating genomic DNA was removed from the RNA samples with Turbo DNA - free ( Ambion ) .
+Removal of DNA was checked by PCR .
+Prior to labeling , the concentration of total RNA was determined by measuring the absorbance at 260 nm with a NanoDrop spectrophotometer ( ND - 1000 ) .
+RNA was labeled with Cy5 and Cy3 by reverse transcription ( 87 ) .
+Hybridizations were performed using a color flip technique and S. enterica serovar Typhimurium arrays containing 70mer oligonucleotides representing all LT2 annotated genes ( Operon ) spotted in duplicate on CodeLink activated slides ( Amersham Biosciences ) .
+Data were Loess normalized with the LIMMA Bio - Conductor package ; no background correction was performed .
+Differentially expressed genes were detected by significance analysis of microarrays ( SAM ) ( 84 ) by means of the BioConductor siggenes package .
+A d value representing a measure of differential expression ( d i ) was calculated as r i / ( s i s 0 ) , where i is 1 , 2 , ... , p genes .
+The parameter s i represents the standard deviation , s 0 a fixed factor , and r i a score which is the mean of the log ratios in the one - class case we applied .
+Promoter regions upstream of putative HilA targets were obtained by PCR , according to manufacturer 's instructions ( Pfx ) , on SL1344 genomic DNA .
+The primers listed in Table 2 were designed to amplify the intergenic region between annotated open reading frames ( 58 ) , VOL .
+189 , 2007 HilA GENOME - WIDE LOCATION AND TRANSCRIPT ANALYSIS 4589 TABLE 2 .
+DNA labeling and electrophoretic - mobility - shift assays ( EMSAs ) were performed as previously described ( 23 ) , with the following modifications .
+HilA and HilA extracts were prepared by ultracentrifugation of sonicated arabinose - treated ( 0.02 % ) TOP10F cells carrying pCMPG5338 and pBAD/Myc - His B ( Invitrogen ) , respectively , as previously described ( 51 ) .
+DNA binding reactions were carried out in a total volume of 20 l containing 4 l of5 DNA binding buffer [ 100 mM HEPES ( pH - 7.6 ) ; 5 mM EDTA ; 50 mM ( NH 4 ) 2 SO 4 ; 5 mM dithiothreitol ; 1 % ( wt/vol ) Tween 20 ; 150 mM KCl ] , 2 l of labeled DNA fragment ( 0.4 ng / l ) , and different concentrations of the HilA extract ( 5 ng / l to1 .5 g / l ) .
+HilA extract was used at a concentration of 5 ng / l to 500 ng / l. Competitor DNA ( unlabeled DNA fragment ) was added in a 100 - fold excess .
+DNA binding reactions were carried out on ice for 25 min .
+Reaction mixtures were separated on a 6 % DNA retardation gel ( Invitrogen ) at 4 °C .
+MDscan ( 50 ) , a motif - discovery algorithm that combines word enumeration with position - specific weight matrix updating , was used for the detection of novel motifs .
+The intergenic regions upstream of sopB , sopE , sopA , siiA , prgH , invF , ssaH , flhD , sicA , and hilA were used as seeds for the algorithm , with motif widths ranging between 6 and 16 bp .
+Both the forward and the reverse strands were sampled , since it has been shown that functional motifs can occur in the gene in both directions ( 94 ) .
+The position - specific weight matrix of the motif retrieved by MDscan was used to screen the intergenic regions with MotifLocator ( 82 ) .
+The motif is represented as a consensus sequence ; for each position , capitals correspond to nucleotides conserved in more than two - thirds of the motif instances .
+RESULTS Genome - wide location analysis to map HilA target genes in vivo .
+Chromatin immunoprecipitation combined with microarrays was applied to identify transcriptional targets of the S. enterica serovar Typhimurium HilA regulator .
+To isolate HilA - DNA complexes , a S. enterica serovar Typhimurium strain expressing a 9 Myc - tagged version of HilA from the hilA chromosomal locus was used .
+Cells were cultured under hilAinducing conditions , i.e. , high - osmolarity and low oxygen at the transition from exponential to stationary - phase ( 6 , 48 , 54 , 71 ) .
+Mock experiments , using a wild - type strain lacking the Myc epitope , were performed to control for some kinds of false positives , including nonspecific antibody interactions ( 12 ) .
+Theoretically , these mock experiments should be devoid of enriched DNA ( 12 ) , but this is never the case in practice .
+Enriched DNA fragments were hybridized along with a reference sample on Salmonella cDNA microarrays ( 67 ) .
+Although these microarrays contain only coding sequences and not intergenic regions , an adequate result was expected due to the overlap of the binding site - containing DNA fragments with the coding sequences present on the array .
+Moreover , cDNA arrays have been successfully applied in GWLA studies before ( 60 ) .
+To identify in - vivo bound DNA fragments , the log ratios of the enriched over the genomic DNA signal for each array element were compared for the actual and the mock experiments by t test .
+This yielded 209 array elements ( P 0.05 ) representing preferential sites of binding by HilA in - vivo , including the already - known target genes prgH ( 52 ) and invF ( 51 ) .
+A list of known and putative HilA target genes obtained by combining both genome - wide location and transcriptome analyses .
+GWLA yielded 209 potential binding sites for the HilA transcriptional regulator , but the HilA regulon is not expected to contain such a large number of direct target genes .
+For E. coli , it has been proposed that the majority of transcription factors are `` fine tuners '' that control a limited , specific set of genes as opposed to global transcription factors controlling tens or hundreds of genes directly or indirectly ( 56 , 57 ) .
+The involvement of HilA in virulence probably classifies this transcription factor as a `` fine tuner , '' suggesting that some of the GWLA results are false positives .
+Moreover , some of the enriched array elements correspond to binding sites between divergently transcribed genes that are not necessarily both HilA target genes .
+To discriminate between these diverging , neighboring genes and to filter out false positives , expression profiling of a wildtype strain versus an hilA mutant strain was performed under the same conditions as the genome - wide location analysis .
+The wild - type and hilA mutant strains grow at similar rates under these conditions and reach the same density at stationary phase .
+Genes were assigned a d value based on the level of differential expression between both strains by means of SAM ( 84 ) .
+Differentially expressed genes included already - known downstream targets of HilA such as the components and secreted effector proteins of the type III secretion system encoded on SPI - 1 ( 23 , 51 , 52 ) .
+SPI - 4 , previously shown to be regulated by SirA in an HilA - dependent manner ( 2 ) , also showed higher expression in the wild - type strain than in the hilA mutant strain under hilA - inducing conditions .
+Effector proteins secreted by the SPI - 1 TTSS but encoded outside of SPI - 1 by , i.e. , sopB ( or sigD ) , sopE , sopE2 , sopA , and , to a lesser extent , sopD were up - regulated in the wild - type strain relative to the hilA mutant strain under hilA - inducing conditions .
+In fact , all known direct and indirect regulatory effects of HilA were reflected in the expression profiles obtained .
+Table 3 shows the number of genes per interval of SAM d values .
+The 31 genes displaying a d value of 7 or higher adequately reflect 4590 THIJS ET AL. .
+Global transcriptional profile of hilA mutant versus wild type Differential expression d value a ( SAM 84 ) No .
+of genes b a Positive values represent down - regulation in the hilA mutant versus the wild - type strain ; negative values represent up - regulation .
+b The total number of genes was 4,718 .
+the number of genes currently known to belong , directly or indirectly , to the HilA regulatory pathway .
+The most reliable new candidate HilA target genes were identified from the intersection of the GWLA and transcriptome datasets .
+Table 4 lists all genes that were significantly enriched in GWLA ( P 0.05 ) and that showed significant differential expression results ( absolute d value , 2 ) between the wild - type strain and the hilA mutant strain , ranked according to their d values .
+Since array elements corresponding to flanking coding sequences can detect enrichment of a single HilA binding site because of the length of the randomly sheared DNA fragments in the immunoprecipitated samples ( 500 to 1,000 bp ) , genes belonging to the same operon were grouped .
+Of the 19 genes in Table 4 , 9 were shown to be specific for Salmonella spp. in comparisons to eight related enterobacterial strains ( 58 ) .
+In fact , the seven top - scoring genes are unique to Salmonella spp. .
+This is not surprising , since hilA itself is part of a Salmonella - specific pathogenicity island ( 58 ) .
+Previously known HilA target genes prgH ( 52 ) and invF ( 51 ) scored high in our list ( see Table 4 ) .
+Although other known target genes such as sicA and hilA ( 23 ) were not initially detected , a dedicated intergenic macroarray allowed us to identify them as being bound by HilA ( data not shown ) .
+Furthermore , interesting observations were made concerning .
+This member of the HilA regulon ( 23 ) has been reannotated and is now shown to reside within a large gene ( STM4261 or siiE ) belonging to a six - gene operon ( STM4257 - 4262 or siiA - F ) also called SPI - 4 ( 89 ) .
+Since Ahmer et al. ( 2 ) showed that siiE is regulated by SirA in an HilA - dependent manner , the intergenic region upstream of the first gene of the operon , STM4257 or siiA , was included in the dedicated intergenic macroarray and this region indeed showed enrichment .
+In fact , STM4256 , a coding sequence upstream of siiA , displayed significant enrichment in the GWLA , and SPI - 4 ( siiA - E ) was differentially expressed in the transcriptome analysis .
+Gene name Gene function TABLE 4 .
+Comparative genomics assays were performed with nine enterobacterial strains comprising S. enterica serovar Typhimurium LT2 , S. enterica serovar Typhi CT18 , S. enterica serovar Paratyphi A , S. enterica serovar Paratyphi B , S. enterica subsp .
+arizonae , S. bongori , E. coli K12 , E. coli 0157 : H7 , and Klebsiella pneumoniae ( 58 ) .
+Gene function data are based on the work of McClelland et al. ( 58 ) and were adapted according to recent literature .
+b Differential gene expression according to SAM ( 84 ) ; positive values represent down - regulation in the hilA mutant versus the wild type .
+c Enrichment in GWLA according to t test analysis ( ttest2 ; Statistics Toolbox , Matlab ) .
+d SL gene number taken from the Sanger Institute S. enterica serovar Typhimurium SL1344 annotation ( http://www.sanger.ac.uk/Projects/Salmonella / .
+The gene sequence of SL2674 is 99 % identical to that of the S. enterica serovar Typhi CT18 STY4609 gene , which was present on the microarray ( 66 , 67 ) .
+e See Hardt et al. ( 40 ) .
+f Reported GWLA P value is for strain STM4256 ; see Results for further clarification .
+189 , 2007 HilA GENOME - WIDE LOCATION AND TRANSCRIPT ANALYSIS 4591 shows a combination of both observations for the first gene of SPI - 4 , siiA .
+It has been reported before that a neighboring gene instead of the actual target was identified by genome - wide location analysis using open reading frame microarrays ( 60 ) .
+Overview of candidate HilA target genes .
+In addition to the already - known HilA target genes , Table 4 contains a number of new possible targets .
+These include the Salmonella - specific TTSS effector Salmonella outer proteins ( Sops ) SopB , SopE , and SopA encoded outside of SPI - 1 ( 40 , 90 , 91 ) , which are all known to be secreted by the TTSS encoded by SPI - 1 .
+Also , ssaH ( 14 , 78 ) and sseL ( 15 , 72 ) , related to the Salmonella pathogenicity island SPI - 2 that is required for the infection phase following the initial invasion , are present in Table 4 .
+The remaining HilA target candidates code for a phosphoglyceromutase ( gpmA ) , a transport protein ( glpT ) , a regulator of flagellar biosynthesis ( flhD ) , a galactosidase ( melA ) , a protein involved in rRNA modification ( miaB ) , an ATP synthase ( atpF ) , a murein lipoprotein ( lpp ) , an UDP - N-acetyl - D-mannosaminuronic acid ( UDP - ManNAcA ) dehydrogenase ( wecC ) , and some proteins with a putative function ( ygiM , STM3598 , and STM1533 ) .
+Some of these candidate target genes ( ssaH , ygiM , sseL , glpT , flhD , atpF , and lpp ) appear to be negatively regulated by HilA .
+To validate the genome - wide approach , the in - vitro binding of HilA to the promoter regions of a selection of putative target genes , as listed in Table 4 , was assessed .
+All genes positioned higher on the list than the known target genes prgH and invF were considered .
+The effector - encoding genes sopB , sopE , and sopA and the first gene of SPI - 4 , siiA , are all restricted to Salmonella spp. and functionally related to invasion .
+Besides these , we selected from the remaining candidate genes some of those negatively regulated by HilA , namely , ssaH , ygiM , sseL , flhD , and lpp , and a gene for which no link with virulence could be readily proposed , gpmA .
+Direct regulation of sopB , sopE , sopA , siiA , ssaH , and flhD by HilA .
+Table 4 shows that under invasion - inducing conditions , sopB , sopE , sopA , and siiA were up - regulated and ssaH and flhD were down - regulated in a wild - type strain relative to an hilA mutant strain .
+This observation , combined with genomewide location analysis , points to a direct control of the sopB , sopE , sopA , siiA , ssaH , and flhD promoter regions by HilA in vivo ( Table 4 ) .
+EMSAs could demonstrate the in - vitro binding of HilA to these promoter regions , as depicted in Fig. 1 .
+No protein extract was added in the first lane for each EMSA ( lanes 1 , 7 , 12 , 18 , 26 , and 31 ) .
+The respective positions of the free DNA probes after migration through the gel are indicated with an F at the left side of each panel .
+For all promoter regions , the position of the DNA probe shifted when increasing amounts of HilA extract were added ( marked with aBattheleft side of each panel ) , indicating that the HilA extract altered the mobility of the DNA probes ( lanes 2 to 5 for PsopB , lanes 8 and 9 for PsopE , lanes 13 and 14 for PsopA , lanes 19 to 22 for PsiiA , lanes 27 and 28 for PssaH , and lanes - 32 and 33 for PflhD ) .
+Also , more DNA probe was bound with increasing amounts of HilA extract .
+For PsopB , this can be noticed from the intensification of the shifted DNA band from lane 2 to lane 5 .
+No visible signal remained at the position of the free DNA probe when increasing amounts of HilA extract were added to the PsopE , PsopA , PsiiA , and PflhD probes ( lanes 8 and 9 , 13 and FIG. 1 .
+EMSAs demonstrate the in - vitro binding of HilA to the promoter regions of sopB , sopE , sopA , siiA , ssaH , and flhD .
+Each lane contains the same amount of labeled DNA probe and various concentrations of HilA or HilA extract .
+The following symbols are used : F , free DNA probe ; B , bound DNA probe ; and , HilA and HilA protein extract , respectively ; / , no protein extract added .
+The amount of protein extract added is given below each lane ; underlined numbers indicate the addition of a 100 - fold excess of unlabeled specific competitor DNA .
+Lanes 1 to 6 represent EMSA results for the sopB promoter ( PsopB ) , lanes 7 to 11 for PsopE , lanes 12 to 17 for PsopA , lanes 18 to 25 for PsiiA , lanes 26 to 30 for PssaH , and lanes 31 to 36 for PflhD .
+14 , 19 to 22 , and 32 and 33 , respectively ) .
+For PsiiA , all DNA was retained in the slots of the gel in lanes 21 and 22 ( indicated by the upper B ) , while in lanes 19 and 20 , the probe appears smeared out over the length of the gel ( indicated by the lower B ) .
+In the presence of specific competitor DNA , i.e. , unlabeled DNA probe , the intensity of the shifted PsopE , PsopA , PssaH , and PflhD probes diminished ( lane 10 versus 9 , lane 15 versus 14 , lane 29 versus - 28 , and lane 34 versus 33 , respectively ) ; in each case , both lanes mentioned contain the same amount of HilA extract .
+For PsiiA , no probe was retained in the slots of the gel when unlabeled PsiiA probe was added in the presence of the same amount of HilA extract ( lane 23 versus 21 ) .
+Increasing amounts of HilA extract did not affect the positions of PsopB , PsopA , PsiiA , and PssaH ( lane 6 , lanes 16 and 17 , lanes 24 and 25 , and lane 30 , respectively ) , demonstrating that the retardation of these promoter probes required the presence of HilA .
+The origin of the shifted band in lane 7 , which contained only free PsopE and which also occurs in lane 10 and 11 , the latter containing HilA extract , is unknown .
+This band , however , is not present in lanes 8 and 9 , which contained shifted PsopE due to the addition of HilA extract .
+In the PflhD EMSA , a nonspecific shifted band was present in all lanes to which protein extract was added ( lanes - 32 to 36 ) .
+The PflhD band that is positioned above this nonspecific band in lanes - 32 and 33 , however , was HilA specific and was not 4592 THIJS ET AL. .
+present when increasing amounts of HilA extract were added ( lanes 35 and 36 ) .
+Since the flhD gene is also present in E. coli , it is not unlikely that the E. coli protein extract contains one or more proteins , apart from HilA , that bind the flhD promoter region .
+Furthermore , the intensity of the HilA - specific shifted band alone diminished in the presence of specific competitor DNA ( lane 34 ) .
+Together , these results support the idea of direct transcriptional control of sopB , sopE , sopA , siiA , ssaH , and flhD by HilA .
+For the other candidate genes that were selected for validation , i.e. , ygiM , sseL , lpp , and gpmA , no clear HilA - specific shift could be detected ( data not shown ) .
+The HilA target gene promoters contain a consensus motif that overlaps with the previously identified HilA box .
+Transcriptional interactions are believed to be dictated by the presence of consensus sequences or motifs .
+An HilA motif , also called an HilA box , has previously been determined through biochemical analyses ( 52 ) and in silico motif detection following expression cluster analysis ( 23 ) .
+To detect whether the previously described motif was significantly overrepresented in our list of direct HilA target genes , i.e. , sopB , sopE , sopA , siiA , prgH , invF , ssaH , flhD , and those retrieved with the intergenic macroarray , sicA and hilA , in silico motif detection analysis was performed .
+A consensus motif with a width of 8 bp ( cATCAGgA ) , corresponding to part of the previously reported HilA box tN 3 TgCAtCAGga ( 23 ) , was detected as overrepresented by MDscan ( 50 ) .
+MotifLocator ( 82 ) retrieved several instances of the motif in the eight genes used .
+DISCUSSION From data integration to HilA regulon delineation .
+By applying genome - wide location analysis and expression profiling , most of the known and a number of new transcriptional targets of the S. enterica serovar Typhimurium invasion key regulator HilA were identified .
+Compared to other high - throughput approaches for the genome - wide identification of transcriptional targets , GWLA has considerable advantages .
+Unlike gene expression profiling , it can distinguish between direct and indirect target genes .
+Furthermore , in contrast to the prediction of target genes by in silico motif detection , GWLA is supported by in - vivo experimental evidence and does not rely only on the sometimes - spurious presence of consensus DNA binding sites ( 49 ) .
+But while GWLA alone is prone to noise , combining it with the results of other methods should reduce the number of false positives ( 24 , 37 ) .
+Moreover , it offers the additional advantage that only those target genes are selected for whose expression is controlled by HilA under the applied conditions .
+A drawback of this approach is that it is rather conservative in that it assumes that genes bound by HilA in - vivo but not showing differential expression in the transcriptome analysis are not true target genes .
+Indeed , occupancy of a gene 's promoter region by a transcriptional regulator can be a necessary but not a sufficient condition for its transcriptional activity .
+Transcriptional control has a combinatorial character , and this complexity is hard to capture with knockout microarray experiments performed under a single condition .
+Expression of a direct HilA target gene could still be dependent on the presence of an additional transcriptional regulator which does not bind under the applied conditions or for which an essential cofactor is not available .
+However , most of the known HilA target genes , i.e. , prgH , invF , sicA and hilA , were retrieved by our setup , although the promoter regions of the latter two genes could be identified only when an intergenic macroarray instead of a cDNA microarray was used .
+This macroarray contained probes for the intergenic regions of a selected number of genes , being inherently more appropriate for the determination of transcription factor binding sites .
+It can thus be anticipated that our chromatin immunoprecipitation assay has the required sensitivity but that some genuine HilA regulon members might be missed because of the character of the microarray .
+Newly identified putative target genes that were selected for further validation are sopB , sopE , sopA , siiA , ssaH , ygiM , gpmA , sseL , flhD , and lpp .
+sopB , sopE , and sopA are cooperatively regulated by InvF and HilA .
+We showed that the promoter regions of sopB , sopE , and sopA , encoded outside of SPI - 1 , are directly controlled by HilA ( Fig. 1 ) .
+The effector proteins that these genes encode are secreted by the SPI - 1 TTSS and are involved in invasion ( 65 , 69 ) and enteritis ( 35 , 93 ) .
+Salmonella spp. employ these and other secreted effectors to mimic or interfere with host cell functions , thus modulating the host actin cytoskeleton and inducing their uptake into nonphagocytic epithelial cells ( for reviews , see references 39 and 76 ) .
+The sopB gene ( 36 , 42 ) is located in SPI - 5 , a Salmonella - specific pathogenicity island contributing to enteric but not to systemic salmonellosis ( 90 ) .
+sopE resides within a cryptic bacteriophage ( 26 , 40 ) which is only present in some Salmonella spp. ( 40 ) , including S. enterica serovar Typhimurium SL1344 .
+SopE , which was first discovered in S. enterica subsp .
+enterica serovar Dublin ( 92 ) , is 69 % identical to SopE2 , an SPI - 1-secreted effector protein present in all Salmonella spp. ( 7 , 59 ) .
+sopA is also located in a Salmonella - specific islet ( 91 ) .
+Expression of these SPI - 1-associated effector proteins is commonly accepted to be only indirectly dependent on HilA .
+Indeed , the SPI - 1 regulators HilA and InvF are presumed to exert a direct effect on expression of distinct sets of SPI - 1 - associated genes .
+Only HilA controls expression of the components of the TTSS , concurrently activating InvF , whereas both HilA and InvF control expression of the secreted effectors encoded within SPI - 1 ( 16 , 19 , 23 , 27 , 29 ) .
+The secreted effectors encoded outside of SPI - 1 , sopB , sopE , and sopA , are generally accepted to be InvF dependent ( 19 , 25 , 28 ) .
+Our results based on in - vivo and in - vitro binding of HilA , however , show that besides InvF , HilA also controls expression of sopB , sopE , and sopA under invasion - inducing conditions .
+The recent identification of sicA , a previously known InvF target , as a direct HilA target gene ( 23 ) supports this hypothesis of cooperative behavior between HilA and InvF in controlling expression of the SPI - 1 TTSS - secreted effectors independently of their genomic location .
+Seemingly , however , this principle of cooperativity does not hold true for the regulation of all Salmonella outer proteins , since SopE2 and SopD , SPI - 1 TTSS - secreted effector proteins contributing to invasion of epithelial cells ( 69 ) and enteritis in calves ( 93 ) , are not listed in Table 4 .
+Although expression of sopE2 and sopD was up - regulated in the wildtype strain compared to the hilA mutant strain under invasioninducing conditions , their promoter regions were not identified as enriched in the genome - wide location analysis .
+This lack of enrichment is probably due to true biological differences be - VOL .
+189 , 2007 HilA GENOME - WIDE LOCATION AND TRANSCRIPT ANALYSIS 4593 FIG. 2 .
+Proposed model of the HilA regulon .
+Upon activation of the HilA regulator , expression of the TTSS and its secreted proteins is controlled in two phases .
+In the first phase , HilA activates the components and translocases of the TTSS apparatus encoded in the operons , starting with prgH ( 52 ) and invF ( 51 ) .
+Transcription through the latter operon also produces some effector proteins , the transcriptional activator InvF , and the chaperone SicA , which is also directly activated by HilA ( 23 ) .
+Under repressing conditions , HilA acts as an autorepressor ( 23 ) .
+In the second phase , the effector proteins encoded outside of SPI - 1 are transcribed .
+Apparently , there is cooperative behavior between HilA and InvF in this phase .
+Although the presence of InvF and SicA appears sufficient for expression of sopB , sopE , and sopA ( 18 , 19 , 25 , 27 , 28 ) , it is possible that HilA modulates this activation .
+SPI - 4 also appears to be directly activated by HilA .
+Finally , HilA can act as a repressor under invasion - inducing conditions by controlling the SPI - 2 secretion system gene ssaH and the flagellar gene flhD .
+tween the Salmonella outer proteins rather than to the specificities of the microarray 's design .
+SopE2 and SopE , for instance , act as G - nucleotide exchange factors for different GTPases ( 33 ) that have clearly distinct functions in mammalian cells ( 8 ) .
+Also , after lysogenic conversion of a non - sopEcarrying strain with the sopE - containing prophage , this strain becomes more invasive ( 26 ) .
+A difference in regulation between SopE and SopE2 could thus be conceivable .
+Furthermore , sopD expression is not InvF/SicA dependent , nor would sopD belong to the HilA regulon ( 19 ) .
+Based on our findings , we propose the model of the HilA regulon depicted in Fig. 2 .
+Although in previous studies researchers hypothesized that InvF and the chaperone SicA would be sufficient for expression of the effector - encoding genes sopB , sopE , and sopA ( 18 , 19 , 25 , 27 , 28 ) , they did not exclude the possibility that expression of these effectors is primarily dependent on InvF and SicA but reaches different levels when HilA is bound , suggesting some kind of modulatory role for HilA .
+Moreover , although these previous studies , primarily relying on inducible heterologous expression systems and gene expression reporters , yielded a wealth of valuable information on this complex pathway , novel and possibly unexpected in - vivo interactions could be revealed when different approaches , more closely reflecting native conditions , are applied .
+Direct regulation of SPI - 4 by HilA .
+Under invasion - inducing conditions , we showed that expression of SPI - 4 is controlled by HilA through binding of the promoter region of its first gene , siiA .
+SPI - 4 encodes a large nonfimbrial adhesin ( SiiE ) and a cognate type 1 secretion system ( SiiC , SiiD , and SiiF ) , mediating adhesion to epithelial cells ( 38 ) ; no function has yet been suggested for SiiA and SiiB ( 38 , 61 , 62 ) .
+The existence of a regulatory connection between SPI - 4 and HilA has been proposed before .
+Ahmer et al. ( 2 ) observed reduced expression of various MudJ lacZY transcriptional - fusions within siiE in an sirA and an hilA mutant background compared to the wild - type background .
+Originally , these fusions were mapped onto , , , and from the first SPI - 4 annotation ( 89 ) .
+Through similar experiments , Ellermeier and Slauch ( 28 ) showed that expression of siiE ( also termed icgA ) was induced by the presence of RtsA in an HilA - dependent but InvF - independent manner .
+Also , an hilA mutant strain secreted significantly less SiiE than a wild - type strain , and this was independent of the hilA mutation affecting the SPI - 1 TTSS ( 61 ) .
+These observations can be explained by HilA - dependent control of SPI - 4 expression by binding the promoter region of the first gene , siiA .
+Indeed , the genes carried by SPI - 4 are thought to form one operon because of their genomic organization ( 58 ) .
+This assumption is supported by the presence of a strong hairpin transcription terminator structure downstream of siiE ( 89 ) and an operon polarity suppressor ( ops ) element , ensuring effective transcription elongation of long operons ( 4 ) , in the intergenic region upstream of siiA ( 62 ) .
+Recently , De Keersmaecker et al. ( 23 ) demonstrated the direct binding of HilA to a region upstream of that also resides within siiE , but the biological implications of this observation are unknown .
+The absence of from our results could be a false - negative result or could imply that , although it acts as a target gene in - vitro , it is not a target gene in - vivo under the applied condition .
+The occurrence of internal promoters , i.e. , promoter sequences within a coding sequence , has already been described for Salmonella enterica , though ( 1 ) .
+Apart from the direct connection between HilA and SPI - 4 at the molecular level through binding the siiA promoter , the regulation of SPI - 4 by HilA is consistent with the importance of SPI - 4 in intestinal colonization but not in systemic salmonellosis ( 62 ) .
+Indeed , SPI - 4-mediated adhesion to epithelial cells might be required for subsequent SPI - 1-controlled invasion ( 38 ) .
+Furthermore , both SPI - 4 and SPI - 1 genes are downregulated during infection of macrophages ( 30 ) .
+However , whereas HilA is involved in the invasion of a broad range of hosts ( e.g. , chickens [ 9 ] , cattle [ 83 ] , and pigs [ 11 ] ) , SPI - 4 was shown to be important for the colonization of cattle but not of chickens ( 61 , 62 ) .
+Possibly additional regulatory effects control this host specificity .
+HilA can act as a repressor under invasion - inducing conditions .
+Although a putative repressor function of HilA has not been reported yet except for its own autorepression ( 23 ) , we showed that HilA binds the ssaH and flhD promoters under invasion - inducing conditions and that expression of these genes is down - regulated in a wild - type strain relative to an hilA mutant strain .
+SsaH is a component of the SPI - 2 secretion apparatus ( 14 , 78 ) that is expressed intracellularly and supports replication and survival of Salmonella spp. within the host cell through the secretion of effector proteins ( 45 ) .
+Indications of cross - talk between the two pathogenicity islands have been given before ; e.g. , mutations in SPI - 2 were shown to reduce hilA expression ( 22 ) .
+Direct cross - talk that results in both islands being expressed inversely , however , has not been reported yet and could be interesting to explore further .
+Our observation that HilA binds the flhD promoter suggests that HilA controls motility under invasion - inducing conditions .
+The flhD gene , together with flhC , encodes the master regulator of flagella production ( 13 ) .
+It has been observed before that flagellar and invasion genes are regulated reciprocally ( 28 , 80 ) , possibly since downregulation of motility could enhance adherence and subsequent internalization of Salmonella spp. in epithelial cells ( 28 ) .
+This agrees with our observation that flhD expression is down - regulated by HilA .
+However , other studies have suggested an activating role of flagellar regulatory proteins , including FlhDC , for hilA and/or SPI - 1 mRNA levels during - growth in motility agar ( 34 , 55 , 81 ) .
+Possibly , these disparate observations are due to complex and tightly regulated temporal and environmental control of motility and invasion .
+As commented on by Lucas et al. ( 55 ) , many other pathogenic organisms appear to coordinate motility with expression of virulence - factors .
+HilA target gene promoters contain an HilA motif .
+Through in silico motif detection , a consensus motif partially corresponding to one previously identified ( 23 ) was retrieved multiple times for the known and newly identified HilA target genes .
+The occurrence of multiple instances of a regulatory consensus motif in the same promoter region has been described before for bacteria , e.g. , for FNR ( 10 ) .
+Furthermore , the degeneracy of the retrieved HilA motif probably sets a limit on the potential of using sequence data alone to map the HilA regulon .
+Other HilA regulon candidates .
+Beside the genes that have been discussed above , a number of other candidate target genes listed in Table 4 have been associated with virulence .
+The Salmonella - specific sseL gene , controlled by the SPI - 2 regulator SsrB , has recently been described as encoding a translocated deubiquitinase that is required for macrophage killing and systemic virulence in mice ( 15 , 72 ) .
+The ygiM gene product is proposed to have an Src homology or SH3 domain , but its function is still unknown .
+SH3 domains are nearly entirely restricted to eukaryotes and often involved in signal transduction ( 88 ) .
+With respect to prokaryotes , the presence of some SH3 - like regions has been described for , e.g. , the Listeria monocytogenes P60 protein that is important for invasion of epithelial cells ( 88 ) .
+The murein lipoproteins , for which the S. enterica serovar Typhimurium genome harbors two functional gene copies , lppA ( STM1376 ) and lppB ( STM1377 ) , are major bacterial outer membrane components of gram - negative bacteria involved in inflammatory responses and septic shock ( 77 ) .
+Moreover , they have been connected to both motility and invasion ( 32 , 77 ) .
+The wecC gene , coding for a UDP - ManNAcA dehydrogenase , is required for the synthesis of the enterobacterial common antigen , an outer membrane glycolipid produced by all members of the Enterobacteriaceae that is also linked to the core region of lipopolysaccharide ( LPS ) in some strains ( 46 ) .
+The enterobacterial common antigen has been proposed to play a role in Salmonella virulence , possibly through bile resistance ( 70 ) .
+Furthermore , LPS is a major pathogenic factor of gram - negative bacteria .
+Salmonella survival is enhanced through modification of its LPS by increasing resistance to cationic antimicrobial peptides and altering host recognition ( 31 ) .
+Compared with the function of HilA , however , the latter are rather general virulence traits .
+The remaining genes listed in Table 4 , STM3598 , gpmA , glpT , melA , miaB , atpF , and STM1533 , can not readily be associated with virulence except for their possible influence on overall bacterial fitness .
+Some of these candidate target genes were selected for downstream verification .
+The proposed in - vivo binding of HilA to the promoter regions of ygiM , gpmA , sseL , and lpp could not , however , be substantiated by in - vitro binding assays .
+Although in general EMSAs are the most appropriate way of validating GWLA results , for HilA their use is not so straightforward .
+Ideally , EMSAs are performed with purified protein , but for HilA , protein extracts have to be used , since HilA becomes membrane associated as an artifact of the overproduction , and this impedes purification ( 51 , 71 ) .
+This makes it difficult to differentiate between observed shifts solely caused by E. coli proteins that are present in the negative - control ( i.e. , HilA ) extract and shifts caused by HilA comparable with the E. colidependent shift .
+Therefore , only EMSAs in which a clear difference in shift could be observed between the HilA and the HilA extract were considered conclusive .
+Moreover , in - vivo interactions of a protein with a promoter region are not even always verifiable in - vitro ( 86 ) .
+Thus , the use of in - vitro binding assays might not be the ideal approach to support highthroughput in - vivo results .
+Future studies will shed light on the true role of these less - obvious candidate HilA target genes .
+Genome - wide location analysis and expression profiling were performed to identify transcriptional targets of the S. enterica serovar Typhimurium invasion key regulator HilA .
+Most of the known target genes were recovered , and a number of new target genes were identified , including the first gene of SPI - 4 , siiA , and the SPI - 1 TTSS - secreted effectorencoding genes sopB , sopE , and sopA carried outside of SPI - 1 .
+Under invasion - inducing conditions , HilA can act as a repressor of ssaH and flhDC , encoding an SPI - 2 secretion system apparatus component and a flagellar regulator , respectively .
+Based on these findings , we propose the model of the HilA regulon depicted in Fig. 2 .
+Combining complementary omics datasets thus yielded rewarding clues in the study of a complex biological system .
+Moreover , although the HilA regulon has been the subject of thorough study for a number of years , this approach unveiled novel and unexpected in - vivo interactions .
+I. M. V. Thijs and S. C. J. De Keersmaecker are Research Associates of the Belgian Fund for Scientific Research ( FWO - Vlaanderen ) .
+This work was also partially supported by GBOU - SQUAD - 20160 of the IWT and the Centre of Excellence SymBioSys ( Research Council K. U. Leuven EF/05/007 ) .
+M. McClelland was supported in part by grants AI034829 , AI057733 , and AI52237 - 06 .
+We thank S. Porwollik for extensive technical support and helpful discussions , D. De Coster , A. De Weerdt , and T. Verhoeven for technical assistance , and P. Van Hummelen and R. Maes at the VIB Microarray Facility .
+We gratefully acknowledge W. Zachariae , B. Wanner , and L. Mattice ( CGSC ) for kindly providing plasmids used in this study .
+Aguirre , A. , M. L. Cabeza , S. V. Spinelli , M. McClelland , V. E. Garcia , and F. C. Soncini .
+PhoP - induced genes within Salmonella pathogenicity island 1 .
+Ahmer , B. M. , J. van Reeuwijk , P. R. Watson , T. S. Wallis , and F. Heffron .
+Salmonella SirA is a global regulator of genes mediating enteropathogenesis .
+Genetic and environmental control of Salmonella invasion .
+189 , 2007 HilA GENOME - WIDE LOCATION AND TRANSCRIPT ANALYSIS 4595 4 .
+Bailey , M. J. , C. Hughes , and V. Koronakis .
+RfaH and the ops element , components of a novel system controlling bacterial transcription elongation .
+Bajaj , V. , C. Hwang , and C. A. Lee .
+hilA is a novel ompR/toxR family member that activates the expression of Salmonella typhimurium invasion genes .
+Bajaj , V. , R. L. Lucas , C. Hwang , and C. A. Lee .
+Co - ordinate regulation of Salmonella typhimurium invasion genes by environmental and regulatory factors is mediated by control of hilA expression .
+Bakshi , C. S. , V. P. Singh , M. W. Wood , P. W. Jones , T. S. Wallis , and E. E. Galyov .
+Identification of SopE2 , a Salmonella secreted protein which is highly homologous to SopE and involved in bacterial invasion of epithelial cells .
+Bishop , A. L. , and A. Hall .
+Rho GTPases and their effector proteins .
+Bohez , L. , R. Ducatelle , F. Pasmans , N. Botteldoorn , F. Haesebrouck , and F. Van Immerseel .
+Salmonella enterica serovar Enteritidis colonization of the chicken caecum requires the HilA regulatory protein .
+Boston , T. , and T. Atlung .
+FNR - mediated oxygen - responsive regulation of the nrdDG operon of Escherichia coli .
+Boyen , F. , F. Pasmans , F. Van Immerseel , E. Morgan , C. Adriaensen , J. P. Hernalsteens , A. Decostere , R. Ducatelle , and F. Haesebrouck .
+Salmonella Typhimurium SPI - 1 genes promote intestinal but not tonsillar colonization in pigs .
+Buck , M. J. , and J. D. Lieb .
+ChIP - chip : considerations for the design , analysis , and application of genome - wide chromatin immunoprecipitation experiments .
+Chilcott , G. S. , and K. T. Hughes .
+Coupling of flagellar gene expression to flagellar assembly in Salmonella enterica serovar Typhimurium and Escherichia coli .
+Cirillo , D. M. , R. H. Valdivia , D. M. Monack , and S. Falkow .
+Macrophage - dependent induction of the Salmonella pathogenicity island 2 type III secretion system and its role in intracellular survival .
+Coombes , B. K. , M. J. Lowden , J. L. Bishop , M. E. Wickham , N. F. Brown , N. Duong , S. Osborne , O. Gal - Mor , and B. B. Finlay .
+SseL is a Salmonella - specific translocated effector integrated into the SsrB - controlled Salmonella pathogenicity island 2 type III secretion system .
+Darwin , K. H. , and V. L. Miller .
+InvF is required for expression of genes encoding proteins secreted by the SPI1 type III secretion apparatus in Salmonella typhimurium .
+Darwin , K. H. , and V. L. Miller .
+Molecular basis of the interaction of Salmonella with the intestinal mucosa .
+Darwin , K. H. , and V. L. Miller .
+The putative invasion protein chaperone SicA acts together with InvF to activate the expression of Salmonella typhimurium virulence genes .
+Darwin , K. H. , and V. L. Miller .
+Type III secretion chaperone - dependent regulation : activation of virulence genes by SicA and InvF in Salmonella typhimurium .
+Datsenko , K. A. , and B. L. Wanner .
+One - step inactivation of chromosomal genes in Escherichia coli K - 12 using PCR products .
+Davis , R. W. , D. Botstein , and J. R. Roth .
+Advanced bacterial genetics : a manual for genetic engineering .
+Cold Spring Harbor Laboratory Press , Cold Spring Harbor , NY .
+Deiwick , J. , T. Nikolaus , J. E. Shea , C. Gleeson , D. W. Holden , and M. Hensel .
+Mutations in Salmonella pathogenicity island 2 ( SPI2 ) genes affecting transcription of SPI1 genes and resistance to antimicrobial - agents .
+De Keersmaecker , S. C. , K. Marchal , T. L. Verhoeven , K. Engelen , J. Vanderleyden , and C. S. Detweiler .
+Microarray analysis and motif detection reveal new targets of the Salmonella enterica serovar Typhimurium HilA regulatory protein , including hilA itself .
+De Keersmaecker , S. C. , I. M. Thijs , J. Vanderleyden , and K. Marchal .
+Integration of omics data : how well does it work for bacteria ?
+Dieye , Y. , J. L. Dyszel , R. Kader , and B. M. Ahmer .
+Systematic analysis of the regulation of type three secreted effectors in Salmonella enterica serovar Typhimurium .
+Ehrbar , K. , and W. D. Hardt .
+Bacteriophage - encoded type III effectors in Salmonella enterica subspecies 1 serovar Typhimurium .
+Eichelberg , K. , and J. E. Galán .
+Differential regulation of Salmonella typhimurium type III secreted proteins by pathogenicity island 1 ( SPI - 1 ) - encoded transcriptional activators InvF and HilA .
+Ellermeier , C. D. , and J. M. Slauch .
+RtsA and RtsB coordinately regulate expression of the invasion and flagellar genes in Salmonella enterica serovar Typhimurium .
+Ellermeier , J. R. , and J. M. Slauch .
+Adaptation to the host environment : regulation of the SPI1 type III secretion system in Salmonella enterica serovar Typhimurium .
+Eriksson , S. , S. Lucchini , A. Thompson , M. Rhen , and J. C. Hinton .
+Unravelling the biology of macrophage infection by gene expression profiling of intracellular Salmonella enterica .
+Ernst , R. K. , T. Guina , and S. I. Miller .
+Salmonella typhimurium outer membrane remodeling : role in resistance to host innate immunity .
+Fadl , A. A. , C. L. Galindo , J. Sha , G. R. Klimpel , V. L. Popov , and A. K. Chopra .
+Global gene expression of a murein ( Braun ) lipoprotein mutant of Salmonella enterica serovar Typhimurium by microarray analysis .
+Friebel , A. , H. Ilchmann , M. Aepfelbacher , K. Ehrbar , W. Machleidt , and W. D. Hardt .
+SopE and SopE2 from Salmonella typhimurium activate different sets of RhoGTPases of the host cell .
+Frye , J. , J. E. Karlinsey , H. R. Felise , B. Marzolf , N. Dowidar , M. McClelland , and K. T. Hughes .
+Identification of new flagellar genes of Salmonella enterica serovar Typhimurium .
+Salmonella interactions with host cells : type III secretion at work .
+Galyov , E. E. , M. W. Wood , R. Rosqvist , P. B. Mullan , P. R. Watson , S. Hedges , and T. S. Wallis .
+A secreted effector protein of Salmonella dublin is translocated into eukaryotic cells and mediates inflammation and fluid secretion in infected ileal mucosa .
+Garten , Y. , S. Kaplan , and Y. Pilpel .
+Extraction of transcription regulatory signals from genome - wide DNA - protein interaction data .
+Gerlach , R. G. , D. Jackel , B. Stecher , C. Wagner , A. Lupas , W. D. Hardt , and M. Hensel .
+Salmonella Pathogenicity Island 4 encodes a giant non - fimbrial adhesin and the cognate type 1 secretion system .
+[ Epub ahead of print .
+Guiney , D. G. , and M. Lesnick .
+Targeting of the actin cytoskeleton during infection by Salmonella strains .
+Hardt , W. D. , H. Urlaub , and J. E. Galan .
+A substrate of the centisome 63 type III protein secretion system of Salmonella typhimurium is encoded by a cryptic bacteriophage .
+Hoiseth , S. K. , and B. A. Stocker .
+Aromatic - dependent Salmonella typhimurium are non - virulent and effective as live vaccines .
+Hong , K. H. , and V. L. Miller .
+Identification of a novel Salmonella invasion locus homologous to Shigella ipgDE .
+Salmonella invasion gene regulation : a story of environmental awareness .
+Knop , M. , K. Siegers , G. Pereira , W. Zachariae , B. Winsor , K. Nasmyth , and E. Schiebel .
+Epitope tagging of yeast genes using a PCR - based strategy : more tags and improved practical routines .
+Kuhle , V. , and M. Hensel .
+Cellular microbiology of intracellular Salmonella enterica : functions of the type III secretion system encoded by Salmonella pathogenicity island 2 .
+Kuhn , H. M. , U. Meier - Dieter , and H. Mayer .
+ECA , the enterobacterial common antigen .
+Laub , M. T. , S. L. Chen , L. Shapiro , and H. H. McAdams .
+Genes directly controlled by CtrA , a master regulator of the Caulobacter cell cycle .
+Lee , C. A. , and S. Falkow .
+The ability of Salmonella to enter mammalian cells is affected by bacterial growth state .
+Lieb , J. D. , X. Liu , D. Botstein , and P. O. Brown .
+Promoter - specific binding of Rap1 revealed by genome - wide maps of protein - DNA association .
+Liu , X. S. , D. L. Brutlag , and J. S. Liu .
+An algorithm for finding protein - DNA binding sites with applications to chromatin - immunoprecipitation microarray experiments .
+Lostroh , C. P. , V. Bajaj , and C. A. Lee .
+The cis requirements for transcriptional activation by HilA , a virulence determinant encoded on SPI - 1 .
+Lostroh , C. P. , and C. A. Lee .
+The HilA box and sequences outside it determine the magnitude of HilA - dependent activation of P ( prgH ) from Salmonella pathogenicity island 1 .
+Lostroh , C. P. , and C. A. Lee .
+The Salmonella pathogenicity island - 1 type III secretion system .
+Lucas , R. L. , and C. A. Lee .
+Unravelling the mysteries of virulence gene regulation in Salmonella typhimurium .
+Lucas , R. L. , C. P. Lostroh , C. C. DiRusso , M. P. Spector , B. L. Wanner , and C. A. Lee .
+Multiple factors independently regulate hilA and invasion gene expression in Salmonella enterica serovar Typhimurium .
+Madan Babu , M. , and S. A. Teichmann .
+Evolution of transcription 4596 THIJS ET AL. .
+factors and the gene regulatory network in Escherichia coli .
+Martínez - Antonio , A. , and J. Collado - Vides .
+Identifying global regulators in transcriptional regulatory networks in bacteria .
+McClelland , M. , K. E. Sanderson , J. Spieth , S. W. Clifton , P. Latreille , L. Courtney , S. Porwollik , J. Ali , M. Dante , F. Du , S. Hou , D. Layman , S. Leonard , C. Nguyen , K. Scott , A. Holmes , N. Grewal , E. Mulvaney , E. Ryan , H. Sun , L. Florea , W. Miller , T. Stoneking , M. Nhan , R. Waterston , and R. K. Wilson .
+Complete genome sequence of Salmonella enterica serovar Typhimurium LT2 .
+Mirold , S. , K. Ehrbar , A. Weissmuller , R. Prager , H. Tschape , H. Russmann , and W. D. Hardt .
+Salmonella host cell invasion emerged by acquisition of a mosaic of separate genetic elements , including Salmonella pathogenicity island 1 ( SPI1 ) , SPI5 , and sopE2 .
+Molle , V. , M. Fujita , S. T. Jensen , P. Eichenberger , J. E. Gonzalez - Pastor , J. S. Liu , and R. Losick .
+The Spo0A regulon of Bacillus subtilis .
+Morgan , E. , A. J. Bowen , S. C. Carnell , T. S. Wallis , and M. P. Stevens .
+SiiE is secreted by the Salmonella enterica serovar Typhimurium pathogenicity island 4 ( SPI - 4 ) - encoded secretion system and contributes to intestinal colonization of cattle .
+Morgan , E. , J. D. Campbell , S. C. Rowe , J. Bispham , M. P. Stevens , A. J. Bowen , P. A. Barrow , D. J. Maskell , and T. S. Wallis .
+Identification of host - specific colonization factors of Salmonella enterica serovar Typhimurium .
+Mueller , P. R. , and B. Wold .
+In vivo footprinting of a muscle specific enhancer by ligation mediated PCR .
+Oberley , M. J. , J. Tsao , P. Yau , and P. J. Farnham .
+High - throughput screening of chromatin immunoprecipitates using CpG - island microarrays .
+Patel , J. C. , and J. E. Galan .
+Differential activation and function of Rho GTPases during Salmonella - host cell interactions .
+Porwollik , S. , J. Frye , L. D. Florea , F. Blackmer , and M. McClelland .
+A non - redundant microarray of genes for two related bacteria .
+Porwollik , S. , C. A. Santiviago , P. Cheng , L. Florea , and M. McClelland .
+Differences in gene content between Salmonella enterica serovar Enteritidis isolates and comparison to closely related serovars Gallinarum and Dublin .
+Provence , D. L. , and R. Curtiss .
+Gene transfer in gram - negative bacteria , p. 317 -- 347 .
+In P. Gerhardt , R. G. E. Murray , W. A. Wood , and N. R. Krieg ( ed .
+) , Methods for general and molecular bacteriology .
+American Society for Microbiology , Washington , DC .
+Raffatellu , M. , R. P. Wilson , D. Chessa , H. Andrews - Polymenis , Q. T. Tran , S. Lawhon , S. Khare , L. G. Adams , and A. J. Baumler .
+SipA , SopA , SopB , SopD , and SopE2 contribute to Salmonella enterica serotype Typhimurium invasion of epithelial cells .
+Ramos - Morales , F. , A. I. Prieto , C. R. Beuzon , D. W. Holden , and J. Casadesus .
+Role for Salmonella enterica enterobacterial common antigen in bile resistance and virulence .
+Rodriguez , C. R. , L. M. Schechter , and C. A. Lee .
+Detection and characterization of the S. typhimurium HilA protein .
+Rytkönen , A. , J. Poh , J. Garmendia , C. Boyle , A. Thompson , M. Liu , P. Freemont , J. C. Hinton , and D. W. Holden .
+SseL , a Salmonella deubiquitinase required for macrophage killing and virulence .
+Sambrook , J. , E. F. Fritsch , and T. Maniatis .
+Molecular cloning , a laboratory manual , 2nd ed .
+Cold Spring Harbor Laboratory Press , Cold Spring Harbor , NY .
+Sanger , F. , S. Nicklen , and A. R. Coulson .
+DNA sequencing with chain - terminating inhibitors .
+Santos , R. L. , R. M. Tsolis , A. J. Baumler , and L. G. Adams .
+Pathogenesis of Salmonella - induced enteritis .
+Schlumberger , M. C. , and W. D. Hardt .
+Salmonella type III secretion effectors : pulling the host cell 's strings .
+Sha , J. , A. A. Fadl , G. R. Klimpel , D. W. Niesel , V. L. Popov , and A. K. Chopra .
+The two murein lipoproteins of Salmonella enterica serovar Typhimurium contribute to the virulence of the organism .
+Shea , J. E. , M. Hensel , C. Gleeson , and D. W. Holden .
+Identification of a virulence locus encoding a second type III secretion system in Salmonella typhimurium .
+Shin , D. , and E. A. Groisman .
+Signal - dependent binding of the response regulators PhoP and PmrA to their target promoters in - vivo .
+Teplitski , M. , A. Al Agely , and B. M. Ahmer .
+Contribution of the SirA regulon to biofilm formation in Salmonella enterica serovar Typhimurium .
+Teplitski , M. , R. I. Goodier , and B. M. Ahmer .
+Pathways leading from BarA/SirA to motility and virulence gene expression in Salmonella .
+Thijs , G. , Y. Moreau , F. De Smet , J. Mathys , M. Lescot , S. Rombauts , P. Rouze , B. De Moor , and K. Marchal .
+INCLUSive : integrated clustering , upstream sequence retrieval and motif sampling .
+Tsolis , R. M. , L. G. Adams , T. A. Ficht , and A. J. Baumler .
+Contribution of Salmonella typhimurium virulence - factors to diarrheal disease in calves .
+Tusher , V. G. , R. Tibshirani , and G. Chu .
+Significance analysis of microarrays applied to the ionizing radiation response .
+Uzzau , S. , N. Figueroa - Bossi , S. Rubino , and L. Bossi .
+Epitope tagging of chromosomal genes in Salmonella .
+Wade , J. T. , N. B. Reppas , G. M. Church , and K. Struhl .
+Genomic analysis of LexA binding reveals the permissive nature of the Escherichia coli genome and identifies unconventional target sites .
+Wang , Q. , J. G. Frye , M. McClelland , and R. M. Harshey .
+Gene expression patterns during swarming in Salmonella typhimurium : genes specific to surface growth and putative new motility and pathogenicity genes .
+Whisstock , J. C. , and A. M. Lesk .
+SH3 domains in prokaryotes .
+Wong , K. K. , M. McClelland , L. C. Stillwell , E. C. Sisk , S. J. Thurston , and J. D. Saffer .
+Identification and sequence analysis of a 27 - kilobase chromosomal fragment containing a Salmonella pathogenicity island located at 92 minutes on the chromosome map of Salmonella enterica serovar Typhimurium LT2 .
+Wood , M. W. , M. A. Jones , P. R. Watson , S. Hedges , T. S. Wallis , and E. E. Galyov .
+Identification of a pathogenicity island required for Salmonella enteropathogenicity .
+Wood , M. W. , M. A. Jones , P. R. Watson , A. M. Siber , B. A. McCormick , S. Hedges , R. Rosqvist , T. S. Wallis , and E. E. Galyov .
+The secreted effector protein of Salmonella dublin , SopA , is translocated into eukaryotic cells and influences the induction of enteritis .
+Wood , M. W. , R. Rosqvist , P. B. Mullan , M. H. Edwards , and E. E. Galyov .
+SopE , a secreted protein of Salmonella dublin , is translocated into the target eukaryotic cell via a sip - dependent mechanism and promotes bacterial entry .
+Zhang , S. , R. L. Santos , R. M. Tsolis , S. Stender , W. D. Hardt , A. J. Baumler , and L. G. Adams .
+The Salmonella enterica serotype Typhimurium effector proteins SipA , SopA , SopB , SopD , and SopE2 act in concert to induce diarrhea in calves .
+Zwir , I. , D. Shin , A. Kato , K. Nishino , T. Latifi , F. Solomon , J. M. Hare , H. Huang , and E. A. Groisman .
+Dissecting the PhoP regulatory network of Escherichia coli and Salmonella enterica .

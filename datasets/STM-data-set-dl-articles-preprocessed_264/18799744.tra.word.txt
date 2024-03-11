@@ -1,0 +1,248 @@
+HilD - mediated transcriptional cross - talk between SPI - 1 and SPI - 2 Víctor H. Bustamante * , Luary C. Martínez * , Francisco J. Santana * , Leigh A. Knodler † , Olivia Steele - Mortimer † , and José L. Puente * ‡ * Departamento de Microbiología Molecular , Instituto de Biotecnología , Universidad Nacional Autónoma de México , Avenida Universidad 2001 , Colonia Chamilpa .
+Cuernavaca , Morelos 62210 , Mexico ; and † Laboratory of Intracellular Parasites , Rocky Mountain Laboratories , National Institute of Allergy and Infectious Diseases , National Institutes of Health , 903 South 4th , Hamilton , MT 59840 Edited by Roy Curtiss , Arizona State University , Tempe , AZ , and accepted by the Editorial Board July 29 , 2008 ( received for review February 12 , 2008 ) The acquisition of new genetic traits by horizontal gene transfer and their incorporation into preexisting regulatory networks have been essential events in the evolution of bacterial pathogens .
+An example of successful assimilation of virulence traits is Salmonella enterica , which acquired , at distinct evolutionary times , Salmonella pathogenicity island 1 ( SPI - 1 ) , required for efficient invasion of the intestinal epithelium and intestinal disease , and SPI - 2 , essential for Salmonella replication and survival within macrophages and the progression of a systemic infection .
+A positive regulatory cascade mainly composed of HilD , HilA , and InvF , encoded in SPI - 1 , controls the expression of SPI - 1 genes , whereas the two - component regulatory system SsrA/B , encoded in SPI - 2 , controls expression of SPI - 2 genes .
+In this study , we report a previously undescribed transcriptional cross - talk between SPI - 1 and SPI - 2 , where the SPI - 1 -- encoded regulator HilD is essential for the activation of both the SPI - 1 and SPI - 2 regulons but at different times during the stationary - phase of growth in Luria - Bertani medium .
+Our data indicate that HilD counteracts the H - NS -- mediated repression exerted on the OmpRdependent activation of the ssrAB operon by specifically interacting with its regulatory region .
+In contrast , HilD is not required for SPI - 2 regulon expression under the in - vitro growth - conditions that are thought to resemble the intracellular environment .
+Our results suggest that two independent SPI - 2 activation pathways evolved to take advantage of the SPI - 2 -- encoded information at different niches and , in consequence , in response to different growth conditions .
+H - NS OmpR microbial pathogenesis transcriptional regulation salmonella One of the major events in the evolution of pathogenic bacteria has been the horizontal transfer of large DNA fragments , which may encode for a wide variety of virulence factors ( 1 , 2 ) .
+Acquisition of pathogenicity islands is a dynamic process that can potentially compromise bacterial fitness if the expression of the newly acquired genes is not appropriately regulated by preexisting regulatory networks .
+Recent studies have shown that the histone - like protein H - NS has had an essential role in preventing the uncontrolled expression of A T - rich genes contained within these incoming islands and in allowing the evolution of counteracting regulatory mechanisms to regulate the spatiotemporal expression of the gained genes ( 3 -- 6 ) .
+H - NS is a constitutive abundant protein , considered a global transcriptional regulator and a genome - structuring protein , which binds preferentially to A T - rich sequences commonly present in horizontally transferred DNA ( 7 , 8 ) .
+Salmonella enterica has evolved through the acquisition of several pathogenicity islands , two of which , Salmonella pathogenicity island ( SPI ) -1 and SPI - 2 , encode type three secretion systems that are essential for virulence ( 9 ) .
+These islands are functionally distinct because SPI - 1 genes are required for efficient invasion of the intestinal epithelium , leading to gastroenteritis , whereas SPI - 2 genes are essential for Salmonella replication and survival within macrophages and , as a consequence , for systemic disease ( 9 ) .
+With respect to SPI - 1 and SPI - 2 gene regulation , almost all studies have been carried out in - vitro using well - defined synthetic growth media .
+Although it is clear that these systems do not reconstitute the in - vivo environment , they have provided valuable insights into the complex regulatory networks involved in virulence gene expression .
+The synthetic media used to study SPI - 1 and SPI - 2 regulation are high - osmolarity and nutrient - rich media , such as Luria - Bertani ( LB ) broth ( 10 , 11 ) , and lowphosphate and low - magnesium minimal media , such as N - minimal - medium ( 10 , 12 ) , respectively .
+Each of these media is believed to give some approximation of the appropriate in - vivo environment ; the intestinal lumen for SPI - 1 and the intracellular Salmonella - containing vacuole for SPI - 2 .
+The SPI - 1 regulon is controlled by a regulatory cascade composed mainly of the SPI - 1 -- encoded regulators HilD , HilA , and InvF ( 13 -- 16 ) .
+SPI - 2 genes are expressed when Salmonella is inside host cells ( 17 -- 19 ) and is under the control of the SPI - 2 -- encoded two - component system SsrA/B ( 12 , 20 , 21 ) [ see supporting information ( SI ) Fig .
+Here , we developed an in - vitro system to study the sequential activation of SPI - 1 and SPI - 2 regulons in Salmonella enterica serovar Typhimurium ( S. typhimurium ) .
+Using this system , we were able to reveal a previously undescribed transcriptional cross - talk mechanism between SPI - 1 and SPI - 2 , where the SPI - 1 -- encoded regulator HilD differentially regulates , in a growth phase - dependent manner , both the SPI - 1 and SPI - 2 regulons during - growth in LB - medium .
+We show that HilD can bind directly to the regulatory region of the ssrAB operon and counteracts the repression exerted by H - NS on the OmpR - and growth phase - dependent expression of ssrAB .
+These results bring to light a new level of sophistication in the regulatory control of SPI - 1 and SPI - 2 , which together form the cornerstone of Salmonella virulence .
+Additionally , the unveiling of a transcriptional link between a preexistent pathogenicity island and newly acquired genes highlights another important step in the evolution of pathogenic bacteria .
+Results Sequential Growth Phase - Dependent Expression of the SPI - 1 and SPI - 2 Regulons in LB .
+Initially , we studied the expression kinetics of cat transcriptional - fusions to a number of S. typhimurium genes , including sopB and pipB , which belong to the SPI - 1 and SPI - 2 Author contributions : V.H.B. and J.L.P. designed research ; V.H.B. , L.C.M. , F.J.S. , and L.A.K. performed research ; V.H.B. , O.S. - M. , and J.L.P. analyzed data ; and V.H.B. and J.L.P. wrote the paper .
+The authors declare no conflict of interest .
+This article is a PNAS Direct Submission .
+‡ To whom correspondence should be addressed .
+This article contains supporting information online at www.pnas.org/cgi/content/full/ 0801205105/DCSupplemental .
+MICROBIOLOGY www.pnas.org cgi doi 10.1073 pnas .0801205105 PNAS September 23 , 2008 vol .
+The SPI - 1 and SPI - 2 regulons are expressed in LB in a growth phasedependent manner .
+( A ) Kinetics of expression of genes from SPI - 1 ( invF and sopB ) and SPI - 2 ( ssaG and pipB ) regulons as well as hns in LB cultures .
+Expression levels of invF - cat , sopB - cat , ssaG - cat , pipB - cat , and hns - cat transcriptional fusions were calculated by determining CAT - specific activity from samples taken hourly from LB cultures of S. typhimurium SL1344 carrying plasmid pinvF - cat1 , psopB - cat1 , pssaG - cat1 , ppipB - cat1 , or phns - cat1 ( Table S1 ) .
+The expression of the hns - cat fusion was analyzed as a control , which was not significantly altered along the growth curve .
+The data are the average of three different experiments done in duplicate .
+The OD 600 at each time point is indicated between parentheses .
+Growth phases are indicated by thin bars .
+( B ) SsrB , HilA , and OmpR production is also growth phase dependent .
+Immunoblots of whole - cell lysates of an S. typhimurium SL1344 strain carrying a chromosomal FLAG - tagged hilA gene grown in LB - medium were performed using a polyclonal anti - SsrB or anti - OmpR antibody or a monoclonal anti - FLAG antibody .
+Equivalent amounts of protein were analyzed for each time point .
+As a loading control , DnaK was detected using a monoclonal antibody .
+regulons , respectively , but are physically located within SPI - 5 ( 22 ) .
+We found that both sopB and pipB were expressed in LB , a medium commonly used to study the expression of SPI - 1 genes and not known to support SPI - 2 expression ( 10 , 11 ) , but with different expression profiles .
+Whereas sopB expression is activated and maximal following entry into the stationary - phase , activation of pipB was observed at later time points ( Fig. 1A ) .
+To test if this sequential activation was a general feature of the SPI - 1 and SPI - 2 regulons , we also determined the activation kinetics in LB of cat transcriptional - fusions to the SPI - 1 -- encoded invF and the SPI - 2 -- encoded ssaG genes , which followed the same pattern observed for sopB and pipB , respectively ( Fig. 1A ) .
+In N - minimal medium , as expected , growth of S. typhimurium carrying these transcriptional - fusions revealed the activation of ssaG - cat and pipB - cat ( SPI - 2 regulon fusions ) but not the SPI - 1 regulon genes invF - cat and sopB - cat ( data not shown ) .
+Because the two - component system SsrA/B is critical for the expression of the SPI - 2 regulon in N - minimal - medium ( 12 , 20 , 21 ) , we next asked if it is also essential for expression of ssaG and pipB during the stationary - phase in LB .
+Expression of the ssaG and pipB transcriptional - fusions in a ssrB : : kan strain was nearly abolished in either growth medium ( Fig. 2 A and B ) .
+In contrast , expression of sopB in LB broth was not affected by the absence of SsrB but was drastically reduced in the absence of HilA ( Fig .
+S2 ) , the ToxR/OmpR - like protein that is pivotal for regulation of the SPI - 1 regulon ( 13 -- 15 ) .
+To determine whether SsrB and HilA expression in LB was also growth phase dependent , we Fig. 2 .
+HilD is required for the stationary growth phase - dependent expression of SPI - 2 regulon genes in LB but not in N - minimal - medium .
+Expression of the ssaG - cat and pipB - cat transcriptional - fusions was determined from samples taken from cultures of WT S. typhimurium and its ssrB , SPI - 1 , SPI - 2 , SPI - 5 , hilA , invF , hilD , and hilC derivatives carrying plasmids pssaG - cat1 or ppipB - cat1 grown for 12 h in LB - medium ( A ) or for 16 h in N - minimal medium ( B ) .
+The data are the average of three different experiments done in duplicate .
+SsrB in WT S. typhimurium and its ompR , hilA , hilC , hilD , and ssrB derivatives was analyzed by Western blotting using a polyclonal anti- SsrB antibody and whole - cell lysates prepared from samples taken from LB ( C ) or N - minimal - medium ( D ) cultures at the same time points as in A and B , respectively .
+pT3 - HilD ( Table S1 ) was used to complement the hilD mutant .
+performed Western blot analysis of whole - cell lysates of strain JPTM7 ( hilA : : 3 FLAG - kan ) obtained from a time course of growth in LB .
+JPTM7 is a WT S. typhimurium SL1344 derivative expressing from its chromosomal gene location the HilA protein tagged with a C - terminal 3 FLAG epitope ( HilA - FLAG ) , a feature that did not affect the expression of the SPI - 1 or SPI - 2 regulons ( data not shown ) .
+SsrB was detected after 6 h of growth and was more evident toward the late stationary - phase ( Fig. 1B ) , which parallels the activation pattern of ssaG and pipB ( Fig. 1A ) .
+Likewise , SsrA production was also growth phase dependent in LB ( data not shown ) .
+In contrast , HilA was detected after the first 2hattheonset of the stationary - phase , reaching maximal levels between 4 and 6 h and declining during the late stationary phase ( Fig. 1B ) , resembling the expression patterns of invF and sopB ( Fig. 1A ) .
+Therefore , the growth phase - dependent expression of SPI - 1 and SPI - 2 regulon genes can be attributed to mechanisms regulating the expression of their respective central regulators , HilA and SsrB .
+These results revealed that Salmonella senses two different environmental conditions during - growth in LB , which allows the sequential activation of the SPI - 1 and SPI - 2 regulons at different stages during the stationary - phase .
+Thus , the stationary - phase of growth in LB offers a condition where the transcriptional transition between these two regulons can be analyzed ( SPI - 1 turning off and SPI - 2 turning on ) .
+The SPI - 1 -- Encoded Regulator HilD Also Regulates the SPI - 2 Regulon .
+To dissect the mechanism of activation of the SPI - 2 regulon during the stationary - phase in LB , we explored the potential role of the stationary - phase factor RpoS as well as that of genes related to quorum - sensing systems , such as luxS , which codes for the enzyme that generates an autoinducer 2 - like signal , and sdiA , which codes for a LuxR - like protein ( 23 ) .
+Mutants lacking rpoS , luxS , orsdiA showed no defect in SPI - 2 gene expression ( data not shown ) , indicating that regulatory proteins acting primarily in response to population density are not involved in this activation 14592 www.pnas.org cgi doi 10.1073 pnas .0801205105 Bustamante et al. pathway .
+Furthermore , acidic pH , believed to be a major inducing signal for SPI - 2 expression in minimal - medium and within the Salmonella - containing vacuole ( 12 , 19 , 21 , 24 -- 26 ) did not induce SPI - 2 ; indeed , acidification of the medium had an adverse effect on SPI - 2 expression ( data not shown ) .
+We additionally showed that the stringent signal - molecule ppGpp is required for the stationary - phase induction of both the SPI - 1 and SPI - 2 regulons but does not control the transition from SPI - 1 to SPI - 2 expression in LB ( SI Results and Fig .
+We next looked at the possible involvement of elements encoded within the SPI - 1 , SPI - 2 , and SPI - 5 pathogenicity islands by analyzing the expression of the ssaG - cat and pipB - cat transcriptional fusions in S. typhimurium SPI - 1 , SPI - 2 , and SPI - 5 derivatives .
+As expected , expression of ssaG - cat and pipB - cat fusions in the SPI - 2 deletion mutant was drastically reduced during the stationary - phase in LB ; intriguingly , it was similarly reduced in the SPI - 1 deletion mutant but not in the SPI - 5 mutant ( Fig. 2A ) .
+Thus , induction of the SPI - 2 regulon during the stationary - phase in LB requires an SPI - 1 -- encoded factor .
+To determine if this involves any of the known SPI - 1 -- encoded regulatory proteins , we next analyzed the expression of the ssaG - cat and pipB - cat transcriptional - fusions in mutants lacking HilD ( hilD ) , HilC ( hilC ) , HilA ( hilA ) , or InvF ( invF ) .
+Interestingly , only the hilD mutant showed reduced levels of expression of both fusions ( Fig. 2A ) , and this was specific for these growth - conditions because their expression was unaffected in the hilD mutant following growth in N - minimal - medium ( Fig. 2B ) .
+As expected , expression of the SPI - 1 regulon sopB - cat fusion was abolished in the hilD , hilA , and invF mutants but was not affected in the hilC and ssrB mutants during - growth in LB ( Fig .
+To determine whether HilD regulates the SPI - 2 regulon by controlling the expression of the two - component system SsrA/B , SsrA and SsrB protein levels were analyzed by immunoblotting of Salmonella lysates after growth in LB to the stationary - phase .
+SsrB was detected directly using an anti - SsrB antibody , but an epitope tagged SsrA had to be constructed to assess SsrA expression .
+For this , the chromosomal ssrA gene was engineered to express a C - terminal 3 FLAG tag , generating strain JPTM9 .
+This strain was then transferred by P22 transduction to ompR , hilA , hilC , and hilD deletion backgrounds , generating strains JPTM10 , JPTM11 , JPTM12 , and JPTM13 , respectively .
+SsrB levels in the hilA and hilC strains were similar to WT , but the SsrB level was barely detected in the hilD mutant unless this strain was complemented with a plasmid expressing HilD ( Fig. 2C ) .
+In contrast , SsrB production was not affected in the hilD mutant when grown in N - minimal - medium ( Fig. 2D ) .
+These results confirm the role of HilD in the regulation of the SPI - 2 regulon during - growth in LB .
+Analysis of SsrA - FLAG levels gave similar results to SsrB ( Fig .
+S4 ) , indicating that HilD controls both the sensor kinase and the response regulator during the stationary - phase of growth in LB cultures .
+Several studies have addressed the role of the response regulators OmpR and PhoP in the expression of ssrAB and SPI - 2 regulon genes in Salmonella grown in low Mg 2 minimal - medium or within infected epithelial or macrophage cell lines ( 24 , 27 , 28 ) .
+To assess the role of these regulators in the growth phasedependent activation of SsrA and SsrB production in LB , their levels were analyzed by immunoblotting using total cell lysates of the ompR and phoP mutants grown in LB and in N - minimal medium .
+This analysis showed that OmpR but not PhoP was required for SsrA and SsrB expression under both growth conditions ( Fig. 2 C and D , Fig .
+S4 , and data not shown ) .
+Interestingly , OmpR also accumulated over time , reaching maximal levels during the late stationary - phase in LB , as revealed by immunoblotting of samples from the time course of growth shown in Fig. 1B .
+This observation suggests that the specific HilD - dependent activation of SPI - 2 expression in LB could , at Fig. 3 .
+HilD positively regulates ssrA and ssrB expression by counteracting H - NS .
+H - NS was inactivated in S. typhimurium ssrA : : 3 FLAG hilD : : kan and ssrA : : 3 FLAG ompR : : kan mutants by expressing a dominant - negative C - terminal truncated form of H - NS ( see text ) .
+Plasmids pT6 - HNS - WT and pT6 - HNS - Q92am direct the expression of WT H - NS and H - NS Q92am , respectively , from an arabinose - inducible promoter .
+Strains were grown in LB - medium , with or without 0.1 % arabinose .
+SsrA - FLAG and SsrB were detected by immunoblot analysis of whole - cell lysates using a monoclonal anti - FLAG antibody or polyclonal anti - SsrB antibodies .
+DnaK levels were also determined as a loading control using a monoclonal antibody .
+least in part , be modulated by the growth phase - dependent expression of other essential regulatory proteins , such as OmpR .
+HilD Counteracts the Repression Exerted by H - NS on ssrAB .
+HilD has been previously shown to regulate the expression of hilA , the gene coding for the central positive regulator of the SPI - 1 regulon , positively by counteracting the H - NS -- mediated repression on the hilA promoter ( 29 , 30 ) .
+Furthermore , it has also been shown that expression of the ssrAB genes is thermoregulated by H - NS ( 31 ) .
+These results are consistent with two recent reports documenting the role of H - NS in silencing the expression of genes that have been acquired by Salmonella through horizontal gene transfer , such as those belonging to the SPI - 1 and SPI - 2 regulons ( 3 , 4 ) .
+Based on these antecedents , we next examined whether HilD induces expression of the SPI - 2 regulon by counteracting H - NS repression .
+Because Salmonella lacking hns shows severe growth defects and seems to be viable only after acquiring secondary mutations ( 4 ) , we used an H - NS mutant that does not have DNA - binding activity but still forms heterodimers with WT monomers , and thus acts as a dominant negative mutant ( 32 , 33 ) .
+Plasmids encoding WT H - NS ( pT6 - HNS - WT ) or the H - NS/Q92am mutant ( pT6 - HNS - Q92am ) , a C - terminal truncated H - NS derivative corresponding to the N - terminal dimerization domain ( H - NS Q92am ) , under the control of an arabinose - inducible promoter , were transformed into strains ssrA : : 3xFLAG ompR : : kan ( JPTM10 ) and ssrA : : 3xFLAG hilD : : kan ( JPTM13 ) , which were then grown in LB in the presence or absence of 0.1 % arabinose .
+Total lysates prepared from samples collected during the stationary - phase of growth in LB were subjected to immunoblotting using anti - FLAG and anti - SsrB antibodies .
+As shown in Fig. 3 , SsrA - FLAG and SsrB were not detected in the hilD strain carrying pT6 - HNS - WT with or without arabinose ; however , induction of the dominantnegative H - NS Q92am from plasmid pT6 - HNS - Q92am restored SsrA - FLAG and SsrB levels in the hilD mutant .
+Interestingly , the H - NS Q92am dominant negative did not restore SsrA - FLAG or SsrB production in the ompR mutant ( Fig. 3 ) .
+These results indicated that HilD counteracts the H - NS -- mediated repression on the ssrAB operon , subsequently allowing OmpR to activate transcription .
+HilD and H - NS Directly Interact with the ssrAB Regulatory Region .
+Consistently with the coordinated production of both SsrA and SsrB described previously , we also found that the ssrAB genes are transcribed as an operon in an HilD - and OmpR - dependent MICROBIOLOGY Bustamante et al. .
+HilD and H - NS directly interact with the ssrAB regulatory region .
+EMSAs were performed to analyze HilD and H - NS binding to the ssrAB and hilA regulatory regions .
+Fragments encompassing the regulatory regions of hilA ( 410 to 446 ) , sopB ( 400 to 128 ) and ssrAB ( 300 to 478 ) , with respect to the corresponding transcriptional start sites , were incubated with increasing concentrations of affinity - purified MBP - HilD ( 0 , 0.05 , 0.1 , 0.2 , 0.3 , and 0.4 M ) or H - NS - His 6 ( 0 , 0.1 , 0.3 , 0.5 , 0.6 , and 0.7 M ) .
+The DNA - protein complexes ( indicated by an asterisk ) were resolved in 6 % polyacrylamide gels and stained with ethidium bromide .
+The hilA and sopB fragments were used as positive and negative controls , respectively .
+manner from the promoter located upstream of ssrA ( SI Results and Fig .
+Having shown that HilD and H - NS regulate ssrAB , we next asked whether this is mediated by direct interaction of these proteins with the regulatory region of ssrAB , analogous to HilD and H - NS regulation of hilA ( 29 , 30 , 34 ) .
+Affinity - purified maltose - binding protein ( MBP ) - HilD and H - NS - His 6 were then used to perform electrophoretic - mobility - shift assays ( EMSAs ) with fragments encompassing different regulatory regions .
+In agreement with other reports ( 30 , 34 , 35 ) , MBP - HilD shifted specifically DNA fragments containing the regulatory regions of hilA or hilD at a concentration of 0.1 M ( Fig. 4A and Fig .
+S6A ) but not those of the negative controls sopB ( present in the same reaction ) and sirA even at the highest concentration tested ( 0.4 M ) ( Fig. 4 A and B and Fig .
+S6B ) , indicating that the purified MBP - HilD was functional in - vitro and binds specifically .
+In agreement with our transcriptional - fusion data showing its role as a positive regulator of the ssrAB operon , MBP - HilD also specifically shifted the ssrAB promoter fragment at concentrations 0.3 M ( Fig. 4B ) .
+Therefore , HilD directly interacts with the regulatory region of the ssrAB operon .
+Likewise , H - NS - His 6 specifically bound to the fragments containing the hilA or hilD regulatory region ( Fig. 4C and Fig .
+S6C ) as well as to the ssrAB promoter fragment at concentrations 0.3 M ( Fig. 4D ) , indicating that it directly silences this promoter .
+Discussion Acquisition of genomic DNA through horizontal gene transfer events could potentially impose a competitive disadvantage to the new bacterial host .
+Recent reports have highlighted the role that H - NS has played in bacterial evolution by silencing or downregulating , at the transcriptional level , the expression of foreign genes that have been acquired as a result of horizontal gene transfer events , thus preventing disadvantageous effects to the new bacterial host ( 3 , 4 , 6 , 36 ) .
+Bacterial pathogens such as Salmonella have evolved as a consequence of multiple horizontal gene transfer events at different evolutionary time points .
+Most of the genes acquired through these events are subjected to H - NS silencing ; thus , regulatory mechanisms that alleviate this repression also evolved to induce the expression of the gained genes at particular host niches ( 3 , 4 , 6 , 36 ) .
+Recent observations have suggested that the expression of SPI - 1 and SPI - 2 genes and their role at distinct steps during the infection process are not as independent and niche restricted as previously thought .
+For example , SPI - 1 genes have also been shown to be important for Salmonella persistence during longterm systemic infections , phagosome maturation , and intracellular proliferation ( 37 -- 39 ) , and SPI - 2 genes have been implicated in intestinal colonization , persistence during the intestinal phase , and induction of secretory and inflammatory responses ( 40 -- 43 ) .
+Furthermore , recent reports have suggested that expression of the SPI - 1 and SPI - 2 regulons is not restricted to unique and independent niches .
+SPI - 2 -- encoded genes can be expressed in the intestinal lumen before penetration of the intestinal epithelium ( 44 ) , whereas SPI - 1 effectors can be detected in infected mice many days after infection ( 45 ) or induced intracellularly following phagocytic uptake but not following SPI - 1 -- mediated invasion ( 19 , 46 ) .
+Here , we describe a simple method whereby SPI - 1 and SPI - 2 regulons can be induced sequentially in LB - medium , thus providing a unique opportunity to examine the mechanism of switching from SPI - 1 to SPI - 2 induction .
+Growth of Salmonella in LB has generally been considered to induce expression of the SPI - 1 regulon and , conversely , to repress SPI - 2 expression ( 10 , 11 ) .
+Although expression of SPI - 2 genes has been previously observed in LB ( 47 , 48 ) , the mechanism involved in their activation has not been investigated .
+Our data show that SPI - 2 genes are activated in LB in a growth phase - dependent manner once the bacteria have reached the late stationary - phase and SPI - 1 expression has ceased .
+Under these growth - conditions , expression of SPI - 2 genes requires the SsrA/B two - component regulatory system , whose essential role in SPI - 2 regulon activation has been well documented in - vitro and in - vivo ( 12 , 20 , 21 , 49 , 50 ) .
+In addition , we show that the regulatory pathway activating the SPI - 2 regulon in response to stationary growth phase conditions specifically involves the SPI - 1 -- encoded regulator HilD , which also has a hierarchical regulatory function in the activation of the SPI - 1 regulon as well as a key role in - vivo ( 51 ) .
+Therefore , HilD appears to be at the center of a regulatory network that connects both SPI - 1 and SPI - 2 gene expression .
+The critical question now is how can HilD differentially activate SPI - 1 and SPI - 2 expression at different growth stages in the same growth medium ?
+In theory the mechanism could depend on a number of different factors : the higher affinity that HilD shows for the hilA promoter region versus the ssrAB regulatory region ; the parallel growth phase - dependent expression of other key SPI - 2 regulators such as OmpR ; the competitive action of a negative regulatory mechanism turning off SPI - 1 expression , thus redirecting HilD toward ssrAB activation ; and other possibilities that have not yet been investigated .
+Analysis of different Salmonella genomes has shed light on the evolution of the Salmonella genus and suggested that SPI - 2 is a more recently acquired virulence trait because it is not present in the phylogenetically older species S. bongori ( 52 , 53 ) .
+In this context , it is tempting to speculate that acquisition of SPI - 2 imposed a need to coordinate its expression with preexistent virulence traits so as not to compromise bacterial fitness and efficiency to ensure the successful exploitation of different host niches .
+In this regard , we have shown that HilD directly binds the regulatory region of ssrAB and acts as an H - NS antagonist to allow the OmpR - dependent activation of this operon , which is consistent with its reported function in the activation of hilA ( 29 , 30 , 54 ) .
+Adaptation of HilD to antagonize H - NS -- dependent repression on the ssrAB operon , establishing a transcriptional cross - talk between the previously acquired SPI - 1 and the incoming SPI - 2 , would ensure the coordinated and successive 14594 www.pnas.org cgi doi 10.1073 pnas .0801205105 Bustamante et al. expression of both regulons under different conditions or host niches , leading to the successful evolution of Salmonella as an enteric and facultative intracellular pathogen .
+Considering the pleiotropic effects of HilD on the regulation of Salmonella virulence - factors , dissecting the role of HilDmediated activation of SPI - 2 regulon expression at different stages of an infection or in different hosts will require the precise definition of the ssrAB cis - acting elements in which HilD binds to exert its H - NS antagonistic function .
+The modification of this site at the chromosomal level to prevent HilD binding without affecting H - NS repression or ssrAB activation through HilDindependent pathways , such as those acting in N - minimal - medium , will provide a strategy to generate Salmonella strains in which the HilD - mediated activation of the SPI - 1 regulon remains functional .
+These strains could then be tested in different in - vitro conditions and infection models to define the role of HilD more clearly in regulating the SPI - 2 regulon .
+In summary , by revealing the existence of an SPI - 1 and SPI - 2 transcriptional cross - talk mechanism , this work has disclosed a new level of complexity in the already intricate regulatory networks of Salmonella virulence ( Fig .
+HilD seems to coordinate the expression of both regulons in response to changing conditions that may be encountered at different stages during the progression of an infection .
+Once the bacterium has initiated the program that controls expression of the SPI - 1 regulon in the gut lumen , the presence of HilD would help to set the activation of the SPI - 2 regulon to perform , for example , its role during the enteric phase of the infection .
+Inside macrophages , expression of SPI - 2 probably relies entirely on the PhoP/SlyA - dependent pathway , consistent with our observations that suggest these two pathways are not likely to overlap in - vivo , because they are independently active under different growth conditions , and are apparently not synergistic , because each of them is active in the absence of the other .
+Regulation of the SPI - 2 regulon is an example of the complexity of regulatory mechanisms that have evolved by integrating ancestral ( e.g. , H - NS , OmpR , PhoP ) , previously acquired ( e.g. , HilD ) , and accompanying ( e.g. , SsrB ) regulatory elements into a complex regulatory network , which allows the spatiotemporal and coordinated expression of virulence - factors during the infectious process .
+Materials and Methods Strains , Plasmids , and Primers .
+Bacterial strains , plasmids , and primers used in this study are listed in Tables S1 and S2 .
+Mutant strains were generated by the Red recombinase system , as reported previously ( 55 , 56 ) , and as briefly described in SI Materials and Methods .
+Construction of plasmids is also described in detail in SI Materials and Methods .
+LB - medium containing 1 % tryptone , 0.5 % yeast extract , and 1 % NaCl at pH 7.5 or N - minimal - medium containing 5 mM KCl , 7.5 mM ( NH 4 ) 2 SO 4 , 0.5 mM K 2 SO 4 ,1 mMKH 2 PO 4 , 100 mM Tris - HCl ( pH 7.5 ) , 10 M MgCl 2 , 0.5 % glycerol , and 0.1 % casamino - acids was used for growth of bacterial cultures .
+Bacterial suspensions were prepared from overnight LB cultures that were concentrated and resuspended in fresh LB or N - minimal medium to an OD 600 of 1 .
+Then , 250 - ml flasks containing 50 ml of LB or N - minimal - medium were inoculated with a 50 - fold dilution of the bacterial suspensions and incubated at 37 °C in a shaken water bath at 200 rpm .
+Samples used to determine chloramphenicol acetyl transferase ( CAT ) activity or for Western blot analysis were taken hourly or at specific time points as indicated in the figure legends .
+For the H - NS dominant - negative assay , duplicate LB cultures of the strains containing plasmid pMPM - T6 , pT6 - HNS - WT , or pT6 - HNS - Q92am were initiated as described previously .
+Two hours later , 0.1 % L - ( ) - arabinose ( Sigma ) was added to one duplicate to induce the expression of WT H - NS or the dominant - negative H - NS Q92am protein .
+Samples for Western blot analysis were taken 8 h after arabinose induction .
+Immunoblots were performed as described in SI Materials and Methods using anti - SsrB or anti - OmpR polyclonal antibodies and anti- FLAG M2 ( Sigma ) or anti - DnaK ( StressGen ) monoclonal antibodies at 1:10,000 , 1:2,000 , 1:1,000 , and 1:20,000 dilutions , respectively .
+Expression and Purification of MBP - HilD and H - NS - His 6 .
+MBP - HilD or H - NS - His 6 fusion protein was expressed in Escherichia coli BL21/pLys containing pMAL - HilD1 or pT6 - HNS - His 6 and purified from a soluble extract loaded into an amylose column by eluting with column buffer containing 10 mM maltose ( Bioxon ) or by using a HiTrap Ni 2 - chelating column , as described in SI Materials and Methods .
+Protein concentration was determined by the Bradford procedure .
+EMSAs were performed as follows .
+PCR fragments encompassing the regulatory regions of ssrAB , hilA , hilD , sopB , and sirA were amplified using primer pairs ssaBFBglII/ssrBRS6E , hilA1FBamHI/hilA2RHindIII , hilDFBamHI / hilDRHindIII , sigDH3R/sigDBH1F , and sirAFBamHI/sirARHindIII , respectively ( Table S2 ) , and S. typhimurium SL1344 chromosomal DNA as a template .
+Each PCR product ( 100 ng ) was mixed with increasing concentrations of purified MBP - HilD or H - NS - His 6 in a buffer containing 10 mM Tris - HCl ( pH 8.0 ) , 50 mM KCl , 1 mM DTT , 0.5 mM EDTA , 5 % glycerol , and 10 g ml 1 BSA in a final volume of 20 l .
+The reactions were incubated for 20 min at room temperature and then electrophoretically separated in 6 % polyacrylamide nondenaturing gels in 0.5 Tris - borate - EDTA buffer at room temperature .
+The DNA fragments were stained with ethidium bromide and visualized with an Alpha - Imager UV transilluminator ( Alpha Innotech Corp. ) .
+The CAT assays and protein quantification to calculate CATspecific activities were performed as described previously ( 57 ) .
+We thank A. Vázquez and M. Fernández - Mora for excellent technical assistance , L.J. Kenney for anti - SsrB and anti - OmpR antibodies , and S. Miller and F. Heffron for providing Salmonella strains .
+This work was supported by grants from Consejo Nacional de Ciencia y Tecnología ( CONACYT ) ( 42918Q ) ( to J.L.P. ) and the Howard Hughes Medical Institute ( 75301 -- 565101 ) ( to J.L.P ) and from Dirección General de Asuntos del Personal Académico ( DGAPA ) ( IN227306 -- 3 ) ( to V.H.B ) .
+L.C.M. is supported by a predoctoral fellowship from CONACYT ( No. 169380 ) .
+L.A.K. and O.S.M. were supported by the Intramural Research Program of the National Institute of Allergy and Infectious Diseases , National Institutes of Health .
+Ochman H , Lawrence JG , Groisman EA ( 2000 ) Lateral gene transfer and the nature of bacterial innovation .
+Schmidt H , Hensel M ( 2004 ) Pathogenicity islands in bacterial pathogenesis .
+Lucchini S , et al. ( 2006 ) H - NS mediates the silencing of laterally acquired genes in bacteria .
+Navarre WW , et al. ( 2006 ) Selective silencing of foreign DNA with low GC content by the H - NS protein in Salmonella .
+Oshima T , Ishikawa S , Kurokawa K , Aiba H , Ogasawara N ( 2006 ) Escherichia coli histone - like protein H - NS preferentially binds to horizontally acquired DNA in association with RNA polymerase .
+Navarre WW , McClelland M , Libby SJ , Fang FC ( 2007 ) Silencing of xenogeneic DNA by H - NS - facilitation of lateral gene transfer in bacteria by a defense system that recognizes foreign DNA .
+Dorman CJ ( 2004 ) H - NS : A universal regulator for a dynamic genome .
+Rimsky S ( 2004 ) Structure of the histone - like protein H - NS and its role in regulation and genome superstructure .
+Haraga A , Ohlson MB , Miller SI ( 2008 ) Salmonellae interplay with host cells .
+Miao EA , Miller SI ( 2000 ) A conserved amino - acid sequence directing intracellular type III secretion by Salmonella typhimurium .
+Proc Natl Acad Sci USA 97:7539 -- 7544 .
+Lundberg U , Vinatzer U , Berdnik D , von Gabain A , Baccarini M ( 1999 ) Growth phaseregulated induction of Salmonella - induced macrophage apoptosis correlates with transient expression of SPI - 1 genes .
+Deiwick J , Nikolaus T , Erdogan S , Hensel M ( 1999 ) Environmental regulation of Salmonella pathogenicity island 2 gene expression .
+Altier C ( 2005 ) Genetic and environmental control of Salmonella invasion .
+J Microbiol 43 ( Spec No ) : 85 -- 92 .
+Jones BD ( 2005 ) Salmonella invasion gene regulation : A story of environmental awareness .
+J Microbiol 43 ( Spec No ) : 110 -- 117 .
+Rhen M , Dorman CJ ( 2005 ) Hierarchical gene regulators adapt Salmonella enterica to its host milieus .
+Int J Med Microbiol 294:487 -- 502 .
+Ellermeier JR , Slauch JM ( 2007 ) Adaptation to the host environment : Regulation of the SPI1 type III secretion system in Salmonella enterica serovar Typhimurium .
+Hensel M ( 2000 ) Salmonella pathogenicity island 2 .
+Eriksson S , Lucchini S , Thompson A , Rhen M , Hinton JC ( 2003 ) Unravelling the biology of macrophage infection by gene expression profiling of intracellular Salmonella enterica .
+Drecktrah D , Knodler LA , Ireland R , Steele - Mortimer O ( 2006 ) The mechanism of Salmonella entry determines the vacuolar environment and intracellular gene expression .
+Cirillo DM , Valdivia RH , Monack DM , Falkow S ( 1998 ) Macrophage - dependent induction of the Salmonella pathogenicity island 2 type III secretion system and its role in intracellular survival .
+Walthers D , et al. ( 2007 ) The response regulator SsrB activates expression of diverse Salmonella pathogenicity island 2 promoters and counters silencing by the nucleoidassociated protein H - NS .
+Knodler LA , et al. ( 2002 ) Salmonella effectors within a single pathogenicity island are differentially expressed and translocated by separate type III secretion systems .
+Ahmer BM ( 2004 ) Cell - to - cell signalling in Escherichia coli and Salmonella enterica .
+Lee AK , Detweiler CS , Falkow S ( 2000 ) OmpR regulates the two - component system SsrA - ssrB in Salmonella pathogenicity island 2 .
+Coombes BK , Brown NF , Valdez Y , Brumell JH , Finlay BB ( 2004 ) Expression and secretion of Salmonella pathogenicity island - 2 virulence genes in response to acidification exhibit differential requirements of a functional type III secretion apparatus and SsaL .
+Lober S , Jackel D , Kaiser N , Hensel M ( 2006 ) Regulation of Salmonella pathogenicity island 2 genes by independent environmental signals .
+Int J Med Microbiol 296:435 -- 447 .
+Feng X , Oropeza R , Kenney LJ ( 2003 ) Dual regulation by phospho - OmpR of ssrA/B gene expression in Salmonella pathogenicity island 2 .
+Bijlsma JJ , Groisman EA ( 2005 ) The PhoP/PhoQ system controls the intramacrophage type three secretion system of Salmonella enterica .
+Olekhnovich IN , Kadner RJ ( 2006 ) Crucial roles of both flanking sequences in silencing of the hilA promoter in Salmonella enterica .
+Schechter LM , Lee CA ( 2001 ) AraC/XylS family members , HilC and HilD , directly bind and derepress the Salmonella typhimurium hilA promoter .
+Duong N , et al. .
+BK ( 2007 ) Thermosensing coordinates a Cis - regulatory module for transcriptional activation of the intracellular virulence system in Salmonella enterica serovar Typhimurium .
+Ueguchi C , Seto C , Suzuki T , Mizuno T ( 1997 ) Clarification of the dimerization domain and its functional significance for the Escherichia coli nucleoid protein H - NS .
+Ueguchi C , Suzuki T , Yoshida T , Tanaka K , Mizuno T ( 1996 ) Systematic mutational analysis revealing the functional domain organization of Escherichia coli nucleoid protein H - NS .
+Olekhnovich IN , Kadner RJ ( 2002 ) DNA - binding activities of the HilC and HilD virulence regulatory proteins of Salmonella enterica serovar Typhimurium .
+Olekhnovich IN , Kadner RJ ( 2007 ) Role of nucleoid - associated proteins Hha and H - NS in expression of Salmonella enterica activators HilD , HilC , and RtsA required for cell invasion .
+Dorman CJ ( 2007 ) H - NS , the genome sentinel .
+Brawn LC , Hayward RD , Koronakis V ( 2007 ) Salmonella SPI1 effector SipA persists after entry and cooperates with a SPI2 effector to regulate phagosome maturation and intracellular replication .
+Steele - Mortimer O , et al. ( 2002 ) The invasion - associated type III secretion system of Salmonella enterica serovar Typhimurium is necessary for intracellular proliferation and vacuole biogenesis in epithelial cells .
+Lawley TD , et al. ( 2006 ) Genome - wide screen for Salmonella genes required for long - term systemic infection of the mouse .
+Hapfelmeier S , et al. ( 2005 ) The Salmonella pathogenicity island ( SPI ) -2 and SPI - 1 type III secretion systems allow Salmonella serovar Typhimurium to trigger colitis via MyD88 - dependent and MyD88 - independent mechanisms .
+Coombes BK , et al. ( 2005 ) Analysis of the contribution of Salmonella pathogenicity islands 1 and 2 to enteric disease progression using a novel bovine ileal loop model and a murine model of infectious enterocolitis .
+Coburn B , Li Y , Owen D , Vallance BA , Finlay BB ( 2005 ) Salmonella enterica serovar Typhimurium pathogenicity island 2 is necessary for complete virulence in a mouse model of infectious enterocolitis .
+Bispham J , Tripathi BN , Watson PR , Wallis TS ( 2001 ) Salmonella pathogenicity island 2 influences both systemic salmonellosis and Salmonella - induced enteritis in calves .
+Brown NF , et al. ( 2005 ) Salmonella pathogenicity island 2 is expressed prior to penetrating the intestine .
+Giacomodonato MN , et al. ( 2007 ) SipA , SopA , SopB , SopD and SopE2 effector proteins of Salmonella enterica serovar Typhimurium are synthesized at late stages of infection in mice .
+Drecktrah D , Knodler LA , Galbraith K , Steele - Mortimer O ( 2005 ) The Salmonella SPI1 effector SopB stimulates nitric - oxide production long after invasion .
+Silphaduang U , Mascarenhas M , Karmali M , Coombes BK ( 2007 ) Repression of intracellular virulence - factors in Salmonella by the Hha and YdgT nucleoid - associated proteins .
+Lim S , Kim B , Choi HS , Lee Y , Ryu S ( 2006 ) Fis is required for proper regulation of ssaG expression in Salmonella enterica serovar Typhimurium .
+Hensel M , et al. ( 1998 ) Genes encoding putative effector proteins of the type III secretion system of Salmonella pathogenicity island 2 are required for bacterial virulence and proliferation in macrophages .
+Worley MJ , Ching KH , Heffron F ( 2000 ) Salmonella SsrB activates a global regulon of horizontally acquired genes .
+Ellermeier CD , Ellermeier JR , Slauch JM ( 2005 ) HilD , HilC and RtsA constitute a feed forward loop that controls expression of the SPI1 type three secretion system regulator hilA in Salmonella enterica serovar Typhimurium .
+Hensel M , et al. ( 1997 ) Analysis of the boundaries of Salmonella pathogenicity island 2 and the corresponding chromosomal region of Escherichia coli K - 12 .
+Baumler AJ ( 1997 ) The record of horizontal gene transfer in Salmonella .
+Schechter LM , Damrauer SM , Lee CA ( 1999 ) Two AraC/XylS family members can independently counteract the effect of repressing sequences upstream of the hilA promoter .
+Datsenko KA , Wanner BL ( 2000 ) One - step inactivation of chromosomal genes in .
+Escherichia coli K - 12 using PCR products .
+Proc Natl Acad Sci USA 97:6640 -- 6645 .
+Uzzau S , Figueroa - Bossi N , Rubino S , Bossi L ( 2001 ) Epitope tagging of chromosomal genes in Salmonella .
+Proc Natl Acad Sci USA 98:15264 -- 15269 .
+Martinez - Laguna Y , Calva E , Puente JL ( 1999 ) Autoactivation and environmental regulation of bfpT expression , the gene coding for the transcriptional activator of bfpA in enteropathogenic Escherichia coli .
+14596 www.pnas.org cgi doi 10.1073 pnas .0801205105 Bustamante et al. .

@@ -1,0 +1,314 @@
+JOURNAL OF BACTERIOLOGY , Jan. 2006 , p. 141 -- 149 Vol .
+188 , No. 1 0021 - 9193/06 / $ 08.00 0 doi : 10.1128 / JB .188.1.141 -- 149.2006 Role of Salmonella enterica Serovar Typhimurium Two - Component System PreA/PreB in Modulating PmrA - Regulated Gene Transcription Massimo Merighi , 1 † § Amanda Carroll - Portillo , 2 ‡ § Alecia N. Septer , 1 Aditi Bhatiya , 1 and John S. Gunn 1 * Department of Molecular Virology , Immunology , and Medical Genetics and Center for Microbial Interface Biology , The Ohio State University , 333 W. 10th Avenue , Columbus , Ohio 43210 , 1 and University of Texas Health Science Center at San Antonio , 7703 Floyd Curl Dr. , San Antonio , Texas 78229 2 The PmrA/PmrB two - component system encoded by the pmrCAB operon regulates the modification of Salmonella enterica serovar Typhimurium lipopolysaccharide leading to polymyxin B resistance .
+PmrA and PhoP are the only known activators of pmrCAB .
+A transposon mutagenesis screen for additional regulators of a pmrC : : MudJ fusion led to the identification of a two - component system , termed PreA/PreB ( pmrCAB regulators A and B ) , that controls the transcription of the pmrCAB operon in response to unknown signals .
+The initial observations indicated that insertions in , or a deletion of , the preB sensor , but not the preA response regulator , caused upregulation of pmrCAB .
+Interestingly , the expression of pmrCAB was not upregulated in a preAB mutant grown in LB broth , implicating PreA in the increased expression of pmrCAB in the preB strain .
+This was confirmed by overexpression of preA in preAB or preB backgrounds , which resulted in significant upregulation or further upregulation of pmrCAB .
+No such effect was observed in any tested preB backgrounds .
+Additionally , an ectopic construct expressing a preA [ D51A ] allele also failed to upregulate pmrC in any of the pre backgrounds tested , which implies that there is a need for phosphorylation in the activation of the target genes .
+The observed upregulation of pmrCAB occurred independently of the response regulators PmrA and PhoP .
+Although a preB mutation led to increased transcription of pmrCAB , this did not result in a measurable effect on polymyxin B resistance .
+Our genetic data support a model of regulation whereby , in response to unknown signals , the PreB sensor activates PreA , which in turn indirectly upregulates pmrCAB transcription .
+Bacterial two - component systems ( TCS ) couple extracellular and intracellular signals to the transcriptional expression of genes or to the posttranslational regulation of molecular motors or enzymes ( 39 ) .
+In particular , transcription of virulence genes in microbial pathogens is often tightly regulated and may involve TCS ( 8 ) .
+TCS are typically composed of a sensor kinase , frequently membrane bound , and a response regulator .
+The sensor kinase responds to specific signals resulting in a net increase in the autophosphorylation rate of a conserved histidine residue of its C - terminal transmitter domain .
+The phosphate moiety is then transferred to a conserved aspartyl residue located in an acidic pocket on the N - terminal receiver domain of the cognate response regulator .
+The phosphorylated form of the response regulator is the effector of the signal transduction event , activating or repressing transcription or enzyme activities .
+The signaling is switched off by the unstable nature of the aspartyl phosphate moiety or by cellular phosphatases , including bifunctional sensors ( 19 ) .
+Virology , Immunology , and Medical Genetics and Center for Microbial Interface Biology , The Ohio State University , 270 TMRF , 420 W. 12th Avenue , Columbus , OH 43210 .
+† Present address : Department of Microbiology and Molecular Genetics , Harvard Medical School , Boston , MA 02115 .
+‡ Present address : Department of Biomolecular Materials and Interfaces , Sandia National Laboratories , Albuquerque , NM 87185 .
+contributed equally to this work .
+Many Salmonella enterica serovar Typhimurium TCS have been shown to be important for virulence .
+For instance , SirA / BarA ( 21 , 43 ) and EnvZ/OmpR ( 24 ) are all indirectly involved in regulating SPI - 1 invasion genes .
+Also , the TCS SsrA/SsrB directly controls expression of SPI - 2 intramacrophage survival genes ( 5 , 9 ) , while PhoP/PhoQ controls a vast regulon that includes invasion genes , macrophage survival genes , cation transporters , and genes involved in antimicrobial peptide ( AP ) resistance ( 10 , 30 ) .
+Often , TCS regulate other TCS at both transcriptional and posttranslational levels .
+For instance , PhoP has been recently shown to bind and regulate an internal promoter that drives the expression of the SPI - 2 regulator ssrB ( 2 ) , while at the same time , it controls dephosphorylation of the PmrA response regulator via transcriptional regulation of the gene encoding the small protein PmrD ( 22 , 23 ) .
+PmrA/PmrB is another TCS both necessary for resistance to polymyxin B ( PMB ) in - vitro and important for oral virulence in the mouse model of enteric fever ( 14 , 15 , 36 ) .
+PmrA/PmrB regulates the expression of a complex regulon that includes pmrCAB , pmrE , pmrG , pmrFHIJKLM , cptA , and several other genes ( 15 , 25 , 40 , 41 ) .
+Some of these genes were shown to be involved in modifying the lipopolysaccharide ( LPS ) , altering the surface charge and reducing the binding of cationic APs such as PMB ( 11 , 13 , 16 ) .
+APs are important components of the host innate immune system .
+They are found at mucosal and skin surfaces and within professional phagocytes ( 18 , 33 ) .
+APs bind to the LPS in enterobacteria , gaining entry into the cell and most often causing perforation of the cytoplasmic mem - 141 142 MERIGHI ET AL. .
+188 , 2006 SALMONELLA PreA/B TWO - COMPONENT SYSTEM 143 TABLE 2 .
+brane and eventual death ( 45 ) .
+Besides being indirectly regulated by PhoP/PhoQ via the mechanism mentioned above , some PmrA - regulated genes such as ugd/pmrE are also transcriptionally controlled by the RcsB/RcsC two - component system ( 31 ) .
+The fact that multiple signals/signaling pathways converge to modulate the Salmonella polymyxin resistance regulon suggests its critical importance for the adaptation / survival in both extracellular and intracellular environments .
+Additionally , previous work from our laboratory suggests that in - vivo , regulators other than PmrA might be involved in controlling the expression of the pmrFHIJKLM operon ( 15 ) .
+In this study , we describe a Salmonella TCS , named PreA / PreB , that was identified in a transposon mutagenesis screen for regulators of pmrCAB .
+PreA/PreB is similar to the luxSdependent quorum - sensing regulatory system QseB/QseC in enterohemorrhagic Escherichia coli ( 37 ) .
+We demonstrate that PreA activates the transcription of pmrCAB in a PhoP - and PmrA response regulator - independent fashion .
+The results suggest that sensor kinase PreB inactivates PreA during - growth in Luria - Bertani ( LB ) broth and that PreA is indirectly involved in pmrCAB regulation .
+Furthermore , the observed increase in pmrCAB transcription does not lead to observable transcriptional activation of most of the PmrA/PmrB regulon or to the alteration of the polymyxin resistance phenotype .
+MATERIALS AND METHODS Bacterial strains and growth - conditions .
+E. coli and Salmonella enterica serovar Typhimurium strains and plasmids used in this study are listed in Table 1 .
+LB broth and agar were used for strain maintenance , cloning , and expression experiments .
+For gene expression experiments , strains were grown in a rotating drum to mid - to late exponential phase ( optical density at 600 nm [ OD 600 ] of 0.6 to 0.9 ) .
+When appropriate , antibiotics were added at the following concentrations : ampicillin , 100 g/ml ; chloramphenicol , 25 g/ml ; kanamycin , 25 g/ml ; tetracycline , 25 g/ml ; streptomycin , 100 g/ml .
+Molecular biology and genetic techniques .
+DNA purification , molecular cloning , and PCR were performed according to standard procedures ( 1 ) .
+Plasmids were mobilized by electroporation .
+Transposon mutagenesis was performed with Tn10d and MudJ transposons as previously described ( 12 ) .
+Marked mutations were transferred between Salmonella enterica serovar Typhimurium strains by P22 HT105 int - 102 - mediated generalized transduction as described previously ( 20 , 34 ) .
+DNA sequencing and bioinformatics .
+DNA sequencing was performed using a Big Dye fluorescent terminator and an ABI3770 capillary sequencer at the Nucleic Acid Core Facility , University of Texas Health Science Center at San Antonio , and the Plant Microbe Genomic Facility at The Ohio State University .
+DNA sequences were analyzed by Blastx at the NCBI ( 27 ) .
+Domain structure was analyzed by CDD searches ( 26 ) .
+ClustalW was used to produce global progressive alignments ( 44 ) .
+Construction of mutants and plasmids .
+Nonpolar deletions of preA and preB were created using - Red mutagenesis ( 6 ) .
+In particular , primers JG489 and JG490 or JG557 and JG558 ( Table 2 ) were designed to amplify preA - kan - preA and preB - kan - preB cassettes , respectively , while primers JG489 and JG558 amplified preA - cat - preB using pKD3 or pKD4 as a template .
+The recombinant antibiotic cassettes were exchanged into the chromosome of Salmonella enterica serovar Typhimurium 14028s ( pKD46 ) to generate strains JSG1987 preA : : kan , JSG2344 preB : : kan , and JSG2626 preAB : : cat ( Table 1 ) .
+The antibiotic cassettes were resolved by introducing pCP20 , and the resulting unmarked strains were named JSG1998 preA , JSG2626 preAB , and JSG2343 preB .
+A missense mutation to glycine was generated at the PreB predicted autophosphorylation site H246 .
+Spliced overlap extension ( SOE ) - PCR with JG637 and JG634 as flanking primers and JG635 and JG636 as mutagenic primers was used to construct the mutant allele in - vitro .
+The preB [ H246G ] allele was ligated into the suicide vector pKAS46 as a 1.2 - kb EcoRI/NotI fragment to produce plasmid pJSG2381 in E. coli SM10 pir .
+Allele exchange with pJSG2381 was performed using JSG542 , a Salmonella enterica serovar Typhimurium 14028 Str r derivative , as the recipient strain .
+The correct recombinant was confirmed by sequencing and was labeled JSG2364 .
+The phosphorylation site at residue D51 of pmrA was mutated to alanine by SOE - PCR using primers JG797 and JG798 ( flanking primers ) with JG795 and JG796 ( internal primers ) .
+The pmrA [ D51A ] allele was cloned as an SstI - XhoI fragment into the suicide vector pLD55 ( 28 ) to produce plasmid pJSG2456 in E. coli BW20339 .
+Allele exchange into strain JSG2003 preA pmrC : : MudJ was performed using Bochner selection , as described previously ( 28 ) , to produce strain JSG2481 .
+The pmrC : : MudJ pmrA [ D51A ] locus was further mobilized in several genetic backgrounds by P22 transduction selecting for the Kan r marker of MudJ linked to the pmrA mutation .
+The correct recombinant was verified by PCR and restriction analysis of the pmrA [ D51A ] allele at the engineered NheI site .
+The entire preAB operon or the preA open reading frame was cloned into pBAD18 for expression from P BAD as a JG708 and JG709 or a JG1055 and JG1056 PCR fragment to produce plasmids pJSG2581 and pJSG2558 , respectively .
+Plasmid pJSG2558 was mutagenized at the conserved D51 residue of preA by oligomutagenesis with primers JG1190 and JG1191 using the Gene Tailor kit ( Invitrogen ) to generate pJSG2700 .
+Western blot analysis of His 6 - PreA proteins .
+Whole - cell lysates of Salmonella strains were separated by sodium dodecyl sulfate - polyacrylamide gel electrophoresis and blotted onto HyBond nitrocellulose ( Amersham ) .
+Proteins were detected using a primary polyclonal antibody raised in rabbit against recombinant His 6 - PreA ( 1:2,000 dilution ) , a donkey anti - rabbit immunoglobulin G 144 MERIGHI ET AL. .
+Map of preAB genes , mutations , and plasmids .
+Boxes represent open reading frames .
+The solid circle indicates a Tn10d insertion .
+Locations of the preA and preB deletions are noted below the gene map , and a solid line delimiting the region cloned into the expression plasmids pJSG2581 and pJSG2558 is shown .
+secondary antibody conjugated to alkaline phosphatase ( 1:4,000 dilution ) ( Amersham ) , and the chemiluminescent substrate CPD - Star ( Roche ) according to a standard Western blot protocol ( 1 ) .
+- Galactosidase assays were carried out using either a spectrophotometric method with ortho - nitrophenyl - - D - galactopyranoside ( ONPG ) as a substrate or a modified fluorometric method with 4 - methyl - umbelliferyl - galactopyranoside ( MUGal ) ( 29 ) .
+Assays were performed in triplicate .
+Specific enzyme activities are reported in Miller units ( ONPG assays ) or in picomoles of released 4 - methyl - umbelliferone per second per OD unit per milliliter of culture ( MUGal assays ) .
+Assays were carried out as previously described ( 38 ) .
+Briefly , strains were grown in Mueller - Hinton broth overnight , and 10 4 cells per well were added to polypropylene microtiter plates .
+Each strain was tested for growth and pellet accumulation against serial dilutions of PMB in 0.2 % bovine serum albumin -- 0.01 % acetic acid for 16 h. Identification and sequence analysis of the preAB operon .
+In an effort to identify additional putative regulators of the pmrCAB locus , a Tn10d mutant pool constructed in Salmonella enterica serovar Typhimurium 14028s was transduced into the reporter strain JSG215 ( pmrC : : MudJ ) .
+Out of 30,000 transductants , a mutant colony producing a strong blue color on LB plates containing X - Gal ( 5 - bromo - 4-chloro - 3-indolyl - - D - thiogalactopyranoside ) was isolated .
+The mutant phenotype was named Pre ( for pmrCAB regulator ) , while the mutant strain was named JSG1038 .
+The mutation was transduced back into the parent strain to rule out second - site mutations ( creating strain JSG1039 ) , and the phenotype was confirmed .
+A HindIII fragment containing the region upstream of the transposon , as well as the transposon tetracycline resistance cassette , was shotgun cloned into pWSK29 , producing pJSG975 .
+DNA sequencing from the transposon 5 end and sequence analyses revealed that the Tn10d insertion mapped to a gene corresponding to the Salmonella enterica serovar Typhimurium LT2 locus ygiY ( STM3178 ) , which has homology to orthodox bacterial sensor kinases ( Fig. 1 ) , most notably to E. coli K - 12 and O157 : H7 QseC ( 87 to 88 % similarity ; E 0.0 ) .
+YgiY is predicted to be a 51 - kDa protein with two transmembrane segments between residues 8 and 56 and residues 149 and 199 .
+CDD searches and alignments with known sensor kinases predicted a putative autophosphorylation site at residue H246 .
+Upstream of ygiY is ygiX ( STM3177 ) , which encodes a 24 - kDa putative response regulator of the OmpR subfamily with high similarity to E. coli O157 : H7 QseB ( 93 % similarity ; E 1 10 107 ) , Pectobacterium carotovorum PmrA ( 64 % similarity ; E 8 10 49 ) , E. coli CFT073 PmrA ( 63 % similarity ; E RESULTS FIG. 2 .
+Effect of preA or preB mutations on pmrCAB transcription .
+Salmonella strains were grown in LB - medium to an OD 600 of 0.6 before - galactosidase assays were performed .
+Activities are expressed in picomoles of 4 - methylumbelliferone ( MU ) per minute per OD unit .
+Error bars indicate the standard deviations .
+The following strains were used : JSG215 ( pmrC - lacZ ) , JSG1039 ( preB : : Tn10d pmrC - lacZ ) , JSG2003 ( preA pmrC - lacZ ) , JSG2115 ( preB pmrC - lacZ ) , and JSG2624 ( preAB pmrC - lacZ ) .
+188 , 2006 SALMONELLA PreA/B TWO - COMPONENT SYSTEM 145 1 10 47 ) , and Salmonella enterica serovar Typhimurium PmrA ( 58 % similarity ; E 7 10 43 ) .
+The new TCS locus was renamed preAB .
+These two genes form an apparent operon , with the stop codon of ygiX overlapping the start codon of ygiY , an arrangement suggestive of translational coupling .
+The high similarity and identity to E. coli QseB/QseC , which controls motility in response to AI - 2 quorum - sensing signals in E. coli strains ( 37 ) , and the almost - identical map position ( Fig. 1 ) directly upstream of mdaB , a putative NADH - dependent oxidoreductase , and ygiN , a putative quinol monooxygenase , and downstream of STM3175 , an AraC - like regulator , and ygiW suggested that these two TCS may be potential orthologs .
+Both PreB and PreA affect pmrCAB transcription .
+The regulatory effect of the preB : : Tn10d insertion on pmrCAB operon expression was quantified by - galactosidase enzyme assays upon growth of the bacteria in LB - medium to exponentialearly stationary - phase .
+Reporter gene activity was measured in a pmrC : : MudJ background .
+The results showed an eightfold increase in pmrCAB transcription upon introduction of the preB polar insertion ( strain JSG1039 ) ( Fig. 2 ) .
+To rule out possible polar effects of the Tn10d insertion on the downstream genes mdaB and ygiN ( Fig. 1 ) , we created an unmarked deletion in preB ( strain JSG2115 ) using - Red mutagenesis .
+This mutation caused the expected upregulation of pmrCAB at levels comparable to those observed in strain JSG1039 ( Fig. 2 ) , and its effects were complemented by preB in trans ( Fig. 3 ) .
+We were also able to complement the regulatory effect of the preB mutation with plasmid pQseBC33 ( Fig. 3 ) , which carries the homologous E. coli operon qseBC , implying functional homology between the two regulatory systems .
+In general , null mutations in the sensor kinase inactivate a two - component system , but cross talk with the response regulator by alternative kinase or by acetyl phosphate may lead to sensor - independent expression of the two - component system regulon .
+To test whether the effect caused by preB was replicated by a preA mutation , we introduced a deletion in the response regulator by - Red mutagenesis ( creating strains JSG1998 and JSG2003 ) .
+The resulting mutants did not produce the 26 - kDa polypeptide after Western blot analysis using a polyclonal antibody against PreA ( Fig. 3D , lane 2 ) .
+To our surprise , a preA strain did not show upregulation of pmrC : : MudJ ( Fig. 2 ) .
+This result was also repeated after reengineering the mutants using independently constructed alleles .
+Similar regulatory patterns were obtained by using other plasmid - borne and chromosomal gene fusions FIG. 3 .
+Ectopic expression of complementing and suppressing regulatory genes .
+( A ) Complementation of preB mutant .
+( B ) Ectopic expression of preA .
+( C ) Ectopic expression of preA [ D51A ] .
+( D ) Western blot analysis of Salmonella whole - cell lysates using polyclonal anti- His 6 - PreA ( PreA ) .
+Lane 1 , molecular mass marker ; lane 2 , JSG1998 / pBAD18 ; lane 3 , JSG1998/pJSG2558 ; lane 4 , JSG1998/pJSG2700 .
+Salmonella strains were grown in LB - medium with L - arabinose ( 0.2 % ) to induce expression of the complementing/suppressing genes .
+- Galactosidase assays were performed as described in Materials and Methods .
+Activities are expressed in Miller units ( colorimetric protocol ) or picomoles of 4 - methylumbelliferone ( MU ) per minute per OD ( fluorometric protocol ) .
+Error bars indicate the standard deviations .
+The following strains were used : JSG215 ( pmrC - lacZ ) , JSG2115 ( preB pmrC - lacZ ) , JSG2624 ( preAB pmrC - lacZ ) , JSG2003 ( preA pmrClacZ ) , JSG2115 ( preB pmrC - lacZ ) , and JSG1998 ( preA ) .
+Plasmid pJSG2581 is preAB expressed from P BAD , pQseBC is qseBC expressed from P BAD ( pBAD18 vector ) , plasmid pJSG2558 is preA expressed from pBAD18 , and plasmid pJSG2700 expresses preA [ D51A ] .
+Effects of pmrA , phoP , and the PreB putative autophosphorylation site on PreB - mediated regulation of pmrCAB .
+Salmonella strains were grown in LB - medium , and - galactosidase assays were performed as described in Materials and Methods .
+Activities are expressed in Miller units .
+Error bars indicate the standard deviations .
+The following strains were used : JSG215 ( pmrC - lacZ ) , JSG1039 ( preB pmrC - lacZ ) , JSG2422 ( preB [ H246G ] pmrC - lacZ ) , JSG420 ( pmrA pmrC - lacZ ) , JSG2366 ( preB pmrA : : Tn10d pmrC - lacZ ) , JSG2499 ( pmrA [ D51A ] pmrC - lacZ ) , JSG2498 ( preB pmrA [ D51A ] pmrC - lacZ ) , JSG1060 ( phoP pmrC - lacZ ) , and JSG2365 ( preB phoP pmrC - lacZ ) .
+to the pmrCAB promoter ( 4 ) , ruling out specific effects on the MudJ operon fusion in pmrC .
+This differential regulatory phenotype implies that the effect on pmrCAB was sensor dependent but response regulator independent , possibly due to cross talk of the kinase to unknown regulators .
+Another interpretation of this result is that under the growth - conditions employed , the proper signal activating PreB kinase activity was absent ; therefore , a preA response regulator mutant would not show differential regulation compared to the wild - type .
+However , for this to be true , one has to assume that the loss of PreB exposes the PreA protein to nonphysiological kinase cross talk that leads to its constitutive activation .
+To test these models , a preAB : : cat pmrC : : MudJ double - mutant strain was created and pmrC transcription was analyzed upon growth in LB - medium .
+The loss of preA in this double mutant reversed the phenotype of pmrC upregulation observed in the preB mutant ( Fig. 2 ) , confirming that the effect of deleting preB was mediated by PreA and not by PreB cross talk to unknown regulators .
+In an additional attempt to disprove the cross talk hypothesis , the PreB conserved histidine at residue 246 , the putative autophosphorylation site identified by sequence alignments to other transmitter domains of TCS kinases , was mutated to a glycine residue .
+Expression of pmrC : : MudJ was measured in wild - type , preB , and preB [ H246G ] backgrounds ( Fig. 4 ) .
+Transcriptional activity of the fusion was not significantly increased in the preB [ H246G ] background compared to that of wild type ( ca .
+This regulatory phenotype is identical to that of a preA or a preAB mutation .
+These data suggest a model in which ( i ) both PreA and PreB affect pmrCAB transcription , ( ii ) the PreB sensor is acting as a phosphatase rather than an activating kinase when bacteria are grown in LB - medium , ( iii ) the PreB [ H246G ] protein retains its phosphatase activity , and ( iv ) PreA is phosphorylated by cross talk in the absence of PreB .
+As additional confirmation of the involvement of PreA in pmrC regulation , we analyzed the preAB : : cat pmrC : : MudJ FIG. 5 .
+Effect of preB mutations on the expression of pmrA regulon promoters .
+Salmonella strains were grown in LB - medium , and - galactosidase assays were performed as described in Materials and Methods .
+Activities are expressed in Miller units .
+Error bars indicate the standard deviations .
+Data are from a representative experiment with two replicates .
+The following strains were used : JSG1051 ( pmrHFIlacZ ) , JSG1058 ( preB pmrI - lacZ ) , JSG214 ( pmrE - lacZ ) , JSG1040 ( preB pmrE - lacZ ) , JSG1525 ( yibD - lacZ ) , JSG1527 ( preB yibD - lacZ ) , JSG2527 ( preB pmrA yibD : : lacZ ) , JSG2420 ( preA yibD - lacZ ) , and JSG2523 ( preA pmrA yibD - lacZ ) .
+strain with an inducible plasmid - borne preA .
+Ectopic expression of preA led to a more - than - twofold increase of - galactosidase levels , demonstrating that PreA can activate , directly or indirectly , the pmrCAB operon ( Fig. 3B ) .
+The increase of activity by ectopic expression of preA was also statistically significant in the preB background ( P 0.008 ) but less than twofold in magnitude , likely because the chromosomal copy of preA was also expressed ( Fig. 3B ) .
+In support of the general paradigm that PreA requires phosphorylation for activating its target genes , a preA [ D51A ] allele ectopically expressed in pBAD18 failed to activate pmrCAB in all the backgrounds tested , in spite of the production of a polypeptide of the expected molecular weight detected using a polyclonal antibody raised against a His 6 - PreA protein ( Fig. 3C ) .
+Consistent with the hypothesis that PreB is acting as a phosphatase during growth in LB - medium , upregulation of pmrCAB by ectopic preA was not observed in preB backgrounds ( wild type and the preA mutant ) ( Fig. 3B ) .
+Gel shift assays using unphosphorylated or chemically phosphorylated PreA failed to show binding of this protein to the pmrAB regulatory region ( 4 ) , implying indirect regulation of pmrCAB by PreA .
+Regulation of pmrCAB transcription is independent of PmrA and PhoP .
+PmrA is the only known direct activator of pmrCAB transcription .
+PmrA is directly activated by the PmrB kinase and indirectly activated by PhoP/PhoQ via the small protein PmrD , which stabilizes the phosphorylated form of PmrA ( 22 ) .
+A model that explains the apparent repressing effect of PreB on pmrCAB transcription might have involved interference of the PreB sensor with PhoP/PhoQ activity .
+When phoP was disrupted , transcription of pmrCAB was greatly decreased ( Fig .
+188 , 2006 SALMONELLA PreA/B TWO - COMPONENT SYSTEM 147 FIG. 6 .
+Working model for PreA/PreB regulation of pmrCAB .
+( A ) The genes pmrCAB and yibD are part of the PmrA regulon .
+Extracellular signals that affect the PreB sensor are unknown , but growth in LB - medium activates its phosphatase activity , maintaining the PreA response regulator in the unphosphorylated conformation .
+In a PreB [ H246G ] background , PreA is also inactivated by the phosphatase activity of the mutant protein .
+( B ) Under PreA/PreB - inducing conditions not yet identified , PreA indirectly regulates pmrCAB and yibD .
+( C ) Ectopic PreA , but not PreA [ D51A ] , can activate pmrCAB in a preB mutant even when grown in LB - medium , presumably because of signal - independent cellular cross talk , which may become unmasked and more important due to the absence of the cognate sensor protein .
+4 ) as expected due to the decreased concentration of cellular PmrD .
+However , when the phoP null mutation was introduced into a preB background , the transcriptional activity of pmrCAB still increased by 7 - fold compared to strain JSG215 pmrC : : MudJ ( Fig. 4 ) and by ca. 100 - fold compared to strain JSG1060 phoP pmrC : : MudJ .
+This result indicates that the effect of a PreB deletion on pmrCAB transcription was independent of the PhoQ / PhoP/PmrD proteins .
+An alternative model of PreB - mediated regulation of pmrCAB could involve PmrA/PmrB , known direct regulators of pmrCAB .
+To address this , we introduced a missense substitution to alanine in the putative phosphorylation site of PmrA at residue D51 , and the resulting allele was exchanged into a pmrC : : MudJ reporter strain .
+Under pmrCAB - inducing conditions , the pmrA [ D51A ] allele resulted in decreased pmrCAB expression , but the addition of a null mutation in preB again strongly upregulated the pmrC : : MudJ reporter fusion ( JSG2499 versus JSG2498 ) ( Fig. 4 ) .
+A similar result was obtained by using a pmrA null mutation ( JSG420 versus JSG2366 ) ( Fig. 4 ) .
+Collectively , these results demonstrate that the PreA/PreB - mediated regulation of pmrCAB is independent of PmrA and PhoP .
+PreB does not affect PmrA - regulated genes involved in LPS modifications .
+Increases in the transcription levels of pmrCAB could be expected to upregulate PmrA - dependent loci .
+The PmrA - regulated loci pmrE and pmrHFIJKLM encode proteins necessary for LPS modifications leading to PMB resistance .
+To examine if these loci were affected by the loss of preB , - galactosidase activities in JSG1040 ( preB pmrE : : MudJ ) and JSG1058 ( preB pmrI : : MudJ ) were measured and compared to those of reporter strains with a wild - type regulatory background ( JSG214 and JSG1051 ) .
+The activity of both fusions was unaffected by the loss of preB ( Fig. 5 ) .
+Consistent with the transcriptional data , MIC assays for PMB resistance indicated that the preB mutant showed equal levels of resistance ( 2 g/ml ) to the wild - type strain .
+Interestingly , when we examined the effect of preB on another PmrA - regulated gene of unknown function , yibD ( strain JSG1525 versus strain JSG1527 ) ( Fig. 5 ) , we observed a ninefold upregulation of its expression in a preB background , similar to what was seen with pmrCAB .
+Also , as observed with pmrCAB , the upregulation of yibD in a preB mutant was largely independent of PmrA , and the loss of preA had little impact on yibD expression ( Fig. 5 ) .
+Although not all PmrA - regulated genes have been examined , PreB has only been shown to affect yibD and pmrCAB transcription thus far .
+DISCUSSION In this study , we describe an uncharacterized TCS of Salmonella enterica serovar Typhimurium , termed PreA/PreB , that activates transcription of the pmrCAB operon and of another PmrA - regulated gene , yibD .
+The pmrAB TCS is critical for the activation of a large regulon involved in polymyxin B resistance .
+In a Tn10d transposon screen for genes having an effect on pmrC transcription , we isolated an insertion in the PreB sensor kinase .
+Based on sequence similarity and map position , the PreA/PreB TCS is homologous to the previously identified E. coli QseB/QseC TCS ( 37 ) .
+This E. coli TCS was shown to be responsive to luxS - dependent quorum - sensing signals for regulating flagellar gene expression .
+PreA/PreB and QseB/QseC behave as potential orthologs based on the successful complementation of preB null mutants by the E. coli TCS .
+In spite of functional complementation , in experiments not reported in this paper , we show that their regulons are not overlapping and that the biological role of this TCS in the two organisms may be different .
+The transcriptional regulation of preAB , its genome - wide regulatory effects , and its role in virulence will be described in a separate manuscript .
+Initially , the regulation of pmrCAB by PreA/PreB appeared to be unusual in that the sensor kinase , rather than the response regulator , seemed responsible for repressing its transcription during - growth in LB - medium .
+Typically , upon phosphorylation , the response regulator activates or represses gene 148 MERIGHI ET AL. .
+transcription in response to signals perceived by its cognate sensor kinase .
+Therefore , null mutations in the response regulator usually have the same phenotype of mutations in the sensor kinase .
+This is not the case for preA and preB .
+There are a few examples of TCS pairs cross talking with each other and leading to a bifurcation of regulatory pathways .
+For instance , the Salmonella enterica serovar Typhimurium CpxA sensor was shown to indirectly activate hilA , an AraC - like transcription factor regulating SPI - 1 , at the transcriptional level in a CpxR response regulator - independent manner ( 32 ) .
+Another example of cross talk between response regulators and kinases of different cognate pairs is found in E. coli , where the CreC sensor kinase regulates the PhoB - PhoR system ( 47 ) .
+Subsequent experiments using preAB double mutants and ectopic expression of preA led us to formulate a different model whereby PreA acts as an activator of pmrCAB , likely in an indirect fashion .
+Furthermore , the observation that neither a preA nor a preAB mutation affects pmrCAB expression , while preB mutations do , suggests that under the growth - conditions used , the PreA/PreB system is not perceiving a signal able to stimulate the kinase activity of the sensor .
+Concurrently , we must hypothesize that the absence of the cognate sensor kinase leads to a constitutive activation of PreA by cross talk .
+Based on the data collected with the ectopic expression of preA [ D51A ] , the activation of wild - type PreA occurs by phosphorylation at residue D51 , following a common TCS paradigm .
+Point mutations abolishing only the putative phosphorylation site of PreB showed phenotypes similar to those of preA and preAB mutations , presumably because its phosphatase activity is unaffected , and/or the PreB [ H246G ] protein complexes PreA , protecting it from cross talk .
+Because the only two known activators of pmrCAB are PmrA , by autoregulation ( 14 , 36 ) , and PhoP , via the PmrD small protein ( 23 ) , we tested both regulatory systems for their genetic interactions with the preB mutation .
+We found that functional null mutations in pmrA ( both deletions and missense mutations ) or phoP did not affect the observed upregulation of pmrC in the preB background .
+This suggests that PreA/PreB does not act through the two known regulatory pathways controlling pmrCAB .
+Given that preB null mutations lead to the upregulation of pmrCAB transcription , one would expect that the concomitant increased levels of PmrA and PmrB proteins may result in the upregulation of genes in the PmrA regulon .
+This was not the case , because of several genes tested , only pmrCAB and yibD , an open reading frame of unknown function regulated by PmrA ( 41 ) , were upregulated in a preB background , and the polymyxin resistance phenotype was not altered compared to that of the wild type .
+Perhaps PreA/PreB potentiates the PmrA/PmrB system by increasing the levels of these proteins to allow a quicker response upon encountering PmrA/PmrBactivating conditions .
+It is not clear why yibD is the only PmrAregulated gene to also be regulated by PreA/PreB .
+Our data imply that the signal activating PreA/PreB , not yet identified , is absent during - growth in LB - medium to exponential - early stationary - phase ( Fig. 6 ) .
+The analysis of the genomewide regulon controlled by this novel TCS may help to build a new hypothesis concerning its function in - vivo and the signals modulating its activation in various niches .
+ACKNOWLEDGMENT This work was funded by a grant from the National Institutes of Health to J.S.G. ( grant AI43521 ) .
+Ausubel , F. M. , R. Brent , R. E. Kingston , D. D. Moore , J. G. Seidman , J. A. Smith , and K. Struhl .
+Current protocols in molecular biology , vol .
+John Wiley & Sons , New York , N.Y. 2 .
+Bijlsma , J. J. , and E. A. Groisman .
+The PhoP/PhoQ system controls the intramacrophage type three secretion system of Salmonella enterica .
+Boyer , H. W. , and D. Roulland - Dussoix .
+A complementation analysis of the restriction and modification of DNA in Escherichia coli .
+University of Texas Health Science Center at San Antonio , San Antonio , Tex. 5 .
+Cirillo , D. M. , R. H. Valdivia , D. M. Monack , and S. Falkow .
+Macrophage - dependent induction of the Salmonella pathogenicity island 2 type III secretion system and its role in intracellular survival .
+Datsenko , K. A. , and B. L. Wanner .
+One - step inactivation of chromosomal genes in Escherichia coli K - 12 using PCR products .
+Ditta , G. , S. Stanfield , D. Corbin , and D. R. Helinski .
+Broad host range DNA cloning system for gram - negative bacteria : construction of a gene bank of Rhizobium meliloti .
+Finlay , B. B. , and S. Falkow .
+Common themes in microbial pathogenicity revisited .
+Garmendia , J. , C. R. Beuzon , J. Ruiz - Albert , and D. W. Holden .
+The roles of SsrA - SsrB and OmpR - EnvZ in the regulation of genes encoding the Salmonella typhimurium SPI - 2 type III secretion system .
+Groisman , E. A. , E. Chiao , C. J. Lipps , and F. Heffron .
+Salmonella typhimurium phoP virulence gene is a transcriptional regulator .
+Groisman , E. A. , J. Kayser , and F. C. Soncini .
+Regulation of polymyxin resistance and adaptation to low - Mg 2 environments .
+Gunn , J. S. , W. J. Belden , and S. I. Miller .
+Identification of PhoP - PhoQ activated genes within a duplicated region of the Salmonella typhimurium chromosome .
+Gunn , J. S. , K. B. Lim , J. Krueger , K. Kim , L. Guo , M. Hackett , and S. I. Miller .
+PmrA - PmrB - regulated genes necessary for 4 - aminoarabinose lipid - A modification and polymyxin resistance .
+Gunn , J. S. , and S. I. Miller .
+PhoP - PhoQ activates transcription of pmrAB , encoding a two - component regulatory system involved in Salmonella typhimurium antimicrobial peptide resistance .
+Gunn , J. S. , S. S. Ryan , J. C. Van Velkinburgh , R. K. Ernst , and S. I. Miller .
+Genetic and functional analysis of a PmrA - PmrB - regulated locus necessary for lipopolysaccharide modification , antimicrobial peptide resistance , and oral virulence of Salmonella enterica serovar Typhimurium .
+Guo , L. , K. B. Lim , C. M. Poduje , M. Daniel , J. S. Gunn , M. Hackett , and S. I. Miller .
+Lipid A acylation and bacterial resistance against vertebrate antimicrobial peptides .
+Guzman , L. M. , D. Belin , M. J. Carson , and J. Beckwith .
+Tight regulation , modulation , and high - level expression by vectors containing the arabinose PBAD promoter .
+Harwig , S. S. , T. Ganz , and R. I. Lehrer .
+Neutrophil defensins : purification , characterization , and antimicrobial testing .
+Hoch , J. , and T. Silhavy .
+ASM Press , Washington , D.C. 20 .
+Hughes , K. T. , and J. R. Roth .
+Directed formation of deletions and duplications using Mud ( Ap , lac ) .
+Johnston , C. , D. A. Pegues , C. J. Hueck , A. Lee , and S. I. Miller .
+Transcriptional activation of Salmonella typhimurium invasion genes by a member of the phosphorylated response - regulator superfamily .
+Kato , A. , and E. A. Groisman .
+Connecting two - component regulatory systems by a protein that protects a response regulator from dephosphorylation by its cognate sensor .
+Kox , L. F. , M. M. Wosten , and E. A. Groisman .
+A small protein that mediates the activation of a two - component system by another two - component system .
+Lucas , R. L. , C. P. Lostroh , C. C. DiRusso , M. P. Spector , B. L. Wanner , and C. A. Lee .
+Multiple factors independently regulate hilA and invasion gene expression in Salmonella enterica serovar Typhimurium .
+188 , 2006 SALMONELLA PreA/B TWO - COMPONENT SYSTEM 149 25 .
+Marchal , K. , S. De Keersmaecker , P. Monsieurs , N. van Boxel , K. Lemmens , G. Thijs , J. Vanderleyden , and B. De Moor .
+In silico identification and experimental validation of PmrAB targets in Salmonella typhimurium by regulatory motif detection .
+Marchler - Bauer , A. , and S. H. Bryant .
+CD - Search : protein domain annotations on the fly .
+McGinnis , S. , and T. L. Madden .
+BLAST : at the core of a powerful and diverse set of sequence analysis tools .
+Metcalf , W. W. , W. Jiang , L. L. Daniels , S. K. Kim , A. Haldimann , and B. L. Wanner .
+Conditionally replicative and conjugative plasmids carrying lacZa for cloning , mutagenesis and allele replacement in bacteria .
+A short course in bacterial genetics : a laboratory manual and handbook for Escherichia coli and related bacteria .
+Cold Spring Harbor Laboratory Press , Cold Spring Harbor , N.Y. 30 .
+Miller , S. I. , A. M. Kukral , and J. J. Mekalanos .
+A two - component regulatory system ( phoP phoQ ) controls Salmonella typhimurium virulence .
+Mouslim , C. , and E. A. Groisman .
+Control of the Salmonella ugd gene by three two - component regulatory systems .
+Nakayama , S. , A. Kushiro , T. Asahara , R. Tanaka , L. Hu , D. J. Kopecko , and H. Watanabe .
+Activation of hilA expression at low pH requires the signal sensor CpxA , but not the cognate response regulator CpxR , in Salmonella enterica serovar Typhimurium .
+Rosenberger , C. M. , R. L. Gallo , and B. B. Finlay .
+Interplay between antibacterial effectors : a macrophage antimicrobial peptide impairs intracellular Salmonella replication .
+Schmid , M. B. , and J. R. Roth .
+Genetic methods for analysis and manipulation of inversion mutations in bacteria .
+Skorupski , K. , and R. K. Taylor .
+Positive selection vectors for allelic exchange .
+Soncini , F. C. , and E. A. Groisman .
+Two - component regulatory systems can interact to process multiple environmental signals .
+Sperandio , V. , A. G. Torres , and J. B. Kaper .
+Quorum sensing Escherichia coli regulators B and C ( QseBC ) : a novel two - component regulatory system involved in the regulation of flagella and motility by quorum - sensing in E. coli .
+Steinberg , D. A. , M. A. Hurst , C. A. Fujii , A. H. Kung , J. F. Ho , F. C. Cheng , D. J. Loury , and J. C. Fiddes .
+Protegrin - 1 : a broad - spectrum , rapidly microbicidal peptide with in - vivo activity .
+Stock , A. M. , V. L. Robinson , and P. N. Goudreau .
+Tamayo , R. , A. M. Prouty , and J. S. Gunn .
+Identification and functional analysis of Salmonella enterica serovar Typhimurium PmrA - regulated genes .
+Tamayo , R. , S. S. Ryan , A. J. McCoy , and J. S. Gunn .
+Identification and genetic characterization of PmrA - regulated genes and genes involved in polymyxin B resistance in Salmonella enterica serovar Typhimurium .
+Taylor , R. K. , C. Manoil , and J. J. Mekalanos .
+Broad - host - range vectors for delivery of TnphoA : use in genetic analysis of secreted virulence determinants of Vibrio cholerae .
+Teplitski , M. , R. I. Goodier , and B. M. Ahmer .
+Pathways leading from BarA/SirA to motility and virulence gene expression in Salmonella .
+Thompson , J. D. , D. G. Higgins , and T. J. Gibson .
+CLUSTAL W : improving the sensitivity of progressive multiple sequence alignment through sequence weighting , position - specific gap penalties and weight matrix choice .
+Agents that increase the permeability of the outer membrane .
+Wang , R. F. , and S. R. Kushner .
+Construction of versatile low - copynumber vectors for cloning , sequencing and gene expression in Escherichia coli .
+Is cross regulation by phosphorylation of two - component response regulator proteins important in bacteria ?

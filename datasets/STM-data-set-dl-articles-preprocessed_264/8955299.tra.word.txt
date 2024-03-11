@@ -1,0 +1,280 @@
+JOURNAL OF BACTERIOLOGY , Dec. 1996 , p. 6796 -- 6801 Vol .
+178 , No. 23 0021 - 9193/96 / $ 04.00 0 Two - Component Regulatory Systems Can Interact To Process Multiple Environmental Signals FERNANDO C. SONCINI AND EDUARDO A. GROISMAN * Department of Molecular Microbiology , Washington University School of Medicine , St. Louis , Missouri 63110 The PhoP/PhoQ two - component system of Salmonella typhimurium governs transcription of some 25 loci in response to the extracellular concentration of Mg 2 .
+We have now identified one of these loci as pmrCAB , which codes for a two - component system that mediates resistance to the antibiotic polymyxin B. Transcription of seven of 25 PhoP - activated loci was dependent on a functional PmrA protein , the response regulator of the PmrA/PmrB system .
+Expression of the PmrA - dependent loci was induced by either Mg 2 limitation or mild acidification , whereas transcription of a PmrA - independent gene was activated by Mg 2 limitation but not acid pH. Induction of PmrA - activated genes by Mg 2 limitation required the PhoP and PhoQ proteins .
+In contrast , the acid - mediated activation of PmrA - regulated genes occurred in strains that were missing either one of these proteins .
+Transcriptional regulation by a cascade of two - component systems allows pathogenic bacteria to express their virulence determinants in response to a broader spectrum of environmental cues .
+Bacterial pathogens must modulate their gene expression repertoire in order to survive the hostile environments faced during the course of infection ( 10 , 20 ) .
+This adaptive response is often mediated by two - component regulatory systems , generally consisting of a sensor - kinase and a response regulator , that use reversible protein phosphorylation to regulate the adjustment to the new environments ( 1 , 25 , 26 , 39 ) .
+Sensors are generally integral membrane proteins that respond to specific environmental signals by phosphorylating their cognate regulators , which are often transcription factors whose affinity for DNA is modulated by phosphorylation .
+It has been estimated that enteric bacteria harbor some 40 different two - component systems that mediate the response to a variety of chemical and physical signals ( 38 ) .
+However , the mechanism by which the various signals are integrated into a coordinated cellular response has remained largely unknown .
+In this article , we establish that a pair of two - component systems , PhoP/PhoQ and PmrA/PmrB , can interact to process multiple environmental cues .
+PhoP/PhoQ is a two - component regulatory system that controls several pathogenic properties in the gram - negative bacterium Salmonella typhimurium ( 14 , 16 ) .
+We have recently identified extracellular Mg 2 as the signal that governs the PhoP/PhoQ system : transcription of PhoP - activated genes is induced in micromolar concentrations of Mg 2 , whereas growth in millimolar Mg 2 represses expression of PhoP - activated genes and attenuates the virulence properties of wildtype Salmonella species ( 15 ) .
+The PhoQ protein is a Mg 2 sensor that changes conformation in the presence of periplasmic Mg 2 ( 15 ) .
+PhoP is a regulatory protein that is necessary to transcribe some 25 different loci , many of which are essential for growth in low - Mg 2 conditions ( 36 ) .
+Apart from Mg 2 , additional signals can modulate expression of PhoP - regulated genes : for example , transcription of psiD is induced 50 - fold when the pH of the growth medium is Microbiology , Washington University School of Medicine , 660 S. Euclid Ave. , Campus Box 8230 , St. Louis , MO 63110 .
+Electronic mail address : groisman @borcim.wustl.edu .
+However , this induction is independent of PhoP and PhoQ and is in contrast to the activation that results from Mg 2 limitation , which requires both proteins .
+These experiments suggest that additional factors must mediate the response to mild acidification in PhoP - regulated loci such as psiD .
+In this article , we demonstrate that the PhoP/PhoQ system controls expression of the PmrA/PmrB two - component system , we identify the targets of transcriptional control of the PmrA protein , and we establish that PmrA - regulated genes are controlled by an unusual regulatory cascade of two - component systems that integrates both pH and extracellular Mg 2 signals .
+MATERIALS AND METHODS Bacterial strains and growth - conditions .
+Bacterial strains and plasmids used in this study are listed in Table 1 .
+Bacteria were grown at 37 C in Luria broth ( LB ) ( 21 ) or in modified N - minimal - medium containing 0.1 % casamino - acids and 38 mM glycerol ( 34 ) in which the 100 mM Tris - HCl was replaced by a mixture of 50 mM bis - Tris and 50 mM Tris adjusted to pH 8.5 to 5.8 with HCl .
+MgCl 2 was added to a final concentration of 10 M or 10 mM .
+Ampicillin and kanamycin were used at a final concentration of 50 g/ml , chloramphenicol was used at 25 g/ml , and 5 - bromo - 4-chloro - 3-indolyl - - D - galactopyranoside ( X - Gal ) was used at 70 g/ml .
+Genetic and molecular biology techniques .
+Phage P22 - mediated transductions were performed as described previously ( 6 ) .
+Plasmid DNA was introduced into bacterial strains by electroporation using a Bio - Rad apparatus as recommended by the manufacturer .
+Recombinant DNA techniques were performed according to standard protocols ( 30 ) .
+Genomic libraries were constructed by ligating SalIdigested chromosomal DNA to SalI - cut plasmid pUC19 .
+Clones harboring the junction fragments were selected as kanamycin ( MudJ ) - and ampicillin ( pUC19 ) - resistant colonies .
+To determine the chromosomal DNA sequence adjacent to each MudJ insertion we used a primer complementary to the left end of MudJ and the plasmid clones harboring the junctions as templates as described previously ( 36 ) .
+Construction of a pmrA mutant .
+First , we cloned a PCR - generated fragment harboring the pmrA and pmrB coding regions between the BamHI and HindIII sites of plasmid pUHE21 - 2lacI q to form pEG9207 .
+Then , the Bsu36I - SplI fragment internal to pEG9207 was substituted by an equivalent fragment from pEG9070 - 1 , a plasmid harboring a wild - type copy of the pmrAB genes , to form pEG9102 .
+Analysis of pEG9102 revealed that the PCR - generated DNA had a wild - type sequence .
+To create an insertional mutation in the pmrA gene , we created a BglII site at position 292 in the pmrA open reading frame ( position 2145 in reference 29 ) .
+First , primers 351 ( 5 - AAGGATCCAGGAGACTAAGCG - 3 ) and 406 ( 5 - AA CTGCAGATCTGCGCCGACATCC - 3 ) were used to amplify the 5 region of the pmrA gene , which was cloned between the BamHI and PstI sites of pUC19 to form plasmid pEG7243 .
+A second PCR product encompassing the 3 region of 6796 VOL .
+178 , 1996 MULTIPLE SIGNALS CONTROL TWO - COMPONENT SYSTEM 6797 Bacterial strain or plasmid TABLE 1 .
+Bacterial strains and plasmids used Description a Reference or source S. typhimurium 14028s Wild type 12 AA3007 polA2 ara - 9 42 EG9395 galE : : Tn10 MuhP1 - 1 proP : : This work Tn10dCam/pEG5005 MS7953s phoP7953 : : Tn10 11 MS5996s phoQ5996 : : Tn10 11 EG9521 mgtA9226 : : MudJ 15 EG9523 mgtA9226 : : MudJ phoP7953 : : Tn10 15 EG9522 mgtA9226 : : MudJ phoQ5996 : : Tn10 15 EG9671 mgtA9226 : : MudJ pmrA1 : : cat This work EG9524 ugd9228 : : MudJ 15 EG9674 ugd9228 : : MudJ pmrA1 : : cat This work EG9230 pbgE1 : : MudJ 36 EG9676 pbgE1 : : MudJ pmrA1 : : cat This work EG9241 pbgP1 : : MudJ 36 EG9168 pbgP1 : : MudJ phoP7953 : : Tn10 36 EG9681 pbgP1 : : MudJ pmrA1 : : cat This work EG9279 pmrC1 : : MudJ This work EG9280 pmrC1 : : MudJ phoP7953 : : Tn10 This work EG9687 pmrC1 : : MudJ pmrA1 : : cat This work no homologs in the sequence databases .
+) We investigated the regulatory effect of the PhoP/PhoQ system by measuring the - galactosidase activity originating from a pmrC - lac transcriptional fusion in wild - type , phoP , and phoQ strains : pmrC transcription was 9 and 90 times higher in the wild - type strain than in either mutant for bacteria grown in LB broth or N - minimal medium ( 10 M Mg 2 ) , respectively .
+These results indicate that the PhoP and PhoQ proteins are necessary for expression of the PmrA/PmrB system and suggest that genes originally identified as controlled by PhoP may be regulated via the PmrA protein .
+Construction of a pmrA mutant .
+To examine whether the PmrA protein was necessary for transcription of PhoP - regulated genes , we constructed strains having a chloramphenicol resistance cassette in the chromosomal copy of the pmrA gene .
+The 0.9 - kb BamHI fragment of plasmid pKRP10 harboring the cat gene was cloned into the single BglII site of plasmid pEG7245 , which carries a mutant derivative of the pmrA gene .
+Then , the mutant copy of the pmrA gene in plasmid pEG7246 was used to replace the wild - type copy of the pmrA gene in the chromosome as described previously ( 17 ) .
+The structure of the pmrA chromosomal region in the pmrA mutant was verified by E. coli JM109 F traD36 lacI q ( lacZ ) M15 proA B / 43 e14 ( McrA ) ( lac - proAB ) thi gyrA96 ( Nal r ) endA1 hsdR17 Plasmids pUHE21 - 2lacI q rep pMB1 Ap r lacI q 35 pEG7243 rep pMB1 lacZa Ap r lacI q pmrA This work pEG7245 rep pMB1 lacZa Ap r lacI q pmrA ( BglII ) This work pEG7246 rep pMB1 lacZa Ap r lacI q pmrA : : cat This work pEG9070 - 1 rep pMB1 Km r Mud5005 : : pmrAB This work proP : : Tn10dCam pEG9102 rep pMB1 Ap r lacI q pmrAB This work pKRP10 rep pMB1 Ap r Cm r 27 pUC19 rep pMB1 lacZa Ap r 43 a Gene designations are as summarized by Sanderson et al. ( 31 ) .
+the pmrA gene was generated using primers 352 ( 5 - GGCAAGCTTAGCTTTC CTCAG - 3 ) and 407 ( 5 - GAAGATCTGGTTAAACCCTTC - 3 ) and cloned between the BglII and HindIII sites of pEG7243 .
+The resulting plasmid , pEG7245 , was used to disrupt the pmrA gene by introducing the cat - containing , 0.9 - kb BamHI fragment from pKRP10 into the single BglII site to form pEG7246 .
+The pmrA : : cat mutation in pEG7246 was transferred to the chromosome as described previously ( 17 ) .
+The structure of the pmrA gene in the mutant strains was verified by Southern hybridization using both pmrA - and cat - specific probes ( Fig. 1 ) .
+The pmrA probe was a 0.7 - kb fragment generated by the PCR using primers 351 ( 5 - AAGGATCCAGGAGACTAACGC - 3 ) and 352 ( see above ) corresponding to the coding region of the pmrA gene ( 29 ) .
+The cat probe corresponds to the 0.9 - kb BamHI fragment from plasmid pKRP10 ( 27 ) .
+Determinations of - galactosidase activity .
+- Galactosidase activity was determined as described by Miller ( 21 ) on cells grown exponentially in LB or N - minimal - medium .
+To determine expression in different Mg 2 concentrations and under different pH conditions , bacteria from overnight cultures grown in 10 mM MgCl 2 -- N - medium -- bis - Tris -- Tris - HCl ( pH 7.7 ) were washed twice with N - minimal - medium containing no Mg 2 and used to inoculated the appropriate fresh media .
+The bacterial cultures were incubated for 5hat37 C before the assay .
+For plasmid complementation assays , - galactosidase activity was determined on cells grown overnight .
+RESULTS PhoP controls expression of the PmrA/PmrB two - component system .
+While searching for PhoP - regulated lac gene fusions ( 36 ) , we recovered seven in pmrC , the first gene of the pmrCAB operon .
+The pmrA and pmrB genes encode proteins homologous to the regulators and sensors , respectively , of the two - component family of signal transduction systems ( 29 ) .
+( The pmrC gene encodes a putative membrane protein that has FIG. 1 .
+Genetic and physical maps of the pmrA locus in S. typhimurium strains harboring mutations in the pmrA and pmrC genes .
+( A ) Genetic organization of the pmrCAB operon in the wild - type strain 14028s , and location of MudJ and cat insertions in mutants EG7139 , EG7140 , EG9279 and EG9687 .
+The MudJ transposon harboring the lacZ gene is not drawn to scale .
+( B ) Southern hybridization analysis of the pmrA gene in wild - type and pmrA : : cat strains .
+Analysis was performed as described in Materials and Methods by using cat - and pmrA - specific probes .
+6798 SONCINI AND GROISMAN J. BACTERIOL .
+PmrA governs expression of a subset of PhoP - regulated genes .
+- Galactosidase activities ( Miller units ) expressed by strains grown in LB broth were determined for mutants harboring a lac transcriptional - fusion to the PhoPactivated genes ugd , pbgE , pbgP , pmrC , and mgtA .
+Transcriptional activity was investigated in two different backgrounds : wild - type ( shaded boxes ) and strains lacking pmrA ( solid box ) .
+The data correspond to mean values of at least three independent experiments done in duplicate .
+Southern hybridization using both pmrA - and cat - specific probes ( Fig. 1 ) .
+PmrA is essential for expression of a subset of PhoP - regulated genes .
+We investigated whether transcription of 25 PhoPregulated lac gene fusions was PmrA dependent by streaking isogenic derivatives with and without pmrA onto LB X - Gal Agar plates .
+Mutation of the pmrA gene abolished transcription of seven PhoP - regulated lac gene fusions , pbgE , pbgM , pbgP , pcgD , pcgP , pmrC , and ugd , but had no effect on the expression of the remaining 18 .
+Transcription of PmrA - dependent genes was 15 to 140 times higher in pmrA than in the strains lacking pmrA , whereas expression of the PmrA - independent mgtA was not influenced by the pmrA allele ( Fig. 2 ) .
+This experiment defined two classes of PhoP - regulated genes : those which are PmrA dependent and those which are PmrA independent .
+pH modulates transcription of PmrA - regulated genes .
+We hypothesized that PmrA - activated genes may be regulated by pH because the PmrA - regulated psiD gene had been previously shown to be induced by mild acid - pH ( 15 ) .
+Indeed , transcription of pbgP , pbgE , pmrC , and ugd was activated when the pH of the media was lowered from 7.7 to 5.8 ( Fig. 3A ) .
+This activation required a functional PmrA protein because disruption of the pmrA gene abolished transcription from these loci .
+We further investigated the regulatory roles of pH and Mg 2 on the expression of the pbgP and mgtA genes , which were chosen as representative PmrA - dependent and - independent loci , respectively .
+Mild acid - pH induced transcription of the pbgP gene at both millimolar and micromolar concentrations of Mg 2 ( Fig. 3B ) .
+In contrast , transcription of mgtA changed less than fourfold in mild acid - pH and was not affected by the presence of the pmrA gene ( Fig. 4B ) .
+Magnesium , on the other hand , modulated expression of both PmrA - dependent and PmrA - independent genes ( Fig. 4 ) .
+These results demonstrate that transcription of PmrA - activated genes can be induced by two different environmental conditions : a decrease in pH from 7.7 to 5.8 or a decrease in the Mg 2 concentration from the millimolar to the micromolar range .
+The PhoP and PhoQ proteins are not essential for the acidmediated induction of PmrA - regulated genes .
+At alkaline - pH , activation of the PmrA - regulated pbgP gene was dependent on PhoP/PhoQ and controlled by Mg 2 ( Fig. 4 ) .
+In contrast , the acid - mediated induction of pbgP transcription still occurred in strains lacking phoP ( Fig. 4 ) and phoQ ( data not shown ) .
+These results demonstrate that PmrA - regulated genes can be activated independently of the PhoP/PhoQ system .
+At 10 mM Mg 2 , pH - 5.8 , however , pbgP transcription was slightly reduced in the strains lacking phoP ( Fig. 4 ) and phoQ ( data not shown ) , which suggest that pH can influence the interaction of Mg 2 with the PhoQ protein .
+Role of the PhoP/PhoQ system in the activation of PmrAregulated genes .
+There are several possible mechanisms by which the PhoP/PhoQ system could promote transcription of PmrA - regulated genes .
+For example , PhoP/PhoQ may be necessary to transcribe the pmrCAB operon , leading to the production of the PmrA and PmrB proteins and the ensuing expression of PmrA - activated genes .
+This model predicts that transcription of pmrAB genes from a PhoP - independent promoter should restore expression of PmrA - dependent genes to phoP and phoQ mutants .
+However , a plasmid harboring the pmrAB genes under the control of the lac promoter failed to activate pbgP transcription in either phoP ( Fig. 5 ) or phoQ ( data not shown ) mutants .
+The pmrAB - containing plasmid was functional because it could restore pbgP transcription to a strain lacking pmrA .
+Moreover , this plasmid did not alter pbgP expression when introduced into the wild - type strain ( Fig. 4 ) .
+Taken together with the findings that the pmrCAB operon is autogenously regulated ( see below ) , these results rule out a simple cascade model for activation of PmrA - regulated genes by the PhoP/PhoQ system .
+The sensor proteins of certain two - component systems have been shown to activate noncognate response regulators ( 41 ) .
+However , such a cross - talk mechanism does not appear to be responsible for the PhoP/PhoQ - mediated activation of pbgP transcription under Mg 2 - limiting conditions : a plasmid harboring the phoQ gene under the control of the lac promoter FIG. 3 .
+pH modulates expression of PmrA - regulated genes .
+( A ) Transcription of PmrA - regulated genes in strains grown in 10 mM MgCl 2 -- N - minimal - medium at pH 7.7 or 5.8 .
+( B ) Transcription of the pbgP gene in strains grown in N - minimal - medium ( with 10 mM or 10 M MgCl 2 ) at pH 8.55 , 7.55 , 6.60 , or 5.75 .
+Assays were performed as described in the legend to Fig. 2 .
+w - t , wild type ; pmrA , strain lacking pmrA .
+178 , 1996 MULTIPLE SIGNALS CONTROL TWO - COMPONENT SYSTEM 6799 FIG. 5 .
+Role of the PhoP protein in the Mg 2 - mediated activation of the pbgP gene .
+Transcriptional activity was investigated in three different backgrounds : wild - type ( w - t ) ( EG9241 ) and strains lacking pmrA ( EG9681 ) ( pmrA ) and phoP ( EG9168 ) ( phoP ) .
+- Galactosidase activities ( Miller units ) were determined on overnight cultures of strains harboring either the pmrAB plasmid pEG9102 ( open hatched boxes ) or the vector pUH21 - 2lacI q ( solid hatched boxes ) .
+results suggest the presence of a second promoter within the pmrC gene or the MudJ transposon that is responsible for the production of PmrA protein in the pmrC : : MudJ mutants .
+Role of the PmrA and PhoP proteins in regulation of pbgP ( A ) and mgtA ( B ) transcription by pH and Mg 2 .
+Transcriptional activity was investigated in three different backgrounds : wild - type ( EG9241 and EG9521 ) ( shaded boxes ) and strains lacking pmrA ( EG9681 and EG9671 ) ( solid boxes ) and phoP ( EG9168 and EG9523 ) ( hatched boxes ) .
+Assays were performed as described in the legend to Fig. 2 .
+could not restore pbgP expression to a strain lacking phoP ( data not shown ) .
+This indicates that activation of PmrA - regulated genes does not involve phosphorylation of PmrA by the PhoQ protein .
+Autogenous control of the pmrCAB operon .
+We hypothesized that the PmrA protein may be required for expression of the pmrCAB operon because transcription of the pmrC - lac gene fusion was regulated in the same way as the PmrAactivated pbgP gene : it was induced in either micromolar Mg 2 concentrations or mild acid - pH .
+Transcription of pmrC could not be activated in a strain harboring a chloramphenicol resistance cassette in the pmrA gene ( Fig. 6 ) , demonstrating that the pmrCAB operon is a PmrA - activated locus .
+The defect was solely due to the absence of the PmrA protein , because normal regulation was restored upon introduction of a plasmid harboring the pmrA gene .
+These results indicate that a promoter within the pmrC open reading frame or in the MudJ transposon drives pmrA transcription in the pmrC : : MudJ mutant .
+PmrA governs growth on low Mg 2 solid media .
+We previously demonstrated that mutants defective in either the phoP or phoQ genes fail to form colonies on N - minimal - medium -- agarose plates containing 40 M Mg 2 ( 15 ) , and we identified six PhoP - activated loci that are required for growth on this medium ( 36 ) .
+All six loci , pbgE , pbgM , pbgP , pcgD , pcgP , and ugd , are regulated by the PmrA protein , demonstrating that the PmrA/PmrB system governs the adaptation to low - Mg 2 solid media .
+And , as expected , the pmrA mutant could not grow on plates containing 40 M Mg 2 .
+In contrast , mutants harboring MudJ transposon insertions in the pmrC gene grew in low - Mg 2 media like the wild - type strain .
+Because pmrC precedes the pmrA gene in the pmrCAB operon ( Fig. 1A ) , these We have identified a regulatory cascade in which a pair of two - component systems , PhoP/PhoQ and PmrA/PmrB , interact to control expression of a set of unlinked genes .
+Seven PhoP - activated loci required a functional PmrA protein for transcription , thereby defining two classes of PhoP - regulated loci that differ in their PmrA dependence and the signals that modulate their expression .
+Whereas all PhoP - activated genes are transcriptionally induced by Mg 2 limitation , those which are PmrA dependent , including the pmrCAB operon , are also induced by mild acidification .
+Being under the control of two distinct two - component systems allows PmrA - regulated genes to respond to a broader spectrum of environmental cues .
+Activation of PmrA - regulated genes in low Mg 2 .
+The transcriptional induction of PmrA - activated genes in low Mg 2 required the PhoQ and PhoP proteins .
+Extracellular Mg 2 has been previously shown to govern the PhoP/PhoQ regulatory system : Mg 2 acts as a ligand that changes the conformation of the sensor protein PhoQ in - vitro and regulates the transcrip - FIG. 6 .
+The pmrCAB operon is transcriptionally autoregulated .
+Transcriptional activity was investigated in two different backgrounds : wild - type ( EG9279 ) ( w - t ) and a strain lacking pmrA ( EG9687 ) ( pmrA ) .
+Assays were performed on strains harboring either the pmrAB plasmid pEG9102 ( open hatched boxes ) or the vector pUH21 - 2lacI q ( solid hatched boxes ) as described in the legend to Fig. 5 .
+6800 SONCINI AND GROISMAN J. BACTERIOL .
+tional activity of the PhoP protein in - vivo ( 15 ) .
+Regulatory cascades in which an activator protein is necessary for transcription of a gene encoding another activator protein have been described for several bacterial species , including Vibrio cholerae ( 8 ) and Shigella flexneri ( 40 ) .
+However , this model can not explain the PhoP/PhoQ - mediated activation of PmrAregulated genes because ( i ) transcription of the pmrAB genes from a heterologous promoter could not restore expression of PmrA - regulated genes to strains lacking either phoP or phoQ ( Fig. 5 ) and ( ii ) the pmrCAB operon is transcriptionally autoregulated ( Fig. 6 ) .
+Then , how does the PhoP/PhoQ system activate transcription of PmrA - regulated genes ?
+The PhoP/PhoQ system could activate the PmrA protein by using a mechanism similar to the phosphorelay that phosphorylates the Spo0A transcription factor to initiate sporulation in Bacillus subtilis ( 5 ) .
+In this phosphorelay , signal - sensing kinases phosphorylate the Spo0F response regulator , and the phospho - Spo0F transfers the phosphate to the Spo0A protein with Spo0B being an intermediate in this process .
+In low - Mg 2 media the PhoQ protein would phosphorylate the PhoP protein and the phospho - PhoP would transfer the phosphate to the PmrA protein either directly or by first phosphorylating the PmrB protein .
+Consistent with this model , which predicts phosphotransfer between noncognate regulators ( i.e. , PhoP ) and sensors ( i.e. , PmrB ) , the cytoplasmic domain of the Escherichia coli PmrB could phosphorylate the OmpR protein in - vivo and in - vitro ( 24 ) .
+Alternatively , activation of PmrA - regulated genes in low - Mg 2 media may involve binding of both phospho - PhoP and PmrA proteins to the promoter region of PmrA - regulated genes .
+Purification of the proteins that comprise the PhoP / PhoQ and PmrA/PmrB systems will allow us to examine whether these or , potentially , other mechanisms are responsible for the activation of PmrA - regulated genes in low - Mg 2 media .
+Activation of PmrA - regulated genes in mild acid - pH .
+In addition to Mg 2 limitation , PmrA - regulated genes were transcriptionally induced by mild acidification .
+This activation was independent of the PhoP and PhoQ proteins and specific to PmrA - regulated genes because transcription of the PmrA - independent mgtA gene was not significantly induced in mild acid pH. However , pbgP transcription was slightly lower in the strain lacking phoP in media containing repressing concentrations of Mg 2 ( Fig. 4 ) .
+Cumulatively , these results indicate that the PhoP/PhoQ system is not required to sense pH and that acidification influences the interaction of Mg 2 with the PhoQ protein .
+The PmrB protein might be involved in sensing pH ( or a ligand whose availability changes with pH ) , since it is the likely cognate sensor for the PmrA protein , given the genetic organization of the pmrA and pmrB genes , which is typical of two - component systems .
+Moreover , the PmrB protein features a periplasmic domain rich in charged residues , including three histidines which have a pK a in the pH range that activates PmrA - regulated genes .
+However , the role of the PmrB protein in sensing pH will remain unclear until the construction and evaluation of strains lacking the pmrB gene .
+Transcriptional autoregulation of the pmrCAB operon .
+Expression of a pmrC - lac gene fusion was induced in micromolar Mg 2 concentrations or mild acid - pH and required a functional PmrA protein ( Fig. 2 , 3 , and 6 ) , which demonstrates that the pmrCAB operon is positively autoregulated .
+Inactivation of pmrC did not eliminate expression of PmrA - dependent phenotypes such as growth on low - Mg 2 solid media , which suggests that pmrA is transcribed from two promoters : an environmentally sensitive , PmrA - dependent promoter preceding pmrC and a second promoter within the pmrC open reading frame .
+Similar regulation has been described for the phoPQ operon , where two different promoters were identified : one that is induced in low Mg 2 and requires PhoP and PhoQ for activity and another that is independent of these proteins and does not respond to the levels of Mg 2 ( 35 ) .
+However , our results do not rule out the possibilities that a single promoter transcribes pmrCAB in a wild - type strain and that a promoter with the MudJ transposon is responsible for pmrA transcription in the pmrC : : MudJ mutant .
+Function of PmrA - regulated determinants .
+The pmrA locus was originally defined by mutations that conferred resistance to the membrane - damaging antibiotic polymyxin B ( 19 ) .
+Polymyxin - resistant mutants exhibit cross - resistance to several other cationic antimicrobial polypeptides , including protamine and the neutrophil - derived bactericidal/permeability - increasing protein ( i.e. , CAP57 ) ( 33 , 37 ) and azurocidin ( i.e. , CAP37 ) ( 32 ) .
+These mutants have a modified lipopolysaccharide ( LPS ) that contains larger amounts of 4 - aminoarabinose and ethanolamine in the lipid - A portion ( 18 ) , and these modifications are presumably responsible for the decreased binding of polymyxin to resistant organisms .
+The polymyxin - resistant mutants harbor a single amino - acid substitution in the N - terminal domain of PmrA ( 29 ) that renders the protein hyperactive and results in increased expression of its target genes .
+The PmrA - regulated loci identified in this study encode proteins that could mediate the chemical modifications in the LPS that confer polymyxin resistance .
+Mutations in six of these loci prevented growth on low - Mg 2 solid media but had no effect on growth in low - Mg 2 liquid media ( 36 ) , which suggests that these determinants mediate changes in the surface of the microbial cell .
+To reach the bacterial membrane , cationic peptides must displace the Mg 2 ions that stabilize the LPS .
+Thus , the LPS modifications allowing growth in Mg 2 - limiting conditions may also confer resistance to polymyxin and could be mediated by the same set of genes .
+The PmrA - regulated ugd gene is essential on low - Mg 2 solid media and has been mapped to one of the gene clusters involved in LPS biosynthesis in S. typhimurium , E. coli , and S. flexneri ( 3 , 4 , 23 ) .
+It encodes a protein that is homologous to the UDP - glucose dehydrogenase of Streptococcus pneumoniae ( 7 , 9 ) , in which it is necessary for capsule biosynthesis .
+Roland and coworkers have identified a gene , pmrD , that appears to be regulated by the PmrA/PmrB system because it requires a functional PmrA to confer resistance to polymyxin B ( 28 ) .
+This gene encodes an 85 - amino - acid polypeptide that exhibits similarity to a protease from Rous sarcoma virus .
+PmrD - mediated polymyxin resistance is unlikely to result from modifications in the LPS , because the PmrD protein does not confer resistance to the bactericidal/permeability - increasing protein ( i.e. , CAP57 ) , which also targets the lipid - A portion of the LPS .
+Expression of PmrA - regulated genes in mammalian host cells .
+The Miller and Finlay laboratories have demonstrated that PhoP - activated genes are expressed in mammalian cells ( 2 , 13 ) .
+The PhoP - activated pagA , pagB , and pagC genes are transcribed in macrophages but not in epithelial cells ( 2 ) .
+In contrast , the mgtCB locus , which is also regulated by the PhoP / PhoQ system , is activated in epithelial cells ( 13 ) .
+One possible interpretation of these discordant results is that mgtCB belongs to one class of PhoP - regulated loci , whereas pagA , pagB , and pagC belong to another .
+The mgtCB locus does not require PmrA for expression and may respond to Mg 2 limitation in epithelial cells ( mgtCB expression in macrophages has not been reported ) .
+On the other hand , the pag genes are known to be activated by acidification in - vitro ( 2 ) , which suggests they belong to the PmrA - dependent class of PhoP - regulated loci .
+178 , 1996 MULTIPLE SIGNALS CONTROL TWO - COMPONENT SYSTEM 6801 The pagA gene could be allelic with ugd , since both map to the 42 region of the S. typhimurium chromosome ( 3 , 4 , 22 ) .
+It is presently unclear whether pagB and pagC correspond to any of the PmrA - regulated loci described in this study .
+In sum , control by a pair of two - component systems may ensure the proper temporal and spacial expression of the different classes of PhoP - regulated genes .
+We thank S. Phillips for plasmid pKRP10 , F. Solomon and J. Kayser for technical assistance , E. García Véscovi , A. Blanc - Potard , Y. Ayala , and K. Uchiya for critically reading the manuscript .
+This work was supported by an NIH grant to E.A.G. F.C.S. is a Pew Latin American Fellow and a Career Investigator of the Consejo de Investigaciones de la Universidad Nacional de Rosario ( CIUNR ) , Argentina .
+E.A.G. is the recipient of a Junior Faculty Research Award from the American Cancer Society .
+Alex , L. A. , and M. I. Simon .
+Protein histidine kinases and signal transduction in prokaryotes and eukaryotes .
+Alpuche - Aranda , C. M. , J. A. Swanson , W. P. Loomis , and S. I. Miller .
+Salmonella typhimurium activates virulence gene transcription within acidified macrophage phagosomes .
+Bastin , D. A. , G. Stevenson , P. K. Brown , A. Haase , and P. R. Reeves .
+Repeat unit polysaccharide of bacteria : a model for polymerization resembling that of ribosomes and fatty acid synthetase , with a novel mechanism for determining chain length .
+Batchelor , R. A. , P. Alifano , E. Biffali , S. I. Hull , and R. A. Hull .
+Nucleotide sequences of the genes regulating O - polysaccharide antigen chain length ( rol ) from Escherichia coli and Salmonella typhimurium : protein homology and functional complementation .
+Burbulys , D. , K. A. Trach , and J. A. Hoch .
+Initiation of sporulation in B. subtilis is controlled by a multicomponent phosphorelay .
+Davis , R. W. , D. Bolstein , and J. R. Roth .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 7 .
+Dillard , J. P. , M. W. Vandersea , and J. Yother .
+Characterization of the cassette containing genes for type 3 capsular polysaccharide biosynthesis in Streptococcus pneumoniae .
+DiRita , V. J. , C. Parsot , G. Jander , and J. J. Mekalanos .
+Regulatory cascade controls virulence in Vibrio cholerae .
+Dougherty , B. A. , and I. van de Rijn .
+Molecular characterization of hasB from an operon required for hyaluronic - acid synthesis in group A streptococci .
+Dziejman , M. , and J. J. Mekalanos .
+Two - component signal transduction and its role in the expression of bacterial virulence - factors , p. 305 -- 317 .
+In J. A. Hoch and T. J. Silhavy ( ed .
+ASM Press , Washington , D.C. 11 .
+Fields , P. I. , E. A. Groisman , and F. Heffron .
+A Salmonella locus that controls resistance to microbicidal proteins from phagocytic cells .
+Fields , P. I. , R. V. Swanson , C. G. Haidaris , and F. Heffron .
+Mutants of Salmonella typhimurium that can not survive within the macrophage are avirulent .
+García del Portillo , F. , J. W. Foster , M. E. Maguire , and B. B. Finlay .
+Characterization of the micro - environment of Salmonella typhimurium - containing vacuoles within MDCK epithelial cells .
+García Véscovi , E. , F. C. Soncini , and E. A. Groisman .
+The role of the PhoP/PhoQ regulon in Salmonella virulence .
+García Véscovi , E. , F. C. Soncini , and E. A. Groisman .
+Mg 2 as an extracellular signal : environmental regulation of Salmonella virulence .
+Groisman , E. A. , and F. Heffron .
+Regulation of Salmonella virulence by two - component regulatory systems , p. 319 -- 332 .
+In J. A. Hoch and T. J. Silhavy ( ed .
+ASM Press , Washington , D.C. 17 .
+Groisman , E. A. , M. A. Sturmoski , F. R. Solomon , R. Lin , and H. Ochman .
+Molecular , functional , and evolutionary analysis of sequences specific to Salmonella .
+Helander , I. M. , I. Kilpeläinen , and M. Vaara .
+Increased substitution of phosphate groups in lipopolysaccharides and lipid - A of the polymyxinresistant pmrA mutants of Salmonella typhimurium : a 31 P - NMR study .
+Mäkelä , P. H. , M. Sarvas , S. Calcagno , and K. Lounatmaa .
+Isolation and characterization of polymyxin - resistant mutants of Salmonella .
+Environmental signals controlling expression of virulence determinants in bacteria .
+Experiments in molecular genetics .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 22 .
+Miller , S. I. , A. M. Kukral , and J. J. Mekalanos .
+A two - component regulatory system ( phoP phoQ ) controls Salmonella typhimurium virulence .
+Morona , R. , L. Van Den Bosch , and P. A. Manning .
+Molecular , genetic , and topological characterization of O - antigen chain length regulation in Shigella flexneri .
+Nagasawa , S. , K. Ishige , and T. Mizuno .
+Novel members of the twocomponent signal transduction genes in Escherichia coli .
+Signal transduction schemes of bacteria .
+Parkinson , J. S. , and E. C. Kofoid .
+Communication modules in bacterial signaling proteins .
+Reece , K. S. , and G. J. Phillips .
+New plasmids carrying antibioticresistance cassettes .
+Roland , K. L. , C. R. Esther , and J. K. Spitznagel .
+Isolation and characterization of a gene , pmrD , from Salmonella typhimurium that confers resistance to polymyxin when expressed in multiple copies .
+Roland , K. L. , L. E. Martin , C. R. Esther , and J. K. Spitznagel .
+Spontaneous pmrA mutants of Salmonella typhimurium LT2 define a new two - component regulatory system with a possible role in virulence .
+Sambrook , J. , E. F. Fritsch , and T. Maniatis .
+Molecular cloning : a laboratory manual .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 31 .
+Sanderson , K. E. , A. Hessel , and K. E. Rudd .
+Genetic map of Salmonella typhimurium , edition VIII .
+Shafer , W. M. , S. G. Casey , and J. K. Spitznagel .
+Lipid A and resistance of Salmonella typhimurium to antimicrobial granule proteins of human neutrophils .
+Shafer , W. M. , L. E. Martin , and J. K. Spitznagel .
+Cationic antimicrobial proteins isolated from human neutrophil granulocytes in the presence of diisopropyl fluorophosphate .
+Snavely , M. D. , S. A. Gravina , T. - B .
+T. Cheung , C. G. Miller , and M. E. Maguire .
+Magnesium transport in Salmonella typhimurium : regulation of mgtA and mgtB expression .
+Soncini , F. C. , E. García Véscovi , and E. A. Groisman .
+Transcriptional autoregulation of the Salmonella typhimurium phoPQ operon .
+Soncini , F. C. , E. García Véscovi , F. Solomon , and E. A. Groisman .
+Molecular basis of the magnesium deprivation response in Salmonella typhimurium : identification of PhoP - regulated genes .
+Stinavage , P. , L. E. Martin , and J. K. Spitznagel .
+O - antigen and lipid A phosphoryl groups in resistance of Salmonella typhimurium LT - 2 to nonoxidative killing in human polymorphonuclear cells .
+Stock , J. B. , M. G. Surette , M. Levit , and P. Park .
+Two - component signal transduction systems : structure - function relationships and mechanisms of catalysis , p. 25 -- 51 .
+In J. A. Hoch and T. J. Silhavy ( ed .
+ASM Press , Washington , D.C. 39 .
+Swanson , R. V. , L. A. Alex , and M. I. Simon .
+Histidine and aspartate phosphorylation : two - component systems and the limits of homology .
+Tobe , T. , S. Nagai , N. Okada , B. Adler , M. Yoshikawa , and C. Sasakawa .
+Temperature - regulated expression of invasion genes in Shigella flexneri is controlled through the transcriptional activation of the virB gene on the large plasmid .
+Is cross regulation by phosphorylation of two - component response regulator proteins important in bacteria ?
+Whitfield , H. J. , and G. Levine .
+Isolation and characterization of a mutant of Salmonella typhimurium deficient in a major deoxyribonucleic acid polymerase activity .
+Yanisch - Perron , C. , J. Vieira , and J. Messing .
+Improved M13 phage cloning vectors and host strains : nucleotide sequences of the M13mp18 and pUC19 vectors .

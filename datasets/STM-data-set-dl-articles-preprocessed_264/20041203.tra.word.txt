@@ -1,0 +1,370 @@
+Feedback Inhibition in the PhoQ/PhoP Signaling System by a Membrane Peptide Andrew M. Lippa 1 , Mark Goulian 1,2 * 1 Cell and Molecular Biology Graduate Group , University of Pennsylvania School of Medicine , Philadelphia , Pennsylvania , United States of America , 2 Department of Biology , University of Pennsylvania , Philadelphia , Pennsylvania , United States of America Abstract The PhoQ/PhoP signaling system responds to low magnesium and the presence of certain cationic antimicrobial peptides .
+It regulates genes important for growth under these conditions , as well as additional genes important for virulence in many gram - negative pathogens .
+PhoQ is a sensor kinase that phosphorylates and activates the transcription factor PhoP .
+Since feedback inhibition is a common theme in stress - response circuits , we hypothesized that some members of the PhoP regulon may play such a role in the PhoQ/PhoP pathway .
+We therefore screened for PhoP - regulated genes that mediate feedback in this system .
+We found that deletion of mgrB ( yobG ) , which encodes a 47 amino - acid peptide , results in a potent increase in PhoP - regulated transcription .
+In addition , over - expression of mgrB decreased transcription at both high and low concentrations of magnesium .
+Localization and bacterial two - hybrid studies suggest that MgrB resides in the innermembrane and interacts directly with PhoQ .
+We further show that MgrB homologs from Salmonella typhimurium and Yersinia pestis also repress PhoP - regulated transcription in these organisms .
+In cell regulatory circuits , feedback has been associated with modulating the induction kinetics and/or the cell - to - cell variability in response to stimulus .
+Interestingly , we found that elimination of MgrB - mediated feedback did not have a significant effect on the kinetics of reporter protein production and did not decrease the variability in expression among cells .
+Our results indicate MgrB is a broadly conserved membrane peptide that is a critical mediator of negative feedback in the PhoQ/PhoP circuit .
+This new regulator may function as a point of control that integrates additional input signals to modulate the activity of this important signaling system .
+Citation : Lippa AM , Goulian M ( 2009 ) Feedback Inhibition in the PhoQ/PhoP Signaling System by a Membrane Peptide .
+doi : 10.1371 / journal.pgen .1000788 Editor : William F. Burkholder , Stanford University , United States of America Received July 9 , 2009 ; Accepted November 24 , 2009 ; Published December 24 , 2009 unrestricted use , distribution , and reproduction in any medium , provided the original author and source are credited .
+Funding : This work was supported by NIH grant GM080279 to MG .
+AML was also supported by NIH Bacteriology Training Grant T32 AI060516 .
+The funders had no role in study design , data collection and analysis , decision to publish , or preparation of the manuscript .
+Competing Interests : The authors have declared that no competing interests exist .
+* E - mail : goulian@sas.upenn.edu Introduction Many prokaryotes inhabit multiple niches with disparate environmental conditions and challenges for proliferation .
+Not surprisingly , they have evolved a plethora of regulatory circuits that enable them to adapt to these environments .
+One important and extensively studied example is the signaling system controlled by the sensor kinase PhoQ and response regulator PhoP , which is found in enterics such as Escherichia coli , Salmonella typhimurium , and related bacteria .
+This two - component system is activated by signals such as low Mg 2 + [ 1 ] , low pH [ 2 ] , or the presence of antimicrobial peptides [ 3 ] , and leads to expression of genes that encode , among others , Mg 2 + transporters , enzymes that modify the cell envelope and confer resistance to cationic antimicrobial peptides [ 4 -- 8 ] , enzymes that alleviate stress associated with low pH [ 9 -- 11 ] , and other factors that regulate virulence in numerous gram - negative pathogens of humans , insects , and plants [ 12 -- 18 ] .
+The sensor kinase PhoQ is an integral membrane protein whose periplasmic domain is involved in signal detection .
+Signal transduction occurs via PhoQ autophosphorylation , phosphotransfer to PhoP , and PhoQ - mediated dephosphorylation of phospho - PhoP .
+Magnesium sensing appears to be mediated by an acidic patch in the periplasmic domain of PhoQ , which structural data suggests is proximal to the membrane [ 19 -- 22 ] .
+This acid pocket may also play a role in antimicrobial peptide sensing via displacement of divalent cations by these positively charged peptides [ 3 ] .
+In many cases , adaptive regulatory systems have some form of negative feedback to modulate the cellular response .
+Indeed , negative feedback is a common theme in cell regulation and its role in maintaining homeostatic control is well - established [ 23,24 ] .
+Negative feedback can also play a similar role in reducing cell - tocell variability within a population [ 25 ] and can increase the activation kinetics in some circuits [ 26,27 ] .
+More generally , negative feedback , when combined with additional layers of regulation , may produce complex dynamics or process multiple input signals .
+Since the PhoQ/PhoP system functions as a critical stress response circuit for survival under conditions of low magnesium or in the presence of antimicrobial peptides , we hypothesized that there may be sources of negative feedback in this circuit .
+We would expect that such a negative feedback loop would have at least one component that is regulated by PhoP .
+Microarray and sequence analysis indicate PhoP influences transcription of a large set of genes [ 11,28,29 ] .
+However , relatively few genes have been shown to be directly regulated by PhoP [ 11,28,30 ] , and few of these have known functions .
+From this short list , none appeared to be obvious candidates for mediators of negative feedback .
+We PLoS Genetics  www.plosgenetics.org 1 December 2009  Volume 5  Issue 12  e1000788 Feedback Inhibition by a Membrane Peptide Author Summary The proteins PhoQ and PhoP comprise an environmental sensing system that has been extensively studied in numerous bacteria , including Salmonella typhimurium and Escherichia coli .
+The PhoQ/PhoP system is stimulated by conditions of low extracellular magnesium or the presence of certain cationic antimicrobial peptides ; and it controls genes , whose protein products protect the cell under these conditions or play other critical roles in regulating the virulence of pathogens .
+The functions of many members of the PhoP regulon , however , remain uncharacterized .
+This leaves open the possibility that some PhoP - regulated genes may mediate feedback in this system .
+Regulatory circuits that allow adaptation to environmental change often make use of negative feedback to achieve the appropriate level of response .
+To look for negative feedback , we screened knockouts of PhoP - regulated genes in E. coli .
+We have identified a remarkably small membrane protein of just 47 amino - acids that mediates potent negative feedback on the PhoQ / PhoP circuit in E. coli , S. typhimurium , Yersinia pestis , and likely other related bacteria .
+This represents a striking example of a small , easily - overlooked open reading frame that plays a critical role in regulating a broadly conserved signal transduction pathway .
+therefore screened a reporter strain containing deletions of different PhoP - regulated genes for evidence of increased PhoQ / PhoP - dependent transcription .
+From an analysis of seven deletion strains , we found that mgrB ( yobG ) , which is predicted to encode a 47 amino - acid peptide of unknown function , plays a critical role in regulating the PhoQ/PhoP pathway .
+Results Modulation of PhoP - regulated transcription by MgrB To identify factors that mediate negative feedback in the PhoQ / PhoP circuit , a set of genes that have been shown to be directly regulated by PhoP in E. coli [ 28,30 ] were individually deleted in a PhoP transcriptional reporter strain .
+The reporter contained the PhoP - regulated mgrB promoter driving YFP expression ( P mgrB - yfp ) , which was integrated at the phage lambda attachment site .
+The strains also expressed CFP from a constitutive promoter , which served as an internal control for protein expression and fluorescence intensity .
+We chose the mgrB transcriptional reporter because it gives the highest level of fluorescence from among a collection of fluorescent reporters of PhoP - regulated transcription [ 31 ] .
+As seen in cells growing on LB agar plates , which are moderate inducing conditions for the E. coli PhoQ/PhoP system [ 30 ] , deletion of mgtA , rstA , nagA , slyB , vboR , and yrbL had no visible effect on YFP fluorescence ( Figure 1A ) .
+Deletion of mgrB , however , resulted in a clear increase in YFP with no visible difference in CFP fluorescence when compared with the wild - type strain ( Figure 1A ) .
+To obtain a quantitative measure of the effects of the gene deletions on transcription levels , we measured the ratio of YFP to CFP fluorescence in single cells by fluorescence microscopy and image analysis [ 32 ] .
+Cells were grown in medium containing either 100 mM or 10 mM Mg 2 + .
+Consistent with the results observed on agar plates , deletions of mgtA , rstA , nagA , slyB , vboR , and yrbL showed no effect on the YFP/CFP fluorescence ( the example of slyB is shown in Figure 1B , other examples are shown in Figure S1 ) .
+Deletion of mgrB , on the other hand , resulted in roughly a 9 - fold increase in YFP/CFP fluorescence at 10 mM Mg 2 + and a 3 - fold increase at 100 mM Mg 2 + , relative to the corresponding wild - type strain ( Figure 1B ) .
+The observed increase in fluorescence was strictly dependent on PhoQ ( Figure 1B ) .
+Deletion of mgrB in fluorescent transcriptional reporter strains for three other PhoP - regulated promoters , P mgtA , P phoPQ , and P hemL , resulted in similar increases in fluorescence ( Figure 1C and 1D , and data not shown ) , suggesting that the effect of the deletion is likely to be at a point upstream in the pathway common to all of these genes , i.e. at some point in PhoQ/PhoP signaling .
+We also verified that the mgrB deletion could be complemented by a plasmid containing mgrB cloned downstream of the trc promoter ( Figure 2 ) .
+When this same plasmid was put in an mgrB + strain , it resulted in a further repression of reporter gene transcription ( Figure 2 ) , presumably due to increased expression of MgrB above the wild - type level .
+Taken together , the above results suggest that the mgrB gene product acts as a repressive factor in PhoQ/PhoP signaling .
+MgrB localization The mgrB gene consists of a small open reading frame of 141 base pairs .
+A recent study of small open reading frames in E. coli verified protein expression from the wild - type locus of an epitopetagged mgrB [ 33 ] .
+The 47 amino - acid MgrB peptide could potentially have a type I ( secretion ) or type II ( lipidation ) signal sequence [ 34,35 ] .
+Alternatively , the N - terminal hydrophobic stretch may function as a transmembrane domain [ 36 ] ( Figure 3A ) .
+To determine the localization of MgrB , we analyzed cell envelope and soluble protein fractions by Western blotting with rabbit antisera raised against a peptide from the C - terminus of the protein .
+We were able to detect a protein between 4 and 7 kilodaltons in the whole - cell lysate and envelope fraction of cells expressing mgrB , but not in the soluble protein fraction ( Figure 3B ) .
+The envelope fraction of cells expressing MgrB showed no detectable contamination with cytoplasmic or periplasmic proteins as assessed by Western blots for the cytoplasmic proteins CFP and YFP and the periplasmic protein beta - lactamase ( top two panels of Figure 3B ) .
+To further confirm membrane association , we constructed a fusion of GFP to the N - terminus of MgrB .
+The fusion is similar to wild - type MgrB in its ability to complement a deletion , as indicated by repression of PhoQ/PhoP signaling ( Figure S2 ) .
+Western blots show no evidence of cleavage or degradation of the fusion protein ( data not shown ) .
+The fact that GFP is not cleaved from MgrB by a signal peptidase suggests that nascent MgrB is not secreted into the periplasm or lipidated .
+Fluorescence microscopy of cells expressing GFP - MgrB revealed a halo - like fluorescence at the cell boundary , suggesting localization to the envelope , whereas cells expressing GFP alone showed uniform fluorescence indicative of cytoplasmic localization ( Figure 3C ) .
+When GFP is targeted to the periplasm through the Sec pathway , either as a secreted protein or as part of a membrane protein , it does not fold properly and fails to fluoresce [ 37,38 ] .
+The only reported pathway for producing fluorescent GFP in the periplasm is through the Tat secretion system [ 39,40 ] .
+However MgrB is not predicted to have a signal sequence that would target it for secretion through this pathway [ 41 ] .
+Taken together , the above results indicate that MgrB is associated with the inner - membrane with its N - terminus in the cytoplasm .
+The size and hydrophobicity profile of the peptide further suggest that it spans the membrane with a single transmembrane domain .
+MgrB interaction with PhoQ Given the localization of MgrB , we hypothesized that it exerts its effects through PhoQ .
+We therefore tested the action of MgrB on a chimera in which the periplasmic domain of PhoQ from E. PLoS Genetics  www.plosgenetics.org 2 December 2009  Volume 5  Issue 12  e1000788 Feedback Inhibition by a Membrane Peptide Figure 1 .
+Deletion of mgrB leads to up - regulation of multiple genes in the PhoQ/PhoP Regulon .
+( A ) YFP ( left ) and CFP ( right ) fluorescence images of a transcriptional reporter strain with deletions of various PhoP - regulated genes , growing on LB agar .
+The strain contains a chromosomal copy of the PhoP - regulated mgrB promoter ( P mgrB ) driving yfp expression and a constitutive promoter driving cfp expression as an internal reference .
+The specific strains are , clockwise starting with WT , TIM92 , TIM100 , AML4 , AML6 , AML8 , AML16 , AML10 , AML12 , and AML14 .
+( B ) Fluorescence of several strains ( as in A ) grown in liquid .
+( C ) Fluorescence of phoPQ transcriptional reporters grown in liquid .
+The strains are , from left to right , TIM148 , TIM229 , AML22 , and AML23 .
+( D ) Fluorescence of mgtA transcriptional reporters grown in liquid .
+The strains are , from left to right TIM91 , TIM99 , AML24 , AML25 .
+For liquid cultures , cells were grown in minimal glucose medium with 100 mM ( white ) or 10 mM ( black ) MgSO 4 and cellular fluorescence was measured by microscopy and image analysis as described in Materials and Methods .
+The error bars represent the range of means for two independent cultures .
+g001 coli was replaced with the highly divergent periplasmic domain of PhoQ from Pseudomonas aeruginosa [ 42 ] , a bacterium that does not appear to possess an mgrB ortholog .
+We measured fluorescence of a phoQ 2 mgrB 2 reporter strain for PhoP - dependent transcription that was transformed with a plasmid expressing either E. coli PhoQ or the PhoQ chimera ( PhoQ chim ) , or a control plasmid .
+The strain also contained either a compatible plasmid expressing mgrB or a compatible control plasmid ( Figure 4 ) .
+We note that the fluorescence levels of the MgrB 2 PhoQ + chim strain were lower than the corresponding levels for the MgrB 2 PhoQ + strain , but they were significantly higher than the fluorescence levels of the PhoQ 2 strain .
+As with the complementation experiments above , introduction of the MgrB expression plasmid resulted in decreased fluorescence of PhoQ + cells .
+In contrast , no change in fluorescence levels was observed when the plasmid was introduced into the PhoQ + chim strain .
+That MgrB does not decrease PhoP - regulated transcription when the periplasmic sensor domain of PhoQ is modified suggests MgrB acts at or upstream of PhoQ in the signaling pathway .
+To look for evidence of an interaction between MgrB and PhoQ in E. coli , we used a bacterial two - hybrid assay based on split adenylyl cyclase [ 43 ] .
+In this system , adenylyl cyclase activity is reconstituted when the T18 and T25 fragments of Bordetella pertussis CyaA are brought into close proximity .
+The resulting increase in cAMP levels is detected through expression of beta - galactosidase from the lac promoter .
+We fused the T18 and T25 fragments to PLoS Genetics  www.plosgenetics.org 3 December 2009  Volume 5  Issue 12  e1000788 Feedback Inhibition by a Membrane Peptide Figure 2 .
+Expression of mgrB from a plasmid complements a chromosomal deletion .
+Reporter strains for mgrB transcription are either wild - type for the chromosomal mgrB ( TIM92 ) or contain a deletion ( AML20 ) and either a control plasmid ( pEB52 ) or a plasmid bearing mgrB ( pAL8 ) .
+Cells were grown in minimal glucose medium with 100 mM ( white ) or 10 mM ( black ) MgSO 4 .
+Cellular fluorescence was measured by microscopy and image analysis as described in Materials and Methods .
+The error bars represent the range of means for two independent cultures .
+g002 the N - termini of MgrB and PhoQ , respectively .
+Based on the known topology of PhoQ , and the topology of MgrB ( discussed above ) , both CyaA fragments should be in the cytoplasm .
+A strain expressing T18 - MgrB and T25 - PhoQ showed a significantly higher level of beta - galactosidase activity when compared with strains expressing the T18 and T25 fragments alone ( Figure 5 ) or expressing the fusions to either MgrB or PhoQ individually ( data not shown ) .
+These results suggest there is a physical interaction between MgrB and PhoQ .
+Furthermore , a strain expressing T18 - MgrB and the T25 - fragment fused to the N - terminus of PhoQ chim showed a minimal increase in beta - galactosidase activity relative to the controls .
+This is unlikely to be due to a defect in PhoQ chim expression because we were able to detect PhoQ chim -- PhoQ chim interactions at levels comparable to those for ( wild - type ) PhoQ - PhoQ interactions , consistent with previous reports that both Figure 4 .
+Alteration of the PhoQ periplasmic domain blocks the repressive effect of MgrB .
+Fluorescence of an mgrB transcriptional reporter , AML21 ( mgrB 2 phoQ 2 ) , which was transformed with a control plasmid ( pEB52 ) or a plasmid containing mgrB ( pAL8 ) and with a compatible plasmid expressing wild - type PhoQ ( pLPQ2 ) , a chimera in which the periplasmic domain of E coli PhoQ was replaced with the corresponding domain from P. aeruginosa PhoQ ( pLPQ * 2 ) , or a control plasmid ( pGB2 ) .
+Fluorescence was measured from cells grown at 30uCin minimal glucose medium with 100 mM MgSO 4 as described in Materials and Methods .
+Cells were grown at 30uC for consistency with bacterial two - hybrid experiments -- Figure 5 and Figure S3 .
+Similar results were observed for cells grown at 37uC ( data not shown ) .
+The error bars represent the range of means of two independent cultures .
+( WT : wildtype , chim : chimera ) .
+g004 PhoQ and PhoQ chim form functional complexes [ 42 ] ( Figure S3 ) .
+Taken together , these results suggest that the periplasmic domain of E. coli PhoQ is important for the interaction with MgrB .
+Interestingly , co - expression of T18 - MgrB and a fusion of T25 to Figure 3 .
+MgrB localizes to the inner membrane in - vivo .
+( A ) The amino - acid sequence of MgrB .
+The underlined region is a potential transmembrane domain [ 36 ] .
+The arrows labeled I and II denote potential type I ( [ 34 ] ) and type II [ 35 ] signal sequence cleavage sites , respectively .
+( B ) Western blot of the total cell lysate , envelope fraction ( pellet ) , or the soluble protein fraction ( sup ) , of an mgrB 2 strain expressing cytoplasmic YFP and CFP ( AML20 ) and containing either a control plasmid ( pEB52 ) or an mgrB expression plasmid ( pAL8 ) .
+Both plasmids also express beta - lactamase , an enzyme that resides in the periplasm .
+( C ) Phase contrast and GFP fluorescence micrographs of AML67 ( mgrB 2 ) expressing either GFP ( pAL39 , top ) or a fusion of GFP to the N - terminus of MgrB ( pAL38 , bottom ) .
+Cells were grown in minimal glucose medium with 1 mM MgSO 4 .
+g003 PLoS Genetics  www.plosgenetics.org 4 December 2009  Volume 5  Issue 12  e1000788 Feedback Inhibition by a Membrane Peptide alignments are shown in Figure 6 .
+All of the genomes for which we could identify a candidate mgrB also contained phoP and phoQ orthologs .
+However , the converse does not appear to be the case : we were unable to find an mgrB homolog in Erwinia or Pseudomonas species , though members of both of these genera possess phoP and phoQ .
+In addition , although the endosymbiont Sodalis glossinidus has phoP and phoQ genes , its mgrB is unlikely to be functional due to the presence of two internal stop codons ( Figure 6 ) .
+To test whether the action of MgrB on PhoQ/PhoP signaling is conserved among several genera , we over - expressed the native MgrB from Salmonella enterica serovar typhimurium and Yesinia pestis in their respective host strains and measured transcription of the promoter for phoN , a PhoP - regulated gene from Salmonella .
+For both Y. pestis and S. typhimurium , MgrB over - expression resulted in a significant repression of reporter activity ( Figure 7 ) .
+We also verified that the mgrB genes from both of these organisms complement an mgrB deletion in E. coli ( data not shown ) .
+MgrB interacts with PhoQ and with itself .
+MgrB interacts with E. coli PhoQ and with itself but not with a PhoQ chimera containing a modified periplasmic domain .
+Cells expressed protein fusions to the T18 and T25 subunits of B. pertussis adenylyl cyclase .
+Reconstitution of adenylyl cyclase activity was inferred from betagalactosidase activity .
+The cyaA 2 strain BTH101 contained plasmids expressing subunits alone ( pKT25 or pUT18C ) or subunit fusions to the N - terminus of MgrB ( pAL25 and pAL33 ) , E. coli PhoQ ( pAL27 ) , or a PhoQ chimera ( PhoQ chim -- pAL36 ) .
+For each strain , the mean and standard deviation for three independent measurements are shown .
+g005 the N - terminus of MgrB also showed significant beta - galactosidase activity relative to the controls ( Figure 5 ) , suggesting that MgrB may form dimers or higher order complexes .
+MgrB homologs in other species The mgrB gene , also known as yobG , has been identified in Salmonella enterica , where it has been shown to be activated by PhoP in microarray and transcriptional reporter experiments [ 11,44 ] .
+Like many other small open reading frames , mgrB is frequently missed in genome annotations .
+However we have been able to identify putative mgrB homologs in numerous species among several genera of Enterobacteriaceae .
+Specific examples and their Discussion Based on the results presented here , we propose that the peptide MgrB spans the inner - membrane and represses PhoP phosphorylation by inhibiting PhoQ kinase activity , stimulating phosphatase activity , or both ( Figure 8 ) .
+Our results further suggest that an interaction between MgrB and the periplasmic domain of PhoQ plays a critical role .
+Since mgrB transcription is activated by phosphorylated PhoP , MgrB is part of a negative feedback loop in the PhoQ/PhoP signaling circuit .
+It is particularly striking that deletion of mgrB results in a strong increase in PhoP - regulated transcription even for growth in 10 mM Mg 2 + -- a condition that strongly represses PhoQ/PhoP signaling in wild - type cells .
+The four PhoP - regulated promoters that we tested ( promoters for mgrB , phoPQ , mgtA , and hemL ) show at least some level of magnesium responsiveness in an mgrB 2 strain ( Figure 1B -- 1D and data not shown ) .
+The significant decrease in magnesium sensitivity of mgtA transcription in the absence of MgrB ( Figure 1D ) most likely indicates that mgtA has reached near - maximal levels of PhoPactivated transcription for the mgrB 2 strain growing in 10 mM Mg 2 + .
+Indeed , previous studies suggest that the E. coli mgtA promoter saturates at lower levels of PhoQ/PhoP stimulation when compared to the other promoters considered here [ 31 ] .
+MgrB homologs identified from genome sequences of various genera of Enterobacteriaceae .
+The first 11 sequences were aligned using ClustalW [ 54 ] .
+Genome sequences were from Escherichia coli MG1655 , Shigella flexneri 2457T , Citrobacter koseri ATCC BAA - 895 , Salmonella typhimurium LT2 , Enterobacter sakazakii ATCC BAA - 894 , Klebsiella pneumoniae 342 , Yersinia pestis KIM , Photorhabdus luminescens subsp .
+laumondii TTO1 , Serratia proteamaculans 568 , Providencia stuartii ATCC 25827 , Sodalis glossinidius str .
+` morsitans ' , and Proteus penneri ATCC 35198 .
+g006 PLoS Genetics  www.plosgenetics.org 5 December 2009  Volume 5  Issue 12  e1000788 Feedback Inhibition by a Membrane Peptide Figure 7 .
+Inhibition of PhoP - regulated transcription by MgrB in Salmonella typhimurium and Yersinia pestis .
+( A ) Salmonella enterica serovar Typhimurium strain 14028s carrying the P phoN - lacZ reporter plasmid pNL2 and either a plasmid expressing Salmonella mgrB ( pAL43 ) or a control plasmid ( pEB52 ) were grown in LB with antibiotics and 1 mM IPTG .
+The amino - acid sequence of MgrB from strain 14028s ( data not shown ) is identical to the sequence from strain LT2 ( shown in Figure 6 ) .
+( B ) Y. pestis KIM6 carrying pNL2 and either a plasmid expressing the Yersinia pestis mgrB ( pAL42 ) or a control plasmid ( pEB52 ) were grown in BHI with antibiotics and 1mM IPTG .
+For each strain , the mean and standard deviation for at least three independent cultures are shown .
+g007 have also found that PhoP - regulated transcription remains responsive to the antimicrobial peptide LL37 and to acidic pH in mgrB 2 strains ( Figure S4 and Figure S5 , respectively ) .
+We note , however , that mgrB deletion affects the fold - change in reporter gene expression for all three stimuli ( Mg 2 + , pH , and LL37 ) .
+Thus , MgrB modulates the magnitude and sensitivity of PhoQ/PhoP signaling but is not strictly required for magnesium , pH , and antimicrobial peptide responsiveness .
+MgrB mediates negative feedback in the PhoQ/PhoP system .
+PhoQ stimulation by low extracellular magnesium or cationic antimicrobial peptides ( CAMPs ) leads to increased levels of phosphorylated PhoP , which in turn results in increased transcription of mgrB .
+MgrB inserts in the inner membrane , with its N - terminus in the cytoplasm and C - terminus in the periplasm , and represses PhoQ , resulting in decreased PhoP phosphorylation .
+The question marks illustrate potential points of control where additional signals could modulate PhoQ/PhoP signaling by regulating MgrB activity or expression .
+g008 Negative feedback has been shown to increase activation kinetics and minimize cell - to - cell variability in some regulatory circuits [ 25 -- 27 ] .
+Such behavior can be readily understood for simple examples of feedback arising from negative autogenous control .
+However it is difficult to predict the effects of negative feedback in more complex circuits with additional regulators , which have the potential for time delays and additional sources of cell - to - cell variability .
+Indeed , deletion of MgrB has relatively little effect on the kinetics of fluorescent protein reporter accumulation ( Figure S6 ) and on the cell - to - cell variability in fluorescent protein expression ( Figure S7 ) , despite its strong effect on the magnitude of PhoQ/PhoP signaling .
+We hypothesize that MgrB may provide a point of control for integrating additional input signals that modulate PhoQ/PhoP activity .
+For example , such signals could act by regulating the expression level or repressive action of MgrB ( Figure 8 ) .
+We have shown that for bacteria from at least three different genera , the native MgrB homolog represses PhoQ/PhoP signaling , suggesting that this mode of negative regulation is broadly conserved .
+At least two other proteins have been reported to regulate PhoQ/PhoP activity , however the level of functional conservation appears to be more limited for these cases .
+YneN ( B1500 ) is a small integral - membrane protein that stimulates PhoQ in E. coli [ 45 ] .
+This protein is a member of the EvgS/EvgA regulon and thus mediates cross - regulation between two signaling circuits .
+This mechanism for PhoQ regulation does not appear to be widely conserved ; we have been unable to identify YneN orthologs in sequenced genomes other than those of various E. coli and Shigella isolates .
+Another protein , SlyB , has been shown to mediate some negative repression of the PhoQ/PhoP system in Salmonella typhimurium .
+Deletion of slyB resulted in a roughly 1.5 - fold increase in transcription of multiple PhoP - regulated genes in this bacterium [ 44 ] .
+However , we did not detect any difference in transcription of PhoP - regulated genes when we compared wildtype and slyB 2 strains of E. coli ( Figure 1B ) .
+This may indicate another example of divergence in the PhoQ/PhoP regulatory circuit , even for these closely related species [ 29,46 ] .
+MgrB - mediated regulation of PhoQ is part of an emerging theme of modulation of membrane proteins by small hydrophobic peptides [ 47 ] .
+It is a striking example of a small , easily overlooked PLoS Genetics  www.plosgenetics.org 6 December 2009  Volume 5  Issue 12  e1000788 Feedback Inhibition by a Membrane Peptide open reading frame that plays a critical role in regulating a signal transduction pathway .
+Sequence alignments reveal several conserved residues , which may be critical for MgrB function ( Figure 6 ) .
+Further genetic and biochemical work will be required to understand the mechanism by which MgrB represses PhoQ , and to determine whether MgrB has additional roles as part of this important two - component signaling system .
+Materials and Methods See Supporting Information for tables of strains ( Table S1 ) , plasmids ( Table S2 ) , and PCR primers ( Table S3 ) .
+A description of plasmid construction is given in Text S1 .
+Bacterial strains and growth - conditions Deletions of PhoP - regulated genes in E. coli were transduced from strains in the Keio Collection [ 48 ] by P1 vir transduction .
+The deletions were confirmed by PCR using primers that flank the gene .
+When necessary , kanamycin resistance markers were removed with FLP recombinase by transforming with pCP20 [ 49 ] and subsequent curing of the plasmid .
+E. coli strains were grown at 37uC , unless otherwise indicated , in Luria - Bertani ( LB ) medium ( Difco - BD , Franklin Lakes , NJ ) or minimal A medium [ 50 ] supplemented with 0.2 % glucose , 0.1 % casamino - acids ( Difco ) and with the indicated concentration of MgSO 4 .
+Salmonella strains were grown in LB at 37uC .
+Yersinia pestis strains were grown at 26uC in brain - heart infusion ( BHI ) broth ( Difco ) .
+The lac and trc promoters were induced with isopropyl b - D - 1-thiogalactopyranoside ( IPTG ) at a final concentration of 1 mM when indicated .
+When IPTG was not mentioned in the description of the culture conditions , the basal transcription from the trc promoter was used to drive expression .
+Fluorescence images of agar plates Strains were streaked onto LB Agar plates ( Difco ) and incubated overnight at 37uC .
+Images of YFP and CFP fluorescence were acquired with a home - built fluorescence illuminator as previously described [ 51 ] .
+Fluorescence microscopy and single - cell measurements Single - cell measurements were performed essentially as described previously [ 31 ] .
+Briefly , overnight cultures , grown in minimal A medium with 1 mM MgSO 4 , and 50 mg/mL ampicillin with or without 50 mg/mL spectinomycin to maintain plasmids when necessary , were diluted back 1:1000 in pre - warmed minimal - medium containing 100 mM , 1 mM , or 10 mM MgSO 4 and grown to an OD 600 between 0.2 and 0.3 .
+Cultures were cooled quickly with an ice water slurry and streptomycin was added to a final concentration of 250 mg/mL to inhibit protein synthesis .
+Images were acquired and analyzed as previously described [ 31,32 ] .
+Envelope fractionation Envelopes were prepared with a protocol modified from [ 52 ] .
+An overnight culture in LB - medium with 50 mg/mL ampicillin was diluted 1:1000 into the same medium supplemented with 1mM IPTG and shaken at 37 degrees for 5.5 hours at 250 rpm .
+The culture was split in half , chilled on ice , and then spun at 3,300 g for 10 minutes at 4uC .
+One pellet was saved at 220uC for the total lysate .
+The second pellet was resuspended in a 10 mL of 30mM Tris pH 7.8 and pelleted again .
+The pellet was then resuspended by vortexing in 200 mL of a cold 20 % sucrose/30mM Tris solution .
+20 mL of freshly prepared 10 mg/mL lysozyme in 0.1 M EDTA pH 7.0 was added and the solution was mixed by inverting at 4uC for 20 minutes .
+3 mL of 3 mM EDTA pH 7.5 was then added , the solution was sonicated on ice , and then centrifuged at 47,000 g at 4uC for 75 minutes .
+The supernatant , which is the soluble fraction , was removed and saved .
+The pellet , which is the envelope fraction , was resuspended in 2 mM Tris pH 8.0 .
+To bring the volume of supernatant down to the same concentration of cell equivalents as the envelope fraction , the supernatant was concentrated with a Speed Vac ( Thermo Fisher , Waltham , MA ) .
+Western blot analysis Samples were boiled in Tris - Tricine loading buffer with 0.2 M dithiothreitol for 5 -- 7 minutes and loaded on 16.5 % Tris tricine gels ( ReadyGel - BioRad , Hercules , CA ) .
+Proteins were transferred to Immobilon - P PVDF ( Millipore , Billerica , MA ) followed by western blot analysis .
+A rabbit polyclonal MgrB antiserum was generated by using a KLH - conjugated synthetic peptide corresponding to residues 27 -- 40 of the predicted MgrB protein sequence ( GenScript , Piscataway , NJ ) .
+The peptide was synthesized with a C - to - S substitution for the first cysteine residue .
+Betalactamase and CFP/YFP were detected with rabbit polyclonal anti - beta - lactamase ( Millipore , ) and anti - GFP ( A.v. Peptide Antibody -- Clontech , Mountain View , CA ) antibodies .
+A horseradish peroxidase - conjugated anti - rabbit antiserum ( GE Healthcare , Piscataway , NJ ) was used as the secondary antibody .
+Bacterial two - hybrid assays Cultures of BTH101 bearing combinations of pKT25 - and pUT18 - derived plasmids were grown for 9 hours in LB supplemented with 100 mg/mL ampicillin and 50 mg/mL kanamycin .
+The cultures were then diluted 1:1000 into medium supplemented with 1 mM IPTG and allowed to grow at 30uC for 14 hours .
+Cultures were grown at 30uC in order to increase complementation efficiency [ 53 ] .
+Cells were cooled quickly in an ice slurry and kept on ice for 30 minutes .
+Beta - galactosidase assays were performed as described in [ 50 ] using chloroform and SDS for permeabilization .
+Beta - galactosidase measurements for Salmonella and Yersinia Cultures of Salmonella were grown overnight in LB with 50 mg / mL ampicillin and 50 mg/mL spectinomycin .
+The next day , they were diluted 1:1000 into the same medium and grown to OD 600 0.1 -- 0.3 .
+Cells were permeabilized with chloroform and SDS and assayed as in [ 50 ] .
+Cultures of Yersina were grown and assayed in the same fashion except the culture medium was BHI with 200 mg/mL ampicillin and 50 mg/mL spectinomycin and the overnight culture was diluted 1:50 .
+Supporting Information Figure S1 Of seven PhoP - regulated genes , only deletion of mgrB leads to increased reporter expression compared with wild - type .
+Each of seven PhoP - regulated genes were deleted individually in the mgrB transcriptional reporter strain TIM92 and examined for fold - change in YFP/CFP fluorescence relative to the wild - type strain TIM92 ( WT ) .
+The phoQ deletion ( DphoQ ) is shown for reference .
+Cultures were grown in minimal A medium with 100 mM MgSO 4 ( A ) or 10 mM MgSO 4 ( B ) and analyzed by fluorescence microscopy as described in Materials and Methods .
+Strains are , from left to right , TIM92 , TIM99 , AML6 , AML8 , AML10 , AML12 , AML14 , AML16 .
+Found at : doi : doi : 10.1371 / journal.pgen .1000788 .
+s001 ( 0.20 MB PDF ) PLoS Genetics  www.plosgenetics.org 7 December 2009  Volume 5  Issue 12  e1000788 Feedback Inhibition by a Membrane Peptide Figure S2 GFP - MgrB complements an mgrB deletion .
+P mgtA - lacZ expression is shown for wild - type and mgrB 2 strains containing a control plasmid ( left and middle columns , respectively ) and an mgrB 2 strain expressing GFP - MgrB ( right column ) .
+Cultures were grown overnight in LB with 50 mg/mL ampicillin , diluted back 1:1000 into pre - warmed medium , and grown at 37uC for 4 hours .
+Beta - galactosidase assays were performed as described in Materials and Methods .
+For each strain , the means and standard deviations for three independent measurements are shown .
+Strains are , from left to right , pEB52/TIM199 , pAL39 / AML67 , and pAL38/AML67 .
+Found at : doi : doi : 10.1371 / journal.pgen .1000788 .
+s002 ( 0.20 MB PDF ) Figure S3 PhoQ - PhoQ and PhoQchim - PhoQchim interactions can be detected by a bacterial two - hybrid assay .
+The cyaA 2 phoQ 2 strain AML69 contained combinations of plasmids expressing adenylyl cyclase subunits T18 ( pUT18 ) and T25 ( pKT25 ) , fusions of the T25 subunit to the N - terminus of PhoQ ( pAL27 ) or PhoQ chim ( pAL36 ) , and fusions of the T18 subunit to the C - terminus of PhoQ ( pAL41 ) or PhoQ chim ( pAL46 ) as indicated .
+Cells were grown and beta - galactosidase assays were performed as described in Materials and Methods .
+For each strain , the means and standard deviations for three independent measurements are shown .
+Found at : doi : doi : 10.1371 / journal.pgen .1000788 .
+s003 ( 0.20 MB PDF ) Figure S4 The antimicrobial peptide LL - 37 affects PhoPregulated transcription in the absence of MgrB .
+Transcriptional reporters for the phoPphoQ operon were grown in the presence or absence of LL37 .
+Cells were grown in minimal A medium with 1mM MgSO 4 , 0.2 % glucose , and 0.1 % casamino - acids overnight at 37uC .
+Overnight cultures were then diluted 1:1000 into tubes with pre - warmed medium containing 100 mM MgSO 4 .
+Cells were grown for 3.5 hours before cultures were split into two tubes and one received LL37 peptide ( which was a gift from P. Janmey , University of Pennsylvania School of Medicine ) to a final concentration of 2.5 mg/mL and the other received diluent alone .
+Cultures were allowed to grow one additional hour and then were treated as described in Materials and Methods for fluorescence microscopy and single - cell measurements .
+Error bars represent the range of means for two independent experiments .
+Strains are from left to right TIM148 , TIM229 , and AML22 .
+Found at : doi : doi : 10.1371 / journal.pgen .1000788 .
+s004 ( 0.27 MB PDF ) Figure S5 Low pH affects PhoP - regulated transcription in the absence of MgrB .
+Transcriptional reporters of mgrB expression grown overnight in MES - buffered N - minimal - medium pH 7.5 ( 5 mM KCl , 7.5 mM ( NH 4 ) 2 SO 4 , 0.5 mM K 2 SO 4 , 1 mM KH 2 PO 4 , 100 mM MES ) supplemented with 10 mM MgCl 2 , 0.2 % glucose , and 0.1 % casamino - acids were diluted 1:1000 into medium of pH 5.5 or pH 7.5 and allowed to grow to mid - log .
+Cells were then treated as described in Materials and Methods for fluorescence microscopy and single - cell measurements .
+Error bars represent the range of means for two independent experiments .
+Strains are from left to right TIM92 , TIM100 , and AML20 .
+Found at : doi : doi : 10.1371 / journal.pgen .1000788 .
+s005 ( 0.20 MB PDF ) Figure S6 Kinetics of reporter induction for mgrB + and mgrB 2 strains .
+Transcriptional reporters for the phoPphoQ operon were grown in repressing conditions ( 10 mM MgSO 4 ) andthenshifted to inducing ( 100 mM MgSO 4 ) mediumandallowedtogrow .
+Reporter transcription in wild - type and mgrB 2 cells is shown as raw data ( A ) and as curves normalized by shifting and rescaling as indicated below ( B ) .
+Cells were grown in minimal A medium with 10 mM MgSO 4 , 0.2 % glucose , and 0.1 % casamino - acids overnight at 37uC .
+Overnight cultures were then diluted 1:1000 into tubes with pre - warmed medium containing 10 mM MgSO 4 .2 mLcultureswerethengrown for 4 hours before being spun down and resuspended in 2 mL medium with 100 mM MgSO 4 .
+Cultures were allowed to grow for 4 hours , with aliquots removed and treated with streptomycin and immediately placed in an ice water slurry at 2 minutes prior to induction and at the indicated times after induction .
+Cells remained on ice for 1 hour and then analyzed by fluorescence microscopy as described in Materials and Methods .
+For ( B ) , fluorescence was normalized as follows : fl normalized ( t ) = [ fl ( t ) - fl ( t initial ) ] / [ fl ( t final ) - fl ( t initial ) ] , where fl ( t ) denotes the fluorescence at time t minutes ( labeled as P phoPQ transcription in the figure ) and t initial and t final denote the first and last time points .
+Results from a single representative experiment are shown .
+Strains are TIM148 ( diamonds ) and AML53 ( squares ) .
+Found at : doi : doi : 10.1371 / journal.pgen .1000788 .
+s006 ( 0.40 MB PDF ) Figure S7 The distribution of single - cell YFP/CFP fluorescence for mgrB + and mgrB 2 cells .
+PmgrB fluorescent reporter strains were grown in 100 mM MgSO 4 ( A ) or 10 mM MgSO 4 ( B ) and analyzed by fluorescence microscopy as described in Materials and Methods .
+For each culture , values of cellular YFP/CFP were normalized by the mean of the distribution .
+For the 100 mM Mg 2 + cultures , the mean ( m ) , and coefficient of variation ( standard deviation/mean , c v ) for YFP/CFP were m = 0.84 , c v = 0.19 and m = 2.75 , c v = 0.13 for mgrB + and mgrB 2 strains , respectively .
+For the 10 mM Mg2 + cultures , m = 0.13 , cv = 0.26 and m = 1.3 , cv = 0.19 for mgrB + and mgrB 2 strains , respectively .
+Each distribution represents a sample of at least 140 cells .
+Strains are TIM92 ( white ) and AML16 ( black ) .
+Found at : doi : doi : 10.1371 / journal.pgen .1000788 .
+s007 ( 0.26 MB PDF ) Table S1 Strains .
+Found at : doi : doi : 10.1371 / journal.pgen .1000788 .
+s008 ( 0.12 MB DOC ) Table S2 Plasmids .
+Found at : doi : doi : 10.1371 / journal.pgen .1000788 .
+s009 ( 0.08 MB DOC ) Table S3 Primers .
+Found at : doi : doi : 10.1371 / journal.pgen .1000788 .
+s010 ( 0.04 MB DOC ) Text S1 Plasmid construction .
+Found at : doi : doi : 10.1371 / journal.pgen .1000788 .
+s011 ( 0.04 MB DOC ) Acknowledgments We would like to thank J. Guo and D. Schifferli for assistance with the experiments in Yersinia pestis and C. Waldburger for the chimeric PhoQ construct .
+We would also like to thank A. Chavez , W. DeGrado , S. Goldberg , and A. Tsou , as well as members of the Goulian and Binns labs , for helpful discussions .
+Author Contributions Conceived and designed the experiments : AML MG .
+Performed the experiments : AML .
+Analyzed the data : AML MG .
+Contributed reagents / materials/analysis tools : AML MG .
+Wrote the paper : AML MG .
+PLoS Genetics  www.plosgenetics.org 8 December 2009  Volume 5  Issue 12  e1000788 Feedback Inhibition by a Membrane Peptide References 1 .
+Vescovi EG , Soncini FC , Groisman EA ( 1996 ) Mg2 + as an Extracellular Signal : Environmental Regulation of Salmonella Virulence .
+Prost LR , Daley ME , Le Sage V , Bader MW , Le Moual H , et al. ( 2007 ) Activation of the Bacterial Sensor Kinase PhoQ by Acidic pH. Molecular Cell 26 : 165 -- 174 .
+Bader MW , Sanowar S , Daley ME , Schneider AR , Cho U , et al. ( 2005 ) Recognition of Antimicrobial Peptides by a Bacterial Sensor Kinase .
+Fields PI , Groisman EA , Heffron F ( 1989 ) A Salmonella locus that controls resistance to microbicidal proteins from phagocytic cells .
+Gunn JS , Miller SI ( 1996 ) PhoP - PhoQ activates transcription of pmrAB , encoding a two - component regulatory system involved in Salmonella typhimurium antimicrobial peptide resistance .
+Guo L , Lim KB , Poduje CM , Daniel M , Gunn JS , et al. ( 1998 ) Lipid A Acylation and Bacterial Resistance against Vertebrate Antimicrobial Peptides .
+Guina T , Yi EC , Wang H , Hackett M , Miller SI ( 2000 ) A PhoP - regulated outer membrane protease of Salmonella enterica serovar typhimurium promotes resistance to alpha - helical antimicrobial peptides .
+Shi Y , Cromie MJ , Hsu FF , Turk J , Groisman EA ( 2004 ) PhoP - regulated Salmonella resistance to the antimicrobial peptides magainin 2 and polymyxin B. Mol Microbiol 53 : 229 -- 241 .
+Alpuche Aranda CM , Swanson JA , Loomis WP , Miller SI ( 1992 ) Salmonella typhimurium activates virulence gene transcription within acidified macrophage phagosomes .
+Proc Natl Acad Sci U S A 89 : 10079 -- 10083 .
+Bearson BL , Wilson L , Foster JW ( 1998 ) A low pH - inducible , PhoPQ - dependent acid tolerance response protects Salmonella typhimurium against inorganic acid stress .
+Zwir I , Shin D , Kato A , Nishino K , Latifi T , et al. ( 2005 ) Dissecting the PhoP regulatory network of Escherichia coli and Salmonella enterica .
+Proc Natl Acad Sci U S A 102 : 2862 -- 2867 .
+Kato A , Groisman EA ( 2008 ) The PhoQ/PhoP regulatory network of Salmonella enterica .
+Adv Exp Med Biol 631 : 7 -- 21 .
+Prost LR , Sanowar S , Miller SI ( 2007 ) Salmonella sensing of anti - microbial mechanisms to promote survival within macrophages .
+Beier D , Gross R ( 2006 ) Regulation of bacterial virulence by two - component systems .
+Current Opinion in Microbiology 9 : 143 -- 152 .
+Brodsky IE , Gunn JS ( 2005 ) A bacterial sensory system that activates resistance to innate immune defenses : potential targets for antimicrobial therapeutics .
+Derzelle S , Turlin E , Duchaud E , Pages S , Kunst F , et al. ( 2004 ) The PhoP - PhoQ Two - Component Regulatory System of Photorhabdus luminescens Is Essential for Virulence in Insects .
+Llama - Palacios A , Lopez - Solanilla E , Poza - Carrion C , Garcia - Olmedo F , Rodriguez - Palenzuela P ( 2003 ) The Erwinia chrysanthemi phoP - phoQ operon plays an important role in growth at low pH , virulence and bacterial survival in plant tissue .
+Flego D , Marits R , Eriksson AR , Koiv V , Karlsson MB , et al. ( 2000 ) A twocomponent regulatory system , pehR - pehS , controls endopolygalacturonase production and virulence in the plant pathogen Erwinia carotovora subsp .
+Mol Plant Microbe Interact 13 : 447 -- 455 .
+Waldburger CD , Sauer RT ( 1996 ) Signal detection by the PhoQ sensortransmitter .
+Characterization of the sensor domain and a response - impaired mutant that identifies ligand - binding determinants .
+Cho US , Bader MW , Amaya MF , Daley ME , Klevit RE , et al. ( 2006 ) Metal Bridges between the PhoQ Sensor Domain and the Membrane Regulate Transmembrane Signaling .
+Journal of Molecular Biology 356 : 1193 -- 1206 .
+Cheung J , Bingman CA , Reyngold M , Hendrickson WA , Waldburger CD ( 2008 ) Crystal structure of a functional simer of the PhoQ sensor domain .
+Goldberg SD , Soto CS , Waldburger CD , Degrado WF ( 2008 ) Determination of the physiological dimer interface of the PhoQ sensor domain .
+Umbarger HE ( 1956 ) Evidence for a negative - feedback mechanism in the biosynthesis of isoleucine .
+Pardee AB , Yates RA ( 1956 ) Control of pyrimidine biosynthesis in Escherichia coli by a feed - back mechanism .
+Becskei A , Serrano L ( 2000 ) Engineering stability in gene networks by autoregulation .
+Savageau MA ( 1974 ) Comparison of classical and autogenous systems of regulation in inducible operons .
+Rosenfeld N , Elowitz MB , Alon U ( 2002 ) Negative autoregulation speeds the response times of transcription networks .
+Minagawa S , Ogasawara H , Kato A , Yamamoto K , Eguchi Y , et al. ( 2003 ) Identification and Molecular Characterization of the Mg2 + Stimulon of Escherichia coli .
+Monsieurs P , Keersmaecker SD , Navarre WW , Bader MW , Smet FD , et al. ( 2005 ) Comparison of the PhoPQ Regulon in Escherichia coli and Salmonella typhimurium .
+Journal of Molecular Evolution 60 : 462 -- 474 .
+Kato A , Tanabe H , Utsumi R ( 1999 ) Molecular Characterization of the PhoP - PhoQ Two - Component System in Escherichia coli K - 12 : Identification of Extracellular Mg2 + - Responsive Promoters .
+Miyashiro T , Goulian M ( 2007 ) Stimulus - dependent differential regulation in the Escherichia coli PhoQ PhoP system .
+Proc Natl Acad Sci U S A 104 : 16305 -- 16310 .
+Miyashiro T , Goulian M ( 2007 ) Single - cell analysis of gene expression by fluorescence microscopy .
+Hemm MR , Paul BJ , Schneider TD , Storz G , Rudd KE ( 2008 ) Small membrane proteins found by comparative genomics and ribosome binding site models .
+Kall L , Krogh A , Sonnhammer EL ( 2004 ) A combined transmembrane topology and signal peptide prediction method .
+Jain E , Bairoch A , Duvaud S , Phan I , Redaschi N , et al. ( 2009 ) Infrastructure for the life sciences : design and implementation of the UniProt website .
+Krogh A , Larsson B , von Heijne G , Sonnhammer EL ( 2001 ) Predicting transmembrane protein topology with a hidden Markov model : application to complete genomes .
+Feilmeier BJ , Iseminger G , Schroeder D , Webber H , Phillips GJ ( 2000 ) Green fluorescent protein functions as a reporter for protein localization in Escherichia coli .
+Drew D , Sjostrand D , Nilsson J , Urbig T , Chin CN , et al. ( 2002 ) Rapid topology mapping of Escherichia coli inner - membrane proteins by prediction and PhoA / GFP fusion analysis .
+Proc Natl Acad Sci U S A 99 : 2690 -- 2695 .
+Santini CL , Bernadac A , Zhang M , Chanal A , Ize B , et al. ( 2001 ) Translocation of jellyfish green fluorescent protein via the Tat system of Escherichia coli and change of its periplasmic localization in response to osmotic up - shock .
+Thomas JD , Daniel RA , Errington J , Robinson C ( 2001 ) Export of active green fluorescent protein to the periplasm by the twin - arginine translocase ( Tat ) pathway in Escherichia coli .
+Rose RW , Bruser T , Kissinger JC , Pohlschroder M ( 2002 ) Adaptation of protein secretion to extremely high - salt conditions by extensive use of the twin - arginine translocation pathway .
+Lesley JA , Waldburger CD ( 2001 ) Comparison of the Pseudomonas aeruginosa and Escherichia coli PhoQ sensor domains : evidence for distinct mechanisms of signal detection .
+Karimova G , Pidoux J , Ullmann A , Ladant D ( 1998 ) A bacterial two - hybrid system based on a reconstituted signal transduction pathway .
+Proc Natl Acad Sci U S A 95 : 5752 -- 5756 .
+Perez JC , Shin D , Zwir I , Latifi T , Hadley TJ , et al. ( 2009 ) Evolution of a bacterial regulon controlling virulence and Mg ( 2 + ) homeostasis .
+Eguchi Y , Itou J , Yamane M , Demizu R , Yamato F , et al. ( 2007 ) B1500 , a small membrane protein , connects the two - component systems EvgS/EvgA and PhoQ/PhoP in Escherichia coli .
+Proc Natl Acad Sci U S A 104 : 18712 -- 18717 .
+Winfield MD , Groisman EA ( 2004 ) Phenotypic differences between Salmonella and Escherichia coli resulting from the disparate regulation of homologous genes .
+Proc Natl Acad Sci U S A 101 : 17162 -- 17167 .
+Alix E , Blanc - Potard AB ( 2009 ) Hydrophobic peptides : novel regulators within bacterial membrane .
+Baba T , Ara T , Hasegawa M , Takai Y , Okumura Y , et al. ( 2006 ) Construction of Escherichia coli K - 12 in - frame , single - gene knockout mutants : the Keio collection .
+Cherepanov PP , Wackernagel W ( 1995 ) Gene disruption in Escherichia coli : TcR and KmR cassettes with the option of Flp - catalyzed excision of the antibiotic - resistance determinant .
+Miller JH ( 1992 ) A short course in bacterial genetics : a laboratory manual and handbook for Escherichia coli and related bacteria .
+PlainviewN.Y. : Cold Spring Harbor Laboratory Press .
+Siryaporn A , Goulian M ( 2008 ) Cross - talk suppression between the CpxA - CpxR and EnvZ - OmpR two - component systems in E. coli .
+Morona R , Reeves P ( 1982 ) The tolC locus of Escherichia coli affects the expression of three major outer membrane proteins .
+Karimova G , Ullmann A , Ladant D ( 2000 ) A bacterial two - hybrid system that exploits a cAMP signaling cascade in Escherichia coli .
+Larkin MA , Blackshields G , Brown NP , Chenna R , McGettigan PA , et al. ( 2007 ) Clustal W and Clustal X version 2.0 .

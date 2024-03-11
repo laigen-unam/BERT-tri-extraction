@@ -1,0 +1,373 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+library(ggplot2)
+library(dplyr)
+library(stringr)
+library(ggsci)
+library(RColorBrewer)
+library(GGally)
+```
+
+```{r}
+getwd()
+```
+
+
+## Reading the original file (no curation)
+
+```{r}
+#file <- read.csv("../../01_preprocessing/data/ECO-data-set-dl-training-test-clean-unique-sentences-rCFMC_v3.tsv", #header= TRUE, sep = "\t")
+
+```
+
+## Reading eco file  
+```{r}
+file_eco <- read.csv("../../01_preprocessing/results/ECO/curated_master_dataset/ECO_dataset_master_curated_dataset_v2.tsv", header= TRUE, sep = "\t")
+```
+
+## Reading salmonella file 
+
+```{r}
+file_salmo <- read.csv("../../../Data-sets/STM-data-set-dl-sentence-effect.tsv", header = TRUE, sep = "\t")
+```
+
+
+## Counting eco unique tfs and regulated genes
+
+```{r}
+count_of_eco_regulators<- length(unique(file_eco$REGULATOR))
+print(count_of_eco_regulators)
+count_of_eco_regulated<- length(unique(file_eco$REGULATED))
+print(count_of_eco_regulated)
+```
+
+## Counting salmonela unique tfs and regulated genes
+
+```{r}
+count_of_salmo_regulators<- length(unique(file_salmo$REGULATOR))
+print(count_of_salmo_regulators)
+count_of_salmo_regulated<- length(unique(file_salmo$REGULATED))
+print(count_of_salmo_regulated)
+```
+
+# Bar plot visualization
+
+## Generating the dataframe needed for barplot visualization 
+
+```{r}
+eco_norm_effect_df<- data.frame(table(file_eco$NORMALIZED_EFFECT))
+colnames(eco_norm_effect_df)<- c("effect","examples")
+```
+
+```{r}
+salmo_norm_effect_df <- data.frame(table(file_salmo$EfectoNormalizado))
+colnames(salmo_norm_effect_df)<- c("effect","examples")
+```
+
+# Setting a color blind friendly pallette
+```{r}
+effect_unique<- unique(eco_norm_effect_df$effect)
+```
+
+```{r}
+# Function to generate color mapping dataframe
+get_color_mapping <- function(categories) {
+  colors <- brewer.pal(length(categories), "Dark2")
+  color_mapping_df <- data.frame(
+    effect = categories,
+    color = colors
+  )
+  return(color_mapping_df)
+}
+
+# Generate color mapping based on the Dark2 palette
+color_mapping <- get_color_mapping(effect_unique)
+
+# Merge color mapping with dataframes
+eco_df1 <- merge(eco_norm_effect_df, color_mapping, by = "effect")
+salmo_df1 <- merge(salmo_norm_effect_df, color_mapping, by = "effect")
+
+```
+
+## Sorting the categories 
+
+```{r}
+eco_df1_sorted <- eco_df1[order(-eco_df1$examples), ]
+salmo_df1_sorted <- salmo_df1[order(-salmo_df1$examples), ]
+```
+
+
+
+## Creating the barplot for eco
+
+```{r}
+
+ggplot(eco_df1_sorted, aes(x=reorder(effect, -examples), y=examples,fill=color)) +
+  geom_bar(stat="identity") +
+  #ggtitle("Relation Distribution of Entities") +
+  xlab("Category") +
+  ylab("Number of Examples") + 
+  theme(legend.position = "none", plot.title = element_text(hjust = 0.5)) +
+  scale_fill_identity() +
+  #scale_fill_brewer(palette= "Dark2") +
+  geom_text(aes(label=examples), vjust=0)
+
+```
+
+```{r}
+ggsave("../results/computers_in_biology_paper/eco/eco_relation_distribution_of_entities_for_paper_v4.jpeg",device ="jpeg", dpi =300)
+```
+## Creating the barplot for salmonella
+
+```{r}
+ggplot(salmo_df1_sorted, aes(x=reorder(effect, -examples), y=examples,fill=color)) +
+  geom_bar(stat="identity") +
+  #ggtitle("Relation Distribution of Entities") +
+  xlab("Category") +
+  ylab("Number of Examples") + 
+  theme(legend.position = "none", plot.title = element_text(hjust = 0.5)) +
+  scale_fill_identity() +
+  # Dark2 is color blind friendly palette
+  geom_text(aes(label=examples), vjust=0)
+
+```
+
+```{r}
+ggsave("../results/computers_in_biology_paper/salmo_264/salmo_relation_distribution_of_entities_for_paper_v4.jpeg",device ="jpeg", dpi =300)
+```
+
+
+# Sentence length distribution
+
+## Sentence length stats 
+
+```{r}
+file_eco$sentence_length<- str_length(file_eco$SENTENCE)
+summary(file_eco$sentence_length)
+```
+
+```{r}
+file_salmo$sentence_length<- str_length(file_salmo$SENTENCE)
+summary(file_salmo$sentence_length)
+```
+
+
+## Generating the dataframe needed for histogram visualization of eco 
+
+```{r}
+# Color-blind friendly 
+color_palette <- brewer.pal(8, "Set1")
+
+```
+
+```{r}
+library(RColorBrewer)
+display.brewer.pal(n = 8, name = "Set1")
+```
+
+
+```{r}
+ggplot(file_eco, aes(x=sentence_length)) + 
+  geom_histogram(color=color_palette[7], fill= alpha(color_palette[2], 0.7),aes(y=(..count..)/sum(..count..)),binwidth=50) +
+  xlab("Sentence Length") +
+  ylab("Percentage of Dataset") +
+  theme(plot.title = element_text(hjust = 0.5)) +
+  scale_y_continuous(labels = scales::percent)
+```
+
+```{r}
+ggsave("../results/computers_in_biology_paper/eco/eco_sentence_length_distribution_outliers_for_paper_v3.jpg", device = "jpeg", dpi=300)
+```
+
+## Generating the dataframe needed for histogram visualiztion of salmonella
+
+
+```{r}
+ggplot(file_salmo, aes(x=sentence_length)) + 
+  geom_histogram(color=color_palette[7], fill= alpha(color_palette[2], 0.7),aes(y=(..count..)/sum(..count..)),binwidth=50) +
+  xlab("Sentence Length") +
+  ylab("Percentage of Dataset") +
+  theme(plot.title = element_text(hjust = 0.5)) +
+  scale_y_continuous(labels = scales::percent)
+```
+
+```{r}
+ggsave("../results/computers_in_biology_paper/salmo_264/salmo_sentence_length_distribution_outliers_for_paper_v3.jpg", device = "jpeg", dpi=300)
+```
+
+
+
+
+## Zooming into the large distribution by ignoring greater than 1000 elements 
+
+```{r}
+salmo_less_1500<- file_salmo %>% filter(sentence_length<1500)
+
+```
+
+
+```{r}
+summary(salmo_less_1500$sentence_length)
+```
+
+```{r}
+ggplot(salmo_less_1500, aes(x=sentence_length)) + 
+  geom_histogram(color=color_palette[7], fill= alpha(color_palette[2], 0.7),aes(y=(..count..)/sum(..count..)),binwidth=50) +
+  xlab("Sentence Length") +
+  ylab("Percentage of Dataset") +
+  theme(plot.title = element_text(hjust = 0.5)) +
+  scale_y_continuous(labels = scales::percent)
+```
+
+
+```{r}
+ggsave("../results/computers_in_biology_paper/salmo_264/salmo_sentence_length_distribution_no_outliers_less_than_1500_for_paper_v3.jpg", device = "jpeg", dpi=300)
+```
+
+
+## Counting different PMID in the sentence dataset for ecoli
+
+```{r}
+eco_different_pmids_count<- length(unique(file_eco$PMID))
+print(eco_different_pmids_count)
+```
+
+## Counting different PMID in the sentence dataset for salmonella
+
+```{r}
+salmo_different_pmids_count<- length(unique(file_salmo$PMID))
+print(salmo_different_pmids_count)
+```
+
+
+## List of different ecoli PMIDs 
+```{r}
+eco_list_of_unique_pmids<- unique(file_eco$PMID)
+print(eco_list_of_unique_pmids)
+
+```
+
+## List of different salmonella PMIDs 
+```{r}
+salmo_list_of_unique_pmids<- unique(file_salmo$PMID)
+print(salmo_list_of_unique_pmids)
+
+```
+
+## Different pmids viz 
+
+### For ecoli 
+```{r}
+eco_pmid_df<- data.frame(table(file_eco$PMID))
+colnames(eco_pmid_df) <- c("pmid","examples")
+eco_pmid_df<- eco_pmid_df[order(eco_pmid_df$examples,decreasing = TRUE),]
+```
+
+### For salmonella
+
+```{r}
+salmo_pmid_df<- data.frame(table(file_salmo$PMID))
+colnames(salmo_pmid_df) <- c("pmid","examples")
+salmo_pmid_df<- salmo_pmid_df[order(salmo_pmid_df$examples,decreasing = TRUE),]
+```
+
+
+
+## Palette creation for 119 colours of ecoli and 264 of salmo, always color-blind
+
+```{r}
+brewer.pal.info
+```
+
+
+```{r}
+colors_119<- colorRampPalette(c("red","green", "blue"),space="Lab")(eco_different_pmids_count) 
+```
+
+```{r}
+eco_colour_count<- eco_different_pmids_count 
+salmo_colour_count <- salmo_different_pmids_count
+
+#get_palette_accent<- colorRampPalette(brewer.pal(12,"Accent"))(colour_count)
+#get_palette_spectral<- colorRampPalette(brewer.pal(11,"Spectral"))(colour_count)
+#get_palette_blues <- colorRampPalette(brewer.pal(9,"Blues"))(colour_count)
+#get_palette_dark2<- colorRampPalette(brewer.pal(8,"Dark2"))(colour_count)
+#get_palette_set2<- colorRampPalette(brewer.pal(8,"Set2"))(colour_count)
+get_eco_palette_paired<- colorRampPalette(brewer.pal(12,"Paired"))(eco_colour_count)
+get_salmo_palette_paired<-colorRampPalette(brewer.pal(12,"Paired"))(salmo_colour_count)
+
+```
+
+
+## Creating the barplot for ecoli 
+
+```{r}
+ggplot(eco_pmid_df, aes(x=reorder(pmid,examples), y=examples,fill=pmid)) +
+  geom_bar(stat="identity") +
+  theme_gray() +
+  #ggtitle("PMID Distribution of Sentences") +
+  xlab("PMID") +
+  ylab("Percentage of Dataset") + 
+  theme(legend.position = "none", plot.title = element_text(hjust = 0.5), axis.text.y = element_text(size=4)) +
+  coord_flip() +
+  scale_y_continuous(labels = scales::percent_format(accuracy = 1, scale = .1)) +
+  scale_fill_manual(values= get_eco_palette_paired)
+```
+
+```{r}
+ggsave("../results/computers_in_biology_paper/eco/eco_pmid_distribution_of_sentences_for_paper_v1.jpg",device="jpeg",dpi=300)
+```
+
+## Creating the barplot for salmonella 
+
+```{r}
+ggplot(salmo_pmid_df, aes(x=reorder(pmid,examples), y=examples,fill=pmid)) +
+  geom_bar(stat="identity") +
+  theme_gray() +
+  #ggtitle("PMID Distribution of Sentences") +
+  xlab("PMID") +
+  ylab("Percentage of Dataset") + 
+  theme(legend.position = "none", plot.title = element_text(hjust = 0.5), axis.text.y = element_text(size=3)) +
+  coord_flip() +
+  scale_y_continuous(labels = scales::percent_format(accuracy = 1, scale = .1)) +
+  scale_fill_manual(values= get_salmo_palette_paired)
+```
+
+
+
+```{r}
+ggsave("../results/computers_in_biology_paper/salmo_264/salmo_pmid_distribution_of_sentences_for_paper_v1.jpg",device="jpeg",dpi=300)
+```
+
+# Parallel coordinate plot for biolinkbert sweep 
+
+
+```{r}
+file_biolinkbert <- read.csv("../../03_visualization/data/biolinkbert_sweep_for_parallel_coords_viz.csv", header = TRUE)
+
+```
+
+```{r}
+file_biolinkbert$Name <- as.factor(file_biolinkbert$Name)
+str(file_biolinkbert)
+```
+
+
+```{r}
+ggparcoord(file_biolinkbert,
+    columns = 1:6,groupColumn = "validation_f1_epoch",showPoints = TRUE, splineFactor = TRUE
+    ) 
+```
+
+
+```{r}
+parcoords(file_biolinkbert)
+```
+
+
+
+

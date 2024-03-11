@@ -1,0 +1,277 @@
+JOURNAL OF BACTERIOLOGY , Dec. 1996 , p. 7099 -- 7105 Vol .
+178 , No. 24 0021 - 9193/96 / $ 04.00 0 Utilization of Orotate as a Pyrimidine Source by Salmonella typhimurium and Escherichia coli Requires the Dicarboxylate Transport Protein Encoded by dctA KRISTIAN E. BAKER , 1 † KATRINA P. DITULLIO , 1 JAN NEUHARD , 2 AND ROD A. KELLN 1 * Department of Chemistry , University of Regina , Regina , Saskatchewan , Canada , 1 and Department of Biological Chemistry , Institute of Molecular Biology , University of Copenhagen , Denmark 2 Mutants deficient in orotate utilization ( initially termed out mutants ) were isolated by selection for resistance to 5 - fluoroorotate ( FOA ) , and the mutations of 12 independently obtained isolates were found to map at 79 to 80 min on the Salmonella typhimurium chromosome .
+A gene complementing the mutations was cloned and sequenced and found to possess extensive sequence identity to characterized genes for C4 - dicarboxylate transport ( dctA ) inRhizobium species and to the sequence inferred to be the dctA gene of Escherichia coli .
+The mutants were unable to utilize succinate , malate , or fumarate as sole carbon source , an expected phenotype of dctA mutants , and introduction of the cloned DNA resulted in restoration of both C4 - dicarboxylate and orotate utilization .
+Further , succinate was found to compete with orotate for entry into the cell .
+The S. typhimurium dctA gene encodes a highly hydrophobic polypeptide of 45.4 kDa , and the polypeptide was found to be enriched in the membrane fraction of minicells harboring a dctA plasmid .
+The DNA immediately upstream of the deduced 35 region contains a putative cyclic AMP - cyclic AMP receptor protein complex binding site , thus affording an explanation for the more effective utilization of orotate with glycerol than with glucose as carbon source .
+The E. coli dctA gene was cloned from a lambda vector and shown to complement C4 - dicarboxylate and orotate utilization in FOA - resistant mutants of both E. coli and S. typhimurium .
+The accumulated results demonstrate that the dctA gene product , in addition to transporting C4 - dicarboxylates , mediates the transport of orotate , a cyclic monocarboxylate .
+In Salmonella typhimurium and Escherichia coli , six enzymic reactions are involved in de novo pyrimidine nucleotide biosynthesis to form UMP , the ordered sequence of the unlinked genes for the enzymes being carAB and pyrBI , - C, - D , - E , and - F. Wild - type cells are not readily permeable to intermediates of the pyrimidine biosynthetic pathway , with the exception of orotate , which is formed from dihydroorotate by the action of dihydroorotate dehydrogenase ( pyrD ) .
+Orotate satisfies the pyrimidine requirement of carAB , pyrBI , pyrC , orpyrD mutants and is effective at low to moderate concentrations , provided glycerol is used as the carbon source ( 29 , 39 , 40 ) .
+Accordingly , 5 - fluoroorotate ( FOA ) is a potent growth inhibitor in glycerol minimal - medium and has been employed for the selection of pyrH ( UMP kinase ) mutants of both S. typhimurium ( 40 ) and E. coli ( 15 ) .
+It has been observed that orotate is growth - rate limiting for carAB and pyrBI mutants in a concentration - dependent manner , and culturing cells at varying orotate concentrations has been used as a means to establish partial pyrimidine starvation for purposes of studying the impact of pyrimidine nucleotide limitation on specific gene expression and general aspects of macromolecular synthesis ( 3 , 5 , 27 , 36 , 38 ) .
+In contrast , reducing the concentration of uracil serves to lower only the growth yield , not the growth - rate ( 36 ) , and indicates that the transport of orotate into the cell represents a rate - limiting step .
+Although carbamoylaspartate is not utilized by wild - type cells , carbamoylaspartate ( ureidosuccinate ) - University of Regina , Regina , Saskatchewan , Canada , S4S OA2 .
+† Present address : The Terry Fox Laboratory , Vancouver , B.C. , Canada , V5Z 1L3 .
+permeable mutants ( usp ) have been isolated ( 21 , 34 ) , and pyrB usp double mutants are able to grow with carbamoylaspartate or orotate as sole pyrimidine source ; it has not been determined if a concentration - dependent growth - rate pertains to the utilization of carbamoylaspartate .
+As part of our continuing research program on pyrimidine metabolism and its regulation , we initiated an investigation on the biochemical and genetic characterization of orotate utilization in S. typhimurium with some related studies on E. coli .
+This investigation ultimately led to establishing the involvement of the dicarboxylate transport system in orotate utilization and identifying the product of the dctA gene in mediating the entry of orotate into the cell .
+MATERIALS AND METHODS Bacterial strains and plasmid vectors .
+Bacterial strains used were derivatives of either S. typhimurium LT2 or E. coli K12 and are listed along with their relevant genotypes in Table 1 .
+Plasmid vectors utilized as cloning or expression vehicles are also listed in Table 1 .
+Lennox broth ( 6 ) was used as the complex medium .
+Minimal medium A has been described previously ( 7 ) ; it contained either 0.2 % glucose or 0.3 % glycerol or , when tested as carbon sources , C4 - dicarboxylates at 0.2 % .
+Unless otherwise indicated , media were supplemented with the following , as required : casamino - acids , 0.2 % ; individual amino - acids , 50 g/ml ; thiamine , 2 g/ml ; orotate , 50 g/ml ; carbamoylaspartate , 100 g/ml ; uracil , 25 g/ml ; FOA , 20 g/ml ; 5 - bromo - 4-chloro - 3-indolyl - - D - galactopyranoside ( X - Gal ) , 50 g/ml ; and isopropyl - - D - thiogalactopyranoside ( IPTG ) , 10 g/ml .
+When used , antibiotics were added at the following final concentrations : ampicillin ( Ap ) , 100 g/ml ; tetracycline ( Tc ) , 20 g/ml ; kanamycin ( Km ) , 30 g/ml ; and chloramphenicol ( Cm ) , 30 g/ml .
+Solid media were prepared by the addition of agar to 1.5 % .
+Cultures were routinely grown at 37 C. Liquid cultures were incubated on a shaker operating at 250 rpm , and growth was monitored by measuring cell turbidity with a Klett - Summerson colorimeter .
+Chemical mutagenesis was accomplished by treating bacterial cells at a density of 1 10 8 to 2 10 8 cells per ml with N - methyl - N - nitro - Nnitrosoguanidine at 0.1 mg/ml ( 28 ) .
+Following mutagenesis , cells were pheno - 7099 7100 BAKER ET AL. .
+Bacterial strains and plasmid vectors Strain Genotype and relevant properties Source or reference Salmonella typhimurium LT2 AK3108 zhh - 3108 : : Tn10 ( 16 17 ) trpC2 metA22 metE551 his - 6165 ilv - 452 galE496 fla - 66 SGSC a rpsL120 xyl - 404 hsdL6 hsdSA29 malB/F 112 ( E. coli ) AK3109 As for AK3108 , with the exception zhh - 3109 : : Tn10 ( 16 17 ) SGSC KR1001 Wild - type LT2 LC b KR1312 pyrB137 SGSC KR1488 pyrB655 usp - 2 34 KR1562 metA22 metE55 galE496 rpsL120 xyl - 404 hsdL6 hsdSA29 LC KR1594 pyrB655 usp - 2 out - 11 c This study KR1596 pyrB655 usp - 2 zhh : : Tn10 ( Tn10 and out , 80 % linked by phage P22 transduction ) This study KR1647 pyrB137 usp - 2 This study KR1649 pyrB137 usp - 2 out - 11 This study Escherichia coli K12 BD1854 minA minB his thi lac rpsL tonA xyl rpsL mtl man B. Diderichsen KUR1349 araD139 lacU169 rpsL thi pyrB usp - 4 LC KUR1351 KUR1349 out - 2 This study NM522 ( lac - pro ) supE thi hsd 5/F proAB lacI q Z M15 M. Kilstrup Plasmid vectors d pBR328 Ap r Tc r Cm r 1 pRAK82 Ap r ( lacZ translational fusion vector ) 17 pUC18/19 Ap r J. Messing pWSK29 Ap r 37 pWSK129 Km r 37 a SGSC , Salmonella Genetic Stock Center .
+c The gene symbol , out , is used in reference to orotate utilization and is synonymous with dctA .
+d Ap r , ampicillin resistance ; Cm r , chloramphenicol resistance ; Km r , kanamycin resistance ; Tc r , tetracycline resistance .
+typically expressed for 24 h in minimal - medium prior to plating on selective media .
+Bacteriophage P22HT105/int -201 ( 10 ) was used for all transductions with S. typhimurium .
+In some instances , 10 mM EGTA was added to the plating medium to limit lysogeny of transductants .
+The usp marker was transferred by plating the transduced culture of a pyrB recipient on glycerolminimal medium with carbamoylaspartate as sole pyrimidine source .
+Transfer of an out ( dctA ) mutation to a usp strain was selected by plating on the same basic medium , but with the addition of FOA .
+Methods for transposon technology with Tn10 were as previously reported ( 27 ) .
+Conjugations were carried out as described previously ( 15 ) .
+Cloning of the S. typhimurium out ( dctA ) gene .
+A plasmid library of S. typhimurium DNA constructed from 8 - to 15 - kbp Sau3AI fragments ligated into the BamHI site of pBR328 ( 9 ) was obtained from C. G. Miller .
+A P22 lysate was prepared on the collection of transformants containing the pBR328 library and used to isolate plasmids containing the out locus by transducing KR1594 , selecting for Out on minimal - medium supplemented with orotate and Cm .
+All other recombinant plasmids containing S. typhimurium DNA were initially isolated from E. coli and then transferred into restriction - minus S. typhimurium KR1562 ( 16 ) as an intermediate host before transformation of the final S. typhimurium recipient .
+The methods used were primarily adapted from the manual of Sambrook et al. ( 31 ) .
+Procedures drawn from this manual include chromosomal and plasmid DNA isolations ; restriction endonuclease digestion and ligation of DNA ; DNA sequencing of alkaline - denatured templates ; transformation ; mung bean nuclease treatment ; and agarose gel electrophoresis .
+To sequence the BstEII - NruI fragment of the primary clone , two sets of nested deletion subclones ( one pertaining to each DNA strand ) were generated by using the Erase - a-Base System ( Promega ) and with pUC19 as the vector .
+Sequencing was carried out as a service by the University Core DNA Services , University of Calgary , with an Applied Biosystems 373A automated DNA sequencer .
+DNA and protein sequence comparison searches utilized the database of GenBank and the BLAST program .
+Analysis of plasmid - encoded polypeptides .
+Plasmids were transformed into the minicell - producing strain BD1854 , and isolated minicells were incubated in the presence of [ 35 S ] methionine ( 11 ) .
+The samples were then fractionated as follows ( 4 ) : ( i ) total polypeptides were extracted by incubating the labeled minicells in sodium dodecyl sulfate ( SDS ) sample buffer ( 50 mM Tris - HCl , pH 6.8 , 10 % glycerol , 2 % SDS , 5 % mercaptoethanol ) for 60 min at 37 C ; and ( ii ) the crude membrane fractions were obtained by first treating the minicells with 1 % lysozyme and 10 mM EDTA for 30 min at room temperature , followed by centrifugation to pellet the minicells .
+After resuspension in 30 mM Tris - HCl ( pH 8.0 ) , the samples were sonicated and then centrifuged for 60 min at 48,000 g at 2 C .
+The pellets were resuspended in SDS sample buffer and incubated at 37 C for 60 min prior to electrophoresis .
+Labeled polypeptides were separated by SDS - polyacrylamide gel electrophoresis ( PAGE ) , and after the gel was dried , the positions of the labeled bands were located by autoradiography .
+Mapping of the transcriptional start site .
+Total cellular RNA was extracted from exponentially growing cells of KR1312/pKAT206 as described previously ( 35 ) .
+Primer extension analysis of the 5 end of the out ( dctA ) transcript was carried out according to Frick et al. ( 7 ) with Moloney murine leukemia virus reverse transcriptase and as the primer , a 24 - mer oligonucleotide ( 5 CAGAGA GGTTTTCATAGGGTGTCC3 ) complementary to the last 9 nucleotides of the leader mRNA and the first 5 codons ( residues 371 to 394 ; Fig. 2 ) .
+Extension products were resolved on a 6 % polyacrylamide -- 7 M urea gel alongside a DNA sequence ladder .
+Nucleotide sequence accession number .
+The sequence of the 2,747 - bp BstEII - NruI DNA fragment from S. typhimurium has been submitted to the EMBL databank and assigned no .
+The accession number of the E. coli DNA sequence containing the dctA gene is U00039 .
+RESULTS Growth of S. typhimurium on orotate as pyrimidine source .
+The ability of a pyrimidine auxotroph blocked at the second step of de novo pyrimidine biosynthesis to utilize orotate as sole pyrimidine source in liquid culture was assessed .
+Table 2 lists the doubling times of KR1312 ( pyrB137 ) in minimal medium supplemented with different concentrations of orotate and with either glycerol or glucose as carbon source .
+With glycerol , growth occurred at a concentration as low as 15 g / ml , and orotate appeared to be growth - rate limiting at concentrations below 75 g/ml , but above this concentration , the doubling time was similar to that observed with uracil .
+In contrast , when glucose was the carbon source , orotate at 50 g/ml or greater was required for growth , and even when it was supplied at 200 g/ml , the growth - rate was less than that with uracil ( Table 2 ) .
+Isolation of out mutants .
+Mutants defective in orotate utili - VOL .
+178 , 1996 OROTATE UTILIZATION BY S. TYPHIMURIUM AND E. COLI 7101 Carbon source Glycerol Glucose TABLE 2 .
+Growth of S. typhimurium on orotate as pyrimidine source a Pyrimidine supplement ( g/ml ) Doubling time ( min ) Orotate 15 315 30 135 45 87 60 72 75 57 100 54 Uracil 25 54 Orotate 50 270 75 228 100 150 150 75 200 60 Uracil 25 40 a KR1312 was grown in minimal - medium with the carbon source and pyrimidine supplement indicated .
+zation ( out mutants ) were isolated on glycerol minimal - medium on the basis of resistance to the analog FOA .
+The toxicity of FOA depends on initial conversion to 5 - fluoroUMP catalyzed by the pyrimidine de novo biosynthesis enzymes , orotate phosphoribosyltransferase ( pyrE ) and OMP decarboxylase ( pyrF ) .
+Hence , pyrE and pyrF mutants are resistant to FOA and require preformed pyrimidines ( e.g. , uracil ) for growth .
+However , by using a pyrimidine auxotroph deficient in aspartate transcarbamoylase ( pyrBI ) but permeable to carbamoylaspartate ( usp mutation ) and selecting for resistance to FOA on glycerol medium with carbamoylaspartate present as pyrimidine source , pyrE and pyrF mutants are precluded .
+A chemically mutagenized culture of KR1488 was plated on glycerol minimal - medium containing carbamoylaspartate and FOA ( 20 g/ml ) .
+Several FOA r isolates were found to have lost the ability to use orotate as pyrimidine source ( i.e. , Out ) .
+These mutants failed to grow with orotate at 200 g/ml on either glucose or glycerol , thus showing that in wild - type cells the same uptake system was operative with either carbon source .
+An isolate , KR1594 ( out - 11 ) , was retained as the representative Out strain for use in further studies .
+Transposon technology ( 18 ) was used to construct a derivative ( KR1596 ) in which Tn10 and out cotransduced at a frequency of 75 to 80 % .
+A lysate prepared on KR1596 was used to transduce the Out mutants ( 12 individual isolates ) to Tc r .
+In all cases , at least 80 % of the transductants acquired the ability to grow with orotate as pyrimidine source .
+Time - of - entry experiments and gradient - oftransmission matings with various S. typhimurium Hfr strains served to locate the out gene and the closely linked Tn10 insertion near xyl on the S. typhimurium chromosome ( data not shown ) .
+Pulsed - field gel electrophoresis of XbaI - and BlnIdigested chromosomal DNA was used to refine the position of the Tn10 insertion to approximately 50 kbp counterclockwise of XbaI cleavage site 15 ( 22 ) , thus placing it counterclockwise of xyl at 78 to 79 centisomes on the current linkage map ( 32 ) .
+As well , transductions with lysates prepared on reference insertion strains , AK3108 ( zhh - 3108 : : Tn10 ) and AK3109 ( zhh - 3109 : : Tn10 ) , exhibited 15 and 12 % cotransduction of out and the Tn10 insertion , respectively .
+Cloning of the out ( dctA ) gene .
+Putative out plasmids were isolated from transductants obtained by transducing a pBR328 plasmid library of S. typhimurium DNA to KR1594 ( out - 11 ) selecting for Out and Cm r on minimal glycerol or glucose medium containing orotate at 50 or 25 g/ml , respectively .
+The out plasmid , pKAT202 , obtained from the selection on glucose medium harbored a 7 - kbp insert , and the plasmid from the glycerol medium , pKEB100 , contained an 11 - kbp insert ( Fig. 1 ) .
+KR1594/pKAT202 grew on glucose - orotate but not on glycerol - orotate , whereas KR1594/pKEB100 grew on either medium .
+From pKAT202 and pKEB100 , several plasmid derivatives were constructed in order to localize the out gene within the cloned DNA .
+Original subcloning attempts were based on pUC19 as the vector but were discontinued when it was found that cells harboring pUC19 failed to grow on a medium in which glycerol was the carbon source .
+Cells containing either of the low - copy - number plasmids , pWSK29 or pWSK129 ( 37 ) , showed no impairment with glycerol , and these were subsequently chosen as vector systems .
+Subcloning of the 3.3 - kbp PstI 1 - NruI fragment ( Fig. 1 ) from pKAT202 to pWSK29 re - FIG. 1 .
+Structure and properties of specific plasmids .
+The thick solid line pertains to cloned S. typhimurium DNA present in the individual plasmids , and the lacZ DNA of pKAT206 is illustrated as a heavy broken line .
+The positions of various restriction sites are defined by the vertical dotted lines .
+The fusion of the indicated Sau3AI site into a BamHI site ( as per pKEB100 ) generates a BamHI site ( shown in parentheses ) .
+The abilities of the plasmids to complement the out ( dctA ) mutation of KR1594 are listed at the right .
+The sequenced DNA ( see Fig. 2 ) encompasses the BstEII - NruI fragment shown as a thick open line at the bottom , and the region corresponding to out ( dctA ) is indicated by crosshatching .
+sulted in complementation of the out mutation in KR1594 , and this construct was designated pKAT203 .
+Similarly , subcloning of a BamHI - NruI fragment from pKEB100 yielded the complementing plasmid pKEB104 .
+A construct ( pKEB106 ) containing the PstI 2 - NruI region from pKEB104 did not complement the out mutation , whereas pKEB108 , which harbors the BamHI - DraIII region , was able to do so .
+These observations indicated that the PstI 2 site was located within the out DNA ( Fig. 1 ) .
+The nucleotide sequence of 2,747 bp , encompassing the BstEII - NruI region of the S. typhimurium DNA in pKAT203 ( Fig. 1 ) , was determined and is presented in Fig. 2 .
+Two major open reading frames ( ORFs ) were identified : ORF1 , residues 380 to 1666 , and an apparently truncated gene , ORF2 , residues 1886 to 2747 .
+Since only ORF1 is found in the out pKEB108 , this sufficed to establish the corresponding DNA as specifying the out gene product .
+The encoded polypeptide of 428 amino - acids has a predicted molecular mass of 45,395 Da , and a hydropathy plot ( 20 ) showed it to be highly hydrophobic .
+A potential ribosome binding site ( residues 369 to 373 ) is located 6 bp upstream of the ATG start codon .
+Within the upstream region , more than one set of 35 and 10 elements for a putative promoter could be identified with hexamers corresponding to two possible 10 elements beginning at residues 315 and 318 ( only the 10 element at residue 318 is shown in Fig. 2 ; see Discussion ) .
+At positions 235 to 256 , a sequence resembling a cyclic AMP - cyclic AMP receptor protein complex ( cAMP - CRP ) binding site is found ; it is present in pKAT202 but not in pKEB100 , where the 5 limit is the Sau3AI site at position 280 .
+A region of hyphenated dyad symmetry centered at residues 1693 to 1694 is located 12 nucleotides downstream of the TAA stop codon and may represent a signal for termination of transcription .
+A search of the protein database at GenBank revealed that there was extensive sequence identity of the Out polypeptide with membrane - bound C4 - dicarboxylate permeases encoded by dctA in several Rhizobium species .
+Further , the search showed 94 % sequence identity to the deduced polypeptide of gene f428 of E. coli , which has been designated dctA through comparison with Rhizobium species and mapped to 79 min on the E. coli chromosome ( 33 ) .
+The out ( dctA ) gene product .
+In order to facilitate expression of out , the S. typhimurium DNA from pKEB108 ( Fig. 1 ) was subcloned to pUC18 in phase with the lac promoter , generating pKAT214 .
+Labeled proteins , total and membrane fractions , from minicells of strain BD1854 harboring pUC18 or pKAT214 were analyzed on SDS - PAGE ( Fig. 3 ) .
+Though the total polypeptide samples show several common bands ( e.g. , at 31 and 33 kDa ) , the pKAT214 sample ( lane 2 ) had a faint , somewhat diffuse signal at 34 kDa that was not seen with pUC18 ( lane 1 ) .
+Moreover , this band is highly enriched in the membrane fraction for pKAT214 ( lane 4 ) and absent from the pUC18 control ( lane 3 ) .
+Mapping of the transcriptional start site .
+The 1.4 - kbp PstI fragment from pKAT203 was subcloned to the translational fusion plasmid , pRAK82 , yielding pKAT206 ( Fig. 1 ) .
+Minimal glucose cultures of KR1312/pKAT206 were used as the source of total RNA , and the transcriptional start site was determined for out ( dctA ) by primer - extension analysis .
+As shown in Fig. 4 , transcriptional initiation was found to occur with GTP at position 327 , 7 bp downstream of the last nucleotide of the deduced 10 region ( Fig. 2 ) .
+Also observed was a weaker signal corresponding to a GTP at 11 bp downstream .
+However , since the constraints dictated by promoter - polymerase interactions appear to define that transcriptional initiation occurs 5 to 9 bp downstream from the 10 region ( 8 ) , this signal may represent FIG. 2 .
+Nucleotide sequence of the S. typhimurium out ( dctA ) region .
+The sequence of the nontranscribed strand is shown , with numbering starting from the 5 end .
+The putative cAMP - CRP binding site of out ( dctA ) is shown overlined , as are the deduced 35 and 10 elements , and the transcriptional start is shown by an asterisk followed by a dotted arrow .
+The inferred Shine - Dalgarno ( S.D. ) element is underlined , and a region of hyphenated dyad symmetry following the TAA termination codon is also underlined .
+Putative promoter elements pertaining to orf2 are similarly depicted .
+The Sau3AI site ( residues - 280 to 283 ) corresponds to the 5 end of the truncated clone in pKEB100 .
+a premature termination product of the reverse transcriptase reaction or a degradation product .
+Cloning of E. coli dctA .
+A recipient strain , KUR1351 ( out usp pyrB ) , was constructed as described above for the S. typhimurium out mutants .
+Transformation of KUR1351 with the S. typhimurium out plasmids restored the ability to grow with orotate as pyrimidine source .
+The lambda Charon 40 clone , Ec30 - 154 ( 33 ) , contains a 14.9 - kbp Sau3AI insert harboring the E. coli dctA ( f428 ) gene .
+Analysis of the sequence showed that the dctA gene is con - VOL .
+178 , 1996 OROTATE UTILIZATION BY S. TYPHIMURIUM AND E. COLI 7103 tained on a 2.5 - kbp PvuI fragment .
+This fragment was cloned into the PvuI site of pBR322 by selecting dctA transformants of KUR1351 on minimal glucose - Tc with orotate at 25 g/ml , thus yielding pKAT204 .
+When KUR1351/pKAT204 was plated on glycerol - versus glucose - orotate , growth on the glycerolbased medium was impaired , with only patchy growth being observed after 48 h of incubation , indicating that a high level of the dctA product was toxic to the cell .
+Upon transfer of pKAT204 to S. typhimurium KR1594 ( out - 11 ) , the ability of the cell to utilize orotate was reestablished .
+Phenotypic characteristics of out ( dctA ) strains .
+If out and dctA are identical genes , then the out mutants should also be affected in their ability to use dicarboxylates as carbon source , and further , dicarboxylates should be competitors for orotate uptake .
+Accordingly , KR1649 and KUR1351 were plated on minimal - medium with uracil as pyrimidine source and succinate , malate , or fumarate as carbon source ; strains KR1647 and KUR1349 were included as the out ( dctA ) controls .
+The S. typhimurium out mutant failed to grow on all three media , and though the E. coli mutant did not grow on fumarate or malate , it did form small colonies on succinate after 48 h at 37 C. Further evidence that transport of orotate and the dicarboxylates involves a common carrier was illustrated by the finding that growth of KR1647 and KUR1349 on glycerolorotate ( 50 g/ml ) was blocked by the addition of succinate at 200 g/ml .
+Additional studies whereby competitors were added to log - phase cultures of KR1647 showed that growth inhibition by succinate ( 200 g/ml ) occurred almost immediately .
+Analysis of plasmid - encoded polypeptides by SDS - PAGE .
+Lanes 1 and 2 , total polypeptides ; lanes 3 and 4 , membrane fractions , from minicells of BD1854 transformed with either pUC18 or pKAT214 , respectively .
+Molecular mass markers ( values at the right in kilodaltons ) were used to estimate the size of the polypeptide products .
+The S. typhimurium DctA polypeptide is indicated by the arrow at 34 kDa .
+Transcriptional start site mapping of S. typhimurium dctA .
+Primer extension products synthesized from RNA originating from pKAT206 are shown in lanes 1 and 2 .
+The reverse transcriptase reaction was coelectrophoresed with each sequencing reaction ( lanes T , G , C , and A ) so that possible shifts in mobility due to differences in reaction components would be obviated ; lanes t , g , c , and a pertain to the DNA sequencing reactions alone .
+The sequencing reaction lanes are labeled as the nontemplate strand to facilitate direct comparison with the mRNA , and the GTP start site is marked by an asterisk .
+DISCUSSION The accumulated evidence supports the conclusion that a gene originally referred to as out in relation to orotate utilization as a pyrimidine source is identical to dctA , a gene associated with the transport of C4 - dicarboxylates .
+The data consistent with this interpretation include the following : Out mutants , obtained by selection for resistance to the analog FOA , are impaired in using succinate , malate , or fumarate as sole carbon source ; competition by succinate for orotate uptake ; catabolite - repression by glucose ; genetic and physical mapping of the mutations near xyl on the chromosome ; and the cloning and sequencing of DNA capable of complementing the mutations .
+The S. typhimurium dctA mutant failed to grow with any of the three dicarboxylate substrates , whereas the E. coli mutant was still capable of slow - growth with succinate but did not form colonies on fumarate or malate within 72 h .
+Since these dctA mutants were capable of growth in the presence of 100 g of FOA per ml , it appears that the alternative mechanism for succinate utilization in E. coli lacks affinity for FOA .
+The ability of E. coli dctA mutants to still use succinate at a reduced rate was also observed by Kay and Kornberg in their original study on the E. coli dct system ( 13 ) .
+Upon recognition that the dct system was apparently involved in orotate uptake , an examination of the competition imposed by known substrates was undertaken .
+When succinate was added at 200 g/ml to a culture growing in glycerol - orotate ( 50 g/ml ) , almost immediate cessation of growth occurred .
+Aspartate can also be transported by the dicarboxylate system ( 14 ) , but addition of aspartate at 200 g/ml had a far less dramatic effect , resulting in only a reduced growth - rate .
+This parallels the finding of Vogel et al. ( 36 ) , who showed that addition of aspartate and glutamate ( each at 100 g/ml ) could be used to establish a downshift in pyrimidine supply with E. coli cells growing in glucose medium in which orotate served as sole pyrimidine source .
+The significantly higher concentration of orotate required to support growth of S. typhimurium pyrimidine auxotrophs when glucose is the carbon source ( Table 2 ) is readily explained by a catabolite repressive effect on expression of dctA .
+Inspection of the promoter - regulatory region ( refer to Fig. 2 ) identified a putative cAMP - CRP site encompassing 22 bp , centered 81 bp upstream of the 1 transcriptional start site .
+Assuming the same 1 transcriptional start point , an identical 22 - bp sequence at exactly the same position is also found in E. coli dctA .
+The 22 - bp sequence has a 55 % match to consensus and contains 11 out of 16 of the most highly conserved residues ( 19 ) .
+Previous work by Lo et al. ( 24 ) has shown that induction of dctA in a cya mutant required the presence of both cAMP and succinate .
+Catabolite - repression of dctA expression may afford an explanation of why strains harboring pKEB100 , but not pKAT202 , can grow when glycerol is the carbon source , assuming that overproduction of the DctA polypeptide mediated through the presence of a multicopy dctA plasmid is toxic for the cell .
+Since the 5 end of the cloned DNA in pKEB100 is residue 280 ( Fig. 2 ) , it lacks the putative cAMP - CRP binding site that is present in pKAT202 .
+Therefore , rel - 7104 BAKER ET AL. .
+atively lower - level expression of dctA from pKEB100 could be expected under conditions of increased cAMP , i.e. , in glycerolgrown cells .
+The result from the transcriptional mapping lends support to the assignment of the 10 region of the putative promoter for S. typhimurium dctA ; the GTP start is located 7 bp downstream of the 3 limit of the assigned 10 region , and this is the most frequently observed separation distance ( 8 ) .
+Applying the optimal spacer distance of 17 bp between the 10 and 35 regions , the deduced 35 element matches at only two residues with the consensus sequence , but these are associated with the highly conserved TTG triplet , and poor matching at the 35 region has been observed for a number of other positively regulated genes ( 8 ) .
+Assuming the same organization as established for the E. coli dctA region ( 33 ) , the direction of transcription on the chromosome would be counterclockwise .
+The S. typhimurium DctA polypeptide has a predicted molecular mass of 45.4 kDa .
+The analysis with minicells showed that DctA was enriched in the membrane fraction , and it exhibited an increase in mobility in SDS - PAGE characteristic of hydrophobic membrane proteins ( 4 ) .
+By using the TopPred program ( 2 ) , the polypeptide is predicted to have 12 membrane - spanning helices in accordance with the consensus proposed for bacterial transport proteins ( 26 ) .
+Comparison of the dctA region of S. typhimurium with that of E. coli showed that the two dctA genes are 85 % identical at the nucleotide level and the deduced polypeptides have the same chain length ( 428 amino - acids ) with 95 % amino - acid identity .
+With Rhizobium species , the identity at both the nucleotide and amino - acid sequence levels is approximately 60 % .
+Downstream of S. typhimurium dctA , an ORF beginning at residue 1886 but lacking a termination codon within the cloned DNA was detected .
+This ORF has sequences indicative of a promoter ( see Fig. 2 ) and presumably is an independently expressed gene .
+It would appear that it is a truncated homolog of the E. coli f498 gene encoding a deduced polypeptide of 498 amino - acids but of unknown function ( 33 ) .
+Prior to this investigation on orotate utilization , the dctA genes of S. typhimurium and E. coli had not been specifically cloned and characterized , although as part of the analysis of the E. coli genome , dctA had been identified through sequence similarity of the encoded polypeptide to the dctA gene products of Rhizobium species ( 33 ) .
+Earlier studies by Kay and Kornberg ( 13 , 14 ) showed that E. coli possesses an inducible system specifically involved in the uptake of C4 - dicarboxylates ; mutants deficient in uptake ( dct mutants ) were isolated by selection for resistance to 3 - fluoromalate and the corresponding gene was mapped close to xyl .
+Later work by Lo and Sanwal ( 25 ) provided evidence that three genes , dctA , dctB , and cbt , are involved in aerobic transport of C4 - dicarboxylates , with dctA being located close to xyl ( 80 min ) and the other two loci linked to gal ( 17 min ) .
+In S. typhimurium , Parada et al. ( 30 ) and Kay and Cameron ( 12 ) isolated and partially characterized mutants defective in the transport of C4 - dicarboxylates ; these mutants all harbored mutations mapping near xyl and were thus classified as dctA mutants .
+These two previous studies and our current study offer no evidence for the existence of a dctB locus , which by analogy to E. coli ( 23 ) , if mutated , should result in an inability to transport C4 - dicarboxylates and , by logical extension , the transport of orotate as well .
+As mentioned above , the dct system is inducible by its substrates , and our results here show that orotate , a cyclic monocarboxylate , is also a substrate , but it is unresolved whether the presence of orotate has an inductive effect .
+Currently , we are using lacZ as a reporter gene to assess the regulation of expression of the dctA genes of S. typhimurium and E. coli .
+This work was supported by the Natural Sciences and Engineering Research Council of Canada ( R.A.K. ) and the Danish Center of Microbiology ( J.N. ) .
+We thank A. Hessel and K. E. Sanderson for carrying out the physical mapping of the Tn10 insertion by pulsed - field gel electrophoresis and also thank T. Melnychuk and L. Stauning for excellent technical assistance .
+Balbás , P. , X. Soberón , E. Merino , M. Zurita , H. Lomeli , F. Valle , N. Flores , and F. Bolivar .
+Plasmid vector pBR322 and its special - purpose derivatives -- a review .
+Claros , M. G. , and G. von Heijne .
+TopPred II : an improved software for membrane protein structure predictions .
+Csonka , L. N. , M. M. Howe , J. L. Ingraham , L. S. Pierson , and C. L. Turnbough .
+Infection of Salmonella typhimurium with coliphage Mud1 ( Ap r lac ) : construction of pyr : : lac gene fusions .
+Danielsen , S. , M. Kilstrup , K. Barilla , B. Jochimsen , and J. Neuhard .
+Characterization of the Escherichia coli codBA operon encoding cytosine permease and cytosine deaminase .
+Dennis , P. P. , and R. K. Herman .
+Pyrimidine pools and macromolecular composition of pyrimidine - limited Escherichia coli .
+Enquist , L. , and N. Sternberg .
+In vitro packaging of dam vectors and their use in cloning DNA fragments .
+Frick , M. M. , J. Neuhard , and R. A. Kelln .
+Cloning , nucleotide sequence and regulation of the Salmonella typhimurium pyrD gene encoding dihydroorotate dehydrogenase .
+Harley , C. B. , and R. P. Reynolds .
+Analysis of E. coli promoter sequences .
+Hmiel , S. P. , M. D. Snavely , C. G. Miller , and M. E. Maguire .
+Magnesium transport in Salmonella typhimurium : characterization of magnesium influx and cloning of a transport gene .
+Hughes , K. T. , and J. R. Roth .
+Conditionally transposition - defective derivative of Mu d1 ( Amp Lac ) .
+Jensen , K. F. , J. N. Larsen , L. Schack , and A. Sivertsen .
+Studies on the structure and expression of Escherichia coli pyrC , pyrD and pyrF using the cloned genes .
+Kay , W. W. , and M. J. Cameron .
+Transport of C4 - dicarboxylic - acids in Salmonella typhimurium .
+Kay , W. W. , and H. L. Kornberg .
+Genetic control of the uptake of C4 - dicarboxylic - acids by Escherichia coli .
+Kay , W. W. , and H. L. Kornberg .
+The uptake of C4 - dicarboxylic - acids by Escherichia coli .
+Evidence for involvement of pyrH of an Escherichia coli K - 12 F - prime factor in inhibiting construction of hybrid merodiploids with Salmonella typhimurium .
+Kelln , R. A. , and L. G. Lintott .
+Construction of plasmid - free derivatives of Salmonella typhimurium LT2 using temperature - sensitive mutants of pKZ1 for displacement of the resident plasmid , pSLT .
+Kelln , R. A. , and J. Neuhard .
+Regulation of pyrC expression in Salmonella typhimurium : identification of a regulatory region .
+Kleckner , N. , J. Roth , and D. Botstein .
+Genetic engineering in - vivo using translocatable drug - resistance elements .
+New methods in bacterial genetics .
+Kolb , A. , S. Busby , H. Buc , S. Garges , and S. Adhya .
+Transcriptional regulation by cAMP and its receptor protein .
+Kyte , J. , and R. F. Doolittle .
+A simple method for displaying the hydropathic character of a protein .
+Legrain , C. , V. Stalon , N. Glansdorff , D. Gigot , A. Pierard , and M. Crabeel .
+Structural and regulatory mutations allowing utilization of citrulline or carbamoylaspartate as a source of carbamoylphosphate in Escherichia coli K - 12 .
+Liu , S. , A. Hessel , and K. E. Sanderson .
+The XbaI - BlnI - CeuI genomic cleavage map of Salmonella typhimurium LT2 determined by double digestion , end labelling and pulsed - field gel electrophoresis .
+Lo , T. C. Y. 1977 .
+The molecular mechanism of dicarboxylic acid transport in Escherichia coli K12 .
+Lo , T. C. Y. , M. K. Rayman , and B. D. Sanwal .
+Transport of succinate in Escherichia coli .
+I. Biochemical and genetic studies of transport in whole cells .
+Lo , T. C. Y. , and B. D. Sanwal .
+Genetic analysis of mutants of Escherichia coli defective in dicarboxylate transport .
+178 , 1996 OROTATE UTILIZATION BY S. TYPHIMURIUM AND E. COLI 7105 26 .
+A consensus structure for membrane transport .
+Michaels , G. , and R. A. Kelln .
+Construction and use of pyr : : lac fusion strains to study regulation of pyrimidine biosynthesis in Salmonella typhimurium .
+A short course in bacterial genetics : laboratory manual and handbook for Escherichia coli and related bacteria , p. 143 -- 149 .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 29 .
+Neuhard , J. , and R. A. Kelln .
+Biosynthesis and conversion of pyrimidines , p. 580 -- 599 .
+In F. C. Neidhardt , R. Curtiss III , J. L. Ingraham , E. C. C. Linn , K. B. Low , B. Magasanik , W. S. Reznikoff , M. Riley , M. Schaechter , and H. E. Umbarger ( ed .
+) , Escherichia coli and Salmonella : cellular and molecular biology , 2nd ed .
+American Society for Microbiology , Washington , D.C. 30 .
+Parada , J. L. , M. V. Ortega , and G. Carillo - Castaneda .
+Biochemical and genetic characteristics of C4 - dicarboxylic - acids transport system of Salmonella typhimurium .
+Sambrook , J. , E. F. Fritsch , and T. Maniatis .
+Molecular cloning : a laboratory manual , 2nd ed .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 32 .
+Sanderson , K. E. , A. Hessel , and K. E. Rudd .
+The genetic map of Salmonella typhimurium , ed .
+Sofia , H. J. , V. Burland , D. L. Daniels , G. Plunkett III , and F. R. Blattner .
+Analysis of the Escherichia coli genome .
+V. DNA sequence of the region from 76.0 to 81.5 minutes .
+Syvanen , J. M. , and J. R. Roth .
+Structural genes for catalytic and regulatory subunits of aspartate transcarbamylase .
+Sørensen , K. I. , K. E. Baker , R. A. Kelln , and J. Neuhard .
+Nucleotide pool - sensitive selection of transcriptional start site in - vivo at the Salmonella typhimurium pyrC and pyrD promoters .
+Vogel , U. , S. Pedersen , and K. F. Jensen .
+An unusual correlation between ppGpp pool size and rate of ribosome synthesis during partial pyrimidine starvation of Escherichia coli .
+Wang , R. F. , and S. R. Kushner .
+Construction of versatile low - copynumber vectors for cloning , sequencing and gene expression in Escherichia coli .
+White , M. N. , J. Olszowy , and R. L. Switzer .
+Regulation and mechanism of phosphoribosylpyrophosphate synthetase : repression by end products .
+Yan , Y. , and M. Demerec .
+Genetic analysis of pyrimidine mutants of Salmonella typhimurium .
+Zak , V. L. , and R. A. Kelln .
+5 - Fluoroorotate - resistant mutants of Salmonella typhimurium .

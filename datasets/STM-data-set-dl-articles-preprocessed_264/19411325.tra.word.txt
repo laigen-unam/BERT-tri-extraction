@@ -1,0 +1,376 @@
+JOURNAL OF BACTERIOLOGY , July 2009 , p. 4276 -- 4285 Vol .
+191 , No. 13 0021 - 9193/09 / $ 08.00 0 doi : 10.1128 / JB.00363 - 09 The Global Consequence of Disruption of the AcrAB - TolC Efflux Pump in Salmonella enterica Includes Reduced Expression of SPI - 1 and Other Attributes Required To Infect the Host † Mark A. Webber , 1 Andrew M. Bailey , 1 Jessica M. A. Blair , 1 Eirwen Morgan , 2 Mark P. Stevens , 2 Jay C. D. Hinton , 3 ‡ Al Ivens , 4 § John Wain , 4 ¶ and Laura J. V. Piddock 1 * Antimicrobial Agents Research Group , Division of Immunity and Infection , University of Birmingham , Edgbaston , Birmingham B15 2TT , United Kingdom 1 ; Division of Microbiology , Institute for Animal Health , Compton , Berkshire RG20 7NN , United Kingdom 2 ; Molecular Microbiology Group , Institute of Food Research , Colney , Norwich , United Kingdom 3 ; and Wellcome Trust Sanger Institute , Wellcome Trust Genome Campus , Hinxton , Cambridge CB10 1SA , United Kingdom 4 The mechanisms by which RND pumps contribute to pathogenicity are currently not understood .
+Using the AcrAB - TolC system as a paradigm multidrug - resistant efflux pump and Salmonella enterica serovar Typhimurium as a model pathogen , we have demonstrated that AcrA , AcrB , and TolC are each required for efficient adhesion to and invasion of epithelial cells and macrophages by Salmonella in - vitro .
+In addition , AcrB and TolC are necessary for Salmonella to colonize poultry .
+Mutants lacking acrA , acrB , ortolC showed differential expression of major operons and proteins involved in pathogenesis .
+These included chemotaxis and motility genes , including cheWY and flgLMK and 14 Salmonella pathogenicity island ( SPI ) -1 - encoded type III secretion system genes , including sopE , and associated effector proteins .
+Reverse transcription - PCR confirmed these data for identical mutants in two other S. Typhimurium backgrounds .
+Western blotting showed reduced production of SipA , SipB , and SipC .
+The absence of AcrB or TolC also caused widespread repression of chemotaxis and motility genes in these mutants , and for acrB : : aph , this was associated with decreased motility .
+For mutants lacking a functional acrA or acrB gene , the nap and nir operons were repressed , and both mutants grew poorly in anaerobic conditions .
+All phenotypes were restored to that of the wild type by trans - complementation with the wild - type allele of the respective inactivated gene .
+These data explain how mutants lacking a component of AcrAB - TolC are attenuated and that this phenotype is a result of decreased expression of numerous genes encoding proteins involved in pathogenicity .
+The link between antibiotic resistance and pathogenicity establishes the AcrAB - TolC system as fundamental to the biology of Salmonella .
+The AcrAB - TolC efflux system is a tripartite complex and is a member of the resistance - nodulation - division ( RND ) family .
+It is considered the major efflux system of members of the family Enterobacteriaceae .
+InEscherichia coli and Salmonella enterica , AcrAB - TolC confers innate resistance to a wide range of toxic - substances , including antibiotics , dyes , disinfectants ( biocides ) , and detergents ( 5 , 8 , 13 , 26 , 27 , 29 ) .
+An intact AcrAB - TolC system is also required for the development of high - level , clinically relevant , resistance to numerous agents , including the fluoroquinolones ( 11 , 30 , 38 ) .
+Clinical isolates of multidrug - resistant ( MDR ) E. coli and S. enterica commonly overproduce AcrAB - TolC ( 6 , 18 , 35 , 46 , 47 ) .
+Homologues of Group , Division of Immunity and Infection , University of Birmingham , Edgbaston , Birmingham B15 2TT , United Kingdom .
+† Supplemental material for this article may be found at http://jb .
+‡ Present address : Department of Microbiology , the Moyne Institute of Preventive Medicine , Trinity College , Dublin 2 , Ireland .
+§ Present address : Fios Genomics Ltd. , ETTC , King 's Buildings , Edinburgh EH9 3JL , United Kingdom .
+¶ Present address : Health Protection Agency , Centre for Infections , 61 Colindale Avenue , London NW9 5EQ , United Kingdom .
+Published ahead of print on 1 May 2009 .
+AcrAB - TolC found in pseudomonads , Campylobacter spp. , and Borrelia burgdorferi , also confer innate MDR and , when overproduced , clinically relevant levels of antibiotic resistance .
+In addition to exporting antibiotics , RND efflux pumps can confer innate resistance to natural substances produced by the host , including bile , hormones , and host defense molecules ( 33 ) .
+Efflux pumps of this family are also required for the colonization , and persistence , of bacteria in the host -- whether they be plants , animals , or human ( 34 , 35 , 45 ) .
+The mechanisms underpinning this contribution to pathogenesis of RND pumps are not currently well understood .
+We previously demonstrated that AcrB and TolC are each required for Salmonella enterica serovar Typhimurium SL1344 to colonize and persist in poultry ( 8 ) .
+One explanation proposed for the attenuation of mutants of S. Typhimurium lacking an intact AcrAB - TolC system is that this system is required for growth in the presence of natural detergents , such as the bile found in the chicken intestinal environment .
+However , this does not explain the inability of the TolC mutant to adhere to ( and both the AcrB and TolC mutants to poorly invade ) INT - 401 and RAW - 264.7 tissue culture cell lines in - vitro ( 8 ) .
+Most recently , we have shown that inactivation of acrA also reduces invasion of INT - 401 and RAW - 264.7 cells by S. Typhimurium ( Blair et al. , personal communication ) .
+Nishino et al. ( 29 ) found that S. Typhimurium strain ATCC 14028 mutants lacking tolC or acrAB were attenuated in their ability to kill BALB/c mice .
+191 , 2009 SALMONELLA EFFLUX PUMPS AND VIRULENCE 4277 Control of expression of acrAB is complex and can occur at a local level ( mediated by the repressor acrR ) and via global regulators .
+There is no clear pattern of the hierarchy of regulation of acrAB , although the transcriptional regulators MarA and SoxS can affect expression of these genes ( 36 , 41 , 49 ) .
+Although absent in E. coli and Shigella spp. , S. Typhimurium and some other members of the family Enterobacteriaceae also contain an additional AraC - XylS family regulatory gene , ramA .
+This gene is overproduced in laboratory mutants and MDR clinical and veterinary isolates , whereas overexpression of marA and soxS is rarely observed ( 1 , 18 , 35 ) .
+In order to better understand the contribution of RND efflux pumps to pathogenicity , we used the AcrAB - TolC system as a paradigm MDR efflux pump and S. Typhimurium as a model pathogen .
+We investigated the effect of inactivation of acrA , acrB , or tolC on the transcriptome , secretion of virulenceassociated proteins , and other virulence - associated attributes of S. Typhimurium .
+Our data indicate that several systems involved in conferring the ability of S. enterica to be pathogenic are repressed in mutants in which acrA , acrB , or tolC are inactivated , explaining the attenuation of these strains .
+MATERIALS AND METHODS Bacterial strains .
+S. Typhimurium SL1344 was used as a control strain for all S. enterica experiments ( 51 ) .
+Mutants of SL1344 lacking a functional acrA , acrB , or tolC gene as a result of insertional activation have been described previously and shown to be nonpolar mutants ( 8 ) .
+E. coli O78 and its derivative lacking a functional tolC were constructed using the method of Datsenko and Wanner ( 10 ) , as described previously ( 8 ) .
+The acrA : : aph mutant still expresses acrB , allowing the results of inactivating each component of AcrAB - TolC to be studied in isolation ( Blair , personal communication ) .
+The mutant acrA : : aph , acrB : : aph , and tolC : : aph alleles were transferred into 14028s and L3 ( 35 ) by P22 transduction as previously described and verified by PCR .
+Complementation of mutants was as previously described , using low copy number vector pWSK30 ( 8 ) .
+We have previously shown that there are no statistically significant differences between the generation times of all strains during logarithmic phase growth in LB or MOPS ( morpholinepropanesulfonic acid ) minimal - medium , indicating that the growth - rate of mutants lacking a functional acrA , acrB , ortolC gene was not impaired or enhanced ( see file S1 in the supplemental material ) ( 3 ) .
+Likewise , total cellular protein ( after overnight growth ) was not higher in the mutants than in SL1344 .
+No overgrowth was seen for any strain in any media ( see file S2 in the supplemental material ) .
+The growth kinetics of the E. coli O78 tolC : : aph mutant and the S. Typhimurium 14028S acrAB mutant ( 29 ) were also the same as those of their respective parental strains ( data not shown ) .
+Growth kinetics of mutants , complemented strains , and SL1344 were investigated by determining absorbance using a spectrophotometer , by viable counts , and by total protein estimation , as described by Yang et al. ( 52 ) .
+Growth kinetics in anaerobic conditions were performed using 10 - ml volumes of MOPS minimal - medium with glucose in sterile universal tubes ( Teknova , United States ) supplemented with 400 mg/liter histidine overlaid with 10 ml of sterile mineral oil .
+These tubes were then inoculated with 500 l of an overnight culture of the test strain and grown at 37 °C over 24 h , and then the optical density ( OD ) was measured .
+Growth data were obtained in three separate experiments , each containing three technical replicates .
+RNA preparation and transcriptional analyses .
+RNA was prepared from strains after inoculation of 24 ml of defined MOPS minimal - medium ( Teknova , United States ) with 1 ml of overnight culture grown in Luria - Bertani broth .
+Previously , we established that growth in this medium allows changes in the expression of acrAB and tolC to be identified easily and more accurately than growth in undefined rich media ( 4 ) .
+SPI - 1 and SPI - 2 were expressed under these conditions .
+Broths were incubated at 37 °C with shaking at 250 rpm .
+All cultures were grown in sterile 500 - ml Erlenmeyer flasks .
+When the cultures had reached an OD at 600 nm ( OD 600 ) of 0.7 ( 0.02 ) , 4 ml of culture was added to 1 ml of 5 % phenol and 95 % ethanol in a 50 - ml falcon tube and incubated on ice for 1 h. Cells were then harvested , and RNA was prepared using the Promega SV40 total RNA preparation kit according to the manufacturer 's instructions .
+The quantity and quality of RNA was determined using a Bioanalyser ( Agilent ) .
+Transcriptomic experiments used the pan - Salmonella generation IV microarray at the Sanger Genome Campus ( Hinxton , United Kingdom ) .
+For microarray experiments , three cultures were grown for each strain , and two RNA preparations made from each culture , giving a total of six test and six reference samples ( three biological and two technical replicates of each ) .
+RNA ( 25 g ) was used to generate probes labeled with either Cy - 3 or Cy - 5 using Superscript III ( Invitrogen , United Kingdom ) .
+For each microarray experiment , wild - type ( SL1344 ) RNA was pooled after quantification to provide a common reference .
+For each microarray experiment , six slides were hybridized with labeled probes , three with SL1344 labeled with Cy - 3 and the test strain labeled with Cy - 5 and three dye swaps .
+Hybridization and scanning were as described previously ( 12 ) .
+Results were analyzed using Bioconductor ( 37 ) .
+B values ( log odds value of 0 , and P 0.05 ) of 0.05 were taken as significant .
+All results have been deposited in Array Express .
+Comparative reverse transcription ( RT ) - PCR was used to validate microarray data and determine the expression of genes of interest in different genetic backgrounds , as previously described ( 13 ) .
+Primers used to amplify target genes were CheMF , CGCCAATTTCATTACGTCCT ; CheMR , TGCCCTGCTTAAC CCATTAG ; FlgMF , GCCGTTTTTAATGCTTCGAC ; FlgMR , GCATTGACC GTACCTCACCT ; NirDF , GTGGCAAAACATCTGCAAAA ; NirDR , CGCT ATGGTAAGGACGGAAA ; SipAF , CGGTCGTACCGGCTTTATTA ; SipAR , CAGACGGCAGAGATTGTGAA ; SipCF , GCTAATTTGCTGCTCGGAAC ; and SipCR , CCATGGATATGACCCGAATC .
+16S rRNA and ramA primers were as previously described ( 13 ) .
+All PCRs used 30 cycles of 30 s each and an annealing temperature of 51 °C .
+Data were obtained in three separate experiments , each containing three technical replicates .
+All data were analyzed with Student 's t test ; P values of 0.05 were taken as significant .
+Protein purification and Western blotting .
+Western blotting was performed essentially as described previously ( 24 ) .
+Strains were grown overnight in Luria - Bertani broth at 25 °C , with shaking at 100 rpm .
+The next morning 4 ml of this culture was used to inoculate 36 ml of sterile Luria - Bertani broth prewarmed to 37 °C , and cultures were incubated at 37 °C , with shaking at 150 rpm .
+Once cultures reached an OD 600 of 1 ( 0.2 ) , the bacteria were harvested by centrifugation , and supernatants were removed and purified in 50 - ml falcon tubes using low - protein binding filters ( Millipore PVDF , 0.45 m ) .
+To each preparation , trichloroacetic acid was added to a final concentration of 10 % , and the preparations were stored on ice for 1 h .
+After this period , the samples were centrifuged at 10,000 g for 15 min to pellet proteins .
+Supernatants were discarded , and proteins were resuspended in 2 % sodium dodecyl sulfate and transferred into Eppendorf tubes .
+Samples were centrifuged again and resuspended in 1 ml of acetone at 70 °C overnight .
+After this incubation the tubes were spun again at 10,000 g for 10 min , supernatants discarded , and pellets resuspended in 1 LDS loading buffer ( Invitrogen , United Kingdom ) before being stored at 20 °C until required .
+For preparation of secreted proteins , the cell growth procedure was the same as that followed for RNA extractions prior to the microarray experiments .
+For blotting , 5 l and 0.5 l of preparations obtained from cells grown in minimal or Luria - Bertani medium were separated , respectively , on 4 to 12 % Bis - Tris gels ( Invitrogen , United Kingdom ) .
+All antibodies used were monoclonal and mouse derived ( courtesy of Ed Galyov , Institute for Animal Health ) and were used at 1 g/ml .
+Magic Mark XP ( Invitrogen ) was used as a marker in all gels .
+The ability of mutants to migrate through ( swimming ) or across ( swarming ) semisolid agar was determined by making agar plates based on MOPS minimal - medium ( Teknova ) supplemented with either 0.25 , 0.3 , or 0.5 % ( wt/vol ) agar .
+Plates were inoculated by stabbing them with a sterile loop and incubated at 30 °C over 5 days , and zones of migration through the agar were measured for each strain daily .
+Data were obtained in four separate experiments , each containing two technical replicates .
+All data were analyzed with a Student t test ; P values of 0.05 were taken as significant .
+Microarray data accession numbers .
+The microarray data were deposited in the Array Express database under the following accession numbers : E - MEXP - 1832 ( SL1344 acrA : : aph ) , E - MEXP - 1981 ( SL1344 acrB : : aph ) , and E - MEXP - 1982 ( SL1344 tolC : : aph ) .
+RESULTS Disruption of acrA results in differential transcription of 115 genes , including genes encoding proteins involved in pathogenicity .
+The transcriptomic comparison of L884 ( acrA : : aph ) with SL1344 showed that disruption of acrA resulted in 4278 WEBBER ET AL. .
+Genes encoding cell envelope proteins relevant to antibiotic transport and regulation thereof , anaerobic metabolism , motility , and chemotaxis , with significantly different expression compared with SL1344 a Gene/operon or function of encoded protein L884 ( acrA : : aph ) Change ( fold ) in expression relative to SL1344 L110 ( acrB : : aph ) L109 ( tolC : : aph ) Multidrug transport / regulation acrB 3.22 0.01 0.15 ompC -- -- -- ompF -- 0.25 0.33 ompR -- 1.55 1.54 ompX -- 0.69 0.68 ramA -- 1,226.41 25.41 rob -- 0.53 -- Anaerobic metabolism napA 2.77 0.09 -- napB -- 0.13 -- napC -- 0.14 -- napF -- 0.09 -- narG 2.38 0.01 -- narH 4.69 0.01 -- narI 3.95 0.04 -- narJ -- 0.01 -- narK 3.39 0.01 -- nirB -- 0.01 -- nirC 1.98 0.01 -- nirD 2.62 0.01 -- Motility/chemotaxis cheA 2.20 0.07 -- cheM 3.66 0.02 0.39 cheR -- 0.04 -- cheW 2.15 0.01 0.07 cheY 1.96 0.02 0.05 flgC 1.49 0.01 0.13 flgD 1.97 0.01 -- flgE 2.12 0.01 0.11 flgF 2.07 0.05 -- flgG 2.35 0.01 0.13 flgJ 1.83 0.04 -- flgK 1.93 0.01 0.11 flgL 2.10 0.01 0.05 flgM -- 0.01 0.07 flgN 2.12 0.01 0.09 flhD -- 0.61 -- fliA -- 0.01 -- fliD -- 0.13 -- fliS -- 0.07 -- tar -- 0.03 0.09 a -- indicates no significant change in expression .
+significant ( log odds value of 0 and P 0.05 ) altered expression of 115 genes ( 3 % of the SL1344 genome ) ( see file S3 in the supplemental material ) ; 54 genes ( 47 % ) were increased in expression relative to SL1344 , and 61 ( 53 % ) were decreased .
+The gene with the greatest increase ( 6.7 - fold ) was lysC , responsible for initiation of lysine biosynthesis .
+Compared to the parental strain , SL1344 , there was increased expression of genes that encode proteins important to Salmonella infecting and/or colonizing its host .
+These included chemotaxis genes , flagellum genes , and anaerobic metabolism genes ( Table 1 ) .
+There was also decreased expression of genes that encode TABLE 2 .
+SPI - 1 genes and known regulators thereof with significantly changed expression in L884 ( acrA : : aph ) , L110 ( acrB : : aph ) , and L109 ( tolC : : aph ) compared with SL1344 a SPI - 1 gene or regulator Change ( fold ) in expression relative to SL1344 L884 ( acrA : : aph ) L110 ( acrB : : aph ) L109 ( tolC : : aph ) SPI - 1 genes sitA -- -- -- avrA -- 0.22 -- STM2868 -- 0.45 0.37 orgA ( STM 2870 ) -- -- 0.38 prgH -- 0.06 0.22 prig -- 0.05 0.23 prgJ -- 0.03 0.05 prgK -- 0.13 -- sicP -- 0.42 -- iacP -- 0.32 -- sipA -- 0.08 0.18 sipD -- 0.07 0.25 sipC -- 0.02 0.14 sipB -- 0.02 0.10 spaO -- 0.28 0.30 invJ -- -- 0.12 invB -- 0.03 0.10 Regulators of SPI - 1 hilC -- 0.37 0.35 invF -- 0.10 0.27 fis -- 5.01 -- rtsA -- 0.41 -- a -- indicates no significant change in expression .
+proteins involved in pathogenicity .
+These included several genes within SPI - 2 and genes involved in anaerobic respiration ( Table 2 ) .
+RT - PCR of six genes representing the various clusters confirmed the pattern of significantly differential gene expressions revealed in the microarrays , although the changes revealed by RT - PCR were significantly lower than those indicated by the microarray data in some cases ( Fig. 1 ) .
+Furthermore , RT - PCR revealed that when the mutation in acrA was complemented in trans ( SL1344 acrA : : aph , pWKS30acrA ) expression of these genes was the same as that in SL1344 ( Fig. 2 ) .
+The transcriptomic data were also interrogated for expression of genes encoding efflux or membrane proteins that could compensate for the loss of AcrA .
+Expression of homologues of acrA ( acrE , mdtA , macA , aaeA , STM0352 , and STM0818 ) ; acrB ( acrD , acrF , mdtB , mdtC , and STM0351 ) ; genes encoding the outer membrane porin proteins , OmpC and OmpF ; and those encoding members of the OMP85 family encoding important outer membrane proteins YfgL , YfiO , NlpB , and SmpA ( 48 ) was not acrA dependent .
+Disruption of acrB resulted in differential expressions of 569 genes , including genes encoding proteins involved in pathogenicity .
+Transcriptomic comparison of L110 ( acrB : : aph ) and SL1344 showed that disruption of acrB caused significant ( log odds value of 0 and P 0.05 ) altered expression of 569 genes ( 13 % of the genome ; see file S4 in the supplemental material ) ; 203 genes ( 36 % ) were increased in response to acrB inactivation .
+Interestingly , there was relatively little overlap ( Fig. 3 ) between the AcrA - and AcrB - dependent genes which showed significantly increased expression , with only 9 of the 203 ( 4 % ) VOL .
+191 , 2009 SALMONELLA EFFLUX PUMPS AND VIRULENCE 4279 FIG. 1 .
+Validation of transcriptome data .
+Expression of sipA , sipC , cheM , flgM , nirD , and ramA , as measured by RT - PCR .
+Open bars indicate SL1344 and mutants thereof ; gray bars indicate 14028S and mutants thereof ; and black bars indicate L3 and mutants thereof .
+genes being both AcrA and AcrB dependent .
+The gene with the greatest AcrB - dependent increase in expression ( 1,200 - fold ) was ramA , previously associated with MDR in S. enterica and recently shown to bind upstream of acrAB and tolC ( 26 ) .
+Eight of the 20 most highly AcrB - dependent genes were putative or hypothetical genes without known functions .
+The expression of the global regulator of transcription , fis , was also increased ( Table 1 ) .
+The expression of 366 ( 64 % ) genes was significantly decreased as a result of acrB inactivation .
+Again , there was little overlap with the AcrA - dependent genes ; only 16 of the 366 ( 4 % ) genes were significantly decreased in expression when acrA or acrB was inactivated .
+Compared with SL1344 , decreased expression of several clusters of genes that encode proteins involved in pathogenicity was seen with the acrB mutant .
+These genes included sipABCD , invBJ , and prgHJI ; the effector genes encoding the proteins SopE and SopE2 ; genes involved in anaerobic respiration , napABC , napF , narGHIJK , and nirBC ; genes involved in chemotaxis and motility , including flgCDEFGJLMLN , cheRMWY , and tar ; and adhesion genes fimA , fimC , and fimI .
+RT - PCR of representative genes of these clusters confirmed the gene expression changes seen in the microarray experiments .
+Complementation of acrB in trans restored gene expression to levels similar to those seen for the parental strain SL1344 ( Fig. 2 ) .
+In contrast to L884 ( acrA : : aph ) , there was no differential expression of genes in SPI - 2 in L110 ( acrB : : aph ) .
+In addition , while there was differential expression of anaerobic respiration genes in both the AcrA and the AcrB mutants , expression was increased in the former and decreased in the latter .
+Inactivation of acrB had no effect on the expression of the genes encoding the most homologous transporters to AcrB , AcrD , and AcrF or of the genes encoding members of the OMP85 family .
+Expression of genes encoding OmpF and OmpX was decreased 4 - fold and 1.4 - fold , respectively .
+Of the genes encoding periplasmic stress proteins , only expression of ppiB was decreased .
+Of the genes encoding general stress proteins , cpx expression was decreased and E ( rpoE ) was expressed considerably less than it was in SL1344 .
+Complementation of expression of genes altered in mutants .
+Expression of ramA ( open boxes ) , cheM ( gray boxes ) , nirD ( boxes with horizontal lines ) , sipC ( boxes with vertical lines ) , flgM ( boxes with diagonal lines ) , sipA ( black boxes ) was measured in SL1344 and L773 ( L110 pKSW30acrB ) , L774 ( L109 pKSW30tolC ) , and L989 ( L884 pKSW30acrA ) .
+Expression was measured by comparative RT - PCR , and results are shown as change relative to SL1344 .
+Loss of tolC resulted in differential expression of 171 genes , including genes encoding proteins involved in pathogenicity .
+Far fewer genes were TolC dependent than were AcrB dependent , with altered expression of 171 genes ( 4 % of genome ) significantly ( log odds value of 0 and P 0.05 ) different from those in SL1344 ( see file S5 in the supplemental material ) .
+Fifty - nine genes ( 35 % ) showed increased expression in L109 ( tolC : : aph ) .
+As found for the acrB disruptant , the transcriptional activator ramA was overexpressed in SL1344 tolC : : aph .
+Of the 59 genes with increased expression , 27 have not been annotated or have a hypothetical function .
+Thirty - seven of the 59 ( 63 % ) genes upregulated in L109 ( tolC : : aph ) were also AcrB dependent for expression .
+However , there was only one gene dependent upon TolC and AcrA , SL1968 , which encodes a putative prophage protein specific to SL1344 .
+There was significantly ( log odds value of 0 and P 0.05 ) decreased expression of 112 genes after disruption of tolC .
+Of these , 96 were also significantly decreased in expression in L110 ( acrB : : aph ) .
+The TolC - and AcrB - dependent genes included chemotaxis and motility genes , including cheWY and flgLMK , and 14 SPI - 1 genes , including sopE and sopE2 ( Table 1 ) .
+There was no altered expression of genes in SPI - 2 .
+Four of the 112 ( 4 % ) TolC - dependent genes were also significantly decreased in expression in L884 ( acrA : : aph ) .
+Comparison of transcriptomes of the acrA , acrB , and tolC mutants .
+Venn diagram showing overlap of genes with significantly altered ( increased or decreased ) expression in L884 ( acrA : : aph ) , L110 ( acrB : : aph ) , and L109 ( tolC : : aph ) compared with SL1344 .
+Regulators with altered expression in each group are indicated .
+Bold type indicates genes with increased expression ; lightface type those with decreased expression .
+191 , 2009 SALMONELLA EFFLUX PUMPS AND VIRULENCE 4281 acrB was significantly reduced in L109 ( tolC : : aph ) , whereas expression of acrA was unaffected .
+The expression of genes encoding other annotated or putative outer membrane efflux proteins ( including genes encoding homologues of TolC ) and the OMP85 family of S. Typhimurium was the same as in SL1344 .
+However , expression of ompF and ompX was TolC dependent .
+No gene was expressed at significantly higher levels in all three mutants , and only four genes in all three mutants were expressed at significantly lower levels than those of SL1344 .
+These were yaeE ( an ABC transporter permease ) , STM1698 ( a hypothetical protein ) , dmsB ( dimethyl sulfoxide reductase ) , and glpB ( an anerobic glycerol hydrogenase ) .
+These data indicate that inactivation of acrA , acrB , and tolC has very different effects on the transcriptome of S. Typhimurium .
+Expression of known regulators , including those of SPI - 1 , is altered as a result of inactivation of acrB or tolC .
+As SPI - 1 gene expression was decreased in the AcrB and TolC mutants , the transcriptomic data were interrogated for expression of various genes known to influence regulation of SPI - 1 ( Table 1 ) .
+Expression of the major regulator of SPI - 1 , hilA , was not significantly affected in any of the mutants .
+The major activators of SPI - 1 transcription , invF and hilC , were significantly downregulated in both L110 ( acrB : : aph ) and L109 ( tolC : : aph ) .
+The expression of fis , which encodes a DNA binding protein known to positively regulate expression of hilA and invF ( 25 ) , was increased in L110 ( acrB : : aph ) only .
+A variety of genes are known to be able to influence expression of acrAB and tolC .
+Of these , there was no AcrA - , AcrB - or TolC - dependent expression of acrR , marRA , orsoxRS .
+However , expression of rob was decreased in the AcrB mutant .
+ramA and ompR were overexpressed in response to inactivation of acrB or tolC .
+Expression of the flagellum anti - sigma factor flgM was decreased in L110 ( acrB : : aph ) .
+flhD expression was also decreased in L110 ( acrB : : aph ) .
+Expression changes seen after inactivation of components of AcrAB - TolC are similar in different strains of S. Typhimurium .
+To confirm the accuracy of the transcriptomic data and that the expression changes seen as a result of disruption of AcrAB - TolC were not specific to the SL1344 background , the mutant acrA , acrB , and tolC alleles were transduced from L884 ( acrA : : aph ) , L110 ( acrB : : aph ) , and L109 ( tolC : : aph ) into two other wild - type strains of serovar Typhimurium , 14028s and L3 ( human isolate ) .
+Comparative RT - PCR was used to measure expression of sipA , sipC , cheM , flgM , nirD , and ramA in the nine mutants compared with that in the respective parental strains .
+Irrespective of the strain of S. Typhimurium , disruption of acrA , acrB , ortolC conferred altered expression of these six genes and mirrored the changes of expression observed in the transcriptomic data sets .
+These data indicate that data obtained for SL1344 are typical of this serovar ( Fig. 1 ) .
+Furthermore complementation of the mutant acrA , acrB , and tolC alleles in the different strain backgrounds restored expression of all genes tested to levels not significantly different from that in SL1344 ( Fig. 2 ) .
+Secretion of SipA , SipB , and SipC is reduced in mutants lacking components of AcrAB - TolC .
+One striking finding of the transcriptional analyses was that expression of genes known to be involved in pathogenesis was significantly decreased when FIG. 4 .
+Production of SPI - 1 proteins .
+Western blot of SipB and SipC of protein supernatants prepared from L884 ( acrA : : aph ) , L110 ( acrB : : aph ) , and L109 ( tolC : : aph ) grown in minimal media .
+acrB or tolC was inactivated .
+Therefore , production of the secreted SPI - 1 proteins , SipA , SipB , and SipC , by each mutant was analyzed by Western blotting .
+Culture supernatants were prepared from cells grown in minimal - medium in order to replicate the growth - conditions of the transcriptomic experiments .
+Data from Western blotting were in agreement with the transcriptomic data , with significantly reduced amounts of SipB and SipC detected in both L109 ( tolC : : aph ) and L110 ( acrB : : aph ) .
+Consistent with the transcriptomic data , secretion of these proteins was not significantly reduced in L884 ( acrA : : aph ) ( Fig. 4 ) .
+After growth of L109 ( tolC : : aph ) in minimal medium , too little of SipA was produced to be detected ; however , significantly less SipA was observed with extracts from cells grown to late logarithmic phase in Luria - Bertani medium compared to SipA in SL1344 ( data not shown ) .
+Mutants lacking acrB showed reduced motility .
+As genes involved in chemotaxis and motility were decreased in expression in both L110 ( acrB : : aph ) and L109 ( tolC : : aph ) , the ability of each strain to migrate through or over semisolid agar was evaluated .
+All strains retained the ability to `` swim '' and `` swarm .
+'' Only L110 ( acrB : : aph ) showed a significant ( P 0.05 ) loss in motility .
+This strain was significantly less motile than SL1344 on minimal agar for all three concentrations tested , indicating a reduced ability to both swim and swarm ( Fig. 5 ) .
+Electron micrographs indicated that all mutants have morphologies similar to that of SL1344 , but fewer flagella were visible in preparations of L110 ( acrB : : aph ) ( data not shown ) .
+L110 ( acrB : : aph ) and L884 ( acrA : : aph ) are compromised in their ability to grow anaerobically .
+Expression of genes in the nir , nar , and nap operons encoding genes involved in anaerobic respiration was reduced in L110 ( acrB : : aph ) and increased in L884 ( acrA : : aph ) .
+However , the ability of both these mutants to grow in anaerobic conditions was impaired compared to the ability of SL1344 ( Fig. 6 ) after 8 and 24 h. L109 ( tolC : : aph ) did not show altered expression of genes involved in anaerobic respiration , and its anaerobic - growth was not significantly different from SL1344 under anaerobic conditions .
+Average zones of motility ( standard deviation ) of SL1344 , L884 ( acrA : : aph ) , L110 ( acrB : : aph ) , and L109 ( tolC : : aph ) in three concentrations of semisolid minimal - medium agar .
+Asterisks indicate statistically significant ( P 0.05 ) differences .
+Interrogation of published data for the effect of environmental conditions on growth in tissue culture cells upon expression of acrA or tolC .
+The AcrAB - TolC system contributes to a variety of phenotypes , including pathogenicity in S. Typhimurium , and data presented herein indicate that this may be due to repression of several regulons that influence expression of genes known to be important in pathogenicity .
+The acrAB and tolC genes are among the most highly expressed genes of S. Typhimurium , and chromatin immunoprecipitation and microarray experiments have shown RNA polymerase bound tightly to the acrAB locus ( 22 ) .
+Expression of acrAB and tolC is relatively stable under different environmental conditions in vitro ( data not shown ) .
+To determine whether expression of acrA or tolC is regulated during the pathogenesis of S. Typhimurium , transcriptomic data previously obtained for SL1344 under diverse conditions ( 19 , 22 , 44 ) were analyzed for changes in expression of acrA and tolC ( acrB was not present on the microarray used in these experiments ) .
+In LB media , both acrA and tolC were produced at maximal levels during the early logarithmic phase , and expression of both genes was increased by 4.5 - fold at 37 °C compared to that at 25 °C ( 31 ) .
+In LB medium , expression of acrA can be induced by polymyxin ( 2 ) , whereas in the presence of hydrogen - peroxide , expression of acrA was decreased threefold .
+Expression of tolC was decreased 10 - fold after growth in macrophages ( J774 ) ( 17 ) and 5 - fold after growth in HeLa epithelial cells ( 19 ) .
+Neither acrA or tolC was regulated by the nucleoid - associated proteins H - NS ( 31 ) , IHF ( 9 , 23 ) , or Fis ( 20 ) or the RNA chaperone protein Hfq ( 40 ) .
+A number of regulatory genes are known to be able to influence the expression of genes involved in pathogenicity or defense against host - derived factors of S. Typhimurium ; these include the two - component phoPQ ( 53 ) and pmrAB ( 42 ) systems ( involved in sensing the transition to an intracellular location and defense against host peptides ) and the regulators of SPI - 1 , invF ( 9 ) , hilC ( sprA ) ( 14 ) , and hilA ( 43 ) , and of SPI - 2 , ssrA ( 39 ) , as well as global regulators , including fis ( 7 , 50 ) and hns ( 28 ) .
+Of these regulatory genes , only one ( invF ) had decreased expression when acrB or tolC was inactivated ( Table 1 ) .
+In addition , in L110 ( acrB : : aph ) , there was decreased expression of pmrA and pmrB compared with that in SL1344 .
+This mutant also had increased expression of fis .
+Growth kinetics of mutants .
+Growth ( standard deviation ) of L884 ( acrA : : aph ) , L110 ( acrB : : aph ) , and L109 ( tolC : : aph ) in anaerobic conditions .
+Asterisks indicate statistically significant ( P 0.05 ) differences .
+the available transcriptomic data and literature for these systems identified that phoPQ is postulated to regulate tolC ( 53 ) , although phoPQ expression was unchanged in SL1344 tolC : : aph .
+There are currently no data indicating that the other systems directly influence expression of acrAB or tolC .
+DISCUSSION While it has been shown that inactivation of RND family efflux systems can confer attenuation in the host , there is little evidence of how these systems are involved in pathogenesis .
+The present study sought to explore the cause of the observed attenuation in mutants of S. enterica , each lacking a component of the AcrAB - TolC system , using total genome transcriptional analyses to guide biological experiments .
+The transcriptomic experiments in this study revealed that in response to inactivation of acrA , acrB , or tolC there were considerable gene expression changes .
+These included genes related to the ability of the mutants to infect the host , as well as those that could compensate for loss of AcrA , AcrB , or TolC ( i.e. , efflux pumps or outer membrane proteins and regulators thereof ) .
+The transcriptomic , confirmatory RT - PCRs and Western blotting data demonstrated a general repression of SPI - 1 in S. Typhimurium , resulting from inactivation of acrB or tolC , and repression of SPI - 2 after inactivation of acrA , demonstrating that this phenomenon is not restricted to SL1344 .
+SPI - 1 is required for subversion of the host cells ' cytoskeletal machinery by S. Typhimurium , which leads to ruffle formation and uptake of S. Typhimurium into host cells .
+A previous study by Morgan et al. ( 25 ) used signature - tagged mutagenesis to identify genes required for colonization of chicks and cattle .
+In their study , the disruption of SPI - 1 genes resulted in only a minor defect in the ability of SL1344 to colonize 2 - week - old chicks ; however , deletion of sopE2 resulted in a colonization defect .
+In this transcriptomic study , decreased expression of sopE2 , as well as SPI - 1 genes , was observed with both L109 ( tolC : : aph ) and L110 ( acrB : : aph ) .
+Other systems are also required during the pathogenesis process ; the ability to grow anaerobically was impaired in L110 ( acrB : : aph ) , which may negatively impact the ability of this mutant to survive in the VOL .
+191 , 2009 SALMONELLA EFFLUX PUMPS AND VIRULENCE 4283 gut .
+Motility is also important in the pathogenesis of S. Typhimurium ( 21 ) , and L110 ( acrB : : aph ) was less motile than SL1344 .
+Therefore , we postulate that the inability of mutants lacking a functional AcrAB - TolC system to invade tissue culture cells or to colonize chicks is due to decreased expression of specific genes encoding proteins conferring the ability to infect the host ; these include the SPI - 1 and SPI - 2 genes and other genes which contribute to the ability of S. Typhimurium to survive in - vivo and attach to host cells .
+It is likely that the observed decreased expression of SPI - 1 is mediated , in part , by the decreased expression of invF seen with all mutants , as invF has been shown to be required for expression of various SPI - 1 genes ( 9 ) .
+Recently it has been demonstrated ( 32 ) that inactivation of the magnesium transporter corA in S. Typhimurium results in attenuation in the mouse infection model .
+Deletion of corA also resulted in varied changes to the transcriptome of S. Typhimurium , including repression of SPI - 1 , SPI - 2 , and motility - associated genes .
+This pattern is similar to the results observed here , although examination of the data reveals no obvious regulatory link between the two studies .
+It is possible that deletion of corA and of acrAB and tolC perturbs a common but currently unrecognized regulatory network .
+Virlogeux - Payant et al. ( 45 ) recently reported that inactivation of tolC led to decreased expression of SPI - 1 genes , which is in agreement with our data .
+However , in contrast to data presented herein , they reported that inactivation of acrB did not lead to a decrease in SPI - 1 expression in the isolates they tested .
+They also previously reported that AcrB is not required for colonization of chickens by S. Typhimurium ( 5 ) .
+One possible explanation for the difference between these data is that we used SL1344 mutants ( this study and reference 8 ) and Baucheron et al. used various isolates of DT104 and DT204 .
+In order to address this , the mutant alleles of acrA , acrB , and tolC were transduced into two additional strains of S. Typhimurium , 14028s and a human clinical isolate , L3 ; data very similar to those from the SL1344 mutants were obtained .
+In addition , 14028s acrAB : : Cm administered by the oral route was attenuated in mice ( 29 ) .
+These data indicate that the data obtained for SL1344 mutants are not specific to this background alone .
+The discrepancies seen with DT104 and DT204 do , however , suggest that while TolC would appear to influence expression of SPI - 1 and SPI - 2 in all strains tested to date , AcrB has a similar effect in some strains but not all .
+A role for AcrB in pathogenicity is , however , further supported by data showing that homologues of this protein are also required for other bacterial species to colonize and/or infect their host ( 34 ) .
+While there were similarities and differences between the transcriptomes of all three mutants , there was much greater overlap between the transcriptomes of L109 ( tolC : : aph ) and L110 ( acrB : : aph ) , particularly among those genes with decreased expression .
+These data may explain similarities in phenotypes between these mutants ; however , there are also distinct phenotypic differences .
+For instance , mutants lacking tolC are unable to adhere to cells in tissue culture ; in contrast , mutants lacking acrA and acrB can adhere but are poorly invasive ( 8 ) .
+It has been postulated that disruption of AcrAB - TolC and in particular TolC ( an important structural component of the cell envelope of the members of Enterobacteriaceae ) confers membrane instability and that this may confer the observed attenuation .
+However , there were no gene expression changes indicative of membrane stress seen with any of the mutants , including no alteration in expression of genes encoding Omp85 family proteins , shown to be required for assembly of numerous outer membrane proteins ( 48 ) .
+This may have been anticipated if loss of AcrAB - TolC had a nonspecific effect on membrane stability .
+It is currently unclear why mutants lacking tolC are more attenuated than those lacking acrA or acrB but is perhaps simply due to the more promiscuous nature of TolC .
+For instance , TolC interacts with several other proteins ( e.g. , AcrEF and MacAB ) , and its loss also impacts upon export of substrates by those systems as well as those of AcrAB .
+In addition , in S. Typhimurium lack of MacAB also confers attenuation ( 29 ) .
+When combined with inactivation of acrAB and macAB the bacterium is severely disabled .
+AcrA has also been shown to be promiscuous ( 15 , 16 ) and can interact with AcrD , it is conceivable that homologues of AcrA , such as AcrE , may be similarly able to bind to AcrB and TolC and complement the effects of inactivation of acrA to some extent .
+We , and others , recently showed that ramA regulates expression of acrB ( 12 , 31 ) and that ramA itself is regulated by ramR ( 1 ) .
+Data presented herein indicate that expression of ramA is also responsive to inactivation of acrB and tolC but not acrA.It is hypothesized that in L110 ( acrB : : aph ) and L109 ( tolC : : aph ) , ramA expression is increased in response to a lack of expression of the inactivated genes .
+One explanation for this is that an inducer of ramA ( either a metabolic product usually exported via AcrAB - TolC or a component of the media used in our studies ) is a substrate of AcrAB - TolC and that deletion of acrB and tolC results in accumulation of this inducer and increased expression of ramA .
+Although inactivation of acrA , acrB , ortolC conferred gene expression changes upon known regulators of genes that encode proteins involved in infecting the host , the mechanism by which these changes are mediated is unclear .
+With the exception of PhoPQ , recently shown to be able to regulate tolC in E. coli ( 53 ) , there is currently no known regulatory network which includes both acrB and tolC and regulators of pathogenesis .
+Some of the conditions known to be relevant to the ability of S. enterica to be pathogenic , such as pH and temperature , also influence expression of acrA and tolC .
+This may suggest that undescribed regulatory mechanisms that control expression of acrB and tolC are also involved in controlling genes that confer pathogenicity .
+In conclusion , transcriptomic and biological data presented herein indicate that the attenuation of S. Typhimurium lacking AcrB or TolC is a result of decreased expression of many genes involved in the pathogenic process , including those required for anaerobic - growth , motility , and host cell invasion , particularly SPI - 1 .
+These results are likely to be applicable to related species for which RND pumps have also been shown to contribute to pathogenicity , and these results may represent a general effect in which large numbers of genes are dependent on the presence of a functional major efflux system for expression .
+The link between innate MDR and pathogenicity establishes RND efflux pumps and the AcrAB - TolC system in particular as fundamental to the biology of the organism .
+We thank Maria Fookes ( Sanger Institute ) and Alex Mott ( Birmingham ) for technical assistance .
+Electron microscopy was performed at the Veterinary Laboratories Agency by Martin Woodward , Roberto La Ragione , and Bill Cooley .
+We also thank Ian Henderson for helpful discussions and reading the manuscript .
+The work in L.J.V.P. 's laboratory was supported by an unrestricted research grant in infectious diseases from the Bristol Myers Squibb foundation .
+M.A.W. is supported by a David Phillips Fellowship from the BBSRC .
+J.M.A.B. is supported by an MRC DTA studentship .
+Abouzeed , Y. M. , S. Baucheron , and A. Cloeckaert .
+ramR mutations involved in efflux - mediated multidrug resistance in Salmonella enterica serovar Typhimurium .
+Bader , M. W. , W. W. Navarre , W. Shiau , H. Nikaido , J. G. Frye , M. Mclelland , F. C. Fang , B. DeMoor , J. Vanderleydedn , and K. Marchal .
+Regulation of Salmonella typhimurium virulence gene expression by cationic antimicrobial peptides .
+Bailey , A. M. , I. T. Paulsen , and L. J. Piddock .
+RamA confers multidrug - resistance in Salmonella enterica via increased expression of acrB , which is inhibited by chlorpromazine .
+Bailey , A. M. , M. A. Webber , and L. J. Piddock .
+Medium plays a role in determining expression of acrB , marA , and soxS in Escherichia coli .
+Baucheron , S. , C. Mouline , K. Praud , E. Chaslus - Dancla , and A. Cloeckaert .
+TolC but not AcrB is essential for multidrug - resistant Salmonella enterica serotype Typhimurium colonization of chicks .
+Baucheron , S. , S. Tyler , D. Boyd , M. R. Mulvey , and E. Chaslus - Dancla .
+AcrAB - TolC directs efflux - mediated multidrug resistance in Salmonella enterica serovar Typhimurium DT104 .
+Bradley , M. D. , M. B. Beach , A. P. de Koning , T. S. Pratt , and R. Osuna .
+Effects of Fis on Escherichia coli gene expression during different growth stages .
+Buckley , A. M. , M. A. Webber , S. Cooles , L. P. Randall , and R. M. La Ragione .
+The AcrAB - TolC efflux system of Salmonella enterica serovar Typhimurium plays a role in pathogenesis .
+Darwin , K. H. , and V. L. Miller .
+InvF is required for expression of genes encoding proteins secreted by the SPI1 type III secretion apparatus in Salmonella typhimurium .
+Datsenko , K. A. , and B. L. Wanner .
+One - step inactivation of chromosomal genes in Escherichia coli K - 12 using PCR products .
+de Cristobal , R. E. , P. A. Vincent , and R. A. Salomon .
+Multidrug resistance pump AcrAB - TolC is required for high - level , Tet ( A ) - mediated tetracycline resistance in Escherichia coli .
+Doyle , M. , M. Fookes , A. Ivens , M. W. Mangan , J. Wain , and C. Dorman .
+An H - NS - like stealth protein aids horizontal DNA transmission in bacteria .
+Eaves , D. J. , V. Ricci , and L. J. Piddock .
+Expression of acrB , acrF , acrD , marA , and soxS in Salmonella enterica serovar Typhimurium : role in multiple antibiotic resistance .
+Eichelberg , K. , W. D. Hardt , and J. E. Galan .
+Characterization of SprA , an AraC - like transcriptional regulator encoded within the Salmonella typhimurium pathogenicity island 1 .
+Elkins , C. A. , and H. Nikaido .
+Substrate specificity of the RND - type multidrug efflux pumps AcrB and AcrD of Escherichia coli is determined predominantly by two large periplasmic loops .
+Elkins , C. A. , and H. Nikaido .
+Chimeric analysis of AcrA function reveals the importance of its C - terminal domain in its interaction with the AcrB multidrug efflux pump .
+Eriksson , S. , S. Lucchini , A. Thompson , M. Rhen , and J. C. Hinton .
+Unravelling the biology of macrophage infection by gene expression profiling of intracellular Salmonella enterica .
+Giraud , E. , A. Cloeckaert , D. Kerboeuf , and E. Chaslus - Dancla .
+Evidence for active efflux as the primary mechanism of resistance to ciprofloxacin in Salmonella enterica serovar Typhimurium .
+Hautefort , I. , A. Thompson , S. Eriksson - Ygberg , M. L. Parker , S. Lucchini , V. Danino , R. J. Bongaerts , N. Ahmad , M. Rhen , and J. C. Hinton .
+During infection of epithelial cells Salmonella enterica serovar Typhimurium undergoes a time - dependent transcriptional adaptation that results in simultaneous expression of three type 3 secretion systems .
+Kelly , A. , M. D. Goldberg , R. K. Carroll , V. Danino , J. C. Hinton , and C. Dorman .
+A global role for Fis in the transcriptional control of metabolism and type III secretion in Salmonella enterica serovar Typhimurium .
+Khoramian - Falsafi , T. , S. Harayama , K. Kutsukake , and J. C. Pechère .
+Effect of motility and chemotaxis on the invasion of Salmonella typhimurium into HeLa cells .
+Lucchini , S. , G. Rowley , M. D. Goldberg , D. Hurd , M. Harrison , and J. C. Hinton .
+H - NS mediates the silencing of laterally acquired genes in bacteria .
+Mangan , M. W. , S. Lucchini , V. Danino , T. O. Cróinín , J. C. Hinton , and C. Dorman .
+The integration host factor ( IHF ) integrates stationary - phase and virulence gene expression in Salmonella enterica serovar Typhimurium .
+Morgan , E. , A. J. Bowen , S. C. Carnell , T. S. Wallis , and M. P. Stevens .
+SiiE is secreted by the Salmonella enterica serovar Typhimurium pathogenicity island 4 - encoded secretion system and contributes to intestinal colonization in cattle .
+Morgan , E. , J. D. Campbell , S. C. Rowe , J. Bispham , M. P. Stevens , A. J. Bowen , P. A. Barrow , D. J. Maskell , and T. S. Wallis .
+Identification of host - specific colonization factors of Salmonella enterica serovar Typhimurium .
+Nikaido , E. , A. Yamaguchi , and K. Nishino .
+AcrAB multidrug efflux pump regulation in Salmonella enterica serovar Typhimurium by RamA in response to environmental signals .
+Nikaido , H. , and H. I. Zgurskaya .
+AcrAB and related multidrug efflux pumps of Escherichia coli .
+Nishino , K. , and A. Yamaguchi .
+Role of histone - like protein H - NS in multidrug resistance of Escherichia coli .
+Nishino , K. , T. Latifi , and E. A. Groisman .
+Virulence and drug resistance roles of multidrug efflux systems of Salmonella enterica serovar Typhimurium .
+Oethinger , M. , W. V. Kern , A. S. Jellen - Ritter , L. M. McMurry , and S. B. Levy .
+Ineffectiveness of topoisomerase mutations in mediating clinically significant fluoroquinolone resistance in Escherichia coli in the absence of the AcrAB efflux pump .
+Ono , S. , M. D. Goldberg , T. Olsson , D. Esposito , J. C. Hinton , and J. E. Ladbury .
+H - NS is a part of a thermally controlled mechanism for bacterial gene regulation .
+Papp - Wallace , K. M. , M. Nartea , D. G. Kehres , S. Porwollik , M. McClelland , S. J. Libby , F.C. Fang , and M. E. Maguire .
+The CorA Mg2 channel is required for the virulence of Salmonella enterica serovar Typhimurium .
+Clinically relevant chromosomally encoded multidrug resistance efflux pumps in bacteria .
+Multidrug - resistance efflux pumps - not just for resistance .
+Piddock , L. J. , D.G. White , K. Gensberg , L. Pumbwe , and D. J. Griggs .
+Evidence for an efflux pump mediating multiple antibiotic resistance in Salmonella enterica serovar Typhimurium .
+Pomposiello , P. J. , and B. Demple .
+Identification of SoxS - regulated genes in Salmonella enterica serovar Typhimurium .
+Reimers , M. , and V. J. Carey .
+Bioconductor : an open source framework for bioinformatics and computational biology .
+Ricci , V. , P. Tzakas , A. Buckley , and L. J. Piddock .
+Ciprofloxacinresistant Salmonella enterica serovar Typhimurium strains are difficult to select in the absence of AcrB and TolC .
+Rytkönen , A. , J. Poh , J. Garmendia , C. Boyle , A. Thompson , M. Liu , P. Freemont , J. C. Hinton , and D. W. Holden .
+SseL , a Salmonella deubiquitinase required for macrophage killing and virulence .
+Sittka , A. , S. Lucchini , K. Papenfort , C. M. Sharma , K. Rolle , T. T. Binneweis , J. C. Hinton , and J. Vogel .
+Deep sequencing analysis of small noncoding RNA and mRNA targets of the global post - transcriptional regulator , Hfq .
+Sulavik , M. C. , M. Dazer , and P. F. Miller .
+The Salmonella typhimurium mar locus : molecular and genetic analyses and assessment of its role in virulence .
+Tamayo , R. , A. M. Prouty , and J. S. Gunn .
+Identification and functional analysis of Salmonella enterica serovar Typhimurium PmrA - regulated genes .
+Thijs , I. M. , S. C. De Keersmaecker , A. Fadda , K. Engelen , H. Zhao , M. McClelland , K. Marchal , and J. Vanderleyden .
+Delineation of the Salmonella enterica serovar Typhimurium HilA regulon through genomewide location and transcript analysis .
+Thompson , A. , G. Rowley , M. Alston , V. Danino , and J. C. Hinton .
+Salmonella transcriptomics : relating regulons , stimulons and regulatory networks to the process of infection .
+Virlogeux - Payant , I. , S. Baucheron , J. Pelet , J. Trotereau , E. Bottreau , P. Velge , and A. Cloeckaert .
+TolC , but not AcrB , is involved in the invasiveness of multidrug - resistant Salmonella enterica serovar Typhimurium VOL .
+191 , 2009 SALMONELLA EFFLUX PUMPS AND VIRULENCE 4285 by increasing type III secretion system - 1 expression .
+Wang , H. , J. L. Dzink - Fox , M. Chen , and S. B. Levy .
+Genetic characterization of highly fluoroquinolone - resistant clinical Escherichia coli strains from China : role of acrR mutations .
+Webber , M. A. , and L. J. Piddock .
+, The importance of efflux pumps in bacterial antibiotic resistance .
+Werner , J. , and R. Misra .
+YaeT ( Omp85 ) affects the assembly of lipid - dependent and lipid - independent outer membrane proteins of Escherichia coli .
+White , D. G. , J. D. Goldman , B. Demple , and S. B. Levy .
+Role of the acrAB locus in organic solvent tolerance mediated by expression of marA , soxS , orrobA in Escherichia coli .
+Wilson , R. L. , S. J. Libby , A. M. Freet , J. D. Boddicker , T. F. Fahlen , and B. D. Jones .
+Fis , a DNA nucleoid - associated protein , is involved in Salmonella Typhimurium SPI - 1 invasion gene expression .
+Wray , C. , and W. J. Sojka .
+Experimental Salmonella typhimurium infection in calves .
+Yang , S. , C. R. Lopez , and E. L. Zechiedrich .
+Quorum sensing and multidrug transporters in Escherichia coli .
+Zhang , A. , J. L. Rosner , and R. G. Martin .
+Transcriptional activation by MarA , SoxS and Rob of two tolC promoters using one binding site : a complex promoter configuration for tolC in Escherichia coli .

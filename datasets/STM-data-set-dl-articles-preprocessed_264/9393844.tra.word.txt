@@ -1,0 +1,225 @@
+INFECTION AND IMMUNITY , Dec. 1997 , p. 5371 -- 5375 Vol .
+65 , No. 12 0019 - 9567/97 / $ 04.00 0 The Transcriptional Regulator SoxS Is Required for Resistance of Salmonella typhimurium to Paraquat but Not for Virulence in Mice FERRIC C. FANG , * ANDRÉS VAZQUEZ - TORRES , AND YISHENG XU Departments of Medicine , Pathology , and Microbiology , University of Colorado Health Sciences Center , Denver , Colorado 80262 In Escherichia coli , the SoxRS regulon is required for resistance to redox - cycling agents which elevate cytosolic superoxide levels , as well as for resistance to nitric - oxide - dependent macrophage killing .
+In Salmonella typhimurium , SoxS is also required for enhanced expression of Mn - superoxide dismutase and resistance to paraquat , but not for resistance to nitric - oxide donor compounds in - vitro , resistance to macrophage killing , or virulence in mice .
+Differences in other antioxidant defense systems or compensation by homologous regulons may account for species - specific differences in the role of SoxS .
+University of Colorado Health Sciences Center , Mail code B - 168 , Denver , CO 80262 .
+A number of stress regulons which defend bacteria from oxidative injury have been identified .
+The divergently transcribed soxR and soxS genes encode components of an unusual two - component regulatory system which was first recognized to activate expression of more than 10 Escherichia coli genes in response to redox - cycling agents ( e.g. , paraquat ) , which generate elevated levels of superoxide ( O 2 ) within the bacterial cytosol ( 56 , 58 ) .
+Generation of extracellular O 2 by xanthine oxidase - hypoxanthine does not induce the expression of SoxRS - regulated genes ( 49 ) .
+However , induction of the SoxRS regulon is not specific for cytosolic O 2 ; dissolved nitric - oxide ( NO ) gas , NO - producing macrophages , hypochlorous acid , copper sulfate , or diamide can also induce SoxRS - dependent gene activation ( 15 , 19 , 37 , 41 , 48 ) .
+Each SoxR monomer contains a [ 2Fe - 2S ] cluster which is required for functional activity but not for DNA binding at the soxS promoter region ( 17 , 32 ) .
+One - electron oxidation of the FeS center allows SoxR to activate transcription of the soxS gene ( 25 ) .
+The SoxS protein in turn interacts with 70 - RNA polymerase to promote transcription of multiple genes , including zwf ( glucose - 6-phosphate dehydrogenase ) , sodA ( manganese - cofactored superoxide dismutase [ SOD ] ) , micF ( antisense RNA for ompF mRNA ) , acrAB ( inner membrane efflux pump ) , nfo ( endonuclease IV ) , rimK ( modifies ribosomal protein S6 ) , fumC ( oxidation - resistant fumarase ) , acnA ( aconitase ) , ribA ( GTP cyclohydrolase II ) , and fpr ( ferredoxin - NADPH oxidoreductase ) ( 9 , 28 , 29 , 38 , 41 , 42 , 56 , 58 , 59 ) .
+Expression of SoxS alone can activate genes in the absence of SoxR or inducing agents such as paraquat ( 1 ) .
+The SoxR protein is homologous to the MerR family of transcriptional activators ( 1 ) , while the SoxS protein has significant homology to the C - terminal DNA - binding region of the AraC family of transcriptional regulatory proteins ( 52 ) .
+A subset of this family includes SoxS , MarA , Rob , TetD , and RamA from Klebsiella pneumoniae ; PqrA from Proteus vulgaris ; and AarP from Providencia stuartii ( 2 , 10 , 24 , 26 , 27 , 33 , 43 , 54 ) .
+These proteins have 37 to 52 % amino - acid identity with SoxS and , interestingly , appear to share some functional overlap as well .
+Overexpression of MarA , Rob , RamA , PqrA , or AarP results in the activation of at least some , though not all , SoxRSregulated genes ( 2 , 26 , 33 -- 35 , 40 , 43 -- 45 , 50 ) .
+However , divergent environmental signals appear to induce expression of these homologous systems ; for example , marA gene expression is induced by weak - acids such as salicylate ( 11 ) , while rob expression appears to be growth phase regulated ( 36 ) .
+E. coli strains carrying null mutations in soxR or soxS are hypersusceptible to redox - cycling agents ( 59 ) .
+Of greater potential biological significance was an E. coli soxRS mutant which was found to have a survival rate reduced by approximately fivefold in peptone - elicited peritoneal macrophages from CD1 mice ( 49 ) .
+E. coli strains carrying mutations in SoxRS - regulated genes nfo , micF , sodA , and zwf were also observed to have decreased resistance to macrophage killing ( 48 , 49 ) .
+In related experiments , the hypersusceptibility of soxS mutant E. coli to macrophage killing was partially abrogated by the addition of N G - monomethyl - L-arginine , an inhibitor of inducible NO synthase ( 48 ) , suggesting that the SoxRS regulon functions to counteract NO - dependent antimicrobial systems of phagocytic cells .
+Other phenotypes associated with soxRS include resistance to multiple antimicrobial - agents , tolerance to organic solvents , and resistance to heavy metals ( 3 , 9 , 44 , 47 ) .
+Unlike E. coli , Salmonella species are intracellular pathogens with specific adaptations favoring survival within host macrophages ( 22 , 23 ) .
+Observations of experimental animals or of humans indicate that oxygen - dependent antimicrobial systems are important in host defense against Salmonella infection ( 7 , 14 , 46 ) .
+Therefore , it has been suggested that the SoxRS regulon plays an important role in Salmonella virulence by mediating resistance to reactive oxygen and nitrogen intermediates produced by phagocytic cells ( 48 ) .
+In the present study , we constructed a Salmonella typhimurium strain carrying a soxS mutation in order to assess the role of the SoxRS regulon in the resistance of Salmonella to oxidative and nitrosative stress in - vitro , survival in phagocytic cells , and virulence in mice .
+Primers 5 - ATCAAACTGCCGACGGAAAACGCGGGA GAA - 3 and 5 - TGACCAGCCGCTTAACATTGATGTAGT CGC - 3 were devised from the sequence of the E. coli soxS gene and used to amplify an internal 238 - bp soxS fragment from S. typhimurium ATCC 14028s genomic DNA by reducedstringency PCR ( 50 °C ) .
+This fragment was ligated into the EcoRV site of pBLUESCRIPT ( Stratagene , La Jolla , Calif. ) in E. coli DH5 ( 30 ) and sequenced .
+Genetic manipulations and DNA sequence determination were performed by conven - 5371 5372 NOTES INFECT .
+Paraquat - inducible SOD activity of soxS mutant and wild - type ( WT ) S. typhimurium strains .
+Equivalent quantities of cell extracts from soxS mutant or wild - type S. typhimurium strains were electrophoresed through a 7 % acrylamide nondenaturing gel and stained for visualization of SOD activity .
+The locations of Fe - cofactored ( SodB ) and Mn - cofactored ( SodA ) SODs are indicated .
+A 250 M concentration of paraquat ( P ) was used to induce the SoxRS regulon which controls sodA expression .
+Inducibility of sodA expression by paraquat is abrogated in the soxS mutant , but basal sodA expression is unchanged .
+Susceptibility of soxS mutant and wild - type ( WT ) S. typhimurium strains to reactive oxygen and nitrogen intermediates in - vitro .
+Susceptibility was determined by a disk diffusion method ( 4 , 13 ) .
+Zone diameter ( standard deviation of the mean ) is a measure of susceptibility .
+soxS mutant S. typhimurium has enhanced susceptibility to paraquat but not to S - nitrosoglutathione ( GSNO ) , SIN - 1 , H 2 O 2 , or DETA/NO .
+DETA/NO failed to demonstrate detectable inhibition of either strain .
+The cloned fragment was determined to be 81 % identical to the corresponding region of the E. coli soxS gene .
+Subsequently , the entire sequence of the S. typhimurium soxS gene was deposited in GenBank ( U61147 ) by other investigators and confirmed to correspond precisely with the cloned fragment .
+The E. coli and S. typhimurium predicted SoxS proteins are highly related , with 95 % identity at the amino - acid level .
+The internal S. typhimurium soxS fragment was subcloned into the EcoRI and HindIII sites of suicide vector pRR10 ( trfA ) ( 21 ) in E. coli S17 - 1 ( 55 ) and conjugated into S. typhimurium 14028s to create a soxS gene interruption linked to a - lactam resistance marker .
+Integration of the suicide vector results in the deletion of the last 30 nucleotides of soxS gene , which were previously shown in E. coli to be essential for production of a functional SoxS protein ( 58 ) .
+The E. coli donor strain was counterselected in M9 - minimal - medium ( 51 ) with 250 g of penicillin ( Sigma , St. Louis , Mo. ) per ml , and S. typhimurium exconjugants on xylose - lysine - deoxycholate agar ( Difco , Detroit , Mich. ) were identified .
+Interruption of the soxS gene was confirmed by Southern blotting of genomic DNA ( not shown ) with the 32 P - labelled soxS internal fragment as a probe .
+Expression of the SoxRS regulon was induced by treatment of 2 10 8 bacteria in 5 ml of Luria - Bertani ( LB ) broth with 250 M paraquat ( Sigma ) for 4 h. Cells were subsequently lysed and analyzed by SOD activity gel electrophoresis ( 5 ) ( Fig. 1 ) .
+Bacteria were lysed by freeze - thawing with or without4hof pretreatment with 250 M paraquat ( Sigma ) .
+Extracts were separated by electrophoresis through a 7 % acrylamide nondenaturing gel .
+The gel was stained with nitroblue tetrazolium in the presence of photoactivated riboflavin , revealing SOD activity as a negative image .
+Marked augmentation of Mn - SOD activity was seen in the wild type , but not in the soxS mutant S. typhimurium strain treated with paraquat .
+Susceptibility to oxidant and NO - donor compounds was determined by disk diffusion assaying as described previously ( 4 , 13 ) .
+Paper disks ( diameter , 1/4 in .
+) were placed over a lawn of 10 6 bacteria .
+A 15 - l volume of paraquat ( 1.9 % ; Sigma ) , S - nitrosoglutathione ( 500 mM ; prepared as described previously [ 13 ] ) , 3 - morpholinosydnonimine ( SIN - 1 ; 500 mM ; Sigma ) , hydrogen peroxide ( 3 % ; Sigma ) , or diethylenetriamine - NO adduct ( 500 mM DETA/NO ; Research Biochemists International , Natick , Mass. ) was applied to the disks as indicated elsewhere ( 13 ) .
+Zones of inhibition were measured after overnight incubation at 37 °C ; the zone of inhibition is a measure of bacterial susceptibility .
+Each susceptibility experiment was performed at least twice .
+S. typhimurium carrying a soxS mutation was found to be hypersusceptible to paraquat ( 1.9 % ) compared with the wild type ( Fig. 2 ) , but not to S - nitrosoglutathione ( 500 mM ) , SIN - 1 ( 500 mM ) , hydrogen - peroxide ( 3 % ) , or DETA/NO ( 500 mM ) .
+Susceptibility to several conventional antimicrobial - agents was also determined by a disk diffusion method ( 4 ) .
+Mueller - Hinton agar ( BBL , Cockeysville , Md. ) was used for antimicrobial agent susceptibility testing .
+Commercially prepared disks ( BBL ) impregnated with - tetracycline ( 30 g ) , ofloxacin ( 5 g ) , trimethoprim - sulfamethoxazole ( 1.25 / 23.75 g ) , or gentamicin ( 10 g ) were used as indicated elsewhere ( 4 ) .
+Wild - type S. typhimurium and soxS mutant S. typhimurium did not differ in their susceptibilities to tetracycline , ofloxacin , trimethoprimsulfamethoxazole , or gentamicin ( data not shown ) .
+Thus , basal levels of resistance to multiple antimicrobial - agents do not appear to be dependent on SoxRS , in contrast to observations regarding the role of MarA in E. coli .
+Relative survival of soxS mutant or wild - type S. typhimurium in both J774 .1 macrophage - like cells and gamma interferon ( IFN - ) - stimulated resident peritoneal macrophages ( Fig. 3 ) from C57/BL6 mice was determined essentially as described by Buchmeier and Heffron ( 8 ) .
+J774 .1 cells or resident peritoneal macrophages from C57/BL6 mice ( 57 ) were cultivated in RPMI with 10 % horse serum , plated to a density of 5 10 5 / ml , and allowed to adhere for 4 h. IFN - ( 200 U/ml ) was added to the resident peritoneal macrophages for 18 h. Bacteria were opsonized in normal mouse serum and spun onto macrophages at a multiplicity of infection of 10:1 .
+After 15 min of incubation , gentamicin ( 6 g/ml ) was added to kill extracellular organisms .
+At specified time intervals , the macrophages were lysed in 0.5 % deoxycholate and the bacteria were dilutionally plated onto LB agar for quantitation of CFU .
+Nitrite production was assayed by the Griess reaction ( 18 ) .
+Each of these experiments was performed at least twice .
+No significant effect of the soxS mutation on survival in either J774 .1 or peritoneal cells was evident .
+NO production by the peritoneal macrophages was confirmed by measurement of its end oxidation VOL .
+Virulence of soxS mutant and wild - type S. typhimurium strains in mice a Mouse strain Bacterial strain b Mortality ( no .
+of days to death ) Inoculum ( i.p. ) BALB/c WT 4/4 ( 7 days ) 10 3 soxS 4/4 ( 7 days ) 10 3 PBS only 0/4 C57BL/6J WT 3/3 ( 7 days ) 1.4 10 3 soxS 3/3 ( 7 days ) 2 10 3 rpoS 0/3 1.5 10 3 Plasmid cured 1/3 ( 9 days ) 1.4 10 3 PBS only 0/3 C3H/HeN WT 3/4 ( 11 days ) 1.6 10 3 soxS 2/4 ( 13 days ) 1.3 10 3 PBS only 0/3 FIG. 3 .
+Survival of soxS mutant and wild - type ( WT ) S. typhimurium strains in macrophages .
+Survival rates of soxS mutant and wild - type S. typhimurium strains in J774 .1 macrophage - like cells or in IFN - - stimulated resident peritoneal macrophages ( RPM ) from C57/BL6 mice were quantitated .
+No significant effect of the soxS mutation on the ability of Salmonella to survive in macrophages was detected .
+product nitrite , which was determined to be 800 mol/10 6 cells/20 h following IFN - stimulation .
+The mortality of Ity genetically susceptible ( BALB/c and C57BL/6J ) or Ity r genetically resistant ( C3H/HeN ) mice was determined after intraperitoneal administration of wild - type or soxS mutant S. typhimurium to 6 - to 8 - week - old female BALB/c , C57BL/6J , or C3H/HeN mice ( Jackson Laboratories , Bar Harbor , Maine ) .
+The intraperitoneal 50 % lethal dose ( LD 50 ) for wild - type S. typhimurium in BALB/c mice is 10 organisms ( 22 ) .
+Therefore , an intraperitoneal inoculum of 10 3 organisms is routinely employed to detect significant attenuation of Salmonella virulence ( 22 ) in susceptible strains of mice .
+No significant effects of the soxS mutation on virulence were seen in any mouse model ( Table 1 ) , although a subtle effect on virulence can not be excluded by these experiments .
+Mice challenged with soxS mutant S. typhimurium were necropsied to confirm the stability of the soxS insertion mutation in - vivo ; 100 % of 100 individual bacterial colonies recovered from each mouse spleen were found to retain the - lactamase marker after being picked onto selective medium .
+Sequence analysis indicates that the transcriptional regulator SoxS has been highly conserved in E. coli and S. typhimurium .
+Elegant prior studies with E. coli have demonstrated that oxidative - stresses which result in one - electron oxidation of the essential SoxS [ 2Fe - 2S ] cluster can activate the SoxS protein ( 17 , 25 ) and ultimately result in the enhanced expression of more than 10 SoxS - activated genes which help to resist or repair oxidative cell damage .
+In this work , we report the mutagenesis and functional characterization of soxS in S. typhimurium .
+As demonstrated in E. coli ( 56 ) , SoxS is required in S. typhimurium for paraquat - induced augmentation of Mn - SOD expression and resistance to the antimicrobial activity of paraquat .
+However , despite earlier experiments with E. coli suggesting that the SoxRS regulon might allow bacteria to resist NOrelated antimicrobial systems of phagocytic cells ( 48 ) , soxS mutant S. typhimurium does not have enhanced susceptibility to NO - donor compounds , enhanced susceptibility to killing by a Mortality in BALB/c , C57BL/6J , or C3H/HeN mice following intraperitoneal ( i.p. ) inoculation with wild - type ( WT ) or mutant S. typhimurium was determined .
+The intraperitoneal S. typhimurium LD 50 for BALB/c and C57BL/6J mice is 10 organisms ( 22 ) , and the LD 50 for C3H/HeN mice is 1 10 3 to 2 10 3 organisms ( 14 ) .
+The soxS gene is not essential for Salmonella virulence in mice .
+b PBS , phosphate - buffered saline .
+NO - producing macrophages , or reduced virulence in mice , including both innately Salmonella - susceptible and - resistant mouse strains .
+These findings are somewhat unexpected , because several clinical and experimental observations have indicated that both the respiratory burst and NO production by phagocytic cells play important roles in host defense against Salmonella infection ( 7 , 14 , 46 ) .
+The specific reactive oxygen and nitrogen species responsible for microbial stasis or killing in - vivo have not yet been precisely defined ( 20 ) .
+Redox - cycling agents such as paraquat can induce expression of the SoxRS regulon by elevating cytosolic superoxide levels in - vitro but are unlikely to represent a physiologic stimulus relevant to phagocyte - pathogen interactions , since the inner membranes of gram - negative bacteria do not appear to be permeable to superoxide anion ( 49 , 53 ) .
+Although NO radical ( NO ) can penetrate membranes readily ( 16 ) , it does not appear to be cytotoxic for E. coli or Salmonella , in contrast to other NO congeners ( 6 , 13 ) .
+Therefore , it is possible that the oxidants resisted by the SoxRS regulon are not the same reactants encountered by bacteria during phagocyte - pathogen interactions .
+Alternatively , it is conceivable that the SoxRS regulon is nonessential for Salmonella virulence because of the presence of other antioxidant defenses .
+Salmonella is highly adapted to survival within macrophages ( 22 , 23 ) and may have evolved additional systems capable of supplanting the role of SoxRS .
+Several SoxRS - activated genes are already known to be under the influence of other regulatory networks ( e.g. , fur , S , arcA , IHF , and fnr ) ( 12 , 31 , 39 ) .
+Moreover , the complex interrelationships between SoxS and its homologs ( e.g. , MarR and Rob ) have yet to be fully defined .
+Compensation for the loss of SoxS by a related transcriptional activator responding to a different environmental signal may account for the dispensability of SoxS for Salmonella virulence and survival in phagocytes .
+Additional important genetic regulatory systems controlling Salmonella resistance to oxygen - dependent antimicrobial systems remain to be elucidated .
+This work was supported in part by grants from the National Institutes of Health ( AI32463 and AI39557 ) and the U.S. Department of Agriculture ( 9401954 ) .
+Assistance with the performance of antimicrobial susceptibility assays by the Clinical Microbiology Laboratory of the University Hospi - 5374 NOTES INFECT .
+tal of the University of Colorado Health Sciences Center is gratefully acknowledged .
+Amabile - Cuevas , C. F. , and B. Demple .
+Molecular characterization of the soxRS genes of Escherichia coli : two genes control a superoxide stress regulon .
+Ariza , R. R. , Z. Li , N. Ringstad , and B. Demple .
+Activation of multiple antibiotic resistance and binding of stress - inducible promoters by Escherichia coli Rob protein .
+Asako , H. , H. Nakajima , K. Kobayashi , M. Kobayashi , and R. Aono .
+Organic solvent tolerance and antibiotic resistance increased by overexpression of marA in Escherichia coli .
+Bauer , A. W. , W. M. M. Kirby , J. C. Sherris , and M. Turck .
+Antibiotic susceptibility testing by a standardized single disk method .
+Beauchamp , B. , and I. Fridovich .
+Superoxide dismutase : improved assays and an assay applicable to acrylamide gels .
+Brunelli , L. , J. P. Crow , and J. S. Beckman .
+The comparative toxicity of nitric - oxide and peroxynitrite to Escherichia coli .
+Buchmeier , N. , C. J. Lipps , M. H. Y. So , and F. Heffron .
+Recombination - deficient mutants of Salmonella typhimurium are avirulent and sensitive to the oxidative burst of macrophages .
+Buchmeier , N. A. , and F. Heffron .
+Intracellular survival of wild - type Salmonella typhimurium and macrophage - sensitive mutants in diverse populations of macrophages .
+Chou , J. H. , J. T. Greenberg , and B. Demple .
+Posttranscriptional repression of Escherichia coli OmpF protein in response to redox stress : positive control of the micF antisense RNA by the soxRS locus .
+Cohen , S. P. , H. Hachler , and S. B. Levy .
+Genetic and functional analysis of the multiple antibiotic resistance ( mar ) locus in Escherichia coli .
+Cohen , S. P. , S. B. Levy , J. Foulds , and J. L. Rosner .
+Salicylate induction of antibiotic resistance in Escherichia coli -- activation of the mar operon and a mar - independent pathway .
+Compan , I. , and D. Touati .
+Interaction of six global transcription regulators in expression of manganese superoxide dismutase in Escherichia coli K - 12 .
+DeGroote , M. A. , D. Granger , Y. Xu , G. Campbell , R. Prince , and F. C. Fang .
+Genetic and redox determinants of nitric - oxide cytotoxicity in a Salmonella typhimurium model .
+DeGroote , M. A. , T. Testerman , Y. Xu , G. Stauffer , and F. C. Fang .
+Homocysteine antagonism of nitric - oxide - related cytostasis in Salmonella typhimurium .
+Redox signaling and gene control in the Escherichia coli soxRS oxidative - stress regulon -- a review .
+Denicola , A. , J. M. Souza , R. Radi , and E. Lissi .
+Nitric oxide diffusion in membranes determined by fluorescence quenching .
+Ding , H. , E. Hidalgo , and B. Demple .
+The redox state of the [ 2Fe - 2S ] clusters in SoxR protein regulates its activity as a transcription factor .
+Drapier , J. C. , and J. B. Hibbs , Jr. 1988 .
+Differentiation of murine macrophages to express nonspecific cytotoxicity for tumor cells results in L - arginine - dependent inhibition of mitochondrial iron - sulfur enzymes in the macrophage effector cells .
+Dukan , S. , S. Dadon , D. R. Smulski , and S. Belkin .
+Hypochlorous acid activates the heat - shock and soxRS systems of Escherichia coli .
+Mechanisms of nitric - oxide - related antimicrobial activity .
+Fang , F. C. , S. J. Libby , N. A. Buchmeier , P. C. Loewen , J. Switala , J. Harwood , and D. G. Guiney .
+The alternative factor KatF ( RpoS ) regulates Salmonella virulence .
+Fields , P. I. , R. V. Swanson , C. G. Haidaris , and F. Heffron .
+Mutants of Salmonella typhimurium that can not survive within the macrophage are avirulent .
+Finlay , B. B. , and S. Falkow .
+Salmonella as an intracellular parasite .
+Gambino , L. , S. J. Gracheck , and P. F. Miller .
+Overexpression of the MarA positive regulator is sufficient to confer multiple antibiotic resistance in Escherichia coli .
+Gaudu , P. , N. Moon , and B. Weiss .
+Regulation of the SoxRS oxidative stress regulon -- reversible oxidation of the Fe - S centers of SoxR in - vivo .
+George , A. M. , R. M. Hall , and H. W. Stokes .
+Multidrug resistance in Klebsiella pneumoniae : a novel gene , ramA , confers a multidrug resistance phenotype in Escherichia coli .
+Greenberg , J. T. , J. H. Chou , P. A. Monach , and B. Demple .
+Activation of oxidative - stress genes by mutations at the soxQ/cfxB/marA locus of Escherichia coli .
+Greenberg , J. T. , P. Monach , J. H. Chou , P. D. Josephy , and B. Demple .
+Positive control of a global antioxidant defense regulon activated by superoxide - generating agents in Escherichia coli .
+Gruer , M. J. , and J. R. Guest .
+Two genetically - distinct and differentially - regulated aconitases ( AcnA and AcnB ) in Escherichia coli .
+Studies on transformation of Escherichia coli with plasmids .
+Hassan , H. M. , and H. C. Sun .
+Regulatory roles of Fnr , Fur , and Arc in expression of manganese - containing superoxide dismutase in Escherichia coli .
+Hidalgo , E. , and B. Demple .
+An iron - sulfur center essential for transcriptional activation by the redox - sensing SoxR protein .
+Ishida , H. , H. Fuziwara , Y. Kaibori , T. Horiuchi , K. Sato , and Y. Osada .
+Cloning of multidrug resistance gene pqrA from Proteus vulgaris .
+Jair , K. W. , R. G. Martin , J. L. Rosner , N. Fujita , A. Ishihama , and R. E. Wolf , Jr. 1995 .
+Purification and regulatory properties of MarA protein , a transcriptional activator of Escherichia coli multiple antibiotic and superoxide resistance promoters .
+Jair , K. W. , X. Yu , K. Skarstad , B. Thony , N. Fujita , A. Ishihama , and R. E. Wolf , Jr. 1996 .
+Transcriptional activation of promoters of the superoxide and multiple antibiotic resistance regulons by Rob , a binding protein of the Escherichia coli origin of chromosomal replication .
+Kakeda , M. , C. Ueguchi , H. Yamada , and T. Mizuno .
+An Escherichia coli curved DNA - binding protein whose expression is affected by the stationary - phase - specific sigma factor sigma S. Mol .
+Kimura , T. , and H. Nishioka .
+Intracellular generation of superoxide by copper sulphate in Escherichia coli .
+Koh , Y. S. , J. Choih , J. H. Lee , and J. H. Roe .
+Regulation of the ribA gene encoding GTP cyclohydrolase II by the soxRS locus in Escherichia coli .
+Koh , Y. S. , and J. H. Roe .
+Dual regulation of the paraquat - inducible gene pqi - 5 by SoxS and RpoS in Escherichia coli .
+Li , Z. Y. , and B. Demple .
+Sequence specificity for DNA binding by Escherichia coli SoxS and Rob proteins .
+Liochev , S. I. , and I. Fridovich .
+Fumarase C , the stable fumarase of Escherichia coli , is controlled by the soxRS regulon .
+Liochev , S. I. , A. Hausladen , W. F. Beyer , Jr. , and I. Fridovich .
+NADPH : ferredoxin oxidoreductase acts as a paraquat diaphorase and is a member of the soxRS regulon .
+Macinga , D. R. , M. M. Parojcic , and P. N. Rather .
+Identification and analysis of aarP , a transcriptional activator of the 2 - N - acetyltransferase in Providencia stuartii .
+Miller , P. F. , L. F. Gambino , M. C. Sulavik , and S. J. Gracheck .
+Genetic relationship between soxRS and mar loci in promoting multiple antibiotic resistance in Escherichia coli .
+Miller , P. F. , and M. C. Sulavik .
+Overlaps and parallels in the regulation of intrinsic multiple - antibiotic resistance in Escherichia coli .
+Mouy , R. , A. Fischer , E. Vilmer , R. Seger , and C. Griscelli .
+Incidence , severity , and prevention of infections in chronic granulomatous disease .
+Nakajima , H. , K. Kobayashi , M. Kobayashi , H. Asako , and R. Aono .
+Overexpression of the robA gene increases organic solvent tolerance and multiple antibiotic and heavy metal ion resistance in Escherichia coli .
+Nunoshiba , T. , T. deRojas - Walker , S. R. Tannenbaum , and B. Demple .
+Roles of nitric - oxide in inducible resistance of Escherichia coli to activated murine macrophages .
+Nunoshiba , T. , T. deRojas - Walker , J. S. Wishnok , S. R. Tannenbaum , and B. Demple .
+Activation by nitric - oxide of an oxidative - stress response that defends Escherichia coli against activated macrophages .
+Rosner , J. L. , and J. L. Slonczewski .
+Dual regulation of inaA by the multiple antibiotic resistance ( mar ) and superoxide ( soxRS ) stress response systems of Escherichia coli .
+Sambrook , J. , E. F. Fritsch , and T. Maniatis .
+Molecular cloning : a laboratory manual .
+Cold Spring Harbor Laboratory Press , Cold Spring Harbor , N.Y. 52 .
+Two positively regulated systems , ara and mal , p. 1300 -- 1309 .
+In F. C. Neidhardt , J. L. Ingraham , K. B. Low , B. Magasanik , M. Schaechter , and M. E. Umbarger ( ed .
+) , Escherichia coli and Salmonella typhimurium : cellular and molecular biology , vol .
+American Society for Microbiology , Washington , D.C. 53 .
+Schnell , S. , and H. M. Steinman .
+Function and stationary - phase in - VOL .
+65 , 1997 NOTES 5375 duction of periplasmic copper - zinc superoxide dismutase and catalase/peroxidase in Caulobacter crescentus .
+Schollmeier , K. , and W. Hillen .
+Transposon Tn10 contains two structural genes with opposite polarity between tetA and IS10 R .
+Simon , R. , M. O'Connell , M. Labes , and A. Pühler .
+Plasmid vectors for the genetic analysis and manipulation of Rhizobia and other gram - negative bacteria .
+Tsaneva , I. R. , and B. Weiss .
+soxR , a locus governing a superoxide response regulon in Escherichia coli K - 12 .
+Vazquez - Torres , A. , J. Jones - Carson , and E. Balish .
+Peroxynitrite contributes to the candidacidal activity of nitric - oxide - producing macrophages .
+Wu , J. , and B. Weiss .
+Two divergently transcribed genes , soxR and soxS , control a superoxide response regulon of Escherichia coli .
+Wu , J. , and B. Weiss .
+Two - stage induction of the soxRS ( superoxide response ) regulon of Escherichia coli .

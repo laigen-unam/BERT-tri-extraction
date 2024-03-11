@@ -1,0 +1,152 @@
+JOURNAL OF BACTERIOLOGY , May 2010 , p. 2459 -- 2462 Vol .
+192 , No. 9 0021 - 9193/10 / $ 12.00 doi : 10.1128 / JB.00047 - 10 NOTE SprB Is the Molecular Link between Salmonella Pathogenicity Island 1 ( SPI1 ) and SPI4 † Supreet Saini and Christopher V. Rao * Department of Chemical and Biomolecular Engineering , University of Illinois at Urbana -- Champaign , Urbana , Illinois 61801 Salmonella pathogenicity island 1 ( SPI1 ) and SPI4 have previously been shown to be jointly regulated .
+We report that SPI1 and SPI4 gene expression is linked through a transcriptional activator , SprB , encoded within SPI1 and regulated by HilA .
+SprB directly activates SPI4 gene expression and weakly represses SPI1 gene expression through HilD .
+Salmonella enterica serovar Typhimurium is a common foodborne pathogen that invades intestinal epithelial cells using a type three secretion system ( T3SS ) encoded within Salmonella pathogenicity island 1 ( SPI1 ) ( 8 , 12 , 15 , 22 ) .
+The SPI1 master regulator , HilA , activates the expression of the genes encoding the T3SS structural proteins , chaperones , and secreted effectors ( 16 ) .
+Three AraC - like transcription factors -- HilC , HilD , and RtsA -- positively regulate HilA expression in response to various intracellular and environmental signals ( 5 , 7 , 17 ) .
+In addition to these positive regulators , the genes within SPI1 are negatively regulated by HilE ( 2 ) .
+Also encoded within SPI1 is a transcription factor , SprB , from the LuxR/UhaP family of transcription factors .
+Eichelberg and coworkers ( 4 ) previously found the gene for SprB to be expressed under conditions similar to those under which other SPI1 genes are expressed .
+However , they found that SprB was not involved in regulating the expression of SPI1 genes and speculated that it may instead regulate novel SPI1 T3SS substrates .
+In this work , we demonstrate that SprB regulates the expression of the genes within SPI4 .
+SPI4 encodes a nonfimbrial adhesin ( 9 ) that is involved in the intestinal phase of infection ( 13 , 14 , 19 ) .
+Previously , a number of studies have shown that there is a link between SPI1 and SPI4 gene expression ( 1 , 3 , 6 , 9 , 18 ) .
+In particular , they demonstrated that SPI4 gene expression is HilA dependent .
+However , Main - Hester and coworkers showed that , in the absence of the SPI1 locus , HilA is unable to activate SPI4 gene expression ( 18 ) .
+Their results suggest that some other HilAdependent regulator within SPI1 may be involved .
+Here , we show that this other regulator is SprB .
+SprB transcriptionally regulates SPI4 gene expression .
+The SPI4 locus encodes six genes within a single operon under the and Biomolecular Engineering , University of Illinois at Urbana -- Champaign , 600 South Mathews Avenue , IL 61801 .
+† Supplemental material for this article may be found at http://jb .
+Published ahead of print on 26 February 2010 .
+control of the P siiA promoter ( 9 ) .
+To test whether SprB in fact regulates SPI4 gene expression , we measured P siiA promoter activity using a plasmid - based Venus transcriptional reporter ( 20 ) in the wild type and a sprB mutant .
+As shown in Fig. 1A , deleting sprB causes a threefold decrease in P siiA promoter activity as determined by changes in fluorescence .
+Moreover , we can complement this mutant by expressing SprB from an anhydrotetracycline ( aTc ) - inducible promoter on a compatible plasmid ( 21 ) .
+We next tested how individually expressing the SPI1 regulators -- HilA , HilC , HilD , RtsA , and SprB -- from an aTc - inducible promoter would affect P siiA promoter activity in a SPI1 rtsAB mutant .
+Of the five , only SprB was capable of activating the P siiA promoter ( Fig. 1B ) .
+We performed similar experiments with Escherichia coli and obtained identical results ( data not shown ) .
+To test whether SprB directly binds to the P siiA promoter , we used a coprecipitation assay .
+In this experiment , we first expressed 6 His - tagged SprB from the constitutive P LtetO - 1 promoter on a plasmid in a sprB mutant and then passed the cross - linked cell lysate over a Ni 2 column ( see the supplemental material for more details ) .
+Upon elution from the column and reverse cross - linking , we found by PCR that SprB directly binds the P siiA promoter region ( Fig. 1C ) .
+As a negative control , we also tested whether SprB binds to the P fimA promoter region , a promoter whose activity is unaffected by SprB , and found that it did not .
+Collectively , these results demonstrate that SprB binds the P siiA promoter and activates SPI4 gene expression .
+HilA transcriptionally regulates SprB expression .
+Multiple studies have previously shown that SPI4 gene expression is HilA dependent ( 1 , 3 , 6 , 9 , 18 ) .
+We therefore hypothesized that HilA regulates SprB expression , as this would explain the decrease in P siiA promoter activity previously observed when HilA is deleted .
+It would also explain why other SPI1 regulators -- namely HilC , HilD , and RtsA -- affect SPI4 gene expression , as they in turn regulate HilA expression .
+To test this hypothesis , we measured the effect of individually expressing the SPI1 regulators -- HilA , HilC , HilD , RtsA , and SprB -- from an aTc - inducible promoter in a SPI1 rtsAB 2459 2460 NOTE J. BACTERIOL .
+SprB regulates SPI4 gene expression .
+( A ) Comparison of P siiA promoter activity in the wild type , a sprB mutant , and a sprB mutant expressing SprB from an aTc - inducible promoter on a plasmid ( pSprB ) .
+pTetR denotes the empty plasmid control .
+Expression was induced with 50 ng/ml aTc .
+( B ) SprB can activate the P siiA promoter in the absence of other SPI1 genes ( SPI1 rtsAB ) ; the other SPI1 regulators -- HilA , HilC , HilD , and RtsA -- can not .
+Activators were expressed from an aTc - inducible promoter on a plasmid .
+Expression was induced with 50 ng/ml aTc .
+Fluorescence values were normalized with the optical density at 600 nm ( OD600 ; A.U. , arbitrary units ) to account for cell density .
+Error bars indicate standard deviations .
+( C ) SprB binds to the P siiA promoter region as determined by a coprecipitation assay using 6 His - tagged SprB .
+PCR was used to determine whether the P siiA promoter region is in the coprecipitated DNA .
+The P fimA promoter region was included as a negative control .
+For an expanded description of the experimental procedures , see the supplemental material .
+mutant on P sprB promoter activity .
+Similar to the experiments described above , we used a plasmid - based Venus transcriptional reporter to measure P sprB promoter activity .
+Of the five , only HilA was capable of activating the P sprB promoter ( Fig. 2A ) .
+Identical results were obtained when we performed similar experiments with E. coli ( data not shown ) .
+To test whether this effect is direct , we used a coprecipitation assay with 6 Histagged SprA and found that HilA does indeed bind the P sprB promoter ( Fig. 2B ) .
+As respective positive and negative controls , we used the P prgH and P fimA promoter regions .
+These results demonstrate that HilA transcriptionally regulates SprB expression .
+SprB transcriptionally represses HilD expression .
+Last , we tested whether SprB regulates SPI1 gene expression .
+Here , we measured the activity of a number of SPI1 - and SPI1 - regulated promoters using plasmid - based Venus transcriptional reporters in the wild type , a sprB mutant , and a sprB mutant constitutively expressing sprB from the P LtetO - 1 promoter on a plasmid .
+Our data show that deleting sprB resulted in a mild increase in the activity of all seven promoters tested , except the P fimA promoter used as a control ( Fig. 3A ) .
+However , plasmid expression of SprB caused a twofold reduction in promoter activity in a sprB mutant background .
+These results suggest that SprB is a weak negative regulator of SPI1 gene expression .
+HilA regulates SprB expression .
+( A ) HilA can activate the P sprB promoter in the absence of other SPI1 genes ( SPI1 rtsAB ) ; the other SPI1 regulators -- HilC , HilD , and RtsA -- can not .
+SprB was also found not to regulate its own expression .
+Activators were expressed from an aTc - inducible promoter on a plasmid .
+Expression was induced with 50 ng/ml aTc .
+Fluorescence values were normalized with the optical density at 600 nm ( OD600 ; A.U. , arbitrary units ) to account for cell density .
+Error bars indicate standard deviations .
+( B ) HilA binds to the P sprB promoter region as determined by a coprecipitation assay with 6 His - tagged HilA .
+PCR was used to determine whether the P sprB promoter region is in the coprecipitated DNA .
+The P prgH and P fimA promoter regions were included as positive and negative controls , respectively .
+For an expanded description of the experimental procedures , see the supplemental material .
+SprB represses SPI1 gene expression through HilD .
+( A ) Comparison of SPI1 promoter activities in the wild type , a sprB mutant , and a sprB mutant constitutively expressing SprB from a plasmid ( pSprB - con ) .
+( B ) SprB repression of SPI1 gene expression is through the P hilD promoter .
+Comparison of P hilA promoter activity in hilC sprB , hilC sprB , and P hilD : : tetRA sprB mutants when SprB is expressed from an arabinose - inducible promoter on a plasmid ( pBAD - SprB ) .
+SprB expression was induced with 2 mg/ml arabinose .
+In the experiments involving the P hilD : : tetRA sprB mutant , 2 g/ml tetracycline was added to the growth medium in order to induce HilD expression .
+Induction in panel B is used to denote the presence or absence - of - arabinose .
+Fluorescence values were normalized with the optical density at 600 nm ( OD600 ; A.U. , arbitrary units ) to account for cell density .
+Error bars indicate standard deviations .
+( C ) SprB binds to the P hilD promoter region as determined by a coprecipitation assay using 6 His - tagged SprB .
+PCR was used to determine whether the P hilD promoter region is in the coprecipitated DNA .
+The P fimA promoter region was included as a negative control .
+For an expanded description of the experimental procedures , see the supplemental material .
+The weak level of repression may explain why Eichelberg and coworkers ( 4 ) previously concluded that SprB does not regulate SPI1 gene expression .
+Since SPI1 gene expression is known to be growth dependent , we also checked if expressing SprB from a plasmid in a sprB mutant caused any growth defect .
+Our data show that it has no effect ( see Fig .
+S1 in the supplemental material ) .
+As SprB regulates multiple SPI1 promoters , we hypothesized that it likely represses the transcription of HilC , HilD , or RtsA .
+These three regulators are all activators of P hilA promoter activity and each other 's expression as well ( 5 , 7 , 17 ) .
+To identify the target for repression , we first expressed SprB from an arabinose - inducible promoter on a plasmid ( 10 ) in hilC sprB , and rtsA sprB null mutants and found that P hilA promoter activity was still repressed by SprB , as determined by using a plasmid - based Venus transcriptional reporter ( Fig. 3B ) .
+These results demonstrate that repression is not HilC or RtsA dependent .
+Next , we investigated if SprB represses the P hilD promoter by measuring P hilA promoter activity in a strain where the P hilD promoter was replaced with the tetRA element from transposon Tn10 ( 11 ) .
+This arrangement decouples hilD expression from its native regulation and causes it to be constitutively expressed from its native chromosomal locus in the presence of tetracycline .
+In the P hilD : : tetRA sprB mutant strain , we found that expressing SprB from an arabinose - inducible promoter plasmid ( 10 ) did not affect P hilA promoter activity ( Fig. 3B ) , suggesting that SprB represses HilD expression .
+To demonstrate that the SprB - dependent repression of SPI1 gene expression is due to the binding of the SprB protein to the P hilD promoter , we used a coprecipitation assay with 6 His - tagged SprB ( Fig. 3C ) .
+These results demonstrate that SprB binds to the P hilD promoter region and likely represses SPI1 gene expression by inhibiting hilD transcription .
+Our results demonstrate that SprB functions as a molecular link between SPI1 and SPI4 gene expression .
+We propose the following model ( see Fig .
+S2 in the supplemental material ) .
+Upon induction of the SPI1 gene circuit , HilA activates SprB expression .
+SprB plays a dual role in regulating gene expression .
+First , it weakly represses SPI1 gene expression by binding to the P hilD promoter and likely inhibiting hilD transcription .
+Second , it activates the expression of the SPI4 - encoded adhesin , presumably helping the bacterium to adhere to intestinal epithelial cells during invasion .
+This mode of regulation links gene expression in two distinct systems in Salmonella , enabling the coordinate regulation of adherence to and invasion of the intestinal epithelia .
+Ahmer , B. M. , J. van Reeuwijk , P. R. Watson , T. S. Wallis , and F. Heffron .
+Salmonella SirA is a global regulator of genes mediating enteropathogenesis .
+Boddicker , J. D. , B. M. Knosp , and B. D. Jones .
+Transcription of the Salmonella invasion gene activator , hilA , requires HilD activation in the absence of negative regulators .
+De Keersmaecker , S. C. , K. Marchal , T. L. Verhoeven , K. Engelen , J. Vanderleyden , and C. S. Detweiler .
+Microarray analysis and motif detection reveal new targets of the Salmonella enterica serovar Typhimurium HilA regulatory protein , including hilA itself .
+Eichelberg , K. , W. D. Hardt , and J. E. Galán .
+Characterization of SprA , an AraC - like transcriptional regulator encoded within the Salmonella typhimurium pathogenicity island 1 .
+Ellermeier , C. D. , J. R. Ellermeier , and J. M. Slauch .
+HilD , HilC and RtsA constitute a feed forward loop that controls expression of the SPI1 type three secretion system regulator hilA in Salmonella enterica serovar Typhimurium .
+Ellermeier , C. D. , and J. M. Slauch .
+RtsA and RtsB coordinately regulate expression of the invasion and flagellar genes in Salmonella enterica serovar Typhimurium .
+Ellermeier , J. R. , and J. M. Slauch .
+Adaptation to the host environment : regulation of the SPI1 type III secretion system in Salmonella enterica serovar Typhimurium .
+Interaction of Salmonella with host cells through the centisome 63 type III secretion system .
+Gerlach , R. G. , D. Jackel , B. Stecher , C. Wagner , A. Lupas , W. D. Hardt , and M. Hensel .
+Salmonella pathogenicity island 4 encodes a giant nonfimbrial adhesin and the cognate type 1 secretion system .
+Guzman , L. M. , D. Belin , M. J. Carson , and J. Beckwith .
+Tight regulation , modulation , and high - level expression by vectors containing the arabinose PBAD promoter .
+lambda - Red genetic engineering in Salmonella enterica serovar Typhimurium .
+Kimbrough , T. G. , and S. I. Miller .
+Contribution of Salmonella typhimurium type III secretion components to needle complex formation .
+Kiss , T. , E. Morgan , and G. Nagy .
+Contribution of SPI - 4 genes to the virulence of Salmonella enterica .
+Lawley , T. D. , K. Chan , L. J. Thompson , C. C. Kim , G. R. Govoni , and D. M. Monack .
+Genome - wide screen for Salmonella genes required for longterm systemic infection of the mouse .
+Lee , C. A. , B. D. Jones , and S. Falkow .
+Identification of a Salmonella typhimurium invasion locus by selection for hyperinvasive mutants .
+Lostroh , C. P. , and C. A. Lee .
+The HilA box and sequences outside it determine the magnitude of HilA - dependent activation of P ( prgH ) from Salmonella pathogenicity island 1 .
+Lostroh , C. P. , and C. A. Lee .
+The Salmonella pathogenicity island - 1 type III secretion system .
+Main - Hester , K. L. , K. M. Colpitts , G. A. Thomas , F. C. Fang , and S. J. Libby .
+Coordinate regulation of Salmonella pathogenicity island 1 ( SPI1 ) and SPI4 in Salmonella enterica serovar Typhimurium .
+Morgan , E. , J. D. Campbell , S. C. Rowe , J. Bispham , M. P. Stevens , A. J. Bowen , P. A. Barrow , D. J. Maskell , and T. S. Wallis .
+Identification of host - specific colonization factors of Salmonella enterica serovar Typhimurium .
+Nagai , T. , K. Ibata , E. S. Park , M. Kubota , K. Mikoshiba , and A. Miyawaki .
+A variant of yellow fluorescent protein with fast and efficient maturation for cell - biological applications .
+Saini , S. , J. D. Brown , P. D. Aldridge , and C. V. Rao .
+FliZ is a posttranslational activator of FlhD4C2 - dependent flagellar gene expression .
+Sukhan , A. , T. Kubori , J. Wilson , and J. E. Galán .
+Genetic analysis of assembly of the Salmonella enterica serovar Typhimurium type III secretionassociated needle complex .

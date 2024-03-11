@@ -1,0 +1,388 @@
+JOURNAL OF BACTERIOLOGY , June 2002 , p. 3203 -- 3213 Vol .
+184 , No. 12 0021 - 9193/02 / $ 04.00 0 DOI : 10.1128 / JB .184.12.3203 -- 3213.2002 mig - 14 Is a Salmonella Gene That Plays a Role in Bacterial Resistance to Antimicrobial Peptides Igor E. Brodsky , 1 * Robert K. Ernst , 2 Samuel I. Miller , 2 and Stanley Falkow 1 Department of Microbiology and Immunology , Stanford University School of Medicine , Stanford , California 94305 , 1 and Departments of Microbiology and Medicine , University of Washington , Seattle , Washington 98195 2 It was previously demonstrated that the mig - 14 gene of Salmonella enterica serovar Typhimurium is necessary for bacterial proliferation in the liver and spleen of mice following intragastric inoculation and that mig - 14 expression , which is induced within macrophages , is under the control of the global regulator PhoP .
+Here we demonstrate that the mig - 14 promoter is induced by growth in minimal - medium containing low magnesium or acidic pH , consistent with regulation by PhoP .
+In addition , mig - 14 is strongly induced by polymyxin B , protamine , and the mammalian antimicrobial peptide protegrin - 1 .
+While phoP is necessary for the induction of mig - 14 in response to protamine and protegrin , mig - 14 is still induced by polymyxin B in a phoP background .
+We also demonstrate that mig - 14 is necessary for resistance of S. enterica serovar Typhimurium to both polymyxin B and protegrin - 1 .
+Gram - negative resistance to a variety of antimicrobial peptides has been correlated with modifications of lipopolysaccharide structure .
+However , we show that mig - 14 is not required for one of these modifications , the addition of 4 - aminoarabinose to lipid - A .
+Additionally , sodium dodecyl sulfatepolyacrylamide gel electrophoresis analysis of wild - type and mig - 14 lipopolysaccharide also shows no detectable differences between the two strains .
+Therefore , mig - 14 contributes to Salmonella resistance to antimicrobial peptides by a mechanism that is not yet fully understood .
+Salmonella enterica serovar Typhimurium is a gram - negative facultative intracellular pathogen that causes self - limiting gastroenteritis in humans and a disease resembling systemic typhoid fever in mice .
+After being ingested , Salmonella traverses the stomach and invades M cells in the Peyer 's patches of the small intestinal epithelium ( 46 ) .
+After invasion , the bacteria are engulfed by host macrophages ( 5 , 22 ) in which they survive and replicate within a specialized compartment known as the Salmonella - containing vacuole ( 2 ) .
+The two - component regulatory system encoded by the phoPQ operon is required for the ability of Salmonella to survive and replicate within these phagocytes ( 7 , 29 ) .
+Gram - negative bacteria frequently utilize two - component systems consisting of a sensor kinase and a DNA binding component to sense and respond to a variety of conditions , including changes in pH , ion concentration , and osmolarity .
+The survival of Salmonella in different host environments requires coordinate regulation of many gene products in response to these changing environmental conditions .
+The PhoQ sensor kinase responds to changes in the concentration of Mg 2 ions and phosphorylates its cognate response regulator PhoP in environments containing micromolar concentrations of Mg 2 ( 10 , 41 ) .
+PhoP in turn activates a number of genes , including those necessary for intracellular survival and antimicrobial peptide resistance ( 8 , 31 ) .
+Antimicrobial peptides are an essential aspect of host innate immune defense and are produced by macrophages , neutrophils , and mucosal epithelial cells ( 18 ) .
+These peptides are and Immunology , Stanford University School of Medicine , Stanford , CA 94305 .
+small ( 2 to 4 kDa ) cationic molecules of various structural classes that bind to and permeabilize bacterial membranes .
+Within host tissues , Salmonella is likely to encounter antimicrobial peptides in the intestine , where Paneth cells constitutively secrete them , as well as within the host cell phagosomes that fuse with antimicrobial peptide - containing vesicles ( 34 , 38 ) .
+The ability of pathogenic bacteria to resist killing by host antimicrobial peptides present in different host niches may therefore contribute to their virulence .
+Salmonella resistance to antimicrobial peptides is frequently mediated by modifications to the lipopolysaccharide ( LPS ) component of the bacterial outer membrane .
+Complete LPS consists of an endotoxic component , lipid - A , which is linked to a polysaccharide molecule consisting of a core oligosaccharide and a repeating sugar structure known as the O antigen ( 35 ) .
+Environmentally induced modifications to the structure of lipid A are correlated with resistance to several classes of antimicrobial peptides .
+For example , substitution of the 4 phosphate with 4 - aminoarabinose has been shown to be important for resistance to the antimicrobial peptide polymyxin B ( PB ) ( 13 ) .
+Recently , it has been demonstrated that both 4 and 1 phosphates can be substituted with aminoarabinose ( 47 ) , although substitution at the 4 phosphate is what has been correlated with resistance .
+PB is an amphipathic cationic molecule that binds to LPS and permeabilizes the outer and inner membranes of gram - negative bacteria by a mechanism thought to be similar to that of antimicrobial peptides ( 44 , 49 ) .
+Thus , resistance to PB often confers cross - resistance to some classes of mammalian antimicrobial peptides in - vitro ( 39 ) and correlates with increased survival of Salmonella in neutrophils ( 43 ) .
+4 - Aminoarabinose addition to lipid - A and the addition of ethanolamine are controlled by a second two - component regulatory system encoded by pmrAB ( 13 ) .
+The response regulator 3203 3204 BRODSKY ET AL. .
+PmrA is regulated indirectly by PhoP through the PmrD protein ( 26 ) .
+In addition , the PhoP - PhoQ system coordinately regulates several other unlinked loci involved in different LPS modifications that confer resistance to a number of structurally unrelated antimicrobial peptides ( 16 , 17 ) .
+Therefore , phoP mutants of Salmonella are highly sensitive to multiple classes of antimicrobial peptides due to an inability to generate several modified forms of LPS .
+In addition to LPS modifications , changes in expression of outer membrane proteins also play a role in conferring resistance to antimicrobial peptides .
+For example , the outer membrane protease PgtE has been shown to cleave alpha - helical antimicrobial peptides and is also regulated by the PhoP - PhoQ system ( 12 ) .
+Furthermore , the rck gene found on the S. enterica serovar Typhimurium virulence plasmid encodes an outer membrane protein that confers increased resistance to complement killing when overexpressed in Escherichia coli ( 19 ) .
+A recent screen in our laboratory for genes that can restore PB resistance to the mig - 14 mutant identified rck ( unpublished data ) .
+Although rck is not known to be regulated by PhoP , it is coexpressed in - vitro with Salmonella genes that are induced within the macrophage vacuole ( C. Detweiler and S. Falkow , unpublished data ) .
+We examined the regulation and function of the Salmonella gene mig - 14 , which is dependent on PhoP for transcriptional activation within cultured macrophages ( 53 ) and contributes to oral virulence in mice ( 51 ) .
+We demonstrate here that the mig - 14 promoter is activated in minimal - medium containing limiting concentrations of magnesium , low pH , or antimicrobial cationic peptides .
+The mig - 14 promoter is upregulated in response to PB in a phoP - independent manner , suggesting the existence of additional regulators of mig - 14 .
+The mig - 14 strain shows increased sensitivity to the antimicrobial peptides PB and protegrin - 1 ( PG - 1 ) , indicating that regulation of mig - 14 by these peptides is functionally important .
+Analysis of mig - 14 lipid - A by matrix - assisted laser desorption ionization -- time of flight ( MALDI - TOF ) and crude LPS preparations by sodium dodecyl sulfate - polyacrylamide gel electrophoresis ( SDS - PAGE ) showed no differences from the isogenic wild - type strain .
+Therefore , the mechanism by which Mig - 14 contributes to antimicrobial peptide resistance remains to be elucidated .
+MATERIALS AND METHODS Media and culture conditions .
+Bacteria were grown overnight at 37 °C with aeration in the N minimal - medium of Nelson and Kennedy containing 10 mM MgCl 2 ( 32 ) with modifications as previously described ( 40 ) , except where otherwise indicated .
+The pH of the medium was buffered with either 100 mM Tris - HCl , pH 7.4 , or 10 mM methyl - ethyl sulfanilamide , pH - 5.8 .
+All marked mutations were moved into the SL1344 background by transduction with P22HT by standard methods ( 27 ) .
+The strains and plasmids used in this study are listed in Table 1 .
+This assay was performed essentially as previously described ( 11 ) .
+Briefly , bacterial strains were inoculated into modified N minimal medium at pH 7.4 containing 10 mM MgCl 2 .
+Stationary - phase cultures were harvested and washed three times in N minimal - medium , pH 7.4 , without MgCl 2 .
+Strains were then diluted 1:100 into one of four N minimal media : 10 mM MgCl 2 , pH 7.4 ; 10 M MgCl 2 , pH 7.4 ; 10 mM MgCl 2 , pH - 5.8 ; or 10 M MgCl 2 , pH - 5.8 .
+Bacteria were incubated for 3hat37 °C with aeration .
+Bacteria ( 5 10 4 to 1 10 5 per ml ) from each culture condition were inoculated into Luria broth ( LB ) containing 2.5 g of PB ( 8,070 U/g ) ( Sigma ) / ml and grown for 1hat37 °C with aeration .
+Serial dilutions of each culture were made in phosphate - buffered saline ( PBS ) and plated on selective agar .
+Percent survival was calculated either relative to the initial input or relative to the growth of each strain in LB in the absence of PB , as indicated in the text .
+Bacterial strains and plasmids used in this study Strain or plasmid Description PG - 1 sensitivity assay .
+Bacterial strains were grown as described above for the PB sensitivity assay .
+After the 3 - h growth period , 5 10 4 to 1 10 5 bacteria per ml were added to 96 - well plates containing 200 l of LB with the appropriate concentration of peptide .
+Each 96 - well plate was placed at 37 °C on a platform shaker and gently agitated for 1 h. Each strain and peptide concentration was tested in triplicate .
+Appropriate dilutions were made in PBS and plated for CFU .
+Percent survival was calculated relative to bacteria treated in the absence of peptide .
+Lipid A purification and MALDI - TOF analysis .
+Strains were grown overnight in the indicated medium , and LPS was purified by the Mg 2 - ethanol precipitation method as previously described ( 4 ) .
+Lipid A was purified by hydrolysis in 1 % SDS at pH 4.5 ( 3 ) .
+Before being applied on a sample plate , the lyophilized lipid A was dissolved in 5 l of 5 - chloro - 2-mercaptobenzothiazole MALDI matrix in chloroform - methanol ( 1:1 ) .
+Negative - ion MALDI - TOF was performed as described previously ( 6 ) .
+Construction of pmrD reporter plasmids .
+The promoter regions of pmrD ( 290 bases upstream of the start ATG ) and pmrC ( 208 bases upstream of the start ATG ) were amplified in a Stratagene RoboCycler with PCRSupermix ( Gibco BRL ) and standard PCR conditions .
+The primers used for pmrD were pmrD5 , GCGAATTCAGTTTGGTC - ATCGTCCCGTTG , and pmrD3 , GCGGATC CGTTTCACGCTGATTGTTCATAAC .
+The primers used for pmrC were pmrC5 , GCGAATTCTCGAATTCGATCACCGCGCTG , and pmrC3 , GCGG ATCCGACTTCGGTGACGCTAATCGTG .
+The PCR products were cloned into the EcoRI - BamHI sites of the green fluorescent protein ( GFP ) reporter plasmid pFPV25 ( 52 ) to generate ppmrD : : GFP and ppmrC : : GFP .
+Fluorescence - activated cell sorter - based analysis of promoter activity .
+Bacterial strains harboring reporter constructs were grown overnight in N minimal medium , pH 7.4 , plus 10 mM MgCl 2 , harvested , washed in N minimal - medium , pH 7.4 , without MgCl 2 , and diluted 1:100 into minimal - medium , pH 7.4 , plus 10 mM MgCl 2 .
+Mid - log - phase bacteria ( optical density at 600 nm , 0.5 to 0.6 ) were then inoculated into the indicated media and grown for 3htoallow expression of GFP .
+Bacteria were diluted into PBS and analyzed by flow cytometry with a Becton Dickinson FACSCalibur and CellQuest acquisition and analysis software as previously described ( 52 ) .
+RESULTS Source or reference Strains SL1344 rpsL hisG xyl 21 RVY - 5 SL1344 mig - 14 : : Kan 51 phoP : : Tn10 SL1344 phoP : : Tn10Tet r 36 LT2 Wild type 37 JKS1379 LT2 pmrA508 : : Kan 37 pmrA : : Kan SL1344 pmrA : : Kan This study Plasmids pHSG576 pSC101 origin , Cm r 45 pKR301 pHSG576 , 1.2 - kb pmrD - containing insert 37 pFPV25 ColE1 origin , promoterless GFP 52 pFPV25 .1 pFPV25 , rpsM promoter : : GFP 52 pmig14 : : GFP pFPV25 , mig - 14 promoter : : GFP 53 ppmrD : : GFP pFPV25 , pmrD promoter : : GFP This study ppmrC : : GFP pFPV25 , pmrCAB promoter : : GFP This study mig - 14 is induced by low Mg 2 concentrations .
+In order to increase our understanding of mig - 14 regulation and investigate the role of mig - 14 in virulence , we used a mig - 14 : : GFP transcriptional reporter fusion to determine the conditions necessary for induction or repression of mig - 14 .
+Previous work in our laboratory has demonstrated that mig - 14 expression in macrophages requires the two - component regulatory system PhoP - PhoQ ( 53 ) .
+Since this system is activated by low Mg 2 concentrations ( 10 ) , we first examined expression of mig - 14 in medium containing limiting concentrations of Mg 2 .
+For comparison to other PhoP - regulated genes involved in antimicro - VOL .
+184 , 2002 mig - 14 IN SALMONELLA ANTIMICROBIAL PEPTIDE RESISTANCE 3205 FIG. 1 .
+Fluorescence - activated cell - sorter analysis of wild - type ( SL1344 ) S. enterica serovar Typhimurium harboring GFP reporter constructs ( indicated at the top ) grown in various conditions ( listed on the right ) .
+The light histograms represent bacteria grown in N minimal - medium , pH 7.4 , and 10 mM MgCl 2 ; the bold histograms represent bacteria grown in identical N minimal - medium with additions or modifications as indicated .
+The activity of all three promoters is significantly induced by low Mg 2 and by antimicrobial peptides .
+( A ) Induction by low Mg , low pH , and cationic antimicrobial peptides .
+( B ) Induction by membrane - active detergents .
+bial peptide resistance , we made reporter fusions to the pmrC and pmrD promoters .
+pmrD is activated by PhoP , and the PmrD protein is thought to posttranscriptionally regulate the activity of PmrA ( 26 ) .
+pmrC is the first gene of the pmrCAB operon and is cotranscribed with pmrAB ( 14 ) .
+The pmrC promoter has been shown to be regulated by both PhoP and PmrA ( 14 , 55 ) .
+Therefore , the transcriptional activity of pmrD should be PhoP dependent but PmrA independent , whereas the activity of pmrC should be both PhoP and PmrA dependent .
+Transcription from the mig - 14 promoter was induced approximately 10 - fold more in 10 M MgCl 2 than in 10 mM MgCl 2 ( Fig. 1A and Table 2 ) .
+The pmrC and pmrD promoters were similarly induced in this low - magnesium medium .
+These data indicate that , like other PhoP - activated genes , mig - 14 is 3206 BRODSKY ET AL. .
+Fold induction of promoter activity in indicated medium condition a Medium condition Mean peak fluorescence ( au e ) Result for promoter fusion mig - 14 : : GFP pmrC : : GFP pmrD : : GFP Fold induction Mean peak fluorescence ( au e ) Fold induction Mean peak fluorescence ( au e ) SL1344 ( wild type ) b 10 M MgCl 2 399 11.7 199 19.9 361 14.4 pH - 5.8 70 2.1 34 3.4 35 1.4 PB 333 9.8 129 12.9 266 10.6 Protamine 218 6.4 107 10.7 214 8.6 PG - 1 112 3.3 107 10.7 101 4.0 Triton X - 100 57 1.7 13 1.3 45 1.8 SDS 56 1.6 39 3.9 53 2.1 Fold induction phoP : : Tn10 c 10 M MgCl 2 6 1 1 1 4 1 pH - 5.8 6 1 5 5 3 0.75 PB 26 4.3 1 1 9 2.25 Protamine 5 0.8 1 1 5 1.25 PG - 1 4 0.7 1 1 4 1 Triton X - 100 6 1.0 1 1 4 1 SDS 6 1.0 1 1 5 1.25 pmrA : : Kan d 10 M MgCl 2 798 20.5 1 1 509 11.6 pH - 5.8 67 1.7 1 1 42 1 PB 805 20.6 1 1 212 4.8 Protamine 286 7.3 1 1 222 5.0 PG - 1 104 2.7 1 1 158 3.6 Triton X - 100 56 1.4 1 1 58 1.3 SDS - 54 1.4 1 1 74 1.7 a Mean peak fluorescence values are for the populations grown under the condition indicated .
+Fold inductions were calculated by dividing the mean peak fluorescence values for growth under the condition indicated by the mean peak fluorescence values for growth in 10 mM MgCl 2 at pH 7.4 ( values given in footnotes b , c , and d ) .
+b Graphic representations of these results are shown in Fig. 1 .
+Mean peak fluorescence values of the bacterial population grown in 10 mM MgCl 2 at pH 7.4 are as follows : for mig - 14 : : GFP , 34 ; for pmrC : : GFP , 10 ; and for pmrD : : GFP , 25 .
+c Graphic representations of these results are shown in Fig. 2 .
+Mean peak fluorescence values of the bacterial population grown in 10 mM MgCl 2 at pH 7.4 are as follows : for mig - 14 : : GFP , 6 ; for pmrC : : GFP , 1 ; and for pmrD : : GFP , 4 .
+d Graphic representations of these results are shown in Fig. 3 .
+Mean peak fluorescence values of the bacterial population grown in 10 mM MgCl 2 at pH 7.4 are as follows : for mig - 14 : : GFP , 39 ; for pmrC : : GFP , 1 ; and for pmrD : : GFP , 44 .
+e au , arbitrary units .
+induced by low concentrations of Mg 2 .
+Also like other PhoPactivated genes , mig - 14 promoter activity was constitutively induced to high levels in a strain containing constitutively activated PhoP even in medium with 10 mM MgCl 2 ( data not shown ) .
+Because mig - 14 is induced in the macrophage phagosome , we asked whether low pH would also induce mig - 14 transcription .
+Indeed , we observed that low pH in the absence of low Mg 2 could induce mig - 14 expression , albeit at lower levels than medium containing low Mg 2 alone ( Table 2 ) .
+There was no synergistic effect between magnesium and pH , as pH - 5.8 medium also containing low Mg 2 did not show a greater fold induction of mig - 14 than the low Mg 2 medium alone ( data not shown ) .
+mig - 14 is induced by antimicrobial peptides .
+Recent work has demonstrated that PhoP activates a number of genes , including the two - component response regulator encoded by pmrA , that are important in Salmonella resistance to PB and some mammalian antimicrobial peptides ( 13 ) .
+It is likely that Salmonella encounters antimicrobial peptides within host microenvironments during in - vivo infection .
+These peptides may contribute to environmental signals that trigger changes in bacterial gene expression .
+We therefore examined the cationic peptides PB , protamine , and PG - 1 to determine whether any or all of these could stimulate mig - 14 gene expression .
+Protamine is a polycationic molecule present in sperm nuclei , and PG - 1 is a mammalian antimicrobial peptide originally isolated from porcine leukocytes ( 25 ) .
+In all cases , we observed that expression of GFP from the mig - 14 reporter fusion was significantly higher in medium containing antimicrobial peptide than in medium without peptide .
+Similarly , the pmrC and pmrD reporters were also induced in media containing these antimicrobial peptides ( Fig. 1A and Table 2 ) .
+PB induced the greatest level of expression in all cases , with the pmrC promoter exhibiting the highest overall levels of induction .
+Expression of the phoP - independent gene rpsM was unaltered in all of the above conditions , demonstrating that these conditions specifically induce the expression of genes that are PhoP regulated ( data not shown ) .
+Exposure of bacteria to high concentrations of cationic peptides in most cases results in membrane damage and bacterial death .
+We therefore examined the membrane - active detergents Triton X - 100 and SDS to determine whether exposure to membrane - damaging agents per se would induce expression of the mig - 14 and pmr GFP reporters .
+In contrast to both pmrC and pmrD , mig - 14 was only slightly induced by these detergents ( Fig. 1B and Table 2 ) .
+Interestingly , pmrC was markedly induced in the presence of SDS .
+phoP was required for the induction of these reporters in Triton X - 100 and SDS , as this activation was not observed in the phoP : : Tn10 mutant ( Fig .
+184 , 2002 mig - 14 IN SALMONELLA ANTIMICROBIAL PEPTIDE RESISTANCE 3207 FIG. 2 .
+The phoP : : Tn10 strain was used for the analysis described in the legend to Fig. 1 .
+phoP is required for activation of all promoters by all conditions except for that of pmrC by low pH and mig - 14 and pmrD by PB .
+However , we found that induction of the reporter fusions by these detergents was only observed in log - phase - grown bacteria .
+The nondetergent conditions induced expression of all three reporters regardless of the growth phase ( data not shown ) .
+This is consistent with previous results that PhoPregulated genes do not play a role in resistance to killing by Triton X - 100 or SDS ( 54 ) .
+These data suggest that in addition to pmrA , pmrD , and other PhoP - regulated genes , mig - 14 may play a role in adaptive responses to membrane perturbations caused specifically by antimicrobial peptides .
+PB induces mig - 14 in a phoP - independent manner .
+phoP was previously shown to be required for the induction of mig - 14 in macrophages .
+We therefore asked whether phoP was also required for the induction of mig - 14 in response to these in - vitro conditions .
+As expected , we found that in a phoP : : Tn10 strain background , expression of all three PhoP - regulated genes was 3208 BRODSKY ET AL. .
+The pmrA : : Kan strain was used for the analysis described in the legend to Fig. 1 .
+pmrA is required for the activation of the pmrC promoter but not of the pmrD or mig - 14 promoters .
+reduced compared to that of the wild type ( compare Fig. 1A and 2A ; Table 2 ) .
+We also found that phoP was required for induction of all three reporter constructs in low Mg 2 , protamine , and PG - 1 .
+pmrC was still induced by low pH in a phoP : : Tn10 background , consistent with previous results that the PmrA - PmrB system responds to low pH independently of PhoP - PhoQ ( 42 ) .
+We also found that in contrast to the other antimicrobial peptides , PB induced expression of both mig - 14 and pmrD reporter constructs even in the phoP : : Tn10 background , although absolute levels of induction were lower than in the isogenic wild type ( Fig. 2A and Table 2 ) .
+This suggests that an additional system regulates gene expression in response to PB and possibly other antimicrobial peptides .
+pmrA is not required for regulation of mig - 14 .
+It has been demonstrated that a subset of PhoP - regulated genes is directly controlled by an alternate two - component regulatory system encoded by pmrAB .
+We therefore examined the transcriptional responses of the mig - 14 , pmrC , and pmrD reporter fusions in a VOL .
+184 , 2002 mig - 14 IN SALMONELLA ANTIMICROBIAL PEPTIDE RESISTANCE 3209 FIG. 4 .
+Survival of S. enterica serovar Typhimurium strains after a 1 - h PB challenge .
+Bacterial strains were exposed to 2.5 g of PB/ml in LB for 1 h after being grown in the following N minimal media : 10 M MgCl 2 , pH - 5.8 ( dark grey bars ) ; 10 mM MgCl 2 , pH - 5.8 ( white bars ) ; 10 M MgCl 2 , pH 7.4 ( lined bars ) ; and 10 mM MgCl 2 , pH 7.4 ( light grey bars ) .
+WT refers to the SL1344 strain .
+Data are expressed relative to the input bacterial CFU .
+For ease of analysis , Mg 2 and pH conditions are indicated below the corresponding bars .
+For Mg 2 , a plus sign refers to 10 mM and a minus sign refers to 10 M MgCl 2 .
+For pH , a plus sign indicates pH 7.4 and a minus sign indicates pH - 5.8 .
+The mig - 14 : : Kan strain is 10 - to 20 - fold more sensitive to polymyxin than the corresponding wild - type strain .
+The survival of the phoP : : Tn10 strain was less than 1 % for all conditions .
+Experiments were performed at least three times in triplicate , and the data presented are from a representative experiment .
+pmrA : : Kan strain background .
+We found that induction of mig - 14 and pmrD still occurred , in contrast to the pmrC reporter , which was no longer induced under any of the conditions tested ( Fig. 3A ) .
+PmrB has been shown to sense both iron and pH , and it activates PmrA in response to high iron ( 56 ) .
+We did not see induction of mig - 14 in the presence of iron , confirming that mig - 14 is not regulated directly by PmrA - PmrB ( data not shown ) .
+However , in the case of the mig - 14 reporter , expression levels in low Mg 2 and PB were significantly higher in the pmrA : : Kan strain than in the wild type ( Table 2 ) .
+Furthermore , uninduced levels of pmrD were approximately twofold higher than in the wild - type strain .
+These data suggest that although pmrA is not required for induction of mig - 14 or pmrD , it may be involved in feedback regulation .
+mig - 14 is necessary for inducible polymyxin resistance .
+We next investigated the functional significance of the ability of antimicrobial peptides to induce mig - 14 promoter activity by examining the resistance of the mig - 14 : : Kan strain to PB .
+Figure 4 shows survival data for Salmonella strains grown in various conditions followed by a 1 - h exposure to 2.5 g of PB/ml .
+Consistent with previously reported results , we observed that the wild - type strain , SL1344 , was resistant to PB after growth in medium containing low concentrations ( 10 M ) of Mg 2 .
+The mig - 14 : : Kan mutant was approximately 5 - fold more sensitive to PB in low - pH medium containing low Mg 2 and approximately 20 - fold more sensitive in low - Mg 2 medium alone than the wild - type strain .
+As expected , the isogenic phoP : : Tn10 strain was completely susceptible to PB challenge following growth in all of the conditions tested .
+Nearly 100 % of the phoP : : Tn10 strains were killed within the first 15 min of PB challenge ( data not shown ) .
+mig - 14 : : Kan sensitivity to polymyxin is complemented by overexpression of PmrD .
+Previous work has shown that overexpression of pmrD confers increased resistance to PB ( 37 ) .
+This has been hypothesized to be due to increased expression of genes regulated by PmrA , which is positively regulated by PmrD ( 26 ) .
+We transformed SL1344 , mig - 14 : : Kan , and pmrA : : Kan strains with a plasmid , pKR301 , that expresses pmrD from its native promoter to determine whether pmrD overexpression could restore wild - type levels of PB resistance to the mig - 14 and pmrA strains .
+Overexpression of pmrD did indeed restore nearly wild - type levels of resistance to the mig - 14 : : Kan mutant strain ( Fig. 5 ) .
+This effect was not due to nonspecific activity of the plasmid , since overexpression of pmrD failed to complement the pmrA : : Kan strain , and the parent plasmid pHSG576 also did not confer increased PB resistance .
+The ability of pmrD overexpression to complement the PB sensitivity of the mig - 14 strain suggests that mig - 14 could participate in modification of LPS along with other genes regulated by PhoP - PhoQ and PmrA - PmrB .
+Alternatively , the complementation could be due to overexpression of genes regulated by PmrD and PmrA - PmrB which can bypass the defect in the mig - 14 strain .
+In addition to restoring PB resistance with pmrD , we could also partially restore PB resistance to the mig - 14 strain with a mig - 14 - expressing plasmid ( data not shown ) .
+This plasmid had been previously used to complement the mig - 14 mutant for virulence in oral infection of mice ( 51 ) .
+mig - 14 is not required for addition of 4 - aminoarabinose to LPS .
+A major mechanism of resistance to PB that is controlled by the PmrA - PmrB system is the addition of 4 - aminoarabinose to the 4 phosphate group of lipid - A ( 13 , 20 ) , though some evidence suggests that PB resistance can be restored to a sensitive mutant even in the absence of 4 - aminoarabinose ( 13 ) .
+To examine if Mig - 14 participates in the addition of 4 - aminoarabinose to lipid - A , we analyzed lipid - A of wild - type and mig - 14 mutant strains by MALDI - TOF mass spectrometry as de - FIG. 5 .
+Survival of S. enterica serovar Typhimurium strains overexpressing pmrD after a 1 - h PB challenge .
+Data are expressed relative to identical strains grown without PB for 1 h. Dark grey bars , 10 M MgCl 2 , pH - 5.8 ; white bars , 10 mM MgCl 2 , pH - 5.8 ; lined bars , 10 M MgCl 2 , pH 7.4 ; light grey bars , 10 mM MgCl 2 , pH 7.4 .
+Bacterial strains harboring the pmrD - expressing plasmid pKR301 were treated as described in Materials and Methods .
+Overexpression of pmrD restored PB resistance to the mig - 14 : : Kan strain but not to the pmrA : : Kan mutant .
+We next examined the global LPS profiles of the mig - 14 : : Kan mutant by SDS - PAGE of crude bacterial preparations from wild - type , mig - 14 , phoP , and galE strains as described by Tsai and Frasch ( 48 ) .
+Once again , no detectable differences in the LPS profiles of the wild - type and mig - 14 strains were observed ( data not shown ) .
+It is possible that there are other differences in the LPS structure or differences in the expression of outer membrane proteins that could account for the observed sensitivity of the mig - 14 : : Kan strain to PB .
+mig - 14 is necessary for resistance to mammalian peptide PG - 1 .
+Sensitivity of Salmonella to PB has been shown to correlate with sensitivity to mammalian antimicrobial peptides .
+This finding has significant consequences for the infection process of this pathogen , as it encounters various antimicrobial peptides throughout the process of colonization within its host .
+It was recently demonstrated that strains of Proteus mirabilis selected for PB sensitivity also had increased sensitivity to PG - 1 as well as defects in LPS structure ( 28 ) .
+We therefore examined the sensitivity of wild - type , mig - 14 : : Kan , and phoP : : Tn10 strains to a panel of PG - 1 concentrations .
+We observed a marked loss of resistance to PG - 1 in the phoP mutant strain and saw intermediate levels of sensitivity to PG - 1 in the mig - 14 mutant ( Fig. 7 ) .
+While not as dramatic as that of the phoP strain , the sensitivity of the mig - 14 mutant was nonetheless significantly lower than that of the isogenic wild - type strain , even at the lowest peptide concentration examined .
+The results were similar whether bacteria were grown in low Mg 2 alone or both in low Mg 2 and at low pH ( data not shown ) .
+These results indicate that mig - 14 is regulated by antimicrobial peptides and low - Mg 2 conditions that are likely to be present in some host microenvironments , and they suggest a functional link between this regulation and a role for mig - 14 in resistance of S. enterica serovar Typhimurium to antimicrobial peptides .
+MALDI - TOF mass spectra of purified lipid - A from wildtype ( SL1344 ) and mig - 14 : : Kan ( mig14 ) strains .
+Strains were grown in N minimal - medium containing either 1 mM ( A and C ) or 8 M ( Band D ) MgCl 2 .
+The growth of both strains in 1 mM MgCl 2 shows the expected peaks at an m/z of 2,036 ( hepta - acylated wild - type LPS ) and at an m/z of 1,797 ( hexa - acylated LPS lacking palmitate ) .
+Analysis of LPS from the wild - type and mig - 14 : : Kan strains grown in 8 M MgCl 2 yielded peaks at m/z of 2,183 and 1,929 , which is consistent with the presence of hepta - and hexa - acylated forms of LPS containing the 4 - aminoarabinose modification ( B and D ) .
+scribed in Materials and Methods .
+Lipid A was isolated from wild - type and isogenic mig - 14 : : Kan strains after growth in N minimal - medium containing 1 mM or 8 M MgCl 2 .
+Asexpected , neither SL1344 nor mig - 14 : : Kan strains grown in 1 mM MgCl 2 contained detectable amounts of 4 - aminoarabinosemodified LPS ( Fig. 6A and C ) .
+However , when grown in limiting Mg 2 conditions , both strains synthesized 4 - aminoarabinose lipid - A as indicated by the presence of peaks at m/z of 1,945 and 2,183 ( Fig. 6B and D ) .
+These data suggest that the increased sensitivity of the mig - 14 : : Kan strain to PB is not due to a defect in 4 - aminoarabinose modification of lipid - A .
+Because MALDI - TOF ( mass spectrometry ) analysis is not quantitative , it is formally possible that there may be an overall reduction in the amount of 4 - aminoarabinose containing lipid A in the outer membrane of the mig - 14 : : Kan mutant strain .
+Sensitivity of S. enterica serovar Typhimurium strains to PG - 1 .
+Wild - type ( -RCB- ) , mig - 14 : : Kan ( ■ ) , and phoP : : Tn10 ( Œ ) strains were grown overnight as described , washed , diluted in N minimal medium , pH 7.4 , and 10 M MgCl 2 , and grown for 3 h prior to being inoculated into LB containing the indicated concentrations of PG - 1 .
+The experiment was performed 3 times in triplicate , and the data shown are from a representative experiment .
+Data are expressed relative to bacteria treated without PG - 1 .
+mig - 14 : : Kan is markedly attenuated in its ability to survive PG - 1 treatment compared to the wild type , although not as drastically as phoP : : Tn10 .
+184 , 2002 mig - 14 IN SALMONELLA ANTIMICROBIAL PEPTIDE RESISTANCE 3211 DISCUSSION mig - 14 is a PhoP - activated gene of S. enterica serovar Typhimurium required for virulence in orally infected mice ( 51 ) .
+It is induced within the macrophage vacuole in a phoP - dependent manner but is not required for bacterial survival and replication within macrophages in tissue culture ( 53 ) .
+To better understand the role of mig - 14 in Salmonella pathogenesis , we have characterized the regulation of mig - 14 in a variety of in vitro conditions .
+mig - 14 expression , as measured by mig - 14 : : GFP reporter activity , was most strongly upregulated in medium containing low Mg 2 and cationic antimicrobial peptides such as PB , protamine , and PG - 1 .
+It is interesting that protamine as well as PB and PG - 1 induced the expression of the reporter constructs , as it has been suggested that the antimicrobial action of protamine is mechanistically different than the membrane permeabilizing activity of PB and PG - 1 ( 1 ) .
+The upregulation of mig - 14 : : GFP and pmrD : : GFP by PB showed a phoP - independent component as induction occurred even in the absence of an intact PhoP - PhoQ system .
+This observation suggests that other regulatory systems may activate mig - 14 , and perhaps other antimicrobial peptide resistance genes , directly in response to the presence of antimicrobial peptides .
+We further demonstrate that in addition to being induced by antimicrobial peptides , mig - 14 is also required for bacterial resistance to killing by PB and PG - 1 .
+The results of our PB resistance assays indicated that growth of bacteria in low Mg 2 was the strongest signal to induce PB - resistant adaptations , as we did not see significant resistance in bacteria grown at pH - 5.8 in high Mg 2 ( Fig. 4 ) .
+This is in contrast to the results of Groisman et al. ( 11 ) , who observed significant levels of resistance in pH - 5.8 medium alone .
+The reasons for these differences are not fully understood , but one possible explanation is that there are subtle strain - specific differences in response to low - pH conditions .
+It is possible that these conditions did not produce optimal induction of the pH - responsive PmrA - PmrB system in our strain , resulting in reduced resistance .
+This is supported by the regulation studies , where we observed significantly higher levels of induction by Mg 2 than by low pH , even of the pmrC : : GFP reporter , suggesting that we may not have achieved maximal induction of the pmrAB regulon .
+In the complementation experiments overexpressing pmrD , we did in fact observe significant levels of resistance in pH - 5.8 medium alone .
+Regardless of the reasons for this subtle difference , the mig - 14 : : Kan strain showed attenuated resistance to antimicrobial peptides in comparison to the wild type in all of our assays .
+Together , our data suggest that mig - 14 participates with other PhoP - regulated genes in the adaptive responses of Salmonella to environmental conditions that include magnesium depletion and damage by cationic peptides .
+PhoP and PhoQ comprise a two - component system that regulates a large number of genes in S. enterica serovar Typhimurium in response to a variety of nutrient - starvation conditions ( 24 ) .
+It has been appreciated for a number of years that the phoPQ regulon is necessary for Salmonella replication in macrophages and virulence in mouse models of infection ( 8 , 29 ) .
+Investigators also demonstrated that phoP - null mutants were attenuated in resistance to a number of antimicrobial peptides ( 7 , 31 ) .
+More recently , it has become clear that one of the functions of PhoP - regulated genes is to remodel the bacterial envelope in response to changing environmental conditions .
+This remodeling occurs both at the level of outer membrane protein expression ( 12 , 30 ) and at the level of structural modifications of LPS ( 16 ) .
+Both phoP mutants that are fixed in the constitutively active state and phoP - null mutants are unable to remodel the outer membrane in response to environmental signals and are avirulent in animal infections ( 30 ) , suggesting that this remodeling is crucial for survival within the host environment .
+A consensus PhoP binding site has been identified in E. coli by using the promoters of the genes mgtA and mgrB ( 23 ) .
+We were not able to identify this consensus sequence in the promoter region of mig - 14 , suggesting that PhoP could regulate mig - 14 indirectly .
+A number of PhoP - regulated genes , several of which are regulated indirectly through a second two - component system , PmrA - PmrB ( 14 , 42 ) also lack this consensus sequence ( 41 ) .
+PhoP activates PmrA via PmrD , which is thought to posttranscriptionally activate PmrA ( 26 ) .
+Our results indicated that mig - 14 is not regulated by PmrA - PmrB ( Fig. 3 ) .
+This suggests either that PhoP directly regulates mig - 14 and binds to the mig - 14 promoter at an uncharacterized binding site or that mig - 14 may be regulated by as - yet - unidentified upstream regulatory genes .
+The induction of mig - 14 by PB in a phoP background indicates that it is likely that there are other regulators of mig - 14 .
+The PhoP - PhoQ and PmrA - PmrB regulatory systems participate in activating the transcription of gene products that generate several different modified forms of LPS .
+Substitution of lipid - A with 4 - aminoarabinose at one of the two phosphate groups is directly controlled by PmrA - PmrB and is an important mechanism of resistance to PB and several other antimicrobial peptides .
+Our data indicate that mig - 14 is not required for the addition of 4 - aminoarabinose to lipid - A .
+Furthermore , we observed no changes in global LPS profiles of mig - 14 bacteria by SDS - PAGE and silver staining ( data not shown ) .
+This suggests that another mechanism is responsible for the contribution of the Mig - 14 protein to antimicrobial resistance .
+Mig - 14 could be involved in the addition of ethanolamine to the LPS core , which has also been shown to correlate with polymyxin resistance ( 20 , 50 ) .
+However , as ethanolamine addition takes place in E. coli K - 12 ( 33 , 57 ) , which does not possess mig - 14 ( 51 ) , it is at least the case that ethanolamine addition can take place in the absence of mig - 14 function .
+While mig - 14 is not necessary for colonization of the Peyer 's patches , it plays a role in colonization of the spleen and liver following oral inoculation in a mouse model of typhoid ( 51 ) .
+This observation and our results that mig - 14 strains are more sensitive to antimicrobial peptides are consistent with the findings of Gunn et al. , who demonstrate that certain polymyxinsensitive mutants of Salmonella were strongly out - competed in replication by the wild - type strain in the liver and spleen following oral infection ( 15 ) .
+The reduced virulence of the mig - 14 : : Kan mutant is therefore consistent with the idea that the Mig - 14 protein is necessary for resistance to killing by antimicrobial peptides within the host environment and contributes to Salmonella survival during in - vivo infection .
+The sensitivity of the mig - 14 strain to antimicrobial peptides could 3212 BRODSKY ET AL. .
+account for the attenuation of its virulence in mice following oral infection .
+The precise role of Mig - 14 in conferring protection from antimicrobial peptides is as yet unknown .
+However , our data suggest that mig - 14 is likely to contribute to antimicrobial peptide resistance via a mechanism other than direct modification of LPS .
+A sequence present in Mig - 14 shares homology with the helix - loop - helix motif of the AraC family of transcriptional regulatory proteins , suggesting that it could be a regulatory protein .
+Interestingly , a large number of AraC family members are involved in antibiotic resistance , stress response , and carbohydrate metabolism ( 9 ) .
+We are pursuing further studies to establish the precise function of the Mig - 14 protein and determine the mechanism by which it contributes to antimicrobial peptide resistance .
+We thank Corrie Detweiler , Erin Gaynor , Denise Monack , Scotty Merrell , and Sunny Shin for critical readings of the manuscript and members of the Falkow lab for helpful discussion .
+Michael Starnbach was very helpful in providing protocols for SDS - PAGE analysis of LPS .
+S. enterica serovar Typhimurium strain JKS 1379 and the pKR301 plasmid were generously provided by Kenneth Roland ( Meganhealth , Inc. ) .
+pHSG576 was kindly provided by Jeff Stock ( Princeton University ) .
+PG - 1 was a kind gift of Tom Parr and Tim Falla ( Intrabiotics ) .
+This work was supported by grant AI26195 from the National Institutes of Health to S.F. , grant RO1 AI30479 to R.K.E. and S.I.M. , and Molecular Basis of Host Parasite Interaction training grant 5 T32 AI07328 to I.E.B. 1 .
+Aspedon , A. , and E. A. Groisman .
+The antibacterial action of protamine : evidence for disruption of cytoplasmic membrane energization in Salmonella typhimurium .
+Buchmeier , N. A. , and F. Heffron .
+Inhibition of macrophage phagosome - lysosome fusion by Salmonella typhimurium .
+Caroff , M. , A. Tacken , and L. Szabo .
+Detergent - accelerated hydrolysis of bacterial endotoxins and determination of the anomeric configuration of the glycosyl phosphate present in the `` isolated lipid - A '' fragment of the Bordetella pertussis endotoxin .
+Darveau , R. P. , and R. E. Hancock .
+Procedure for isolation of bacterial lipopolysaccharides from both smooth and rough Pseudomonas aeruginosa and Salmonella typhimurium strains .
+Darwin , K. H. , and V. L. Miller .
+Molecular basis of the interaction of Salmonella with the intestinal mucosa .
+Ernst , R. K. , E. C. Yi , L. Guo , K. B. Lim , J. L. Burns , M. Hackett , and S. I. Miller .
+Specific lipopolysaccharide found in cystic fibrosis airway Pseudomonas aeruginosa .
+Fields , P. I. , E. A. Groisman , and F. Heffron .
+A Salmonella locus that controls resistance to microbicidal proteins from phagocytic cells .
+Fields , P. I. , R. V. Swanson , C. G. Haidaris , and F. Heffron .
+Mutants of Salmonella typhimurium that can not survive within the macrophage are avirulent .
+Gallegos , M. T. , R. Schleif , A. Bairoch , K. Hofmann , and J. L. Ramos .
+Arac/XylS family of transcriptional regulators .
+Garcia Vescovi , E. , F. C. Soncini , and E. A. Groisman .
+Mg2 as an extracellular signal : environmental regulation of Salmonella virulence .
+Groisman , E. A. , J. Kayser , and F. C. Soncini .
+Regulation of polymyxin resistance and adaptation to low - Mg 2 environments .
+Guina , T. , E. C. Yi , H. Wang , M. Hackett , and S. I. Miller .
+A PhoPregulated outer membrane protease of Salmonella enterica serovar Typhimurium promotes resistance to alpha - helical antimicrobial peptides .
+Gunn , J. S. , K. B. Lim , J. Krueger , K. Kim , L. Guo , M. Hackett , and S. I. Miller .
+PmrA - PmrB - regulated genes necessary for 4 - aminoarabinose lipid - A modification and polymyxin resistance .
+Gunn , J. S. , and S. I. Miller .
+PhoP - PhoQ activates transcription of pmrAB , encoding a two - component regulatory system involved in Salmonella typhimurium antimicrobial peptide resistance .
+Gunn , J. S. , S. S. Ryan , J. C. Van Velkinburgh , R. K. Ernst , and S. I. Miller .
+Genetic and functional analysis of a PmrA - PmrB - regulated locus necessary for lipopolysaccharide modification , antimicrobial peptide resistance , and oral virulence of Salmonella enterica serovar Typhimurium .
+Guo , L. , K. B. Lim , J. S. Gunn , B. Bainbridge , R. P. Darveau , M. Hackett , and S. I. Miller .
+Regulation of lipid - A modifications by Salmonella typhimurium virulence genes phoP - phoQ .
+Guo , L. , K. B. Lim , C. M. Poduje , M. Daniel , J. S. Gunn , M. Hackett , and S. I. Miller .
+Lipid A acylation and bacterial resistance against vertebrate antimicrobial peptides .
+Hancock , R. E. , and M. G. Scott .
+The role of antimicrobial peptides in animal defenses .
+Heffernan , E. J. , J. Harwood , J. Fierer , and D. Guiney .
+The Salmonella typhimurium virulence plasmid complement resistance gene rck is homologous to a family of virulence - related outer membrane protein genes , including pagC and ail .
+Helander , I. M. , I. Kilpelainen , and M. Vaara .
+Increased substitution of phosphate groups in lipopolysaccharides and lipid - A of the polymyxinresistant pmrA mutants of Salmonella typhimurium : a 31P - NMR study .
+Hoiseth , S. K. , and B. A. Stocker .
+Aromatic - dependent Salmonella typhimurium are non - virulent and effective as live vaccines .
+Jones , B. D. , and S. Falkow .
+Salmonellosis : host immune responses and bacterial virulence determinants .
+Kato , A. , H. Tanabe , and R. Utsumi .
+Molecular characterization of the PhoP - PhoQ two - component system in Escherichia coli K - 12 : identification of extracellular Mg 2 - responsive promoters .
+Kier , L. D. , R. M. Weppelman , and B. N. Ames .
+Regulation of nonspecific acid phosphatase in Salmonella : phoN and phoP genes .
+Kokryakov , V. N. , S. S. Harwig , E. A. Panyutich , A. A. Shevchenko , G. M. Aleshina , O. V. Shamova , H. A. Korneva , and R. I. Lehrer .
+Protegrins : leukocyte antimicrobial peptides that combine features of corticostatic defensins and tachyplesins .
+Kox , L. F. , M. M. Wosten , and E. A. Groisman .
+A small protein that mediates the activation of a two - component system by another two - component system .
+Maloy , S. R. , V. J. Stewart , and R. K. Taylor .
+Genetic analysis of pathogenic bacteria .
+Cold Spring Harbor Laboratory Press , Cold Spring Harbor , N.Y. 28 .
+McCoy , A. J. , H. Liu , T. J. Falla , and J. S. Gunn .
+Identification of Proteus mirabilis mutants with increased sensitivity to antimicrobial peptides .
+Miller , S. I. , A. M. Kukral , and J. J. Mekalanos .
+A two - component regulatory system ( phoP phoQ ) controls Salmonella typhimurium virulence .
+Miller , S. I. , and J. J. Mekalanos .
+Constitutive expression of the phoP regulon attenuates Salmonella virulence and survival within macrophages .
+Miller , S. I. , W. S. Pulkkinen , M. E. Selsted , and J. J. Mekalanos .
+Characterization of defensin resistance phenotypes associated with mutations in the phoP virulence regulon of Salmonella typhimurium .
+Nelson , D. L. , and E. P. Kennedy .
+Magnesium transport in Escherichia coli .
+Inhibition by cobaltous ion .
+Nummila , K. , I. Kilpelainen , U. Zahringer , M. Vaara , and I. M. Helander .
+Lipopolysaccharides of polymyxin B - resistant mutants of Escherichia coli are extensively substituted by 2 - aminoethyl pyrophosphate and contain aminoarabinose in lipid - A .
+Paneth cells and innate immunity in the crypt microenvironment .
+Bacterial lipopolysaccharides : a remarkable family of bioactive amphiphiles , p. 1035 -- 1063 .
+In F. C. Neidhardt , R. Curtis III , J. L. Ingraham , E. C. C. Lin , K. B. Low , B. Magasanik , W. S. Reznikoff , M. Riley , M. Schaechter , and H. E. Umbarger ( ed .
+) , Escherichia coli and Salmonella : cellular and molecular biology , 2nd ed .
+ASM Press , Washington , D.C. 36 .
+Rathman , M. , M. D. Sjaastad , and S. Falkow .
+Acidification of phagosomes containing Salmonella typhimurium in murine macrophages .
+Roland , K. L. , C. R. Esther , and J. K. Spitznagel .
+Isolation and characterization of a gene , pmrD , from Salmonella typhimurium that confers resistance to polymyxin when expressed in multiple copies .
+Selsted , M. E. , D. M. Brown , R. J. DeLange , and R. I. Lehrer .
+Primary structures of MCP - 1 and MCP - 2 , natural peptide antibiotics of rabbit lung macrophages .
+Shafer , W. M. , S. G. Casey , and J. K. Spitznagel .
+Lipid A and resis - VOL .
+184 , 2002 mig - 14 IN SALMONELLA ANTIMICROBIAL PEPTIDE RESISTANCE 3213 tance of Salmonella typhimurium to antimicrobial granule proteins of human neutrophil granulocytes .
+Snavely , M. D. , S. A. Gravina , T. T. Cheung , C. G. Miller , and M. E. Maguire .
+Magnesium transport in Salmonella typhimurium .
+Regulation of mgtA and mgtB expression .
+Soncini , F. C. , E. Garcia Vescovi , F. Solomon , and E. A. Groisman .
+Molecular basis of the magnesium deprivation response in Salmonella typhimurium : identification of PhoP - regulated genes .
+Soncini , F. C. , and E. A. Groisman .
+Two - component regulatory systems can interact to process multiple environmental signals .
+Stinavage , P. , L. E. Martin , and J. K. Spitznagel .
+O antigen and lipid A phosphoryl groups in resistance of Salmonella typhimurium LT - 2 to nonoxidative killing in human polymorphonuclear neutrophils .
+Storm , D. R. , K. S. Rosenthal , and P. E. Swanson .
+Polymyxin and related peptide antibiotics .
+Takeshita , S. , M. Sato , M. Toba , W. Masahashi , and T. Hashimoto - Gotoh .
+High - copy - number and low - copy - number plasmid vectors for lacZ alpha - complementation and chloramphenicol - or kanamycin - resistance selection .
+Electron microscope studies of experimental Salmonella infection .
+I. Penetration into the intestinal epithelium by Salmonella typhimurium .
+Trent , M. S. , A. A. Ribeiro , S. Lin , R. J. Cotter , and C. R. Raetz .
+An inner membrane enzyme in Salmonella and Escherichia coli that transfers 4 - amino - 4-deoxy - L-arabinose to lipid - A : induction on polymyxin - resistant mutants and role of a novel lipid - linked donor .
+Tsai , C. M. , and C. E. Frasch .
+A sensitive silver stain for detecting lipopolysaccharides in polyacrylamide gels .
+Agents that increase the permeability of the outer membrane .
+Vaara , M. , T. Vaara , M. Jensen , I. Helander , M. Nurminen , E. T. Rietschel , and P. H. Makela .
+Characterization of the lipopolysaccharide from the polymyxin - resistant pmrA mutants of Salmonella typhimurium .
+Valdivia , R. H. , D. M. Cirillo , A. K. Lee , D. M. Bouley , and S. Falkow .
+mig - 14 is a horizontally acquired , host - induced gene required for Salmonella enterica lethal infection in the murine model of typhoid fever .
+Valdivia , R. H. , and S. Falkow .
+Bacterial genetics by flow cytometry : rapid isolation of Salmonella typhimurium acid - inducible promoters by differential fluorescence induction .
+Valdivia , R. H. , and S. Falkow .
+Fluorescence - based isolation of bacterial genes expressed within host cells .
+van Velkinburgh , J. C. , and J. S. Gunn .
+PhoP - PhoQ - regulated loci are required for enhanced bile resistance in Salmonella spp. .
+Wosten , M. M. , and E. A. Groisman .
+Molecular characterization of the PmrA regulon .
+Wosten , M. M. , L. F. Kox , S. Chamnongpol , F. C. Soncini , and E. A. Groisman .
+A signal transduction system that responds to extracellular iron .
+Zhou , Z. , S. Lin , R. J. Cotter , and C. R. Raetz .
+Lipid A modifications characteristic of Salmonella typhimurium are induced by NH4VO3 in Escherichia coli K12 .
+Detection of 4 - amino - 4-deoxy - L-arabinose , phosphoethanolamine and palmitate .

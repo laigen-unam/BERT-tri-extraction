@@ -1,0 +1,376 @@
+JOURNAL OF BACTERIOLOGY , OCt. 1989 , p. 5620 - 5629 0021 - 9193/89 / 105620 - 10 $ 02.00 / 0 Vol .
+171 , No. 10 Genetic and Biochemical Analysis of the MetR Activator - Binding Site in the metE metR Control Region of Salmonella typhimurium MARK L. URBANOWSKI AND GEORGE V. STAUFFER * Department of Microbiology , University of Iowa , Iowa City , Iowa 52242 The Salmonella typhimurium metE and metR genes share a common control region , with overlapping , divergently transcribed promoters .
+A double gene fusion was constructed in which the metE promoter directs expression of the Escherichia coli lacZ gene and the metR promoter directs expression of the E. coli galK gene .
+By using an E. coli strain lysogenized with a lambda bacteriophage carrying the metE - lacZ metR - galK double fusion ( XElac Rgal ) , two classes of cis - acting mutations were isolated that increase metR - galK expression .
+The first class of mutations causes a simultaneous decrease in metE - lacZ expression by disrupting the normal MetR - mediated activation of the metE promoter .
+The mutations are located within a region extending from 17 to 34 base pairs upstream of the -35 region of the metE promoter .
+Gel mobility - shift assays and DNaseI protection experiments demonstrated that the MetR protein specifically binds to a 24 - base - pair region encompassing these mutations .
+The second class of mutations increases metR - galK expression by directly altering the promoter consensus sequences of the metE and metR promoters .
+The genes that encode the enzymes catalyzing methionine biosynthesis in Escherichia coli and Salmonella typhimurium are unlinked on the bacterial chromosomes and form independent transcriptional units , with the exception of the metBL operon ( for a review , see reference 19 ) .
+These met regulon genes are under negative transcriptional control by the metJ gene product and S - adenosylmethionine , the pathway end product .
+In addition to MetJ - mediated negative control , at least two of the met genes , metE and metH , are under positive control by the metR gene product ( 25 ) .
+This MetR - mediated activation is modulated by homocysteine , an intermediate in the methionine pathway and the substrate for the transmethylation reaction catalyzed by the metE and metH gene products ( 27 ) .
+The genetic evidence suggesting that the metR gene product is a transcriptional activator protein ( 26 , 28 ) is supported by the finding that the MetR protein belongs to a family of DNA - binding proteins ( 9 ) , although none of these previous studies addressed the questions of the identification of a MetR operator sequence or a mechanism of activation .
+The metR gene and the metE gene are transcribed divergently from promoters that overlap considerably ( 16 ) .
+This fact , in conjunction with earlier findings indicating that the metR gene is negatively autoregulated ( 25 ) , led us to question whether or not a single MetR - mediated event involving binding of the MetR protein to the metE metR control - region DNA affects both the activation of the metE gene and the negative autoregulation of the metR gene .
+To examine these questions , we constructed a double gene fusion by using the E. coli lacZ and galK genes as reporter genes for metE and metR expression , respectively .
+By using this metE - lacZ metR - galK double fusion , we identified cisacting mutations that interfere with the normal MetR - mediated activation of metE expression and autorepression of the metR gene .
+These mutations are located within a region that binds the MetR protein , and we propose that these mutations define the MetR binding site for the metE metR control region .
+* MATERIALS AND METHODS Bacterial strains .
+All strains used are derivatives of E. coli K - 12 and are described in Table 1 .
+The genotype designation AgalK : 1tet - 50 ( pBR322 ) for strains GS752 , GS760 , and GS762 refers to a substitution ( Y ) of the entire galK gene by the gene specifying tetracycline resistance ( tet ) from plasmid pBR322 .
+Plasmid pAA3 carries the E. coli galE ' , gaiT , and galK genes ( 1 ) .
+The AgalK : 2tet allele was constructed in vitro by deletion of an HpaI - BspMII DNA fragment carrying the galK gene and replacing this fragment with an EcoRI - BspMII DNA fragment carrying the tet gene from plasmid pBR322 .
+galK : Itet allele was then recombined onto the chromosome of strain GS727 by transformation , using the linear DNA fragment carrying the galE ' , gaiT , and AgalK : Xtet genes .
+Phage P1 transduction experiments demonstrated that the AgalK : .
+tet allele had recombined at the normal galK locus ( data not shown ) .
+The AgalK : Itet allele was then transferred to various strains used in this study by phage P1 transduction , selecting for the tetracycline - resistant phenotype .
+L agar is Luria agar and GM medium is the glucose minimal - medium described previously ( 22 ) , plus phenylalanine and vitamin - B1 .
+Galactose minimal - medium is identical to GM medium , except that glucose is replaced by 0.4 % D - galactose .
+Supplements were added as follows : phenylalanine , L - methionine , and D - methionine , 50 , ug/ml ; DL - homocysteine , 100 , ug/ml ; vitamin - B1 , 1 jig/ml .
+Antibiotics were added as follows : kanamycin ( Km ) , 20 , ug/ml ; ampicillin , 100 , ug/ml ; spectinomycin , 50 , jig/ml .
+5 - Bromo - 4-chloro - 3-indolyl - P-D - galactoside was added to 40 , ug/ml .
+Construction of plasmid pElac .
+Rgal and phage XElac Rgal .
+Construction details of plasmid pElac Rgal , carrying a metE - lacZ metR - galK double - gene fusion , are given in Fig. 1 .
+The approximately 7,700 - base - pair ( bp ) EcoRI fragment carrying the metR - galK fusion and the metE - lacZ fusion along with the lac Y and lacA genes was isolated from plasmid pElac Rgal and cloned into the unique EcoRI site in the temperature - sensitive phage Agt2 by a method described previously ( 24 ) .
+The resulting phage , designated XElac Rgal , was used to lysogenize the E. coli strains listed in Table 1 ; lysogens were determined to carry 5620 VOL .
+E. coli K - 12 strains Relevant genotypea GS244 AmetR : : Mu GS727 sbcB15 recB21 recC22 GS752 metBI AmetF : : Mu metJ97 AgalK : 1.tet - SO ( pBR322 ) b GS760 metB1 metJ97 AgalK : Ytet - 50 ( pBR322 ) GS762 metBi metJ97 AmetR : : Mu AgalK : Ytet - 50 ( pBR322 ) GS802 AmetR : : Mu , carries the lacI + plasmid pMS421c a All strains were constructed in this laboratory .
+In addition to the relevant markers , strains GS244 , GS752 , GS760 , GS762 , and GS802 are pheA905 , thi , AlacU169 , araD129 , rpsL , and strain GS727 is thr - 1 , leuB6 , A ( gpt - proA ) , hisG4 , argE3 , thi - 1 , ara - 14 , lacYI , tsx - 33 , supE44 , rac , rfbDi , rpsL31 , kdgKSJ , xyl - S , mtl - l .
+b AgalK : 1tet - 50 ( pBR322 ) is a deletion of the galK gene and its substitution ( Y ) by the tet gene from plasmid pBR322 ( see Materials and Methods ) .
+c Plasmid pMS421 is described in reference 7 .
+a single copy of the bacteriophage by using the method of Shimada et al. ( 21 ) .
+Selection of cis - acting regulatory mutations in AElac Rgal .
+Strain GS752 was lysogenized with XElac Rgal , and the resulting lysogen , 752XElac * Rgal , was transformed with the single copy plasmid pGSmetR .
+Plasmid pGSmetR carries the S. typhimurium metR gene and the Km resistance element ( 25 ) .
+The transformed lysogen , 752XElac Rgal ( pGSmetR ) , was streaked on an L agar plus Km plate , and 10 isolated colonies were grown overnight in GM medium plus methionine and Km .
+The cells were washed twice in GM medium , and then concentrated fivefold in GM medium .
+Samples ( 0.1 ml ) of the washed cell suspensions were spread onto galactose minimal plates supplemented with methionine and Km and incubated at 30 °C .
+After 72 h , 9 of the 10 plates had colonies of various sizes present and numbering from 1 to 10 colonies per plate .
+Nine colonies were purified and rechecked for growth on galactose minimal plates plus methionine and Km to verify the original mutant phenotype .
+The XElac * Rgal phage in Gal ' mutant lysogens were heat induced at 42 °C , and a X phage stock was made from each of the lysogens .
+Phage from each mutant was used to lysogenize strain GS752 , and the resulting lysogens were tested for their ability to grow on galactose plates containing methionine and Km .
+All relysogenized strains were able to grow on the galactose plates and were assumed to carry a mutant XElac .
+The metE metR control region DNA from each mutant phage was then sequenced .
+P - Galactosidase activity was assayed as described by Miller ( 15 ) , by using the chloroform - sodium dodecyl sulfate lysis procedure .
+Galactokinase activity was assayed as described by McKenney et al. ( 14 ) .
+All results are averages of two or more assays in which each sample was assayed in triplicate .
+Relative levels of specific metR - galK - mRNA produced in the XElac Rgal - wild - type and - XElac Rgal - mutant lysogens were estimated by using a dot blot hybridization assay as described by Thomas ( 23 ) and as modified by Traina and Cohen for the Hybri Dot dot blotting apparatus ( Bethesda Research Laboratories , Inc. , Gaithersburg , Md. ) .
+Lysogens were grown in GM medium supplemented with D - methionine , and total cellular RNA was prepared from each culture by the method of Baker and Yanofsky ( 2 ) .
+The RNA was dissolved in H20 and adjusted to a final concentration of 0.4 , ug/ml .
+Seven serial twofold dilutions of each sample were made in a 96 - well microtiter plate by using purified E. coli tRNA ( 0.4 , ug/ml in H20 ) as diluent .
+A 5 - , ul portion of each dilution was spotted onto nitrocellulose filter paper , and the papers were baked at 80 °C MetR - BINDING SITE 5621 to retain the RNA .
+The filters were prehybridized in buffer ( 0.45 M NaCl , 0.045 M sodium citrate , 0.05 M HEPES [ N - 2-hydroxyethylpiperazine - N ' -2 - ethanesulfonic - acid ] , pH 7.0 , 200 , ug of yeast RNA per ml , 25 , ug of sonicated calf thymus DNA per ml , 0.2 % bovine serum albumin , 0.2 % Ficoll , 0.2 % polyvinylpyrrolidone ) and then probed with a 32P - labeled DNA fragment .
+The probe was a 165 - bp NheI - ApaLI DNA fragment from within the galK structural gene in plasmid pElac * Rgal .
+The fragment was - 32P - labeled at termini by using T4 polynucleotide kinase and then both 5 ' was strand separated .
+The strand complementary to the metR - galK transcript was used as the hybridization probe .
+After hybridization , the filters were washed , air dried , and autoradiographed at several exposure times .
+The autoradiograms were analyzed by optical densitometry by using values that were determined to be within the linear range of film exposure conditions .
+The MetR - overproducing plasmid pGS199 was constructed by cloning an approximately 1,100 - bp RsaI - HindIII DNA fragment carrying the S. typhimurium metR gene ( lacking the metR promoter ) into the SmaI - HindIII sites downstream of the Ptac promoter in the expression vector pKK223 - 3 ( Pharmacia LKB Biotechnology , Piscataway , N.J. ) .
+The Ptac promoter in plasmid pGS199 controls production of the MetR protein and is regulated by the lac repressor ( lacI gene product ) when transformants also carry the lacI + plasmid pMS421 ( 7 ) .
+The addition of isopropyl - p-D - thiogalactoside to the growth medium inactivates repression of the Ptac promoter by the lac repressor and results in overproduction of the MetR protein , as observed by sodium dodecyl sulfate gel electrophoresis ( data not shown ) .
+Preparation of extracts enriched in MetR protein .
+Strain GS244 was transformed with the lacI + plasmid pMS421 .
+The resulting transformant , designated GS802 , was then transformed with the MetR overproducing plasmid pGS199 .
+As a control , GS802 was also transformed with the expression vector pKK223 - 3 .
+The transformants , 802 ( pGS199 ) and 802 ( pKK223 - 3 ) , respectively , were grown to 50 Klett units at 37 °C in 500 ml of GM medium plus methionine , ampicillin , and spectinomycin .
+Isopropyl - 3-D - thiogalactoside was then added to a final concentration of 1 mM , and the cultures were incubated an additional 3 h at 37 °C .
+The cells were collected by centrifugation , and the pellets were suspended in 4 ml of 2x DNA - binding buffer ( 10 mM Tris hydrochloride , pH 7.5 , 50 mM KCl , 1 mM EDTA , 5 % glycerol , 1 mM dithiothreitol ) .
+The cell suspensions were sonicated , and the resulting extracts were cleared by centrifugation at 15,000 x g for 30 min at 4 °C .
+The cleared extracts were assayed for total protein ( 10 ) and adjusted to equal protein concentrations ( approximately 40 j , g / , ul ) .
+The extracts were then divided into small portions and stored at -70 °C until further use .
+Extracts were stable at -70 °C for at least 2 months .
+The gel mobility - shift assay is based on the methods developed by Fried and Crothers ( 5 ) and by Garner and Revzin ( 6 ) .
+A double - stranded 400 - bp BamHI - NheI DNA fragment from plasmid pElac Rgal that includes the entire metE metR control region ( Fig. 1 ) was 32P - labeled at the 5 ' terminus of the NheI site and used as the target fragment .
+The target DNA fragment was added at a final concentration of less than 10 ' M to 20 - , ul reaction mixtures containing lx DNA - binding buffer plus 5 mM EDTA , 125 , ug of bovine serum albumin per ml , and , where indicated , 1 mM L - homocysteine .
+The reaction mixtures were incubated at 37 °C for 5 min .
+A 2 - , ul portion of either the control extract from 802 ( pKK223 - 3 ) or the MetR - enriched 5622 URBANOWSKI AND STAUFFER J. BACTERIOL .
+E A B E B RE acZ amp jacZ pGS125 pMC1403 Aatll + BstNI , blunt - end at BstNI and attach Nhel linker / lacA S lacA IBamHl / AatIl / SmnaI , attach Nhel linkers , cut with BamHl + Nhel N A metR metE galK N AB - I lacZ E amp pElac.Rgal R / attach Nhel linker at proximal EcoRI site , cut with Nhel + EcoRI a lacy galK ' FIG. 1 .
+Construction of the metE - lacZ metR - galK double gene fusion .
+The BstNI - AatII fragment carrying the metR control region plus the first 11 codons of the metR coding sequence was isolated from plasmid pGS191 ( 28 ) , the BstNI site was filled in using the Klenow enzyme , and an 8 - bp NheI DNA linker was attached .
+The AatII - BamHI fragment carrying the first 22 codons of the truncated metE gene fragment from the original metE - lacZ fusion plasmid pGS125 ( 17 ) was isolated and ligated to the NheI - AatII metR fragment described above .
+The resulting NheI - BamHI fragment carrying the metR metE control region was ligated into the lacZ fusion vector pMC1403 ( 3 ) at unique NheI and BamHI sites .
+( The NheI site in plasmid pMC1403 was inserted on an 8 - bp DNA linker into the SmaI site in plasmid pMC1403 .
+) This intermediate plasmid is designated pElac R ( NheI ) .
+The E. coli galK gene from plasmid pYCpRI ( 18 ) was cut at the EcoRI site located at the 5 ' end of the galK coding sequence , the site was filled in , and an 8 - bp NheI linker was attached .
+The 1,100 - bp NheI - EcoRI DNA fragment carrying the galK structural gene ( having the first 3 codons deleted ) was then cloned into the EcoRI - NheI sites in plasmid pElac * R ( Nhel ) .
+In the resulting double fusion plasmid , designated pElac Rgal , p - galactosidase synthesis is under the transcriptional and translational control of the metE regulatory region , and galactokinase synthesis is under similar control by the metR regulatory region .
+The junctions of both fusions and the metE metR control region were DNA sequenced in order to verify the construction .
+Restriction enzyme abbreviations are : A , AatII ; B , BamHI ; E , EcoRI ; N , NheI ; S , SmaI ; and Sa , Sal .
+Only the pBR322 vector sequences that are retained in plasmid pElac Rgal are indicated with a heavy dark line .
+extract from 802 ( pGS199 ) , in a twofold dilution series ranging from 1/500 to 1/64 ,000 , was added to the reaction mixture , and incubation was continued for an additional 15 min at 37 °C .
+After the addition of 1 > x1 of dye ( 0.1 % xylene cyanole , 50 % glycerol in H20 ) , the reaction mixtures were immediately loaded onto 5 % polyacrylamide gels ( 1/30 bisacrylamide - acrylamide buffered with 10 mM Tris hydrochloride [ pH 7.4 ] -0.38 M glycine - 1 mM EDTA ) .
+Gels were prerun for 1 h at 9 V/cm before loading , and samples were loaded while the gels were running at 9 V/cm .
+The gels were then dried and autoradiographed .
+The DNase - I-protection assay was carried out in a 120 - pAl reaction mixture and is based on the methods of Schmitz and Galas ( 20 ) , with the following modifications .
+The 5 ' 32P - labeled BamHI - NheI DNA fragment described above , carrying the metE metR control region , was preincubated for 5 min at 37 °C in lx DNAbinding buffer plus 125 , ug of bovine serum albumin per ml .
+A 1/1 ,000 dilution of either the control extract from 802 ( pKK223 - 3 ) or the MetR - enriched extract from 802 ( pGS199 ) was added , and the incubation was continued at 37 °C for an additional 15 min .
+A 6 - gjl portion of a solution of DNase 1 ( 2.5 , ug/ml dissolved in 20 mM sodium acetate , pH 7 , 32 mM CaCl2 ) was added , and incubation was continued at 37 °C for either 30 sec or for 3 min .
+The DNase I digestions were stopped by the addition of 25 , J of a solution of 3 M ammonium acetate - 0.25 M EDTA - 15 , ug of sonicated calf thymus DNA per ml , and the samples were precipitated with ethanol .
+The partial DNase I digestion products were run on a denaturing DNA sequencing gel alongside the Maxam and Gilbert `` G '' reaction ( 12 ) of the DNA probe .
+After electrophoresis , the gels were dried and autoradiographed .
+RESULTS Construction of a metE - lacZ metR - galK double fusion .
+Previous work indicated that the metR gene product functions as an activator of transcription of the metE gene and shows a high degree of homology to a family of procaryotic activator proteins that function by binding to DNA target sites ( 9 , 28 ) .
+In addition , the metR gene has been shown to be negatively autoregulated ( 25 ) .
+The metE and metR genes are VOL .
+171 , 1989 MetR - BINDING SITE 5623 loc Z ?
+met E ' I met R I met R ' l gal K T 1,2 , A8 A A91 -3 S - ~ A7I + j I. .
+- ... Met IIle Glu Ile Li 5 - AGACGTCTGGATGTTTACACATCCATAATGTAAAGGTACTGTATATI ` CCTCAAGCGCAATTTGTTCATGGCGAAGTGAAGGACTTTC ATG ATC GAA ATT A 3 ' - TCTGCAGACCTACAAATGTGTAGGTATTACATTTCCATGACATATAAGGAGTTCGCGTTAAACAAGTACCGCTTCACTTCCTGAAG TAC TAG CTT TAA TTT  # 3  DNaseI protected region G T C AG 10 C6 FIG. 2 .
+Location of the cis - acting mutations and the MetR - protected sequence in the metE metR control region .
+The top line shows the entire metE metR control region and the codon fusion points in the Elac Rgal double fusion .
+The DNA sequence of the overlapping promoter region is given in the bottom line .
+Nucleotide numbering is by the method of Plamann and Stauffer ( 16 ) .
+The start sites and direction of transcription ( arrows ) and the -10 and -35 regions for the metR and metE promoters are indicated on the top and bottom strands , respectively .
+The region of DNA protected from DNase I digestion by the MetR protein is indicated by the bracket .
+Asterisks indicate bases that lie within the region of MetR binding but are unprotected from DNase I cleavage in the DNase - I-protection experiments .
+The interrupted palindrome 5 ' - TGAA ----- TTCA - 3 ' that may constitute the MetR recognition sequence is lined between the top and bottom sequences .
+The mutations proposed to disrupt the MetR binding site ( alleles 1 , 2 , 7 , 8 , and 9 ) are indicated above the sequence .
+Mutations 3 , 5 , 6 , and 10 , proposed to affect the promoter sequences directly , are indicated below the sequence .
+The symbol indicates that the mutation is a deletion of the base pairs indicated by the open bar ; otherwise the mutation is a base - pair substitution , as indicated .
+divergently transcribed , and the two promoters overlap substantially , suggesting that the DNA region in common with both promoters may contain the MetR target site ( s ) .
+In order to locate the MetR binding site , we used a XElac - Rgal phage carrying a double gene fusion in which the S. typhimurium metE promoter directs expression of the E. coli lacZ gene and the metR promoter directs expression of the E. coli galK gene ( Fig. 1 ) .
+The metE - lacZ fusion consists of the S. typhimurium metE control region , including the first 22 metE codons fused to codon 8 of the E. coli lacZ gene .
+The metR - galK fusion consists of the metR control region , including the first 11 metR codons fused to codon 4 of the E. coli galK gene .
+The resulting double fusion allowed us to monitor metE gene expression by assaying , B - galactosidase activity and to monitor metR gene expression by assaying galactokinase activity .
+In lysogens carrying the wild - type XElac Rgal phage , regulation of the metElacZ fusion is normal , showing 3 - to 4 - fold induction by homocysteine addition ( see Table 3 ) , and more than 100 - fold lower , uninducible P - galactosidase levels in a metR mutant ( see Table 4 ) , consistent with previous XElac studies ( 27 ) .
+Similarly , regulation of metR - galK expression is normal , showing 8 - to 9 - fold inhibition by homocysteine ( see Table 3 ) and 14 - fold negative autoregulation ( see Table 4 ) , consistent with previous XRlac studies ( 25 ) .
+We were able to use the genetic selection techniques developed for the E. coli galactose system to select for mutations that alter regulation of the metR - galK gene fusion .
+These mutations could then readily be tested for their effects on the overlapping metElacZ fusion by assaying , B - galactosidase activity .
+Selection of metR - galK derepressed mutants .
+The metR gene is negatively regulated by its own gene product in conjunction with homocysteine .
+This negative autoregulation was exploited in previous experiments to select for trans - acting mutations that inactivate the metR gene in lysogens carrying a metR - lacZ gene fusion ( 25 ) .
+In the present study we changed the selection strategy to obtain cis - acting mutations that alter metR autoregulation .
+Strain GS752 is metJ metB metF and accumulates homocysteine produced from S - adenosylmethionine via a regenerative pathway when cultures are supplemented with methionine ( 4 , 25 ) .
+This strain also carries a deletion of the normal chromosomal galK gene , while retaining normal function of galE and galT .
+When strain GS752 is lysogenized with the double fusion phage XElac Rgal , the resulting lysogen , 752XElac Rgal , can not grow on galactose minimal plates supplemented with methionine because the metR gene product , in conjunction with high internal levels of homocysteine , represses synthesis of galactokinase from the - metR - galK fusion .
+We transformed lysogen 752AElac Rgal with the single - copy plasmid pGSmetR ( 25 ) , which carries the metR gene , in order to reduce the frequency of obtaining mutants that inactivate the metR gene product .
+By using this selection procedure , nine Gal ' mutants were isolated and shown to have phage - associated mutations ( see Materials and Methods ) .
+The metE metR control region from each mutant phage was DNA sequenced in order to locate the mutation .
+As shown in Fig. 2 , the mutations are confined to the region of the overlapping metE and metR promoters and the region encoding the translation initiation signals for the metR gene .
+Since mutant phage AElac Rgal - 1 and XElac Rgal - 2 have identical mutations , the latter was not included in subsequent studies .
+To correlate the position of each mutation with its effect on metR - galK expression and metE - lacZ expression , we assayed galactokinase activity and P - galactosidase activity 5624 URBANOWSKI AND STAUFFER TABLE 2 .
+Simultaneous cis - acting effects on both the metE - lacZ and metR - galK fusions in strain GS752 relysogenized with the mutant XElac Rgal phage Lysogen ' 3 - Galactosidase Galactokinase Lysogen ' 1 ~ ~ ~ activity ' b activity '' 752XElac Rgal 8,410 0.6 752XElac Rgal - 1 3,110 14.9 752XElac Rgal - 3 100 1.4 752XElac Rgal - 5 4,650 4.6 752XElac Rgal - 6 1,630 4.0 752XElac Rgal - 7 170 4.7 752XElac Rgal - 8 180 8.6 752XElac Rgal - 9 200 2.2 752XElac Rgal - 10 2,600 3.3 a The growth medium was GM supplemented with L - methionine .
+b Units of specific activity are nanomoles of o - nitrophenol produced at 28 °C / min per unit at optical density at 600 nm .
+' Units of specific activity are nanomoles of galactose phosphorylated at 37 °C / min per ml of cells at an optical density at 650 nm of 1 .
+in strain GS752 relysogenized with the eight different mutant phage and compared these levels to the parent lysogen 752XElac Rgal ( Table 2 ) .
+As expected , all lysogens carrying mutant phage have elevated levels of metR - galK expression , as reflected in the higher galactokinase activities compared with the parent lysogen .
+In contrast , , - galactosidase activity , reflecting metE - lacZ expression , is decreased in these lysogens compared with the parent lysogen 752XElac Rgal .
+The relationship between the increased metR - galK expression and the decreased metE - lacZ expression seen in the mutants is not a simple inverse relationship .
+For example , lysogen 752XElac Rgal - 8 has high galactokinase activity and low , B - galactosidase activity , lysogen 752XElac Rgal - 3 has relatively low levels of both activities , and lysogen 752XElac Rgal - 1 has relatively high levels of both activities .
+The range of increase of galactokinase activity for the mutant lysogens compared with the parent lysogen varies greatly ( for example , 2.3 - fold higher for 752XElac Rgal - 3 versus 26 - fold higher for 752XElac Rgal - 1 ) and reflects the wide range of growth - rates of the original colonies selected on the galactose plates .
+Regulation of the mutant Elac Rgal fusions by homocysteine and MetR .
+The activation of the metE gene and the repression of the metR gene by the MetR protein is modulated by homocysteine ( 25 , 27 ) .
+Strain GS752 accumulates homocysteine , and thus any regulatory effect of this intermediate would be masked in GS752 lysogens .
+In order to better define the effects of the mutations on the regulation of metR - galK and metE - lacZ expression , we investigated the response of the mutant phage in strains in which intracellular homocysteine levels could be manipulated .
+Strain GS760 ( metJ metB ) does not accumulate homocysteine to levels that are high enough to cause constitutive metE expression and can be used to test the effect of homocysteine supplementation on the regulation of the Elac Rgal fusions .
+Strain GS760 was lysogenized with each of the eight mutant XElac Rgal phage and with the wildtype XElac Rgal parent phage .
+The lysogens were grown in GM medium plus D - methionine , either with or without homocysteine , and the galactokinase and , - galactosidase enzyme levels were determined ( Table 3 ) .
+All eight lysogens of GS760 carrying mutant phage have elevated levels of galactokinase compared with the parent lysogen 760X Elac Rgal , when grown with homocysteine .
+In the absence of homocysteine , however , the galactokinase levels of two of the lysogens , 76OXElac Rgal - 7 and 76OXElac Rgal - 9 , TABLE 3 .
+Effects of mutations on the regulation of the XElac .
+Rgal fusions by homocysteine in lysogens of GS760 ( metJ metB ) J. BACTERIOL .
+, B - Galactosidase Galactokinase Lysogen ' activity ' activityc - Hc + Hc - Hc + Hc 76OXElac Rgal 2,550 8,980 2.5 0.3 760AElac Rgal - 1 820 3,900 12.3 7.8 76OXElac Rgal - 3 60 95 1.2 0.8 76OXElac Rgal - 5 780 5,140 8.4 4.2 76OXElac Rgal - 6 520 1,800 4.3 2.8 76OXElac Rgal - 7 570 180 2.7 2.4 760AElac Rgal - 8 540 185 8.1 8.7 76OXElac Rgal - 9 980 210 2.9 2.4 760AElac Rgal - 10 220 2,730 7.5 2.6 '' The growth medium was GM plus D - methionine , supplemented where indicated with DL - homocysteine ( Hc ) .
+b Units of specific activity are nanomoles of o - nitrophenol produced at 28 °C / min per unit at optical density at 600 nm .
+' Units of specific activity are nanomoles of galactose phosphorylated at 37 °C / min per ml of cells at an optical density at 650 nm of 1 .
+are similar to the parent lysogen , while lysogen 760K Elac Rgal - 3 has levels twofold lower .
+P - Galactosidase levels , reflecting metE - lacZ expression , are lower in all of the lysogens carrying mutant phage compared with the parent lysogen 76OXElac Rgal under both growth - conditions .
+It is noteworthy that mutations 1 , 7 , 8 , and 9 occur upstream of what would be considered the RNA polymerase ( RNAP ) - binding domain for metE ( Fig. 2 ) .
+In five of the lysogens ( mutations 1 , 3 , 5 , 6 , and 10 ) , homocysteine continues to exert a stimulatory effect on metE - lacZ expression , with four of these five having a range of stimulation equivalent to or exceeding that of the parent .
+Interestingly , in the three lysogens carrying phage that have deletions in the region upstream of the -35 sequence of the metE promoter ( mutations 7 , 8 , and 9 ) , metE - lacZ expression is negatively regulated by homocysteine addition to the growth medium .
+To show that the homocysteine effects on metR - galK and metE - lacZ expression in these lysogens is mediated by the metR gene product , we repeated the experiments in an isogenic strain , GS762 , in which the metR gene is inactivated .
+As shown in Table 4 , the ability of homocysteine to modulate expression of the mutant Elac Rgal fusions is reduced in the absence of a functional metR gene .
+This is most apparent in the altered expression of the metE - lacZ fusions , both for the inhibitory effect seen above with AElac Rgal - 7 , -8 , and -9 , and for the stimulatory effect seen with the other five fusion phage .
+Effect of the mutations on metR transcription and translation .
+Lysogens 762XElac Rgal - 1 , -5 , -6 , -8 , and -10 have galactokinase levels that are 1.5 - to 6 - fold higher than the parent lysogen 762XElac Rgal ( Table 4 ) .
+These mutations can be grouped by location into two types : ( i ) those falling within the region encoding the metR transcript ( mutations 1 , 6 , and 8 ) , and ( ii ) those located upstream of the transcription start site for metR ( mutations 5 and 10 ) ( Fig. 2 ) .
+In the former group , the elevated galactokinase levels could be due to an increase in the translational efficiency of the mRNA transcript , to an increase in the amount or stability of the mRNA produced , or to both factors .
+To distinguish between these possibilities , we used a dot blot analysis to measure the relative amounts of metR - galK mRNA produced in the GS762 lysogens carrying the parental XElac Rgal phage or the mutant phage and correlated these values to the galactokinase levels in Table 4 .
+Total cellular RNA was prepared VOL .
+Effect of the metR mutation in lysogens of GS762 ( metJ metB metR ) on transcription and translation of the mutant XElac * Rgal fusions P - Galacto - Galacto - Relativec Relatived Lysogena sidaseb kinase galK translation - Hc + Hc - Hc + Hc mRNA efficiency 762XElac * Rgal 110 75 3.4 4.2 1.0 1.0 762XElac Rgal - 1 110 80 20.4 21.0 0.8 7.5 762XElac * Rgal - 3 40 30 3.6 4.1 2.4 0.4 762XElac * Rgal - 5 40 25 15.4 16.2 3.2 1.4 762XElac * Rgal - 6 460 300 5.1 5.8 0.7 2.1 762XElac * Rgal - 7 115 80 3.3 3.9 0.6 1.6 762XElac * Rgal - 8 120 80 7.5 10.9 0.8 2.8 762XElac Rgal - 9 100 70 2.2 3.6 0.5 1.3 762XElac Rgal - 10 35 25 8.8 12.4 2.0 1.3 a The growth medium was GM plus D - methionine , supplemented where indicated with DL - homocysteine ( Hc ) .
+b Units of specific activity of - galactosidase and galactokinase are given in Table 2 .
+c Relative amount of galK mRNA was determined from densitometric measurements of dot blot autoradiograms ( Fig. 3 ) and normalized to the value obtained for 762XElac * Rgal .
+d Relative translation efficiency of the galK mRNA was calculated as the ratio of galactokinase enzyme level to the relative galK mRNA level from lysogens grown in GM medium plus D - methionine ; values are normalized to the value obtained for 762XElac Rgal .
+from each strain grown in GM medium plus D - methionine .
+Serial twofold dilutions of equal amounts of RNA from each lysogen were bound to nitrocellulose paper and then probed with a 32P - labeled single - stranded DNA fragment complementary to galK mRNA ( Fig. 3 ) .
+The relative amount of specific metR - galK mRNA was quantitated by densitometry of several autoradiograms ; the results are tabulated in Table 4 .
+Of the five Elac - Rgal mutations ( 1 , 5 , 6 , 8 , and 10 ) that conferred increased galactokinase production in the metR background of GS762 , only mutations 5 and 10 increased the relative amounts of metR - galK mRNA .
+This result suggests that mutations 1 , 6 , and 8 increase metR - galK expression over wild - type metR - galK levels in GS762 lysogens by increasing the translational efficiency of the metR - galK transcript .
+Analysis of the DNA sequence of the metE metR promoter region suggests that because of the substantial overlap of the assigned RNAP binding domains ( 16 ) , the binding and initiation by RNAP at the metE promoter and the binding and initiation by RNAP at the metR promoter would be - competing events .
+XElac Rgal mutations 3 , 5 , 6 , and 10 occur within these RNAP - binding domains ( Fig. 2 ) and appear to increase metR - galK expression by interfering with the competition of RNAP for the two promoters , in favor of the metR promoter .
+In support of this hypothesis , three of the four mutations in this group ( mutations 3 , 5 , and 10 ) increase metR - galK mRNA production compared with the parent XElac * Rgal phage in strain GS762 ( Table 4 ) .
+Strain GS762 carries mutations in both the metR and metJ genes , and thus metR - galK mRNA levels in these lysogens should reflect the intrinsic strength of the metR - galK promoter for each mutant XElac Rgal phage .
+Although mutations 3 , 5 , and 10 all increase metR - galK promoter activity , they probably do so in different ways .
+Mutation 5 results in a T - A to G - C change at positions -31 , making the -35 region of the metR promoter a perfect match to the -35 consensus sequence 5 ' - TTGACA - 3 ' for E. coli cr70 promoters ( 8 ) .
+Thus , mutation S probably increases the intrinsic strength of the metR promoter directly .
+Mutation 3 is a 5 - bp deletion of nearly the entire -10 region of the metE Source of RNA Fold MetR - BINDING SITE 5625 RNA dilution 1 2 4 8 16 32 64 w. 9t .
+Comparison of the relative levels of metR - galK - specific mRNA in lysogens of GS762 carrying the wild - type or mutant XElac Rgal phage .
+Total cellular RNA isolated from each lysogen was diluted as indicated with diluent containing purified E. coli tRNA , so that approximately 2 , ug of total RNA ( representing both lysogen RNA and tRNA ) was applied at each spot on the filter paper .
+The filter was dried , baked , and then probed with a 32p labeled single - stranded DNA fragment complementary to galK mRNA , as described in Materials and Methods section .
+The filter was then washed and autoradiographed at several different exposure times , and the relative densities of the dots were determined by optical densitometry .
+The resulting values , normalized to the value of the wild - type XElac Rgal lysogen , represent the relative galK mRNA levels reported in Table 4 .
+Source of RNA indicates total cellular RNA isolated from lysogens of GS762 carrying either wild - type ( w.t. ) or mutant XElac Rgal phage .
+The control is total cellular RNA from strain GS762 .
+Although this deletion might be expected to result in a severe metR promoter - down phenotype because of the altered spacing between the -10 and -35 region of the metR promoter , this mutation actually results in twofold elevated metR - galK transcription ( Table 4 ) .
+The deletion created by mutation 3 moves a new hexanucleotide sequence 5 ' - TATATT - 3 ' to within the proper 17 - bp spacing from the -35 region of the metR promoter .
+We suspect that this new -10 region , a better match to the consensus 5 ' - TATAAT - 3 ' ( 8 ) than the original -10 region ( 5 ' - TACTGT - 3 ' ) , functions more efficiently than the original metR promoter .
+We have not tested this hypothesis by locating the transcription start site of this proposed new metR promoter .
+Mutation 10 results in a metE promoter - down , metR promoter - up phenotype by changing a nonconsensus C - G to a nonconsensus A - T in the -10 region of the metE promoter .
+We do not yet understand the mechanism resulting in this phenotype , but presumably the C - G pair can be tolerated at this position while the A - T pair can not .
+Mutation 6 increases metE - lacZ expression fourfold in the metR mutant lysogen compared with the parent lysogen ( Table 4 ) .
+Because this mutation is located upstream of the -35 region of the metE promoter ( Fig. 2 ) , it is probably not a true metE promoter - up mutation .
+More likely , the T - A to C - G change creates a new -35 region ( 5 ' - TGGACA - 3 ' ) 14 bp upstream of the normal metE -35 region .
+This new metE promoter may be masked in the presence of a functional metR gene product which would favor use of the authentic metE promoter by RNAP .
+We have not yet tested this hypothesis by locating the transcription start site for this proposed new metE promoter .
+Binding of the MetR protein to the metE metR control , 128 5626 URBANOWSKI AND STAUFFER region .
+To test whether the MetR protein binds to the metE metR control region , we constructed a plasmid that overexpresses the MetR protein and used extracts from cells carrying this plasmid as an enriched source of MetR protein for in - vitro DNA - binding experiments .
+Plasmid pGS199 contains the S. typhimurium metR gene cloned downstream of the strong inducible Ptac promoter on the expression plasmid pKK223 - 3 .
+The metR deletion mutant strain GS802 was transformed with plasmid pGS199 .
+Upon induction of the Ptac promoter by the addition of isopropyl - p-D - thiogalactoside to the culture medium , transformant 802 ( pGS199 ) overproduces the S. typhimurium MetR protein ( data not shown ) .
+As a control , GS802 was also transformed with the parent expression plasmid pKK223 - 3 .
+After induction of both cultures with isopropyl - p-D - thiogalactoside crude cell extracts were prepared and used for in - vitro DNA - binding assays at dilutions ranging from 1:500 to 1:64,000 .
+The binding of the S. typhimurium MetR protein to the S. typhimurium metE metR control region was analyzed by using a gel mobility - shift assay .
+The approximately 350 - bp NheI - BamHI DNA fragment carrying the metE metR control region from plasmid pElac Rgal was - 32P - labeled at the NheI end , and the purified fragment was incubated with various dilutions of crude cell extract of either 802 ( pGS199 ) or the metR mutant control 802 ( pKK223 - 3 ) , as described in Materials and Methods .
+Protein - DNA complex formation was analyzed by nondenaturing polyacrylamide gel electrophoresis .
+As shown in Fig. 4A , MetR - enriched cell extracts prepared from transformant 802 ( pGS199 ) can significantly shift the normal mobility of the unbound DNA probe fragment ( lane 10 ) to more slowly migrating forms , even when diluted as much as 16,000 - fold ( arrow , lanes 2 through 7 ) .
+In contrast , extracts of the control transformant 802 ( pKK223 - 3 ) , which does not produce the MetR protein , can not shift the DNA fragment mobility when diluted only 500 - fold ( lane 1 ) .
+( At extract dilutions of less than 500 - fold , both extracts cause extensive smearing of the DNA .
+) These experiments do not rule out the possibility that the MetR protein itself does not bind to the DNA probe but instead promotes the binding of another factor in the extract preparation .
+However , two lines of evidence suggest that the MetR protein is the specific DNA - binding protein in these assays .
+First , the cell extract containing the overexpressed MetR protein can bind the probe , even when diluted as much as 16,000 - fold .
+Second , analysis of the proposed amino - acid sequence of the MetR protein indicates that MetR belongs to a family of DNA - binding regulatory proteins ( 9 ) .
+We examined the effect of homocysteine on the affinity of the MetR protein for the metE metR DNA probe .
+Binding reactions were performed as described above , except that 1 mM L - homocysteine was present in the binding mixture .
+As shown in Fig. 4B , homocysteine did not significantly alter the DNA binding affinity of MetR compared with that seen without homocysteine .
+Location of the MetR binding site .
+To locate the specific region on the NheI - BamHI DNA probe fragment to which the MetR protein binds , we used a DNase - I-protection assay in which the bound MetR protein protects the region of DNA encompassing its binding site from nuclease DNase I attack .
+The NheI - BamHI probe fragment was mixed with a 1,000 - fold dilution of cell extract from either 802 ( pGS199 ) or the control strain 802 ( pKK223 - 3 ) .
+After an initial 15 - min incubation at 37 °C to allow the MetR - DNA complex to form , DNase I was added and allowed to partially digest the DNA probe fragment .
+The resulting digestion products were sized by denaturing polyacrylamide gel electrophoresis alongside - - H teR - .
+Gel mobility - shift assays indicating binding of the MetR protein to the metE metR control region DNA .
+Various dilutions of a crude cell extract enriched in the MetR protein from the MetRoverproducing strain 802 ( pGS199 ) were incubated with a 32P - labeled DNA probe containing the metE metR control region to allow specific protein - DNA complexes to form ( see Materials and Methods ) .
+Extract from the metR mutant strain 802 ( pKK223 - 3 ) was used as a control .
+Reaction mixtures were then run on nondenaturing polyacrylamide gels , and the mobility patterns of the DNA probe were visualized by autoradiography .
+The effect of homocysteine on MetR - DNA complex formation was determined by adding L - homocysteine to the binding reaction at a concentration of 1 mM .
+( A ) MetR binding of the DNA probe in the absence of added homocysteine .
+Lane 1 , a 1/500 dilution of the control extract 802 ( pKK223 - 3 ) ; lanes 2 through 9 , serial twofold dilutions from 1/500 to 1/64 ,000 of the MetR - enriched extract from 802 ( pGS199 ) ; lane 10 , DNA probe with no added extract .
+( B ) Effect of homocysteine on MetR binding of the DNA probe .
+Lanes 1 through 8 , dilutions of extract from 802 ( pGS199 ) , either without ( lanes 1 , 3 , 5 , 7 ) or with ( lanes 2 , 4 , 6 , 8 ) homocysteine .
+Extract dilutions are : lanes 1 and 2 , 1/1 ,000 ; lanes 3 and 4 , 1/2 ,000 ; lanes 5 and 6 , 1/4 ,000 ; lanes 7 and 8 , 1/8 ,000 .
+Arrows indicate the MetR - DNA complex .
+the `` G '' sequencing reaction of the original DNA probe .
+As shown in Fig. 5 , when the DNA probe is incubated with cell extract from 802 ( pGS199 ) , a 24 - bp region of the probe is protected from DNase I attack ( brackets in lanes 2 and 5 ) .
+This region is not protected when cell extract from the control strain 802 ( pKK223 - 3 ) is used in the incubations ( lanes 1 and 4 ) .
+In addition , the DNase I reactivity at two bases within the protected region is completely unprotected when compared with the control lane ( asterisks in Fig. 5 ) .
+This suggests that MetR binding might somehow alter the structure of the DNA , allowing efficient DNase I attack at these positions .
+The region of the DNA probe that is protected by bound MetR is indicated in Fig. 2 .
+The protected region extends from 16 bp to 39 bp upstream of the -35 region of the metE promoter .
+This protected region includes the sites of the four mutations ( 1 , 7 , 8 , and 9 ) that are proposed to have disrupted the DNA binding site for the MetR protein .
+Protection from DNase I digestion of the metE metR control region DNA by MetR - enriched cell extracts .
+The 5 ' 32P end - labeled probe was incubated with a 1/1 ,000 dilution of either the control extract from 802 ( pKK223 - 3 ) ( lanes 1 and 4 ) or the MetRenriched extract from 802 ( pGS199 ) ( lanes 2 and 5 ) and then subjected to partial digestion with DNase I for 3 min ( lanes 1 and 2 ) or 30 s ( lanes 4 and 5 ) , as described in Materials and Methods .
+The partial digestion products were run on a denaturing polyacrylamide gel alongside the `` G '' sequencing reaction of the original DNA fragment ( lane 3 ) .
+The region of the probe that is protected from DNase I digestion is indicated by the brackets , and two bases within this region that are unprotected from cleavage by DNase I are indicated by asterisks .
+DISCUSSION The mutations isolated in the XElac Rgal fusion phage having increased metR - galK expression can be grouped into two types on the basis of their location within the metE metR control region .
+Mutations of the first type , including mutations 1 , 7 , 8 , and 9 , are located outside of the regions proposed as the RNAP - binding domains for the metE and metR promoters ( 16 ) .
+These mutations lie upstream of the -35 region of the metE promoter and are clustered within the region of DNA that specifically binds the MetR protein ( Fig. 2 ) .
+These upstream mutations significantly decrease metE - lacZ expression ( Table 3 ) .
+The decreased metE promoter activity is due to a decrease in specific MetR activation , since in a metR mutant background the mutations have no effect on metE - lacZ expression compared with the parent lysogen ( Table 4 ) .
+We propose that mutations 1 , 7 , 8 , and 9 disrupt the MetR binding site within the metE metR control region .
+Mutations of the second type , including mutations 3 , 5 , 6 , and 10 , are located within the DNA region proposed to be involved in RNAP binding for the metE and metR promoters ( 16 ) .
+In DNase - I-protection experiments , the MetR protein protects the metE metR control region DNA from approximately bp 23 to 46 ( Figs. 2 and 5 ) .
+This result is consistent with the genetic data from mutations 1 , 7 , 8 , and 9 isolated in this study and further defines the MetR binding sequence to this 24 - bp region of DNA .
+MetR - BINDING SITE 5627 The DNA sequence of this region was compared with the DNA sequence of the control region of the S. typhimurium metH gene , which is also activated by MetR .
+An 8 - bp interrupted palindrome , 5 ' - TGAA ----- TTCA - 3 ' , found in the metE gene ( underlined in Fig. 2 ) was found in the promoter region of the metH gene , with a 7 - out - of - 8-bp match ( 26 ) .
+Our preliminary results with DNase - I-protection experiments show that the MetR protein specifically binds to this region of the metH promoter ( data not shown ) .
+Mutations 1 , 7 , 8 , and 9 all disrupt this palindromic sequence in the metE metR promoter region .
+We are attempting to purify the MetR protein and measure directly its affinity for the mutated binding sites , as well as the effects of the mutations on the affinities of RNAP for the metE and metR promoters .
+Although the upstream mutations 1 , 7 , 8 , and 9 presumably disrupt MetR binding , it is clear that they do not totally eliminate binding .
+As shown in Table 3 , mutation 1 allows a significant amount of metE - lacZ expression , and this expression is increased when the coactivator homocysteine is added to the growth medium .
+The deletion mutations 7 , 8 , and 9 also allow significant metE - lacZ expression , but , interestingly , this expression is decreased when homocysteine , the normal coactivator , is added to the growth medium .
+Homocysteine has been shown to negatively regulate the MetR - mediated activation of the metH gene ( 27 ) .
+The 3 ' end of the proposed MetR binding sequence 5 ' - TGAA ----- TTCA - 3 ' is separated from the -35 region of the metE promoter by 22 bp ( Fig. 2 ) ; the analogous distance for the metH gene is 17 bp ( 26 ) .
+It is tempting to speculate that the 5 - bp difference in spacing of the MetR binding site from the -35 regions of these two promoters is responsible for the opposite effects of homocysteine on their expression .
+Deletion mutants 7 , 8 , and 9 , by shortening the 22 - bp separation to 16 , 16 , and 17 bp , respectively , may rearrange the metE promoter in a configuration more closely resembling that of metH , making metE - lacZ expression subject to negative regulation by homocysteine .
+We are currently attempting to construct additional deletions in the metE promoter and also 5 - bp insertions in the metH promoter to test this hypothesis .
+Homocysteine does not have a significant effect on the affinity of the MetR protein for its DNA binding site ( Fig. 4 ) .
+In this respect the MetR - homocysteine activation of the metE promoter is similar to the araC and ilvY systems in which the inducer molecule is proposed to cause a conformational change in an activator already bound at its operator site , resulting in activation of transcription ( 11 , 29 ) .
+The negative regulatory effect of homocysteine on metH gene expression might also be attributed to a conformational change in MetR protein bound at the metH control region , similar to the change proposed to occur when MetR is bound at the metE region .
+However , instead of the facilitative effect proposed to occur for metE expression , this similar conformational change of MetR bound to the metH control region may inhibit transcriptional activation .
+The basis for the difference may involve the difference in spacing between bound activator and the RNAP binding site , as discussed above .
+In support of this hypothesis , we have recently found that in in - vitro binding experiments , homocysteine does not cause a change in affinity of the MetR protein for the metH control region ( unpublished results ) .
+We are currently investigating the effects of homocysteine on the ability of the MetR - DNA complex to facilitate binding of RNAP to the metE and metH promoters .
+The mutant selection strategy used in this present study is based on the earlier finding that the metR gene is negatively 5628 URBANOWSKI AND STAUFFER regulated by its own gene product in conjunction with homocysteine ( 25 ) .
+In many well known repressor - operator systems , repressors exert negative control by binding to operators in or near the promoter of the target gene ; the bound repressor many interfere with RNAP binding or open complex formation if its operator sequence overlaps the promoter sequence , or two separated repressor - operator complexes may cooperate in looping of the DNA to block access of RNAP to the promoter ( 13 ) .
+We have shown here that the interaction of the MetR protein with the metE metR control region DNA occurs well downstream of the transcription start site for the metR promoter , the binding region being centered at about +34 ( Fig. 2 ) .
+This location is probably too far downstream to allow bound MetR protein to directly block transcription initiation by RNAP at the metR promoter .
+Another possible direct role of bound MetR protein in autorepression might be to block the progress of an RNAP molecule that has already initiated transcription from the metR promoter .
+However , our data does not support this model .
+The blocking of RNAP movement should be similar , whether transcription initiates from a wild - type metR - galK promoter or from a mutant metR - galK promoter , where the promoter consensus sequence , but not the template sequence or the MetR binding site , has been altered .
+The metR - galK promoter - up mutant 760A Elac Rgal - 5 shows only twofold regulation of galactokinase synthesis , compared with the eightfold regulation in the parent lysogen ( Table 3 ) .
+In addition to altering regulation of the metR - galK promoter , mutation 5 ( and similarly mutations 3 and 10 ) interferes with expression from the metElacZ promoter ( Tables 3 and 4 ) .
+We think it likely that the simultaneity of these two events in these mutants ( i.e. , the loss of regulation of metR - galK expression and the interference with metE - lacZ expression ) is a result of the overlapping geometry of the two promoters .
+Promoter interference has been reported for other closely spaced promoter systems in E. coli ( 13 ) .
+We propose that the mechanism of repression of the metR gene by the MetR protein may involve a competition by steric hindrance of RNAP bound to the metE promoter and RNAP bound to the metR promoter .
+In this model , the MetR protein would play only an indirect role in metR autoregulation , serving to facilitate and stabilize binding of RNAP to the metE promoter .
+In this respect , the RNAP - MetR complex may be considered the `` repressor .
+'' ACKNOWLEDGMENT This investigation was supported by Public Health Service grant GM38912 from the National Institute of General Medical Sciences .
+Plasmid vectors for positive galactose - resistance selection of cloned DNA in Escherichia coli .
+Baker , R. F. , and C. Yanofsky .
+The periodicity of RNA polymerase initiations : a new regulatory feature of transcription .
+Casadaban , M. J. , J. Chou , and S. N. Cohen .
+In vitro gene fusions that join an enzymatically active , - galactosidase segment to amino - terminal fragments of exogenous proteins : Escherichia coli plasmid vectors for the detection and cloning of translational initiation signals .
+Dev , I. K. , and R. J. Harvey .
+Regulation of synthesis of J. BACTERIOL .
+serine hydroxymethyltransferase in chemostat cultures of Escherichia coli .
+Fried , M. , and D. Crothers .
+Equilibrium and kinetics of lac repressor - operator interactions by polyacrylamide gel electrophoresis .
+Garner , M. , and A. Revzin .
+A gel electrophoresis method for quantifying the binding of proteins to specific DNA regions : application to components of the E. coli lactose operon regulatory system .
+Grana , D. , T. Gardella , and M. M. Susskind .
+The effects of mutations in the ant promoter of phage P22 depend on context .
+Hawley , D. K. , and W. R. McClure .
+Compilation and analysis of Escherichia coli promoter DNA sequences .
+Henikoff , S. , G. W. Haughn , J. M. Calvo , and J. C. Wallace .
+A large family of bacterial activator proteins .
+H. , N. J. Rosebrough , A. L. Farr , and R. J. Randall .
+Protein measurement with the Folin phenol reagent .
+Martin , K. , L. Huo , and R. F. Schleif .
+The DNA loop model for ara repression : AraC protein occupies the proposed loop sites in - vivo and repression - negative mutations lie in these same sites .
+Maxam , A. M. , and W. Gilbert .
+Sequencing end - labeled DNA with base - specific chemical cleavages .
+Mechanism and control of transcription initiation in prokaryotes .
+McKenny , K. , H. Shimatake , D. Court , U. Schmeissner , C. Brady , and M. Rosenberg .
+A system to study promoter and terminator signals recognized by Escherichia coli RNA polymerase , p. 383 - 415 .
+In J. G. Chirkjian and T. Papas ( ed .
+) , Gene amplification and analysis : analysis of nucleic acids .
+Elsevier/North - Holland Biomedical Press , Amsterdam .
+Experiments in molecular genetics .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 16 .
+Plamann , L. S. , and G. V. Stauffer .
+Nucleotide sequence of the Salmonella typhimurium metR gene and the metR - metE control region .
+Plamann , L. S. , M. L. Urbanowski , and G. V. Stauffer .
+Salmonella typhimurium metE operator - constitutive mutations .
+Rymond , B. C. , R. S. Zitomer , D. Schumperli , and M. Rosenberg .
+The expression in yeast of the Escherichia coli galK gene on CYC1 : : galK fusion plasmids .
+Saint - Girons , I. , C. Parso , M. M. Zakin , 0 .
+Barzu , and G. N. Cohen .
+Methionine biosynthesis in Enterobacteriaceae : biochemical , regulatory , and evolutionary aspects .
+Schmitz , A. , and D. J. Galas .
+The interaction of RNA polymerase and lac repressor with the lac control region .
+Shimada , K. , R. A. Weisberg , and M. E. Gottesman .
+Prophage X at unusual chromosomal locations .
+I. Location of the secondary attachment sites and properties of the lysogens .
+Stauffer , G. V. , M. D. Plamann , and L. T. Stauffer .
+Construction and expression of hybrid plasmids containing the Escherichia coli glyA gene .
+Hybridization of denatured RNA and small DNA fragments transferred to nitrocellulose .
+Urbanowski , M. L. , and G. V. Stauffer .
+Autoregulation by tandem promoters of the Salmonella typhimurium LT2 metJ gene .
+Urbanowski , M. L. , and G. V. Stauffer .
+Regulation of the metR gene of Salmonella typhimurium .
+Urbanowski , M. L. , and G. V. Stauffer .
+The control region of the metH gene of Salmonella typhimurium LT2 : an atypical met promoter .
+Urbanowski , M. L. , and G. V. Stauffer .
+Role of homocysteine in metR - mediated activation of the metE and metH genes in Salmonella typhimurium and Escherichia coli .
+Urbanowski , M. L. , L. T. Stauffer , L. S. Plamann , and G. V. Stauffer .
+A new methionine locus , metR , that encodes a trans - acting protein required for activation of metE and metH in Escherichia coli and Salmonella typhimurium .
+Wek , R. C. , and G. W. Hatfield .
+Transcriptional activation at adjacent operators in the divergent - overlapping ilv Y and ilvC promoters of Escherichia coli .

@@ -1,0 +1,498 @@
+JOURNAL OF BACTERIOLOGY , Apr. 1995 , p. 2021 -- 2032 Vol .
+177 , No. 8 0021 - 9193/95 / $ 04.00 0 Sequence , Regulation , and Functions of fis in Salmonella typhimurium ROBERT OSUNA , 1 † * DREW LIENAU , 2 KELLY T. HUGHES , 2 AND REID C. JOHNSON 1,3 Department of Biological Chemistry , School of Medicine , 1 and Molecular Biology Institute , 3 University of California , Los Angeles , California 90024 , and Department of Microbiology , SC - 42 , University of Washington , Seattle , Washington 98195 2 The fis operon from Salmonella typhimurium has been cloned and sequenced , and the properties of Fisdeficient and Fis - constitutive strains were examined .
+The overall fis operon organization in S. typhimurium is the same as that in Escherichia coli , with the deduced Fis amino - acid sequences being identical between both species .
+While the open reading frames upstream of fis have diverged slightly , the promoter regions between the two species are also identical between 49 and 94 .
+Fis protein and mRNA levels fluctuated dramatically during the course of growth in batch cultures , peaking at 40,000 dimers per cell in early exponential phase , and were undetectable after growth in stationary - phase .
+fis autoregulation was less effective in S. typhimurium than that in E. coli , which can be correlated with the absence or reduced affinity of several Fis - binding sites in the S. typhimurium fis promoter region .
+Phenotypes of fis mutants include loss of Hin - mediated DNA inversion , cell filamentation , reduced growth - rates in rich - medium , and increased lag times when the mutants are subcultured after prolonged growth in stationary - phase .
+On the other hand , cells constitutively expressing Fis exhibited normal logarithmic growth but showed a sharp reduction in survival during stationary - phase .
+During the course of these studies , the 28 - dependent promoter within the hin - invertible segment that is responsible for fljB ( H2 ) flagellin synthesis was precisely located .
+An increasing number of functions are being assigned to the Fis protein ( factor for inversion stimulation ) in Escherichia coli .
+Many of these functions have been associated with sitespecific DNA recombination events .
+Fis was first identified as a factor from E. coli that is required to stimulate site - specific DNA inversion reactions mediated by Salmonella typhimurium Hin ( 26 ) , by Mu phage Gin ( 27 ) , and by P1 phage Cin recombinases ( 20 ) .
+Fis was also shown to stimulate phage DNA excision and integration ( 2 , 3 , 57 ) , which is a mechanistically different DNA recombination reaction ( 8 , 34 ) .
+Fis also stimulates DNA excision in the case of the - like phage HK022 but , in addition , serves to repress a DNA inversion event upon establishment of lysogeny which would otherwise yield defective lysogens ( 10 ) .
+Increased stability of and Mu lysogens is also observed in the presence of Fis ( 3 , 5 , 6 ) .
+Even transposition frequencies of transposon Tn5 and insertion sequence IS50 are found to be influenced by Fis ( 60 ) .
+Other functions of Fis are unrelated to specialized DNA recombination and may offer greater competitive advantage to the cell .
+One such function is its role in stimulating the synthesis of components of the translational machinery .
+For example , Fis stimulates transcription of rRNA and tRNA genes and genes for proteins involved in translation ( 19 , 35 , 40 , 51 , 56 ) .
+Another role for Fis has been suggested in initiation of chromosomal DNA replication at oriC ( 12 , 16 ) .
+Cells carrying a fis null mutation show decreased stability of oriC minichromosomes ( 12 , 16 ) and can not reinitiate DNA replication following a temperature upshift ( 12 ) .
+fis mutant cells readily filament at 37 to 44 C ( 12 ) and show a reduction in growth - rate compared with that of wild - type cells that is more pronounced with increasing growth - rates ( 41 , 42 ) .
+Fis is a basic 11.2 - kDa protein which dimerizes in solution and binds specifically to DNA sites that resemble a highly Sciences , University at Albany , SUNY , Albany , N.Y. 12222 .
+The crystal structure of Fis revealed that each monomer consisted of four connected - helices , with the first 19 amino - acids being disordered in the crystal ( 31 , 63 ) .
+Mutation analysis indicated the presence of at least two functional regions in Fis : a carboxy - terminal region required for efficient DNA binding and bending and a region near the amino terminus that is required for stimulation of DNA inversion but not for DNA excision ( 28 , 48 ) .
+The DNA - binding activity of Fis was also found to be sufficient for its function as an autoregulator but not for its role in transcription activation of rrnB P1 ( 4 , 19 , 28 ) .
+Thus , Fis appears to accommodate mechanistically different functions within the various nucleoprotein contexts in which it operates .
+Levels of Fis in E. coli vary enormously in response to changing nutritional conditions and this variation may be important for its physiological roles ( 4 , 42 , 43 , 57 ) .
+Fis levels are very low or undetectable during very slow - growth or during stationary phase but rapidly increase to over 25,000 to 50,000 dimers per cell when cells are shifted to a rich - medium .
+The levels of Fis protein then decreases to about 1 % peak levels as cells enter stationary - phase ( 4 , 42 ) .
+A similar regulation pattern is observed for fis mRNA , suggesting that much of the regulation could be transcriptionally controlled ( 4 , 43 ) .
+Studies performed with the S. typhimurium Hin inversion reaction have exclusively utilized Fis protein derived from E. coli .
+Thus , it was of interest to determine the extent to which Fis protein in S. typhimurium resembles that in E. coli with respect to the Hin - mediated recombination reaction and its other physiological roles .
+We cloned , mapped , and sequenced the S. typhimurium fis gene and upstream DNA sequences and show here that the deduced Fis amino - acid sequence is identical to that in E. coli and that the overall operon organization is conserved .
+In addition , we analyzed the regulation of fis expression in S. typhimurium , including the role of Fis as an autoregulator .
+S. typhimurium fis null mutations were generated , and their phenotypes were partially characterized .
+We also investigated the importance of the shutoff in Fis levels for long - term survival during stationary - phase .
+SGSC , Salmonella Genetic Stock Center .
+MATERIALS AND METHODS Bacterial strains and phages .
+All bacterial and phage strains used in this work are described in Table 1 .
+All S. typhimurium strains were derived from S. typhimurium LT2 .
+Transductional crosses using the high - frequency generalized transducing mutant of bacteriophage P22 ( HT105/1 int - 201 ) ( 54 ) were as described elsewhere ( 18 ) .
+Isolation of transposon insertions using either derivatives of phage Mu or transposon Tn10 was as described elsewhere ( 17 ) .
+Insertion mutations of the Mud - P22 prophages , MudQ and MudP , in the cysG and aroE loci of S. typhimurium were isolated as described by Youderian et al. ( 62 ) .
+Media and preparation of P22 phage lysates were as described elsewhere ( 17 , 18 ) .
+Eosin methylene blue Agar Base ( Difco ) ( EMB [ 25 g/liter ] ) supplemented with 1 % fructose was used to assay colony color phenotypes for envB alleles .
+Motility plates were made with 0.35 % agar containing 0.5 % tryptone and 0.25 % NaCl .
+Enzymes and plasmid constructions .
+All restriction enzymes were from New England Biolabs , Pharmacia , or Boehringer Mannheim .
+T4 DNA ligase and DNase I were from Boehringer Mannheim .
+Reverse transcriptase was from Promega .
+Purified Fis protein produced from the E. coli gene was provided by S. E. Finkel ( 50 ) .
+All plasmids used in this study are listed in Table 1 .
+Plasmids pRJ898 and pRJ900 both carry the S. typhimurium fis gene as 5.1 - and 7.6 - kb EcoRI DNA fragments from a MudQ phage lysate of TH1108 , respectively ; the DNA insert in pRJ900 was a product of partial EcoRI digestion .
+The DNA sequence for the fis gene and part of the upstream open reading frame ( ORF1 ) was obtained from pRJ898 .
+Plasmid pRJ897 also contains the S. typhimurium fis gene as a 1.3 - kb fragment which was originally obtained from a BamHI digest of DNA prepared from a MudQ phage lysate of TH1108 and was cloned into the pUC9 BamHI site .
+However , the BamHI site was not retained in this construct , suggesting that this fragment had suffered nonspecific DNA cleavage during its preparation .
+Indeed , no BamHI sites were identified in the available sequence upstream of fis ( see Fig. 1 ) .
+Nevertheless , restriction enzyme analysis showed that pRJ897 contained the Salmonella fis gene and approximately 300 to 400 bp of DNA upstream of fis .
+Plasmid pRJ1003 is pUC9 containing a 12.4 - kb SphI DNA fragment from S. typhimurium , which carries the kanamycin resistance marker from TH1762 ( fis - 2 : : kan ) .
+This fragment provided the DNA sequence for the entire ORF1 and fis promoter region .
+A 1.1 - kb EcoRI - EcoRV DNA fragment containing the fis promoter region ( see Fig. 1A ) was obtained from pRJ1003 and cloned into the EcoRI - HindII sites of pUC9 to make pRJ1100 that was used for the footprinting experiments .
+Isolation of chromosomal fis insertion - deletion mutants .
+A 150 - bp BstEII DNA fragment within the fis gene of pRJ898 was replaced with the kanamycin VOL .
+177 , 1995 S. TYPHIMURIUM fis OPERON 2023 or tetracycline resistance cartridges ( Pharmacia ) and the ligated DNA was transformed directly into strain MS1868 .
+In this strain , the plasmid does not replicate and the kanamycin - or tetracycline - resistant , ampicillin - sensitive transformants were screened by Southern hybridization for transformants in which the chromosomal fis allele was replaced with the deletion - insertion fis allele from the plasmid .
+Challenge phages ( P22 xis2B and P22xis2D ) containing the Fis protein - binding site from bacteriophage were a gift from J. Gardner ( 45 ) .
+Xis protein , which is required for Fis protein to bind to its site on the challenge phage , is synthesized from the Ptac promoter on plasmid pPS2 - 3DRS ( gift from J. Gardner ) , which also carries lacI q .
+Xis production was induced with 50 g of isopropyl - - D - thiogalactopyranoside ( IPTG ) prior to infection .
+Dilutions of each phage were mixed with cells containing pPS2 - 3DRS for 20 min at room temperature to allow absorption .
+Molten 3 - ml portions of top agar were added to the mixture and poured onto LB plates .
+After incubation at 37 C overnight , Fis - DNA - binding activity was detected by the formation of turbid plaques .
+Primer extension of mRNA .
+Total cellular RNA was prepared as described elsewhere ( 7 ) .
+Primer extension was performed essentially as described by Hartz et al. ( 21 ) .
+For analysis of both S. typhimurium and E. coli fis promoter activity , a primer with the sequence 5 - dGCTGATATTGTCCGATG which hybridizes to the top strand of the DNA sequence shown in Fig. 1B in the region from nucleotides 307 to 291 was used .
+For analysis of H2 gene ( fljB ) promoter activity , a primer with the sequence 5 - dCCAATGTTATGCCAGGC was used which hybridizes to the top strand of the DNA sequence shown in Fig. 6B in the region downstream of the fljB promoter from nucleotides 28 to 12 .
+DNA primers were labeled at their 5 ends with [ - 32 P ] ATP and T4 polynucleotide kinase as described elsewhere ( 52 ) .
+The primer - extended products obtained from 10 g of total RNA were separated by polyacrylamide -- 8 M urea gel electrophoresis , and their relative intensities were determined by densitometry measurements of autoradiographs .
+Western blotting ( immunoblotting ) and DNase I footprinting .
+Quantitation of Fis levels by Western blotting using rabbit anti - Fis serum and DNase - I-protection analysis of the fis promoter region were performed essentially as described by Ball et al. ( 4 ) .
+For the footprint analysis , an NcoI - PstI DNA fragment of approximately 500 bp was obtained from pRJ1100 , labeled with 32 PattheNcoI site , and used as the substrate .
+This NcoI site is located 78 bp downstream from the fis transcription start site ( Fig. 1B ) .
+DNA sequencing reactions specific for G and A nucleotides ( 38 ) from this same DNA fragment were electrophoresed in parallel as size standards .
+DNA sequencing and nucleotide sequence accession number .
+DNA sequencing was performed on alkaline - denatured plasmid DNA preparations using the Sequenase enzyme ( US Biochemicals ) following the procedure described by the supplier .
+The sequence of the 1,757 - bp S. typhimurium fis operon described here has been deposited with GenBank under the accession number U03101 .
+RESULTS Cloning fis operon from S. typhimurium .
+The fis gene is located at 72 min on the E. coli chromosome ( 25 , 29 ) , which is a conserved region between S. typhimurium and E. coli .
+To obtain DNA from S. typhimurium that was potentially enriched for fis , we prepared phage lysates from strains which contain MudP and MudQ insertions in aroE or cysG located at 71 and 72 min on the S. typhimurium chromosome , respectively ( 53 , 62 ) .
+By Southern blotting with the E. coli fis gene as a probe , we detected the greatest enrichment for fis homology in DNA prepared from lysates of TH1108 ( aroE568 : : MudQ ) and weak enrichment in lysates of TH1093 ( cysG : : MudP ) ( not shown ) .
+DNA from a lysate of TH1108 was digested with several different restriction enzymes and ligated into the polylinker region of pUC9 , as described in Materials and Methods .
+The ligation products were transformed into E. coli fis mutant strain RJ2539 .
+This strain , which carries the S. typhimurium hin gene ( encoding the recombinase ) on a plasmid , contains a promoterless lacZ gene positioned next to the invertible DNA segment on a prophage ( fla : : 406 ) such that the H2 flagellar gene promoter contained within the invertible DNA region transcribes away from lacZ ( off orientation ) .
+If fis is supplied in trans , stimulation of Hin - mediated DNA inversion results in a switch from the off to the on configuration , causing expression of lacZ and formation of red colonies on MacConkey - lactose agar ( 48 ) .
+Plasmids containing S. typhimurium fis were identified by selection of red colonies on MacConkey - lactose agar plates .
+Using this screen , we identified three different clones , pRJ897 , pRJ898 , and pRJ900 , containing 1.3 - , 5.1 - , and 7.6 - kb restriction fragments , respectively , that complemented the E. coli fis mutation .
+None of these clones from S. typhimurium carried the region known to contain the fis promoter in E. coli , as was also the case for fis clones previously obtained from E. coli ( 25 ) .
+It appears that cloning of the complete fis operon ( including its own promoter ) on a high - copy - number plasmid results in cell toxicity .
+Thus , expression of fis in these clones is attributed to transcription originating in the plasmid .
+Additional DNA sequence upstream of fis was obtained from strain TH1762 in which the fis gene in the S. typhimurium chromosome is inactivated by insertion of a kanamycin resistance gene , as described below .
+A 12.4 - kb DNA fragment from TH1762 carrying the kanamycin resistance marker and containing over 8 kb of DNA sequence upstream of fis , was cloned into pUC9 ( pRJ1003 ) .
+A partial restriction map of the DNA region containing the S. typhimurium fis operon is shown in Fig. 1A .
+Nucleotide sequence of the fis operon .
+The nucleotide sequence from S. typhimurium fis operon is shown in Fig. 1B together with the nucleotide differences with the corresponding region from E. coli ( 4 , 43 ) .
+Only five nucleotide differences are present between the S. typhimurium and E. coli fis coding regions ( 1.7 % divergence ) , and none of these result in change of codon specificity .
+Therefore , the deduced amino - acid sequence of the S. typhimurium Fis protein is identical to that of E. coli .
+The limited DNA sequence immediately downstream of the fis coding region shows a 28 % divergence from E. coli .
+However , the sequence in this region which contains an inverted repeat is very well conserved , which is consistent with its suggested role as a transcription terminator for the fis operon ( 4 , 29 ) .
+The upstream ORF ( ORF1 ) previously identified in E. coli is very well conserved in S. typhimurium ( Fig. 1A and B ) .
+Of the 80 nucleotide differences observed within the ORF1 region in S. typhimurium ( 8.3 % divergence ) , 49 were silent changes , and none of them generated stop codons or frameshifts .
+Only 15 of the 321 deduced amino - acids for ORF1 suffered changes ( 4.7 % divergence ) .
+Although a function for ORF1 has not yet been determined , this high level of conservation may be indicative of an important role played by the product of ORF1 .
+According to the codon usage table provided by Maruyama et al. ( 37 ) , both fis and ORF1 in S. typhimurium utilize unusually high numbers of rare codons ( 19 and 28 % , respectively ) .
+The promoter region for the fis operon in E. coli ( 4 , 43 ) , which is located in the DNA sequence upstream of ORF1 , is completely conserved in S. typhimurium from 49 to 94 relative to the start of transcription in E. coli .
+However , the sequence from 50 to 252 shows a 49 % nucleotide divergence between the two species ( Fig. 1A ) .
+Primer extension assays ( Fig. 2 ) mapped the in - vivo transcription initiation sites of the S. typhimurium fis operon to the G and C nucleotides at positions 252 and 254 in Fig. 1B , respectively .
+From the relative intensities of the primer - extension signals , it appears that the C at position 254 is the preferred site of transcription initiation , and , therefore , we designate it as the 1 site .
+Under these conditions , no additional transcripts were detected from this DNA region in S. typhimurium .
+As is the case for the E. coli fis promoter , the nucleotide sequence TTCATC N 16 TAATAT from 35 to 8 is likely to represent the S. typhimurium fis promoter .
+Generation of fis null mutations in S. typhimurium .
+Plasmid pRJ898 , which carries the S. typhimurium fis gene and encodes resistance to ampicillin ( Ap r ) , was digested with BstEII , which cuts twice within fis ( Fig. 1B ) .
+This 150 - bp BstEII fragment was replaced with either a tetracycline or kanamycin resistance FIG. 1 .
+The S. typhimurium fis operon .
+( A ) Schematic representation of the fis operon region .
+The top line represents the relative positions of SphI , EcoRI , and EcoRV sites in the DNA region surrounding the fis operon on the chromosome .
+The lower section represents the DNA region containing the fis operon that was sequenced in this work .
+Open rectangles represent ORFs for fis and an upstream gene ( ORF1 ) whose function is unknown .
+P , the promoter region ; arrow , transcription initiation .
+The percentages of conservation of nucleotide and deduced amino - acid sequences between S. typhimurium and E. coli are indicated for fis , ORF1 , and the promoter region .
+The darker line indicates the promoter region from 50 to 252 , in which only 49 % DNA sequence conservation is observed .
+( B ) Nucleotide sequence of the S. typhimurium fis operon region .
+The deduced amino - acid sequences for fis and ORF1 are indicated above the nucleotide sequences .
+Amino acids in Fis and ORF1 that differ between E. coli ( 4 , 43 ) and S. typhimurium are shown in boldface .
+Only in these cases are the E. coli amino - acids indicated above the 2024 VOL .
+177 , 1995 S. TYPHIMURIUM fis OPERON 2025 S. typhimurium sequence .
+Likewise , nucleotides that are different in E. coli are indicated below the S. typhimurium sequence .
+and , nucleotides that are added or deleted in E. coli , respectively .
+The predicted 10 and 35 sequences for the fis promoter are labeled and underlined .
+The transcription start sites determined by primer extension are shown in boldface and are indicated by arrows .
+Solid arrow , the preferred transcription start site ; dashed arrow , a less - efficient start site , inverted arrows downstream of fis , a region of dyad symmetry which is predicted to serve as a signal for transcription termination .
+The sites for BstEII , EcoRI , EcoRV , and NcoI restriction enzymes are also underlined and are indicated above the sequence .
+cartridge , and the ligated products were electroporated into S. typhimurium MS1868 .
+Transformants were screened for ampicillin sensitivity ( Ap s ) and either kanamycin ( Km r ) or tetracycline ( Tc r ) resistance .
+For unknown reasons , plasmid pRJ898 does not replicate in S. typhimurium , providing a positive selection for replacement of the wild - type fis gene with the cloned antibiotic - resistant insertion - deletion mutation .
+Southern blot analysis of one Tc r Ap s ( fis - 1 : : tet ) and one Km r Ap s ( fis - 2 : : kan ) transformant demonstrated that these mutants contained a single interrupted fis gene ( not shown ) .
+Fis could not be detected in crude extracts of either of these mutants by immunoblotting with anti - Fis antiserum ( not shown ) .
+In addition , neither of these mutants showed DNA - binding activity , as assayed by the bacteriophage P22 - based challenge system , when the phage vectors P22xis2B and P22xis2D , which measure Fis - Xis cooperativity in - vivo , were used ( 45 ) .
+Location of the fis gene on the S. typhimurium chromosome .
+The finding of fis gene in lysates of aroE568 : : MudQ indicated that fis was localized to this region of the chromosome .
+P22 - mediated cotransduction was used to map the location of fis with respect to markers within this region , including envB , which is located at min 70.5 ( Fig. 3 ) .
+A mutation in envB ( envB4 ) causes colonies to appear opaque dark red on EMB agar containing 1 % fructose , in contrast to the metallic green sheen displayed by colonies of wild - type S. typhimurium ( 1 ) .
+The absence of Fis protein does not affect colony phenotype on EMB agar .
+Transductional crosses established that the fis gene is located between the envB and aroE genes ( between min 70.5 and 71.1 ) , as depicted in Fig. 3 .
+Effect of a fis null mutation on Hin - mediated recombination and transcription from the Hin - invertible segment .
+Fis affects the expression of the H2 flagellar gene ( fljB ) by stimulating Hin - mediated DNA inversion of an upstream 995 - bp DNA fragment which carries the promoter for fljB ( 64 -- 66 ) .
+To determine how the absence of Fis protein affects flagellar phase variation in S. typhimurium , alacZ fusion to the H1 flagellar gene fliC ( fliC5050 : : MudA ) was transduced into wild - type LT2 ( fis ) and fis mutant strains of LT2 , TH1765 ( fis - 1 : : tet ) , or TH1762 ( fis - 2 : : kan ) .
+Hin - mediated DNA inversion on the chromosome can be monitored by the switching of the Lac phenotype in S. typhimurium when cells are grown on lactose utilization indicator plates ( 17 ) .
+Flagellar phase variation was not observed in fis mutant cells ( fewer than 10 5 inversions per cell per generation ) , whereas switching in isogenic fis cells occurs at approximately 10 3 inversions per cell per generation in this assay .
+We noticed that a fis null mutation reduces cell motility , as assayed either by direct microscopic observation or on swarm plates ( Fig. 4 ) , suggesting that Fis may somehow influence the expression of genes involved in motility .
+Thus , we wondered whether , in addition to stimulating the Hin - mediated DNA inversion reaction , Fis could also regulate the transcription of the fljB promoter .
+Although transcription originating within FIG. 2 .
+Determination of the fis promoter transcription start sites .
+Primer extension was performed with a 32 P - labeled primer as described in Materials and Methods .
+The reaction was performed with 10 g of total RNA obtained from S. typhimurium LT2 ( Fis ) or from TH1762 ( Fis ) after regrowth of overnightgrown cells in LB - medium for 45 min .
+The products of these reactions were separated on a 8 % polyacrylamide -- 8 M urea gel and are indicated on the right side by arrows .
+The products of DNA sequencing reactions for A , C , G , and T nucleotides , for which the dideoxy termination method and the 32 P - labeled primer described above were used , were electrophoresed in parallel and used as size standards .
+, the nucleotide positions of transcription start sites ; 1 , and 2 , the preferred and less - preferred transcription start sites , respectively , on the basis of the relative strengths of their signals .
+Genetic map of the S. typhimurium fis region .
+A portion of the map from argR to rpsL ( 70 to 71.6 min ) is illustrated with linkage values based on P22 - mediated transduction .
+The linkage between zhb - 3124 : : Tn10dTc and aroE is from Kukral et al. ( 32 ) and indicated by the asterisk .
+Effects of a fis null mutation on cell motility .
+Swarm plates were stabbed with S. typhimurium LT2 ( wild type [ WT ] ) or TH1762 ( fis - 2 : : kan ) , and incubated overnight at 25 C. the invertible DNA segment that is required for fljB expression has been well documented ( 64 -- 66 ) , the precise location of this promoter has not been determined .
+To identify the fljB promoter and determine the effect of Fis on its expression , we performed primer - extension analysis of mRNA synthesized from the invertible segment on the chromosome from both wild - type and fis - 2 : : kan strains of S. typhimurium LT2 .
+Initially , we used a primer that hybridized to the beginning of the fljB ORF ( extending from 33 to 17 nucleotides downstream of the first nucleotide in fljB ) , which is located outside the invertible segment .
+Although this gave a very weak signal for transcription initiation ( presumably because of DNA inversion ) , it allowed us to locate the start of transcription within a region between 55 and 65 bp from the start of the fljB ORF .
+Thus , a second primer was constructed within the invertible DNA segment ( extending from 1 to 17 nucleotides beyond hixR ) , such that results would be unaffected by the precise configuration of the invertible segment .
+Results with this primer indicate that transcription from the fljB promoter initiates with the G nucleotide positioned 41 bp upstream from the center of the hixR recombination site and 59 bp upstream from the start of the fljB ORF ( Fig. 5 ) .
+The transcription start site is preceded by the DNA sequence TAAAN 15 GTCGATAA , which resembles a promoter for the 28 form of RNA polymerase ( 47 ) .
+It has been previously shown in S. typhimurium that the fliA gene , which encodes 28 , is required for fljB expression ( 18 , 33 ) .
+We have also confirmed the 28 dependence of fljB in E. coli , since - galactosidase activity from RJ1954 carrying fla : : 406 in the on orientation and a mutation in the flhD gene ( which is required for the expression of fliA [ 33 ] ) was 22 - fold lower ( 150 U ) than in the otherwise isogenic flhD strain RJ1953 ( 3,278 U ) .
+The results in Fig. 5 show that the fljB promoter is expressed both in wild - type and fis mutant cells .
+However , at 60 and 90 min after subculturing of stationary - phase cells in LB - medium , reproducibly higher levels of fljB mRNA are detected in fis - 2 : : kan cells than in wild - type cells .
+After 120 min , fljB mRNA levels between S. typhimurium LT2 and S. typhimurium LT2 fis - 2 : : kan cells are comparable .
+Thus , although the maximum fljB mRNA levels are similar for wild - type and fis cells at 120 min after subculturing in LB - medium , the absence of Fis seems to affect the temporal regulation pattern of the fljB promoter .
+Since the absence of fis results in increased expression of fljB during early logarithmic phase , we can not correlate the reduced motility seen in fis mutants with fljB expression .
+Effect of fis on fljB promoter expression .
+( A ) Saturated overnight cultures of S. typhimurium LT2 and S. typhimurium LT2 fis - 2 : : kan ( TH1762 ) cells were diluted 20 - fold in LB - medium and grown at 37 C .
+At four different time intervals , samples were obtained for preparation of total cellular RNA .
+Primer extension was performed with 10 g of RNA from each sample and a 32 P - labeled primer whose 5 end corresponds to the first base to the left of hixR in panel B. Primer extension products from S. typhimurium LT2 ( lanes 5 to 8 ) and TH1762 ( lanes 9 to 12 ) RNA obtained after 60 min ( lanes 5 and 9 ) , 90 min ( lanes 6 and 10 ) , 120 min ( lanes 7 and 11 ) , and 150 min ( lanes 8 and 12 ) of growth were separated on an 8 % polyacrylamide -- 8 M urea gel and autoradiographed .
+The full - length primer - extended product is indicated by an arrow .
+The products of DNA - sequencing reactions for A , C , G , and T nucleotides ( lanes 1 to 4 , respectively ) , for which the dideoxy termination method and the same 32 P - labeled primer used for primer - extension were used , were electrophoresed in parallel and used as size standards .
+( B ) DNA sequence of the H2 flagellar gene ( fljB ) promoter region .
+Sequences resembling the 28 promoter consensus are underlined ( 47 ) .
+The ATG initiation codon for the H2 ORF is also underlined ( 66 ) .
+An arrow indicates the start of transcription as determined in panel A .
+An open rectangle encloses the sequence for hixR .
+Effect of a fis null mutation on growth and filamentation of S. typhimurium .
+We observed that S. typhimurium LT2 fis mutants grow more slowly in LB - medium than wild - type LT2 ( Fig. 6A ) .
+The generation times in LB - medium were 26 min for wild - type cells and 31 min for fis mutant cells .
+In addition , fis mutant cells remained in lag phase for a longer time period than wild - type cells , which is an effect that became more pronounced when the cells were allowed to remain in stationary phase for increasing lengths of time prior to being subcultured in LB - medium ( not shown ) .
+On the other hand , when cells were grown in minimal - medium , both wild - type and fis mutant cells grew with a 39 - min generation time and both displayed similar lag periods ( Fig. 6B ) .
+Thus , the presence of a functional fis gene allows cells to recover from stationary - phase more efficiently and to grow faster when they are subcultured in a rich - medium .
+We observed that S. typhimurium LT2 fis - 2 : : kan cells filamented more extensively ( 50 % ) than isogenic fis cells ( 1 % ) when grown at 37 or 44 C in LB - medium ( not shown ) .
+In minimal - medium supplemented - with - glucose , no filamenta - VOL .
+177 , 1995 S. TYPHIMURIUM fis OPERON 2027 FIG. 6 .
+Growth phenotypes of S. typhimurium fis cells .
+( A ) 15 - h saturated cultures diluted 200 - fold in LB - medium and grown at 37 C ; ( B ) same conditions as those for panel A , except that minimal - medium supplemented with 0.2 % glucose was used and the cells were diluted 100 - fold from overnight cultures grown in minimal - medium .
+The results are for cultures of S. typhimurium LT2 ( fis ) ( ■ ) and TH1762 ( fis - 2 : : kan ) ( ) .
+tion was observed in either wild - type or fis cells .
+Thus , filamentation of S. typhimurium fis cells may be observed exclusively under conditions of rapid growth , which is consistent with a role proposed for Fis for efficient initiation of DNA replication in E. coli ( 12 ) .
+The filamentation phenotype of fis cells may be related to its slower growth phenotype , because filamentation was not observed in minimal - medium , in which fis mutant cells grew as fast as wild - type cells ( Fig. 6 ) .
+Regulation of Fis expression in S. typhimurium .
+Large and rapid changes in intracellular levels of Fis protein and mRNA occur in E. coli following a nutrient upshift ( 4 , 42 , 43 , 57 ) .
+Given the large diversion between the S. typhimurium and E. coli fis promoter DNA sequences upstream of 49 ( Fig. 1 ) , we wished to investigate the Fis expression pattern in S. typhimurium .
+Saturated overnight cultures of both S. typhimurium LT2 and E. coli MG1655 were diluted 100 - fold in LB - medium , and the amounts of Fis per cell were measured at various times thereafter by quantitative Western blotting .
+The results presented in Fig. 7A and B show similar Fis expression patterns in both S. typhimurium and E. coli .
+Fis levels , which are undetectable during stationary - phase , rapidly increased upon subculturing cells in LB , reaching a peak of 25,000 to 40,000 dimers per cell within the period required for initiation of logarithmic cell division ( 75 to 90 min after subculturing ) .
+The longer timing of Fis peak levels in S. typhimurium compared with that for E. coli may be correlated with a longer lag time upon subculturing of stationary - phase cells in LB .
+A similar expression pattern was also found at the mRNA level , as determined by primer - extension analysis of S. typhimurium fis mRNA ( Fig. 7C and D ) .
+Fis was shown to play an autoregulatory role in E. coli ( 4 , 43 ) .
+However , initial measurements of fis mRNA levels in S. typhimurium LT2 by primer - extension ( Fig. 2 ) showed only a slight decrease compared with its levels in isogenic fis mutant cells ( TH1762 ) .
+To more precisely determine the extent to which the S. typhimurium fis promoter is subject to Fis autoregulation , we measured fis mRNA levels in both S. typhimurium LT2 and TH1762 cells at various times after subculturing stationary - phase cells in LB - medium ( Fig. 7C ) .
+fis mRNA levels from E. coli MG1655 and E. coli MG1655 fis : : 767 ( RJ1800 ) were measured in parallel for comparison ( Fig. 7D ) .
+Levels of fis mRNA in S. typhimurium LT2 were comparable to levels in E. coli MG1655 .
+However , maximum fis mRNA levels in TH1762 were only about 2.5 - fold higher than those in S. typhimurium LT2 , whereas maximum levels in RJ1800 were approximately 10 - fold higher than those in MG1655 .
+This demonstrated that Fis autoregulation was about 4 - fold more efficient in E. coli than in S. typhimurium .
+The proposed DNA consensus sequence for Fis binding is highly degenerate ( 13 , 22 ) and , therefore , can not be used to predict which of the Fis - binding sites within the E. coli fis promoter region are also present in S. typhimurium , particularly in the less - conserved region upstream of 49 .
+Thus , we identified the Fis - binding sites in the S. typhimurium fis promoter region by DNase I footprinting ( Fig. 8A and B ) .
+Five Fis sites with variable binding affinities were identified in this region and were numbered according to the similar positions of Fis sites previously identified in E. coli ( 4 ) ( Fig. 8C ) .
+Additional protected regions which occur at high Fis concentrations are observed between Fis sites I and II ( overlapping the fis 10 region ) and downstream of Fis site I. Although the latter may represent a weak Fis - binding site , the former appears to be too small to account for a Fis site and may reflect formation of a higher - order nucleoprotein structure under conditions in which all of the Fis sites are occupied .
+Sites I , II , and VI were completely protected when 20 nM Fis was used in the DNAbinding mixture .
+However , only moderate protection was detected at site V , and little or no protection at site III could be detected with 20 nM Fis ( Fig. 8A and B ) .
+These sites are better ( but not completely ) protected when 40 nM Fis protein is used .
+In contrast , all six Fis - binding sites identified in this region in E. coli are very well protected with 20 nM Fis ( 4 ) .
+A comparison of the relative positions and affinities of Fis sites in the S. typhimurium and E. coli fis promoter regions is shown in Fig. 8C .
+As was expected from the identical sequence between 49 to 94 , Fis sites I and II are present in both promoter regions and bind Fis with similar affinities .
+Site IV from E. coli is missing in S. typhimurium , and site III is a lower - affinity binding site in S. typhimurium than in E. coli , although its relative positioning in retained .
+Interestingly , the position of site V in E. coli is also retained in S. typhimurium , although Fis binding to this site is reduced in the latter .
+Site VI from S. typhimurium could not be accurately aligned with site VI from E. coli , since DNA sequence in this region in S. typhimurium has not been obtained .
+These observations suggest that the high - affinity Fis sites I and II in this region may not be sufficient to cause the 10 - fold regulation by Fis observed in E. coli , since these are also present in S. typhimurium , in which only a 2.5 - fold regulation is observed .
+The high - affinity Fis sites III and IV in E. 2028 OSUNA ET AL. .
+fis expression in response to nutrient upshift .
+Saturated overnight cultures of S. typhimurium LT2 cells ( A ) and E. coli MG1655 cells ( B ) were diluted 100 - fold in prewarmed LB - medium and incubated at 37 C. Samples were removed at intervals and assayed for Fis protein levels as described in Materials and Methods .
+å , Fis dimers per cell ; Ç , cell growth as measured by CFU/ml .
+Saturated cultures of S. typhimurium LT2 ( ■ ) and TH1762 ( fis - 2 : : kan ) ( ) ( C ) and of E. coli MG1655 ( ■ ) and RJ1800 ( MG1655 fis : : 767 ) ( ) ( D ) were diluted 20 - fold in LB - medium and grown at 37 C. Samples were taken at intervals and analyzed for relative fis mRNA levels by primer - extension .
+fis mRNA from fis mutant cells is measurable by this method because the fis - 2 : : kan mutation contains an insertion only in the fis coding sequence , leaving the ORF1 and fis promoter sequences intact .
+Densitometry measurements of primer - extended products obtained from 10 g of cellular RNA , all analyzed on the same gel , were used to determine relative fis mRNA levels .
+A 100 % value was assigned to the maximum value for fis mRNA levels in RJ1800 cells .
+All other values , including those of MG1655 , S. typhimurium LT2 , and TH1762 , are shown as a proportion of this 100 % value .
+Viable counts ( CFU/ml ) ( Ç ) are given only for S. typhimurium LT2 ( C ) and E. coli MG1655 ( D ) .
+coli , for example , which are either weakly protected or absent in S. typhimurium , may be directly or indirectly involved in achieving a more efficient repression .
+Effect of Fis expression during stationary - phase in S. typhimurium .
+Fis levels are substantially reduced before cells begin to enter stationary - phase .
+We wondered if this shutoff in Fis expression is necessary for efficient survival of cells during stationary - phase .
+Thus , we synthesized E. coli Fis ( which is identical in sequence to S. typhimurium Fis ) from the Ptac promoter on the kanamycin - resistant multicopy plasmid pRJ807 in S. typhimurium RJ2845 and monitored cell viability throughout logarithmic growth at 37 C in LB - medium and for a period of 7 days after cells entered stationary - phase .
+In the presence of lacI q , fis is constitutively expressed from pRJ807 ; therefore , IPTG was not added .
+Measurement of Fis levels under these conditions was approximately 20,000 dimers per cell as the cells entered stationary phase , which is about 50 % of the peak value in S. typhimurium .
+As controls , isogenic strains RJ2846 and RJ2843 , carrying plasmids pRJ1122 ( deleted for fis ) and pRJ949 ( fis [ Arg - 853His ] ) , respectively , instead of pRJ807 , were also grown in parallel .
+The fis mutation Arg - 853His is located within the helix - turnhelix motif and has been shown to severely reduce DNAbinding activity , although protein expression is normal ( 48 ) .
+Growth of all three strains during logarithmic phase was identical ( not shown ) .
+However , upon entry into stationary phase , RJ2845 cells became selectively reduced in number in comparison to RJ2846 and RJ2843 cells ( Fig. 9 ) and were superseded by kanamycin - sensitive cells that did not propagate further and were presumed to have lost the fis plasmid .
+After 4 days in stationary - phase , survival of kanamycin - resistant RJ2845 cells was reduced by a factor of 10 4 .
+The survivors grew as heterogeneous colonies on LB plates varying both in size and appearance .
+However , viability and colony appearance of cells constitutive for the fis mutation Arg - 853His ( in RJ2843 ) during stationary - phase were indistinguishable from those of RJ2846 ( wild - type ) cells .
+Thus , the reduction in cell number in RJ2845 can not be attributed to general toxicity due to the presence of the plasmid or high - level gene expression during this stage of growth .
+Rather , this effect can be attributed to the DNA - binding function of Fis .
+A similar loss in viability during stationary - phase was observed when Fis was constitutively expressed from pRJ807 in S. typhimurium LT2 fis - 2 : : kan cells ( not shown ) .
+In addition , RJ2845 cells that retain kanamycin resistance after 2 days in stationary - phase displayed a 2 - h lag time when subcultured in LB - medium as measured by CFU , which represents a 63 % increase over that of RJ2846 ( fis ) cells ( not shown ) .
+This increase in lag time was not observed if cells constitutively expressing fis were subcultured from a logarithmically growing culture .
+These results suggest that high levels of Fis DNA - binding activity during stationary - phase are deleterious to the cell .
+Reduced viability in stationary - phase by constitutively expressed fis has also been observed in E. coli ( 11 ) .
+DISCUSSION The S. typhimurium LT2 fis operon .
+We have cloned and sequenced the S. typhimurium fis operon together with upstream DNA known to be necessary for proper fis regulation in E. coli ( 4 , 43 ) .
+Despite five nucleotide differences found in the S. typhimurium fis gene compared with E. coli fis , the deduced amino - acid sequences for both genes are identical ( Fig. 1 ) .
+This allows direct application of current knowledge of the structure and function of E. coli Fis to the same protein in S. typhimurium .
+These nucleotide changes represent only a 1.7 % divergence , which is significantly lower than the 14 to 20 % divergence more frequently found between genes of these two species ( 46 ) .
+Thus , even at the nucleic acid sequence level , fis appears to be subjected to strong selective pressures .
+An ORF ( ORF1 ) upstream of fis that consists of 321 amino acids is also well conserved between the two species .
+Although no specific function has yet been identified for ORF1 , its high level of conservation suggests that its product has an important cellular function .
+The high similarity ( 59 % ) found between ORF1 in E. coli and the nifR3 gene in Rhodobacter capsulatus ( 14 , 43 ) is noteworthy .
+Of the 15 amino - acid differences noted between the S. typhimurium and E. coli ORF1 , 11 reside in regions of nonhomology between nifR3 in R. capsulatus and the ORF1 in E. coli .
+Thus , the high level of amino - acid sequence homology between ORF1 and nifR3 is retained in S. typhimurium .
+The function of nifR3 is also not known .
+It is contained within an operon with the ntrBC genes , which are required for nif transcription in R. capsulatus , suggesting that the product of nifR3 may also be involved in nitrogen regulation ( 15 ) .
+The carboxy - terminal regions corresponding to the - helices C and D in Fis show 45 , 55 , and 70 % identities with NTRC protein from Klebsiella pneumoniae , R. capsulatus , and Bradyrhizobium parasponiae , respectively ( 14 , 25 , 44 ) .
+NTRC functions as a transcriptional regulator in response to nitrogen source starvation .
+Thus , it is possible that the products of the 2029 FIG. 8 .
+Fis protection of the fis promoter region from DNase I cleavage .
+( A and B ) An approximately 500 - bp NcoI - PstI DNA fragment ( derived from pRJ1100 ) containing the region upstream of the NcoI site shown in Fig. 1B was used as substrate .
+The top strand ( as shown in Fig. 1B ) was labeled with 32 Pat the NcoI site .
+Concentrations of Fis used in each reaction are indicated above the lanes .
+The products of Maxam and Gilbert DNA cleavage reactions specific for GorG A were electrophoresed in parallel for sequence reference .
+Electrophoresis was allowed to proceed for a longer time in panel B than in panel A. Fis sites I , II , III , V , and VI are indicated on the side by solid and open bars .
+Solid bars , regions of strong protection by Fis ( requiring 20 nM Fis ) ; open bars , regions of weaker protection by Fis ( requiring 40 nM Fis ) ; dashed lines , an extended footprint with 40 ng of Fis .
+( C ) Comparison of Fis - binding sites identified by DNase I footprinting in the fis promoter regions of S. typhimurium and E. coli ( 4 ) .
+Open boxes , the 10 and 35 promoter sequences ; arrow , the start of transcription ; solid and open bars , represent high - and low - affinity Fis sites , respectively , which are identified by roman numerals .
+The center of each Fis site relative to the transcription start site is indicated above each bar .
+Effect of fis expression on cell viability during stationary - phase .
+Strains RJ2843 ( å ) , RJ2845 ( ) , and RJ2846 ( ■ ) , containing plasmids constitutively expressing the fis mutation Arg - 853His , wild - type fis , and a fis deletion , respectively , were grown overnight ( 16 h ) in LB - medium containing 40 g of kanamycin per ml at 37 C ( time 0 ) .
+At various time intervals thereafter , cells were plated on LB agar medium containing 40 g of kanamycin per ml and were grown overnight at 37 C. ORF1 fis operon are involved in processes that are responsive to nitrogen control .
+Properties of a fis null mutation in S. typhimurium .
+In vitro analysis has shown that Hin - mediated DNA inversion is stimulated over 150 - fold in the presence of Fis ( 26 ) .
+Together with the recombinational enhancer , Fis is assembled into a synaptic complex with the two Hin - bound recombination sites which is as intermediate required for initiation of DNA strand exchange ( 24 ) .
+The lack of any detectable DNA inversion in S. typhimurium fis cells indicates that no other protein functions in this capacity .
+Hin - mediated DNA inversion in S. typhimurium is responsible for the alternate expression of two flagellar genes , i.e. , fljB and fliC ( 64 , 65 ) .
+In one orientation ( on ) , the promoter within the DNA - invertible element transcribes fljB together with fljA ( rH1 ) , which encodes the repressor for fliC ( 55 ) .
+In the opposite orientation ( off ) , fljB is not expressed and repression of fliC is lifted .
+The promoter for fljB had not been previously mapped .
+By primer - extension analysis , we located the transcriptional start site for this promoter at the G nucleotide positioned 41 bases from the center of hixR or 28 bases from the proximal edge of hixR ( Fig. 5 ) .
+We further showed that Fis is not required for transcription from this promoter .
+However , in the presence of Fis , an in - vivo regulatory pattern for fljB that is different from that in cells unable to express fis is apparent .
+After 60 to 90 min of logarithmic growth , fljB mRNA levels are low or undetectable in the presence of Fis , and maximum levels are reached by about 120 min of outgrowth .
+On the other hand , fljB mRNA appears to be continually maintained at high levels in the absence of Fis .
+Although no difference in viability is observed between isogenic fis and fis cells , the generation time and transition period between lag phase and log phase are longer in fis mutants than in fis cells when they are grown in rich - medium ( Fig. 6 ) .
+When fis cells are transformed with a plasmid carrying fis , the wild - type growth - rate is restored ( not shown ) .
+This indicates that Fis plays other beneficial roles in S. typhimurium , although none of these roles seems to be required for viability .
+A similar observation has been made for E. coli fis and fis mutant cells ( 41 , 42 ) .
+The slower growth phenotype of fis null mutants in rich - medium may reflect the role for Fis in enhancing stable RNA synthesis under conditions of very rapid growth ( 13 , 42 ) .
+Fis has also been shown to bind oriC in E. coli and to play a role in initiation of DNA replication ( 12 , 16 ) .
+The fact that the DNA sequences of the Fis - binding sites detected in E. coli oriC are completely conserved in S. typhimurium ( 39 ) suggests that Fis may also play a role in initiation of DNA replication in the latter .
+The filamentation observed in fis mutant cells in E. coli ( 12 ) and S. typhimurium ( the present paper ) when grown at 37 to 44 C in rich - medium is consistent with a role of Fis in DNA replication ( 12 ) .
+A defect in initiation of DNA replication may also contribute to the slower growth phenotype of fis mutant cells under rapid growth - conditions .
+In E. coli , the SOS response leads to a derepression of sfiA , whose product inhibits or inactivates the product of the ftsZ gene , which is , in turn , required for initiation of cell division ( 9 , 36 , 59 ) .
+Consequently , sfiA mutant cells do not filament upon induction of the SOS response .
+Since E. coli fis cells that contain a mutation in sfiA remain filamented ( 49 ) , the filamentation that is observed in these cells is probably not mediated via an SOS - dependent pathway .
+Furthermore , genetic assays have not detected constitutive SOS activity in fis cells of either E. coli or S. typhimurium ( 23 ) .
+Regulation of fis expression in S. typhimurium .
+The DNA sequence between 49 and 94 relative to the transcriptional start site , as mapped by primer - extension , is completely conserved between S. typhimurium and E. coli , whereas sequences upstream of 49 are very different ( Fig. 1A and B ) .
+We show that Fis protein and mRNA levels expressed from this promoter in S. typhimurium follow the same regulation pattern observed in E. coli in response to nutritional upshift ( Fig. 7 ) .
+Upon subculturing of stationary - phase cells in LB - medium , Fis protein and mRNA levels increase over 800 - and 1,000 - fold , respectively , within the period required to initiate logarithmic cell division .
+During this early growth stage , Fis is an abundant protein , reaching peak levels of over 40,000 dimers per cell ( Fig. 7A ) .
+Following the peak expression time , Fis protein and mRNA levels rapidly decrease in batch cultures , reaching very low levels before cells enter stationary - phase .
+It is possible that the conserved DNA promoter region between 49 and 94 may be sufficient for the observed fis regulation in response to nutrient upshift .
+This is consistent with experiments showing that the E. coli fis promoter DNA sequence from 38 to 6 can serve as a promoter for lacZ and is sufficient for growth phase regulation in E. coli ( 43 ) .
+Fis serves to autoregulate the magnitude of fis mRNA levels but has little effect on the overall regulation pattern ( Fig. 7C and D ) .
+Fis represses its mRNA levels by approximately 2.5 - fold in S. typhimurium and by approximately 10 - fold in E. coli .
+We have suggested that this repression occurs at the level of transcription initiation , since Fis binds to six sites within the E. coli fis promoter region and excludes the binding of RNA polymerase ( 4 ) .
+Two of these Fis sites ( sites I and II ) are fully conserved in S. typhimurium and are bound with high affinity ( Fig. 8A ) .
+Fis sites III and V are weakly bound in S. typhimurium , and site IV is absent .
+This difference in Fis - binding sites might be correlated with the difference in magnitude of negative regulation by Fis .
+Thus , it is possible that Fis sites I and II , which overlap the RNA polymerase binding site for the fis promoter in E. coli ( and most likely also for S. typhimurium ) , are responsible for the 2.5 - fold repression observed in S. typhi - VOL .
+177 , 1995 S. TYPHIMURIUM fis OPERON 2031 murium .
+The additional 4 - fold repression observed in E. coli may be provided by the high - affinity sites III , IV , V , and VI .
+The occupancy of these additional four Fis sites in E. coli might serve to hinder upstream DNA sequences from a potential role in enhancing transcription activity .
+Alternatively , DNA bends introduced in a larger number of high - affinity Fis sites in the E. coli fis promoter may cause DNA to wrap into a structure that can more efficiently repress transcription .
+Increased DNase I protection observed between Fis sites I and II with increasing Fis concentrations is consistent with the latter explanation .
+Mutation analysis of the fis promoter region is currently in progress to help elucidate the precise role of each of these Fis sites as well as of other DNA sequences in the transcription activity of the fis promoter .
+Effect of fis expression on survival during stationary - phase .
+The rapid increase in Fis levels upon nutrient upshift is clearly beneficial , since fis mutant cells initiate growth in nutrient - rich medium more slowly than wild - type cells , particularly after a prolonged period in stationary - phase .
+On the other hand , the efficient shutoff of Fis expression in stationary - phase is critical for long - term survival , as well as for the rapid initiation of growth upon nutrient upshift .
+Most cells artificially expressing Fis during stationary - phase are unable to resume growth ( Fig. 9 ) .
+Those that manage to resume growth display long and variable lag times , as judged from the timing of colony formation .
+The deleterious effect of fis expression is particularly apparent after the culture has been in stationary - phase for over 24 h , which is similar to the survival pattern of E. coli mutants that are unable to sustain long - term survival during stationary phase ( 58 ) .
+Fis DNA - binding activity during this stage either may impede expression of genes necessary for survival during stationary - phase ( 30 ) or could lead to inappropriate expression of genes normally active under rapid growth - conditions .
+The burst of Fis expression that is induced during the recovery of cells from stationary - phase as they enter the logarithmic growth phase might play a role in negatively regulating stationary phase - specific functions ( 61 ) .
+We thank J. Gardner for the strains and plasmids used in this work , J. Gray for constructing fis : : kan and fis : : tet plasmid constructs , and K. Hurst for the preparation of S. typhimurium DNA which we used to isolate the fis gene .
+We also thank members of the laboratories of K.T. Hughes and R.C. Johnson for critical review and comments .
+This work was supported by PHS service grants GM38509 and GM11088 to R.C.J. and K.T.H. , respectively .
+K.T.H. is a recipient of a Junior Faculty Research award from the American Cancer Society .
+R.O. was supported in part by NIH National Research Service award GM13657 and by a Faculty Research Service award from The State University of New York .
+Genetic control of defective cell shape and osmoticsensitivity in a mutant of Salmonella typhimurium .
+Ball , C. A. , and R. C. Johnson .
+Efficient excision of phage from the Escherichia coli chromosome requires the Fis protein .
+Ball , C. A. , and R. C. Johnson .
+Multiple effects of Fis on integration and the control of lysogeny in phage .
+Ball , C. A. , R. Osuna , K. C. Ferguson , and R. C. Johnson .
+Dramatic changes in Fis levels upon nutrient upshift in Escherichia coli .
+Bétermier , M. , V. Lefrère , C. Koch , R. Alazard , and M. Chandler .
+The Escherichia coli protein , Fis : specific binding to the ends of phage Mu DNA and modulation of phage growth .
+Bétermier , M. , I. Poquet , R. Alazard , and M. Chandler .
+Involvement of Escherichia coli FIS protein in maintenance of bacteriophage Mu lysogeny by the repressor : control of early transcription and inhibition of transposition .
+Case , C. C. , S. M. Roels , J. E. González , E. L. Simons , and R. W. Simons .
+Analysis of the promoters and transcripts involved in IS10 anti - sense RNA control .
+The mechanism of conservative site - specific recombination .
+Donachie , W. D. , and A. C. Robinson .
+Cell division : parameter values and the process , p. 1578 -- 1593 .
+In F. C. Neidhardt , J. L. Ingraham , K. B. Low , B. Magasanik , M. Schaechter , and E. Umbarger ( ed .
+) , Escherichia coli and Salmonella typhimurium : cellular and molecular biology , vol .
+American Society for Microbiology , Washington , D.C. 10 .
+Dorgai , L. , J. Oberto , and R. A. Weisberg .
+Xis and Fis proteins prevent site - specific DNA inversion in lysogens of phage HK022 .
+Ferguson , K. C. , and R. C. Johnson .
+Filutowicz , M. , W. Ross , J. Wild , and R. L. Gourse .
+Involvement of Fis protein in replication of the Escherichia coli chromosome .
+Finkel , S. E. , and R. C. Johnson .
+The Fis protein : it 's not just for DNA inversion anymore .
+Foster - Hartnett , D. , K. K. Gabbert , P. J. Cullen , and R. G. Kranz .
+Sequence , genetic , and lacZ fusion analyses of a nifR3 - ntrB - ntrC operon in Rhodobacter capsulatus .
+Foster - Hartnett , D. , and R. G. Kranz .
+Analysis of the promoters and upstream sequences of nifA1 and nifA2 in Rhodobacter capsulatus ; activation requires ntrC but not rpoN .
+Gille , H. , J. B. Egan , A. Roth , and W. Messer .
+The Fis protein binds and bends the origin of chromosomal DNA replication , oriC , ofEscherichia coli .
+Gillen , K. L. , and K. T. Hughes .
+Negative regulatory loci coupling flagellin synthesis to flagella assembly in Salmonella typhimurium .
+Gillen , K. L. , and K. T. Hughes .
+Transcription from two promoters and autoregulation contribute to control of expression of the Salmonella typhimurium flagellar regulatory gene flgM .
+Gosink , K. K. , W. Ross , S. Leirmo , R. Osuna , S. E. Finkel , R. C. Johnson , and R. L. Gourse .
+DNA binding and bending are necessary but not sufficient for Fis - dependent activation of rrnB P1 .
+Haffter , P. , and T. A. Bickle .
+Purification and DNA - binding properties of Fis and Cin , two proteins required for the bacteriophage P1 site - specific recombination system , cin .
+Hartz , D. , D. S. McPheeters , R. Traut , and L. Gold .
+Extension inhibition analysis of translation initiation complexes .
+Hübner , P. , and W. Arber .
+Mutational analysis of a prokaryotic recombinational element with two functions .
+Hughes , K. T. , and R. C. Johnson .
+Mechanism of site - specific DNA inversion in bacteria .
+Johnson , R. C. , C. A. Ball , D. Pfeffer , and M. I. Simon .
+Isolation of the gene encoding the Hin recombinational enhancer binding protein .
+Johnson , R. C. , M. F. Bruist , and M. I. Simon .
+Host protein requirements for in - vitro site - specific DNA inversion .
+Koch , C. , and R. Kahmann .
+Purification and properties of the Escherichia coli host factor required for inversion of the G segment in bacteriophage Mu .
+Koch , C. , O. Ninnemann , H. Fuss , and R. Kahmann .
+The N - terminal part of the E. coli DNA binding protein Fis is essential for stimulating site - specific DNA inversion but is not required for specific DNA binding .
+Koch , C. , J. Vanderkerckhove , and R. Kahmann .
+Escherichia coli host factor for site - specific DNA inversion : cloning and characterization of the fis gene .
+Kolter , R. , D. A. Siegele , and A. Tormo .
+The stationary - phase of the bacterial life cycle .
+Kostrewa , D. , J. Granzin , C. Koch , H. W. Choe , S. Raghunathan , W. Wolf , J. Labahn , R. Kahmann , and W. Saenger .
+Three - dimensional structure of the E. coli DNA binding protein FIS .
+Kukral , A. M. , K. L. Strauch , R. A. Maurer , and C. G. Miller .
+Genetic analysis in Salmonella typhimurium with a small collection of randomly spaced insertions of transposon Tn10 16 17 .
+Kutsukake , K. , and T. Iino .
+Role of the FliA - FlgM regulatory system on the transcriptional control of the flagellar regulon and flagellar formation in Salmonella typhimurium .
+Dynamic , structural and regulatory aspects of site - specific recombination .
+Lazarus , L. R. , and A. A. Travers .
+The Escherichia coli FIS protein is not required for the activation of tyrT transcription on entry into exponential growth .
+Little , J. W. , and D. W. Mount .
+The SOS regulatory system of Escherichia coli .
+Maruyama , T. , T. Gojobori , S. Aota , and T. Ikemura .
+Codon usage tabulated from the GenBank genetic sequence data .
+Maxam , A. , and W. Gilbert .
+A new method for sequencing DNA .
+McMacken , R. , L. Silver , and C. Georgopoulos .
+In F. C. Neidhardt , J. L. Ingraham , K. B. Low , B. Magasanik , M. Schaechter , and E. Umbarger ( ed .
+) , Escherichia coli and Salmonella typhimurium : cellular and molecular biology , vol .
+American Society for Microbiology , Washington , D.C. 40 .
+Nilsson , L. , A. Vanet , E. Vijgenboom , and L. Bosch .
+The role of Fis in trans activation of stable RNA operons in E. coli .
+Nilsson , L. , H. Verbeek , U. Hoffmann , M. Haupt , and L. Bosch .
+Inactivation of the fis gene leads to reduced growth - rate .
+Nilsson , L. , H. Verbeek , E. Vijgenboom , C. van Drunen , A. Vanet , and L. Bosch .
+Fis - dependent trans activation of stable RNA operons of Escherichia coli under various growth - conditions .
+Ninnemann , O. , C. Koch , and R. Kahmann .
+The E. coli fis promoter is subject to stringent - control and autoregulation .
+North , A. K. , K. E. Klose , K. M. Stedman , and S. Kustu .
+Prokaryotic enhancer - binding proteins reflect eukaryote - like modularity : the puzzle of nitrogen regulatory protein C. J. Bacteriol .
+Numrych , T. E. , R. I. Gumport , and J. F. Gardner .
+A genetic analysis of Xis and Fis interactions with their binding sites in bacteriophage lambda .
+Ochman , H. , and A. C. Wilson .
+Evolutionary history of enteric bacteria , p. 1649 -- 1654 .
+In F. C. Neidhardt , J. L. Ingraham , K. B. Low , B. Magasanik , M. Schaechter , and E. Umbarger ( ed .
+) , Escherichia coli and Salmonella typhimurium : cellular and molecular biology , vol .
+American Society for Microbiology , Washington , D.C. 47 .
+Ohnishi , K. , K. Kutsukake , H. Suzuki , and T. Iino .
+Gene fliA encodes an alternative sigma factor specific for flagellar operons in Salmonella typhimurium .
+Osuna , R. , S. E. Finkel , and R. C. Johnson .
+Identification of two functional regions in Fis : the N - terminus is required to promote Hin - mediated DNA inversion but not excision .
+Osuna , R. , and R. C. Johnson .
+Pan , C. Q. , J. - A .
+Feng , S. E. Finkel , R. Landgraf , D. Sigman , and R. C. Johnson .
+Structure of the Escherichia coli Fis - DNA complex probed by protein conjugated with 1,10 - phenanthroline copper ( I ) complex .
+Ross , W. , J. F. Thompson , J. T. Newlands , and R. L. Gourse .
+E. coli Fis protein activates ribosomal RNA transcription in - vitro and in - vivo .
+Sambrook , J. , E. F. Fritsch , and T. Maniatis .
+Molecular cloning : a laboratory manual , 2nd ed .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 53 .
+Sanderson , K. E. , and J. A. Hurley .
+Linkage map of Salmonella typhimurium , p. 877 -- 918 .
+In F. C. Neidhardt , J. L. Ingraham , K. B. Low , B. Magasanik , M. Schaechter , and E. Umbarger ( ed .
+) , Escherichia coli and Salmonella typhimurium : cellular and molecular biology , vol .
+American Society for Microbiology , Washington , D.C. 54 .
+Sanderson , K. E. , and J. R. Roth .
+Linkage map of Salmonella typhimurium , edition VI .
+Silverman , M. , J. Zieg , and M. Simon .
+Flagellar - phase variation : isolation of the rh1 gene .
+Slany , R. K. , and H. Kersten .
+The promoter of the tgt/sec operon in Escherichia coli is preceded by an upstream activation sequence that contains a high affinity Fis binding site .
+Thompson , J. F. , L. Moitoso de Vargas , C. Koch , R. Kahmann , and A. Landy .
+Cellular factors couple recombination with growth phase : characterization of a new component in the lambda site - specific recombination pathway .
+Tormo , A. , M. Almirón , and R. Kolter .
+surA , anEscherichia coli gene essential for survival in stationary - phase .
+Mutagenesis and inducible responses to deoxyribonucleic acid damage in Escherichia coli .
+Weinreich , M. D. , and W. S. Reznikoff .
+Fis plays a role in Tn5 and IS50 transposition .
+Xu , J. , and R. C. Johnson .
+Identification of genes negatively regulated by Fis : Fis and RpoS comodulate growth - phase - dependent gene expression in Escherichia coli .
+Youderian , P. , P. Sugiono , K. L. Brewer , N. P. Higgins , and T. Elliot .
+Packaging specific segments of the Salmonella chromosome with locked - in Mud - P22 prophages .
+Yuan , H. , S. E. Finkel , J. A. Feng , M. Kaczor - Grzeskowiak , R. C. Johnson , and R. E. Dickerson .
+The molecular structure of wild - type and a mutant Fis protein -- relationship between mutational changes and recombinational enhancer function or DNA binding .
+Zieg , J. , M. Hilmen , and M. Simon .
+Recombination switch for gene expression .
+Zieg , J. , M. Hilmen , and M. Simon .
+Regulation of gene expression by site - specific inversion .
+Zieg , J. , and M. Simon .
+Analysis of the nucleotide sequence of an invertible controlling element .

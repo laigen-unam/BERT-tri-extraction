@@ -1,0 +1,464 @@
+Salmonella Biofilm Development Depends on the Phosphorylation Status of RcsB Cristina Latasa , a Begoña García , a Maite Echeverz , a Alejandro Toledo - Arana , a Jaione Valle , a Susana Campoy , b Francisco García - del Portillo , c Cristina Solano , a and Iñigo Lasa a Instituto de Agrobiotecnología , Idab , Universidad Pública de Navarra - CSIC - Gobierno de Navarra , Pamplona , Navarra , Spain a ; Departament de Genètica i Microbiologia , Universitat Autònoma de Barcelona , Barcelona , Spain b ; and Departamento de Biotecnología Microbiana , Centro Nacional de Biotecnología - Consejo Superior de Investigaciones Científicas ( CNB - CSIC ) , Madrid , Spain c The Rcs phosphorelay pathway is a complex signaling pathway involved in the regulation of many cell surface structures in enteric bacteria .
+In response to environmental stimuli , the sensor histidine kinase ( RcsC ) autophosphorylates and then transfers the phosphate through intermediary steps to the response regulator ( RcsB ) , which , once phosphorylated , regulates gene expression .
+Here , we show that Salmonella biofilm development depends on the phosphorylation status of RcsB .
+Thus , unphosphorylated RcsB , hitherto assumed to be inactive , is essential to activate the expression of the biofilm matrix compounds .
+The prevention of RcsB phosphorylation either by the disruption of the phosphorelay at the RcsC or RcsD level or by the production of a nonphosphorylatable RcsB allele induces biofilm development .
+On the contrary , the phosphorylation of RcsB by the constitutive activation of the Rcs pathway inhibits biofilm development , an effect that can be counteracted by the introduction of a nonphosphorylatable RcsB allele .
+The inhibition of biofilm development by phosphorylated RcsB is due to the repression of CsgD expression , through a mechanism dependent on the accumulation of the small noncoding RNA RprA .
+Our results indicate that unphosphorylated RcsB plays an active role for integrating environmental signals and , more broadly , that RcsB phosphorylation acts as a key switch between planktonic and sessile life - styles in Salmonella enterica serovar Typhimurium .
+enterica serovar Typhimurium is a principal agent of gastroenteritis in humans .
+It is a ubiquitous bacterium with a cyclic life - style involving passage from the gastrointestinal tract of animal hosts into the external environment and back into a new host ( 23 , 58 ) .
+It is now recognized that part of the ecological success of S. Typhimurium in the face of such highly variable environmental conditions lies in its ability to grow as organized multicellular complexes embedded in a protective extracellular matrix , currently known as biofilms ( 39 -- 43 , 49 , 60 ) .
+The extracellular matrix that encloses the S. Typhimurium biofilm is made of several components , three of which , fimbriae , cellulose , and the surface protein BapA , have been characterized ( 29 , 41 , 49 , 60 ) .
+Given that the synthesis of such a complex matrix is a highly energy - consuming process , extremely tight regulation appears to be critical to the efficient integration of multiple environmental signals with an appropriate biofilm - related gene expression profile ( 6 , 58 ) .
+The RcsCDB phosphorelay pathway is a complex signaling pathway present exclusively among members of the Enterobacteriaceae which coordinates the expressions of a large number of genes important for the maintenance of cell wall integrity , cell division , stationary - phase sigma factor activity , biofilm development , motility , and virulence ( for a review , see references 3 and 31 ) .
+The precise nature of the inducing signals is still unknown , but mounting data reinforce the idea that the Rcs phosphorelay signaling system responds to changes in the integrity of the peptidoglycan layer by remodeling the bacterial surface ( 3 , 4 , 36 ) .
+In contrast to the majority of two - component systems that consist of a direct phosphotransfer cascade between a membrane - associated histidine kinase ( HK ) and a response regulator ( RR ) , this pathway involves three members : a hybrid sensor kinase ( RcsC ) , a phosphotransferase ( RcsD ) , and a response regulator ( RcsB ) .
+Signal transduction begins with the autophosphorylation of RcsC at the conserved histidine residue H479 .
+The phosphoryl group is then transferred to a conserved D875 residue of RcsC and subsequently to residue H841 of the intermediary protein RcsD .
+Finally , the phosphoryl group is transferred to the aspartate residue ( D56 ) of the response regulator protein RcsB , and this modification facilitates DNA binding and changes in the expressions of RcsB - regulated genes ( 31 ) .
+In addition , an auxiliary protein , RcsA , cooperates with RcsB for binding to some target promoters , like those responsible for capsule or flagellum synthesis ( 31 ) .
+In Escherichia coli , the activation of the Rcs phosphorelay pathway results in an increase in the level of expression of the extracellular polysaccharide colanic acid ( 20 ) and the inhibition of the expressions of genes encoding surface adhesins , such as antigen 43 and curli , and the flhDC operon , encoding the master regulators of flagellum biosynthesis ( 11 , 14 ) .
+As these genes are involved in attachment to surfaces ( antigen 43 , curli fimbriae , and flagella ) and biofilm matrix production ( colanic acid ) , a simple model in which the Rcs phosphorelay pathway gradually represses the production of proteinaceous appendages while increasing the level of production of exopolysaccharide ( EPS ) has been proposed .
+Thus , the inactivation of RcsC in E. coli results in a biofilm - defective phenotype ( 11 , 25 ) .
+In the case of S. Typhimurium , the production of colanic acid and the repression of motility are also regulated by the Rcs phosphorelay pathway ( 1 ) .
+However , the S. Ty - Published ahead of print 11 May 2012 Address correspondence to Iñigo Lasa , ilasa@unavarra.es .
+Supplemental material for this article may be found at http://jb.asm.org/ .
+doi : 10.1128 / JB.00361 - 12 3708 jb.asm.org Journal of Bacteriology p. 3708 -- 3722 July 2012 Volume 194 Number 14 Activation of Salmonella Biofilm Development phimurium biofilm matrix contains cellulose instead of colanic acid as a major exopolysaccharidic compound ( 49 , 60 ) .
+Remarkably , the contribution of the Rcs system to the regulation of not only cellulose production but also other components of the biofilm , namely , fimbriae and BapA , has never been established , and thus , the regulation of biofilm development in Salmonella has been considered to occur independent of the Rcs phosphorelay pathway .
+The synthesis of the biofilm matrix formed by S. Typhimurium is synchronized by a complex network whose key point is represented by the regulator of the LuxR family , CsgD ( 41 , 60 ) .
+CsgD activates the transcription of ( i ) the csgBA operon , responsible for the biosynthesis of curli fimbriae ( 21 , 43 ) ; ( ii ) adrA , a gene encoding a protein of the GGDEF family , involved in the synthesis of bis - ( 3 = -5 =) - cyclic dimeric GMP ( c - di - GMP ) , which is required for the allosteric activation of the cellulose synthase ( 42 , 47 , 60 ) ; and ( iii ) bapA , a gene encoding a large surface protein , whose deletion causes the loss of the capacity to form a biofilm in LB - medium ( 29 ) .
+The activity of CsgD is in turn regulated at two different levels .
+On the one hand , the expression of CsgD is controlled at the transcriptional level by environmental conditions ( 18 , 19 ) , through the intervention of global regulatory proteins like RpoS , members of the two - component signaling system such as OmpR and CpxR , and members of the GGDEF/EAL domain proteins involved in c - di - GMP signaling ( 28 , 38 , 41 , 43 , 47 ) .
+On the other hand , CsgD activity appears to be regulated by phosphorylation .
+Thus , unphosphorylated CsgD efficiently activates fimbria and cellulose production , while phosphorylated CsgD is unable to activate csgBA and adrA transcription ( 59 ) .
+The source of the phosphoryl group has not been specified .
+In this study , we investigated the role of the Rcs phosphorelay pathway in S. enterica biofilm development .
+We show that the deletionofRcsBortheconstitutiveactivationoftheRcsphosphorelay pathway inhibits biofilm development .
+In contrast , the prevention of RcsB phosphorylation either by impeding phosphorelay from RcsC or RcsD or by producing a nonphosphorylatable variant of RcsB enhances biofilm development .
+We also show that unphosphorylated RcsB is a positive regulator of csgD , while the accumulation of phosphorylated RcsB represses csgD expression .
+In summary , our findings demonstrate that the phosphorylation status of RcsB mediates the switch between planktonic and sessile life - styles in S. Typhimurium .
+MATERIALS AND METHODS Bacterial strains , plasmids , and culture conditions .
+The most relevant bacterial strains and plasmids used and constructed in this study are listed in Table 1 .
+E. coli , S. Typhimurium , and S. Enteritidis cells were grown in Luria - Bertani ( LB ) broth , in Trypticase soy broth ( TSB ) , and on LB agar ( Pronadisa ) with appropriate antibiotics at the following concentrations : kanamycin ( Km ) at 50 g ml 1 , chloramphenicol ( Cm ) at 25 g ml 1 , and tetracycline ( Tc ) at 20 g ml 1 .
+E. coli strain 55989 and derivatives were grown at 37 °C in M63B1 -- 0.4 % glucose minimal - medium ( M63B1 - glu ) .
+Phenotypic assays for biofilm formation .
+All the Salmonella strains obtained throughout the study were tested for their ability to produce a biofilm in LB - medium , visualized as a floating pellicle at the air - broth interface which totally blocked the surface of the culture and could not be dispersed by shaking .
+LB agar without salt and complemented with Congo red ( 40 gml 1 ) and Coomassie brilliant blue ( 20 gml 1 ) was used to determine the RDAR ( red , dry , and rough ) colony morphotype of the strains included in the study ( 19 ) .
+Routine DNA manipulations were performed according to standard procedures described previously ( 29 ) , unless otherwise indicated .
+Plasmid DNA from E. coli was purified with a Quantum Prep plasmid kit ( Bio - Rad ) .
+Plasmids were transformed into E. coli , S. Typhimurium , and S. Enteritidis by either heat - shock or electroporation .
+Transformants carrying the Red helper plasmid were made electrocompetent by use of the following protocol .
+Cells were grown overnight in LB broth with Amp at 30 °C and then used to inoculate 500 ml of LB broth with Amp that was incubated with aeration at 30 °C to an optical density at 600 nm ( OD 600 ) of 0.2 .
+L - Arabinose ( Sigma ) was then added to a final concentration of 0.08 % , and incubation continued until the OD 600 reached 0.7 .
+The suspension was cooled down on ice for 15 min , and cells were made electrocompetent by washing twice with the same volume of water and then once with 40 ml of ice - cold 10 % glycerol .
+Cells were finally resuspended in 1.5 ml of ice - cold 10 % glycerol .
+Restriction enzymes were purchased from Boehringer Mannheim and used according to the manufacturer 's instructions .
+Oligonucleotides were obtained from Thermo Scientific Biopolymers ( Table 2 ) .
+Phage P22 HT105/1 int - 201 ( 45 ) was used to carry out transductions between strains according to protocols described previously ( 33 ) .
+To obtain phage - free isolates , transductants were purified on Evans blue - uranine ( EBU ) plates , and phage sensitivity was tested with clear - plaque mutant P22 ( 17 ) .
+Deletion of chromosomal genes .
+For the insertion of kanamycin and tetracycline resistance cassettes into the rcsC and rcsB genes of S. Typhimurium 14028 and E. coli 55989 , PCR - generated linear DNA fragments in combination with a helper plasmid were used as described previously ( 29 ) .
+The pKO3blue shuttle vector was used to perform the markerless in - frame deletion of the rcsD gene as described previously , with some modifications ( 48 ) .
+For this construction , DNA fragments corresponding to the upstream ( fragment AB ) and downstream ( fragment CD ) regions of rcsD were amplified with the oligonucleotide pairs specified in Table 2 , using chromosomal DNA from S. Typhimurium strain 14028 as a template .
+Both fragments were cloned in the pGEMT - Easy vector ( Promega ) digested with SphI and XhoI enzymes in the case of the AB fragment and XhoI and BamHI in the case of CD fragment .
+The AD fragment was then subcloned into the pKO3blue vector digested with SphI and BamHI , confirmed by sequencing , and electroporated into S. Typhimurium strain 14028 .
+As pKO3blue contains a temperature - sensitive origin of replication , the construct was integrated into the chromosome through homologous recombination at a nonpermissive temperature ( 44 °C ) .
+Five colonies grown at 44 °C were picked into 5 ml of LB broth and incubated for 24 h at 30 °C .
+Tenfold serial dilutions of these cultures were plated onto LB plates containing 5 % sucrose .
+After 24 h at 30 °C , sucR colonies were replica plated onto LB agar plates supplemented with - chloramphenicol and LB agar plates supplemented with X - gal ( 5 - bromo - 4-chloro - 3-indolyl - - D - galactopyranoside ) ( 150 g ml 1 ) .
+White colonies that were able to grow in the presence of sucrose but that were chloramphenicol sensitive due to the loss of plasmid pKO3blue were selected .
+The deletion was tested by PCR using the external rcsD.ok oligonucleotide pair .
+Construction of single - amino - acid substitutions in Rcs proteins .
+To perform the , , and substitutions in S. Typhimurium 14028 and the substitution in E. coli 55989 , two separate PCR products with overlapping sequences , including the targeted sequence , were combined .
+The reverse oligonucleotide of the PCR generating the AB fragment and the forward oligonucleotide generating the CD fragment were complementary to allow PCR products AB and CD to anneal .
+One microliter of each purified PCR product was mixed , and a second PCR using external primers was performed to obtain a single fragment .
+The fusion product was purified and cloned in the pGEMT - Easy vector ( Promega ) .
+Once the construction was confirmed by sequencing , the fragment was cloned into the SphI and BamHI sites of plasmid pKO3blue , except for the fragments corresponding to the , , and changes , which were cloned into the BglII and NotI sites of pKO3Blue .
+The following steps consisting of pKO3blue : : AD integra - July 2012 Volume 194 Number 14 jb.asm.org 3709 Latasa et al. .
+coli ; Cm r 24 pXG - 10 : : csgD SL pXG - 10 derivative containing the 5 = - UTR csgD mRNA region from SL14028 ; Cm r This study p [ RprA ] pGEMT - Easy sRNA containing RprA from SL14028 ; Amp r This study pKO3blue Shuttle vector for homologous recombination ; Clo r 48 a The asterisks denote alleles of the igaA and rcsC genes with punctual mutations according to references 1 and 9 .
+tion and excision were performed in the same way as that that described above for the rcsD deletion .
+Amino acid replacements were tested by PCR using an external forward oligonucleotide ( ok.Fw ) and a reverse oligonucleotide whose 3 = extreme matches with the changed codon ( ok.Rv ) .
+RcsB labeling was carried out by the application of an epitope - tagging method described previously by Uzzau et al. ( 55 ) .
+Using plasmid pSUB11 as the template , a DNA module containing the 3 FLAG epitope and the kanamycin resistance marker was amplified by PCR with primers rcsB.Flag.Fw and rcsB.Flag.Rv ( Table 2 ) .
+The transformation of the wild - type ( wt ) and rcsC mutant strains expressing lambda red functions yielded recombinants carrying the rcsB gene fused to the 3 FLAG sequence .
+The resulting carboxy - terminally tagged RcsB protein was detected by Western blot analysis .
+Plasmid pKO3blue ( 48 ) was also used to tag the CsgD protein with the c - Myc epitope .
+For this construction , DNA fragments corresponding to the upstream ( fragment AB ) and downstream ( fragment CD ) regions of the c - Myc insertion site were amplified with oligonucleotide pairs specified in Table 2 ( primer AB.Rv contains the c - Myc sequence ) , using chromosomal DNA from S. Typhimurium strain 14028 as a template .
+Both fragments were cloned in the pGEMT - Easy vector ( Promega ) digested with SphI and XhoI in the case of the AB fragment and with XhoI and BamHI in the case of the CD fragment .
+The AD fragment was then subcloned into the pKO3blue vector digested with SphI and BamHI and confirmed by sequencing .
+The following steps consisting of pKO3blue : : AD integration and excision were performed in the same way as that described above for the rcsD deletion .
+The insertion of the c - Myc sequence was tested by PCR using an external forward oligonucleotide ( ok.Fw ) and a reverse oligonucleotide containing the c - Myc sequence ( ok.Rv ) .
+Construction of a CsgD : : green fluorescent protein ( GFP ) translational fusion .
+To construct pcsgD : : gfp , a fragment of the csgD gene from positions 143 up to 33 with respect to the ATG start codon was amplified by PCR using oligonucleotides csgD.UTR.Fw and csgD.UTR.Rv .
+Chromosomal DNA from S. Typhimurium strain 14028 served as a template .
+This DNA segment was subcloned into pGEMT - Easy and digested with NsiI and NheI for its insertion into pXG - 10 , as described previously ( 54 ) .
+Samples for Western analysis were prepared as follows .
+For obtaining whole bacterial lysates , cells were grown in LB medium under static conditions for 72 h at room temperature , and after the centrifugation of 1 ml of culture , cells were harvested , washed , and finally resuspended in 50 l of phosphate - buffered saline ( PBS ) .
+An equal volume of Laemmli sample buffer was added to each sample , and the cells were boiled at 100 °C for 5 min .
+Proteins were separated on SDS - polyacrylamide gels ( 10 % to 4.5 % ) and stained with Coomassie brilliant blue R250 ( 0.25 % ; Sigma ) .
+For Western blotting , proteins were transferred onto Hybond - ECL nitrocellulose membranes ( Amersham Biosciences ) by electroblotting .
+Probing was carried out with anti - FLAG or anti - c-Myc phosphatase alkaline - labeled antibodies ( Sigma ) diluted 1:500 for 90 min at room temperature .
+Bound ligands were detected by using the ECL Western blotting analysis system ( Amersham Biosciences ) .
+In vitro phosphorylation assays were performed as described previously ( 59 ) , with some modifications .
+Briefly , [ 32 P ] acetyl phosphate ( acP ) was synthesized with E. coli acetate kinase enzyme ( Sigma - Aldrich ) and [ - 32 P ] ATP ( 6,000 Ci mmol 1 ; Perkin - Elmer ) in a reaction mixture that contained 10 lof [ - 32 P ] ATP , 5 l of 10 triethanolamine buffer ( pH - 7.6 ) , 9 units of acetate kinase , and deionized water up to 50 l. Upon incubation at 25 °C for 2 h , the radioactive acP was separated from the enzyme by using a Microcon - 10 microconcentrator ( Millipore ) .
+Ten microliters of this eluate was then mixed with 2 g each of the RcsB , , and RR462 proteins and incubated for 30 min at 30 °C .
+The reaction was stopped by the addition of 2 SDS loading buffer to the mixture , and samples were charged and electrophoresed in a Criterion XT Bris - Tris 10 % gel ( Bio - Rad ) .
+Radioactivity was detected by direct exposition using high - performance autoradiography film ( GE Healthcare ) .
+In parallel , 2 g each of nonradioactive RcsB , , and RR462 was also subjected to electrophoresis , and protein lanes were further visualized with Coomassie stain for ensuring both size and equal quantities .
+Production and purification of RcsB and .
+The rcsB and coding sequence ( CDS ) DNA fragments were amplified from DNA extracted from S. Typhimurium 14028 and S. Typhimurium 14028 , respectively , with high - fidelity thermophilic DNA polymerase ( Dynazyme Ext ; Finnzymes ) , using primers rcsB.pet.Fw and rcsB.pet.Rv ( Table 2 ) .
+The resultant 650 - bp fragment was first cloned into the pGEMT - Easy vector ( Promega ) , digested with EcoRI and HindIII , and subcloned into pET - 28b ( ) ( Novagen ) .
+The resulting construct was verified by sequencing and introduced through electroporation into E. coli strain BL21 ( DE3 ) .
+Two hundred fifty milliliters of LB - medium supplemented with Km was inoculated with 2 ml of LB cultures of BL21 / pET28b : : rcsB and BL21/pET28b : : grown overnight .
+The cells were grown at 37 °C until they reached an OD 600 value of 0.5 .
+At this moment , the inductor molecule isopropyl - - D - thiogalactopyranoside ( IPTG ) was added at a concentration of 1 mM , and cell growth continued for 5 h under the same conditions .
+After centrifugation at 5,000 g ( 30 min ) , the pellet obtained was resuspended in 10 ml of Bug Buster HT ( Novagen ) and incubated for 20 min at room temperature .
+A new centrifugation step ( 16,000 g for 20 min ) was carried out in order to separate July 2012 Volume 194 Number 14 jb.asm.org 3711 Latasa et al. .
+ok.Fw CAGATCTTCTTCAGAAATAAGTTTTTGTTC csgD.rt.Fw GCAGGATAATTTAAGCCGCA csgD.rt.Rv TAATCCGCTGACCACGTGTTC csgD.UTR.Fw AGTTAAAAGTATTTTCGTAAATA csgD.UTR.Rv CCGGCTAGCGTGACCATGAATACTATGGACTT csgA csgA.rt.Fw CAAACGATGCCCGTAAATC csgA.rt.Rv TTTAGCGTTCCACTGGTCGA gyrB gyrB.rt.Fw CGGTAGTCAACGCTCTGTC gyrB.rt.Rv GGCCAGAAACGTACCATCGT rprA rprA.Fw CATCTCATTTCTGTCGCAAAT rprA.Rv GACTTGAACAGAATCACACT rprANB CACACAGCAATTCGTTGTTTCACTCAGGG 5S RNA 5SNB CTACGGCGTTTCACTTCTGAGTTC the soluble fraction ( supernatant ) and inclusion bodies ( pellet ) .
+The soluble fraction was incubated on ice during 30 min in the presence of DNase and RNase ( 100 g/ml ; Gibco - BRL ) .
+The lysate was then filtered ( Filtropur S 0.45 ; Sarstedt ) , and the peptide was purified with Protino Ni - TED packed columns ( Macherey - Nagel ) according to the manufacturer 's instructions .
+Total RNA from bacterial cells grown under biofilm - forming conditions was obtained by a TRIzol reagent method previously described ( 52 ) .
+Each RNA sample was subjected to DNase I ( Invitrogen ) treatment for 30 min at 37 °C .
+The enzyme was inactivated at 65 °C in the presence of 0.25 mM EDTA during 10 min .
+RNA quality was assessed by using the Agilent 2100 Bioanalyzer .
+Twenty microliters of random primers ( 50 ng / l ; Invitrogen ) and 20 l of deoxynucleoside triphosphates ( dNTPs ) ( 10 mM mix ; Invitrogen ) were added to the samples containing 8 to 10 g of RNA in a volume of 100 l of diethyl pyrocarbonate ( DEPC ) water .
+After 5 min of incubation at 65 °C , samples were chilled on ice at least during 1 min , and a reverse transcription ( RT ) mix containing 44 lof5 first - strand buffer ( Invitrogen ) , 22 l of dithiothreitol ( DTT ) ( 0.1 M ; Invitrogen ) , 2 l of SuperScript III Retrotranscriptase ( 200 U / l ; Invitrogen ) , and 1 l of RNase Out ( 40 U / l ; Invitrogen ) was added to each preparation .
+cDNA was obtained after a cycle of 10 min at 25 °C , 50 min at 50 °C , and 5 min at 85 °C .
+After the tubes were chilled on ice , untranscribed RNA was eliminated by the addition of 1 l of RNase H ( 10 U / l ; Invitrogen ) and incubation for 20 min at 37 °C .
+All preparations were purified by using CentriSep spin columns ( Princeton separations ) .
+The cDNA quantity was measured , and the concentration was adjusted to 100 ng / l .
+One microliter of the cDNA samples was used for real - time semiquantitative PCR using SYBR green PCR master mix ( Applied Biosystems ) with the ABI Prism 7900 HT instrument ( Applied Biosystems ) .
+The PCR was performed under the following conditions : 95 °C for 20 s ( stage 1 ) , 40 cycles of 95 °C for 1 s and 60 °C for 20 s ( stage 2 ) , and a final dissociation stage at 95 °C for 15 s , 60 °C for 15 s , and 95 °C for 15 s .
+The appearance of a single curve with a melting temperature that coincided with that expected from the transcript was checked as an indicator of specificity and the absence of oligonucleotide dimers .
+Transcripts were amplified by using the primers described in Table 2 , and values were normalized to those of the housekeeping gene gyrB .
+The stable expression of gyrB observed for a constant amount of 100 ng of each cDNA sample was checked prior to the run of the definitive quantitative RT - PCR ( qRT - PCR ) plates .
+The RcsB - dependent flhD and spvA genes were used as previously validated controls ( see Fig .
+S1 in the supplemental material ) .
+The SDS2 .2.2 software package ( Applied Biosystems ) was used for data analysis , and in all cases , normalized values corresponding to the wild - type strain were used to calculate the relative expression ratio ( RER ) .
+The detection of the small RNA ( sRNA ) RprA by Northern blotting was performed as described previously ( 52 ) , with some modifications .
+RNA samples ( 5 to 10 g ) were loaded in duplicate into a 5 % precast urea - acrylamide gel ( Bio - Rad ) and electrophoresed at 100 V for 60 min in 1 Tris - borate - EDTA ( TBE ) buffer .
+After electrophoresis , the gel was electroblotted overnight onto a Nytran membrane ( 0.2 - m pore size ; Sigma ) at 4 °C and 250 mA .
+The RNA was UV cross - linked to the membrane by using the UV Stratalinker 1800 instrument ( Stratagene ) according to the manufacturer 's specifications .
+Prehybridization was performed with ULTRAhyb solution ( Ambion ) .
+RprA and 5S small RNAs were developed by using 32 P - 5 = - end - labeled oligonucleotides rprANB and 5SNB ( Table 2 ) , respectively , which were labeled by the use of T4 polynucleotide kinase ( New England BioLabs ) .
+The hybridization step was carried out at 39 °C during 16 h. Following two washes with 2 SSC ( 1 SSC is 0.15 M NaCl plus 0.015 M sodium citrate ) containing 0.1 % SDS for 10 min at 39 °C , blots were washed twice with 2 SSC for 5 min at room temperature .
+Finally , blots were exposed for autoradiography with Hyperfilm MP ( GE Healthcare ) .
+RESULTS Deletions of rcsC and rcsB have different effects on Salmonella biofilm formation capacity .
+Previous studies have shown that the July 2012 Volume 194 Number 14 jb.asm.org 3713 Latasa et al. .
+A SL14028 ∆ rcsC ∆ rcsD ∆ rcsA ∆ rcsB ∆ rcsCB B SL14028 ∆ rcsB [ pIZ1589 ] LB CR FIG 1 Biofilm phenotypes of S. Typhimurium 14028 and rcs mutants .
+( A ) Pellicle formation capacity in LB - medium at room temperature and morphotype on Congo red ( CR ) agar displayed by wild - type S. Typhimurium strain 14028 and its rcsC , rcsD , rcsA , and rcsB mutant derivatives .
+( B ) The same phenotypes displayed by the rcsB mutant strain complemented with an rcsB wild - type allele expressed in trans .
+Rcs phosphorelay pathway predominantly regulates genes involved in the production of cell surface - associated structures such as exopolysaccharides , fimbriae , lipopolysaccharide , and flagella .
+Since some of these compounds are necessary to build the Salmonella biofilm matrix , we were thus interested in studying the contribution of the RcsCDB phosphorelay pathway to biofilm development .
+For that , we constructed deletion mutations of each of the genes encoding components of the Rcs phosphorelay pathway , the sensor histidine kinase RcsC , the phosphotransfer protein RcsD , the response regulator RcsB , and the auxiliary protein RcsA , in S. Typhimurium strain 14028 , generating the 14028 rcsC , 14028 rcsD , 14028 rcsB , and 14028 rcsA strains .
+We confirmed the capacity of our deletion mutants to interfere with an active RcsCDB phosphorelay system by introducing each mutation into an S. Typhimurium 14028 strain harboring a punctual mutation in igaA ( igaA1 ) , which provokes the constitutive activation of the RcsCDB pathway ( 1 ) .
+As expected , the resultant igaA1 rcsC , igaA1 rcsB , and igaA1 rcsA strains lost the mucoid phenotype characteristic of an active Rcs phosphorelay pathway , indicating that RcsCDB phosphorelay was impeded in each individual mutant ( data not shown ) .
+We then tested several phenotypes associated with Salmonella multicellular behavior , such as the RDAR ( red , dry , and rough ) morphotype , with Congo red agar plates , which reflects the coexpression of curli fimbriae and cellulose and pellicle development at the air - broth interface in LB - medium , which requires the production of cellulose , curli fimbriae , and the surface protein BapA .
+The results revealed that the S. Typhimurium 14028 rcsC , 14028 rcsD , and 14028 rcsA strains displayed biofilm phenotypes similar to those of the wild - type strain , characterized by an RDAR morphotype on Congo red agar plates and a thick pellicle in LB - medium ( Fig. 1A ) .
+On the contrary , the rcsB - defective strain showed a smooth - colony morphology on Congo red agar plates and lost the capacity to develop the pellicle at the air - liquid interface in LB - medium ( Fig. 1A ) .
+As the mutations of rcsC and rcsB produced different effects , we constructed a strain lacking both the histidine kinase and the response regulator , referred to as 14028 rcsBC .
+The negative multicellular behavior displayed by the rcsBC double mutant strain confirmed the dominance of the effect caused by the absence of rcsB .
+The complementation of the 14028 rcsB and 14028 rcsBC strains with a wild - type RcsB gene restored normal biofilm phenotypes and ruled out possible pleiotropic effects ( Fig. 1B ) .
+To confirm that the phenotypes displayed by the mutants did not depend on the strain genetic background , deletions were transferred to S. Enteritidis clinical isolate 3934 by P22 transduction , generating the S. Enteritidis 3934 rcsC , S. Enteritidis 3934 rcsB , and S. Enteritidis 3934 rcsA strains .
+All mutants behaved the same way as the S. Typhimurium 14028 mutants , supporting the requirement for RcsB in the Salmonella biofilm formation process ( data not shown ) .
+In summary , these results reveal that depending on the member of the Rcs system that is deleted , the consequences on the capacity of Salmonella to develop a biofilm are different .
+Thus , the absence of RcsB impairs biofilm formation phenotypes , whereas the absence of other components of the phosphorelay pathway , such as RcsC , RcsD , and RcsA , correlates with normal biofilm phenotypes .
+Indeed , mutations of RcsC and RcsD seemed to strengthen this multicellular behavior .
+Inactivation of the Rcs phosphorelay pathway promotes biofilm development .
+To investigate the reasons why the deletions of RcsC and RcsB have different consequences on the capacity for biofilm formation , we first excluded the possibility that RcsB levels might be altered in the absence of RcsC .
+To test this hypothesis , the RcsB protein was tagged with the 3 FLAG epitope , and its synthesis was monitored by Western blotting .
+We found no significant differences in RcsB protein levels between S. Typhimurium 14028 and 14028 rcsC ( Fig. 2A ) .
+We next examined whether the transfer of the phosphoryl group from RcsC and RcsD to RcsB could play a role in the regulation of biofilm development .
+To experimentally determine the contribution of the phosphorelay pathway , we generated two different strains harboring chromosomal H479A ( strain 14028 ) and D875A ( strain 14028 ) substitutions in RcsC transmitter and receiver domains , respectively ( 5 , 51 ) .
+The first amino - acid change impairs the autophosphorylation of the RcsC protein , while the substitution of the aspartic residue impairs the translocation of the phosphoryl group to RcsD .
+We also tested a third strain with a single - amino - acid substitution in H841R of RcsD , which renders a protein unable to receive the phosphoryl group from RcsC and to consequently transfer it to RcsB ( Fig. 2B ) .
+An analysis of the biofilm formation capacities of these strains revealed that the 14028 , 14028 , and 14028 strains assembled a thick pellicle at the LB interface and displayed an RDAR morphotype on Congo red agar plates similar to that shown by the wild - type strain ( Fig. 2C ) .
+Together , these results indicate that RcsB does not require active phosphorelay to induce biofilm development .
+The multicellular behavior shown by the 3714 jb.asm.org Journal of Bacteriology Activation of Salmonella Biofilm Development FIG 2 Change of phosphorylatable residues in the Rcs pathway .
+( A ) Western blot analysis of RcsB expression in S. Typhimurium wild - type strain 14028 and the 14028 rcsC mutant .
+Samples for protein analysis were taken after 72 h of incubation under LB - medium biofilm - forming conditions .
+( B ) Schematic diagram showing the Rcs transduction signal .
+The residues involved in phosphate transfer from the RcsC kinase via RcsD to the response regulator RcsB and the changes undertaken are indicated .
+The possibility of RcsB phosphorylation via acetyl phosphate is also shown .
+P , phosphoryl group ; RD , receptor domain ; TD , transmitter domain .
+Shown is the pellicle formation capacity in LB - medium at room temperature and colony morphology on Congo red agar plates of S. Typhimurium wild - type strain 14028 and the 14028 , 14028 , and 14028 strains .
+( D ) Pellicle formation capacity in LB - medium at room temperature and colony morphology on Congo red agar plates of the S. Typhimurium 14028 strain .
+strains defective in phosphorelay , namely , 14028 rcsC , 14028 rcsD , 14028 , 14028 , and 14028 , whose pool of RcsB is supposed to be mostly unphosphorylated , was consistent with a positive effect of the unphosphorylated isoform of RcsB on biofilm development .
+To test this , a strain harboring a mutation in rcsB that replaced the aspartic residue with a nonphosphorylatable glutamic residue was constructed .
+This strain was referred to as 14028 .
+In order to discard the possibility that could be phosphorylated in any other residue and to confirm its permanent unphosphorylated status , we tested the capacities of both the RcsB protein and the variant protein to bind radioactive acetyl phosphate in - vitro .
+To do so , purified RcsB and , together with the positive - control protein RR462 from Thermotoga maritima ( 2 ) , were incubated in the presence of radioactive acetyl phosphate .
+As shown in Fig. 3 , the presence of a signal with a molecular weight coinciding with that of RcsB in the case of the wild - type protein and its absence in the case of strongly suggested that the allele could not be phosphorylated .
+The analysis of the biofilm phenotypes displayed by 14028 revealed that this RcsB isoform led to the formation of a thick pellicle in LB - medium and RDAR colonies on Congo red plates ( Fig. 2D ) .
+These phenotypes were comparable to those displayed by the strains defective in the phosphorelay pathway , indicating that the accumulation of unphosphorylated RcsB induces biofilm development .
+Constitutive activation of the Rcs phosphorelay pathway inhibits biofilm formation .
+Taking advantage of previous studies that identified single point mutations in RcsC that result in the constitutive activation of the Rcs phosphorelay pathway ( 16 ) , we next investigated the role of phosphorylated RcsB in the regula - FIG 3 Phosphorylation of RcsB and in - vitro .
+( A ) Autoradiogram of RcsB and electrophoresed upon incubation with radioactive acetyl phosphate ( see Materials and Methods ) is shown .
+The exposition was prolonged for up to 24 h .
+As a technical control for in - vitro phosphorylation , an autoradiogram of RR468 phosphorylated under the same conditions is included .
+( B ) Coomassie staining following parallel nonradioactive electrophoresis for ensuring equal protein amounts and appropriate molecular masses is also shown .
+July 2012 Volume 194 Number 14 jb.asm.org 3715 Latasa et al. .
+FIG 4 Effects of the constitutive activation of the Rcs pathway .
+( A ) Schematic diagram representing the constitutive activation of the Rcs pathway .
+The residues involved in the transfer of phosphoryl groups from the RcsC kinase via RcsD to the response regulator RcsB and the T903A mutation in the receiver domain of RcsC that renders a constitutive activation state are indicated .
+( B ) Western blot analysis of RcsB expression .
+Samples for protein analysis were taken after 72 h of growth under biofilm - forming conditions in LB - medium .
+Shown are pellicle formation capacities in LB - medium at room temperature and colony morphologies on Congo red agar plates of the S. Typhimurium 14028 RcsC * , 14028 RcsC * wcaA , and 14028 RcsC * strains .
+tion of biofilm matrix development .
+For this , we analyzed the multicellular behavior of a strain that harbors a constitutively active RcsC allele due to a single - amino - acid change ( T903A ) in the receiver domain which inhibits RcsC phosphatase activity ( Fig. 4A ) ( 16 ) .
+This strain is referred to as 14028 RcsC * .
+The S. Typhimurium 14028 RcsC * strain produced RcsB protein levels similar to those produced by the wild - type strain , indicating that RcsB synthesis is not affected by the constitutive activation of RcsC ( Fig. 4B ) .
+S. Typhimurium 14028 RcsC * displayed a mucoid phenotype on solid media such as Congo red agar plates , consistent with the constitutive activation of the Rcs phosphorelay pathway and , thus , colanic acid capsule overproduction .
+This constitutive activation of the system led to an impairment in the building of a biofilm at the air - liquid interface in LB - medium ( Fig. 4C ) .
+Since large amounts of colanic acid could impair cell - to - cell interactions between adhesins ( 22 ) , we aimed to discard the overproduction of the capsule itself as the major cause of the negatively affected matrix formation .
+To do so , the gene involved in colanic acid biosynthesis , wcaA , was deleted in the 14028 RcsC * strain .
+The resulting 14028 RcsC * wcaA strain remained unable to develop a biofilm and displayed morphotypes similar to that of the 14028 RcsC * strain , indicating that the overproduction of colanic acid was not responsible for the biofilm deficiency caused by the constitutive activation of RcsC ( Fig. 4C ) .
+Finally , we aimed to check if the introduction of a nonphosphorylatable isoform of RcsB could counteract the negative effects of the constitutive activation of RcsC .
+For this , we performed a chromosomal substitution in the 14028 RcsC * strain .
+Confirming our supposition , the resulting strain , 14028 RcsC * , regained the ability to synthesize the pellicle in LB - medium to produce RDAR colonies on Congo red agar plates in a way indistinguishable from that shown by the wild - type strain ( Fig. 4C ) .
+These results indicate that RcsB can regulate different processes depending on its phosphorylation status .
+Thus , the phosphorylated RcsB allele induces the synthesis of the colanic acid capsule , whereas unphosphorylated RcsB is necessary for the synthesis of biofilm matrix compounds .
+RcsBC regulate the expression of the master regulator CsgD .
+CsgD represents the checkpoint of biofilm formation under inducing conditions , given that it governs the syntheses of curli , cellulose , and BapA ( 29 , 41 , 60 ) .
+We thus found it conceivable to test whether RcsCDB phosphorelay could somehow be affecting the expression of csgD .
+First , we verified that the thick matrix formed by the strain lacking RcsC was being synthesized via CsgD .
+To do this , we constructed an rcsC csgD double mutant strain .
+The resulting strain both was unable to develop the distinctive pellicle on LB agar and lost the RDAR phenotype on Congo red plates ( Fig. 5A ) .
+We then analyzed the expressions of csgD and its target gene csgA by quantitative reverse transcription in the wild type and its corresponding 14028 rcsB , 14028 rcsC , and 14028 csgD mutants .
+In comparison to the transcription levels shown by the wildtype strain , the levels of csgD mRNA , and subsequently of csgA , were dramatically decreased in the RcsB - defective strain , while they were slightly , although not significantly , increased in the absence of RcsC ( Fig. 5B ) .
+To further validate these results , we confirmed that the RcsCDB - regulated spvA and flhD genes displayed the expected expression pattern in our Rcs mutants ( see Fig .
+S1 in the supplemental material ) ( 1 , 14 , 34 ) .
+We then measured the transcription of csgD in strains harboring single point mutations that resulted in changes in the phosphorylation status of different members of the Rcs pathway .
+As shown in Fig. 5B , the mRNA profiles of csgD were in accordance with the phenotypes previously observed .
+Thus , the mRNA levels 3716 jb.asm.org Journal of Bacteriology Activation of Salmonella Biofilm Development FIG 5 Effects of Rcs phosphorelay on csgD expression .
+( A ) Colony morphology on Congo red agar plates of wild - type S. Typhimurium 14028 and the 14028 rcsC , 4028 csgD , and 14028 rcsC csgD strains .
+( B ) csgD expression in strains harboring rcsC and/or rcsB mutations as a result of a complete deletion or amino acid changes .
+The ratio of the expression level of csgD to that of the wild - type strain is shown .
+The expression level ratios of csgA in the 14028 rcsB , 14028 rcsC , 14028 RcsC * , 14028 RcsC * , and 14028 csgD strains to the that of wild - type strain are also included .
+The asterisk in rcsC denotes the T903A mutation , which leads to the constitutive activation of the phosphorelay pathway .
+( C ) Western blot analysis of CsgD in S. Typhimurium wild - type strain 14028 and the 14028 rcsB , 14028 rcsC , 14028 , 14028 RcsC * , and 14028 RcsC * strains .
+The band corresponding to a low - molecular - weight unspecific signal is shown as a loading control .
+of csgD were significantly higher in the strain harboring the unphosphorylatable RcsB isoform ( 14028 ) than those in the wild - type strain .
+Strains in which the Rcs phosphorelay pathway had been disrupted ( 14028 and 14028 ) showed a slight increase in csgD mRNA levels .
+It is important to notice that the effects on the amount of csgD mRNA were not as pronounced as in the case of the strain expressing unphosphorylatable RcsB , probably due to a residual degree of phosphorylation of RcsB proceeding from the acetyl phosphate cytoplasmic pool .
+On the other hand , csgD mRNA levels were significantly reduced in the strain where RcsC was constitutively active ( 14028 RcsC * ) , with these levels being restored to those in the wild - type background in the strain harboring unphosphorylatable RcsB ( 14028 RcsC * ) .
+To examine whether the changes in csgD mRNA levels correlated with CsgD protein levels , the CsgD protein was tagged with the c - Myc epitope in the different Rcs mutant strains , and its synthesis was monitored by Western blotting .
+The results revealed a strong correspondence between csgD mRNA levels and the amount of the CsgD protein ( Fig. 5C ) .
+Taken together , these results indicate that nonphosphorylated RcsB is required for the expression of CsgD and that , hence , CsgD is not expressed when RcsB is deleted or when RcsB is present mainly in its phosphorylated form .
+RprA , a small RNA induced by RcsCDB activation , negatively regulates CsgD .
+The consensus RcsB box sequence was identified and described to not be very reliable to infer the genes that may be regulated directly by RcsB ( 56 ) .
+Thus , even though we did not detect an RcsB binding site in the csgD intergenic region , where many other regulatory proteins actually bind ( 18 , 38 ) , and taking into account that unphosphorylated RcsB may recognize a different binding site , we aimed to determine whether unphosphorylated or phosphorylated RcsB could be regulating csgD transcription by means of direct binding to its promoter .
+To do so , we assayed the binding of the purified RcsB and proteins to a DNA fragment containing the csgD regulatory intergenic region , using acetyl phosphate as the potential phosphodonor molecule .
+Gel retardation assays failed to detect any interaction of the RcsB and proteins with the csgD promoter region , independently of the presence of acetyl phosphate ( data not shown ) .
+In view of this result , we decided to focus on the premise that the RcsB - mediated regulation of csgD transcription might be indirect .
+Very recent works have provided evidence that RprA binds to the 5 = - untranslated region ( UTR ) of csgD in E. coli and downregulates its translation by an antisense mechanism ( 27 , 35 ) .
+A target prediction program suggested a region located 100 nucleo - July 2012 Volume 194 Number 14 jb.asm.org 3717 Latasa et al. .
+FIG 6 Negative regulation of csgD by RprA .
+( A ) Northern blot analysis of RprA and 5S rRNA levels .
+Pellicle formation capacities in LB medium at room temperature and colony morphologies on Congo red agar plates of S. Typhimurium wild - type strain 14028 and the 14028 p [ RprA ] mutant are shown .
+( C ) Alignment of 5 = - UTR mRNA sequences of the E. coli and Salmonella csgD genes .
+RprA binding sites described previously for E. coli ( 27 , 35 ) and those predicted for Salmonella are highlighted by shading .
+SD denotes the Shine - Dalgarno sequence , and the ATG codon is underlined .
+( D ) Western blot analysis of CsgD in S. Typhimurium wild - type strain 14028 and the 14028 p [ RprA ] and 14028 RcsC * mutants .
+( E ) Western blot analysis of GFP in S. Typhimurium wild - type strain 14028 and the 14028 pcsgD : : gfp , 14028 pcsgD : : gfp p [ RprA ] , 14028 RcsC * pcsgD : : gpf , and 14028 pcsgD : : gpf mutants .
+tides upstream of the ATG translation initiation codon of CsgD that showed a high - scoring interaction value for the sequencerelated RprA sRNA .
+Interestingly , even though an alignment of the Salmonella and E. coli csgD 5 = - UTRs showed significant differences between both species ( Fig. 6D ) , the RprA binding site characterized for the E. coli orthologue gene was highly conserved ( 27 , 35 ) .
+Thus , we decided to explore the possibility that RcsB - mediated regulation could be brought about by the silencing of CsgD by RprA .
+As a starting point , we measured RprA levels by Northern blotting in our genetic backgrounds which lead to different phosphorylation levels of RcsB .
+As shown in Fig. 6A , the levels of RprA present in the cell were dependent strictly on the phosphorylation status of RcsB .
+Thus , on the one hand , the intensity of RprA decayed in the rcsC and strains , whose RcsB pools are mostly or totally unphosphorylated , but on the other hand , the constitutive activation of RcsC provoked an impressive overexpression of RprA , similar to that previously described for E. coli ( 32 ) .
+To further characterize the role of RprA , we overexpressed this small RNA in a wild - type genetic background in our aim to mimic the endogenous high RprA levels caused by Rcs activation .
+The resulting SL14028 p [ RprA ] strain was unable to synthesize the LB - medium - associated pellicle ( Fig. 6B ) .
+The latter result prompted us to consider whether RprA could be inhibiting csgD expression by an antisense - mediated mechanism .
+To test this hypothesis , we first tagged the chromosomal csgD gene with an N - terminal c - Myc epitope , and the resulting strain was transformed with a plasmid that overexpressed RprA .
+As shown in Fig. 6C , high RprA levels caused a strong reduction in the levels of CsgD , an effect which was also observed when RcsC was constitutively active .
+In addition , to explore the possibility that RprA could target csgD mRNA and impede its translation , we constructed a plasmidborne csgD : : gfp translational fusion between the 5 = - UTR of csgD and the GFP reporter gene ( 54 ) .
+The detection of GFP levels by Western blotting showed that the overexpression of RprA either by the constitutive activation of RcsC or by the production of RprA from a multicopy plasmid inhibits the expression of GFP .
+On the contrary , when the same construct was introduced into the strain harboring the chromosomal nonphosphorylatable RcsB isoform , an intense band with a molecular weight that coincided with GFP could be detected ( Fig. 6E ) .
+In conclusion , these results are evidence that the activation of the Rcs system leads to the overexpression of RprA , which contributes to the inhibition of CsgD expression at posttranscriptional level by an antisense - mediated mechanism exerted over the 5 = - UTR of csgD mRNA .
+DISCUSSION The Rcs phosphorelay cascade , one of the most deeply studied signaling pathways in bacteria , is known to be involved in E. coli biofilm formation by mediating the remodeling of the bacterial surface during - growth on a solid surface ( 11 ) .
+In this study , we have shown that RcsB inversely regulates the expression of CsgD , the master regulator of Salmonella biofilm development , depending on its phosphorylation status .
+Such a conclusion was initially raised by the at first sight contradictory effects of rcsC and rcsB mutations on the multicellular behavior of Salmonella .
+According to our results , the presence of RcsB was necessary for pellicle development , whereas RcsC was dispensable .
+To reconcile both phenotypes , we hypothesized that unphosphorylated RcsB might be required to induce biofilm development .
+In support of this hypothesis , we found the that interruption of the phosphorelay system at RcsC or RcsD levels acquired through the mutations , , and 3718 jb.asm.org Journal of Bacteriology Activation of Salmonella Biofilm Development enhanced the capacity of the bacteria to form a biofilm .
+On the contrary , single point mutations that provoke a constitutive activation of the phosphorelay pathway due to the loss of the RcsC phosphatase function made the bacteria incapable of showing aggregative communal behavior .
+From these results , we inferred that unphosphorylated RcsB was contributing to the positive regulation of biofilm development , whereas phosphorylated RcsB was inhibiting the process .
+However , by using this approach , we could not exclude that low levels of phosphorylated RcsB generated by phosphodonors such as acetyl phosphate might be sufficient to activate biofilm development in the absence of functional RcsC and RcsD proteins .
+To raise this point , we generated a strain producing a nonphosphorylatable allele .
+This strain was characterized by a very strong biofilm phenotype , undoubtedly demonstrating the capacity of unphosphorylated RcsB to activate biofilm formation .
+Furthermore , the insertion of the unphosphorylatable isoform of RcsB in the genome of the strain producing a constitutively active RcsC allele restored the biofilm formation capacity of this strain , indicating that the phosphorylation of RcsB has a negative effect on biofilm development .
+How does unphosphorylated RcsB regulate biofilm formation in Salmonella ?
+CsgD is the master regulator of the biofilm matrix compounds of Salmonella ( 29 , 43 , 47 , 49 , 60 ) , and it was therefore the first candidate through which RcsB might affect the synthesis of biofilm matrix compounds .
+In agreement with the biofilm phenotypes , the analysis of csgD mRNA and CsgD protein levels of the different mutant strains showed that the CsgD expression level decreases when the Rcs phosphorelay pathway is active or in the absence of rcsB .
+In contrast , CsgD was expressed at higher levels than in the wild - type strain when the phosphorelay pathway was impeded or in the strain producing the nonphosphorylatable variant of RcsB .
+The simplest explanation for these results is that unphosphorylated RcsB is required to activate CsgD expression .
+Evidences supporting a positive regulatory role for unphosphorylated RcsB , which was previously assumed to be inactive , were first provided by Mariscotti and Garcia - del Portillo ( 34 ) .
+Those authors revealed that the unphosphorylated RcsB isoform caused a more pronounced positive effect on spvA expression than the phosphorylated isoform , although both the phosphorylated and unphosphorylated RcsB isoforms were required to attain proper spvA expression .
+However , in the case of csgD , our study has shown that unphosphorylated RcsB itself is sufficient to induce an increase in csgD mRNA levels and , thus , CsgD levels .
+Consequently , the strain exclusively harboring a chromosomal variant displayed positive biofilm phenotypes under all conditions tested .
+In addition , since CsgD promotes the synthesis of c - di - GMP , these data indicate the existence of a link between Rcs and the c - di - GMP signaling network .
+Altogether , these results lead to a complex scenario where the Rcs phosphorelay pathway plays a key role in transmitting environmental signals to properly timed biofilm development in Salmonella .
+It is worth mentioning that the introduction of a nonphosphorylatable isoform of RcsB and , to a lesser extent , the deletion of RcsC led to the production of fluorescent colonies on calcofluor agar plates , even when a deletion of the bcs operon , responsible for the synthesis of cellulose , was undertaken ( data not shown ) .
+Since our previous results reported evidence of the existence of a second polysaccharide that is part of the S. Enteritidis biofilm matrix ( 49 ) , it seems plausible that unphosphorylated RcsB might also be contributing to the synthesis of this second exopolysaccharide .
+It was described previously that RprA synthesis is regulated by the RcsC/RcsB phosphorelay system in E. coli ( 30 ) .
+More recently , studies aimed at the discovery of novel sRNAs that target csgD mRNA in E. coli have provided evidence that RprA , together with McaS and GcvB , represses csgD translation via an antisense - mediated mechanism ( 27 , 35 ) .
+Given that prediction programs at the Freiburg RNA Tools website detected a potential binding of RprA to the 5 = - untranslated region of csgD mRNA in Salmonella that partially matches the RprA binding sequence described for E. coli and that RprA expression is induced when RcsC phosphorelay is active , we reasoned that biofilm inhibition in constitutive RcsC mutants of Salmonella could result from the repression of RprA over csgD .
+In support of this hypothesis , we found that phenotypes resulting from increases in the amount of RprA in a wild - type strain were indicative of a distorted multicellular behavior .
+The demonstration of antisense - RNA - driven translational attenuation was achieved both indirectly , using a tagged chromosomal version of CsgD , and directly , through a plasmid - borne csgD - gfp fusion .
+A curiousness of RprA - csgD regulation in Salmonella is the long distance between the target sequence and the ribosome binding site ( RBS ) of csgD , which would make steric interference with initiating ribosomes very unlikely ( 8 ) .
+The RcsB phosphorylation shift mediated by the dual kinase / phosphatase activity of RcsC was also proposed previously to be a key feature of the regulation of biofilm formation in E. coli ( 12 ) .
+However , the Rcs - dependent regulation of biofilm development in E. coli differs from that of S. Typhimurium , as the mutation of RcsB alone in E. coli has no effect on biofilm formation , while null and point mutations that impede RcsC activity result in a negative phenotype .
+This situation seems to be exactly the opposite of that found for Salmonella .
+One possible explanation for this is that the inactivation of rcsC might result in the accumulation of phosphorylated RcsB in E. coli ( 12 ) , whereas the same mutation might result in the accumulation of unphosphorylated RcsB in S. Typhimurium .
+We can envision at least two different mechanisms that could lead to this different outcome : first , the phosphatase activity of RcsC could prevail over the kinase activity in E. coli , while the opposite balance would take place in S. Typhimurium .
+Alternatively , RcsB might be prone to accepting phosphoryl groups from a higher number of phosphodonors in E. coli than in S. Typhimurium .
+Further studies and quantifications of the RcsB phosphorylation levels in - vivo in wild - type strains as well as in strains in the absence of RcsC will be necessary to confirm this hypothesis .
+As additional data supporting that the accumulation of phosphorylated RcsB is also the reason for the biofilm deficiency in E. coli , we confirm that the introduction of a nonphosphorylatable isoform of RcsB in an E. coli 55989 rcsC strain restored the capacity of the strain to create a biofilm matrix ( data not shown ) .
+In both bacteria , the displacement of the RcsB ratio to the phosphorylated isoform would trigger an excess amount of RprA , which silences csgD translation .
+The RprA proteins of E. coli and Salmonella show 100 % similarity , whereas the csgD 5 = - UTRs of both bacteria show significant differences .
+Moreover , the overexpression of RprA in E. coli does not reduce the level of a plasmid - borne GFP fusion that harbors the 5 = - UTR of csgD amplified from Salmonella and vice versa ( data not shown ) , suggesting that additional speciesspecific sRNAs or regulators might bind to the upstream element of csgD .
+In view of the differences between Rcs - mediated regulation in E. coli and that in S. Typhimurium , it seems that slight divergences at the Rcs phosphorelay level could represent key fea - July 2012 Volume 194 Number 14 jb.asm.org 3719 Latasa et al. .
+FIG 7 Model for the regulation of Salmonella biofilm formation by the Rcs phosphorelay pathway .
+In this model , when the Rcs system is off , the unphosphorylated form of RcsB induces the expression of CsgD .
+The ensuing CsgD induces the expressions of genes encoding curli fimbriae and the diguanylate cyclase AdrA .
+The accumulation of AdrA enhances the levels of the secondary messenger c - di - GMP , which activates the synthesis of cellulose and biases flagellar rotation toward the counterclockwise direction through binding to YcgR ( 37 ) .
+When the Rcs system is on , the levels of phosphorylated RcsB increase , leading to the repression of CsgD in a mechanism partially dependent on the small noncoding RNA RprA .
+Moreover , the flagellar master genes flhDC and some genes required for the intestinal phase of infection are repressed , whereas genes involved in the synthesis of the colanic acid capsule and factors required for persistent infection are upregulated .
+tures for supporting their different life - styles thanks to specialization in the coupling of environmental signals with multicellular behaviors .
+Unquestionably , protein phosphorylation is a fundamental strategy used for harmonizing a great diversity of stimuli and responses ( 57 ) .
+To date , it has generally been assumed that response regulators have two states , the inactive unphosphorylated form and the active phosphorylated state .
+In this way , the output response would depend on the activation of gene transcription by the phosphorylated response regulator or relief from the inhibitory effect exerted by the response regulator upon the acceptance of the phosphoryl group .
+Nonetheless , Dyer and Dahlquist ( 10 ) provided structural evidence of a new intermediate conformation of the unphosphorylated regulator CheY , which was still able to bind to a peptide of its effector target protein FliM .
+Furthermore , other studies have also highlighted the importance of the unphosphorylated isoforms of response regulators like DegU of Bacillus subtilis , which is required for competence development and binds to the promoter region of the master - regulator - encoding gene comK ( 46 ) , or CpdR of Caulobacter , whose unphosphorylated form is responsible for the activation and localization at the cell pole of ClpXP and therefore drives the cell cycle progression of this bacterium ( 26 ) .
+In S. Typhimurium , apart from the regulation exerted by unphosphorylated RcsB on the virulence - plasmid - harbored spvA gene ( 34 ) , a recent study proved that unphosphorylated CsgD regulates biofilm formation in S. Typhimurium , whereas the phosphorylation of CsgD negatively affects the function of this protein ( 59 ) .
+Since CsgD is an orphan response regulator , we find it conceivable that RcsC , apart from regulating CsgD expression , might also contribute to the phosphorylation of CsgD , thus making this protein less stable .
+Altogether , our results agree with a model in which RcsB would inversely regulate the production of important cell surface - associated structures in a phosphorylation - dependent manner ( Fig. 7 ) .
+In Salmonella , under environmental conditions where the Rcs system is off , RcsB would be mainly unphosphorylated , and it would induce CsgD expression .
+CsgD would then activate the synthesis of AdrA , curli fimbriae , and the Bap surface protein .
+AdrA , one of the most active c - di - GMP cyclases of S. Typhimurium , would subsequently elevate c - di - GMP levels , which would switch on cellulose synthesis through binding to BcsA and would brake flagellum motility upon binding to YcgR ( 37 , 44 ) .
+Under environmental conditions where Rcs is on , the accumulation of phosphorylated RcsB would lead to an increase in levels of RprA and a decrease in CsgD expression levels , and the ensuing decrease in c - di - GMP levels would lead to the inhibition of cellulose , fimbria , and Bap production .
+At the same time , phosphorylated RcsB would induce genes required for colanic acid capsule synthesis 3720 jb.asm.org Journal of Bacteriology Activation of Salmonella Biofilm Development and persistent infection and would repress the synthesis of flagella and genes involved in the first stages of infection .
+In a more general sense , our results anticipate that response regulators with regulatory activities in both the phosphorylated and unphosphorylated states will be more common than has hitherto been imagined , opening a novel perspective on the regulatory capacities of these proteins .
+We express our gratitude to Josep Casadesus for providing us the S. Typhimurium 14028 RcsC * and S. Typhimurium 14028 strains .
+Gerhart H. Wagner and Jörge Vogel kindly provided plasmid pCsgD : : GFP and the pXG plasmids .
+We also thank Alberto Marina for supplying RR468 to us and for the advice on acetyl phosphate binding assays .
+and J.V. were supported by Ramón y Cajal contracts from the Ministerio de Ciencia e Innovación , Spain .
+This research was supported by grants BIO2008 - 05284 - C02 - 01 and BIO2010 - 18885 from the Spanish Ministerio de Ciencia e Innovación and IIM13329.RI1 from the Gobierno de Navarra ( Spain ) .
+Cano DA , Dominguez - Bernal G , Tierrez A , Garcia - Del Portillo F , Casadesus J. 2002 .
+Regulation of capsule synthesis and cell motility in Salmonella enterica by the essential gene igaA .
+Casino P , Rubio V , Marina A. 2009 .
+Structural insight into partner specificity and phosphoryl transfer in two - component signal transduction .
+The Rcs phosphorelay : more than just a two - component pathway .
+Clarke DJ , Holland IB , Jacq A. 1997 .
+Point mutations in the transmembrane domain of DjlA , a membrane - linked DnaJ - like protein , abolish its function in promoting colanic acid production via the Rcs signal transduction pathway .
+Clarke DJ , Joyce SA , Toutain CM , Jacq A , Holland IB .
+Genetic analysis of the RcsC sensor kinase from Escherichia coli K - 12 .
+Da Re S , Ghigo JM .
+A CsgD - independent pathway for cellulose production and biofilm formation in Escherichia coli .
+Darfeuille F , Unoson C , Vogel J , Wagner EG .
+An antisense RNA inhibits translation by competing with standby ribosomes .
+Dominguez - Bernal G , et al. 2004 .
+Repression of the RcsC - YojN - RcsB phosphorelay by the IgaA protein is a requisite for Salmonella virulence .
+Dyer CM , Dahlquist FW .
+The structure of unphosphorylated CheY bound to the N terminus of FliM .
+Ferrieres L , Clarke DJ .
+The RcsC sensor kinase is required for normal biofilm formation in Escherichia coli K - 12 and controls the expression of a regulon in response to growth on a solid surface .
+Ferrieres L , Thompson A , Clarke DJ .
+Elevated levels of sigma S inhibit biofilm formation in Escherichia coli : a role for the Rcs phosphorelay .
+Fields PI , Swanson RV , Haidaris CG , Heffron F. 1986 .
+Mutants of Salmonella typhimurium that can not survive within the macrophage are avirulent .
+Francez - Charlot A , et al. 2003 .
+RcsCDB His - Asp phosphorelay system negatively regulates the flhDC operon in Escherichia coli .
+Garcia B , et al. 2004 .
+Role of the GGDEF protein family in Salmonella cellulose biosynthesis and biofilm formation .
+Garcia - Calderon CB , Garcia - Quintanilla M , Casadesus J , Ramos - Morales F. 2005 .
+Virulence attenuation in Salmonella enterica rcsC mutants with constitutive activation of the Rcs system .
+Garzon A , Beuzon CR , Mahan MJ , Casadesus J. 1996 .
+recB recJ mutants of Salmonella typhimurium are deficient in transductional recombination , DNA repair and plasmid maintenance .
+Gerstel U , Romling U. 2003 .
+The csgD promoter , a control unit for biofilm formation in Salmonella typhimurium .
+Gerstel U , Romling U. 2001 .
+Oxygen tension and nutrient - starvation are major signals that regulate agfD promoter activity and expression of the multicellular morphotype in Salmonella typhimurium .
+Gottesman S , Trisler P , Torres - Cabassa A. 1985 .
+Regulation of capsular polysaccharide synthesis in Escherichia coli K - 12 : characterization of three regulatory genes .
+Hammar M , Arnqvist A , Bian Z , Olsen A , Normark S. 1995 .
+Expression of two csg operons is required for production of fibronectin - and Congo red - binding curli polymers in Escherichia coli K - 12 .
+Hanna A , Berg M , Stout V , Razatos A. 2003 .
+Role of capsular colanic acid in adhesion of uropathogenic Escherichia coli .
+Haraga A , Ohlson MB , Miller SI .
+Salmonellae interplay with host cells .
+Holmqvist E , et al. 2010 .
+Two antisense RNAs target the transcriptional regulator CsgD to inhibit curli synthesis .
+Huang YH , Ferrieres L , Clarke DJ .
+The role of the Rcs phosphorelay in Enterobacteriaceae .
+Iniesta AA , Shapiro L. 2008 .
+A bacterial control circuit integrates polar localization and proteolysis of key regulatory proteins with a phosphosignaling cascade .
+Jorgensen MG , et al. 2012 .
+Small regulatory RNAs control the multicellular adhesive lifestyle of Escherichia coli .
+Kader A , Simm R , Gerstel U , Morr M , Romling U. 2006 .
+Hierarchical involvement of various GGDEF domain proteins in rdar morphotype development of Salmonella enterica serovar Typhimurium .
+Latasa C , et al. 2005 .
+BapA , a large secreted protein required for biofilm formation and host colonization of Salmonella enterica serovar Enteritidis .
+Majdalani N , Chen S , Murrow J , St John K , Gottesman S. 2001 .
+Regulation of RpoS by a novel small RNA : the characterization of RprA .
+Majdalani N , Gottesman S. 2005 .
+The Rcs phosphorelay : a complex signal transduction system .
+Majdalani N , Hernandez D , Gottesman S. 2002 .
+Regulation and mode of action of the second small RNA activator of RpoS translation , RprA .
+Maloy SR , Nunn WD .
+Selection for loss of tetracycline resistance by Escherichia coli .
+Mariscotti JF , Garcia - del Portillo F. 2009 .
+Genome expression analyses revealing the modulation of the Salmonella Rcs regulon by the attenuator IgaA .
+Mika F , et al. 2012 .
+Targeting of csgD by the small regulatory RNA RprA links stationary - phase , biofilm formation and cell envelope stress in Escherichia coli .
+Parker CT , et al. 1992 .
+Role of the rfaG and rfaP genes in determining the lipopolysaccharide core structure and cell surface properties of Escherichia coli K - 12 .
+Paul K , Nieto V , Carlquist WC , Blair DF , Harshey RM .
+The c - di - GMP binding protein YcgR controls flagellar motor direction and speed to affect chemotaxis by a `` backstop brake '' mechanism .
+Prigent - Combaret C , et al. 2001 .
+Complex regulatory network controls initial adhesion and biofilm formation in Escherichia coli via regulation of the csgD gene .
+Prouty AM , Gunn JS .
+Comparative analysis of Salmonella enterica serovar Typhimurium biofilm formation on gallstones and on glass .
+Prouty AM , Schwesinger WH , Gunn JS .
+Biofilm formation and interaction with the surfaces of gallstones by Salmonella spp. .
+Romling U , Bian Z , Hammar M , Sierralta WD , Normark S. 1998 .
+Curli July 2012 Volume 194 Number 14 jb.asm.org 3721 Latasa et al. fibers are highly conserved between Salmonella typhimurium and Escherichia coli with respect to operon structure and regulation .
+Romling U , Rohde M , Olsen A , Normark S , Reinkoster J. 2000 .
+AgfD , the checkpoint of multicellular and aggregative behaviour in Salmonella typhimurium regulates at least two independent pathways .
+Romling U , Sierralta WD , Eriksson K , Normark S. 1998 .
+Multicellular and aggregative behaviour of Salmonella typhimurium strains is controlled by mutations in the agfD promoter .
+Ryjenkov DA , Simm R , Romling U , Gomelsky M. 2006 .
+The PilZ domain is a receptor for the second messenger c - di - GMP : the PilZ domain protein YcgR controls motility in enterobacteria .
+Phage P22 - mutants with increased or decreased transduction abilities .
+Shimane K , Ogura M. 2004 .
+Mutational analysis of the helix - turn - helix region of Bacillus subtilis response regulator DegU , and identification of cis - acting sequences for DegU in the aprE and comK promoters .
+Simm R , Morr M , Kader A , Nimtz M , Romling U. 2004 .
+GGDEF and EAL domains inversely regulate cyclic - di - GMP levels and transition from sessility to motility .
+Solano C , et al. 2009 .
+Genetic reductionist approach for dissecting individual roles of GGDEF proteins within the c - di - GMP signaling network in Salmonella .
+Solano C , et al. 2002 .
+Genetic analysis of Salmonella enteritidis biofilm formation : critical role of cellulose .
+Solano C , et al. 1998 .
+Discrimination of strains of Salmonella enteritidis with differing levels of virulence by an in - vitro glass adherence test .
+Takeda S , Fujisawa Y , Matsubara M , Aiba H , Mizuno T. 2001 .
+A novel feature of the multistep phosphorelay in Escherichia coli : a revised model of the RcsC ¡ YojN ¡ RcsB signalling pathway implicated in capsular synthesis and swarming behaviour .
+Toledo - Arana A , et al. 2009 .
+The Listeria transcriptional landscape from saprophytism to virulence .
+Urban JH , Papenfort K , Thomsen J , Schmitz RA , Vogel J. 2007 .
+A conserved small RNA promotes discoordinate expression of the glmUS operon mRNA to activate GlmS synthesis .
+Urban JH , Vogel J. 2007 .
+Translational control and target recognition by Escherichia coli small RNAs in - vivo .
+Uzzau S , Figueroa - Bossi N , Rubino S , Bossi L. 2001 .
+Epitope tagging of chromosomal genes in Salmonella .
+Wang Q , Zhao Y , McClelland M , Harshey RM .
+The RcsCDB signaling system and swarming motility in Salmonella enterica serovar Typhimurium : dual regulation of flagellar and SPI - 2 virulence genes .
+West AH , Stock AM .
+Histidine kinases and response regulator proteins in two - component signaling systems .
+Winfield MD , Groisman EA .
+Role of nonhost environments in the lifestyles of Salmonella and Escherichia coli .
+Zakikhany K , Harrington CR , Nimtz M , Hinton JC , Romling U. 2010 .
+Unphosphorylated CsgD controls biofilm formation in Salmonella enterica serovar Typhimurium .
+Zogaj X , Nimtz M , Rohde M , Bokranz W , Romling U. 2001 .
+The multicellular morphotypes of Salmonella typhimurium and Escherichia coli produce cellulose as the second component of the extracellular matrix .

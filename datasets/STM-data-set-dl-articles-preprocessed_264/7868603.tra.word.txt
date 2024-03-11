@@ -1,0 +1,291 @@
+JOURNAL OF BACTERIOLOGY , Mar. 1995 , p. 1285 -- 1291 Vol .
+177 , No. 5 0021 - 9193/95 / $ 04.00 0 Mutational Analysis of the Redox - Sensitive Transcriptional Regulator OxyR : Regions Important for DNA Binding and Multimerization INES KULLIK , † JENNIFER STEVENS , ‡ MICHEL B. TOLEDANO , § AND GISELA STORZ * Cell Biology and Metabolism Branch , National Institute of Child Health and Human Development , Bethesda , Maryland 20892 OxyR is a LysR - type transcriptional regulator which negatively regulates its own expression and positively regulates the expression of proteins important for the defense against hydrogen - peroxide in Eschericha coli and Salmonella typhimurium .
+Using random mutagenesis , we isolated six nonrepressing OxyR mutants that were impaired in DNA binding .
+Five of the mutations causing the DNA binding defect mapped near the N - terminal helix - turn - helix motif conserved among the LysR family members , confirming that this region is a DNA binding domain in OxyR .
+The sixth nonrepressing mutant ( with E - 225 changed to K [ E225K ] ) was found to be predominantly dimeric , in contrast to the tetrameric wild - type protein , suggesting that a C - terminal region defined by the E225K mutation is involved in multimerization .
+The Escherichia coli OxyR protein is a redox - sensitive transcriptional regulator which activates the expression of antioxidant defense genes under oxidizing conditions .
+During normal growth and upon oxidative - stress , OxyR also acts as a repressor and negatively autoregulates its own expression and the expression of the Mu phage mom gene ( 8 , 16 , 34 ) .
+OxyR specifically binds upstream of the promoters it regulates , but the seven natural binding sites which have been characterized only show limited homology ( 35 ) .
+Recent studies of 54 synthetic binding sites , however , allowed the definition of an oxidized - OxyR binding motif composed of four ATAGxt elements ( 37 ) .
+OxyR - DNase I footprints are long and cover 45 bp , and hydroxyl radical footprinting and interference assays showed that the oxidized OxyR protein binds to the four ATAGxt elements by contacting the DNA in four adjacent major grooves ( 37 ) .
+These footprinting assays also showed that OxyR binding is different under oxidizing and reducing conditions ( 32 , 37 ) .
+OxyR is a member of the family of LysR - type transcriptional regulators ( 8 , 16 , 33 , 39 ) .
+LysR family members are DNAbinding proteins which positively regulate expression of their target genes and often also negatively regulate their own expression ( reviewed in reference 28 ) .
+Sequence comparisons among LysR family members have shown that the region encompassing the 66 N - terminal amino - acids exhibits the greatest sequence identity and includes a helix - turn - helix ( HTH ) motif likely to be a DNA binding domain ( 28 ) .
+Mutations which map to the HTH region lead to a loss of DNA binding by Pseudomonas putida NahR ( 29 ) , Rhizobium leguminosarum NodD ( 11 ) , and other LysR - type proteins .
+Parts of the C - terminal domains of LysR - type proteins also seem to contribute to DNA binding , since several mutations in this region of P. putida NahR ( 29 ) and Citrobacter freundii AmpR ( 6 ) affect DNA binding .
+Health , Building 18T , Room 101 , Bethesda MD 20892 - 5430 .
+Electronic mail address : storz@helix.nih.gov .
+† Present address : Institut für Medizinische Mikrobiologie , Universität Zürich , CH - 8028 Zürich , Switzerland .
+‡ Present address : University of Virginia , Charlottesville , VA 22903 .
+§ Present address : Department of Pharmacology and Toxicology , Rutgers University College of Pharmacy , Piscataway , NJ 08855 - 1179 .
+Like OxyR , other LysR family members protect unusually long regions from DNase I digestion .
+The long binding sites suggest that the LysR proteins may be multimeric , and E. coli MetR ( 25 ) , Rhizobium meliloti NodD3 ( 17 ) , and Klebsiella aerogenes Nac ( 19 ) have been reported to be dimers , while NahR ( 29 ) , Pseudomonas aeruginosa TrpI ( 14 ) , and Salmonella typhimurium CysB ( 26 ) have been found to be tetramers .
+The regions involved in multimerization are not yet well defined ; however , some of the C - terminal mutations in NahR and also in AmpR are not negative trans dominant , suggesting that they might affect a multimerization domain ( 6 , 29 ) .
+In this study , we used random mutagenesis to define regions of the OxyR protein involved in DNA binding .
+We were able to show that the proposed HTH motif in OxyR is a DNA binding domain , since several mutations in this region led to impaired DNA binding of the mutant proteins .
+Moreover , we found that the oxidized and reduced forms of OxyR are predominantly tetrameric , while one binding mutant and one constitutively active mutant , described in the accompanying paper ( 21 ) , were dimeric , suggesting that the C - terminal region affected by these mutations is involved in tetramerization .
+MATERIALS AND METHODS Strains and plasmids .
+The strains and plasmids used in this study are described in Table 1 .
+The strain GSO7 was constructed as follows .
+The 0.2 - kb HindII - SspI fragment of pAQ17 carrying the oxyS and oxyR promoter region ( 16 ) was cloned into the unique SmaI site of pTS7 ( 1 ) to create the galK fusion .
+The plasmid was then recombined onto Y2055 ( cI857 galK nin5 ) and integrated into the att site of SA2692 .
+A oxyR : : kan deletion - insertion mutation was subsequently moved into the strain by P1 transduction ( 3 ) .
+The pACYC184 derivative pAQ5 used for the mutagenesis contains oxyR on a BamHI - EcoRV fragment ( 31 ) .
+A BamHI - HindIII fragment of these clones was moved into M13mp18 for sequencing .
+All sequencing and subcloning were carried out by standard procedures .
+Strains were grown in LB - medium ( 27 ) , and ampicillin ( 100 g/ml [ final concentration ] ) , kanamycin ( 25 g/ml ) , chloramphenicol ( 25 g/ml ) , or tetracycline ( 15 g/ml ) was added when appropriate .
+The resistance of strains to hydrogen - peroxide and cumene hydroperoxide was assayed by zones of inhibition , which were determined as described previously ( 15 ) except that the strains were grown in and plated on LB - medium containing the appropriate antibiotics .
+Approximately 10 g of purified pAQ5 plasmid DNA was randomly mutagenized with hydroxylamine as described in the accompanying paper ( 21 ) .
+The mutagenized DNA mixture ( 5 to 10 l ) was then used to transform E. coli XL1 - blue cells directly .
+The transformants were rinsed off the plates , and the plasmid DNA was isolated and used to transform the GSO7 recipient strain .
+E. coli strains and plasmids Strain or plasmid Relevant genotype or description Reference or source Strains XL1 - blue F [ proAB lacI q lacZ M15 Tn10 10 ( Tc r ) ] D1210 HB101/F [ lacI q ] 7 TA4484 oxyR 3 , pMC7 36 SA2692 HB101 recA lac gal - 165 1 GSO7 SA2692 oxyR : : kan ( Y2055 oxyRgalK ) This study GSO27 SA2692 ( Y2055 oxyR - galK ) This study 1 Plasmids pTS7 pBR322 int P P ; promoterless lacZ and galETK , Ap r pMC7 lacI q Tc r 12 pACYC184 Cm r Tc r 13 pKK177 - 3 P tac promoter , derivative of 9 pKK223 - 3 , Ap r pAQ5 oxyR wt a in pACYC184 , Cm r 31 pAQ25 oxyR wt in pKK177 - 3 with altered SD b sequence , Ap r 32 pGSO61 oxyR R4C in pACYC184 This study pGSO62 oxyR T31M in pACYC184 This study pGSO63 oxyR L32F in pACYC184 This study pGSO64 oxyR S33N in pACYC184 This study pGSO65 oxyR R50W in pACYC184 This study pGSO66 oxyR E225K in pACYC184 This study pGSO68 oxyR C199S in pKK177 - 3 21 pGSO69 oxyR A233V in pKK177 - 3 21 pGSO70 oxyR E225K in pKK177 - 3 21 a wt , wild type .
+Finally , the GSO7 transformants were screened for the desired phenotype on MacConkey agar plates .
+Cells were grown to an optical density at 600 nm of 0.4 , and then half of each sample was treated with hydrogen - peroxide ( 200 M final concentration ) for 10 min .
+Total RNA was isolated by using hot phenol , and 0.1 pmol of an end - labeled oxyS oligonucleotide ( 5 - GCAAAAGTTCACGT TGG ) was annealed to 3 g of total RNA as described previously ( 30 [ short protocol ] ) .
+The extension reaction was performed with Superscript reverse transcriptase from Gibco BRL ( Gaithersburg , Md. ) in the reaction buffer provided .
+The extension products were separated on an 8 % sequencing gel and were quantitated with a PhosphorImager ( Molecular Dynamics , Sunnyvale , Calif. ) .
+Proteins were separated on a sodium dodecyl sulfate -- 12 % polyacrylamide gel electrophoresis gel ( 22 ) and transferred to a nitrocellulose filter by electroblotting .
+The filter was then probed with a 1:10,000 dilution of antibodies to an OxyR -- - galactosidase fusion protein ( 32 ) .
+Bound antibody was visualized with rabbit aniserum by using the enhanced chemiluminescence Western blotting ( immunoblotting ) system from Amersham , Arlington Heights , Ill. .
+Binding reactions were carried out as described previously with 5,000 cpm of an end - labeled DNA fragment and either 1 to 10 ng of pure protein ( 21 ) or 1 to 2 l of the soluble fraction of a crude cell lysate ( 36 ) .
+For the mobility - shift assays , the binding reaction mixtures were loaded on a nondenaturing , low - ionic - strength , 8 % polyacrylamide gel ( 5 ) .
+To prepare the crude cell extract , the pellet from a 5 - ml overnight culture was sonicated in 800 l of 10 mM Tris buffer ( pH 8 ) containing 20 % glycerol .
+The insoluble fraction was then removed by centrifugation .
+The samples for the galactokinase assays were obtained as described previously ( 2 ) .
+The assays were carried out as described by Wilson and Hogness ( 40 ) .
+D - [ 1 - 14 C ] galactose ( 55 mCi/mmol ; 200 Ci/ml ) was obtained from Amersham , and the ion - exchange filter paper ( DE81 ) was obtained from Whatman ( Maidstone , England ) .
+About 1 to 2 mg of pure protein ( 21 ) mixed with standard proteins ( Bio - Rad , Richmond , Calif. ) in a 200 - l volume was applied to a Superose 12 gel filtration column ( Pharmacia , Piscataway , N.J. ) equilibrated with buffer Z ( 21 ) containing 0.3 M KCl .
+The proteins were eluted with the same buffer Z , and aliquots of the column fractions were analyzed by immunoblots .
+oxyR - galK transcriptional - fusion used to screen for OxyR nonrepressing mutants .
+OxyR bound to the oxyR - oxyS promoter region represses its own expression under both oxidizing and reducing conditions and activates oxyS transcription upon oxidation .
+RESULTS Screen for nonrepressing OxyR mutants .
+To characterize OxyR domains required for DNA binding , we chose to randomly mutagenize the entire oxyR gene and screen for mutants defective in DNA binding .
+To easily identify mutants , we constructed a transcriptional - fusion between the oxyR promoter and the galK reporter gene .
+When OxyR binds to this site at the overlapping oxyR and oxyS promoters ( Fig. 1 ) , OxyR represses the expression of the oxyR gene independent of the oxidative state of the protein .
+Under oxidizing conditions , OxyR also acts to induce expression of the divergently transcribed oxyS gene , which encodes a small , untranslated regulatory RNA ( 4 ) .
+Since binding of the OxyR protein to the DNA is assumed to be required for repression , mutant OxyR proteins which are not able to repress oxyR expression are likely to be DNAbinding mutants .
+The oxyR - galK fusion was integrated into the chromosome of E. coli SA2692 , and subsequently a oxyR : : kan deletion was moved into the strain by P1 transduction to generate GSO7 .
+Plasmids carrying the oxyR gene were mutagenized by hydroxylamine in - vitro and introduced into this background .
+The abilities of the different mutants to repress oxyR expression were monitored on MacConkey agar plates containing galactose as a carbon source .
+In GSO7 , wild - type OxyR repressed the expression of the oxyR - galK fusion , resulting in white colonies , while mutants that were unable to repress this fusion were detected as red colonies .
+More than 10 6 colonies were screened for nonrepressing mutants with the oxyR - galK fusion strain , and 32 candidates were isolated .
+Since a truncated or unstable form of OxyR would also lead to red colonies in GSO7 , we checked whether crude extracts of strains harboring the corresponding oxyR mutations expressed a full - length OxyR protein .
+Ten of the 32 candidates did not show any detectable OxyR protein in an immunoblot assay , and one of the candidates expressed a truncated protein .
+The other 21 candidates showed a full - length protein , and the expression of OxyR was elevated approximately 50 - fold compared with that in the wild - type strain ( see below ) , consistent with the observation that these mutants are unable to act as repressors of the oxyR promoter .
+The mutants were then tested for their sensitivities to hydrogen peroxide and cumene hydroperoxide in a growth inhibition assay .
+All showed a larger killing zone than the wild - type strain , indicating that they were more sensitive to the oxidants than the wild - type strain ( Table 2 ) .
+The increased sensitivity to oxidants , and also to peroxides presumed to be in the medium , most likely accounts for the impaired ability of the mutant strains to form single colonies .
+As observed for the oxyR : : kan strain , the single colonies grew only near heavy streaks of cells .
+Five nonrepressing mutations map near the HTH motif .
+To determine the locations and natures of the mutations , the mutant oxyR genes were sequenced entirely .
+Six different mutations , all causing single amino - acid changes , were found VOL .
+177 , 1995 OxyR DNA BINDING AND MULTIMERIZATION REGIONS 1287 Strain a TABLE 2 .
+Sensitivities of nonrepressing oxyR mutant strains to oxidants Codon exchange Zone of inhibition b ( mm ) with : 10 % H 2 O 2 4 % CHP Vector ( pACYC184 ) 35 23 Wild type 24 20 R4C CGT3TGT 41 34 T31M ACG3ATG 41 26 L32F CTT3TTT 33 25 S33N AGC3AAC 43 33 R50W CGG3TGG 32 21 E225K GAA3AAA 26 22 a All mutants had a nonrepressing phenotype with respect to their color on MacConkey agar plates .
+b Total diameter of the zone of inhibition caused by the addition of hydrogen peroxide ( H 2 O 2 ) and cumene hydroperoxide ( CHP ) .
+The values are averages from two separate assays .
+among the 21 nonrepressing candidates ( Table 2 ) .
+With one exception , all of the nonrepressing mutations were located in or within 15 amino - acids of the HTH motif of the OxyR protein presumed to be involved in DNA binding ( Fig. 2 ) .
+The region around the HTH motif displays the highest level of sequence similarity among LysR - type proteins , and amino - acid S - 33 is one of the most conserved amino - acids .
+We found that the mutant with a change of S - 33 to N ( S33N ) had a very severe mutant phenotype and was even more sensitive to hydrogen peroxide and cumene hydroperoxide than the oxyR : : kan strain .
+The mutations R4C and R50W also affect strongly conserved amino - acids .
+One mutation , E225K , is not located near the HTH motif , and the failure of this mutant to repress oxyR expression is thought to be due to a defect in multimerization of the protein ( see below ) .
+One nonrepressing mutant protein was sequenced even though immunoblot analysis revealed the protein to be slightly smaller than the wild - type OxyR protein .
+This mutant carried an amber mutation at position 283 and was not able to complement an oxyR deletion strain ( data not shown ) .
+Since a C - terminal deletion of only 22 amino - acids resulted in a nonrepressing phenotype , this region may be important for DNA binding and may contact the DNA , be required for multimerization , or be crucial for the appropriate folding of the protein .
+A previously described strain expressing OxyR with a deletion of only 11 C - terminal amino - acids showed a wild - type phenotype in the peroxide sensitivity assay , suggesting that this truncated protein is still able to bind DNA ( data not shown ) ( 16 ) .
+Nonrepressing mutants show decreased expression of defense genes .
+The ability of OxyR to bind DNA was assumed to be required for both repression and activation of transcription .
+Since all of the nonrepressing mutants exhibited increased sensitivity to oxidants , we examined whether the mutant proteins were impaired in activating transcription of defense genes in - vivo and whether the activity of the mutants would still be affected by oxidation .
+Total RNA was isolated from untreated and hydrogen - peroxide - treated cultures of strains expressing the different nonrepressing mutants .
+The levels of the OxyRactivated oxyS message were then determined by primer - extension assays ( Fig. 3 ) .
+As expected , some of the mutants ( T31M , S33N , and R50W ) showed no activation of oxyS .
+Three mutants ( R4C , L32F , and E225K ) , however , could still activate transcription under oxidizing conditions , although the abilities FIG. 2 .
+Protein sequence alignment of six LysR family members and locations of the OxyR mutations causing a nonrepressing phenotype .
+Residues that are identical in four of six sequences are in bold - face , and the bars mark the region of the HTH motif .
+The sequences were obtained from SWISS - PROT and GenBank ( E. coli OxyR [ OXYR ECOLI ] , E. coli CysB [ CYSB ECOLI ] , P. putida NarR [ NAHR PSEPU ] , R. meliloti NodD1 [ NOD1 RHIME ] , P. aeruginosa TrpI [ TRPI PSEAE ] , and Agrobacterium tumefaciens OccR [ TIPOCCR ] ) .
+The alignment was done with the Genetics Computer Group program PILEUP with default parameters .
+Primer extension assays of oxyS induction in nonrepressing OxyR mutants .
+Exponential - phase cultures expressing the indicated OxyR mutants were split , and half of each culture was treated with 200 M hydrogen - peroxide for 10 min .
+Total RNA was then isolated from the treated ( ) and untreated ( ) cells , and a labeled oligonucleotide capable of hybridizing to the oxyS transcript was incubated with 3 g of each RNA sample and extended with reverse transcriptase .
+of these mutants to induce oxyS expression were reduced to 5 to 15 % of the wild - type activity .
+The S33N mutant was also assayed for its effect on the expression of the OxyR - regulated ahpC and dps genes , but as with oxyS , no transcriptional activation was detected ( data not shown ) .
+DNA binding by nonrepressing mutants .
+We next examined the DNA binding properties of the nonrepressing mutants by DNase I footprinting and DNA mobility - shift assays .
+Extracts from strains carrying a chromosomal deletion of oxyR and either the wild - type or the mutant oxyR genes on pACYC184 were assayed for binding to an oxyR - oxyS promoter fragment .
+No DNase I footprint was observed for the nonrepressing FIG. 4 .
+( A ) Gel retardation assay of nonrepressing OxyR mutants binding to the oxyR - oxyS promoters .
+Equal aliquots ( 1 l ) of the extracts were incubated with a 100 - bp EcoRI - HindIII fragment of pGSO40 ( 37 ) labeled at the HindIII site .
+The bound and unbound fragments were then separated on a low - ionicstrength polyacrylamide gel .
+The filled and stippled arrows indicate two different protein - DNA complexes formed .
+( B ) Immunoblot of the extracts used in the gel retardation assay .
+Equal aliquots of the crude extracts were loaded in each lane .
+Gel retardation assay of purified wild - type ( wt ) and A233V and E225K mutant proteins .
+binding to the oxyR - oxyS promoter .
+Eight nanograms of the purified wild - type protein and 800 ng of the purified A233V and E225K mutant proteins were assayed .
+The filled and stippled arrows indicate the two different protein - DNA complexes observed .
+mutants ( Fig. 4 in reference 21 and data not shown ) .
+However , when DNA binding was assayed in a more sensitive gel - retardation experiment , two of the mutants ( L32F and E225K ) showed a retarded band ( Fig. 4A ) .
+The immunoblot in Fig. 4B shows that a full - length OxyR protein was present in all of the mutant extracts but that the mutant strains expressed higher levels of OxyR protein than the wild - type strain , in agreement with the nonrepressing phenotype of the mutants .
+Since equal amounts of total protein were assayed for all of the strains and the wild - type strain expressed significantly lower levels of OxyR , the relative binding affinity of the nonrepressing mutants is even lower than indicated by the intensity of the shifted band .
+The weak binding observed with mutants L32F and E225K correlates well with the weak transcriptional activity seen for these mutants in - vivo .
+Only mutant R4C did not show any detectable binding to DNA but could slightly activate oxyS expression .
+Interestingly , the E225K mutant led to a faster - migrating protein - DNA complex than the wild - type strain and mutant L32F .
+We had observed a similar faster - migrating complex in gel - retardation experiments with extracts of a strain expressing the constitutively active A233V mutant described in the accompanying paper ( 21 ) .
+To study the E225K and A233V proteins in - vitro , the nonrepressing and constitutively active mutants were overexpressed and purified ( 21 ) .
+When the gel retardation experiment was repeated with the pure proteins , it was obvious that both mutants showed protein - DNA complexes which had identical mobilities but migrated faster than the wild - type OxyR - DNA complex ( Fig. 5 ) .
+Both mutants also had significantly lower apparent affinities to the DNA than the wild - type protein , since a much larger amount of the protein ( about 100 - fold ) was needed to obtain a visible retarded band .
+The increased mobility of the mutant protein - DNA complexes was not a function of the elevated protein concentrations needed to see binding , since the mobility of the wild - type OxyR - DNA complex was not altered by higher concentrations of wild - type protein ( data not shown ) .
+Oligomerization states of wild - type OxyR and A233V , E225K , and C199S mutants .
+Since the altered mobility ob - VOL .
+177 , 1995 OxyR DNA BINDING AND MULTIMERIZATION REGIONS 1289 TABLE 3 .
+Galactokinase activities of oxyR wild - type ( GSO27 ) and oxyR : : kan deletion ( GSO7 ) strains encoding an oxyR - galK fusion and carrying the nonrepressing mutants on pACYC184 Protein oxyR strain galK activity ( U ) a oxyR : : kan strain Fold derepression b Vector 0.8 0.4 6.9 1.6 1 Wild type 0.6 0.1 0.5 0.5 0.8 R4C 5.7 1.7 5.7 1.0 7.1 T31M 6.9 0.4 6.8 0.7 8.6 L32F 4.3 1.1 5.7 0.1 5.4 S33N 5.2 1.7 5.7 0.2 6.5 R50W 4.1 1.5 7.8 1.2 5.1 E225K 1.1 0.8 3.5 0.2 1.4 a The units of galactokinase activity were calculated as described previously ( 40 ) .
+The average from two separate assays is given with the standard deviation .
+b The fold derepression was calculated by dividing the units of galK activity in the oxyR strains carrying the oxyR mutants by the units of activity in the oxyR strain carrying the vector ( 0.8 U ) .
+Gel filtration analysis of wild - type ( wt ) OxyR and A233V , E225K , and C199S mutants .
+The purified proteins were run on a Superose 12 column , and the fractions were analyzed by immunoblots .
+The numbers denote the fraction numbers .
+The elution positions of the peak fractions for the standard proteins gamma globulin ( 158 kDa ) , bovine serum albumin ( 67 kDa ) , and ovalbumin ( 44 kDa ) are indicated by the arrows .
+served with the A233K and E225K protein - DNA complexes could be due to a difference in oligomerization , we examined the properties of the purified wild - type and A233V and E225K mutant proteins on a gel filtration column .
+Previous crosslinking experiments suggested that OxyR is a dimer in solution ( 35 ) ; however , several observations about the OxyR binding sites , such as the twofold dyad symmetry of the OxyR binding motif and the contacts made by OxyR in four adjacent major grooves , suggested that OxyR may act as a tetramer ( 37 ) .
+The purified wild - type , A233V , and E225K mutant proteins were loaded on a Superose 12 gel filtration column , and the fractions were analyzed by immunoblots ( Fig. 6 ) .
+The wild - type protein eluted predominantly in fractions - 28 to 30 , with a peak between fractions - 28 and 29 .
+Assuming a globular conformation , this elution profile could correspond to a tetramer of the 34.4 - kDa OxyR protein ( 137.6 kDa ) .
+The A233V and E225K mutant proteins eluted in fractions 29 to 31 with a peak at fraction 30 , coinciding with the peak for the 67 - kDa standard protein and suggesting that the A233V and E225K proteins are dimers ( 68.8 kDa ) .
+These data are consistent with the observation that the A233V and E225K mutants led to a fastermigrating protein - DNA complex in the gel - retardation assay and may bind to DNA as dimers .
+Since wild - type OxyR purified in the absence of reducing agents is oxidized , we also examined the size of the wild - type protein when the sizing column was loaded and eluted in the presence of 100 mM dithiothreitol .
+The elution profile observed under reducing conditions was almost identical to the profile seen in the absence of dithiothreitol ( data not shown ) .
+We also examined the size of the noninducible C199S mutant , which appears to be locked in the reduced conformation ( 21 ) .
+The C199S protein eluted over a greater range of fractions than the wild - type protein , but much of the protein appears to be tetrameric .
+Therefore , since both oxidized and reduced wild - type OxyR can be described as tetramers and both the tetrameric wild - type protein and the dimeric E225K mutant are sensitive to oxidation , our results suggest that oxidation of the OxyR protein does not influence multimerization .
+trans dominance of nonrepressing mutants .
+Having observed that OxyR is oligomeric , we tested whether the nonrepressing mutant proteins exhibit a negative trans - dominant phenotype and could inhibit the activity of the wild - type protein by forming inactive heteromultimers in - vivo .
+We therefore transformed the plasmids encoding the nonrepressing mutants into a wild - type oxyR strain carrying the oxyR - galK fusion ( GSO27 ) and compared the levels of galK expression with that in the original oxyR : : kan deletion ( GSO7 ) background .
+As seen during the mutant screen , the vector - control strain and all of the nonrepressing mutants gave rise to red colonies in the oxyR : : kan background .
+In the oxyR background , the vectorcontrol strain gave white colonies since the chromosomally encoded OxyR protein could repress the oxyR - galK fusion .
+In contrast , the colonies for the R4C , T31M , L32F , S33N , and R50W mutants were red , showing that the chromosomally encoded wild - type protein could not repress the fusion in the presence of these mutants .
+The colonies for the oxyR strain carrying E225K , however , were white , suggesting that the wildtype protein can still act as a repressor in the presence of this mutant .
+We then assayed the levels of galactokinase activity in the oxyR and oxyR : : kan strains in a quantitative assay ( Table 3 ) .
+In the oxyR : : kan deletion background , as expected , all of the mutants had levels of galactokinase activity comparable to that of the vector - control strain .
+In the oxyR background , all mu - 1290 KULLIK ET AL. .
+tants except E225K had elevated levels of galactokinase activity and showed a nonrepressing phenotype .
+Therefore , the R4C , T31M , L32F , S33N , and R50W mutants are trans dominant and are able to `` poison '' the wild - type activity .
+The wild - type protein could still repress oxyR expression in the E225K mutant strain , suggesting that no mixed , inactive multimers are formed with E225K and revealing that this mutant is not trans dominant .
+This observation is consistent with our conclusion that the E225K mutation affects the multimerization of OxyR .
+DISCUSSION OxyR is a specific - DNA - binding protein which is able to activate as well as repress transcription of specific target genes .
+Here we used random mutagenesis to define regions of OxyR involved in DNA binding .
+We screened for mutants unable to repress an oxyR - galK fusion and identified six mutants which had elevated levels of oxyR - galK expression and exhibited decreased DNA binding in mobility - shift and DNase I footprinting assays .
+The decreased - binding mutants also showed increased sensitivity to oxidants and decreased expression of the OxyR - activated oxyS gene in - vivo , showing that OxyR - DNA binding is required for both activation and repression of the target genes .
+The HTH motif represents a DNA binding domain of OxyR .
+Five of the six mutations ( R4C , T31M , L32F , S33N , and R50W ) mapped within or near the HTH motif which is conserved among the LysR family members .
+The decreased - binding phenotype of the nonrepressing mutants is consistent with the conclusion that the HTH region ( residues 6 to 66 ) corresponds to the DNA binding domain in the LysR - type proteins ( 28 ) .
+The R4C , S33N , and R50W mutations in OxyR affect amino - acids that show a high degree of conservation among the LysR family members .
+Since many LysR family members bind to sequences that contain the very generic T - N 11 - A motif ( 18 ) , we propose that some of the highly conserved amino - acids contact these conserved base pairs , while contacts by less highly conserved amino - acids in the HTH domain provide specificity for the individual regulators .
+Future cross - linking experiments between the LysR - type proteins and the corresponding binding sites could test this hypothesis .
+For OxyR , a region near the C terminus may also be critical for binding , since a protein with 22 amino - acids truncated was not able to repress OxyR expression .
+A deletion of the C - terminal eight amino - acids of the NahR protein also results in a loss of DNA binding ( 29 ) .
+In contrast , the MetR protein tolerates substantial C - terminal deletions ( 38 ) , suggesting that the C terminus is critical for DNA binding by only a subclass of LysR family members .
+A C - terminal region of OxyR involved in tetramerization .
+One mutation ( E225K ) causing the nonrepressing phenotype did not map to the HTH motif but still caused decreased DNA binding .
+Since both the nonrepressing E225K mutant and the constitutively active A233V mutant led to faster - migrating protein - DNA complexes than wild - type OxyR in a gel - retardation assay , we examined the sizes of these mutant proteins on gel filtration columns .
+While the oxidized wild - type OxyR protein was primarily tetrameric in solution , the E225K and A233V mutants appeared to be dimeric .
+This observation indicates that the E225K and A233V mutants are defective in multimerization and that the amino - acids around positions 225 to 233 are directly or indirectly involved in tetramerization .
+Consistent with this interpretation , we found that the E225K mutant , unlike the other nonrepressing mutants , was not trans dominant .
+The purified E225K and A233V mutants are similar in their abilities to bind DNA and induce expression of oxyS in - vitro ( 21 ) ; however , several in - vivo characteristics of these mutants are distinct .
+Both mutant proteins show weak binding in - vitro , but E225K does not repress oxyR expression in - vivo , while A233V is an efficient repressor .
+The E225K protein was also only a weak activator of oxyS expression under oxidizing conditions in - vivo , while the A233V mutant was an extremely strong constitutive activator .
+Since the purified A233V protein had only a weak activity in - vitro compared with its strong activation activity in - vivo , it is likely that the A233V protein is modified during purification .
+Possibly some unknown conditions or factors present in intact cells act to stabilize the A233V mutant .
+Our observation that the oxidized wild - type OxyR protein is a tetramer is consistent with the previous finding that the OxyR protein binds to four adjacent major grooves of the DNA helix ( 37 ) .
+The twofold dyad symmetry of the OxyR binding motif ( ATAGxtxxxaxCTATxxxxxxxATAGxtxxxaxCTAT ) suggests that the tetrameric OxyR protein may exist as a dimer of dimers ( 37 ) .
+This would imply the presence of two multimerization domains in OxyR , one involved in dimerization and the other required for the tetramerization of two dimers .
+The E225K and A233V mutations could conceivably affect either the dimerization domain ( resulting in dimers via the tetramerization domain ) or the tetramerization domain ( resulting in dimers via the dimerization domain ) .
+We can not unambiguously distinguish between these possiblities , but we propose that the two OxyR mutations affect a putative tetramerization domain , since the C terminus seems to be dispensible for dimeric but not tetrameric LysR family members .
+We did not identify any mutations affecting the second multimerization domain .
+Possibly these mutations lead to an unstable form of the protein , or alternatively , the mutants are still trans dominant .
+The NahR , TrpI , and CysB members of the LysR family have also been shown to be tetramers in solution ( 14 , 26 , 29 ) , while other LysR proteins , such as MetR , NodD3 , and Nac , appear to be dimers ( 17 , 19 , 25 ) .
+The CysB protein has also recently been shown to bind DNA as a tetramer ( 20 ) .
+It is interesting that for OxyR and possibly for other tetrameric LysR family members , the C - terminal domain is critical for DNA binding and the protein binds to approximately 45 bp .
+In contrast , for dimeric MetR , the C terminus seems to be dispensable for DNA binding and the protein binds to approximately 25 bp ( reference 24 and references therein ; 38 ) .
+These differences suggest that there may be at least two different classes of LysR proteins , those which are able to bind and activate as dimers and others which are able to function only as tetramers .
+The finding that OxyR exists as a multimer raises the possibility that the oligomerization state of OxyR might be regulated as a function of oxidation and reduction , similar to the case for the oxygen - sensitive transcriptional regulator FNR ( 23 ) .
+We do not favor this mechanism for regulating the activity of OxyR , since the elution profile of wild - type OxyR under reducing conditions ( data not shown ) is identical to the elution profile of the oxidized protein .
+The inactive C199S mutant , which appears to be locked in the reduced state ( 21 ) and shows a protein - DNA shift similar to that with the oxidized wild - type protein ( data not shown ) , can also be described as a tetramer .
+In addition , the dimeric A233V mutant is constitutively active , and the dimeric E225K protein is still responsive to hydrogen peroxide in - vivo .
+Future studies of how the OxyR subunits are arranged , how the subunit contacts are changed upon oxidation , and how many subunits need to be oxidized in order to VOL .
+177 , 1995 OxyR DNA BINDING AND MULTIMERIZATION REGIONS 1291 induce transcription should give further insights into how the OxyR protein is activated by oxidation .
+We thank S. Adhya for strains and plasmids , S. Garges for assistance with the galactokinase assays , and S. Altuvia , S. Garges , R. Klausner , and C. Wu for helpful discussions and comments on the manuscript .
+I.K. was the recipient of fellowships from the Schweizerischen Nationalfonds and the Deutsche Forschungsgemeinschaft .
+Adhya , S. Unpublished data .
+Adhya , S. , and W. Miller .
+Modulation of the two promoters of the galactose operon of Escherichia coli .
+Altuvia , S. , M. Almirón , G. Huisman , R. Kolter , and G. Storz .
+The dps promoter is activated by OxyR during - growth and by IHF and s in stationary phase .
+Altuvia , S. , and G. Storz .
+Ausubel , F. M. , R. Brent , R. E. Kingston , D. D. Moore , J. G. Seidman , J. A. Smith , and K. Struhl .
+Current protocols in molecular biology .
+John Wiley and Sons , New York .
+Bartowsky , E. , and S. Normark .
+Purification and mutant analysis of Citrobacter freundii AmpR , the regulator for chromosomal AmpC - lactamase .
+Bolivar , F. , and K. Backman .
+Plasmids of Escherichia coli as cloning vectors .
+Bölker , M. , and R. Kahmann .
+The Escherichia coli regulatory protein OxyR discriminates between methylated and unmethylated states of the phage Mu mom promoter .
+Brosius , J. , and A. Holy .
+Regulation of ribosomal RNA promoters with a synthetic lac operator .
+Bullock , W. O. , J. M. Fernandez , and J. M. Short .
+XL1 - Blue : a high efficiency plasmid transforming recA Escherichia coli strain with beta - galactosidase selection .
+Burn , J. E. , W. D. Hamilton , J. C. Wootton , and A. W. B. Johnston .
+Single and multiple mutations affecting properties of the regulatory gene nodD of Rhizobium .
+DNA sequence for a low - level promoter of the lac repressor gene and an `` up '' promoter mutation .
+Chang , A. C. Y. , and S. N. Cohen .
+Construction and characterization of amplifiable multicopy DNA cloning vehicles derived from the P15A cryptic miniplasmid .
+Chang , M. , and I. P. Crawford .
+In vitro determination of the effect of indoleglycerol phosphate on the interaction of purified TrpI protein with its DNA - binding sites .
+Christman , M. F. , R. W. Morgan , F. S. Jacobson , and B. N. Ames .
+Positive control of a regulon for defenses against oxidative - stress and some heat - shock proteins in Salmonella typhimurium .
+Christman , M. F. , G. Storz , and B. N. Ames .
+OxyR , a positive regulator of hydrogen - peroxide - inducible genes in Escherichia coli and Salmonella typhimurium , is homologous to a family of bacterial regulatory proteins .
+Fisher , R. F. , and S. R. Long .
+Interactions of NodD at the nod - box : NodD binds to two distinct sites on the same face of the helix and induces a bend in the DNA .
+Goethals , K. , M. Van Montagu , and M. Holsters .
+Conserved motifs in a divergent nod box of Azorhizobium caulinodans ORS571 reveal a common structure in promoters regulated by LysR - type proteins .
+Goss , T. J. , and R. A. Bender .
+Hryniewicz , M. M. , and N. M. Kredich .
+Stoichiometry of binding of CysB to the cysJIH , cysK , and cysP promoter regions of Salmonella typhimurium .
+Kullik , I. , M. B. Toledano , L. A. Tartaglia , and G. Storz .
+Mutational analysis of the redox - sensitive transcriptional regulator OxyR : regions important for oxidation and transcriptional activation .
+Cleavage of structural proteins during the assembly of the head of bacteriophage T4 .
+Lazazzera , B. A. , D. M. Bates , and P. J. Kiley .
+The activity of the Escherichia coli transcription factor FNR is regulated by a change in oligomeric state .
+Mares , R. , M. L. Urbanowski , and G. V. Stauffer .
+Regulation of the Salmonella typhimurium metA gene by the MetR protein and homocysteine .
+Maxon , M. E. , J. Wigboldus , N. Brot , and H. Weissbach .
+Structurefunction studies on Escherichia coli MetR protein , a putative prokaryotic leucine zipper protein .
+Miller , B. , and N. M. Kredich .
+Purification of the cysB protein from Salmonella typhimurium .
+Experiments in molecular genetics .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 28 .
+Molecular biology of the LysR family of transcriptional regulators .
+Schell , M. A. , P. H. Brown , and S. Raju .
+Use of saturation mutagenesis to localize probable functional domains in the NahR protein , a LysR - type transcription activator .
+Storz , G. , and S. Altuvia .
+Storz , G. , M. F. Christman , H. Sies , and B. N. Ames .
+Spontaneous mutagenesis and oxidative damage to DNA in Salmonella typhimurium .
+Storz , G. , L. A. Tartaglia , and B. N. Ames .
+Transcriptional regulator of oxidative - stress - inducible genes : direct activation by oxidation .
+Tao , K. , K. Makino , S. Yonei , A. Nakata , and H. Shinagawa .
+Molecular cloning and nucleotide sequencing of oxyR , the positive regulatory gene of a regulon for an adaptive response to oxidative - stress in Escherichia coli : homologies between OxyR protein and a family of bacterial activator proteins .
+Tao , K. , K. Makino , S. Yonei , A. Nakata , and H. Shinagawa .
+Purification and characterization of the Escherichia coli OxyR protein , the positive regulator for a hydrogen - peroxide - inducible regulon .
+Tartaglia , L. A. , C. J. Gimeno , G. Storz , and B. N. Ames .
+Multidegenerate DNA recognition by the OxyR transcriptional regulator .
+Tartaglia , L. A. , G. Storz , and B. N. Ames .
+Identification and molecular analysis of oxyR - regulated promoters important for the bacterial adaptation to oxidative - stress .
+Toledano , M. B. , I. Kullik , F. Trinh , P. T. Baird , T. D. Schneider , and G. Storz .
+Redox - dependent shift of OxyR - DNA contacts along an extended DNA - binding site : a mechanism for differential promoter selection .
+Urbanowski , M. L. , and G. V. Stauffer .
+Warne , S. R. , J. M. Varley , G. J. Boulnois , and M. G. Norton .
+Identification and characterization of a gene that controls colony morphology and auto - aggregation in Escherichia coli K12 .
+Wilson , D. B. , and D. S. Hogness .
+Galactokinase and uridine diphosphogalactose 4 - epimerase from Escherichia coli .

@@ -1,0 +1,203 @@
+JOURNAL OF BACTERIOLOGY , July 1992 , p. 4833 - 4837 Vol .
+174 , No. 14 0021 - 9193/92 / 144833 - 05 $ 02.00 / 0 Role of the MetR Regulatory System in Vitamin B12 - Mediated Repression of the Salmonella typhimurium metE Gene WHI - FIN WU , MARK L. URBANOWSKI , AND GEORGE V. STAUFFER * Department of Microbiology , University of Iowa , Iowa City , Iowa 52242 The vitamin - B12 ( B. 2 ) - mediated repression of the metE gene in Escherichia coli and Salmonella typhimurium requires the B12 - dependent transmethylase , the metH gene product .
+It has been proposed that the MetH - B12 holoenzyme complex is involved directly in the repression mechanism .
+Using Escherichia coli strains lysogenized with a A phage carrying a metE - lacZ gene fusion , we examined B12 - mediated repression of the metE - lacZ gene fusion .
+Although B12 supplementation results in a 10 - fold repression of metE - lacZ expression , homocysteine addition to the growth medium overrides the B12 - mediated repression .
+In addition , B12 - mediated repression of the metE - lacZ fusion is dependent on a functional MetR protein .
+When a metB mutant was transformed with a high - copy - number plasmid carrying the metE gene , which would be expected to reduce intracellular levels of homocysteine , metE - lacZ expression was reduced and B12 supplementation had no further effect .
+In a metJ mutant , B12 represses metE - lacZ expression less than twofold .
+When the metJ mutant was transformed with a high - copy - number plasmid carrying the metH gene , which would be expected to reduce intracellular levels of homocysteine , B12 repression of the metE - lacZ fusion was partially restored .
+The results indicate that B12 - mediated repression of the metE gene is primarily a loss of MetR - mediated activation due to depletion of the coactivator homocysteine , rather than a direct repression by the MetH - Bl2 holoenzyme .
+In Escherichia coli and Salmonella typhimurium , the final reaction in the synthesis of methionine is the methylation of homocysteine ( 14 , 15 ) ( Fig. 1 ) .
+Two alternate transmethylases can catalyze this reaction .
+One is a vitamin - B12 ( B12 ) - independent enzyme , the metE gene product ; the other is a B12 - dependent enzyme , the metH gene product .
+The metE gene , as well as all of the other methionine biosynthetic genes except metH , is negatively controlled by the metJ gene product , with S - adenosylmethionine ( SAM ) acting as the corepressor ( 14 , 15 ) .
+In addition , the metE gene is repressed by the addition of B12 to the growth medium ( 7 , 8 ) .
+This B12 - mediated repression requires the metJ gene product and the metF gene product ( the metF gene product provides the methyl donor for homocysteine methylation ) ( 3 , 12 ) , as well as the MetH - B12 holoenzyme .
+Although the mechanism of repression by the MetH - B12 holoenzyme requires the MetJ protein , this repression system is distinct from the repression system mediated by the MetJ protein and SAM ( 11 ) .
+Recently it was demonstrated that transcription of the metE gene ( and the metH gene ) is positively regulated by the metR gene product ( 9 , 21 - 23 ) , a DNA binding protein ( 1 , 22 ) .
+Homocysteine , an intermediate in methionine biosynthesis , was shown to be required for activation of the metE gene both in - vivo ( 24 ) and in - vitro ( 2 ) .
+Here we provide evidence that a large part of the B12 - mediated repression of the metE gene is a result of reduced MetR - homocysteine activation .
+The MetH - B12 holoenzyme , along with the metF and metJ gene products , probably plays an indirect role in B12 - mediated repression by changing the intracellular levels of both the MetR activator protein and its coactivator homocysteine .
+* MATERUILS AND METHODS Bacteria , bacteriophage , and plasmids .
+All strains used are from the laboratory collection .
+GS243 is AmetE : : Mu , GS244 is AmetR : : Mu , GS597 is metJ97 , and GS718 is metBI .
+In addition , all strains carry the pheA905 , thi , araD129 , rpsL , and AlacU169 mutations .
+The AlacU169 mutation is a complete deletion of the lac operon from the chromosome .
+The AElac phage carries a fusion of the S. typhimurium metE control region and the first 22 amino - acid codons fused to the 8th amino - acid codon of lacZ ( 13 ) .
+AElacl , a derivative of XElac , expresses high levels of P - galactosidase activity because of the presence of a metE operator - constitutive mutation ( 13 ) .
+Plasmid pGS192 carries the S. typhimurium metH gene ( 21 ) .
+Plasmid pGS69 carries the S. typhimurium metE gene ( 16 ) .
+Plasmid pGS69 : : TnSB is a derivative of pGS69 carrying transposon TnS within the metE gene ( 16 ) .
+Glucose minimal - medium ( GM ) has been described previously ( 18 ) .
+Lactose minimal medium ( LM ) is identical to GM except that 0.2 % lactose replaces glucose .
+Phenylalanine and B12 were added to GM since all strains carry the pheA905 and thi mutations .
+Supplements were added at the following concentrations ( in micrograms per milliliter ) : amino - acids , 50 ; B1 and B12 , 1 ; ampicillin ( Ap ) , 100 ; D,L - homocysteine ; 100 .
+Construction of XElac and XElacl lysogens .
+Appropriate strains were lysogenized with XElac or XElacl fusion phage by the procedure described previously ( 19 ) .
+After purification , the lysogens were tested for a single copy of the X phage by infection with phage X c190 c17 ( 17 ) .
+All X lysogens contain the temperature - sensitive mutation c1857 and were grown at 30 °C .
+P - Galactosidase levels were measured as described by Miller ( 10 ) by using the chloroformsodium dodecyl sulfate lysis procedure .
+The results are the averages of two or more assays , and each sample was run in triplicate .
+homoserine I uetA 0 - succinylhomoserine I metB ribose cystathionine I oetc homocysteine metF serine ( 5 - methylTHF - 5,10 - methylene THF j glyA S - ribosylhomocysteine 4 metE or metH glycine methionine adenine metK SAH SAM SAM - dependent cellular methylases FIG. 1 .
+Methionine biosynthetic pathway in E. coli and S. typhimunum ( 4 , 14 ) .
+The metA , metB , and metC genes encode enzymes in the nonfolate branch of the methionine pathway .
+The glyA and metF genes encode enzymes in the folate branch of the methionine pathway .
+The transmethylation of homocysteine to methionine is catalyzed by either the metE or the metH gene product .
+The S - adenosylhomocysteine ( SAH ) formed as a by - product of SAM - dependent methylation reactions is salvaged as the adenine base and homocysteine by a cyclical regenerative branch of the pathway ( 5 ) , which has not been characterized genetically .
+RESULTS Effect of homocysteine on metE - lacZ expression in B12 - supplemented media .
+In early experiments investigating B12 - mediated repression of metE , it was suggested that the MetH - B12 holoenzyme might function directly as a repressor of metE gene expression ( 7 , 8 ) .
+However , at that time the role of MetR - homocysteine - mediated activation of the metE gene was unknown .
+An initial experiment was designed to determine if repression of the metE gene by the addition of B12 to the growth medium occurs directly via the formation of a MetH - B12 repressor complex or indirectly by the MetH - B12 holoenzyme lowering the levels of the coactivator homocysteine by methylation to methionine ( Fig. 1 ) .
+The metE mutant strain GS243 was lysogenized with AElac .
+This strain , designated 243XElac , can not grow on LM plates supplemented with B12 because of a deletion of the lac operon on the chromosome and insufficient 0 - galactosidase production from the metE - lacZ gene fusion because of B12 - mediated repression .
+If the MetH - B12 holoenzyme represses metE expression by lowering homocysteine levels below what is required for activation of the metE - lacZ fusion , then exogenous homocysteine would be expected to overcome growth inhibition of 243AElac on LM plates supplemented with B12 .
+Lysogen 243XElac grew well on LM plates supplemented with both B12 and homocysteine .
+To test more directly the effect of homocysteine on the B12 - mediated repression of a metE - lacZ gene fusion , the metB mutant strain GS718 was lysogenized with AElacl .
+The XElacl phage carries a point mutation ( OCJ - ) in the metE control region that interferes with MetJ repression of the metE - lacZ fusion but allows normal regulation by B12 ( 13 ) .
+The elevated metE - lacZ expression caused by this Oc 1 VOL .
+Effects of homocysteine and the metR gene product on MetH - BI2 repression of a metE - lacZ gene fusion ~ ~ ~ ~ ~ ~ ( U ) r Lysogeni Lysogena GM supplement 1 - Galactosidase 718XElacl [ pGS192 ] L - Methionine 662 L - Methionine + B12 59 L - Methionine + 866 homocysteine L - Methionine + B12 920 + homocysteine 244XElacl [ pGS192 ] L - Methionine 35 L - Methionine + B12 35 a Strain GS718 is a metB mutant and strain GS244 is a metR mutant .
+Both strains were lysogenized with the metE - lacZ fusion phage AElacl and transformed with the multicopy metH plasmid pGS192 .
+b Units of activity are Miller units ( 10 ) .
+mutation enabled us to supplement all lysogen cultures with L - methionine , minimizing any effects of changes in internal methionine levels and corresponding changes in MetJ - mediated repression .
+Because of the metB mutation in lysogen 718XElacl , this strain does not produce homocysteine via the nonfolate branch of the methionine pathway ( Fig. 1 ) .
+When supplemented with methionine , however , lysogen 718XElacl produces low levels of homocysteine from the utilization of SAM via a regenerative pathway that exists in E. coli ( Fig. 1 ) .
+The lysogen was transformed with a multicopy plasmid carrying the metH gene ( pGS192 ) to increase the levels of the MetH protein .
+Lysogen 718XElac [ pGS1921 was grown in GM supplemented with L - methionine , and B12 or homocysteine was added as indicated in Table 1 .
+1 - Galactosidase levels were then measured for each growth condition .
+Expression of the metE - lacZ gene fusion was repressed more than 10 - fold when the lysogen was grown on GM supplemented with B12 ( Table 1 , compare lines 1 and 2 ) .
+The addition of homocysteine , however , overrides the B12 - mediated repression , resulting in a high 3 - galactosidase level ( Table 1 , compare lines 2 and 4 ) .
+Repression of the metE - locZ fusion by B12 is dependent on the MetR protein .
+Since homocysteine acts as a coactivator for the MetR protein to activate metE expression ( 23 ) , we tested whether the MetR protein is involved with homocysteine in overriding the B12 - mediated repression of the metElacZ fusion .
+The metR mutant strain GS244 was lysogenized with XElacl , and the lysogen was subsequently transformed with the metH plasmid pGS192 .
+This strain , designated 244XElacl [ pGS1921 , was then tested for B12 - mediated repression of the metE - lacZ gene fusion .
+Cells were grown in GM supplemented with L - methionine or L - methionine plus B12 , and 3 - galactosidase levels were measured .
+As expected , 3 - galactosidase levels in lysogen 244XElacl [ pGS192 ] were greatly reduced compared with those in lysogen 718XElacl [ pGS192 ] because of the metR mutation ( Table 1 ) .
+However , even in the presence of excess levels of MetH protein , there is no further repression of the metE - lacZ fusion in lysogen 244AElacl [ pGS192 ] when cells are grown in the presence of B12 .
+Thus , B12 - mediated regulation of the metE - lacZ fusion is dependent on a functional MetR protein .
+These data , along with the above results , suggest that B12 - mediated repression is due to depletion of homocysteine rather than to a direct repression by the MetH - B12 holoenzyme .
+metE - lacZ expression in the presence of multiple copies of the metE gene .
+Both the metE and metH gene products TABLE 2 .
+VITAMIN B12 - MEDIATED REGULATION 4835 Effects of multicopy metE on expression of the metE - lacZ gene fusion ~ ~ ~ ~ ~ ~ ( U ) b Lysogen ' Lysogena GM supplement 1 - Galactosidase 718XElacl [ pGS69 : : TnSB ] D - Methionine 379 D - Methionine + B12 133 718XElacl [ pGS69 ] D - Methionine 126 D - Methionine + B12 122 a The metB mutant strain GS718 was lysogenized with the metE - lacZ fusion phage AElacl and then transformed with either multicopy metE plasmid pGS69 or pGS69 : : TnS , a pGS69 derivative with transposon Tn5 inserted in and inactivating the metE gene ( 16 ) .
+b Units of activity are Miller units ( 10 ) .
+transmethylate homocysteine to form methionine .
+Thus , the presence of a multicopy plasmid carrying the metE gene should utilize excess homocysteine , having an effect similar to that of B12 supplementation .
+To test this hypothesis , lysogen 718AElacl was transformed with either pGS69 or pGS69 : : TnSB , designated 718XElacl [ pGS69 ] and 718XElacl [ pGS69 : : TnSB ] , respectively .
+Plasmid pGS69 carries an intact metE gene .
+Plasmid pGS69 : : TnSB is identical to pGS69 except that it has a TnS element inserted in the metE structural gene and serves as a control for any decrease in metE - lacZ expression due to the titration of the MetR protein by the multicopy metE plasmid .
+Lysogens 718XElacl [ pGS69 : : TnSB ] and 718XElacl [ pGS69 ] were grown in GM supplemented with either D - methionine or D - methionine plus B12 , and , B - galactosidase levels were measured .
+D - Methionine is converted to L - methionine by the cell and can be used as a methionine - limiting source ( 6 ) .
+D - Methionine instead of L - methionine was used to keep the basal level of homocysteine generated by the cyclic branch of the methionine pathway low ( Fig. 1 ) , as well as to prevent metJ - mediated repression of metE expression from pGS69 .
+The level of 3 - galactosidase in the control lysogen 718AElacl [ pGS69 : : TnSB ] was decreased threefold when growth was in the presence of D - methionine plus B12 compared with growth in the presence of D - methionine ( Table 2 , compare lines 1 and 2 ) .
+However , the level of 1 - galactosidase in 718XElacl [ pGS69 ] was reduced in the absence or presence of B12 ( Table 2 , lines 3 and 4 ) .
+These results suggest that the high MetE levels from the multicopy metE plasmid pGS69 have an effect similar to that of B12 supplementation , depleting homocysteine and decreasing metE - lacZ expression .
+metE - lacZ expression in a meUJ mutant .
+Previous studies ( 8 ) have shown that in metJ mutants , the repression of metE by B12 is less than twofold .
+We tested the effect of metJ mutations on B12 - mediated repression of the metE - lacZ gene fusion .
+The metJ mutant strain GS597 was lysogenized with XElac ( designated 597XElac ) , and the lysogen was grown in GM supplemented with either D - methionine or D - methionine plus B12 .
+The addition of B12 to the growth medium resulted in about twofold repression of the metE - lacZ fusion ( Table 3 ) .
+It was shown previously that the MetJ protein and SAM negatively regulate metR gene expression and that metR expression is increased in a metJ mutant strain ( 20 ) .
+The inability of B12 to repress the metE - lacZ fusion in the 597XElac lysogen could be due either to a requirement for a functional MetJ protein in the B12 - mediated repression mechanism or to higher homocysteine levels and MetR 4836 WU ET AL. .
+Effects of the metJ gene product on B12 - mediated repression of a metE - lacZ gene fusion Lysogena GM supplement ,3 - Galactosidase ( U ) b 597XElac D - Methionine 4,184 D - Methionine + B12 2,067 597XElac [ pGS192 ] D - Methionine 2,049 D - Methionine + B12 516 a The met !
+mutant strain GS597 was lysogenized with the metE - lacZ fusion phage AElac and was either nontransformed or transformed with the multicopy metH plasmid pGS192 .
+Units of activity are Miller units ( 10 ) .
+protein in the metJ mutant strain .
+To distinguish between these two possibilities , 597XElac was transformed with the metH plasmid pGS192 .
+This strain , designated 597XElac [ pGS192 ] , was then grown in GM supplemented with D - methionine or D - methionine plus B12 , and the p - galactosidase levels were determined .
+If the inability of B12 to repress metE - lacZ expression in the metJ mutant is due to higher levels of homocysteine and MetR protein , resulting in activation of the metE - lacZ fusion , then the multicopy metH plasmid should result in the utilization of excess homocysteine because of high levels of the MetH - B12 transmethylase , thus lowering levels of expression of the metE - lacZ fusion .
+The 3 - galactosidase levels were significantly reduced in the transformed cells ( Table 3 ) .
+Previous work suggested that the MetH - B12 holoenzyme has both an enzymatic and a regulatory role ( 11 ) , serving as a homocysteine transmethylase and , in an unknown way , repressing metE gene expression .
+The results presented here suggest that a large part of the B12 - mediated repression of the metE gene is a result of utilization of homocysteine ( the coactivator for metE expression ) by the MetH - B12 holoenzyme .
+We have not been successful in measuring accurately the intracellular levels of homocysteine ; however , by manipulating both the growth medium composition and the genetic status of the lysogens , we have been able to examine metE - lacZ expression under various conditions that would be expected to drive the levels of homocysteine either higher or lower .
+We have shown that homocysteine supplementation overrides B12 - mediated repression of a metE - lacZ gene fusion , resulting in increased , B - galactosidase levels in cells grown in the presence of B12 ( Table 1 ) .
+Furthermore , repression of the metE - lacZ fusion by B12 is dependent on a functional MetR protein ( Table 1 ) .
+Although the level of , B - galactosidase is low in lysogen 244XElac1 [ pGS192 ] because of the absence of MetR , it would have been possible to detect additional repression by B12 in this lysogen if B12 regulates metE by a MetR - independent mechanism .
+Although the low , B - galactosidase levels in the 244XElacl [ pGS192 ] could be explained by a secondary promoter in the metE - metR intergenic region , independent from the MetH - B12 regulatory mechanism , this is unlikely since previous Si nuclease mapping experiments showed that the low levels of metE - lacZ expression in a metR mutant initiate from the normal metE start site ( 23 ) .
+If the MetH - B12 holoenzyme acts indirectly to reduce metE expression by depleting the homocysteine pool , it should be possible to reproduce this effect by any mechanism that reduces the homocysteine pool .
+Thus , we transformed the 718AElacl lysogen with the multicopy plasmid pGS69 , which carries the S. typhimurium metE gene .
+We assumed that a high level of MetE protein , the B12 - independent homocysteine transmethylase , would reduce the homocysteine pool .
+Although plasmid pGS69 carries the MetR binding site and could titrate the MetR activator protein , resulting in a low level of expression of metE - lacZ fusion , we controlled for this titration effect by comparison to plasmid pGS69 : : TnSB , which also has an intact MetR binding site .
+Thus , any influence on metE - lacZ expression due to the insufficiency of the MetR protein would be equally reflected in both lysogens .
+The level of 3 - galactosidase in lysogen 718XElacl [ pGS691 grown in GM supplemented with D - methionine was threefold lower than that in lysogen 718XElacl [ pGS69 : : TnSB ] , whose metE gene was inactivated by a TnS insertion ( Table 2 ) .
+Furthermore , the addition of B12 to the growth medium reduced 3 - galactosidase levels in lysogen 718XElacl [ pGS69 : : TnSB ] to those of lysogen 718XElacl [ pGS69 ] grown on either D - methionine or D - methionine plus B12 .
+These results show that a second mechanism for depleting the homocysteine pool has an effect similar to that of B12 supplementation .
+The results of our work support a model in which the MetH - B12 complex acts indirectly to regulate metE expression by reducing the level of homocysteine .
+Alternative models in which the MetH - B12 holoenzyme might be proposed to inhibit the activity of the MetR protein ( e.g. , by direct interaction or by methylation of MetR ) are not supported by our data .
+No further repression of the metE - lacZ fusion was observed in the 718AElacl [ pGS69 ] lysogen when B12 was added ( Table 2 , compare lines 3 and 4 ) .
+If the MetH - B12 holoenzyme interferes directly with MetR activity , an additional decrease in metE - lacZ expression would have been expected .
+Kung et al. ( 8 ) have shown that in a metJ strain , B12 represses metE expression less than twofold .
+We also found that B12 represses a metE - lacZ fusion only twofold in a metJ mutant ( Table 3 ) as well as a metJ metB double mutant ( data not shown ) .
+We believe that the failure to see the full 10 - fold B12 - mediated repression that is observed in a metJ + strain ( Table 1 ) is due to overproduction of homocysteine by the regenerative branch of the methionine pathway ( Fig. 1 ) .
+Consistent with this hypothesis , transformation of the metJ lysogen 597AElac with the metH plasmid pGS192 partially restores B12 - mediated repression of the metE - lacZ gene fusion ( Table 3 ) .
+The high - copy - number metH plasmid results in increased levels of the B12 - dependent homocysteine transmethylase and would be expected to reduce homocysteine levels in the presence of B12 .
+It is not clear why overproduction of the MetH protein does not result in full repression of the metE - lacZ fusion in the presence of B12 ( Table 3 ) .
+Since metJ mutants also overexpress the metR gene ( 20 ) , it is possible that the elevated levels of MetR protein are sufficient to maintain a higher basal level of expression of the metE - lacZ fusion .
+It should be noted that even in the absence of B12 , lysogen 597XElac transformed with pGS192 has twofold - lower ,3 - galactosidase levels than the untransformed lysogen ( Table 3 ) .
+The MetR binding site is overrepresented in the transformed lysogen because of multiple copies of the metH gene .
+It is possible that enough MetR protein is sequestered at these sites to deplete the MetR pool to a level insufficient to fully activate the metElacZ fusion .
+Mulligan et al. ( 12 ) reported that in a metF : : TnS mutant , metE - lacZ expression is derepressed in the presence of B12 , indicating that a functional metF gene product is necessary VOL .
+174 , 1992 for repression of metE by B12 .
+A nonfunctional MetF protein would result in the absence of 5 - methyltetrahydrofolate , the methyl donor for methionine synthesis ( Fig. 1 ) , leading to the accumulation of homocysteine .
+Our results indicate that accumulated homocysteine is probably responsible for the increased expression of the metE gene in metF mutants .
+The metF gene is also repressed by the metH gene product and B12 ( 3 , 25 ) .
+Whitehouse and Smith ( 25 ) found that in some S. typhimurium metE metH double mutants which lack B12 - dependent homocysteine transmethylase activity , B12 supplementation still represses metF gene expression .
+Since homocysteine would be expected to accumulate in these mutants , it is difficult to reconcile these results with our model .
+We have tested for B12 repression of a metF - lacZ fusion in one of their strains [ DS952 ( metH465 metE205 ) ] and found no repression ( data not shown ) .
+Additional studies will be necessary to determine the role of B12 in metF gene expression .
+ACKNOWLEDGMENT This investigation was supported by Public Health Service grant GM38912 from the National Institute of General Medical Sciences .
+Cai , X. - Y. , M. E. Maxon , B. Redfield , R. Glass , N. Brot , and H. Weissbach .
+Methionine synthesis in Escherichia coli : effect of the MetR protein on metE and metH expression .
+Cai , X. - Y. , B. Redfield , M. E. Maxon , H. Weissbach , and N. Brot .
+The effect of homocysteine on MetR regulation of metE , metR and metH expression in - vitro .
+Dawes , J. , and M. A. Foster .
+Vitamin B12 and methionine synthesis in Escherichia coli .
+Dev , I. K. , and R. J. Harvey .
+Regulation of synthesis of serine hydroxymethyltransferase in chemostat cultures of Escherichia coli .
+Duerre , J. A. , and R. D. Walker .
+Metabolism of adenosylhomocysteine , p. 43 - 57 .
+In F. Salvatore , E. Borek , V. Zappia , H. G. Williams - Ashman , and F. Schlenk ( ed .
+) , The biochemistry of adenosylmethionine .
+Columbia University Press , New York .
+Methionine limitation in Escherichia coli K - 12 by growth on the sulfoxides of D - methionine .
+Greene , R. C. , R. D. Williams , H. F. Kung , C. Spears , and H. Weissbach .
+Effects of methionine and vitamin - B12 on the activities of methionine biosynthetic enzymes in metJ mutants of Escherichia coli K12 .
+Kung , H. - F. , C. Spears , R. C. Greene , and H. Weissbach .
+Regulation of the terminal reactions in methionine biosynthesis by vitamin - B12 and methionine .
+Maxon , M. E. , B. Redfield , X. Y. Cai , R. Shoeman , K. Fujita , W. Fisher , G. Stauffer , H. Weissbach , and N. Brot .
+Regulation VITAMIN B12 - MEDIATED REGULATION 4837 of methionine synthesis in Escherichia coli : effect of the MetR protein on the expression of the metE and metR genes .
+Experiments in molecular genetics .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 11 .
+Milner , L. , C. Whitfield , and H. Weissbach .
+Effect of L - methionine and vitamin - B12 on methionine biosynthesis in E. coli .
+Mulligan , J. T. , W. Margolin , J. H. Krueger , and G. C. Walker .
+Mutations affecting regulation of methionine biosynthetic genes isolated by use of met - lac fusions .
+Plamann , L. S. , M. L. Urbanowski , and G. V. Stauffer .
+Salmonella typhimurium metE operator - constitutive mutations .
+Methionine biosynthesis and its regulation , p. 191 - 211 .
+In K. M. Herrmann and R. L. Somerville ( ed .
+) , Amino acids : biosynthesis and genetic regulation .
+Addison - Wesley Publishing Co. , Reading , Mass. 15 .
+Saint - Girons , I. , C. Parsot , M. M. Zakin , 0 .
+Barzu , and G. N. Cohen .
+Methionine biosynthesis in Enterobacteriaceae : biochemical , regulatory , and evolutionary aspects .
+Schulte , L. L. , L. T. Stauffer , and G. V. Stauffer .
+Cloning and characterization of the Salmonella typhimurium metE gene .
+Shimada , K. , R. A. Weisberg , and M. E. Gottesman .
+Prophage X at unusual chromosomal locations .
+I. Location of the secondary attachment sites and properties of the lysogens .
+Stauffer , G. V. , M. D. Plamann , and L. T. Stauffer .
+Construction and expression of hybrid plasmids containing the Escherichia coli glyA gene .
+Urbanowski , M. L. , and G. V. Stauffer .
+Autoregulation by tandem promoters of the Salmonella typhimurium LT2 metJ gene .
+Urbanowski , M. L. , and G. V. Stauffer .
+Regulation of the metR gene of Salmonella typhimurium .
+Urbanowski , M. L. , and G. V. Stauffer .
+The control region of the metH gene of Salmonella typhimunum LT2 : an atypical met promoter .
+Urbanowski , M. L. , and G. V. Stauffer .
+Genetic and biochemical analysis of the MetR activator - binding site in the metE metR control region of Salmonella typhimunum .
+Urbanowski , M. L. , and G. V. Stauffer .
+Role of homocysteine in the metR - mediated activation of the metE and metH genes in Salmonella typhimurium and Escherichia coli .
+Urbanowski , M. L. , L. T. Stauffer , L. S. Plamann , and G. V. Stauffer .
+A new methionine locus , metR , that encodes a trans - acting protein required for activation of metE and metH in Escherichia coli and Salmonella typhimurium .
+Whitehouse , J. M. , and D. A. Smith .
+Methionine and vitamin - B12 repression and precursor induction in the regulation of homocysteine methylation in Salmonella typhimurium .

@@ -1,0 +1,387 @@
+NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript NIH Public Access Author Manuscript Cell .
+Author manuscript ; available in PMC 2011 March 3 .
+Published in final edited form as : Cell .
+An mRNA Leader that Employs Different Mechanisms to Sense Disparate Intracellular Signals Sun - Yang Park 1 , * , Michael J. Cromie 1,2 , * , Eunjin Lee 1,2 , and Eduardo A. Groisman 1,2 , ¶ 1 Department of Molecular Microbiology , Washington University School of Medicine , 660 S. Euclid Ave. , Campus Box 8230 , St. Louis , Missouri , 63110 , USA 2 Howard Hughes Medical Institute , Washington University School of Medicine , 660 S. Euclid Ave. , Campus Box 8230 , St. Louis , Missouri , 63110 , USA SUMMARY Bacterial mRNAs often contain leader sequences that respond to specific metabolites or ions by altering expression of the associated downstream protein coding sequences .
+Here we report that the leader RNA of the Mg 2 + transporter gene mgtA of Salmonella enterica , which was previously known to function as a Mg 2 + - sensing riboswitch , harbors an 18 - codon proline - rich open reading frame -- termed mgtL -- that permits intracellular proline to regulate mgtA expression .
+Interfering with mgtL translation by genetic , pharmacological or environmental means was observed to increase the mRNA levels from the mgtA coding region .
+Substitution of the mgtL proline codons by other codons abolished the response to proline and to hyperosmotic - stress but not to Mg 2 + .
+Our findings show that mRNA leader sequences can consist of complex regulatory elements that utilize different mechanisms to sense separate signals and mediate an appropriate cellular response .
+INTRODUCTION The leader region ( LR ) of many bacterial mRNAs have the ability to form mutually exclusive secondary structures that determine whether transcription will continue into the adjacent coding region ( CR ) .
+Which secondary structure forms is governed by the binding of specific metabolites , ions , tRNAs or proteins to the LR , by pausing of RNA polymerase at particular sequences within the LR and by translation of short open reading frames ( ORFs ) located in the leader RNA ( Grundy and Henkin , 2006 ; Henkin , 2008 ; Henkin and Yanofsky , 2002 ; Landick et al. , 1996 ; Merino and Yanofsky , 2005 ; Turnbough and Switzer , 2008 ) .
+These mRNA leaders typically control the expression of the proteins that synthesize and/or transport the metabolites or ions to which they respond .
+Whereas leaders known as riboswitches sense metabolites or ions directly ( Henkin , 2008 ; Winkler and Breaker , 2005 ) , the presence of stretches of certain nucleotides in a leader sequence or particular codons in a leader ORF enables cells to probe the cellular levels of the corresponding nucleotides and ¶ Correspondence .
+* These authors contributed equally to the experiments described in this manuscript Publisher 's Disclaimer : This is a PDF file of an unedited manuscript that has been accepted for publication .
+As a service to our customers we are providing this early version of the manuscript .
+The manuscript will undergo copyediting , typesetting , and review of the resulting proof before it is published in its final citable form .
+Please note that during the production process errors may be discovered which could affect the content , and all legal disclaimers that apply to the journal pertain .
+SUPPLEMENTAL INFORMATION Supplemental Information includes Extended Experimental Procedures and two Figures and can be found with this article online .
+Page 2 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript RESULTS amino - acids indirectly .
+Here we identify a leader mRNA that controls gene expression by responding to Mg 2 + directly as a riboswitch and to proline levels indirectly , via translation of a proline - codon rich open reading frame .
+The mRNA for the Mg 2 + transporter gene mgtA from Salmonella enterica serovar Typhimurium includes a 264 - nucleotide long leader sequence that functions as a Mg 2 + - responding riboswitch determining whether transcription proceeds into the mgtA CR ( Cromie et al. , 2006 ) .
+In low Mg 2 + , the mgtA leader RNA adopts a conformation ( i.e. , stemloop C ) that favors transcription of the full - length mgtA mRNA ( Cromie et al. , 2006 ) ( Figure 1 ) and production of the MgtA protein ( Cromie and Groisman , 2010 ) .
+MgtA - mediated Mg 2 + uptake restores cytoplasmic Mg 2 + to pre - stress levels , which promotes a different conformation in the mgtA leader RNA ( i.e. , stem - loop B ) that hinders transcription elongation into the mgtA CR ( Cromie et al. , 2006 ) ( Figure 1 ) .
+In addition to being regulated by a Mg 2 + - sensing riboswitch , mgtA transcription is controlled at the initiation step by two DNA binding proteins : PhoP , which activates transcription when its cognate sensor PhoQ detects low extracytoplasmic Mg 2 + ( Garcia Vescovi et al. , 1996 ) , acid - pH ( Prost et al. , 2007 ) or antimicrobial peptides ( Bader et al. , 2005 ) ; and Rob , the overexpression of which stimulates mgtA transcription from a site located downstream of the PhoP - dependent start site ( Barchiesi et al. , 2008 ) ( Figure 1 ) .
+Thus , there is PhoP/PhoQ - dependent production of the mgtA leader mRNA following bacterial growth in media with < 1 mM Mg 2 + ( Cromie et al. , 2006 ) or pH 5.7 ( Choi et al. , 2009 ) ; however , due to the riboswitch action , the mRNA corresponding to the mgtA CR is observed primarily upon growth in media containing very low ( i.e. , 10 µM ) Mg 2 + ( Choi et al. , 2009 ; Cromie and Groisman , 2010 ; Cromie et al. , 2006 ) .
+This raises the possibility of additional signals and/or genetic elements acting on the mgtA leader mRNA synthesized when Salmonella experiences inducing conditions for PhoP/PhoQ and/or Rob to promote transcription elongation into the mgtA CR .
+Here we demonstrate that the mgtA LR harbors an ORF rich in proline codons that enables Salmonella to control transcription elongation into the mgtA CR in response to changes in cytosolic proline levels .
+We establish that high - osmolarity promotes transcription of the mgtA CR in a fashion dependent on the proline codons present in the identified ORF .
+Also , we show that the low Mg 2 + signal and the low proline signal act synergistically to increase the mRNA levels for the mgtA CR .
+Our findings highlight the complexity of RNA regulatory sequences and provide a singular example of a leader RNA that utilizes two distinct mechanisms to detect two different signals .
+Identification of a Translated ORF in the mgtA LR In a search for new factors that might regulate mgtA expression by acting upon the mgtA leader mRNA , we introduced a plasmid library made in the multi - copy number vector pUC19 into strain YS774 ( Table S1 ) , which harbors the PhoP - independent p lac1 -- 6 promoter driving transcription of a lac fusion in the mgtA CR from the normal ( i.e. , PhoP - dependent ) start site ( Cromie et al. , 2006 ) .
+Ampicillin - resistant transformants recovered on X - Galcontaining LB ampicillin agar plates that were of a darker or lighter shade of blue than those that received a plasmid control were purified , their plasmid DNA extracted and used to transform strain YS809 , a derivative of strain YS774 with the same mgtA - lac transcriptional fusion .
+One of the plasmids -- designated pSL55 -- promoted higher levels of mgtA - lac expression than the plasmid control ( Figure 2A ) , like it did in strain YS774 , indicative that the observed phenotype was plasmid linked .
+Plasmid pSL55 appears to promote mgtA - lac expression specifically because it had no effect on the Lac phenotype of strains harboring Cell .
+Author manuscript ; available in PMC 2011 March 3 .
+Page 3 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript lac transcriptional - fusions in the CRs of the PhoP - dependent mgtC gene or the PhoPindependent corA gene ( data not shown ) .
+The mgtC and corA transcripts also include long leaders ( Lejona et al. , 2003 ) ( T. Latifi and EAG , unpublished results ) and specify proteins participating in Mg 2 + homeostasis ( Blanc - Potard and Groisman , 1997 ; Maguire , 2006 ; Soncini et al. , 1996 ) .
+Sequencing of the insert in pSL55 revealed the presence of 1579 nucleotides corresponding to position 78347 to 79925 in the chromosome of strain 14028s , which is a portion of the 3228 - nucleotide long carB gene ( see Table S2 for primers ) .
+The insert operates in an orientation - dependent manner because it did not alter mgtA - lac expression when cloned into pUC18 where the opposite strand is transcribed ( data not shown ) .
+Although this suggested that pSL55 might promote mgtA - lac expression by functioning as an antisense RNA for the carB transcript , we ruled out this possibility because pSL55 up - regulated mgtA transcription even in a strain deleted for the carB gene ( Figure 2A ) .
+Given that a transcript corresponding to the strand opposite the carB gene was not detected when RNA was harvested from wildtype Salmonella grown in LB or in N - minimal media ( data not shown ) , and that mgtA - lac was not derepressed in the ΔcarB strain ( Figure 2A ) , we concluded that pSL55 up - regulates mgtA - lac expression by a mechanism that does not involve the carB gene .
+We then examined the nucleotide sequence of the insert in pSL55 and identified a 15 - nucleotide segment that is complementary to nucleotides 61 to 75 in the mgtA leader RNA ( Figure 2B ) .
+Interestingly , this region corresponds to the potential start codon and ribosome binding site for a previously unidentified 18 - codon ORF -- hereafter designated mgtL -- that begins at position 71 and ends at position 124 ( Figure 1 ) .
+The presence of an ORF and ribosome binding site is conserved in the mgtA LRs from Escherichia coli , Shigella flexneri , Klebsiella pneumoniae , Citrobacter koseri , Enterobacter sp. 638 , Dickeya zeae , Dickeya dadantii and Serratia proteamaculans ( Figure 3A ) .
+The mgtA leader sequences from all these species have the potential ability to form the alternative stem - loop structures B and C identified in the Salmonella mgtA leader ( Figure 1 ) ( Cromie et al. , 2006 ) ( data not shown ) .
+We determined that mgtL is translated in - vivo because wild - type Salmonella carrying the medium - copy number plasmid pmgtL - ′ lacZ , with the full mgtL coding sequence and its putative ribosome binding site fused in frame to the E. coli lacZ gene starting at the ninth codon , produced high levels of β - galactosidase , whereas , an isogenic strain harboring a modified plasmid with a stop codon after the 17th mgtL codon did not ( Figure S1 ) .
+( There is a potential start codon at position 26 -- 28 in the Salmonella mgtA leader sequence that is in frame with the mgtL ORF and is preceded by a possible ribosome binding site ( Figure 1 ) .
+However , the AUG at this position does not appear to be a true translation start site because : First , the sequence between nucleotides 26 and 70 is not conserved in the other examined species .
+And second , wild - type Salmonella harboring plasmid pmgtLΔ2nt - ′ lacZ , a derivative of plasmid pmgtL - ′ lacZ with two nucleotides deleted at positions 29 -- 30 , which creates a stop codon at position 79 -- 81 for the ORF starting at position 26 , still expressed high levels of β - galactosidase ( Figure S1 ) .
+) The strains harboring plasmids pmgtL - ′ lacZ and pmgtLΔ2nt - ′ lacZ displayed similar levels of β - galactosidase following growth in low and high Mg 2 + ( Figure S1 ) .
+These data indicate that mgtL translation is not regulated by changes in the Mg 2 + concentration in the media .
+Moreover , they reflect that in the pmgtL - ′ lacZ and pmgtLΔ2nt - ′ lacZ plasmids , mgtL - lac transcription is initiated from a Mg 2 + - blind promoter and the Mg 2 + - responding riboswitch is disrupted .
+Inhibiting mgtL Translation Promotes Expression of the mgtA CR Plasmid pSL55 appears to up - regulate mgtA - lac expression by producing a trans - acting RNA that interferes with mgtL translation because : First , the region of complementarity with the mgtA leader corresponds to the ribosome binding site and start codon of mgtL ( Figure Cell .
+Author manuscript ; available in PMC 2011 March 3 .
+Page 4 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript 2B ) .
+Second , inactivation of the hfq gene , which codes for the RNA chaperone usually required for pairing between trans - acting regulatory RNAs and their targets ( Brennan and Link , 2007 ) , eliminated pSL55 ′ s regulatory effect ( Figure 2A ) .
+And third , pSL55 - Mut , a pSL55 derivative with nucleotide substitutions in the region of complementarity with the mgtA LR ( Figure 2B ) , could not up - regulate mgtA expression ( Figure 2A ) .
+If plasmid pSL55 derepresses mgtA - lac transcription by inhibiting mgtL translation , we reasoned that disrupting mgtL translation by other means might have the same effect .
+To test this hypothesis , we introduced mutations in plasmid pYS1010 , which harbors the p lac1 -- 6 derivative of the lac promoter driving transcription of the full - length mgtA LR fused to a promoterless lacZ gene , and confers Mg 2 + - regulated synthesis of β - galactosidase ( Cromie et al. , 2006 ) .
+Wild - type Salmonella harboring pYS1010 derivatives with stop codons at positions 80 -- 82 , 89 -- 91 or 98 -- 100 ( Figure 1 ) produced high levels of β - galactosidase when grown in high Mg 2 + ( Figure 4A ) .
+These levels were 46 -- 89 - fold higher than those displayed by the strain carrying the original plasmid pYS1010 .
+The high expression levels exhibited by strains harboring pYS1010 derivatives with stop codon mutations in mgtL are probably due to lack of translation of the full - length mgtL ( as opposed to resulting from major alterations in the mgtA leader RNA structure that lock the riboswitch in an ON state ) because : First , a plasmid expressing the amber suppressor supF restored normal levels of mgtA - lac transcription to the strain harboring a pYS1010 derivative with an amber stop codon at position 98 -- 100 whereas the plasmid vector had no effect ( Figure 4C ) .
+Furthermore , the supF - promoted suppression was specific because the supF - carrying plasmid did not reduce expression in a strain carrying a pYS1010 derivative with an opal stop codon at the same position ( Figure 4C ) , nor did it modify it in a strain with the original pYS1010 plasmid carrying the wild - type mgtA leader sequence ( Figure 4C ) .
+Second , the structures of the wild - type and stop codon mutant mgtA leaders were comparable when examined by in - line probing ( Figure S2A ) .
+And third , in - vitro transcription assays demonstrated that Mg 2 + regulated transcription elongation beyond the mgtA LR similarly in DNA templates corresponding to the wild - type and stop codon mutant mgtA leaders ( Figure S2B ) .
+We next tested whether inhibiting mgtL translation by means other than mutation of the mgtA LR affected the mRNA levels for the mgtA CR .
+The protein synthesis inhibitor tetracycline promoted a ~ 28 - fold increase in the mgtA CR mRNA 15 min after its addition to wild - type Salmonella ( Figure 4D ) .
+Thus , tetracycline could overcome the transcriptional silencing of the mgtA CR that normally takes place when wild - type Salmonella experiences 500 µM Mg 2 + ( Cromie and Groisman , 2010 ; Cromie et al. , 2006 ) .
+Tetracycline appears to affect the mRNA levels produced from the mgtA CR specifically because there was little change in the mRNA levels of the mgtA LR or the phoP CR , which were examined as controls ( Figure 4D ) .
+Addition of chloramphenicol also increased the mRNA levels of the mgtA CR in wild - type Salmonella ( data not shown ) , implying that the derepression promoted by protein - synthesis - inhibitors is not limited to a particular mechanism of action .
+Tetracycline exerts its effect on the mgtA LR ( as opposed to the mgtA promoter ) because it increased lacZ mRNA levels in wild - type Salmonella harboring plasmid pYS1010 ( data not shown ) .
+Furthermore , tetracycline acts by inhibiting mgtL translation because it did not promote a significant increase in lacZ mRNA levels in wild - type Salmonella carrying the pYS1010 derivative with a stop codon at position 98 -- 100 ( data not shown ) .
+Taken together , our results indicate that interfering with mgtL translation by genetic or pharmacological means increases the mRNA levels for the mgtA CR .
+The mgtL - encoded peptide does not appear to act in trans because a plasmid carrying mgtL DNA failed to restore normal mgtA - lac expression in strains harboring pYS1010 derivatives Cell .
+Author manuscript ; available in PMC 2011 March 3 .
+Page 5 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript with stop codons at different positions in mgtL ( Figure S2C ) .
+This suggested that mgtL exerts its regulatory effect in cis and raised the question as to the physiological signal controlling mgtL translation .
+Proline Limitation Enhances Transcription of the mgtA CR The Salmonella mgtL sequence includes four proline codons ( Figure 1 ) , which is a disproportionately high frequency for an 18 - codon ORF .
+The number and location of the proline codons ( at the third , fifth , seventh and ninth positions ) is largely conserved in the nine examined species ( Figures 3A and 3B ) .
+Because the proline codons are located in the mgtL region where introduction of stop codons heightens expression downstream of the mgtA leader ( Figure 1 ) , we hypothesized that a drop in the cytosolic proline levels might decrease the availability of proline - charged tRNAs , causing ribosome stalling at mgtL proline codons , leading to formation of stem - loop C and an increase in the levels of the mgtA CR mRNA .
+By contrast , when cytosolic proline is abundant , coupling of mgtA leader transcription and mgtL translation would be restored , thereby favoring formation of stemloop B and reducing the production of mgtA CR mRNA .
+To explore this hypothesis , we grew a proline auxotroph in the presence of 1 mM proline for 1 h , washed the cells , split the culture into two different media : one containing and one lacking proline , and then harvested the mRNA 15 min later .
+The mRNA level for the mgtA CR was 8 fold higher in organisms grown in the absence of proline than in those grown in its presence ( Figure 4E ) .
+This effect was unique to the mgtA CR as no differences were detected in the mRNA levels corresponding to the mgtA LR or the phoP CR ( Figure 4E ) .
+Furthermore , it was specific for proline as limitation for histidine , which does not have codons in the mgtL sequence ( Figure 1 ) , failed to increase the mRNA level for the mgtA CR ( data not shown ) .
+Indeed , despite the presence of three arginine codons in mgtL ( Figure 1 ) , arginine limitation did not promote an increase in the mRNA levels of the mgtA CR in an arginine auxotroph ( data not shown ) .
+Perhaps this reflects the location of the arginine codons , one of which is in stem - loop C , and that the remaining arginine codons may not be sufficient to mediate mgtA derepression .
+Proline limitation promoted a two - fold increase in the mRNA levels of the mgtA CR in wildtype ( i.e. , prototrophic ) Salmonella ( Figure 4F ) .
+Although this is lower than the increase observed in the proline auxotroph ( Figure 4E ) , it is similar to the gene expression changes promoted by branched - chain amino - acids in the attenuation - regulated ilvGMEDA operon ( Chen et al. , 1991 ) .
+Moreover , it is higher than what has been reported for the attenuationregulated trp operon where starvation for tryptophan does not alter trp expression in a tryptophan prototroph ( Yanofsky and Horn , 1994 ) .
+The mgtL Proline Codons are Necessary for the Response to Proline Limitation We determined that proline limitation failed to promote an increase in the mRNA levels for the mgtA CR in a derivative of the proline auxotroph with all four mgtL proline codons replaced by codons specifying other amino - acids ( Figure 5A ) .
+As found with the isogenic mgtL + strain , proline limitation had little effect on the mRNA levels for the mgtA leader and phoP CRs ( Figure 5A ) .
+Importantly , the mutant still responded to changes in the Mg 2 + concentration ( Figure 5B ) ( albeit not as well as the isogenic strain with a wild - type mgtA leader ) , indicating that the proline codon substitutions did not lock the mutant into an inactive conformation .
+These data indicate that the mgtL proline codons are essential for the response to proline limitation ; and they suggest that this ability is distinct from the mgtA leader 's role as a Mg 2 + - sensing device .
+Author manuscript ; available in PMC 2011 March 3 .
+Page 6 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript We hypothesized that the proline codon at the third position of mgtL might not be required for regulation of mgtA expression by proline because D. dadantii does not have a proline codon at this position ( Figures 3A and 3B ) .
+Indeed , a Salmonella strain in which the mgtL proline codon at the third position was replaced by a leucine codon derepressed the mgtA CR mRNA when limited for proline , like the strain with the wild - type mgtL ( Figure 5A ) .
+However , this mutant still responded to changes in the Mg 2 + concentration but to a smaller degree than the mutant substituted in all four mgtL proline codons ( Figure 5B ) .
+The results presented above suggested that replacement of the mgtL proline codons at the fifth , seventh and ninth positions by codons specifying other amino - acids might be sufficient to eliminate the response to proline .
+As predicted , there was little derepression of the mgtA CR mRNA upon proline limitation in a derivative of the proline auxotroph with the last three mgtL proline codons substituted by the same codons as in the mutant with substitutions in all four mgtL proline codons ( Figure 5A ) .
+As with the other isogenic strains , proline limitation did not affect the mRNA levels of the mgtA leader and phoP CRs ( Figure 5A ) .
+The response to Mg 2 + of the mgtL derivative with substitutions in the last three proline codons was intermediate to that exhibited by the one with the third proline codon substituted and the one with all four proline codons substituted ( Figure 5B ) .
+Synergism between the Low Mg 2 + and the Proline Limitation Signals To examine whether direct Mg 2 + sensing by the mgtA leader RNA affects indirect proline sensing by the mgtL ORF and vice versa , we grew the mgtL + proline auxotrophic strain in the presence of 500 µM Mg 2 + and 1 mM proline for 1 h , washed the cells , and split the culture into four different media containing either 500 µM Mg 2 + and 1 mM proline , 500 µM Mg 2 + and no proline , 5 µM Mg 2 + and 1 mM proline , or 5 µM Mg 2 + and no proline .
+15 min later we determined the mRNA levels corresponding to the mgtA and phoP CRs as well as to the mgtA LR .
+We found that the mRNA levels corresponding to the mgtA CR were higher in cells experiencing both low Mg 2 + and low proline than in cells limited only for Mg 2 + or for proline ( Figure 5C ) .
+As expected , the mRNA levels corresponding to the mgtA LR and the phoP CR were higher in cells experiencing 5 µM Mg 2 + than in those exposed to 500 µM Mg 2 + ( Figure 5C ) , reflecting that the amount of activated PhoP protein increases as the Mg 2 + concentration in the media decreases ( Shin et al. , 2006 ) .
+Our results support the notion that Mg 2 + and proline are sensed independently by the mgtA leader RNA .
+Furthermore , they suggest synergism between the two inducing signals because the mRNA levels for the mgtA CR were higher in cells experiencing both low Mg 2 + and low proline than the sum of the mRNA levels produced by cells experiencing only low Mg 2 + or low proline ( Figure 5C ) .
+In agreement with this notion , wild - type Salmonella harboring plasmid pYS1010 derivatives with early stop codons in the mgtL sequence produced more β - galactosidase when grown in low Mg 2 + than the sum of the β - galactosidase activities produced by the same strains grown in high Mg 2 + plus the β - galactosidase activity produced by wild - type Salmonella carrying pYS1010 grown in low Mg 2 + ( Figures 4A and 4B ) .
+Hyperosmotic Shock Promotes an Increase in the mgtA CR mRNA Levels Proline plays two major functions in bacterial cells : it is a component of proteins and it can function as an osmoprotectant ( Csonka and Leisinger , 2007 ) .
+Thus , we hypothesized that when bacteria experience hyperosmotic shock , the increased requirement for proline in osmoprotection might decrease its availability to charge proline tRNAs .
+This could potentially lead to ribosome stalling at the mgtL proline codons and result in derepression of the mgtA CR .
+We tested this hypothesis by comparing the mRNA levels produced by wildtype Salmonella experiencing hyperosmotic shock in the presence or absence of osmoprotectants .
+Author manuscript ; available in PMC 2011 March 3 .
+Page 7 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript We determined that the mRNA levels corresponding to the mgtA CR were ~ 6 - fold higher when Salmonella experienced 500 µM Mg 2 + + 0.3 M NaCl for 1 h than in organisms grown in 500 µM Mg 2 + ( Figure 6A ) .
+By contrast , the mRNA levels for the mgtA LR and the phoP CR were similar under the two growth - conditions ( Figure 6A ) , indicative that the induction of the mgtA CR mRNA levels promoted by high - osmolarity is not mediated by the PhoPdependent mgtA promoter .
+Addition of the osmoprotectant glycine betaine together with NaCl compromised the induction of the mgtA CR mRNA promoted by NaCl but had negligible effects when added in the absence of NaCl ( Figure 6A ) .
+Proline had a similar ( albeit not as strong ) effect as glycine betaine ( Figure 6A ) , presumably because it is not as effective as glycine betaine in osmoprotection ( Cayley et al. , 1992 ) .
+The increase in the mgtA CR mRNA levels provoked by hyperosmotic shock requires an intact mgtL ORF because it was not observed in an isogenic strain substituted in all four mgtL proline codons ( Figure 6B ) .
+Cumulatively , these data demonstrate that hyperosmotic shock promotes transcription of the mgtA CR in an mgtL - dependent manner .
+Formation of Stem - loop C is Necessary for Transcription of the mgtA CR DISCUSSION Because transcription and translation are coupled in bacteria , when cytosolic proline is abundant , a ribosome translating the complete mgtL sequence is likely to occlude the left arm of stem - loop C ( Figures 1 and 7A ) .
+This would favor formation of stem - loop B , which has been shown to hamper transcription elongation beyond the mgtA LR ( Cromie et al. , 2006 ) .
+By contrast , conditions that reduce the levels of free cytosolic proline would promote ribosome stalling at the mgtL proline codons , thereby advancing formation of stem - loop C and resulting in transcription elongation into the mgtA CR ( Figures 1 and 7A ) .
+Therefore , the position that a translating ribosome reaches in the mgtL ORF should determine whether transcription continues into the mgtA CR ( Figures 1 and 7A ) .
+We tested our model by investigating the phenotype of wild - type Salmonella harboring pYS1010 derivatives with stop codons at different positions within mgtL .
+A derivative with a stop codon at position 110 -- 112 , which is only six nucleotides upstream of the left arm of stem - loop C ( Figure 1 ) , produced very low levels of β - galactosidase when grown in 10 mM Mg 2 + ( Figure 4A ) , like the isogenic strain with plasmid pYS1010 harboring the wild - type mgtA leader ( Figure 4A ) .
+By contrast , there were high levels of β - galactosidase in a pYS1010 derivative with a stop codon at position 107 -- 109 ( Figure 4A ) , which is nine nucleotides from the left arm of stem - loop C ( Figure 1 ) , similar to the behavior of strains with stop codons at positions 80 -- 82 , 89 -- 91 or 98 -- 100 ( Figure 4A ) .
+Furthermore , the pYS1010 derivative with a stop codon at position 107 -- 109 no longer conferred high levels of β - galactosidase upon wild - type Salmonella when nucleotides 110 -- 112 were deleted ( Figure 4A ) , which brought the mgtL stop codon only six nucleotides away from the left arm of stem - loop C. Cumulatively , these results indicate that the distance between the ribosome translating mgtL and the nucleotides forming the left arm of stem - loop C ( as opposed to the size of the translated mgtL product ) is critical for mgtL - mediated gene control .
+If the lack of translation of the full - length mgtL stimulates transcription elongation beyond the mgtA LR by favoring formation of stem - loop C ( Figures 1 and 7A ) , hindering formation of stem - loop C should abolish this stimulation .
+As predicted , the G120C and C145G substitutions in the mgtA leader ( Figure 1 ) , which were previously shown to impede formation of stem - loop C ( Cromie et al. , 2006 ) , thwarted derepression in constructs harboring stop codons at either of two mgtL positions ( Figure 4A ) .
+The LR of many mRNAs can respond to specific nutritional and/or physical signals by modifying expression of the associated downstream coding sequences .
+Some of these leader Cell .
+Author manuscript ; available in PMC 2011 March 3 .
+Page 8 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript RNAs rely on the same mechanism to detect more than one signal whereas others utilize different means of controlling gene expression in response to one signal .
+For example , two riboswitches located in tandem , one responding to S - adenosylmethionine and the other to coenzyme B12 , control transcription of the metE gene in Bacillus clausii ( Sudarsan et al. , 2006 ) .
+In other cases , a cis - acting riboswitch can also function as a trans - acting regulatory RNA to modulate the expression of genes located somewhere else in the genome ( Loh et al. , 2009 ) .
+The mgtA leader described here constitutes a singular example of an mRNA leader that utilizes different mechanisms to sense different signals .
+We determined that the mRNA leader corresponding to the Mg 2 + transporter gene mgtA harbors a translated ORF rich in proline codons designated mgtL ( Figures 1 and S1 ) , which is conserved in other bacterial species ( Figures 3A and 3B ) and enables Salmonella to regulate transcription elongation into the mgtA CR in response to the levels of cytoplasmic proline .
+Whereas the mgtA leader RNA senses Mg 2 + directly ( Cromie et al. , 2006 ) , it monitors proline levels in an indirect fashion , via mgtL translation ( Figure 4A ) using an attenuation - like mechanism ( Landick et al. , 1996 ; Henkin and Yanofsky , 2002 ) .
+The dual sensing ability of the mgtA leader allows Salmonella to transcribe the mgtA CR not only when Mg 2 + levels drop below a certain threshold ( Cromie and Groisman , 2010 ; Cromie et al. , 2006 ) , but also under conditions resulting in a decrease in cytosolic proline levels ( Figures 4E and 4F ) .
+The discovery of a translatable ORF in the mgtA leader ( Figure 1 and Figure S1 ) suggests a possible explanation for the recent observation that the mRNA levels corresponding to the 5 ′ - most 127 nucleotides of the mgtA leader are present at much higher levels than those for the 3 ′ - most 94 nucleotides of the mgtA leader when Salmonella is grown in high Mg 2 + media ( Spinelli et al. , 2008 ) .
+This is because the RNA - processing enzyme RNase E , which has been implicated in mgtA mRNA degradation during - growth in high Mg 2 + ( Spinelli et al. , 2008 ) , can target nascent transcripts as well as complete messages ( Hammarlof and Hughes , 2008 ) .
+Therefore , the ribosome translating mgtL , which extends to position 124 in the mgtA leader ( Figure 1 ) , could protect the 5 ′ region of the mgtA leader from RNase E action resulting in higher levels of this portion of the RNA .
+mgtL Translation Regulates Transcription of the mgtA CR We determined that interfering with mgtL translation increased the mRNA levels for the mgtA CR ( Figures 4A , 4D , 4E and 4F ) .
+This appears to result from the formation of a particular secondary structure ( i.e. , stem - loop C ) in the mgtA leader ( Figures 1 and 7A ) that promotes transcription elongation into the mgtA CR as nucleotide substitutions impeding formation of stem - loop C ( Cromie et al. , 2006 ) prevented derepression provoked by stop codon mutations in mgtL ( Figure 4A ) .
+Because transcription and translation are coupled in bacteria and because the ribosome occupies ~ 30 nucleotides , covering 12 -- 15 nucleotides from the P - site ( Laursen et al. , 2005 ) , the position that a translating ribosome reaches in mgtL relative to the sequences that make up stem - loop C would determine whether transcription continues into the mgtA CR ( Figures 1 and 7A ) .
+If the ribosome is too close to the sequences that make up stem - loop C , then , the alternative stem - loop B would form ( Figures 1 and 7A ) , and transcription would not continue into the mgtA CR .
+For instance , stop codons at positions 80 -- 82 , 89 -- 91 , 98 -- 100 or 107 -- 109 in the mgtA leader resulted in derepression whereas a stop codon at position 110 -- 112 did not ( Figure 4A ) .
+Yet , the stop codon at position 107 -- 109 no longer derepressed expression if nucleotides 110 -- 112 were also deleted ( Figure 4A ) , which moved the mgtL stop codon only six nucleotides away from the left arm of stem - loop C ( Figure 1 ) .
+It was recently reported that a chromosomal C98T mutation in the leader RNA causes constitutive high expression of the mgtA CR ( O'Connor et al. , 2009 ) .
+In the original Cell .
+Author manuscript ; available in PMC 2011 March 3 .
+Page 9 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript description of this mutation , it was not clear why this nucleotide substitution should alter mgtA expression , but we now see that it created a stop codon in mgtL that is identical to the mutation we had previously constructed , which resulted in constitutive high expression of mgtA ( Figures 4A and 4B ) .
+The mgtL proline codons are located at positions 77 -- 79 , 83 -- 85 , 89 -- 91 and 95 -- 97 ( Figure 1 ) , which correspond to the region where placing a stop codon results in derepression ( Figure 4A ) .
+Therefore , we propose that when cytosolic proline levels are low , there would be less proline - charged tRNAs , resulting in ribosome stalling at mgtL proline codons .
+This would favor formation of stem - loop C and transcription elongation into the mgtA CR ( Figure 7A ) .
+In contrast , when cytosolic proline levels are high , the ribosome would translate the complete mgtL sequence thereby occluding the left arm of stem - loop C and , in this manner , favor formation of stem - loop B ( Figure 7A ) and hinder transcription of the mgtA CR .
+Interestingly , despite utilizing different mechanisms to sense proline and Mg 2 + , the mgtA leader relies on formation of the same structure -- stem - loop C -- to promote transcription elongation into the mgtA CR because mutations that hinder formation of stem - loop C prevented the derepression caused by stop codons in mgtL ( Figure 4A ) and by low Mg 2 + ( Figure 4B ) ( Cromie et al. , 2006 ) .
+The regulation of mgtA by changes in the cytosolic proline concentration is reminiscent of class I transcription attenuation , where certain amino - acid biosynthetic operons are regulated by translation of a short ORF in the LR .
+These ORFs are rich in codons specifying the amino - acid ( s ) synthesized by the enzymes encoded in the operon ( Landick et al. , 1996 ) .
+Yet , there are significant differences between the two systems : First , mgtA codes for a transporter rather than an amino - acid biosynthetic enzyme .
+This provides experimental support for the proposal , based on genomic analysis , that classical transcriptional attenuators might direct the expression of operons mediating functions other than nutrient biosynthesis ( Merino and Yanofsky , 2005 ) .
+Second , the position of the leader ORF relative to the potential RNA secondary structures that can be adopted differs between the mgtA leader ( Figure 7A ) and the leaders of attenuation - regulated amino - acid biosynthetic operons such as the trp operon ( Figure 7B ) .
+This provides a plausible explanation for the opposite effects that mutation of the leader ORF start codon has in these two classes of leaders .
+It results in super attenuation for the trp operon ( Landick and Yanofsky , 1987 ) because there would be no ribosomes to stall at Trp codons , which would result in formation of a terminator structure ( Figure 7B ) .
+However , it gives rise to derepression of the mgtA CR ( our unpublished results ) because formation of stem - loop C would be favored when mgtL is not translated ( Figure 7A ) .
+Third , an intrinsic terminator structure forms in the trp leader when the levels of charged tRNA Trp are high and the ribosome does not pause at the consecutive Trp codons in the leader ORF ( Landick and Yanofsky , 1987 ) ( Figure 7B ) .
+This is in contrast to the absence of an intrinsic transcription terminator in the mgtA leader where sequences located downstream of the stem - loop B structure ( Figure 1 ) are necessary to control transcription elongation into the mgtA CR ( Cromie et al. , 2006 ) by an unknown mechanism .
+And fourth , apart from utilizing a classical transcription attenuation - like mechanism to mediate the response to proline , the mgtA leader senses Mg 2 + directly functioning as a riboswitch ( Cromie et al. , 2006 ) .
+This raises the intriguing possibility of classical transcriptional attenuators also sensing physical and/or chemical signals directly .
+High Osmolarity Enhances the mRNA Levels of the Mg 2 + Transporter Gene mgtA Why does proline limitation promote transcription of the Mg 2 + transporter gene mgtA ?
+We contemplated the possibility of the MgtA protein being a conduit for proline whereby cells experiencing low proline would derepress expression of a proline import system .
+Author manuscript ; available in PMC 2011 March 3 .
+Page 10 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript we found that 14 C - proline uptake was similar between wild - type and mgtA Salmonella , and between a triple mutant lacking all known proline uptake systems ( ProP , ProU and PutP ) ( Csonka and Leisinger , 2007 ) and the isogenic mgtA derivative ( our unpublished results ) .
+We also considered that MgtA - mediated Mg 2 + uptake might be necessary for proline biosynthesis because the activity of the proline biosynthetic enzyme glutamate 5 - kinase is Mg 2 + - dependent ( Perez - Arellano et al. , 2005 ) .
+Yet , inactivation of the mgtA gene did not render Salmonella auxotrophic for proline ( our unpublished results ) .
+We determined that hyperosmotic shock promoted an increase in the mRNA levels corresponding to the mgtA CR ( Figure 6A ) .
+This appears to result from a transient decrease in the levels of charged proline tRNAs taking place when proline is used as an osmoprotectant , as there would be less cytosolic proline available to charge the tRNA Pro s. Indeed , the increase in mgtA mRNA levels was severely compromised if the osmotic shock was alleviated by the osmoprotectant glycine betaine , which did not influence mgtA expression when added in the absence of NaCl ( Figure 6A ) .
+The osmotic shock - promoted increase in the mRNA levels for the mgtA CR requires the mgtL proline codons because a mutant with substitutions in all four proline codons in mgtL lost the ability to derepress the mgtA CR mRNA in response to hyperosmotic shock ( Figure 6B ) .
+Why does hyperosmotic shock induce transcription of the Mg 2 + transporter gene mgtA when Salmonella also harbors the constitutively - expressed Mg 2 + transporter CorA ?
+On the one hand , high - osmolarity promotes excretion of putrescine ( Schiller et al. , 2000 ) , which constitutes the major organic divalent cation in bacterial cells and is normally bound to nucleic acids ( Wortham et al. , 2007 ) .
+This might create an increased need for Mg 2 + in order to neutralize the negatively - charged DNA and RNA , and to stabilize structures such as membranes and ribosomes , which could be affected during hyperosmotic - stress .
+On the other hand , CorA - mediated Mg 2 + uptake may be compromised because it is driven by the membrane potential ( Froschauer et al. , 2004 ) , which decreases in cells experiencing high osmolarity ( Csonka , 1989 ) .
+Yet , this stress would not affect Mg 2 + uptake by the P - type ATPase MgtA protein because it is energized by ATP hydrolysis ( Maguire , 1992 ) .
+That proline limitation promotes expression of the MgtA Mg 2 + transporter suggests there is a physiological connection between proline and Mg 2 + .
+In agreement with this notion , transcription of the proline transporter gene proP is promoted during - growth in low Mg 2 + by the PhoP protein ( Eguchi et al. , 2004 ) , which directs transcription initiation of the mgtA gene ( Garcia Vescovi et al. , 1996 ) .
+EXPERIMENTAL PROCEDURES Bacterial Strains , Plasmids , Primers and Growth Conditions Bacterial strains and plasmids used in this study are listed in Table S1 .
+Primers used in this study are listed in Table S2 .
+Unless otherwise stated , bacteria were grown at 37 °C in Luria - Bertani ( LB ) broth or in N - minimal - medium , pH 7.4 ( Snavely et al. , 1991 ) supplemented with 0.1 % casamino - acids , 38 mM glycerol , and the indicated concentration of MgCl 2 .
+Construction of Strains with Chromosomal Mutations Deletion strains were constructed using the one - step inactivation method ( Datsenko and Wanner , 2000 ) .
+See the Extended Experimental Procedures for detailed protocols .
+Treatment with Bacteriostatic Protein Synthesis Inhibitors An overnight bacterial culture grown in N - minimal - medium with 10 mM MgCl 2 was used to inoculate 125 ml flasks containing 10 ml of the same medium ( 1:50 dilution ) and grown for Cell .
+Author manuscript ; available in PMC 2011 March 3 .
+Page 11 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript 3 h at 37 °C with shaking .
+To promote PhoP - dependent mgtA transcription initiation , bacteria were washed and resuspended in 10 ml of N - minimal - medium with 500 µM MgCl 2 .
+Following growth for 1 h , a 500 µl aliquot was removed to determine the mRNA levels before treatment .
+Subsequently , tetracycline ( to 25 µg/ml final concentration ) or chloramphenicol ( to 200 µg/ml final concentration ) was added and bacteria were grown for 15 min , when they were harvested and their RNA isolated for analysis .
+Effect of Proline Limitation Bacteria were grown overnight in modified N - minimal - medium containing 0.2 % glucose , 10 mM MgCl 2 , and 1 mM proline .
+The overnight culture was used to inoculate 125 ml flasks containing 10 ml of the same medium ( 1:50 dilution ) and grown for 3 h at 37 °C with shaking .
+The harvested bacteria were washed in the modified N - minimal - medium containing 500 µM MgCl 2 , and grown in 10 ml of the same medium with 1 mM proline for 1 h .
+After removing a 250 µl aliquot to determine the mRNA levels before treatment , the harvested bacteria were washed with the modified N - minimal - medium containing 500 µM MgCl 2 , and suspended in 100 µl of the same medium .
+To see the effect of proline limitation , the suspended bacterial cells were split into two flasks containing the modified N - minimal media with 500 µM MgCl 2 and a mixture of each of the 19 essential amino - acids ( 50 µM final concentration for each of them ) : one flask contained 1 mM proline and the other no proline added .
+Bacteria were grown for 15 min , when they were harvested and their RNA isolated for analysis .
+Testing Effect of Growth in High Versus Low Mg 2 + Bacteria were grown overnight in modified N - minimal - medium containing 0.2 % glucose , 10 mM MgCl 2 , and 1 mM proline .
+The harvested bacteria were washed in the modified N - minimal - medium containing 500 µM MgCl 2 and this culture was used to inoculate 125 ml flasks containing 10 ml of the modified N - minimal - medium containing either 500 µM MgCl 2 or 10 µM MgCl 2 ( 1:50 dilution ) and grown for 3.5 h at 37 °C with shaking .
+The bacteria were then harvested and their RNA isolated for analysis .
+Testing Effect of Mg 2 + and/or Proline Limitation Treatment Bacteria were grown overnight in modified N - minimal - medium containing 0.2 % glucose , 10 mM MgCl 2 , and 1 mM proline .
+The overnight culture was used to inoculate 125 ml flasks containing 20 ml of the same medium ( 1:50 dilution ) and grown for 3 h at 37 °C with shaking .
+The harvested bacteria were washed in the modified N - minimal - medium containing 500 µM MgCl 2 , and grown in 20 ml of the same medium with 1 mM proline for 1 h .
+The harvested bacteria were washed with the modified N - minimal - medium containing 500 µM MgCl 2 , and suspended in 200 µl of the same medium .
+This cell suspension was used to inoculate 125 ml flasks containing 5 ml of media containing either 500 µM MgCl 2 and 1 mM proline , 500 µM MgCl 2 and no proline , no MgCl 2 and 1 mM proline , or no MgCl 2 and no proline ( 1:100 dilution ) .
+Bacteria were grown for 15 min , when they were harvested and their RNA isolated for analysis .
+Testing Effect of Hyperosmotic Shock Bacteria were grown overnight in modified N - minimal - medium containing 0.2 % glucose , 0.1 % casamino - acids and 10 mM MgCl 2 .
+The overnight culture was used to inoculate 125 ml flasks containing 20 ml of the same medium ( 1:50 dilution ) and grown for 3.5 h at 37 °C with shaking .
+The harvested bacteria were washed in modified N - minimal - medium containing 500 µM MgCl 2 , without casamino - acids and suspended in 250 µl of the same medium .
+This cell suspension was used to inoculate 125 ml flasks containing 5 ml of the modified N - minimal - medium without casamino - acids containing 500 µM MgCl 2 and either Cell .
+Author manuscript ; available in PMC 2011 March 3 .
+Page 12 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript no additional supplements , 1 mM glycine betaine , 0.3 M NaCl , 0.3 M NaCl and 1 mM glycine betaine or 0.3 M NaCl and 1 mM proline .
+Bacteria were grown for 1 h at 37 °C with shaking , when they were harvested and their RNA isolated for analysis .
+RNA Isolation and Determination of Transcript Levels β - galactosidase assays Total RNA was extracted using RNeasy ® Mini Kit ( Qiagen ) .
+cDNA was synthesized using TaqMan ® Reverse Transcription Reagents ( Applied Biosystems ) following the manufacturer 's instructions .
+Quantification of transcripts was performed by real - time PCR using Fast SYBR Green Master Mix ( Applied Biosystems ) in an ABI 7500 Sequence Detection System ( Applied Biosystems ) .
+A list of primers used for qRT - PCR is presented in Supplemental Experimental Procedures .
+See the Extended Experimental Procedures for detailed protocol .
+β - galactosidase activity was determined as described ( Cromie et al. , 2006 ) .
+Supplementary Material Acknowledgments Refer to Web version on PubMed Central for supplementary material .
+We thank Laszlo Csonka , Kerry Hollands , Robert Landick and Charles Yanofsky for comments on the manuscript , Henry Huang for the plasmid harboring supF and John Roth for strains .
+This work was supported , in part , by grant AI49561 from the NIH to EAG who is an Investigator of the Howard Hughes Medical Institute .
+Bader MW , Sanowar S , Daley ME , Schneider AR , Cho U , Xu W , Klevit RE , Le Moual H , Miller SI .
+Recognition of antimicrobial peptides by a bacterial sensor kinase .
+[ PubMed : 16096064 ] Barchiesi J , Castelli ME , Soncini FC , Vescovi EG .
+mgtA Expression is induced by rob overexpression and mediates a Salmonella enterica resistance phenotype .
+[ PubMed : 18487336 ] Blanc - Potard AB , Groisman EA .
+The Salmonella selC locus contains a pathogenicity island mediating intramacrophage survival .
+[ PubMed : 9311997 ] Brennan RG , Link TM .
+Hfq structure , function and ligand binding .
+[ PubMed : 17395525 ] Cayley S , Lewis BA , Record MT Jr. .
+Origins of the osmoprotective properties of betaine and proline in Escherichia coli K - 12 .
+[ PubMed : 1537801 ] Chen JW , Bennett DC , Umbarger HE .
+Specificity of attenuation control in the ilvGMEDA operon of Escherichia coli K - 12 .
+[ PubMed : 1706705 ] Choi E , Groisman EA , Shin D. Activated by different signals , the PhoP/PhoQ two - component system differentially regulates metal uptake .
+[ PubMed : 19801407 ] Cromie MJ , Groisman EA .
+Promoter and riboswitch control of the Mg 2 + transporter MgtA from Salmonella enterica .
+[ PubMed : 19897653 ] Cromie MJ , Shi Y , Latifi T , Groisman EA .
+An RNA sensor for intracellular Mg 2 + Cell 2006 ; 125:71 -- 84 .
+Physiological and genetic responses of bacteria to osmotic - stress .
+[ PubMed : 2651863 ] Csonka , LN. ; Leisinger , T. Chapter 3.6.1.4 .
+In : Cohen , G. , editor .
+Biosynthesis of Proline In EcoSal -- Escherichia coli and Salmonella : Cellular and Molecular Biology .
+Washington , DC : ASM press ; 2007 .
+Author manuscript ; available in PMC 2011 March 3 .
+Page 13 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript Datsenko KA , Wanner BL .
+One - step inactivation of chromosomal genes in Escherichia coli K - 12 using PCR products .
+[ PubMed : 10829079 ] Eguchi Y , Okada T , Minagawa S , Oshima T , Mori H , Yamamoto K , Ishihama A , Utsumi R. Signal transduction cascade between EvgA/EvgS and PhoP/PhoQ two - component systems of Escherichia coli .
+[ PubMed : 15126461 ] Froschauer EM , Kolisek M , Dieterich F , Schweigel M , Schweyen RJ .
+Fluorescence measurements of free [ Mg 2 + ] by use of mag - fura 2 in Salmonella enterica .
+[ PubMed : 15268937 ] Garcia Vescovi E , Soncini FC , Groisman EA .
+Mg 2 + as an extracellular signal : environmental regulation of Salmonella virulence .
+[ PubMed : 8548821 ] Grundy FJ , Henkin TM .
+From ribosome to riboswitch : control of gene expression in bacteria by RNA structural rearrangements .
+[ PubMed : 17092822 ] Hammarlof DL , Hughes D. Mutants of the RNA - processing enzyme RNase E reverse the extreme slow - growth phenotype caused by a mutant translation factor EF - Tu .
+Riboswitch RNAs : using RNA to sense cellular metabolism .
+[ PubMed : 19141470 ] Henkin TM , Yanofsky C. Regulation by transcription attenuation in bacteria : how RNA provides instructions for transcription termination/antitermination decisions .
+[ PubMed : 12210530 ] Landick , R. ; Turnbough , CL. ; Yanofsky , C. Transcription Attenuation .
+In : Neidhardt , FC. , editor .
+Escherichia coli and Salmonella Cellular and Molecular Biology .
+Washington , DC : ASM Press ; 1996 .
+Landick , R. ; Yanofsky , C. Transcription Attenuation .
+In : Ingraham , JL. , editor .
+Escherichia coli and Salmonella Cellular and Molecular Biology .
+Washington , DC : ASM Press ; 1987 .
+Laursen BS , Sorensen HP , Mortensen KK , Sperling - Petersen HU .
+Initiation of protein synthesis in bacteria .
+[ PubMed : 15755955 ] Lejona S , Aguirre A , Cabeza ML , Garcia Vescovi E , Soncini FC .
+Molecular characterization of the Mg 2 + - responsive PhoP - PhoQ regulon in Salmonella enterica .
+[ PubMed : 14563863 ] Loh E , Dussurget O , Gripenland J , Vaitkevicius K , Tiensuu T , Mandin P , Repoila F , Buchrieser C , Cossart P , Johansson J .
+A trans - acting riboswitch controls expression of the virulence regulator PrfA in Listeria monocytogenes .
+MgtA and MgtB : prokaryotic P - type ATPases that mediate Mg 2 + influx .
+Magnesium transporters : properties , regulation and structure .
+[ PubMed : 16720382 ] Merino E , Yanofsky C. Transcription attenuation : a highly conserved regulatory strategy used by bacteria .
+[ PubMed : 15851059 ] O'Connor K , Fletcher SA , Csonka LN .
+Increased expression of Mg 2 + transport proteins enhances the survival of Salmonella enterica at high - temperature .
+[ PubMed : 19805196 ] Perez - Arellano I , Rubio V , Cervera J. Dissection of Escherichia coli glutamate 5 - kinase : functional impact of the deletion of the PUA domain .
+[ PubMed : 16337196 ] Prost LR , Daley ME , Le Sage V , Bader MW , Le Moual H , Klevit RE , Miller SI .
+Activation of the bacterial sensor kinase PhoQ by acidic pH. Mol .
+[ PubMed : 17466620 ] Schiller D , Kruse D , Kneifel H , Kramer R , Burkovski A. Polyamine transport and role of potE in response to osmotic - stress in Escherichia coli .
+[ PubMed : 11029450 ] Shin D , Lee EJ , Huang H , Groisman EA .
+A positive feedback loop promotes transcription surge that jump - starts Salmonella virulence circuit .
+[ PubMed : 17158330 ] Snavely MD , Miller CG , Maguire ME .
+The mgtB Mg 2 + transport locus of Salmonella typhimurium encodes a P - type ATPase .
+Author manuscript ; available in PMC 2011 March 3 .
+Page 14 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript Soncini FC , Garcia Vescovi E , Solomon F , Groisman EA .
+Molecular basis of the magnesium deprivation response in Salmonella typhimurium : identification of PhoP - regulated genes .
+[ PubMed : 8752324 ] Spinelli SV , Pontel LB , Garcia Vescovi E , Soncini FC .
+Regulation of magnesium homeostasis in Salmonella : Mg 2 + targets the mgtA transcript for degradation by RNase E. FEMS Microbiol .
+[ PubMed : 18248433 ] Sudarsan N , Hammond MC , Block KF , Welz R , Barrick JE , Roth A , Breaker RR .
+Tandem riboswitch architectures exhibit complex gene control functions .
+[ PubMed : 17038623 ] Turnbough CL Jr , Switzer RL .
+Regulation of pyrimidine biosynthetic gene expression in bacteria : repression without repressors .
+[ PubMed : 18535147 ] Winkler WC , Breaker RR .
+Regulation of bacterial gene expression by riboswitches .
+[ PubMed : 16153177 ] Wortham BW , Patel CN , Oliveira MA .
+Polyamines in bacteria : pleiotropic effects yet specific mechanisms .
+[ PubMed : 17966408 ] Yanofsky C , Horn V. Role of regulatory features of the trp operon of Escherichia coli in mediating a response to a nutritional shift .
+[ PubMed : 7928995 ] Zuker M. Mfold web server for nucleic acid folding and hybridization prediction .
+Author manuscript ; available in PMC 2011 March 3 .
+Page 15 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript Figure 1 .
+Expression of the Salmonella Mg 2 + Transporter Gene mgtA Is Regulated by the PhoP / PhoQ System , the Rob Protein and by the mgtA LR When the sensor PhoQ detects low extracytoplasmic Mg 2 + , acid - pH or antimicrobial peptides , it promotes phosphorylation of the PhoP protein , which binds to the mgtA promoter resulting in transcription initiation .
+Rob promotes mgtA transcription in response to a yet unidentified signal .
+Transcription elongation into the mgtA CR is regulated by the mgtA leader via a Mg 2 + - sensing riboswitch and by translation of an 18 - codon proline - rich ORF designated mgtL .
+The mgtL ribosome binding site is denoted by RBS adjacent to a black line .
+Positions and sequences of stop codon mutations in the strains used in the experiments presented in Figure 4 are denoted below the linear mgtL RNA sequence .
+Author manuscript ; available in PMC 2011 March 3 .
+Page 16 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript Mg 2 + and high proline conditions promote formation of stem - loop B , hindering transcription elongation into the mgtA CR .
+Low Mg 2 + and/or low proline favor formation of stem - loop C , resulting in transcription of the mgtA CR .
+See also Figure S1 .
+Author manuscript ; available in PMC 2011 March 3 .
+Page 17 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript Figure 2 .
+Plasmid pSL55 Promotes mgtA - lac Transcription by Interfering with mgtL Translation ( A ) β - galactosidase activity ( Miller units ) from a chromosomal mgtA - lac transcriptional fusion driven by the p lac1 -- 6 promoter was determined in wild - type ( YS809 ) , carB ( SP31 ) and hfq ( SP54 ) strains harboring plasmids pSL55 , pSL55 - Mut or a control plasmid .
+Bacteria were grown in LB - medium for 4.5 h. Shown are the mean and SD from two independent experiments .
+( B ) Nucleotide sequences corresponding to positions 61 to 75 from the mgtA LR including the mgtL ribosome binding sequence ( RBS ; horizontal black line ) and start codon ( bold AUG ) ( top ) ; the sequence of pSL55 - derived transcript that is complementary to the mgtA Cell .
+Author manuscript ; available in PMC 2011 March 3 .
+Page 18 leader mRNA ( middle ) ; and the sequence of pSL55 - Mut - derived transcript that is no longer complementary to the mgtA leader mRNA ( bottom ) .
+NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript Cell .
+Author manuscript ; available in PMC 2011 March 3 .
+Page 19 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript Figure 3 .
+The Presence of an Open Reading Frame and Ribosome Binding Site Is Conserved in the mgtA LR from Salmonella enterica , Escherichia coli , Shigella flexneri , Citrobacter koseri , Klebsiella pneumoniae , Enterobacter sp. 638 , Dickeya zeae , Dickeya dadantii , and Serratia proteamaculans ( A ) Alignment of the RNA sequences corresponding to the ribosome binding site and mgtL from the species listed above .
+Sequences in blue correspond to mgtL .
+Asterisks correspond to nucleotides conserved in all species .
+( B ) Alignment of the deduced amino - acid sequences corresponding to mgtL from the species listed above .
+Sequences in yellow correspond to proline residues .
+Asterisks correspond to positions conserved in all species .
+Author manuscript ; available in PMC 2011 March 3 .
+Page 20 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript Figure 4 .
+Translation of mgtL Governs Transcription Elongation beyond the mgtA LR ( A ) β - galactosidase activity ( Miller units ) produced by wild - type Salmonella ( 14028s ) harboring plasmid pYS1010 with the wild - type mgtA leader ( Cromie et al. , 2006 ) , or derivatives with stop codons at different positions in mgtL and/or mutations that hinder stem - loop C formation : pstop 80 -- 82 ; pstop 89 -- 91 ; pstop 98 -- 100 ; pstop 107 -- 109 ; pstop 110 -- 112 ; pstop 107 -- 109 Δ110 -- 112 ; pYS1010 - G120C ; pstop 80 -- 82 - G120C ; pYS1010 - C145G ; and pstop 98 -- 100 - C145G .
+Bacteria were grown in N - minimal - medium with 10 mM Mg 2 + for 4 h. Shown are the mean and SD from at least three independent experiments .
+( B ) β - galactosidase activity produced by the strains listed in ( A ) .
+Bacteria were grown in N - minimal - medium with 10 µM Mg 2 + for 4 h. Shown are the mean and SD from at least three independent experiments .
+( C ) β - galactosidase activity produced by wild - type Salmonella ( 14028s ) harboring plasmid pUHsupF or the plasmid vector pUH21 - 2lacIq , and pYS1010 or its derivatives with UAG ( pstop 98 -- 100 ( amber ) ) or UGA ( pstop 98 -- 100 ( opal ) ) stop codons at position 98 -- 100 in the mgtA leader .
+Bacteria were grown in N - minimal - medium with 500 µM Mg 2 + for 3 h and with 1 mM IPTG for 1 h. Shown are the mean and SD from three independent experiments .
+( D ) Fold change in the mRNA levels of the mgtA LR and the mgtA and phoP CRs produced by wild - type Salmonella ( 14028s ) treated with the protein synthesis inhibitor tetracycline ( 25 µg/ml ) .
+Expression levels of target genes were normalized to that of 16S ribosomal RNA rrs gene .
+Fold change was calculated by dividing the mRNA levels from samples taken 15 min after treatment with - tetracycline ( T15 ' ) by that of samples taken before addition of the antibiotic ( T0 ' ) .
+Shown are the mean and SD from three independent experiments .
+( E ) Fold change in the mRNA levels of the mgtA LR and the mgtA and phoP CRs produced by a proline auxotrophic strain ( EG19886 ) grown in modified N - minimal media with 500 µM Mg 2 + in the presence of 1 mM proline for 1 h , and then grown for 15 min in media containing or lacking proline .
+Expression levels of target genes were normalized as described in ( D ) .
+Fold change was calculated by dividing the mRNA levels of cells grown in the absence of proline by that of cells grown in the presence of proline .
+Shown are the mean and SD from three independent experiments .
+( F ) Fold change in the mRNA levels of the mgtA LR and the mgtA and phoP CRs produced by wild - type Salmonella ( 14028s ) grown and analyzed as described in ( D ) .
+Shown are the mean and SD from two independent experiments .
+See also Figure S2 .
+Author manuscript ; available in PMC 2011 March 3 .
+Page 21 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript Figure 5 .
+The mgtA Leader Responds to Proline and Mg 2 + Independently , and Requires the mgtL Proline Codons for Regulation of the mgtA CR by Changes in the Proline Concentration ( A ) Fold change in the mRNA levels of the mgtA LR and the mgtA and phoP CRs produced by a proline auxotroph ( SP1 ; mgtL + ) , or derivatives in which the mgtL proline codon at the third position was substituted ( SP2 ; Pro3 ) , the last three mgtL proline codons were substituted ( SP61 ; Pro5 ,7,9 ) , or in which all mgtL proline codons were substituted ( SP8 ; Pro3 ,5,7,9 ) .
+Bacteria were grown and mRNA was analyzed as described in Figure 4E .
+Shown are the mean and SD from three independent experiments .
+( B ) Fold change in the mRNA levels of the mgtA LR and the mgtA and phoP CRs produced by the strains described in ( A ) .
+Bacteria were grown in modified N - minimal - medium with Cell .
+Author manuscript ; available in PMC 2011 March 3 .
+Page 22 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript 10 µM or 500 µM Mg 2 + for 3.5 h. Expression levels of target genes were normalized as described in ( A ) .
+Fold change was calculated by dividing the mRNA levels of cells grown in N - minimal - medium with 10 µM Mg 2 + by those present in cells grown in 500 µM Mg 2 + .
+Shown are the mean and SD from three independent experiments .
+( C ) Relative mRNA levels of the mgtA LR and the mgtA and phoP CRs produced by a proline auxotroph ( EG19886 ) that experienced 500 µM Mg 2 + and 1 mM proline , 500 µM Mg 2 + and no proline , 5 µM Mg 2 + and 1 mM proline , or 5 µM Mg 2 + and no proline for 15 min .
+Relative mRNA levels were calculated by dividing the mRNA levels of cells grown in a given condition by those present in cells grown in 500 µM Mg 2 + and 1 mM proline .
+Shown are the means and SD from three independent experiments .
+Author manuscript ; available in PMC 2011 March 3 .
+Page 23 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript Figure 6 .
+Hyperosmotic Shock Promotes Transcription of the mgtA CR in a Process that Requires the mgtL Proline Codons Relative mRNA levels of the mgtA LR and the mgtA and phoP CRs produced by wild - type Salmonella ( YS957 ) ( A ) , or a derivative in which all mgtL proline codons were substituted ( EG19870 ) ( B ) .
+Bacteria were grown for 1 h in modified N - minimal - medium without casamino - acids containing 500 µM Mg 2 + and either no additional supplements ( − ) , 1 mM glycine betaine ( G ) , 0.3 M NaCl ( N ) , 0.3 M NaCl and 1 mM glycine betaine ( NG ) or 0.3 M NaCl and 1 mM proline ( NP ) .
+Relative mRNA levels were calculated by dividing the mRNA levels of cells grown under the specified condition by the mRNA levels present in Cell .
+Author manuscript ; available in PMC 2011 March 3 .
+Page 24 cells grown in 500 µM Mg 2 + ( i.e. , with no additional supplement ) .
+Shown are the mean and SD from three independent experiments .
+NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript Cell .
+Author manuscript ; available in PMC 2011 March 3 .
+Page 25 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript Figure 7 .
+Regulation of Transcription Elongation into the mgtA and trp CRs by ORFs Located within their Respective LRs ( A ) Regulation of transcription elongation by the mgtA leader RNA .
+Top : when proline levels are limiting in the cytosol , a ribosome translating mgtL stalls at proline codons , which favors formation of stem - loop C and results in transcription of the mgtA CR .
+Middle : when proline levels are not limiting in the cytosol , a ribosome can translate the complete mgtL ORF , which favors formation of stem - loop B and hinders transcription elongation into the mgtA CR by an unknown mechanism .
+Bottom : A ribosome loads but can not translate a mutant mgtA leader with nucleotide substitutions in the mgtL start codon , which favors formation of stem - loop C and results in transcription of the mgtA CR .
+( B ) Regulation of transcription elongation by the trp leader RNA .
+Top : when tryptophan levels are limiting in the cytosol , a ribosome translating trpL stalls at tryptophan codons , Cell .
+Author manuscript ; available in PMC 2011 March 3 .
+Page 26 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript which favors formation of an antiterminator structure and results in transcription of the trp operon .
+Middle : when tryptophan levels are not limiting in the cytosol , a ribosome can translate the complete trpL ORF , which favors formation of an intrinsic transcription terminator and there is no transcription of the trp operon .
+Bottom : A ribosome loads but can not translate a mutant trp leader with nucleotide substitutions in the trpL start codon , which favors formation of both the anti - antiterminator and terminator structures and there is no transcription of the trp operon .
+Note the different position of the mgtL and trpL ORFs relative to the sequences forming stem - loop C and the anti - antiterminator structures , respectively , which determines the different phenotypes resulting from mutation of the mgtL and trpL start codons .
+Author manuscript ; available in PMC 2011 March 3 .

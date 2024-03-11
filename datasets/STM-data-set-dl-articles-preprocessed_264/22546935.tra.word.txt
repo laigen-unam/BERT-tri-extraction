@@ -1,0 +1,445 @@
+review RNA Biology 9:4 , 437 - 445 ; April 2012 ; © 2012 Landes Bioscience sRNAs and the virulence of Salmonella enterica serovar Typhimurium Magali Hébrard , 1 Carsten Kröger , 1 Shabarinath Srikumar , 1 Aoife Colgan , 1 Kristian Händler 1 and Jay C. D. Hinton 1 , * 1 Department of Microbiology , School of Genetics and Microbiology , Moyne Institute of Preventive Medicine , Trinity College Dublin ; Dublin , Ireland REVIEW The combination of genomics and high - throughput cDNA sequencing technologies has facilitated the identification of many small RNAs ( sRNAs ) that play a central role in the posttranscriptional gene regulation of Salmonella enterica serovar Typhimurium .
+To date , most of the functionally characterized sRNAs have been involved in the regulation of processes which are not directly linked to virulence .
+Just five sRNAs have been found to affect the ability of Salmonella to replicate within mammalian cells , but the precise regulatory mechanisms that are used by sRNAs to control Salmonella pathogenicity at the post - transcriptional level remain to be identified .
+It is anticipated that an improved understanding of sRNA biology will shed new light on the virulence of Salmonella .
+Introduction Salmonella enterica serovar Typhimurium ( S. Typhimurium ) is a well - characterized enteropathogen which causes both gastroenteritis and serious systemic infections .
+In humans , salmonellosis is mainly contracted by the ingestion of contaminated food or water .
+The annual cost of Salmonella infection in the US is estimated to be US$ 3 billion .
+1 Thus , Salmonella continues to have a big impact upon human life , and the control of this bacterium remains a significant challenge for the food industry .
+The fact that Salmonella bacteria have been found in a number of different sites in the body during infection and at different stages of food processing reflects the ability of the microbes to thrive in many environmental conditions .
+Salmonella can sense its environment and rapidly adapt to changing conditions , a process which is mediated by regulation at the transcriptional , post - transcriptional and translational levels .
+The key players involved in this adaptation process are transcription factors and nucleoid - associated proteins , as well as the more recently identified regulatory small RNAs ( sRNAs ) .
+Though the first evidence for the existence of bacterial sRNAs was reported in 1967 , 2 most of the discoveries of bacterial sRNAs have only occurred in the last decade .
+The identification of sRNAs in * Correspondence to : Jay C. D. Hinton ; Email : jay.hinton@tcd.ie Submitted : 02/07/12 ; Revised : 04/16/12 ; Accepted : 04/23/12 http://dx.doi.org/10.4161/rna.20480 Enterobacteriaceae initially focused on non - pathogenic strains of Escherichia coli .
+3 - 6 The strategy for finding sRNAs involved bioinformatic screens that were validated by experimental approaches using transcriptomic tools such as tiling microarrays and high - throughput cDNA sequencing ( RNA - seq ) .
+7 To date , hundreds of sRNAs have been identified in bacteria , but roles in virulence have only been elucidated for a minority .
+RNAIII of Staphylococcus aureus was the first regulatory sRNA shown to be involved in bacterial pathogenicity by targeting at least five mRNAs that encode virulence - factors .
+8 - 10 Other examples of virulence - associated sRNAs have been described in a recent review .
+11 Here we survey the sRNAs identified in S. Typhimurium to date and discuss our current understanding of the role of sRNAs in the control of virulence .
+We then focus on the regulation of these sRNAs and their target mRNAs .
+Small RNAs in bacteria .
+sRNAs are stable and abundant transcripts of about 50 -- 500 nucleotides in length which are usually non - coding and exhibit a regulatory function .
+Posttranscriptional gene regulation by sRNAs may occur in different ways by base - pairing interaction with a target RNA resulting in different outcomes or by directly binding to proteins to modulate their function .
+12 - 14 Two distinct classes of sRNAs have been identified : trans - encoded RNAs which are transcribed from intergenic regions of the genome , and cis - encoded RNAs which are encoded on the strand complementary to coding sequences or the 5 ' or 3 ' untranslated region ( 5 ' UTR , 3 ' UTR ) of transcripts .
+15 - 17 The family of trans - encoded sRNAs usually requires the chaperone Hfq to stabilize the often imperfect base - pairing interaction with target mRNA .
+18 In contrast , cisencoded sRNAs possess a region of perfect complementarity to their target mRNA and Hfq is not needed for target binding .
+It is now clear that sRNAs are involved in many key physiological processes including anaerobic - growth , nutrient availability , iron homeostasis and the response to oxidative , envelope and osmotic stress .
+9,19 - 23 Insights from sRNA research in Salmonella .
+Much of the initial investigation of riboregulation by sRNAs involved nonpathogenic E. coli strains as a model .
+The more recent use of Salmonella as a model organism allows us to ask new questions about sRNAs involved in virulence in a variety of infection models , in the context of a well - established array of genetic tools .
+Next to E. coli , Salmonella is now the best - characterized model of sRNA - mediated regulation in Gram - negative bacteria .
+To www.landesbioscience.com RNA Biology 437 © 2012 Landes Bioscience .
+date , the largest sRNA regulon has been identified in Salmonella , Figure 1 .
+An overview of published small RNA regulatory networks in S. Typhimurium .
+24,25,29,32,33,36,37,45,56,57,74,93 - 98 with the GcvB sRNA controlling expression of ~ 1 % of the S. Typhimurium genome ( Fig. 1 ) .
+24,25 These studies expand our view on the biological significance of sRNAs , establishing them as global gene regulators .
+Key mechanistic findings from studies in Salmonella have advanced our basic understanding of sRNA - mediated regulation in bacteria .
+The distinct modular structure of sRNAs , including the highly conserved target binding region ( also referred as to the `` seed '' region ) , was demonstrated for the σ E - dependent sRNA RybB in Salmonella .
+Fusion of this seed region to an unrelated sRNA backbone permitted full repression of the RybB regulon .
+26 - 28 Current techniques for the discovery of sRNA targets .
+To complement the identification of new sRNAs , several methods allowing the discovery of sRNAs targets have been developed in Gram - negative bacteria .
+For trans - encoded sRNAs , the basepairing interaction with mRNAs is imperfect and often requires Hfq .
+One example is the Hfq - associated sRNA MicC sRNA which silences S. Typhimurium ompD mRNA and only requires a ⩽ 12 - bp RNA duplex within the CDS ( codons 23 -- 26 ) for repression .
+29 Different bioinformatic tools allow the prediction of the binding regions of sRNA and mRNA by combining comparative genomics with a search for certain physical parameters .
+TargetRNA calculates optimal hybridization scores between an sRNA and all mRNAs in the genome .
+30 IntaRNA is a method for the prediction of interactions between two RNAs based on minimization of an extended hybridization energy .
+31 Although most of these software tools can confirm previously known findings , they should be considered as predictive tools that often produce false - positive results and require experimental validation .
+As the interaction of cis - encoded sRNAs involves a perfect match , the identification of their targets is more straightforward .
+IsrA is a cis - encoded RNA present on the complementary strand to the STM0294 .1 gene , which encodes a protein with no clear functional annotation .
+Padalon - Brauch et al. have shown that IsrA is expressed during exponential phase , osmotic - stress , peroxide stress and cold - shock , and downregulated during stationary phase ( Fig. 2 ) .
+The expression of STM0294 .1 shows the opposite pattern to that of IsrA , and so it has been suggested that IsrA could regulate transcription of STM0294 .1 .
+32 Pulse - expression of sRNAs has been developed as an efficient method to identify mRNA targets , because classical genetic approaches often result in quite subtle phenotypes for sRNA mutants .
+33,34 The technique involves the rapid overproduction of an sRNA followed by the use of a microarray to identify bacterial transcripts that were bound by the sRNA and subsequently degraded by an RNaseE - dependent mechanism .
+33 This approach has been used to elucidate large regulons of as many as 50 genes controlled by a single sRNA ( Fig. 1 ) .
+The regulatory interaction between sRNAs and candidate mRNA targets must be confirmed within living bacterial cells , and can be done with a GFP - based two - plasmid reporter system .
+The ablation of GFP fluorescence by expression of the sRNA confirms the direct effect of an sRNA upon its mRNA target .
+438 RNA Biology Volume 9 Issue 4 © 2012 Landes Bioscience .
+Differential expression of S. Typhimurium island - encoded sRNAs during - growth under various stress conditions determined by northern blot analysis - 32 or RT - PCR .
+57 Expression levels are shown as high , medium , low and no expression .
+32 Cultures of S. Typhimurium were grown under different conditions ( described from left - hand side ) : Cells grown in LB to an OD 600 of 0.3 , 1 and 4.5 ; Oxygen limitation -- overnight growth without agitation in 50 mL Falcon tubes to an OD 600 of 0.9 ; Osmotic stress -- cells grown in LB containing elevated ( 0.5 M ) NaCl levels for 30 min ; Oxidative stress using 0.2 mM paraquat ( PQ ) and 1 mM hydrogen - peroxide ( H 2 O 2 ) ; Iron limiting conditions -- addition of 0.2 mM 2,2 ' dipyridyl ; pH stress -- LB at pH 4.9 ( adjusted with HCl ) and LBK media at pH 8.4 ; N min low Mg and N min high Mg -- N minimal media with 10 µM MgCl 2 ( low magnesium ) and 10 mM MgCl 2 ( high magnesium ) ; Cold shock at 15 °C and heat - shock at 42 °C ; Intra - macrophage 1h and 8h -- within activated J774.A1 macrophage cells assayed using gentamycin protection assay ; 32 In vitro conditions resembling the gastrointestinal tract .
+57 This is measured accurately by flow cytometry , on agar plates or by determining the GFP protein levels by western blotting .
+35 The attribution of the role of a particular sRNA can be complicated by functional redundancy as it is well known that several sRNAs can silence the same target mRNA .
+For example , MicC , RybB , InvR and SdsR all negatively regulate the ompD gene ( Fig. 1 ) .
+26,29,36,37 In this case , the effect of deleting one sRNA could be masked by the action of the remaining three sRNAs , and it may be necessary to delete all the sRNAs regulating a particular pathway to observe a clear phenotype .
+Another example of functional redundancy is the Csr system which modulates carbon metabolism and also regulates SPI1 and SPI2 expression through HilD .
+38 It comprises two sRNAs , CsrB and CsrC and the RNA chaperone CsrA .
+39,40 Although the single mutants ΔcsrB or ΔcsrC are not impaired in their ability to infect epithelial cells , a ΔcsrB ΔcsrC mutant shows a significant invasion defect .
+While complementation with either CsrB or CsrC leads only to partial restoration of wild - type levels of invasion , the presence of both www.landesbioscience.com RNA Biology 439 Table 1A .
+Thirty four S. Typhimurium sRNAs that are not required for murine virulence * sRNA name ( Alternative name ) First reported in Upstream gene Downstream gene Relevant references ArcZ ( SraH , RyhA ) E. coli yhbL acrB 74 , 99 CsrB E. coli yqcC syd 100 , 40 CyaR E. coli yegQ SL2113 93 ( RyeE ) 71 , 75 DsrA E. coli yodD yedP GcvB ( IS145 ) E. coli gcvA ygdI 101 , 24 , 25 GlmY ( SroF , tke1 ) E. coli yfhK purG 102 , 103 GlmZ ( SraJ , k19 , RyiA ) E. coli yifK hemY 102 , 103 InvR ( STnc270 ) Salmonella invH SL2880 37 IsrB - 1 ( IS092 ) Salmonella SL0946 SL0947 32 IsrC ( IS102 ) Salmonella envF msgA 32 IsrE ( RyhB - 2 , RfrB ) Salmonella SL1208 yeaQ 32 MicA ( SraD ) E. coli luxS gshA 104 , 33 , 96 , 105 MicC ( IS063 , tke8 ) E. coli nifJ ynaF 29 MicF E. coli ompC yojN 106 , 107 , 95 MicM ( RybC , ChiX , SroB ) E. coli ybaK ybaP 63 , 108 MntS ( RybA ) E. coli ybiP mntR 5 OmrA ( RygB ) E. coli aas galR 27 Do not distribute .
+OmrB ( t59 , RygA , SraE ) E. coli aas galR 27 RprA ( ISO83 ) E. coli ydiK ydiL 72 , 75 RybB ( p25 ) E. coli SL0845 SL0846 5 , 33 , 109 , 28 , 26 RydB ( tpe7 , IS082 ) E. coli ydiH SL1302 5 RydC ( IS067 ) E. coli SL1568 cybB 4 , 110 SdsR ( RyeB , tpke79 ) E. coli SL1806 SL1807 111 , 36 RyfA ( tp1 , PAIR3 ) E. coli SL2496 sseB 5 RyhB ( RyhB - 1 , SraI , IS176 , RfrA ) E. coli yhhX yhhY 5 SgrS ( RyaA ) E. coli yobN leuD 112 , 94 , 45 SibC ( t27 , RygC , QUAD1c ) E. coli ygfA serA 113,114 SibD ( tp8 , RygD , C0730 ) E. coli yqiK rfaE 113,114 Spot42 ( spf ) E. coli polA yihA 115,116 SraA ( psrA/t15 ) E. coli clpX lon 3 SraB ( pke2 ) E. coli SL1126 yceD 3 SraF ( tpk1 , IS160 , PRE - element ) E. coli yceD ygjT 3 , 117 SraL ( RyjA ) E. coli soxR SL4203 3 SroC E. coli gltJ gltI 63 Target mRNAs of some sRNAs are shown in Figure 1 .
+61 for details of virulence experiments .
+sRNAs expressed in trans is necessary to rescue the invasion defect , illustrating the difficulties in assigning virulence - associated functions to sRNAs .
+Conservation of small RNAs between Salmonella and E. coli .
+The last decade witnessed increasing numbers of sRNAs being discovered in E. coli and Argaman et al. reported that about 24 sRNAs were conserved between Salmonella and E. coli .
+3,41 This important finding prompted the use of conservation analysis to discover new sRNAs in E. coli .
+5 The advent of bacterial whole genome sequencing and the use of RNA - seq led 440 RNA Biology Volume 9 Issue 4 Table 1B .
+Five sRNAs involved in virulence of S. Typhimurium sRNA name Target mRNA Role in virulence References IsrJ Control of effector protein production 32 IsrM hilE , sopA Modulates the expression of SPI1 proteins via hilE ; downregulates SopA 57 IstR tisAB SOS induced toxic peptide -- Inhibits growth allowing DNA repair 62,61 OxyS SroA Regulates about 40 genes ; including rpoS Riboswitch element of the thiBPQ operon Inhibits alternate stress adaptation pathways during oxidative stress 20,32,61 Putative import of Thiamine and Thiamine pyrophosphate 61 to the discovery of the widespread nature of sRNAs , many of which were found to be highly conserved in intergenic regions in bacteria .
+Approximately 400 sRNAs have now been predicted in about 70 microbial genomes , including those of the Escherichia , Shigella and Salmonella genera , 42 and comparative analyses of the genomes of different Salmonella serovars and E. coli have shown the levels of sRNA conservation .
+Recent studies have reported similar levels ( 48 -- 67 % ) of conservation among Salmonella and E. coli species .
+43,44 The large number of non - conserved small RNAs suggests that species - specific sRNAs could have specialized roles in pathogenicity .
+However , even highly conserved sRNAs were shown to regulate species - specific virulence - factors as demonstrated by Papenfort et al. 45 In this study , the Salmonella - specific effector protein SopD was shown to be regulated by the ancestral Do not distribute .
+sRNA SgrS , which is found in both pathogenic and non - pathogenic species .
+Expression profiles of S. Typhimurium sRNAs and their role during infection .
+S. Typhimurium and E. coli diverged from a common ancestor about 100 -- 130 million years ago and share about 71 % of their genetic information .
+46 - 48 S. Typhimurium possesses a unique set of attributes that allow it to survive in the hostile environments associated with each stage of animal infection , and to colonize different intracellular niches within mammalian cells .
+For instance , once ingested , this bacterium must first cope with an increase in temperature followed by the acidic environment of the stomach .
+In the intestine , the microorganism is subjected to increased osmolarity , a decrease in oxygen tension , bile and competition with the intestinal microbiota .
+49 Salmonella can subsequently enter and proliferate within non - phagocytic and phagocytic cells , where the pathogen resists intracellular defense mechanisms such as antimicrobial peptides , the acidification of the Salmonella - containing vacuole ( SCV ) and the production of reactive oxygen and nitrogen species .
+In response to these stressful conditions , S. Typhimurium must quickly modulate its transcriptional profile , raising the possibility that the rapid gene regulation mediated by sRNAs would be particularly relevant .
+50 Monitoring sRNA expression could reveal patterns of induction relevant to the strategies used by Salmonella to survive within host cells .
+An sRNA involved in Salmonella virulence was first reported in the year 2000 .
+51 Deletion of the bi - functional transfer - mRNA ( tmRNA ) , which rescues ribosomes stalled on defective mRNAs ( reviewed in ref .
+52 ) , resulted in an avirulent Salmonella mutant in mouse infections .
+Binding of tmRNA to stalled ribosomes requires the small protein SmpB which has been shown to be important for proliferation of Salmonella in macrophages .
+53,54 In an attempt to find S. Typhimurium specific sRNAs that had not already been characterized in E. coli , the Altuvia lab used a computational approach to identify and validate 19 new sRNAs located in intergenic regions of the Salmonella pathogenicity islands ( SPIs ) .
+32 The sRNA expression was monitored by northern blot analysis both in media mimicking infection - relevant stress conditions and directly inside macrophages .
+Many of the islandencoded sRNAs were induced in conditions including stationary phase growth , in minimal - medium , upon temperature shock , acidity and oxidative - stress ( Fig. 2 ) .
+In macrophages , expression of IsrC and IsrN was induced early during infection and then decreased as the infection progressed , similar to the results shown earlier for OxyS in E. coli .
+20,55 Conversely , IsrE ( RyhB2 ) , RyhB1 and IsrH showed increased levels of expression later during infection .
+The differential expression patterns suggest a role for sRNAs at different stages of infection .
+In contrast , IsrH has recently been shown to be downregulated during infection of fibroblasts , in which wild - type Salmonella is non - replicative .
+56 Two of the island - encoded sRNAs , IsrJ and IsrM , were found to be particularly important for Salmonella proliferation within non - phagocytic cells and/or macrophages .
+32,57 IsrJ is upregulated under conditions which promote invasion of epithelial cells and is positively regulated by HilA , the central transcriptional activator of SPI1 .
+The deletion of isrJ results in a less invasive mutant strain that is impaired for translocation of the effector protein SptP , which is required for remodelling the host cell cytoskeleton after bacterial entry .
+32,58 The ΔisrM mutant showed a broad virulence defect , with reduced invasion of epithelial cells , lower intracellular replication/survival in macrophages , and reduced growth in the ileum and spleen of mice .
+57 IsrM post - transcriptionally represses the expression of virulence - factors hilE and sopA .
+Most SPI1 genes are negatively regulated by HilE through sequestration of HilD , the major transcriptional activator of SPI1 , while SopA is a secreted effector protein that is involved in causing inflammation and diarrhea .
+59,60 IsrM therefore aids in choreographing the expression of virulence - factors .
+www.landesbioscience.com RNA Biology 441 © 2012 Landes Bioscience .
+PhoQ , the kinase in the PhoPQ two component regulatory sys - Another study to identify sRNAs required for S. Typhimurium In E. coli , the translation of RpoS is repressed by OxyS 68 virulence focused on 37 sRNAs that are conserved in both E. coli and the sigma factor is positively regulated by 3 Hfq - dependent and S. Typhimurium .
+Single small RNA deletion mutants were sRNAs , namely DsrA , ArcZ and RprA , which act by relieving the tested by competitive index in the murine infection model .
+A inhibitory secondary structure that prevents rpoS translation .
+71 - 73 key finding of this study was that 34 of the tested 37 sRNAs did This type of regulation is conserved , but is less pronounced in not play a role in Salmonella virulence ( Table 1A ) .
+61 Only two Salmonella , questioning the significance of DsrA , ArcZ and sRNA mutants , ΔsroA and ΔistR gave a reproducible attenuated RprA for Salmonella virulence .
+74,75 Further study of the function phenotype in mice , with a reduced ability to compete with the of the RpoS sigma factor in S. Typhimurium is required , and may wild - type strain ( Table 1B ) .
+The IstR sRNA , which was originally identified in E. coli by the Altuvia lab in 2004 , inhibits the Hfq as a mediator of sRNA regulation .
+The Hfq protein is a lead to the identification of more links with sRNA biology .
+synthesis of an SOS - induced toxic peptide .
+62 The SroA RNA is key player in the global post - transcriptional regulatory network assumed to result from attenuated transcription of a riboswitch that facilitates the interactions of Salmonella sRNAs with target element of the thiBPQ mRNA that codes for proteins involved mRNAs .
+18 Deletion of hfq in Salmonella gives rise to a non - motile in thiamine uptake , 63,64 but its function remains unclear .
+In contrast , one strain lacking the OxyS sRNA was shown to be hyper - invade epithelial cells , secrete virulence - factors and to survive and strain which is highly attenuated in its ability to infect mice , virulent .
+OxyS , a member of the OxyR regulon , is upregulated proliferate within macrophages .
+These significant phenotypes by micromolar levels of peroxide and coordinates the cellular suggest that Hfq interacts with a number of sRNAs which are response to oxidative - stress .
+54,76,77 As most trans - acting sRNAs depend AmgR is a 1.2 Kb antisense transcript encoded on the complementary strand to the mgtCBR operon .
+The mgtC gene encodes a erone can facilitate the binding of an sRNA to its target mRNA upon Hfq to stabilize their binding to target mRNAs , the chap - protein necessary for Salmonella to survive within macrophages , and thereby prevent translation or induce target degradation .
+to grow in low Mg 2 + environments and for virulence in mice .
+66 Hfq can also bring about positive regulation by recruiting an sRNA to its target binding site and thereby de - stabilizing secondary structures which inhibit target translation .
+78,79 Additionally , tem , senses low levels of Mg 2 + and the response regulator PhoP induces transcription of the mgtCBR operon .
+AmgR regulates Hfq can regulate sRNA levels independently from their mRNA expression of the mgtCBR operon by de - stabilizing the mgtC and targets by protecting sRNAs from endonucleolytic decay .
+80 There mgtB transcripts in an RNaseE - dependent manner .
+An amgR are several suggestions as to how Hfq regulates sRNAs by controlling the base - pairing interaction between the sRNA and its mutant strain was found to be more virulent than the wild - type target mRNA .
+The protein may act as a catalyst which increases the amgR promoter , leading to amgR expression in low Mg 2 + conditions .
+Therefore , PhoP has an apparently paradoxical effect on and an mRNA to stabilize the imperfect base - pairing between the rate of complex formation between the trans - acting sRNA mgtC expression as it directly activates both mgtC and amgR , but the two RNAs , as duplex formation in the absence of Hfq is relatively poor .
+81,82 AmgR has a repressive effect on mgtC .
+This regulatory mechanism may have evolved to titrate the levels of MgtC expressed at In E. coli , Hfq has been demonstrated to interact with other appropriate times during infection .
+67 RNA - associated proteins , such as PNPase , an exoribonuclease , The published roles of sRNAs in the virulence of S. and PAP , a poly ( A ) polymerase which may add an additional Typhimurium are summarized in Tables 1A and 1B , and it level of sRNA regulation by Hfq .
+83 Recently , it was also suggested that Hfq plays a role in transcription termination in E. coli is likely that the list of sRNAs that are required for infection will increase in the future .
+The expression profiles derived from by associating with the transcription termination factor Rho .
+84 northern - blot and RT - PCR analyses of 19 island - encoded sRNAs Furthermore , limiting concentrations of Hfq can regulate sRNAs are shown in Figure 2 , and it is apparent that the levels of sRNAs as the abundance of Hfq per cell remains fairly constant while vary in different environmental conditions .
+The recent profiling the amount of its target sRNAs can increase under - certain - conditions .
+85 Sequestration of Hfq can therefore serve to modulate of 13 sRNAs during infection of fibroblasts showed that the levels of sRNAs varied during an infection time - course .
+56 The levels of sRNA function by creating competition for binding between different sRNAs .
+This was demonstrated in E. coli when overexpres - regulatory sRNAs within bacterial cells are likely to give clues to their function , and so expression profiling should be a useful sion of one sRNA led to a decrease in the accumulation of other discovery tool in the future .
+sRNAs , as Hfq protein levels become limiting .
+86 This method RpoS and Salmonella virulence .
+The alternative sigma factor RpoS ( σ 38 ) plays a key role in Salmonella infection and is profile of a strain overexpressing ArcZ which showed some simi - of regulation by Hfq was also suggested by the transcriptomic required for full virulence of S. Typhimurium .
+68,69 Specifically , larities to that of an ∆ hfq mutant , indicating that an individual RpoS is important for persistence in lymphoid organs , such as the sRNA may displace other sRNAs from Hfq .
+74 spleen and liver , and for the initial stages of infection in murine Future prospects : Next - Generation Sequencing .
+RNA - seq is Peyer 's patches .
+69 RpoS also activates the plasmid - borne spvR and now the tool of choice for the discovery of novel small RNAs in spvABCD genes , which are required for intracellular growth and bacteria .
+77,87,88 The rapid reduction in the costs of RNA - seq will systemic infection in mice and humans .
+70 lead to increasing numbers of new sRNAs being identified in the near future .
+The addition of small RNA genes to existing genome Do not distribute .
+AmgR is PhoP - dependent and PhoP directly binds 442 RNA Biology Volume 9 Issue 4 annotations will help to shed light on the complex nature of the bacterial transcriptome .
+The recent publication of the transcriptional landscape of S. Typhimurium represents an important advance .
+An RNA - seqbased approach was used to identify the major transcriptional start sites and to define the motif of σ 70 - dependent promoters .
+44 About 140 sRNAs were found to be expressed at one stage of growth .
+The fact that 60 novel sRNAs were discovered in a single set of experiments suggests that next - generation sequencingbased methods will make a big impact upon the RNA world .
+In future , technical advances promise to extend the applicability of RNA - seq for the monitoring of transcriptional changes in complex environments or from the very low ( femtomolar ) amounts of RNA obtained from infected animals .
+89,90 Another challenge will be to simplify the identification of mRNA targets .
+Until now , pulse overexpression of a small RNA and subsequent monitoring of transcript levels using a microarray has been widely used to identify many mRNA targets , 91 but this is a labor - intensive approach .
+Sequence - based target prediction tools are available on the web , and as they become more effective they will be a valuable and costeffective alternative to experimental approaches .
+92 Although many un - answered questions remain about the precise role of sRNAs during the infection process , it is likely that the burgeoning field of sRNA biology will have a great impact on our understanding of Salmonella pathogenicity .
+Acknowledgements We are grateful to anonymous reviewers for their insightful comments , to Karsten Hokamp for assistance with Figure 2 and to Science Foundation Ireland for financial support under Grant Number 08/IN .1 / B2104 .
+Frenzen PD , Riggs TL , Buzby JC , Breuer T , Roberts T , Voetsch D , et al. .
+Salmonella cost estimate updated using FoodNet data .
+Hindley J. Fractionation of 32P - labelled ribonucleic acids on polyacrylamide gels and their characterization by fingerprinting .
+Sharma CM , Darfeuille F , Plantinga TH , Vogel J .
+A small RNA regulates multiple ABC transporter mRNAs by targeting C/A - rich elements inside and upstream of ribosome - binding sites .
+Genes Dev 2007 ; 21:2804 - 17 ; PMID : 17974919 ; http://dx.doi .
+Sharma CM , Papenfort K , Pernitzsch SR , Mollenkopf HJ , Hinton JC , Vogel J. Pervasive post - transcriptional control of genes involved in amino - acid metabolism by PMID : 4865141 ; http://dx.doi.org/10.1016/0022 - 2836 ( 67 ) 90248 - 3 .
+Argaman L , Hershberg R , Vogel J , Bejerano G , Wagner EG , Margalit H , et al. .
+Novel small RNA - encoding genes in the intergenic regions of Escherichia coli .
+Curr Biol 2001 ; 11:941 - 50 ; PMID : 11448770 ; http : / / dx.doi.org/10.1016/S0960 - 9822(01)00270 - 6 .
+Zhang A , Wassarman KM , Rosenow C , Tjaden BC , Storz G , Gottesman S. Global analysis of small RNA and mRNA targets of Hfq .
+Mol Microbiol 2003 ; 50:1111 - 24 ; PMID : 14622403 ; http://dx.doi .
+Wassarman KM , Repoila F , Rosenow C , Storz G , Gottesman S. Identification of novel small RNAs using comparative genomics and microarrays .
+Genes Dev 2001 ; 15:1637 - 51 ; PMID : 11445539 ; http://dx.doi .
+Rivas E , Klein RJ , Jones TA , Eddy SR. .
+Computational identification of noncoding RNAs in E. coli by comparative genomics .
+Curr Biol 2001 ; 11:1369 - 73 ; PMID : 11553332 ; http://dx.doi.org/10.1016/S0960 - 9822 ( 01 ) 00401 - 8 .
+Sorek R , Cossart P. Prokaryotic transcriptomics : a new view on regulation , physiology and pathogenicity .
+Nat Rev Genet 2010 ; 11:9 - 16 ; PMID : 19935729 ; http : / / dx.doi.org/10.1038/nrg2695 .
+Novick RP , Ross HF , Projan SJ , Kornblum J , Kreiswirth B , Moghazeh S. Synthesis of staphylococcal virulence factors is controlled by a regulatory RNA molecule .
+Morfeldt E , Taylor D , von Gabain A , Arvidson S. Activation of alpha - toxin translation in Staphylococcus aureus by the trans - encoded antisense RNA , RNAIII .
+Boisset S , Geissmann T , Huntzinger E , Fechter P , Bendridi N , Possedko M , et al. .
+Staphylococcus aureus RNAIII coordinately represses the synthesis of virulence factors and the transcription regulator Rot by an antisense mechanism .
+Genes Dev 2007 ; 21:1353 - 66 ; PMID : 17545468 ; http://dx.doi.org/10.1101/ gad .423507 .
+Papenfort K , Vogel J. Regulatory RNA in bacterial pathogens .
+Cell Host Microbe 2010 ; 8:116 - 27 ; PMID : 20638647 ; chom .2010.06.008 .
+Majdalani N , Vanderpool CK , Gottesman S. Bacterial small RNA regulators .
+Crit Rev Biochem Mol Biol 2005 ; 40:93 - 113 ; PMID : 15814430 ; http://dx.doi .
+Storz G , Vogel J , Wassarman KM .
+Regulation by small RNAs in bacteria : expanding frontiers .
+Mol Cell 2011 ; 43:880 - 91 ; PMID : 21925377 ; http://dx.doi .
+Pichon C , Felden B. Proteins that interact with bacterial small RNA regulators .
+FEMS Microbiol Rev 2007 ; 31:614 - 25 ; PMID : 17655690 ; http://dx.doi .
+A rough guide to the non - coding RNA world of Salmonella .
+Mol Microbiol 2009 ; 71:1 - 11 ; PMID : 19007416 ; http://dx.doi.org/10.1111/j.1365 - 2958.2008.06505.x .
+Georg J , Hess WR .
+cis - antisense RNA , another level the Hfq - dependent GcvB small RNA .
+Mol Microbiol 2011 ; 81:1144 - 65 ; PMID : 21696468 ; http://dx.doi .
+Papenfort K , Bouvier M , Mika F , Sharma CM , Vogel J. Evidence for an autonomous 5 ' target recognition domain in an Hfq - associated small RNA .
+Proc Natl Acad Sci U S A 2010 ; 107:20435 - 40 ; PMID : 21059903 ; Do not distribute .
+of gene regulation in bacteria .
+Microbiol Mol Biol Rev 2011 ; 75:286 - 300 ; PMID : 21646430 ; http://dx.doi .
+Thomason MK , Storz G. Bacterial antisense RNAs : how many are there , and what are they doing ?
+Annu Rev Genet 2010 ; 44:167 - 88 ; PMID : 20707673 ; http : / / dx.doi.org/10.1146/annurev - genet - 102209 - 163523 .
+Vogel J , Luisi BF .
+Hfq and its constellation of RNA .
+Nat Rev Microbiol 2011 ; 9:578 - 89 ; PMID : 21760622 ; http://dx.doi.org/10.1038/nrmicro2615 .
+Polayes DA , Rice PW , Dahlberg JE .
+DNA polymerase I activity in Escherichia coli is influenced by spot 42 RNA .
+Altuvia S , Weinstein - Fischer D , Zhang A , Postow L , Storz G .
+A small , stable RNA induced by oxidative stress : role as a pleiotropic regulator and antimutator .
+Massé E , Gottesman S .
+A small RNA regulates the expression of genes involved in iron metabolism in Escherichia coli .
+Proc Natl Acad Sci U S A 2002 ; 99:4620 - 5 ; PMID : 11917098 ; http://dx.doi .
+Boysen A , Møller - Jensen J , Kallipolitis B , Valentin - Hansen P , Overgaard M. Translational regulation of gene expression by an anaerobically induced small noncoding RNA in Escherichia coli .
+J Biol Chem 2010 ; 285:10690 - 702 ; PMID : 20075074 ; http://dx.doi .
+Durand S , Storz G. Reprogramming of anaerobic metabolism by the FnrS small RNA .
+Mol Microbiol 2010 ; 75:1215 - 31 ; PMID : 20070527 ; http://dx.doi .
+Guillier M , Gottesman S .
+The 5 ' end of two redundant sRNAs is involved in the regulation of multiple targets , including their own regulator .
+Nucleic Acids Res 2008 ; 36:6781 - 94 ; PMID : 18953042 ; http://dx.doi .
+Balbontín R , Fiorini F , Figueroa - Bossi N , Casadesús J , Bossi L. Recognition of heptameric seed sequence underlies multi - target regulation by RybB small RNA in Salmonella enterica .
+Mol Microbiol 2010 ; 78:380 - 94 ; PMID : 20979336 ; http://dx.doi.org/10.1111/ j.1365 - 2958.2010.07342.x .
+Pfeiffer V , Papenfort K , Lucchini S , Hinton JC , Vogel J. Coding sequence targeting by MicC RNA reveals bacterial mRNA silencing downstream of translational initiation .
+Nat Struct Mol Biol 2009 ; 16:840 - 6 ; PMID : 19620966 ; http://dx.doi.org/10.1038/ nsmb .1631 .
+Tjaden B. TargetRNA : a tool for predicting targets of small RNA action in bacteria .
+Nucleic Acids Res 2008 ; 36 ( Web Server issue ) : W109 - 13 ; PMID : 18477632 ; http://dx.doi.org/10.1093/nar/gkn264 .
+Busch A , Richter AS , Backofen R. IntaRNA : efficient prediction of bacterial sRNA targets incorporating target site accessibility and seed regions .
+Padalon - Brauch G , Hershberg R , Elgrably - Weiss M , Baruch K , Rosenshine I , Margalit H , et al. .
+Small RNAs encoded within genetic islands of Salmonella typhimurium show host - induced expression and role in virulence .
+Nucleic Acids Res 2008 ; 36:1913 - 27 ; PMID : 18267966 ; gkn050 .
+http://dx.doi.org/10.1093/nar/ www.landesbioscience.com RNA Biology 443 33 .
+Papenfort K , Pfeiffer V , Mika F , Lucchini S , Hinton JC , Vogel J. SigmaE - dependent small RNAs of Salmonella respond to membrane stress by accelerating global omp mRNA decay .
+Mol Microbiol 2006 ; 62:1674 - 88 ; PMID : 17427289 ; http://dx.doi.org/10.1111/j.1365 - 2958.2006.05524.x .
+Massé E , Vanderpool CK , Gottesman S. Effect of RyhB small RNA on global iron use in Escherichia coli .
+J Bacteriol 2005 ; 187:6962 - 71 ; PMID : 16199566 ; http : / / dx.doi.org/10.1128/JB.187.20.6962 - 6971.2005 .
+Urban JH , Vogel J. Translational control and target recognition by Escherichia coli small RNAs in - vivo .
+Nucleic Acids Res 2007 ; 35:1018 - 37 ; PMID : 17264113 ; http : / / dx.doi.org/10.1093/nar/gkl1040 .
+Frohlich KS , Papenfort K , Berger AA , Vogel J .
+A conserved RpoS - dependent small RNA controls the synthesis of major porin OmpD .
+Nucleic Acids Res 2011 ; PMID : 22180532 .
+Pfeiffer V , Sittka A , Tomer R , Tedin K , Brinkmann V , Vogel J .
+A small non - coding RNA of the invasion gene island ( SPI - 1 ) represses outer membrane protein synthesis from the Salmonella core genome .
+Martínez LC , Yakhnin H , Camacho MI , Georgellis D , Babitzke P , Puente JL , et al. .
+Integration of a complex regulatory cascade involving the SirA/BarA and Csr global regulatory systems that controls expression of the Salmonella SPI - 1 and SPI - 2 virulence regulons through HilD .
+Mol Microbiol 2011 ; 80:1637 - 56 ; PMID : 21518393 ; http://dx.doi.org/10.1111/j.1365 - 2958.2011.07674.x .
+Timmermans J , Van Melderen L. Post - transcriptional global regulation by CsrA in bacteria .
+Cell Mol Life Sci 2010 ; 67:2897 - 908 ; PMID : 20446015 ; http://dx.doi .
+Fortune DR , Suyemoto M , Altier C. Identification of CsrC and characterization of its role in epithelial cell invasion in Salmonella enterica serovar Typhimurium .
+Infect Immun 2006 ; 74:331 - 9 ; PMID : 16368988 ; http://dx.doi.org/10.1128/IAI.74.1.331 - 339.2006 .
+Hershberg R , Altuvia S , Margalit H .
+A survey of small RNA - encoding genes in Escherichia coli .
+Nucleic Acids Res 2003 ; 31:1813 - 20 ; PMID : 12654996 ; http : / / dx.doi.org/10.1093/nar/gkg297 .
+Huang HY , Chang HY , Chou CH , Tseng CP , Ho SY , Yang CD , et al. sRNAMap : genomic maps for small non - coding RNAs , their regulators and their targets in microbial genomes .
+Nucleic Acids Res 2009 ; 37 ( Database issue ) : D150 - 4 ; PMID : 19015153 ; http : / / dx.doi.org/10.1093/nar/gkn852 .
+Chinni SV , Raabe CA , Zakaria R , Randau G , Hoe CH , Zemann A , et al. .
+Experimental identification and characterization of 97 novel npcRNA candidates in Salmonella enterica serovar Typhi .
+Nucleic Acids Res 2010 ; 38:5893 - 908 ; PMID : 20460466 ; http://dx.doi .
+Kröger C , Dillon SC , Cameron AD , Papenfort K , Sivasankaran SK , Hokamp K , et al. .
+The transcriptional landscape and small RNAs of Salmonella enterica serovar Typhimurium .
+Proc Natl Acad Sci USA 2012 ; In press .
+Papenfort K , Podkaminski D , Hinton JC , Vogel J .
+The ancestral SgrS RNA discriminates horizontally acquired Salmonella mRNAs through a single G - U wobble pair .
+Proc Natl Acad Sci U S A 2012 ; 109 : E757 - 64 ; PMID : 22383560 ; http://dx.doi.org/10.1073/ pnas .1119414109 .
+McClelland M , Sanderson KE , Spieth J , Clifton SW , Latreille P , Courtney L , et al. .
+Complete genome sequence of Salmonella enterica serovar Typhimurium LT2 .
+Doolittle RF , Feng DF , Tsang S , Cho G , Little E. Determining divergence times of the major kingdoms of living organisms with a protein clock .
+Achtman M. Evolution , population structure , and phylogeography of genetically monomorphic bacterial pathogens .
+Annu Rev Microbiol 2008 ; 62:53 - 70 ; PMID : 18785837 ; http://dx.doi.org/10.1146/annurev .
+Alvarez - Ordóñez A , Begley M , Prieto M , Messens W , López M , Bernardo A , et al. .
+Salmonella spp. survival strategies within the host gastrointestinal tract .
+Shimoni Y , Friedlander G , Hetzroni G , Niv G , Altuvia S , Biham O , et al. .
+Regulation of gene expression by small non - coding RNAs : a quantitative view .
+Mol Syst Biol 2007 ; 3:138 ; PMID : 17893699 ; http://dx.doi .
+Julio SM , Heithoff DM , Mahan MJ .
+ssrA ( tmRNA ) plays a role in Salmonella enterica serovar Typhimurium pathogenesis .
+J Bacteriol 2000 ; 182:1558 - 63 ; PMID : 10692360 ; http://dx.doi.org/10.1128/ JB.182.6.1558 - 1563.2000 .
+Moore SD , Sauer RT. .
+The tmRNA system for translational surveillance and ribosome rescue .
+Annu Rev Biochem 2007 ; 76:101 - 24 ; PMID : 17291191 ; http://dx.doi.org/10.1146/annurev .
+Bäumler AJ , Kusters JG , Stojiljkovic I , Heffron F. Salmonella typhimurium loci involved in survival within macrophages .
+Ansong C , Yoon H , Porwollik S , Mottaz - Brewer H , Petritis BO , Jaitly N , et al. .
+Global systems - level analysis of Hfq and SmpB deletion mutants in Salmonella : implications for virulence and global protein translation .
+PLoS One 2009 ; 4 : e4809 ; PMID : 19277208 ; http : / / dx.doi.org/10.1371/journal.pone.0004809 .
+Schlosser - Silverman E , Elgrably - Weiss M , Rosenshine I , Kohen R , Altuvia S. Characterization of Escherichia coli DNA lesions generated within J774 macrophages .
+J Bacteriol 2000 ; 182:5225 - 30 ; PMID : 10960109 ; http : / / dx.doi.org/10.1128/JB.182.18.5225 - 5230.2000 .
+Ortega A , Gonzalo - Asensio J , García - Del Portillo F. Dynamics of Salmonella small RNA expression in nongrowing bacteria located inside eukaryotic cells .
+Gong H , Vu GP , Bai Y , Chan E , Wu R , Yang E , et al. .
+A Salmonella small non - coding RNA facilitates bacterial invasion and intracellular replication by modulating the expression of virulence - factors .
+PLoS Pathog 2011 ; 7 : e1002120 ; PMID : 21949647 ; http://dx.doi .
+Fu Y , Galán JE .
+A salmonella protein antagonizes Rac - 1 and Cdc42 to mediate host - cell recovery after bacterial invasion .
+Zhang S , Santos RL , Tsolis RM , Stender S , Hardt WD , Bäumler AJ , et al. .
+The Salmonella enterica serotype typhimurium effector proteins SipA , SopA , SopB , SopD , and SopE2 act in concert to induce diarrhea in calves .
+Infect Immun 2002 ; 70:3843 - 55 ; PMID : 12065528 ; http://dx.doi.org/10.1128/ IAI.70.7.3843 - 3855.2002 .
+Baxter MA , Fahlen TF , Wilson RL , Jones BD .
+HilE interacts with HilD and negatively regulates hilA transcription and expression of the Salmonella enterica serovar Typhimurium invasive phenotype .
+Infect Immun 2003 ; 71:1295 - 305 ; PMID : 12595445 ; http : / / dx.doi.org/10.1128/IAI.71.3.1295 - 1305.2003 .
+Santiviago CA , Reynolds MM , Porwollik S , Choi SH , Long F , Andrews - Polymenis HL , et al. .
+Analysis of pools of targeted Salmonella deletion mutants identifies novel genes affecting fitness during competitive infection in mice .
+PLoS Pathog 2009 ; 5 : e1000477 ; PMID : 19578432 ; http://dx.doi.org/10.1371/journal .
+Vogel J , Argaman L , Wagner EG , Altuvia S .
+The small RNA IstR inhibits synthesis of an SOS - induced toxic peptide .
+Curr Biol 2004 ; 14:2271 - 6 ; PMID : 15620655 ; http://dx.doi.org/10.1016/j.cub.2004.12.003 .
+Vogel J , Bartels V , Tang TH , Churakov G , Slagter - Jäger JG , Hüttenhofer A , et al. .
+RNomics in Escherichia coli detects new sRNA species and indicates parallel transcriptional output in bacteria .
+Nucleic Acids Res 2003 ; 31:6435 - 43 ; PMID : 14602901 ; http://dx.doi .
+Webb E , Claas K , Downs D. thiBPQ encodes an ABC transporter required for transport of thiamine and thiamine pyrophosphate in Salmonella typhimurium .
+J Biol Chem 1998 ; 273:8946 - 50 ; PMID : 9535878 ; http://dx.doi.org/10.1074/jbc.273.15.8946 .
+Zhang A , Altuvia S , Storz G .
+The novel oxyS RNA regulates expression of the sigma s subunit of Escherichia coli RNA polymerase .
+Nucleic Acids Symp Ser 1997 ; 36:27 - 8 ; PMID : 9478196 .
+Retamal P , Castillo - Ruiz M , Mora GC .
+Characterization of MgtC , a virulence factor of Salmonella enterica Serovar Typhi .
+PLoS One 2009 ; 4 : e5551 ; PMID : 19436747 ; http://dx.doi.org/10.1371/journal .
+Lee EJ , Groisman EA .
+An antisense RNA that governs the expression kinetics of a multifunctional virulence gene .
+Mol Microbiol 2010 ; 76:1020 - 33 ; PMID : 20398218 ; http://dx.doi.org/10.1111/j.1365 - 2958.2010.07161.x .
+Zhang A , Altuvia S , Tiwari A , Argaman L , Hengge - Aronis R , Storz G .
+The OxyS regulatory RNA represses rpoS translation and binds the Hfq ( HF - I ) protein .
+EMBO J 1998 ; 17:6061 - 8 ; PMID : 9774349 ; http : / / dx.doi.org/10.1093/emboj/17.20.6061 .
+Wilmes - Riesenberg MR , Foster JW , Curtiss R 3rd .
+An altered rpoS allele contributes to the avirulence of Salmonella typhimurium LT2 .
+Guiney DG , Fierer J .
+The Role of the spv Genes in Salmonella Pathogenesis .
+Front Microbiol 2011 ; 2:129 ; PMID : 21716657 ; http://dx.doi.org/10.3389/ fmicb .2011.00129 .
+Majdalani N , Cunning C , Sledjeski D , Elliott T , Gottesman S. DsrA RNA regulates translation of RpoS message by an anti - antisense mechanism , independent of its action as an antisilencer of transcription .
+Proc Natl Acad Sci U S A 1998 ; 95:12462 - 7 ; PMID : 9770508 ; http://dx.doi.org/10.1073/pnas.95.21.12462 .
+Majdalani N , Chen S , Murrow J , St John K , Gottesman S. Regulation of RpoS by a novel small RNA : the characterization of RprA .
+Mol Microbiol 2001 ; 39:1382 - 94 ; PMID : 11251852 ; http://dx.doi .
+Mandin P , Gottesman S. Integrating anaerobic/aerobic sensing and the general stress response through the ArcZ small RNA .
+EMBO J 2010 ; 29:3094 - 107 ; PMID : 20683441 ; http://dx.doi.org/10.1038/ emboj .2010.179 .
+Papenfort K , Said N , Welsink T , Lucchini S , Hinton JC , Vogel J. Specific and pleiotropic patterns of mRNA regulation by ArcZ , a conserved , Hfq - dependent small RNA .
+Mol Microbiol 2009 ; 74:139 - 58 ; PMID : 19732340 ; http://dx.doi.org/10.1111/j.1365 - 2958.2009.06857.x .
+Jones AM , Goodwill A , Elliott T. Limited role for the DsrA and RprA regulatory RNAs in rpoS regulation in Salmonella enterica .
+J Bacteriol 2006 ; 188:5077 - 88 ; PMID : 16816180 ; http://dx.doi.org/10.1128/ JB.00206 - 06 .
+Sittka A , Pfeiffer V , Tedin K , Vogel J .
+The RNA chaperone Hfq is essential for the virulence of Salmonella typhimurium .
+Mol Microbiol 2007 ; 63:193 - 217 ; PMID : 17163975 ; http://dx.doi.org/10.1111/j.1365 - 2958.2006.05489.x .
+Sittka A , Lucchini S , Papenfort K , Sharma CM , Rolle K , Binnewies TT , et al. .
+Deep sequencing analysis of small noncoding RNA and mRNA targets of the global post - transcriptional regulator , Hfq .
+PLoS Genet 2008 ; 4 : e1000163 ; PMID : 18725932 ; http://dx.doi .
+444 RNA Biology Volume 9 Issue 4 78 .
+Fröhlich KS , Vogel J. Activation of gene expression by small RNA .
+Curr Opin Microbiol 2009 ; 12:674 - 82 ; PMID : 19880344 ; http://dx.doi.org/10.1016/j .
+Soper TJ , Woodson SA .
+The rpoS mRNA leader recruits Hfq to facilitate annealing with DsrA sRNA .
+RNA 2008 ; 14:1907 - 17 ; PMID : 18658123 ; http : / / dx.doi.org/10.1261/rna.1110608 .
+Moll I , Afonyushkin T , Vytvytska O , Kaberdin VR , Bläsi U. Coincident Hfq binding and RNase E cleavage sites on mRNA and small regulatory RNAs .
+Soper T , Mandin P , Majdalani N , Gottesman S , Woodson SA .
+Positive regulation by small RNAs and the role of Hfq .
+Proc Natl Acad Sci U S A 2010 ; 107:9602 - 7 ; PMID : 20457943 ; http://dx.doi .
+Kawamoto H , Koide Y , Morita T , Aiba H. Base - pairing requirement for RNA silencing by a bacterial small RNA and acceleration of duplex formation by Hfq .
+Mohanty BK , Maples VF , Kushner SR. .
+The Sm - like protein Hfq regulates polyadenylation dependent mRNA decay in Escherichia coli .
+Mol Microbiol 2004 ; 54:905 - 20 ; PMID : 15522076 ; http://dx.doi .
+Rabhi M , Espéli O , Schwartz A , Cayrol B , Rahmouni AR , Arluison V , et al. .
+The Sm - like RNA chaperone Hfq mediates transcription antitermination at Rho - dependent terminators .
+EMBO J 2011 ; 30:2805 - 16 ; PMID : 21673658 ; http://dx.doi.org/10.1038/ emboj .2011.192 .
+Hussein R , Lim HN .
+Disruption of small RNA signaling caused by competition for Hfq .
+Proc Natl Acad Sci USA 2010 ; PMID : 21189298 .
+Moon K , Gottesman S. Competition among Hfqbinding small RNAs in Escherichia coli .
+Mol Microbiol Do not distribute .
+Croucher NJ , Thomson NR .
+Studying bacterial transcriptomes using RNA - seq .
+Curr Opin Microbiol 2010 ; 13:619 - 24 ; PMID : 20888288 ; http://dx.doi .
+Perkins TT , Kingsley RA , Fookes MC , Gardner PP , James KD , Yu L , et al. .
+A strand - specific RNA - Seq analysis of the transcriptome of the typhoid bacillus Salmonella typhi .
+PLoS Genet 2009 ; 5 : e1000569 ; PMID : 19609351 ; http://dx.doi.org/10.1371/journal .
+Ozsolak F , Milos PM .
+Transcriptome profiling using single - molecule direct RNA sequencing .
+Methods Mol Biol 2011 ; 733:51 - 61 ; PMID : 21431762 ; http : / / .
+Mandlik A , Livny J , Robins WP , Ritchie JM , Mekalanos JJ , Waldor MK .
+RNA - Seq - based monitoring of infection - linked changes in Vibrio cholerae gene expression .
+Cell Host Microbe 2011 ; 10:165 - 74 ; PMID : 21843873 ; http://dx.doi.org/10.1016/j .
+Vogel J , Wagner EG .
+Target identification of small noncoding RNAs in bacteria .
+Curr Opin Microbiol 2007 ; 10:262 - 70 ; PMID : 17574901 ; http://dx.doi .
+Tjaden B , Goodwin SS , Opdyke JA , Guillier M , Fu DX , Gottesman S , et al. .
+Target prediction for small , noncoding RNAs in bacteria .
+Nucleic Acids Res 2006 ; 34:2791 - 802 ; PMID : 16717284 ; http://dx.doi .
+Papenfort K , Pfeiffer V , Lucchini S , Sonawane A , Hinton JC , Vogel J. Systematic deletion of Salmonella small RNA genes identifies CyaR , a conserved CRPdependent riboregulator of OmpX synthesis .
+Mol Microbiol 2008 ; 68:890 - 906 ; PMID : 18399940 ; http://dx.doi.org/10.1111/j.1365 - 2958.2008.06189.x .
+Wadler CS , Vanderpool CK .
+Characterization of homologs of the small RNA SgrS reveals diversity in function .
+Nucleic Acids Res 2009 ; 37:5477 - 85 ; PMID : 19620214 ; http://dx.doi.org/10.1093/nar/ gkp591 .
+Corcoran CP , Podkaminski D , Papenfort K , Urban JH , Hinton JC , Vogel J. Superfolder GFP reporters validate diverse new mRNA targets of the classic porin regulator , MicF RNA .
+Mol Microbiol 2012 ; 84:428 - 45 ; PMID : 22458297 ; http://dx.doi.org/10.1111/ j.1365 - 2958.2012.08031.x .
+Bossi L , Figueroa - Bossi N .
+A small RNA downregulates LamB maltoporin in Salmonella .
+Mol Microbiol 2007 ; 65:799 - 810 ; PMID : 17608792 ; http://dx.doi .
+Huang W , Sherman BT , Lempicki RA .
+Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources .
+Nat Protoc 2009 ; 4:44 - 57 ; PMID : 19131956 ; http://dx.doi.org/10.1038/ nprot .2008.211 .
+Huang W , Sherman BT , Lempicki RA .
+Bioinformatics enrichment tools : paths toward the comprehensive functional analysis of large gene lists .
+Nucleic Acids Res 2009 ; 37:1 - 13 ; PMID : 19033363 ; http://dx.doi .
+Monteiro C , Papenfort K , Hentrich K , Ahmad I , Le Guyon S , Reimann R , et al. .
+Hfq and Hfq - dependent small RNAs are major contributors to multicellular development in Salmonella enterica serovar Typhimurium .
+Altier C , Suyemoto M , Lawhon SD .
+Regulation of Salmonella enterica serovar typhimurium invasion genes by csrA .
+Infect Immun 2000 ; 68:6790 - 7 ; PMID : 11083797 ; http://dx.doi.org/10.1128/ IAI.68.12.6790 - 6797.2000 .
+Urbanowski ML , Stauffer LT , Stauffer GV .
+The gcvB gene encodes a small untranslated RNA involved in expression of the dipeptide and oligopeptide transport systems in Escherichia coli .
+Mol Microbiol 2000 ; 37:856 - 68 ; PMID : 10972807 ; http://dx.doi .
+Urban JH , Vogel J. Two seemingly homologous noncoding RNAs act hierarchically to activate glmS mRNA translation .
+PLoS Biol 2008 ; 6 : e64 ; PMID : 18351803 ; http://dx.doi.org/10.1371/journal.pbio.0060064 .
+Göpel Y , Lüttmann D , Heroven AK , Reichenbach B , Dersch P , Görke B. Common and divergent features in transcriptional control of the homologous small RNAs GlmY and GlmZ in Enterobacteriaceae .
+Nucleic Acids Res 2011 ; 39:1294 - 309 ; PMID : 20965974 ; http : / / dx.doi.org/10.1093/nar/gkq986 .
+Rasmussen AA , Eriksen M , Gilany K , Udesen C , Franch T , Petersen C , et al. .
+Regulation of ompA mRNA stability : the role of a small regulatory RNA in growth phase - dependent control .
+Mol Microbiol 2005 ; 58:1421 - 9 ; PMID : 16313626 ; http://dx.doi .
+Kint G , De Coster D , Marchal K , Vanderleyden J , De Keersmaecker SC .
+The small regulatory RNA molecule MicA is involved in Salmonella enterica serovar Typhimurium biofilm formation .
+BMC Microbiol 2010 ; 10:276 ; PMID : 21044338 ; http://dx.doi .
+Mizuno T , Chou MY , Inouye M .
+A unique mechanism regulating gene expression : translational inhibition by a complementary RNA transcript ( micRNA ) .
+Proc Natl Acad Sci U S A 1984 ; 81:1966 - 70 ; PMID : 6201848 ; http://dx.doi.org/10.1073/pnas.81.7.1966 .
+Esterling L , Delihas N .
+The regulatory RNA gene micF is present in several species of gram - negative bacteria and is phylogenetically conserved .
+Mol Microbiol 1994 ; 12:639 - 46 ; PMID : 7523827 ; http://dx.doi .
+Figueroa - Bossi N , Valentini M , Malleret L , Fiorini F , Bossi L. Caught at its own game : regulatory small RNA inactivated by an inducible transcript mimicking its target .
+Genes Dev 2009 ; 23:2004 - 15 ; PMID : 19638370 ; http://dx.doi.org/10.1101/gad.541609 .
+Bouvier M , Sharma CM , Mika F , Nierhaus KH , Vogel J. Small RNA binding to 5 cents mRNA coding region inhibits translational initiation .
+Mol Cell 2008 ; 32:827 - 37 ; PMID : 19111662 ; http://dx.doi .
+Antal M , Bordeau V , Douchin V , Felden B .
+A small bacterial RNA regulates a putative ABC transporter .
+J Biol Chem 2005 ; 280:7901 - 8 ; PMID : 15618228 ; http://dx.doi.org/10.1074/jbc.M413071200 .
+Balbontín R , Figueroa - Bossi N , Casadesús J , Bossi L. Insertion hot spot for horizontally acquired DNA within a bidirectional small - RNA locus in Salmonella enterica .
+Vanderpool CK , Gottesman S. Involvement of a novel transcriptional activator and small RNA in posttranscriptional regulation of the glucose phosphoenolpyruvate phosphotransferase system .
+Mol Microbiol 2004 ; 54:1076 - 89 ; PMID : 15522088 ; http://dx.doi .
+Fozo EM , Kawano M , Fontaine F , Kaya Y , Mendieta KS , Jones KL , et al. .
+Repression of small toxic protein synthesis by the Sib and OhsC small RNAs .
+Han K , Kim KS , Bak G , Park H , Lee Y. Recognition and discrimination of target mRNAs by Sib RNAs , a cis - encoded sRNA family .
+Nucleic Acids Res 2010 ; 38:5851 - 66 ; PMID : 20453032 ; http://dx.doi .
+Møller T , Franch T , Udesen C , Gerdes K , Valentin - Hansen P. Spot 42 RNA mediates discoordinate expression of the E. coli galactose operon .
+Genes Dev 2002 ; 16:1696 - 706 ; PMID : 12101127 ; http://dx.doi .
+Beisel CL , Storz G. Discriminating tastes : Physiological contributions of the Hfq - binding small RNA Spot 42 to catabolite - repression .
+RNA Biol 2011 ; 8:8 ; PMID : 21788732 ; http://dx.doi.org/10.4161/ rna .8.5.16024 .
+Nechooshtan G , Elgrably - Weiss M , Sheaffer A , Westhof E , Altuvia S .
+Genes Dev 2009 ; 23:2650 - 62 ; PMID : 19933154 ; http://dx.doi.org/10.1101/gad.552209 .

@@ -1,0 +1,331 @@
+JOURNAL OF BACTERIOLOGY , Apr. 1984 , p. 141 - 147 0021 - 9193/84 / 040141 - 07 $ 02.00 / 0 Vol .
+158 , No. 1 Functional Limits of the aralF Promoter Suggest an Additional Regulatory Site for araBAD Expression ARNOLD H. HORWITZ , t C. GARRETT MIYADA , t AND GARY WILCOX * Department of Microbiology and Molecular Biology Institute , University of California , Los Angeles , California 90024 The araBAD promoter is defined , in part , by two types of cis - acting constitutive mutations , araIf at position -35 and araXY at position -10 .
+Subcloning experiments demonstrated that the araI ` and aralIXY promoters require DNA sequence information out to position -53 to -56 for maximum constitutive expression .
+This is 8 to 10 base pairs more DNA than is generally thought to be necessary for RNA polymerase interaction .
+The -53 to -56 region is required for glucose repression , suggesting that an additional factor interacts in this region and is necessary for maximum expression .
+The araBAD operon in Escherichia coli requires two positive regulatory proteins for maximum expression ( 8 , 13 ) .
+One is the 3 ' : 5 ' cyclic AMP ( cAMP ) receptor protein ( CRP ) , which requires cAMP to stimulate araBAD expression .
+Like other systems that require this protein , the araBAD operon is sensitive to glucose repression ( 25 ) .
+The second protein is the product of the closely linked , positive regulatory gene , araC , which is specific for the ara system .
+The requirement for araC protein is absolute , since strains that contain a deletion in the araC gene are unable to express araBAD .
+The results of DNA - protection studies have demonstrated that the CRP - cAMP complex binds in - vitro to the araBAD promoter from position -78 to -108 ( + 1 = start of araBAD transcription ) , araC protein ( in the presence of L - arabinose ) binds from -40 to -78 , and RNA polymerase binds from +20 to -40 ( 14 , 19 ) .
+Based on the results of the protection studies as well as other studies on the araBAD operon , several models have been proposed to explain how these regulatory proteins interact with the controlling region DNA to promote araBAD expression ( 14 , 19 , 25 ) .
+A common assumption of these models is that the CRP - cAMP complex interaction occurs at position -78 to -108 to stimulate maximum levels of araBAD expression .
+However , proof of this assumption awaits further experiments .
+The araBAD promoter has been genetically defined , in part , by two classes of cis - acting constitutive mutations .
+One of these , designated aralf , was isolated as a revertant of an araC deletion strain ( 7 , 9 ) .
+This mutation permits a low level of araBAD expression ( 5 to 10 % of wild - type induced levels ) in the absence of the araC gene product .
+Like the wild - type araBAD promoter , the araf promoter requires the CRPcAMP complex for maximum expression and is sensitive to glucose repression ( 1 , 5 ) .
+The other type of mutation , designated araXY , was isolated by mutagenizing an araIc AaraC strain and selecting for a higher - level constitutive mutant ( 5 ) .
+The araXc mutation also maps within the araBAD promoter and is separable from the araf mutation .
+The resulting araIcXY strain constitutively expresses araBAD at 25 to 30o of wild - type induced levels .
+In addition to providing a fivefold stimulation of constitutive expression * t Present address : International Genetic Engineering , Inc. , Santa Monica , CA 90404 .
+t Present address : Beckman Institute of the City of Hope , Department of Molecular Genetics , Duarte , CA 91010 .
+141 over that of the araIc mutation , the araXc mutation confers some resistance to glucose repression .
+We have described the cloning and DNA sequence analysis of the araIc and araXA mutations ( 3 , 11 ) .
+Fourteen independently isolated aralc mutations were examined and found to contain the identical AT - to - GC transition at position -35 of the araBAD promoter .
+Three independently isolated araXc mutations were found to contain the same GC - to - AT transition at position -10 of the promoter ( 11 ) .
+The location of the mutations demonstrated the significance of the -35 and -10 regions of the araBAD promoter , but it did not explain how these mutations function or how they relate to the proposed models ( 14 , 19 , 25 ) for araBAD expression .
+For example , it is difficult to understand how expression of the araf promoter in the absence of araC protein could be modulated by the CRP - cAMP complex , which binds 35 to 65 base pairs ( bp ) upstream from the RNA polymerase interaction site .
+The purpose of this study was to define the functional boundaries of the aralc and aralcXc promoters .
+The plasmids bearing either the aralc or araJvXc promoters cis to araB were uniformly truncated at position -47 by restriction at a BamHI site .
+The resulting plasmids were greatly reduced in their ability to express araB .
+We attempted to reconstruct a functional araIc and araJcXc promoter by cloning specific restriction fragments back into the BamHI site .
+These experiments demonstrate that the araf and arafXY promoters require DNA sequence information out to position -53 to -56 of the promoter .
+We also present results suggesting that glucose repression of both the aralc and aralfXc promoters requires the region between -47 and -53 to -56 .
+The implications of these results are discussed in relation to the proposed models for the wild - type promoter .
+MATERIALS AND METHODS Bacterial strains and plasmids .
+The bacterial strains used in this study are described in Table 1 .
+Plasmids used in this study that have been described previously are shown in Table 1 .
+Plasmids constructed in this study are described in the text and shown in Fig. 1 and 2 and in Table 2 .
+Plasmids were introduced into the various bacterial strains by transformation as described by Cohen et al. ( 4 ) .
+Plasmid DNA was prepared as described by Norgard et al. ( 18 ) .
+Media , chemicals , and enzymes .
+TYE broth has been previously described ( 2 ) .
+Casamino Acids were obtained 142 HORWITZ , MIYADA , AND WILCOX TABLE 1 .
+Bacterial strains and plasmids Strain Genotype Origin or reference Bacterial strainsa SB1652 F - A ( araBPOC - 12 leuBCD ) J119 leu - 6 dau - 5 rpsl LA310 F + araD + A ' 11 A ( araB ) 809 araIl araC + lac gal pro thi hsdS20 LA663 F - A ( araABPOC ) 744 This paper dau - 5 rpsL LA761 F + A ( araABPOC ) 744 This paper lac gal pro thi hsdS20 Plasmidsb pAH1 pBR322 fQ ( PstI , bla ' : : B/r 11 araA'B + r110Xc44 AaraC766 ) pAH5 pBR322 fQ ( PstI , bla ' : : BIr 11 araA'B + r110 AaraC766 pSB198 pBRH4 fQ ( EcoRI : : BIr 24 araA'B + I+C ' ) pAP - C pPV33 fQ ( EcoRI : : BIr 24 araA ` B+I +40 [ araC ' - tet + ] ) pCGM1 pPV33 fQ ( EcoRI : : Blr 17 araA'B + I + AaraACT 44araC ' - tet + ] ) PCGM3 pPV33 Q1 ( EcoRI : : BIr 17 araA'B + I + AaraCRP 44araC ' - tet ' ] ) a Strains SB1652 and LA663 are derivatives of E. coli B/r .
+Strains LA310 and LA761 are derivatives of E. coli K - 12 strain RR1 .
+b Genotype descriptions : Ql , Insertion of a restriction fragment in the designated vector ; 4 [ araC ' - tet ' ] , fusion of the 3 ' end of a truncated araC gene to an intact tet gene ; PstI , bla ' : : , insertion of a PstI restriction fragment at the PstI site in the bla gene of pBR322 ; EcoRI : : , insertion of an EcoRI restriction fragment at the EcoRI site of the designated vector ; B/r , DNA is from E. coli B/r .
+The designation AaraACT refers to a 3 - bp deletion in the araC activator protein binding site at position -57 to -59 of the araBAD promoter .
+The designation AaraCRP refers to a 3 - bp deletion in the CRPcAMP binding site at position -85 to -87 of the araBAD promoter .
+from Difco Laboratories ( Detroit , Mich. ) .
+MacConkey agar base ( Difco ) was supplemented with 10 g of L - arabinose per liter ( Sigma Chemical Co. , St. Louis , Mo. ) .
+Tetracycline hydrochloride ( Sigma ) or ampicillin ( Wyeth Laboratories , Philadelphia , Pa. ) was added when required at a final concentration of 15 or 50 , ug/ml , respectively .
+Agarose ( type II ) and cAMP were obtained from Sigma .
+Phenol and ether were from Mallinckrodt Chemical Corp. ( St. Louis , Mo. ) .
+Cesium chloride was from Kawecki - Berylco ( Long Beach , Calif. ) .
+Acrylamide was from Miles Chemicals ( Elkhart , Ind. ) .
+Ammonium peroxydisulfate and bisacrylamide were from Eastman Organic Chemicals ( Rochester , N.Y. ) .
+[ 5,6 - 3H ] uridine ( specific activity , 55 Ci/mmol ) was from ICN ( Irvine , Calif. ) .
+All enzymes were either purified by published procedures or obtained from commercial sources .
+( i ) Subcloning of arar and araIYXc alleles .
+An EcoRI * digest of plasmid pAH5 containing the aralf allele and plasmid pAH1 ( 11 ) containing the araIcXc allele ( Table 1 ) were ligated to pBR322 digested with EcoRI .
+An EcoRI digest of plasmid pSB198 containing the araIl J. BACTERIOL .
+allele ( Table 1 ) was ligated to pBR322 digested with EcoRI .
+The ligation mixtures were used to transform strain LA310 ( Table 1 ) to Ara ' Tcr Apr. .
+Plasmids were obtained for all three alleles which contained a 2.4 - kilobase EcoRI * fragment in the orientation shown in Fig .
+Plasmids containing a partial araBAD promoter with the araI + , aralc or aralcXc allele were constructed by digesting the plasmids shown in Fig .
+la with BamHI and ligating under conditions which favor a self - closure reaction .
+Plasmids pAH104 ( araI + ) , pAH112 ( araFc ) , and pAH109 ( araFXc ) ( Fig .
+lb ) were generated by this procedure .
+( ii ) Constructing a hybrid Salmonella typhimurium - E .
+The plasmids pAH112 ( araPCB ) and pAH104 ( araIB ) ( Fig .
+lb ) were digested with BamHI and ligated with a 300 - bp Sau3A fragment containing the S. typhimurium ara controlling region sequence upstream from position -47 .
+Plasmids were obtained which contained the 300 - bp Sau3A fragment inserted in the BamHI site in the orientation shown in Fig .
+( iii ) Cloning the synthetic araC and CRP binding - site deletions .
+The araBAD promoter containing AaraACT or AaraCRP from pCGM1 or pCGM3 , respectively ( Table 1 ) , or the wild - type sequence from pAP - C ( Table 1 ) was subcloned into the BamHI site of the partial araf promoter of plasmid pAH112 as follows .
+Plasmids pCGM1 , pCGM3 , and pAP - C were digested with BamHI .
+An 800 - bp BamHI fragment which contains the araBAD promoter region upstream of position -47 ( including AaraACT and AaraCRP ) , the promoter and amino terminus of the araC gene , and the first 350 bp of the tet gene under transcriptional control of the araC promoter ( Table 1 ) was ligated to BamHI - digested pAH112 .
+Plasmids were obtained which contained the 800 - bp BamHI fragment inserted in the BamHI site of pAH112 in the orientation which restores the complete araBAD promoter and the tet gene ( Fig .
+The structure of the plasmids was confirmed by restriction analysis , by their complementation patterns with strain LA310 , and by their Tcr phenotype .
+( iv ) Cloning of the 90 - bp Sau3A fragment from the S. typhimurium araC gene .
+The plasmids pAH112 ( aralB ) and pAH104 ( araI + B ) were digested with BamHI and ligated to a Sau3A digest of a 1.5 - kilobase TaqI fragment which contains the entire coding region of the S. typhimurium araC gene and includes the 90 - bp Sau3A fragment of interest ( see Fig. 3 and below ) .
+The ligated DNAs were transformed into strain SB1652 and plated on MacConkey agar containing arabinose and ampicillin .
+The pAH112 ligation mix gave rise to three types of colonies in SB1652 .
+The majority ( 400 ) resembled the parent plasmid ( + / - response in Table 2 ) and probably resulted from self - closure or insertion of restriction fragments which had no effect on araIc expression .
+Seven weak Ara ' colonies ( + 1 response in Table 2 ) and eight strong Ara + colonies ( +2 response in Table 2 ) were also observed .
+No weak or strong Ara + colonies were observed out of 2,000 colonies with the pAH104 ligation mix .
+Several representatives of each colony type ( weak Ara + and strong Ara + ) were purified , and plasmid DNA was prepared .
+Digestion of the plasmids isolated from the weak Ara + clones with BamHI + AvaI + EcoRI ( see Fig .
+le ) revealed that these plasmids contained an insert of approximately 90 bp which restored the BamHI site in the araBAD promoter .
+A Hinfl digest ( see Fig .
+le ) confirmed that this plasmid contained a 90 - bp BamHI - sensitive insert in the araBAD promoter , and a Sau3A digest confirmed that this plasmid contained a 90 - bp Sau3A fragment not present in pAH112 .
+This plasmid was designated pAH125 and contained the 90 - bp Sau3A fragment VOL .
+158 , 1984 FUNCTIONAL LIMITS OF THE araIr PROMOTER 143 TABLE 2 .
+Genetic complementation tests and mRNA - DNA hybridization assays Plasmid araBAD promoter structurea Complementationb -1 Hybridization to -47 Beyond -47 SB1652 LA310 ( % input cpm ) pHM7 araI + Complete - +2 0.03 pAH104 araI A - - ( R ) < 0.01 pAH131 araI + Sau3A no. 1 - - ( R ) < 0.01 pHM1 aralc Complete +2 +2 0.33 pAH112 araFc A + / - - ( R ) 0.07 pAH125 aralc Sau3A no. 1 +1 - ( R ) 0.13 pAH124 araFc Sau3A no. 2 +2 + / - ND pHM4 araIcXc Complete +2 +2 1.50 pAH109 araIcXc A +2 +1 0.23 pAH132 araIcXc Sau3A no. 1 +2 +2 0.42 pAH129 araIcXc Sau3A no. 2 +2 +2 1.09 pAH105 araI + Complete ( araC + ) +3 +3 4.50 d a Descriptions : complete , araBAD promoter sequences upstream of position -47 are present ; A , araBAD promoter sequences upstream of position -47 have been deleted ; Sau3A no. 1 and no. 2 , 90 - bp Sau3A fragment inserted into BamHI site in orientations 1 or 2 as shown in Fig .
+All or part of the araC gene is deleted in all plasmids except pAH105 .
+b The L - arabinose phenotype was deduced from fermentation response at 24 h on MacConkey agar medium supplemented with L - arabinose : +3 , small , intensely red colonies ; +2 , large red colonies ; +1 , small red center , white periphery ; + / - , pink colony ; - , white colony ; R , recombination at 48 h. c 3H - labeled RNA was prepared as described in the text from strain LA663 containing the various plasmids .
+Hybridized counts per minute were determined by subtracting the counts per minute bound nonspecifically to M13mp2 plus strand DNA from the counts per minute bound to M13mp2 : : araB plus strand DNA .
+The difference was divided by the total input counts per minute .
+The deviation between individual experiments was less than 10 % .
+d Induced with 0.4 % L - arabinose .
+cloned in the BamHI site of pAH112 in the orientation ( designated as no. 1 in Fig .
+le ) which restores the araIf promoter out to position -53 ( see below ) .
+The plasmids isolated from the strong Ara ' clones also contained the 90 - bp Sau3A fragment cloned in the BamHI site of pAH112 but in the opposite orientation ( designated as no. 2 in Fig .
+le ) , which resulted in the BamHI site being restored in pBR322 .
+This plasmid was designated pAH124 .
+The 90 - bp Sau3A fragment in orientation no. 1 ( Fig .
+le ) was subcloned adjacent to the partial araI + and arafXc promoters by using the approach outlined in Fig. 2 .
+The resulting plasmids were designated pAH131 ( araI + ) and pAH132 ( araIcXc ) .
+Plasmid pAH129 was constructed by ligating BamHIdigested pAH109 ( araIcXdB ) with the Sau3A digest of the 1.5 - kilobase TaqI fragment described above .
+The ligated DNA was transformed into strain LA310 .
+Plasmid DNA isolated from clones which gave a +2 response on MacConkey agar containing L - arabinose and ampicillin ( see Table 2 ) was screened for insertion of the 90 - bp Sau3A fragment as described above for pAH124 and pAH125 .
+Complementation assay for araBAD promoter activity .
+Plasmids were assayed for araBAD expression by transforming either strain LA310 or SB1652 ( Table 1 ) .
+Strain LA310 contains a small deletion in araB and is complemented by plasmids containing the araB gene and the intact araBAD promoter .
+Strain SB1652 contains deletion 1119 extending from leuA to araB , placing araA and araD under control of the leucine promoter .
+This strain expresses araA and araD at 30o of wild - type induced levels as a result of a constitutive leu promoter mutation , leu - 6 ( 12 ) .
+Strain SB1652 is complemented by plasmids that contain the araC gene and the araI + allele cis to araB and by plasmids that are araCbut contain the araIc or araIXc alleles cis to araB ( 11 ) .
+Transformed cells were plated on MacConkey agar supplemented with L - arabinose and ampicillin .
+The level of araBAD promoter activity was deduced from a fermentation response at 24 h as described in Table 2 .
+Plasmid - containing cells were first grown to saturation in TYE broth containing ampicillin .
+A loopful of this culture was inoculated into 5 ml of M - 9 medium ( 16 ) supplemented with 10 g of Casamino Acids per liter and 50 , ug of tryptophan , 2 , ug of thiamine hydrochloride , and 50 , ug of ampicillin per ml and incubated at 37 °C to saturation .
+This culture was then diluted 15 to 25 times into 50 ml of the same medium so that the starting turbidity was 20 to 30 Klett units ( filter no. 42 ) .
+The cultures were shaken at 300 rpm and grown at 37 °C .
+All cultures grew at approximately the same rate .
+When the turbidity reached 120 Klett units ( 4 x 108 cells per ml ) , a 10 - ml portion was removed , and 100 pLCi of [ 3H ] uridine was added for 3 min at 30 °C ( 300 rpm ) .
+When required , L - arabinose was added to a final concentration of 0.4 % at a turbidity of 100 Klett units and the cells were grown to a turbidity of 120 Klett units before labeling was performed .
+RNA was isolated as described by Wilcox et al. ( 26 ) .
+DNA - RNA hybridization was performed as described by Miyada et al. ( 17 ) except that 0.5 pug of the M13 - mp2 and M13 - mp2 : : araB plus - strand DNAs were used in the hybridizations .
+RESULTS Subcloning and expression of the BamHI - EcoRI araB fragment .
+The initial experiment to define the functional limits of the araf and aralcXc promoters utilized the BamHI site at position -42 to -47 ( see Fig. 3 ) to remove promoter sequences upstream from position -47 .
+The resulting plasmids , shown in Fig .
+lb , contain an intact araB gene and the first 47 bp of the promoter with either the araI + ( pAH104 ) , aralf ( pAH112 ) , or aralcXc ( pAH109 ) alleles , which were fused to pBR322 at the BamHI site ( see above ) .
+The constitutive activity of the partial aralc and araIcXc promoters was determined by the complementation assay with strain SB1652 ( Table 2 ) .
+The aralc promoter clearly required sequences upstream from position -47 in the araBAD promoter for maximal expression .
+To quantitate the effect of removing the upstream se - 144 HORWITZ , MIYADA , AND WILCOX J. BACTERIOL .
+Kb : a b c d O 1 2 3 4 5 6 7 II I C -4 ~ ~ ~ ~ -44 B C ' let - - b - o o % * araBAD mRNA araC mRNA E o - ~ ~ ~ CoC ~ CL X B ~ - bla 4 ~ ~ ~ ~ ~ ~ = l 4 - mC ) coccc LU o E o o LU B C ' b A & araACT , & aoraCRP o ElE C 0 Eo0 B C ' tet - oraCp b/o X or araIXc promoters .
+As a control , the level of araB transcription under induced conditions was determined for strain LA663 carrying the plasmid pAH105 , which contains complete araC and araB genes .
+The results of these experiments are shown in Table 2 .
+The relative strengths of the complete arafc ( pHM1 ) and aralcXc ( pHM4 ) promoters compared to each other and to the araI + promoter in the presence ( pAH105 ) and absence ( pHM7 ) of the araC activator corresponded to previously published data for these mutations as measured on the chromosome ( 5 ) .
+Transcription from the partial araIc ( pAH112 ) and araIcXc ( pAH109 ) promoters was reduced five - to six - fold compared to their respective complete promoters .
+Although this degree of reduction was apparently great enough to result in significantly reduced complementation of strain SB1652 by the plasmid carrying araB cis to the partial araF promoter ( pAH112 ) , it was not great enough to have a significant effect on the ability of the plasmid carrying araB cis to the partial EcoRI EcoRI e E IH orientation no. 2 : pAH124 E coC , ff , no.l : pAH125 \ ,90 bpx - LU HinfI \ / HinfI a - LU 1 - 4 1 \ ) orientation .
+B ` I I 0 - bDO FIG. 1 .
+Plasmids containing the araI , arar , and ararXc promoter alleles with various alterations upstream of a BamHI site at position -47 of the araBAD promoter .
+( a ) Plasmids constructed by an EcoRI * digestion of plasmids containing a large PstI ara insert .
+The EcoRI site was restored at both ends of the EcoRI * insert .
+( b ) Plasmids obtained by digesting the plasmids in ( a ) with BamHI and allowing self - closure to occur .
+( c ) Plasmids constructed by subcloning a 300 - bp BamHI - Sau3A fragment containing the S. typhimurium araBAD promoter region into the BamHI site of the plasmids in ( b ) .
+( d ) Plasmids obtained by subcloning an 800 - bp BamHI fragment containing the araBAD promoter with the wild - type sequence or with 3 - bp deletions in the araC activator binding site ( AaraACT ) or the CRP - cAMP binding site ( A & araCRP ) into the BamHI site of the plasmids in ( b ) .
+( e ) Plasmids obtained by subcloning a 90 - bp Sau3A fragment from the S. typhimurium araC gene in both possible orientations into the BamHI site of plasmid pAH112 .
+The solid thin line represents pBR322 DNA .
+The solid thick line represents E. coli ara DNA .
+The open thick line represents S. typhimurium ara DNA .
+The hatched thick line represents ara DNA from the plasmids pCGM1 , pCGM3 , or pAP - C ( see Table 1 ) .
+Restriction sites are shown above the line .
+The approximate start points and the direction of transcription for araBAD and araC are indicated by horizontal wavy lines .
+The locations of the araI + , aralF , and araJYXc alleles are shown above the line in ( a ) .
+The locations of AaraACT and A & araCRP are shown above the line in ( d ) .
+Abbreviations : B , araB ; C ' , truncated araC gene ; tet - araCp , tet gene under transcriptional control of the araC promoter .
+quences on aralc and araIcX ' promoter strengths , the constitutive ( uninduced ) level of transcription was determined by hybridization of single - stranded M13 mp2 - araB DNA ( 17 ) with pulse - labeled mRNA isolated from strain LA663 carrying plasmids with either the complete or partial araI + , araI , BamHI + PstI Purify 3325 bp Fragment Ligate Transform Strain SB1652 , Select Apr Clones PstI EcoRI pAH131 ( I ) pAH132 ( ICXC ) Ava I BamHI Sou3A ` BamHI l BamHI + PstI Purify 2650bp Fragment FIG. 2 .
+Subcloning of the 90 - bp S. typhimurium araC gene Sau3A fragment in orientation no. 1 ( see Fig .
+le ) adjacent to the BamHI site of the partial araI + and araFXc promoters .
+The solid thin line represents pBR322 DNA .
+The solid thick line represents E. coli ara DNA .
+The open thick line represents S. typhimurium ara DNA .
+158 , 1984 FUNCTIONAL LIMITS OF THE araP PROMOTER 145 BomHI +1 -10 -20 -30 -40 -5 o -60 -70 -80 -90 -100 TATGGAOAAACAGTAGAGAGTTGCGATAAAAGCGTCAGGTA CTACTTATGGATAAAATGCTATGGCATAGCMAAGTGTGACGCCGTGCAAATAATCAA ATACCTCTTTGTCATCTCTCAMACGCTATTTTTCGCAGTCCATCCTAGGCGATTAGAMATACCTATTTTTACGATACCGTATCGTTTCACACTGCGGCACGTTTATTAGTT T C c7C AT T T 7 T T A G T G TA A A A A xc IC aaraACT aaraCRP Sau3A Fragment from S. typhimurium araC gene -340 -350 -360 -410 -420 1 GATCCGCTATTGCCGGGATATTCATTTAATG ... .
+The DNA sequence of the araBAD promoter .
+The locations of the arar , araXc , AaraACT and AaraCRP mutations are shown below the DNA sequence .
+The remaining bp below the E. coli sequence represent the base changes found upstream of the BamHI site in the araBAD promoter for S. typhimurium .
+The DNA sequence of the ends of a 90 - bp Sau3A fragment from the araC gene of S. typhimurium is also shown .
+A region of homology between the S. typhimurium araC gene sequence from -332 to -342 and the araBAD promoter from position -43 to -53 is overlineZd in both sequences .
+The location of the BamHI site in the araBAD promoter is also shown .
+arafXc promoter ( pAH109 ) to complement SB1652 .
+This result was expected since the ' mRNA level of the partial araYXc promoter is similar to that for the complete aral promoter .
+Reconstruction of the araf promoter .
+A series of subcloning experiments was undertaken to define the minimum sequence required for restoration of a functional aralf promoter .
+( i ) Hybrid S. typhimurium - E .
+Comparison of the S. typhimurium and E. coli araBAD promoter sequences revealed considerable sequence homology with no insertions or deletions ( Fig. 3 ) ( 10 ) .
+Since both promoters contain a BamHI site at position -42 to -47 , a hybrid E. coli - S .
+typhimurium promoter was constructed with this site as a junction point .
+Since there are 7 - bp differences between the E. coli and S. typhimurium sequence from position -62 to -104 ( Fig. 3 ) , it was of interest to determine whether E. coli arali promoter function could be restored by placing this S. typhimurium promoter sequence upstream from the BamHI site .
+Complementation assays with strain SB1652 revealed that the S. typhimurium sequence restored aralf promoter function .
+The araI + B plasmid ( pAH104 ) which contained the same 300 - bp Sau3A fragment inserted at the BamHI site failed to complement SB1652 , demonstrating that the restored aralf promoter function resulted from replacement of necessary upstream sequences and not exogenous promoter activity in the fragment .
+( ii ) Synthetic araC and CRP binding - site deletions .
+Miyada et al. ( 17 ) used site - specific mutagenesis with synthetic oligonucleotides to place 3 - bp deletions in the araC activator protein - binding site ( AaraACT ) and the CRP - binding site ( AaraCRP ) of the araBAD promoter ( Fig. 3 ) .
+The activities of the araBAD promoter containing wild - type , AaraCRP , or AaraACT regions cis to araf ( Fig .
+ld ) were similar as determined by the complementation assay .
+We conclude that the regions deleted by AaraACT and AaraCRP are not essential for araf promoter function .
+The sequences necessary for aralf promoter function probably reside between the endpoint of the BamHI site at position -48 and the starting point of AaraACT at position -57 .
+( iii ) Cloning of the 90 - bp Sau3A fragment fromp the S. typhimurium araC gene .
+A comparison of the araBAD promoter sequence with the initial translated region of the araC gene of S. typhimurium revealed that the araBAD promoter sequence from position -43 to -53 was almost exactly ( 10 of 11 bp ) repeated at position -332 to -342 in the initial translated region of the araC gene ( Fig. 3 ) .
+This sequence is contained on a 90 - bp Sau3A fragment which extends from position -332 to -422 in the araC gene of S. typhimurium ( Fig. 3 ) .
+Insertion of this 90 - bp Sau3A fragment at the BamHI site of pAH112 was described above and outlined in Fig .
+Plasmid pAH125 , which contained the Sau3A fragment adjacent to the partial araIc promoter in the orientation ( no. 1 in Fig .
+le ) that partially restores the promoter to position -53 weakly complemented strain SB1652 ( Table 2 ) .
+Plasmid pAH124 , which contained the Sau3A fragment adjacent to the partial araic promoter in orientation no. 2 ( Fig .
+le ) strongly complemented strain SB1652 ( Table 2 ) .
+The constitutive level of - transcription was determined for the plasmid containing the Sau3A fragment in orientation no. 1 ( pAH125 ) in strain LA663 ( Table 2 ) .
+Plasmid pAH125 produced 1.9 - fold higher levels of mRNA than the same plasmid without this insert ( pAH112 ) .
+To demonstrate that the partial restoration of araIc promoter function was due to stimulation of promoter activity and not to exogenous promoter activity from the 90 - bp Sau3A fragment , this fragment was subcloned adjacent to the partial araI + and aralcXc promoters in orientation no. 1 ( Fig. 2 ) .
+The resulting plasmids , designated pAH132 ( araJcXc ) and pAH131 ( araI + ) , were transformed into both strain SB1652 and strain LA310 ( Table 2 ) .
+The plasmid containing the 90 - bp Sau3A fragment fused to the araI + promoter ( pAH131 ) failed to complement strain SB1652 or LA310 and had no detectable transcriptional activity as determlined by mRNA - DNA hybridizations .
+The plasmid containing the 90 - bp Sau3A fragment ' fused to the araIcXc promoter ( pAH132 ) produced 1.9 - fold higher levels of mRNA than the same plasmid without this insert ( pAH109 ) ( Table 2 ) .
+In addition , unlike plasmid pAH109 , plasmid pAH132 strongly complemented strain LA310 , which must result from increased levels of constitutive expression of araB on this plasmid .
+The 90 - bp Sau3A fragment was cloned in orientation no. 2 adjacent to the partial araIcXc promoter .
+This plasmid ( pAH129 ) resulted in strong Ara ' colonies when transformed into strain LA310 and produced levels of mRNA 146 HORWITZ , MIYADA , AND WILCOX which were five times that of pAH109 and 70 % of the levels produced by the complete araIcXc promoter ( Table 2 ) .
+Effect of glucose repression on whole and partial araf promoters .
+The results of in - vitro DNA - protection studies have revealed that RNA polymerase protects the wild - type araBAD promoter from position +20 to -40 ( 14 ) .
+If only RNA polymerase is required for maximum expression of the aralf and araIXc promoters , then the partial and complete araIf and araIcXC promoters should be equally active .
+Our results indicate that maximal expression of both the araIc and araFcXc promoters requires DNA sequence information out to at least position -53 to -56 ( Table 2 ) .
+An alternative hypothesis is that maximal expression of the araIf and araIcXc promoters requires interaction of an additional factor in the region surrounding the BamHI site and extending out to position -53 to -56 .
+One candidate for such a factor is the CRP - cAMP complex ( or an entity controlled by this complex ) .
+If this is the case , constitutive expression of the whole araIc promoter should be sensitive to glucose repression .
+By contrast , expression of the partial araIc promoter should be relatively insensitive to glucose repression since the putative factor binding site has been damaged .
+This hypothesis was tested by measuring the effect of glucose repression on araB mRNA levels in strain LA663 containing plasmids with the whole araIc ( pHM1 ) and araIXc ( pHM4 ) promoters and the partial arafcXc promoter ( pAH109 ) .
+The araIcXc promoter was used for the comparison of whole and partial promoter activities because it produces higher levels of mRNA ( due to the presence of the araXc mutation ) and thus provides a greater degree of sensitivity .
+The results of these experiments ( Table 3 ) demonstrated that expression of the whole araf and araJcXc promoters was highly sensitive to glucose repression .
+This effect , as shown with the arafXc promoter , was partially reversed by addition of cAMP to the glucose - containing medium .
+By comparison , the partial araIfXc promoter was insensitive to glucose repression .
+DISCUSSION We defined the functional limits of the araBAD promoter containing the araf and araXc mutations .
+These mutations , which are located at positions -35 ( araf ) and -10 ( araXc ) , allow expression in the absence of the araC activator protein .
+Both the araIf and araIcXc promoters appear to require DNA sequence information out to position -53 to TABLE 3 .
+Effect of glucose on transcription from whole and partial aralc and aralcXc promoters Hybridized cpm Plasmid ara genotype ' Carbon source ' ( % of total input ) ' pHM1 araB + Ic araC ' Glycerol 0.10 Glucose 0.025 pHM4 araB + I ` XC araC ' Glycerol 0.88 Glucose 0.22 Glucose + 5 mM 0.44 cAMP pAH109 araB + ICXc AaraBp Glycerol 0.10 Glucose 0.12 a Genotypes are described in more detail in Table 2 and in the text .
+Aaralp indicates the araBAD promoter deleted upstream of position -47 .
+araC ' indicates the araC gene truncated at the 3 ' end .
+b The carbon source was added at 0.4 % ( wt/vol ) to M9 - Casamino Acids medium supplemented with - tryptophan .
+c 3H - labeled RNA was prepared as described in the text from strain LA663 containing the various plasmids .
+Hybridized counts per minute were determined as described in Table 2 , footnote c. J. BACTERIOL .
+-56 for maximal constitutive expression for the following reasons .
+( i ) Removal of ara promoter sequences upstream from a unique BamHI site at positions -42 and -47 resulted in a five - to sixfold reduction in the levels of transcription from the partial arafc and aralXc promoters ( Fig .
+la and b , Table 2 ) .
+Inspection of the pBR322 sequence to which the remaining 47 bp of the promoter were fused revealed that this sequence partially ( 3 of 4 bp ) restored the ara promoter out to position -51 .
+( ii ) Normal constitutive expression was restored to the partial araf and arafX ' promoters by inserting a BamHI fragment containing the upstream araBAD promoter sequence with a synthetically produced 3 - bp deletion located at position -57 to -59 in the araC binding site ( see Fig. 3 ) .
+We conclude that sequences beyond position -56 are not required for araIc and aralcXv promoter function .
+( iii ) The function of the partial aralc and araXcXc promoters was stimulated 1.9 - fold by insertion at the BamHI site of a 90 - bp Sau3A fragment from the coding region of the S. typhimurium araC gene , which completely restored the ara promoter sequence out to position -51 and partially restored the promoter out to -53 ( see orientation no. 1 in Fig .
+This stimulatory effect was specific for the aralc and araIcX % promoters since the same sequence placed adjacent to the araI + promoter had no effect on expression ( Fig. 2 , Table 2 ) .
+The functions of the araIc and araIcXc promoters were restored to approximately 70 % of normal levels by insertion at the BamHI site of the 90 - bp Sau3A fragment from S. typhimurium araC gene in orientation no. 2 ( Fig .
+This effect was specific for the araIf and arafXc promoters since the araI + promoter did not appear to be activated by insertion of this fragment at the BamHI site .
+Inspection of the DNA sequence of this fragment in the region that had been inserted adjacent to the BamHI site revealed that it is AT rich .
+Although this sequence shared no homology with the wild - type araBAD promoter sequence from position -48 to -56 , it was homologous to the wild - type araBAD promoter sequence from positions -60 to -68 ( see Fig. 3 ) .
+The significance of this homology is not known .
+It is , however , interesting to note that the presence of AT - rich areas around position -55 in some strong constitutive promoters may be an important determining factor in the strength of these promoters ( 6 .
+The results of enzymatic , chemical , and photochemical probes of RNA polymnerase contacts with various promoters suggest that a promoter requiring only RNA polymerase for expression extends out to position -45 ( 21 ) .
+This conclusion is supported by the observation that conserved promoter sequences generally do not extend beyond position -45 and by the fact that all known promoter mutations in the RNA polymerase recognition region ( -35 region ) are clustered within S bp of position -35 ( 21 , 22 ) .
+Since the araF and araIcXc promoters require sequence information out to position -53 to -56 for maximal expression , we conclude that these promoters may require interaction of a factor in addition to RNA polymerase for maximal expression .
+Although an entity controlled by the CRP - cAMP complex could be the factor , the CRP - cAMP complex itself is a likely candidate for the additional factor for several reasons .
+First , the araBAD promoter containing the aralc mutation , and to a lesser extent the araIXc mutation , were previously found to be sensitive to glucose repression ( 1 , 5 ) .
+We obtained the same result for the arafc promoter on a plasmid and have demonstrated that the arafXc promoter on a plasimd is equally sensitive to glucose repression ( Table 3 ) .
+Second , the expression of the araBAD operon in - vitro requires the VOL .
+Third , although the complete araIP and aralcXc promoters were sensitive to glucose repression , the partial aralXc promoter was insensitive ( Table 3 ) .
+Thus , sequence information at or upstream of the BamHI site at positions -42 to -47 of the araIc and arafXf promoters is required for glucose repression .
+Fourth , the CRP - cAMP binding site found by DNA - protection studies to extend from -78 to -108 of the araBAD promoter ( 14 , 19 ) does not appear to play a role in araf and araIcXc promoter function since the aralf promoter cis to a 3 - bp deletion within this region at position -85 to -87 ( see Fig. 1 and 3 ) appears to function normally .
+We conclude that the glucose repression effect may be due to CRP interaction at a different site .
+Fifth , there have been reports of several CRP - dependent promoters in which CRP - cAMP interacts in the region from -30 to -53 ( 15 , 20 , 23 ) .
+The araBAD promoter sequence from positions -27 to -55 has some degree of homology with the CRP binding sites of these promoters .
+A common assumption of all models presented thus far to explain regulation of araBAD operon expression ( 14 , 19 , 25 ) is that the CRP - cAMP interaction must occur at position -78 to -108 for the operon to be expressed at maximum levels .
+We have found that this CRP - cAMP site is not required for aralF promoter expression .
+We suggest that the CRP - cAMP interaction instead may occur in the -30 to -53 region of the araF promoter .
+Although the araIf mutation may have created a new CRP - cAMP binding site , it is also possible that this site already exists in the -30 to -53 region of the wild - type promoter and functions in glucose repression of araBAD .
+We thank Maureen Gilmore - Hebert , Laurel Heffernan , and Dan Ray for critically reading the manuscript .
+We also thank Marilyn Day for typing and editing the manuscript .
+This work was supported by National Science Foundation grant PCM78 - 26255 .
+A.H.H. was supported by a postdoctoral traineeship from National Cancer Institute grant CA 09056 - 06 .
+C.G.M. was supported by Public Health Service training grant 07185 .
+G.W. was supported by an American Cancer Society Faculty Research Award .
+Bass , R. , L. Heffernan , K. Sweadner , and E. Englesberg .
+The site for catabolite deactivation in the L - arabinose BAD operon in Escherichia coli B/r .
+Cass , L. G. , A. H. Horwitz , C. G. Miyada , L. Greenfield , and G. Wilcox .
+The araC regulatory gene mRNA contains a leader sequence .
+Cass , L. G. , A. H. Horwitz , and G. Wilcox .
+The araic mutation in Escherichia coli B/r .
+Cohen , S. N. , A. C. Y. Chang , and L. Heu .
+Nonchromosomal antibiotic resistance in bacteria : genetic transformation of Escherichia coli by R - factor DNA .
+Colome , J. , G. Wilcox , and E. Englesberg .
+Constitutive mutations in the controlling site region of the araBAD operon of Escherichia coli that decrease sensitivity to catabolite - repression .
+de Boer , H. A. , L. J. Comstock , D. G. Yansura , and H. L. Heyneker .
+Construction of a tandem trp - lac promoter and a hybrid trp - lac promoter for efficient and controlled expression of the human growth hormone gene in Escherichia coli , p. 462 - 481 .
+In R. L. Rodriguez and M. J. Chamberlin ( ed .
+) , Promoters , structure and function .
+Praeger Publishers , New York .
+Englesberg , E. , D. Sheppard , C. Squires , and F. Meronk , Jr. 1969 .
+An analysis of `` revertants '' of a deletion mutant in the C FUNCTIONAL LIMITS OF THE araIc PROMOTER 147 gene of the L - arabinose gene complex in Escherichia coli B/r : isolation of initiator constitutive mutants ( IC ) .
+Englesberg , E. , and G. Wilcox .
+Gielow , L. , M. Largon , and E. Englesberg .
+Initiator constitutive mutations of the L - arabinose operon ( OIBAD ) of Escherichia coli B/r .
+Horwitz , A. H. , L. Heffernan , C. Morandi , J. H. Lee , J. Timko , and G. Wilcox .
+DNA sequence of the araBAD - araC controlling region in Salmonella typhimurium LT2 .
+Horwitz , A. H. , C. Morandi , and G. Wilcox .
+Deoxyribonucleic acid sequence of araBAD promoter mutants of Escherichia coli .
+Kessler , D. P. , and E. Englesberg .
+Arabinose - leucine deletion mutants of Escherichia coli B/r .
+Molecular aspects of ara regulation , p. 389 - 409 .
+In J. H. Miller and W. S. Reznikoff ( ed .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 14 .
+Lee , N. L. , W. 0 .
+Gielow , and R. G. Wallace .
+Mechanism of araC autoregulation and the domains of two overlapping promoters , Pc and PBAD in the L - arabinose regulatory region of Escherichia coli .
+Le Grice , S. F. J. , and H. Matzura .
+Binding of RNA polymerase and the catabolite gene activator protein within the cat promnoter in Escherichia coli .
+Experiments in molecular genetics , p. 431 .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 17 .
+Miyada , C. G. , X. Soberon , K. Itakura , and G. Wilcox .
+The use of synthetic oligodeoxyribonucleotides to produce specific deletions in the araBAD promoter of Escherichia coli B/r .
+Norgard , M. , K. Emigholz , and K. Monihan .
+Increased amplification of pBR322 plasmid deoxyribonucleic acid in Escherichia coli K - 12 strains RR1 and X1776 grown in the presence of high concentrations of nucleoside .
+Ogden , S. , D. Haggerty , C. M. Stoner , D. Kolodrubetz , and R. Schleif .
+The Escherichia coli L - arabinose operon : binding sites of the regulatory proteins and a mechanism of positive and negative regulation .
+Queen , C. , and M. Rosenberg .
+A promoter of pBR322 activated by cAMP receptor protein .
+Evidence for close contacts between RNA polymerase and promoter DNA , p. 164 - 180 .
+In R. L. Rodriguez and M. J. Chamberlin ( ed .
+) , Promoters , structure and function .
+Praeger Publishers , New York .
+Soberon , X. , J. J. Rossi , G. P. Larson , and K. Itakura .
+A synthetic consensus sequence procaryotic promoter is functional , p. 407 - 431 .
+In R. L. Rodriguez and M. J. Chamberlin ( ed .
+) , Promoters , structure and function , Praeger Publishers , New York .
+Taniguchi , T. , M. O'Neill , and B. de Crombrugghe .
+Interaction site of Escherichia coli cyclic AMP receptor protein on DNA of galactose operon promoters .
+West , Jr. , R. W. , E. L. Kline , A. H. Horwitz , G. Wilcox , and R. L. Rodriguez .
+Cloning and analysis of inducible Escherichia coli promoters using promoter - probe plasmid vectors , p. 363 - 386 .
+In R. L Rodriguez and M. J. Chamberlin ( ed .
+) , Promoters , structure and function .
+Praeger Publishers , New York .
+Wilcox , G. , S. Al - Zarban , L. G. Cass , P. Clarke , L. Heffernan , A. H. Horwitz , and C. G. Miyada .
+DNA sequence analysis of mutants in the araBAD and araC promoters , p. 183 - 194 .
+In R. L. Rodriguez and M. J. Chamberlin ( ed .
+) , Promoters , structure and function .
+Praeger Publishers , New York .
+Wilcox , G. , J. Singer , and L. Heffernan .
+Deoxyribonucleic acid - ribonucleic acid hybridization studies on the L - arabinose operon of Escherichia coli B/r .

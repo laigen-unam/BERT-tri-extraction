@@ -1,0 +1,409 @@
+NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript NIH Public Access Author Manuscript Mol Cell .
+Author manuscript ; available in PMC 2013 July 17 .
+Published in final edited form as : Mol Cell .
+Intrinsic Negative Feedback Governs Activation Surge in Two - Component Regulatory Systems Won - Sik Yeo 1,2,3 , Igor Zwir 1,2,3,4 , Henry V. Huang 3 , Dongwoo Shin 3,6 , Akinori Kato 3,7 , and Eduardo A. Groisman 1,2,3,5 , * 1 Section of Microbial Pathogenesis , Yale School of Medicine , 295 Congress Avenue , 354D , New Haven , CT 06536 , USA 2 Howard Hughes Medical Institute 3 Department of Molecular Microbiology , Washington University School of Medicine , Campus Box 8230 , 660 S. Euclid Avenue , St. Louis , MO 63110 , USA 4 Department of Computer Science and Artificial Intelligence , University of Granada , E - 18071 Granada , Spain 5 Yale Microbial Diversity Institute , PO Box 27389 , West Haven , CT 06516 , USA SUMMARY PhoP and PhoQ comprise a two - component system in the bacterium Salmonella enterica .
+PhoQ is the sensor kinase/phosphatase that modifies the phosphorylation state of the regulator PhoP in response to stimuli .
+The amount of phosphorylated PhoP surges after activation , then declines to reach a steady - state level .
+We now recapitulate this surge in - vitro by incubating PhoP and PhoQ with ATP and ADP .
+Mathematical modeling identified PhoQ 's affinity for ADP as the key parameter dictating phosphorylated PhoP levels , as ADP promotes PhoQ 's phosphatase activity toward phosphorylated PhoP .
+The lid covering the nucleotide - binding pocket of PhoQ governs the kinase to phosphatase switch because a lid mutation that decreased ADP binding compromised PhoQ 's phosphatase activity in - vitro and resulted in sustained expression of PhoP - dependent mRNAs in - vivo .
+This feedback mechanism may curtail futile ATP consumption because ADP not only stimulates PhoQ 's phosphatase activity but also inhibits ATP binding necessary for the kinase reaction .
+INTRODUCTION Bacterial two - component systems ( TCSs ) are a form of signal transduction that utilize reversible protein phosphorylation to modify an organism 's behavior in response to changes in its surroundings ( Stock et al. , 2000 ) .
+The prototypical TCS is composed of two proteins : a sensor kinase ( SK ) that senses a specific signal ( s ) and a cognate response regulator ( RR ) that mediates a system 's output , which typically changes gene expression ( Hoch and Silhavy , 1995 ; Mascher et al. , 2006 ; Stock et al. , 2000 ) .
+The SK uses adenosine triphosphate * Correspondence : eduardo.groisman@yale.edu .
+6 Present address : Department of Molecular Cell Biology , Samsung Biomedical Research Institute , Sungkyunkwan University School of Medicine , Suwon , 440 - 746 , Korea 7 Present address : Department of Bioscience , Graduate School of Agriculture , Kinki University , 3327 - 204 , Nakamachi , Nara , 631 - 8505 , Japan SUPPLEMENTAL INFORMATION Supplemental Information includes Supplemental Experimental Procedures , six figures , and four tables and can be found with this article online at doi : 10.1016 / j.molcel .2011.12.027 .
+Page 2 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript ( ATP ) to autophosphorylate and subsequently transfers the phosphoryl group to its cognate RR ( Dutta et al. , 1999 ) .
+Many SKs also display phosphatase activity toward their cognate phosphorylated RRs ( RR - Ps ) ( Gao and Stock , 2009 ; Stock et al. , 2000 ) , which is often stimulated by adenosine diphosphate ( ADP ) ( Castelli et al. , 2000 ; Igo et al. , 1989 ; Sanowar and Le Moual , 2005 ; Zhu and Inouye , 2002 ; Zhu et al. , 2000 ) .
+These bifunctional SKs are proposed to exist in the kinase state when inducing signals are present , thereby promoting phosphorylation of their cognate RRs , and in the phosphatase state during noninducing conditions , dephosphorylating their cognate RR - Ps ( Hsing et al. , 1998 ; Yang and Inouye , 1991 ; Yang and Inouye , 1993 ) .
+Interestingly , an SK can exhibit autokinase and phosphotransferase activities even in the absence of an inducing signal ( Kato and Groisman , 2004 ) and RR - P phosphatase activity , despite the presence of an inducing signal ( Shin et al. , 2006 ) .
+SKs typically consist of an extracytoplasmic domain involved in signal sensing and a conserved cytoplasmic domain responsible for autophosphorylation ( Inouye and Dutta , 2003 ) .
+The cytoplasmic domain harbors two subdomains : the DHp subdomain responsible for dimerization and containing the conserved histidine residue that is phosphorylated , and the CA subdomain including a nucleotide - binding pocket ( NBP ) and responsible for catalysis ( Gao and Stock , 2009 ) .
+A flexible loop located between the conserved F and G2 boxes -- referred to as the lid -- covers the NBP , a property shared with members of the ATPase/kinase GHKL superfamily ( Dutta and Inouye , 2000 ; Dutta et al. , 1999 ) .
+The isolated DHp subdomain of the SK EnvZ displays phosphatase activity , and this activity is further enhanced by ADP and adenosine 5 ′ - [ β,γ - imido ] triphosphate ( AMP - PNP ) , but only in the presence of the CA subdomain ( Zhu et al. , 2000 ) .
+We have previously reported that when Salmonella enterica serovar Typhimurium is switched to an inducing environment for the PhoP/PhoQ TCS , the levels of the phosphorylated RR PhoP ( PhoP - P ) rapidly increase , peak , and then decline to reach steadystate levels that are only 20 % -- 25 % of the maximum ( Shin et al. , 2006 ) .
+This is surprising because the inducing conditions remained constant during the course of the experiment ( Shin et al. , 2006 ) .
+This behavior -- referred to as activation surge ( Shin et al. , 2006 ) , impulse response ( Chechik et al. , 2008 ) , and overshoot ( Ray and Igoshin , 2010 ) -- has been observed in other TCSs that respond to different signals in several bacterial species ( Alloing et al. , 1998 ; Hutchings et al. , 2006 ; Shin et al. , 2006 ; Yamamoto and Ishihama , 2005 ) , suggesting that it is a widespread property of this family of signaling proteins .
+The activation surge of PhoP/PhoQ is essential for Salmonella virulence and requires both positive feedback on the phoPQ promoter and the phosphatase activity of the SK PhoQ ( Shin et al. , 2006 ) .
+We now investigate the biochemical mechanism responsible for TCS activation surges .
+First , we reconstitute the activation surge of PhoP/PhoQ in - vitro using purified PhoP and PhoQ proteins , thereby demonstrating that negative feedback regulation is intrinsic to this TCS .
+Second , we present a mathematical model for the biochemical activities that give rise to an activation surge and identify the binding affinity of an SK for ADP as the critical parameter controlling activation surges .
+Third , in agreement with the model 's prediction , we demonstrate that a strain harboring a PhoQ protein defective in ADP binding is defective in phosphatase activity in - vitro and displays sustained expression of PhoP - activated messenger RNAs ( mRNAs ) in - vivo .
+And , fourth , we establish that the lid covering the NBP plays a crucial role in the shift between the kinase and phosphatase states not only in the SK PhoQ but also in the SK PmrB , which forms a TCS with the RR PmrA that displays an activation surge in response to its specific signal ( Shin et al. , 2006 ) .
+Our findings provide a singular example of intrinsic feedback whereby a change in the opposing biochemical activities of a bacterial SK results in an activation surge .
+Author manuscript ; available in PMC 2013 July 17 .
+Page 3 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript RESULTS In Vitro Reconstitution of the PhoP - P Surge with Purified PhoP and PhoQ Proteins If the activation surge results from a mechanism intrinsic to TCS proteins , we should be able to recapitulate the surge in - vitro using purified components .
+Because we wanted to use physiological concentrations of PhoP and PhoQ proteins , we first determined the levels of these two proteins in EG13918 , which is the Salmonella strain in which the surge was first identified ( Shin et al. , 2006 ) .
+When EG13918 was grown under noninducing conditions , the concentrations of PhoP and PhoQ were ~ 2.7 ± 0.4 μM and ~ 0.49 ± 0.09 μM , respectively ( Figures S1A , S1B , and S1D available online ) .
+These levels increased to ~ 16.5 ± 3.4 μM and 1.08 ± 0.35 μM , respectively , 60 min after experiencing inducing conditions .
+Therefore , the initial ratio of PhoP to PhoQ was ~ 6.8:1 and increased to ~ 18.3:1 ( Figures S1C and S1D ) , which is about half of the ratio reported for OmpR to EnvZ ( Cai and Inouye , 2002 ) and PhoP to PhoQ ( Miyashiro and Goulian , 2008 ) in Escherichia coli at steady state in complex media .
+We carried out our in - vitro assays by incubating the recombinant full - length Salmonella PhoP harboring a His tag at the C terminus and PhoQ with a Strep tag at the C terminus at a 10:1 ratio with ATP ( 1 mM ) and ADP ( 0.1 mM ) .
+This reflects the physiological ratio of these nucleotides in E. coli ( Bennett et al. , 2009 ; Buckstein et al. , 2008 ; Neuhard and Nygaard , 1987 ) and corresponds to the ATP concentration used in the in - vitro reconstitution of circadian oscillation of phosphorylation by the cyanobacterial KaiC protein ( Nakajima et al. , 2005 ) .
+( Note that in - vitro reconstitution of KaiC phosphorylation was initiated by addition of ATP [ i.e. , without any external signal ] , that the PhoP - His [ Chamnongpol and Groisman , 2000 ] and PhoQ - Strep proteins were fully functional in - vivo [ Figure S1E ] , and that the PhoQ - Strep protein solubilized from membrane using nonionic detergents retained full activity in - vitro [ Figures S1F and S1G ] .
+) The levels of PhoP - P rapidly increased , peaked at 30 min , and decreased to ~ 37 % of the maximum ( Figures 1A and 1B ; see also the inset ) , similar to the changes in PhoP - P observed in - vivo ( Shin et al. , 2006 ) .
+The observed behavior is due neither to depletion of the ATP pool , because ATP was still present at the end of the reaction ( Figure 1C ) , nor to degradation of PhoP or PhoQ , as the total amounts of both of these proteins remained constant during the incubation ( Figure 1D ) .
+These results indicate that the PhoP - P surge is intrinsic to the PhoP/PhoQ TCS and does not require an additional protein component .
+ATP Is the ADP Source Stimulating PhoQ 's Phosphatase Activity during an Activation Surge We determined that ADP stimulated PhoQ 's phosphatase activity ( Figure S1G ) , which is in agreement with previous reports ( Castelli et al. , 2000 ; Sanowar and Le Moual , 2005 ) , but that ATP and GTP did not ( data not shown ) .
+Next , we wondered about the source of the ADP stimulating PhoQ 's phosphatase activity in - vivo during a surge given that the reported ADP concentration in the bacterial cytoplasm is approximately ten times lower than that of ATP ( Bennett et al. , 2009 ; Buckstein et al. , 2008 ; Neuhard and Nygaard , 1987 ) , which would result in an SK preferentially binding ATP over ADP , causing SK autophosphorylation and phosphotransfer to the RR ( as opposed to ADP stimulating SKpromoted dephosphorylation of RR - P ) .
+We hypothesized that the ADP might be generated endogenously in the NBP through ATP hydrolysis during the autophosphorylation reaction .
+In other words , transfer of the ATP γ - PO 3 to the conserved histidine residue would leave ADP still bound to the NBP .
+Because a large number of residues lining the NBP contact the non - γ-PO 3 moieties of the bound nucleotide in the reported crystal structures of several SKs ( Figures S2A -- S2C ) ( Casino et Mol Cell .
+Author manuscript ; available in PMC 2013 July 17 .
+Page 4 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript al. , 2009 ; Marina et al. , 2001 ; Marina et al. , 2005 ; Tanaka et al. , 1998 ; Yamada et al. , 2009 ) , ATP and ADP are likely to bind in a similar manner .
+Furthermore , ADP binding to the NBP appears to be stable as it survived crystallization and structure determination of the SK ThkA ( Figure S2B ) ( Yamada et al. , 2009 ) , and , in the case of the SK HK853 , AMP - PNP used during crystallization was hydrolyzed , and the resulting ADPβN remained bound within the NBP ( Figure S2C ) ( Casino et al. , 2009 ) .
+To test the notion that ATP is the source of ADP stimulating phosphatase activity , we examined the phosphorylation status of the PhoQ and PhoP proteins in the presence of a 10 - fold higher concentration of ATP than that of the PhoQ protein ( 5 μM ) .
+There was rapid PhoQ autophosphorylation , subsequent phosphoryl transfer to PhoP , and then loss of the phosphoryl group from PhoP - P over time ( Figures 2A and 2B ) .
+Interestingly , the rapid decrease in PhoP - P levels observed after 10 min ( Figures 2A and 2B ) paralleled an increase in ADP taking place before ATP was depleted ( Figures 2C and 2D ) .
+The levels of PhoQ - P also significantly declined after 10 min ( Figures 2A and 2B ) , possibly due to inhibition of PhoQ 's autokinase activity by the generated ADP ( see the Discussion ) .
+( Note that the PhoQ - P levels remained constant if PhoP was omitted from the reaction [ Figure 2E ] ) .
+We observed that [ α - 32 P ] ATP was converted into [ α - 32 P ] ADP during the reaction ( Figures 2C and 2D ) .
+Cumulatively , these results support the notion that the ADP stimulating the phosphatase activity of PhoQ is likely due to ADP generated endogenously from the added ATP .
+Moreover , they suggest that conditions facilitating ADP escape from the NBP are likely to compromise PhoQ 's phosphatase activity .
+Mutation of the ATP Lid Lowers PhoQ 's Affinity for ADP and Impairs Its Phosphatase Activity Interactions between the nucleotide bound in the NBP and the lid of SKs result in an ordered `` closed '' configuration of the lid ( Figures S2A -- S2C ) ( Casino et al. , 2009 ; Marina et al. , 2001 ; Yamada et al. , 2009 ) .
+Indeed , ordering of the lid promotes an interaction with the DHp subdomain ( Casino et al. , 2009 ; Yamada et al. , 2009 ) in a region where mutations have been shown to affect the kinase and/or phosphatase activities of SKs ( Hsing et al. , 1998 ; Marina et al. , 2005 ; Trajtenberg et al. , 2010 ) .
+By contrast , the lid is in a disordered `` open '' configuration when nucleotides are absent ( Machius et al. , 2001 ; Masuda et al. , 2004 ; Yamada et al. , 2009 ) .
+Structural analysis of several SKs suggests that a conserved threonine or serine residue located at the center of the lid ( Figure S2D ) aids ADP binding in the NBP .
+This corresponds to Thr438 in Salmonella PhoQ ( Figure S2D ) , Thr437 in E. coli PhoQ ( Figures S2A and S2D ) , Thr709 in T. maritima ThkA ( Figures S2B and S2D ) , and Ser433 in T. maritima HK853 ( Figures S2C and S2D ) .
+To test the role of the PhoQ lid in ADP binding , we compared the affinity for ADP of the PhoQ protein to that of a mutant with the T438A substitution in the lid ( Figure S2D ) .
+Using isothermal titration calorimetry ( ITC ) , we determined that the dissociation constant ( i.e. , K D ) of ADP was ~ 92.6 μM for the wild - type PhoQ ( Figure 3A ) and ~ 240.4 μM for the T438A mutant ( Figure 3B ) .
+As an independent assay to determine the K D for ADP , we carried out photoaffinity labeling with [ α - 32 P ] ADP .
+The estimated K D was 83.3 ± 7.6 μM for the wild - type PhoQ and 192.2 ± 20.9 μM for the T438A mutant ( Table S1 ) , in accord with the values obtained with ITC .
+These data indicate that the T438A substitution lowers PhoQ 's affinity for ADP .
+We determined that the T438A mutant was partially defective in phosphatase activity ( Figure 3C ) , which was slightly stimulated in the presence of ADP ( Figure 3C ) .
+Moreover , the apparent K M for ADP in the in - vitro phosphatase assay was ~ 10 - fold higher in the T438A mutant ( 611.9 ± 124.3 μM ) than in the wild - type PhoQ ( 67.8 ± 12.6 μM ) ( Figure 3D and Table S1 ) .
+When investigated at physiological ADP concentrations , wild - type PhoQ Mol Cell .
+Author manuscript ; available in PMC 2013 July 17 .
+Page 5 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript dephosphorylated PhoP - p > 4 - fold more efficiently than the T438A mutant ( Figure S3A ) .
+( Note that the T438A mutant dephosphorylated PhoP - P at a slower rate than the wild - type PhoQ even in the absence of ADP [ Figure 3E ] .
+) It is notable that the wild - type and lid mutant PhoQ proteins had comparable apparent K M for ATP ( 17.7 ± 1.4 μM and 17.2 ± 3.7 μM , respectively ) in the in - vitro autokinase assay ( Figure 3F and Table S1 ) , denoting a similar affinity for ATP .
+Indeed , the two proteins also exhibited similar rates of autokinase ( Figure 3G ) and phosphotransferase ( Figure 3H ) activities .
+Taken together , the results presented in this section show that the PhoQ lid is critical for ADP retention and for its phosphatase activity , but not for its autokinase or phosphotransferase properties .
+Moreover , they suggest that the lid region plays an important role in rendering PhoQ from the kinase to the phosphatase state .
+Mutation of the Lid Impacts PhoP - P Surge In Vitro We reasoned that the T438A substitution in PhoQ might affect the PhoP - P surge in - vitro because it lowers PhoQ 's affinity for ADP and decreases PhoQ 's phosphatase activity ( Figures 3A -- 3E ) .
+When the surge was investigated using the T438A mutant , the PhoP - P levels were substantially higher and more sustained ( Figures 4A , top , and Figure 4B ) .
+The observed behavior is not due to degradation of PhoP or PhoQ proteins ( Figure 4A , bottom ) .
+The rate of dephosphorylation of PhoP - P by the wild - type PhoQ is faster than by the T438A mutant ( Figure 4C and the inset for normalized PhoP - P levels ) .
+In addition , when the T438A mutant was incubated with PhoP in the presence of ATP as the sole source of ADP , the levels of PhoP - P decreased more slowly after reaching a peak than with the wild - type PhoQ protein ( Figures 4D , 4E , and 4G ) .
+Furthermore , the levels of wild - type PhoQ - P decreased faster than those of the T438A mutant ( Figure 4F ) , suggesting that the autokinase activity of the mutant is less sensitive to inhibition by the generated ADP than that of the wild - type PhoQ due to lowered affinity for ADP .
+These results indicate that the ATP lid is critical in generating the in - vitro PhoP - P surge by stimulating PhoQ 's phosphatase activity through the bound ADP , which might also inhibit PhoQ 's autokinase activity .
+Mutation of the Lid Lowers PmrB 's Affinity for ADP and Impairs Its Phosphatase Activity To determine whether the lid regulates phosphatase activity in other bifunctional SKs , we purified the cytoplasmic domains of the wild - type Salmonella SK PmrB ( PmrB c ) and of a mutant with the S313A substitution in the lid ( Figure S2D ) , which was predicted to lower affinity for ADP .
+( We used PmrB c because this domain retains all the enzymatic activities of the full - length PmrB protein [ Kato and Groisman , 2004 ] and because the PmrA/PmrB TCS displays an activation surge when activated by its specific signal [ Shin et al. , 2006 ] .
+) Photoaffinity labeling experiments demonstrated that wild - type PmrB c exhibits a higher ADP binding affinity than the S313A mutant ( 182 ± 17 μM and 783.6 ± 133.8 μM , respectively ) ( Figure 5A and Table S1 ) .
+We determined that ADP stimulated PmrB c 's phosphatase activity toward the RR - P PmrA - P and that the S313A mutant PmrB c was defective in this activity ( Figure 5B ) .
+The apparent K M for ADP of the S313A mutant ( 488.9 ± 28.8 μM ) was ~ 7 - fold higher than that of the wild - type PmrB c ( 68.5 ± 2.1 μM ) ( Figure 5C and Table S1 ) .
+At physiological concentrations ( i.e. , 0.3 mM ) , ADP stimulated the phosphatase activity of the wild - type PmrB c ~ 5.8 - fold more than that of the S313A mutant ( Figure S3B ) .
+Furthermore , the S313A mutant dephosphorylated PmrA - P more slowly than the wild - type PmrB c both in the absence and presence of ADP ( Figure 5D ) .
+The levels of PmrA - P rapidly decreased after 5 min when PmrB c was incubated with PmrA in the presence of 50 μM of ATP ( Figure S4A ) , supporting the notion that ATP is the source of ADP stimulating the phosphatase activity .
+In addition , the levels of PmrA - P decreased more slowly when incubations were carried out Mol Cell .
+Author manuscript ; available in PMC 2013 July 17 .
+Page 6 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript with the S313A mutant than with the wild - type PmrB c ( Figure S4A ) .
+Moreover , the levels of PmrB c - P decreased faster than those of PmrB c - S313A - P ( Figure S4B ) , possibly due to inhibition of PmrB ' sautokinase activity by ADP .
+As with PhoQ , PmrB c 's autokinase and phosphotransferase activities were similar for both the wild - type and S313A mutant PmrB c proteins ( Figures 5E and 5F and Table S1 ) .
+In sum , these results indicate that the lid is critical for the phosphatase activity of PmrB toward PmrA - P , and potentially of other SKs , toward their respective RR - Ps .
+A Mathematical Model that Recapitulates the RR - P Activation Surge To examine how a shift in the balance between the kinase and phosphatase activities intrinsic to bifunctional SKs ( Perego and Hoch , 1996 ; Russo and Silhavy , 1993 ) creates a surge in RR - P levels , we modeled the interconversion between the kinase and phosphatase states of an SK and the effect that each of these states has on the RR - P levels ( Figure 6A ) .
+In one state , ATP binds to the SK , resulting in autokinase and phosphotransferase activities .
+In the other state , the ADP produced endogenously during the autokinase reaction remains bound to the NBP of the SK , which renders it a phosphatase .
+In the model , the reactions follow mass action kinetics with parameters learned using genetic algorithm optimization techniques based on the experimentally determined levels of PhoP - P in - vivo ( Shin et al. , 2006 ) as the target ( Table S2 , parts I -- III , in the Supplemental Information ) .
+Previous approaches ( Ray and Igoshin , 2010 ; Shinar et al. , 2007 , 2009 ) are subsumed in our model , which retains the various biochemical reactions , including ATP binding , autophosphorylation , kinase , and phosphatase states driven by the parameters k3 , k4 , k7 , and k8 ( Figure 6A ) .
+In addition , our model uniquely incorporates those states encoding substrate inhibition by ADP as well as ADP - binding steps by the critical components of the system dictated by the parameters k5 , k6 , and k9 .
+We identified two classes of models by performing > 10,000 simulations using parameter sampling ( Figure S5A ) .
+One class , where the surge results from the difference between independent kinase and phosphatase activities of the SK , both increasing asymptotically ( blue and green lines in Figures S5B and S5C ) , fails to explain the in - vivo surge ( Figure 6B ) .
+( See further analysis in the Supplemental Experimental Procedures .
+) In the other class of models , the kinase activity of an SK decreases after a peak ( blue lines in Figures S5D and S5E , R 2 > 0.91 ) , reflecting end product inhibition by ADP .
+Initially , the SK is predominantly in the kinase state ( Figure 6B ) , which accounts for the rapid rise in the levels of RR - P when the system first experiences an inducing signal .
+Thereafter , an increasing number of SK molecules shift to the phosphatase state , resulting in a decrease in RR - P levels ( Figure 6B ) even though the total amount of RR is still increasing at this time due to positive feedback ( Shin et al. , 2006 ) .
+Neither the kinase nor the phosphatase activities of the SK is ever zero .
+This latter class accounts for both the surge in PhoP - P levels taking place in vivo upon induction of the PhoP/PhoQ TCS ( Figure 6B ) ( Shin et al. , 2006 ) and the behavior of the T438A phosphatase - deficient mutant PhoQ ( Figures 3 , 4 , and 6C ) .
+Sensitivity analysis identified the key parameters and initial species amounts ( Table S2 , parts II and III ) differentially influencing the kinetics of the RR - P surge ( Figures 6D and 6E and Figure S6 ) .
+We identified a range of values for each parameter in which the surge can take place ( Figures 6A and 6B ) and defined a `` safe zone '' in parameter space ( Figure S6Z ) sufficiently large to accommodate the behavior of other TCSs , such as PmrA/PmrB ( Figure S6 and Table S2 , part IV ) and KdpD/KdpE ( Figure S6Y and Table S2 , part IV ) , that exhibit activation surges ( Kremling et al. , 2004 ; Shin et al. , 2006 ) .
+Finally , we demonstrated that the rate at which ADP dissociates from an SK ( i.e. , k 6 ; Figure 6A ) has the strongest effect on the surge .
+For example , making k 6 ten times larger ( i.e. , faster dissociation of ADP from the SK ) without changing any other parameter predicts Mol Cell .
+Author manuscript ; available in PMC 2013 July 17 .
+Page 7 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript sustained levels of RR - P after induction ( Figure 6C ) .
+In our model , a sustained increase in RR - P can be generated by varying k 6 ( Figure S6H ) .
+By contrast , changes in k 9 , which corresponds to the ADP - stimulated SK - promoted dephosphorylation of RR - P , result in a continued increase in RR - P levels ( Figure S6I ) .
+The Lid Controls the PhoP - P Surge In Vivo DISCUSSION We tested the model 's prediction that the SK affinity for ADP is a critical determinant of the RR - P surge by comparing the expression kinetics of PhoP - activated genes in - vivo between two isogenic strains : one harboring wild - type PhoQ and the other harboring the T428A mutant PhoQ , which binds ADP less tightly than the wild - type protein and is defective in ADP - stimulated phosphatase activity toward PhoP - P ( Figures 3A -- 3E ) but not in other activities ( Figures 3F -- 3H and Table S1 ) .
+We used our previously described strain ( Shin et al. , 2006 ) , which is deleted for the chromosomal copy of the phoPQ operon and harbors a plasmid with the wild - type phoP - HA phoQ genes under the control of a derivative of the lac promoter , and the isogenic strain with a plasmid expressing the phoP - HA phoQ - T438A genes .
+The strain expressing the T438A mutant PhoQ protein produced higher and more sustained amounts of PhoP - activated mRNAs than that expressing the wild - type PhoQ protein where the mRNA levels decreased after reaching a peak ( Figure 7 ) .
+These data demonstrate that PhoQ 's phosphatase activity controlled by the lid is critical in generating an activation surge in - vivo .
+The precise regulation of bifunctional enzymes carrying out opposing activities is critical for biological systems ( Hart et al. , 2011 ; Shinar et al. , 2007 , 2009 ) .
+For some bifunctional proteins , switching between distinct activities is mediated by binding to other proteins ( Dong et al. , 2010 ; Markson and O'Shea , 2009 ) .
+For example , kinetic changes in the amount of phosphorylated KaiC protein govern the circadian clock in cyanobacteria and are modulated by the interaction of KaiC with KaiA , which in turn is affected by binding to KaiB ( Dong et al. , 2010 ) .
+By contrast , we have now established that the opposing enzymatic activities displayed by the SK PhoQ under constant inducing conditions is due to an intrinsic negative feedback mechanism that gives rise to an activation surge in its cognate RR PhoP - P. Recapitulation of the surge in - vitro and modeling results using the physiologically relevant ratio of SK to RR ( Figures 1 and 6 ) indicate that the change experienced by PhoQ from being primarily in the kinase state to the phosphatase state is intrinsic to this SK and depends on the trapping of ADP , which is generated endogenously from ATP ( Figures 2 ) in the NBP by the lid region ( Figures 3 , 4 , and 5 ) .
+The mutually exclusive binding of alternate nucleotides can mediate a switch between states in a variety of structurally different proteins in addition to bifunctional SKs ( Alper et al. , 1994 ; Bhattacharya et al. , 2009 ; Davey et al. , 2002 ; Kang et al. , 2001 ; Park et al. , 1997 ) .
+ADP - Stimulated Phosphatase Activity during an Activation Surge We propose that ADP binding changes the balance of an SK from a kinase to phosphatase state for two reasons .
+On the one hand , in a process akin to end - product inhibition , ADP bound to the NBP of SKs prevents ATP binding and the possibility of SK autophosphorylation and subsequent phosphotransfer to the RR .
+Indeed , ADP inhibits autophosphorylation of PhoQ in - vitro ( data not shown ) , possibly because ADP competes with ATP for binding to the NBP .
+In addition , after phosphorylation from ATP , the levels of PhoQ - P and PmrB c - P decreased faster than those of the lid mutants ( Figure 4F and Figure S4B ) .
+This suggests that the mobile lid plays a key role in trapping ADP within the NBP , thereby stimulating the phosphatase activity and preventing the rebinding of ATP to this site , which accounts for end - product inhibition by ADP in SKs .
+These results indicate that Mol Cell .
+Author manuscript ; available in PMC 2013 July 17 .
+Page 8 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript the SK is likely to be in the phosphatase state as long as ADP stays bound to the NBP , switching from the kinase to phosphatase state ( see below ) .
+This is analogous to the effect that ADP has on KaiC autophosphorylation where it acts as a competitive inhibitor of ATP ( Rust et al. , 2011 ) .
+Thus , a similar regulatory strategy is used by PhoQ and KaiC despite these bifunctional enzymes not being evolutionarily related and catalyzing phosphorylation of different amino - acids ( histidine for the former , and serine and threonine for the latter ) ( Dong et al. , 2010 ; Markson and O'Shea , 2009 ; Stock et al. , 2000 ) .
+Interactions between ADP and the lid , on the other hand , stimulate the phosphatase activity of SKs ( Figures 3C -- 3E and 5B -- 5D ) , perhaps by promoting reorientation of the CA and DHp subdomains and/or between the SK and its cognate RR - P ( Casino et al. , 2009 ) .
+Even though both ATP and ADP can bind to the NBP of SKs , it is noteworthy that a single amino acid substitution in the lids of PhoQ and PmrB lowered ADP binding affinity ( Figures 3A , 3B , and 5A and Table S1 ) and impaired phosphatase activity ( Figures 3C -- 3E and 5B -- 5D and Table S1 ) without affecting ATP - dependent autokinase ( Figures 3F , 3G , and 5E and Table S1 ) and phosphotransferase ( Figures 3H and 5F ) activities .
+The highly mobile lid is localized between the F and G2 boxes of SKs ( Figure S2D ) , where they appear to function as hinges controlling movement of the lid and in this way affecting retention of ADP ( Dutta and Inouye , 2000 ; Marina et al. , 2001 ; Yamada et al. , 2009 ) .
+Not surprisingly , certain amino - acid substitutions in the conserved G2 box and its surrounding residues in the SK EnvZ ( e.g. , S400 ) render it defective in phosphatase activity even in the presence of ADP ( Yang and Inouye , 1993 ; Zhu and Inouye , 2002 ) .
+And a partial deletion of the G2 box in the lid diminished the phosphatase activity of VanS ( Depardieu et al. , 2003 ) .
+Our experiments now provide evidence that the phosphatase defect of the lid mutants results , at least in part , from a lowered affinity for ADP ( Figures 3A , 3B , and 5A and Table S1 ) .
+The lid region is a key determinant in the SK - promoted dephosphorylation of its cognate RR - P ( Figures 3 and 4 ) , especially the conserved threonine or serine residues ( Figure S2 ) .
+Yet , the lid does not appear to affect an SK 's autokinase activity because the lid mutants of PhoQ and PmrB exhibit normal autokinase activity ( Figures 3F , 3G , and 5E and Table S1 ) .
+The direct interaction between the conserved threonine residue of the lid and the bound ADP ( Yamada et al. , 2009 ) suggests that the lid region recognizes ADP as a cofactor .
+Indeed , the threonine or serine in the lid was critical for binding ADP and for stimulating the phosphatase activity of PhoQ and PmrB ( Figures 3A -- 3E and 5A -- 5D ) .
+Therefore , the conserved threonine ( or serine ) in the lid plays a critical role in determining whether an SK functions as a kinase versus a phosphatase , probably by discriminating between the ATPand ADP - bound forms of the SK .
+Advantages of Intrinsic Negative Feedback in TCSs Two distinct orthologs of bacterial SKs exist in the mitochondria of plants and animals that display structural similarity to bacterial SKs ( Kato et al. , 2005 ; Machius et al. , 2001 ; Wynn et al. , 2000 ) : pyruvate dehydrogenase kinase and branched - chain α - ketoacid dehydrogenase kinase ( Chen et al. , 1998 ; Kato et al. , 2005 ; Machius et al. , 2001 ; Thelen et al. , 1998 , 2000 ; Wynn et al. , 2000 ) .
+It is remarkable that these eukaryotic proteins retain intrinsic feedback even though they lack phosphatase activity and perform their regulatory action by phosphorylation of serine ( instead of histidine ) residues in their target enzymes .
+Intrinsic feedback has been observed in the human pyruvate dehydrogenase kinase , which is endproduct inhibited by ADP ; binding of the ligand disrupts the closed configuration of the lid , allowing ADP to escape and thus removing end product inhibition , resulting in stimulation of kinase activity ( Kato et al. , 2005 ; Machius et al. , 2001 ; Wynn et al. , 2000 ) .
+Given the advantages of intrinsic negative feedback , it is not surprising that TCSs , which arose prior to Mol Cell .
+Author manuscript ; available in PMC 2013 July 17 .
+Page 9 eukaryotic cells acquiring mitochondrial symbionts , have persisted over eons of evolution and now constitute a dominant signal transduction system in bacteria .
+NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript There are several potential advantages in embodying the control of activation surges within a single protein ( i.e. , the SK ) .
+When both activities reside in the same protein , the balance between the opposing kinase and phosphatase activities of a bifunctional SK may be more easily fine - tuned by mutation during evolution to tailor the concentrations of its cognate RR - P to be most consistent with its physiological role ( e.g. , for an RR that functions as a transcriptional regulator : the number of regulated genes and the affinity of the RR - P for its binding sites ) .
+Furthermore , having ADP exert a classical end product inhibition of ATP binding necessary for the autokinase reaction ( Kato et al. , 2005 ) minimizes consumption of ATP for phosphorylating the RR and subsequently dephosphorylating the RR - P , which would take place in an organism relying on a separate phosphatase to exert extrinsic negative feedback .
+This implies that the SK exhibits a phosphatase - dominant state by inhibiting the autokinase activity of SKs as long as ADP stays bound .
+Given that a typical bacterium can have tens of TCSs , avoiding futile ATP consumption may significantly impact the energy budget of a cell .
+EXPERIMENTAL PROCEDURES Bacterial Strains , Plasmids , Primers , Growth Conditions , and Protein Purification All strains , plasmids , and primers used in this study are listed in Tables S2 and S3 , and protein - purification was carried out as described in the Supplemental Experimental Procedures .
+Phosphatase Assay to Determine the Apparent K M for ADP Phosphorylated PhoP - His6 ( PhoP - P ) and phosphorylated PmrA - His6 ( PmrA - P ) proteins were prepared as described ( Kato and Groisman , 2004 ) .
+Phosphatase assays were carried out as described in the Supplemental Experimental Procedures .
+Autokinase and Phosphotransferase Assays Autophosphorylation to determine the apparent K M for ATP and phosphotransfer assays were carried out as described in the Supplemental Experimental Procedures .
+In Vitro Surge of PhoP - P Using the Physiological Ratio of Purified PhoQ - Strep and PhoP - His6 in the Presence of ATP and ADP PhoQ - Strep or PhoQ - T438A - Strep proteins ( 2.5 μM ) were incubated with 25 μM of PhoP - His6 in TKM buffer at 37 °C for 5 min .
+The reaction was started by addition of 1 mM of ATP and 0.1 mM of ADP containing 50 μCi of [ γ - 32 P ] ATP ( 3000 Ci/mmol , Perkin Elmer ) at 37 °C and stopped at the indicated times by the addition of SDS loading buffer .
+Levels of phosphorylated PhoQ - Strep or phosphorylated PhoP - His6 proteins were determined as described in the Supplemental Experimental Procedures .
+One - half microliter of each sample was subjected to polyethyleneimine ( PEI ) - cellulosethin layer chromatography ( TLC ) , and developed with 0.8 M LiCl and 0.8 M acetic acid , followed by autoradiography using BAS - 5000 imaging system .
+The amount of the PhoQ and PhoP proteins was determined by SDS - PAGE , followed by staining with Coo - massie blue .
+Author manuscript ; available in PMC 2013 July 17 .
+Page 10 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript Autophosphorylation , Phosphotransfer , and Dephosphorylation Using Purified PhoQ , PhoP , and Low Concentration of ATP PhoQ - Strep or PhoQ - T438A - Strep proteins were incubated with PhoP - His6 proteins in TKM buffer at 37 °C for 5 min .
+The reaction was started by addition of 50 μM of ATP .
+See the Supplemental Experimental Procedures for detailed protocols .
+Isothermal Titration Calorimetry Measurements Wild - type and T438A mutant PhoQ - Strep proteins were buffer - exchanged in TKM buffer containing 0.01 % n - dodecyl β - D-maltoside , and ITC measurements were performed at 25 °C with a sample cell solution containing 62.7 μM for the wild - type and 83.1 μM for the T438A mutant PhoQ - Strep proteins using an iTC 200 microcalorimeter ( MicroCal ) .
+See the Supplemental Experimental Procedures for detailed protocols .
+Time - Course Analysis of mRNA Expression Transcription kinetics of PhoP - activated genes were determined as described ( Shin et al. , 2006 ) .
+See the Supplemental Experimental Procedures for detailed protocols .
+Model and Simulations of the Dynamic Behavior of Bifunctional SKs The model was designed based on mass action kinetics , and implemented using the SimBiology Toolbox V2 .1.1 , Matlab R2007b ( the Matlab code is available for noncommercial use from the authors upon request ) .
+See the Supplemental Experimental Procedures for detailed protocols .
+Supplementary Material Acknowledgments References Refer to Web version on PubMed Central for supplementary material .
+We thank Dr. Enrico Di Cera and Mr. Prafull Gandi for assistance with the ITC experiment , Dr. Eduardo Sontag for his comments about the kinetic model , and Dr. Arthur Horwich and anonymous reviewers for comments on the manuscript .
+I.Z. is supported in part by grants TIN - 13950 , TIC - 02788 , and GREIB - 2011 .
+This work was supported in part by grants AI49561 and AI42236 from the National Institutes of Health to E.A.G. , who is an investigator of the Howard Hughes Medical Institute .
+Alloing G , Martin B , Granadel C , Claverys JP .
+Development of competence in Streptococcus pneumonaie : pheromone autoinduction and control of quorum - sensing by the oligopeptide permease .
+[ PubMed : 9701804 ] Alper S , Duncan L , Losick R .
+An adenosine nucleotide switch controlling the activity of a cell typespecific transcription factor in B. subtilis .
+[ PubMed : 8168129 ] Bennett BD , Kimball EH , Gao M , Osterhout R , Van Dien SJ , Rabinowitz JD .
+Absolute metabolite concentrations and implied enzyme active site occupancy in Escherichia coli .
+[ PubMed : 19561621 ] Bhattacharya A , Kurochkin AV , Yip GN , Zhang Y , Bertelsen EB , Zuiderweg ER .
+Allostery in Hsp70 chaperones is transduced by subdomain rotations .
+[ PubMed : 19361428 ] Buckstein MH , He J , Rubin H. Characterization of nucleotide pools as a function of physiological state in Escherichia coli .
+[ PubMed : 17965154 ] Cai SJ , Inouye M. EnvZ - OmpR interaction and osmoregulation in Escherichia coli .
+Author manuscript ; available in PMC 2013 July 17 .
+Page 11 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript Casino P , Rubio V , Marina A. Structural insight into partner specificity and phosphoryl transfer in two - component signal transduction .
+[ PubMed : 19800110 ] Castelli ME , García Véscovi E , Soncini FC .
+The phosphatase activity is the target for Mg 2 + regulation of the sensor protein PhoQ in Salmonella .
+[ PubMed : 10807931 ] Chamnongpol S , Groisman EA .
+Acetyl phosphate - dependent activation of a mutant PhoP response regulator that functions independently of its cognate sensor kinase .
+[ PubMed : 10873466 ] Chechik G , Oh E , Rando O , Weissman J , Regev A , Koller D. Activity motifs reveal principles of timing in transcriptional control of the yeast metabolic network .
+[ PubMed : 18953355 ] Chen W , Huang X , Komuniecki PR , Komuniecki R. Molecular cloning , functional expression , and characterization of pyruvate dehydrogenase kinase from anaerobic muscle of the parasitic nematode Ascaris suum .
+[ PubMed : 9578613 ] Davey MJ , Fang L , McInerney P , Georgescu RE , O'Donnell M .
+The DnaC helicase loader is a dual ATP/ADP switch protein .
+[ PubMed : 12065427 ] Depardieu F , Courvalin P , Msadek T .
+A six amino - acid deletion , partially overlapping the VanSB G2 ATP - binding motif , leads to constitutive glycopeptide resistance in VanB - type Enterococcus faecium .
+[ PubMed : 14617162 ] Dong G , Kim YI , Golden SS .
+Simplicity and complexity in the cyanobacterial circadian clock mechanism .
+Curr Opin Genet Dev .
+[ PubMed : 20934870 ] Dutta R , Inouye M. GHKL , an emergent ATPase/kinase super - family .
+[ PubMed : 10637609 ] Dutta R , Qin L , Inouye M. Histidine kinases : diversity of domain organization .
+[ PubMed : 10564504 ] Gao R , Stock AM .
+Biological insights from structures of two - component proteins .
+[ PubMed : 19575571 ] Hart Y , Madar D , Yuan J , Bren A , Mayo AE , Rabinowitz JD , Alon U. Robust control of nitrogen assimilation by a bifunctional enzyme in E. coli .
+[ PubMed : 21211727 ] Hoch , JA. ; Silhavy , TJ .
+Washington , DC : ASM Press ; 1995 .
+Hsing W , Russo FD , Bernd KK , Silhavy TJ .
+Mutations that alter the kinase and phosphatase activities of the two - component sensor EnvZ .
+[ PubMed : 9721293 ] Hutchings MI , Hong HJ , Buttner MJ .
+The vancomycin resistance VanRS two - component signal transduction system of Streptomyces coelicolor .
+[ PubMed : 16420361 ] Igo MM , Ninfa AJ , Stock JB , Silhavy TJ .
+Phosphorylation and dephosphorylation of a bacterial transcriptional activator by a transmem - brane receptor .
+[ PubMed : 2558046 ] Inouye , M. ; Dutta , R. Histidine kinases in signal transduction .
+San Diego , CA : The Company of Biologists Ltd ; 2003 .
+Kang PJ , Sanson A , Lee B , Park HO .
+A GDP/GTP exchange factor involved in linking a spatial landmark to cell polarity .
+[ PubMed : 11313501 ] Kato A , Groisman EA .
+Connecting two - component regulatory systems by a protein that protects a response regulator from dephosphorylation by its cognate sensor .
+[ PubMed : 15371344 ] Kato M , Chuang JL , Tso SC , Wynn RM , Chuang DT .
+Crystal structure of pyruvate dehydrogenase kinase 3 bound to lipoyl domain 2 of human pyruvate dehydrogenase complex .
+[ PubMed : 15861126 ] Kremling A , Heermann R , Centler F , Jung K , Gilles ED .
+Analysis of two - component signal transduction by mathematical modeling using the KdpD/KdpE system of Escherichia coli .
+Author manuscript ; available in PMC 2013 July 17 .
+Page 12 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript Machius M , Chuang JL , Wynn RM , Tomchick DR , Chuang DT .
+Structure of rat BCKD kinase : nucleotide - induced domain communication in a mitochondrial protein kinase .
+Proc Natl Acad Sci USA .
+[ PubMed : 11562470 ] Marina A , Mott C , Auyzenberg A , Hendrickson WA , Waldburger CD .
+Structural and mutational analysis of the PhoQ histidine kinase catalytic domain .
+Insight into the reaction mechanism .
+[ PubMed : 11493605 ] Marina A , Waldburger CD , Hendrickson WA .
+Structure of the entire cytoplasmic portion of a sensor histidine - kinase protein .
+[ PubMed : 16319927 ] Markson JS , O'Shea EK .
+The molecular clockwork of a protein - based circadian oscillator .
+[ PubMed : 19913541 ] Mascher T , Helmann JD , Unden G. Stimulus perception in bacterial signal - transducing histidine kinases .
+Microbiol Mol Biol Rev. 2006 ; 70:910 -- 938 .
+[ PubMed : 17158704 ] Masuda S , Murakami KS , Wang S , Anders Olson C , Donigian J , Leon F , Darst SA , Campbell EA .
+Crystal structures of the ADP and ATP bound forms of the Bacillus anti - sigma factor SpoIIAB in complex with the anti - anti - sigma SpoIIAA .
+[ PubMed : 15236958 ] Miyashiro T , Goulian M. High stimulus unmasks positive feedback in an autoregulated bacterial signaling circuit .
+Proc Natl Acad Sci USA .
+[ PubMed : 18987315 ] Nakajima M , Imai K , Ito H , Nishiwaki T , Murayama Y , Iwasaki H , Oyama T , Kondo T. Reconstitution of circadian oscillation of cyanobacterial KaiC phosphorylation in - vitro .
+[ PubMed : 15831759 ] Neuhard , J. ; Nygaard , P .
+In Escherichia coli and Salmonella typhimurium Cellular and Molecular Biology .
+Ingraham , J. ; Low , K. ; Magasanik , B. ; Schaechter , M. ; Umbarger , H. , editors .
+Washington , DC : ASM Press ; 1987 .
+Park HO , Bi E , Pringle JR , Herskowitz I. Two active states of the Ras - related Bud1/Rsr1 protein bind to different effectors to determine yeast cell polarity .
+Proc Natl Acad Sci USA .
+[ PubMed : 9114012 ] Perego M , Hoch JA .
+Protein aspartate phosphatases control the output of two - component signal transduction systems .
+[ PubMed : 8868347 ] Ray JC , Igoshin OA .
+Adaptable functionality of transcriptional feedback in bacterial two - component systems .
+[ PubMed : 20168997 ] Russo FD , Silhavy TJ .
+The essential tension : opposed reactions in bacterial two - component regulatory systems .
+[ PubMed : 8162415 ] Rust MJ , Golden SS , O'Shea EK .
+Light - driven changes in energy metabolism directly entrain the cyanobacterial circadian oscillator .
+[ PubMed : 21233390 ] Sanowar S , Le Moual H. Functional reconstitution of the Salmonella typhimurium PhoQ histidine kinase sensor in proteoliposomes .
+[ PubMed : 15910283 ] Shin D , Lee EJ , Huang H , Groisman EA .
+A positive feedback loop promotes transcription surge that jump - starts Salmonella virulence circuit .
+[ PubMed : 17158330 ] Shinar G , Milo R , Martínez MR , Alon U. Input output robustness in simple bacterial signaling systems .
+Proc Natl Acad Sci USA .
+[ PubMed : 18077424 ] Shinar G , Rabinowitz JD , Alon U. Robustness in glyoxylate bypass regulation .
+[ PubMed : 19266029 ] Stock AM , Robinson VL , Goudreau PN .
+[ PubMed : 10966457 ] Tanaka T , Saha SK , Tomomori C , Ishima R , Liu D , Tong KI , Park H , Dutta R , Qin L , Swindells MB , et al. .
+NMR structure of the histidine kinase domain of the E. coli osmosensor EnvZ .
+[ PubMed : 9817206 ] Thelen JJ , Muszynski MG , Miernyk JA , Randall DD .
+Molecular analysis of two pyruvate dehydrogenase kinases from maize .
+[ PubMed : 9756901 ] Thelen JJ , Miernyk JA , Randall DD .
+Pyruvate dehydrogenase kinase from Arabidopsis thaliana : a protein histidine kinase that phosphorylates serine residues .
+Author manuscript ; available in PMC 2013 July 17 .
+Page 13 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript Trajtenberg F , Graña M , Ruétalo N , Botti H , Buschiazzo A. Structural and enzymatic insights into the ATP binding and autophosphorylation mechanism of a sensor histidine kinase .
+[ PubMed : 20507988 ] Wynn RM , Chuang JL , Cote CD , Chuang DT .
+Tetrameric assembly and conservation in the ATPbinding domain of rat branched - chain alpha - ketoacid dehydrogenase kinase .
+[ PubMed : 10903321 ] Yamada S , Sugimoto H , Kobayashi M , Ohno A , Nakamura H , Shiro Y. Structure of PAS - linked histidine kinase and the response regulator complex .
+[ PubMed : 19836334 ] Yamamoto K , Ishihama A. Transcriptional response of Escherichia coli to external copper .
+[ PubMed : 15773991 ] Yang Y , Inouye M. Intermolecular complementation between two defective mutant signal - transducing receptors of Escherichia coli .
+Proc Natl Acad Sci USA .
+[ PubMed : 1662380 ] Yang Y , Inouye M. Requirement of both kinase and phosphatase activities of an Escherichia coli receptor ( Taz1 ) for ligand - dependent signal transduction .
+[ PubMed : 8389884 ] Zhu Y , Inouye M .
+The role of the G2 box , a conserved motif in the histidine kinase superfamily , in modulating the function of EnvZ .
+[ PubMed : 12139613 ] Zhu Y , Qin L , Yoshida T , Inouye M. Phosphatase activity of histidine kinase EnvZ without kinase catalytic domain .
+Proc Natl Acad Sci USA .
+Author manuscript ; available in PMC 2013 July 17 .
+Page 14 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript Figure 1 .
+Purified PhoQ and PhoP Proteins Recapitulate the PhoP - P Surge in the Presence of ATP and ADP In Vitro ( A ) Levels of PhoP - P and PhoQ - P at the indicated times after incubation of PhoP with wildtype PhoQ protein in the presence of ATP ( 1 mM ) and ADP ( 0.1 mM ) .
+( B ) Quantitation of the in - vitro surge assay shown in ( A ) .
+The graph depicts the absolute amount of PhoP - P ( open circles ) and PhoQ - P ( closed circles ) .
+Inset : The normalized levels of PhoP - P ( open circles ) and PhoQ - P ( closed circles ) relative to their maximum levels .
+Data correspond to the average ± SEM from three independent experiments .
+( C ) ATP remaining in the reaction after incubation with PhoP and PhoQ proteins .
+ATP and Pi were visualized following a run on PEI - cellulose TLC plate .
+[ γ - 32 P ] ATP was used as a marker .
+The positions of ATP , Pi , PhoP - P , and PhoQ - P are indicated by arrows .
+( D ) Levels of PhoP and PhoQ proteins during in - vitro surge were visualized on SDS - PAGE .
+The positions of PhoP and PhoQ are marked with arrows and a standard protein size marker was run in parallel .
+See also Figure S1 and Tables S3 and S4 .
+Author manuscript ; available in PMC 2013 July 17 .
+Page 15 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript Figure 2 .
+Endogenously Generated ADP Stimulates PhoQ 's Phosphatase Activity In Vitro ( A ) Levels of PhoP - P and PhoQ - P after incubation of PhoP with wild - type PhoQ protein in the presence of ATP ( 50 μM ) for the indicated times .
+( B ) Quantitation of the phosphorylation assay shown in ( A ) .
+The graph depicts the levels of PhoP - P ( open circles ) and PhoQ - P ( closed circles ) relative to their respective maximum .
+( C ) Levels of [ α - 32 P ] ATP and [ α - 32 P ] ADP after incubation of PhoP - P , PhoQ - P , and [ α - 32 P ] ATP for the indicated times .
+[ α - 32 P ] ATP was used as a standard marker for PEI - TLC .
+( D ) The graph depicts the levels of [ α - 32 P ] ATP and [ α - 32 P ] ADP from [ α - 32 P ] ATP during the reaction relative to the maximum levels shown in ( C ) .
+( E ) Levels of PhoQ - P remain constant during autophosphorylation when PhoP is omitted from the reaction ( A ) .
+All data correspond to the average ± SEM from three independent experiments .
+See also Tables S3 and S4 .
+Author manuscript ; available in PMC 2013 July 17 .
+Page 16 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript Figure 3 .
+The ATP Lid T438A Mutant PhoQ Exhibits Lower Binding Affinity for ADP and Decreased Phosphatase Activity ( A and B ) Binding affinity for ADP of the wild - type PhoQ protein ( A ) is higher than that of the lid T438A mutant PhoQ protein ( B ) .
+The raw data ( top ) and corresponding integrated data ( bottom ) of heat changes are shown .
+In these ITC experiments , 2 mM and 5 mM of ADP were used for wild - type and T438A PhoQ proteins , respectively .
+( C ) ADP stimulates PhoQ 's phosphatase activity , and the T438A mutant is defective in phosphatase activity .
+Top : Levels of PhoP - P after incubation with wild - type or T438A PhoQ proteins in the absence or presence of ADP ( 1 mM ) .
+Bottom : Percentage of remaining PhoP - Mol Cell .
+Author manuscript ; available in PMC 2013 July 17 .
+Page 17 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript P relative to the levels present at time zero .
+PhoP - P levels at time zero min ( control ) are similar to those observed at time five min when no PhoQ protein was added to the reaction .
+( D ) The T438A PhoQ protein exhibits higher apparent K M for ADP in the in - vitro phosphatase assay .
+Percentage of remaining PhoP - P after incubation with wild - type or T438A PhoQ proteins in the presence of the indicated ADP concentrations relative to the levels obtained in the absence of ADP .
+( E ) The T438A PhoQ protein dephosphorylates PhoP - P more slowly than the wild - type PhoQ protein .
+Percentage of PhoP - P remaining after incubation with wild - type or T438A PhoQ proteins in the absence or presence of ADP ( 1 mM ) for different times relative to the levels of PhoP - P at time zero .
+( F ) The wild - type and T438A PhoQ proteins exhibit similar autokinase activity .
+Levels of phosphorylated wild - type and T438A PhoQ after incubation in the presence of the indicated ATP concentrations .
+The plot depicts the levels of PhoQ - P relative to the maximum .
+( G ) The wild - type and T438A PhoQ proteins autophosphorylate at similar rates .
+Percentage of phosphorylated wild - type and T438A PhoQ proteins relative to the maximum achieved after incubation in the presence of ATP ( 1 mM ) for the indicated times .
+( H ) The wild - type and T438A PhoQ proteins phosphorylate Pho P at similar rates .
+Percentage of PhoP - P relative to the maximum achieved after incubation with wild - type or T438A PhoQ proteins and ATP ( 1 mM ) for the indicated times .
+All data correspond to the average ± SEM from three independent experiments .
+See also Tables S1 , S3 , and S4 and Figures S2 and S3 .
+Author manuscript ; available in PMC 2013 July 17 .
+Page 18 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript Figure 4 .
+Purified T438A Mutant PhoQ Displays Sustained PhoP - P Surge in the Presence of ATP and ADP In Vitro ( A ) Levels of PhoP - P and PhoQ - P at the indicated times after incubation of PhoP with T438A mutant PhoQ protein in the presence of ATP ( 1 mM ) and ADP ( 0.1 mM ) ( top ) .
+PhoP and PhoQ proteins during the in - vitro surge were visualized on SDS - PAGE ( bottom ) .
+The positions of PhoP and PhoQ were marked as arrows and a standard protein size marker was run in parallel .
+( B ) Quantitation of the in - vitro surge assay shown in ( A ) .
+The graph depicts the absolute amount of PhoP - P from PhoQ - T438A - P ( open circles ) and PhoQ - T438A - P ( closed circles ) .
+Inset : the normalized levels of PhoP - P ( open circles ) and PhoQ - T438A - P ( closed circles ) relative to their maximum levels .
+( C ) Quantitative comparison of the in - vitro surge assays shown in ( Figures 1A and 4A ) .
+The graph depicts the absolute amounts of PhoP - P from either PhoQ - P ( closed squares ) orPhoQ - T438A - P ( open squares ) relative to their respective maximum levels .
+Inset : The normalized Mol Cell .
+Author manuscript ; available in PMC 2013 July 17 .
+Page 19 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript levels of PhoP - P from either PhoQ - P ( closed squares ) or PhoQ - T438A - P ( open squares ) relative to their maximum levels .
+( D ) Levels of PhoP - P from PhoQ - T438A - P and PhoQ - T438A - P after incubation of PhoP with T438A mutant PhoQ protein in the presence of ATP ( 50 μM ) for the indicated times .
+( E ) Quantitation of the phosphorylation assay shown in ( D ) .
+The graph depicts the levels of PhoQ - T438A - P ( open circles ) and PhoP - P from PhoQ - T438A - P ( closed circles ) relative to their respective maximum levels .
+( F ) Quantitative comparison of the phosphorylation assays shown in ( Figures 2A and 4D ) .
+The graph depicts the levels of wild - type PhoQ - P ( closed circles ) and PhoQ - T438A - P ( open circles ) relative to their respective maximum levels .
+( G ) Quantitative comparison of the phosphorylation assay shown in ( Figures 2A and 4D ) .
+The graph depicts the levels of PhoP - P from either PhoQ - P ( closed squares ) or PhoQ - T438A - P ( open squares ) relative to their respective maximum levels .
+All data correspond to the average ± SEM from three independent experiments .
+See also Tables S3 and S4 .
+Author manuscript ; available in PMC 2013 July 17 .
+Page 20 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript Figure 5 .
+The ATP Lid S313A Mutant PmrB Displays Lower Binding Affinity for ADP and Decreased Phosphatase Activity ( A ) [ α - 32 P ] ADP bound by wild - type ( closed circles ) and lid S313A mutant ( open circles ) PmrB c proteins at different ADP concentrations after UV crosslinking .
+( B ) Percentage of PmrA - P protein remaining after incubation with wild - type or S313A PmrB c proteins in the absence or presence of ADP ( 1 mM ) .
+( C ) The S313A PmrB c exhibits higher apparent K M for ADP than the wild - type PmrB c .
+Percentage of PmrA - P remaining after incubation with wild - type or S313A PmrB c proteins in the presence of the indicated ADP concentrations relative to the levels obtained in the absence of ADP .
+( D ) The S313A PmrB c dephosphorylates PmrA - P more slowly than the wild - type PmrB c .
+Percentage of PmrA - P remaining relative to the levels of PmrA - P at time zero after incubation with wild - type or S313A PmrB c proteins in the absence or presence of ADP ( 0.3 mM ) for the indicated times .
+( E ) The wild - type and S313A PmrB c proteins display similar autokinase activity .
+Percentage of wild - type and S313A PmrB c after incubation in the presence of the indicated concentrations of ATP .
+( F ) The wild - type and S313A PmrB c proteins phosphorylate PmrA at similar rates .
+Percentage of PmrA - P after incubation with wild - type or S313A PmrB c proteins in the presence of ATP ( 1 mM ) .
+All data correspond to the average ± SEM from three independent experiments .
+See also Tables S1 , S3 , and S4 and Figures S2 -- S4 .
+Author manuscript ; available in PMC 2013 July 17 .
+Page 21 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript Figure 6 .
+Model and Simulations of the Dynamic Behavior of Bifunctional SKs and Sensitivity Analysis of the RR - P Concentration with Respect to the Parameters and Species of the Model ( A ) Model schematics .
+Reactions between SK states ( S ) and between RR states ( R ) are depicted by thick and thin lines , respectively ( Table S2 ) .
+The parameters reflect the reaction rates of the following processes : production of SK ( k 1 ) , production of RR ( k 2 ) , ATP binding to the SK ( k 3 ) , SK autophosphorylation ( k 4 ) , phosphotransfer from the SK in the kinase state ( blue circle ) to the RR ( k 5 ) , ADP dissociation from the SK ( k 6 ) ; ADP - stimulated SKpromoted dephosphorylation of RR - P ( green circle ) ( k 9 ) , and the rate of dephosphorylation of the phosphorylated RR in the phosphatase state with ADP remaining bound .
+An alternative pathway may exist whereby ADP dissociates from the autophosphorylated SK Mol Cell .
+Author manuscript ; available in PMC 2013 July 17 .
+Page 22 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript ( blue circle ) before phosphoryl transfer to the RR takes place .
+In this case , k 7 is the ADP dissociation rate from the SK , and k 8 corresponds to phosphotransfer between the SK and the RR .
+The species amounts and parameter learning process are specified in Table S2 ( see parts I -- III ) and in the Supplemental Information .
+( B ) Simulation for the behavior of the PhoP/PhoQ TCS .
+Initially , there are more SK molecules in the kinase state ( blue line ) , which then shift to being mostly in the phosphatase state ( green line ) , resulting in a surge of RR - P ( red line ) .
+The learned model ( red line ) correlates well ( R 2 = 0.9205 ) with the experimentally determined levels of PhoP - P in - vivo ( black dots ) .
+( C ) Simulation of the behavior of PhoP - P with an SK PhoQ harboring a mutation in the lid that renders it defective for phosphatase activity .
+Increasing the ADP dissociation rate ( parameter k 6 ) by 10 - fold predicts sustained levels of the RR - P ( red line ) , and consequently of the mRNA corresponding to the genes regulated by the RR - P .
+( D ) Sensitivity of the [ RR - P ] ( i.e. , concentration of RR - P ) to the values of the kinetic parameters presented in Table S2 ( see part IV ) .
+The values were normalized to facilitate comparisons as described in the Supplemental Experimental Procedures .
+The most sensitive parameters are : k 1 ( i.e. , the rate by which the SK is produced ) , k 5 ( i.e. , phosphotransfer to RR activity ) , k 6 ( i.e. , ADP dissociation from SK ) , and k 9 ( i.e. , SK phosphatase activity ) .
+( E ) Sensitivity of the [ RR - P ] to the initial values of the different species .
+The values were normalized as in ( A ) .
+Most species show limited effects ( ~ ± 0.5 ) on RR - P levels .
+The values of A0 ( i.e. , SK concentration ) and A1 ( i.e. , RR concentration ) affect both the initial and peak RR - P levels .
+See also Figures S5 and S6 and Table S2 .
+Author manuscript ; available in PMC 2013 July 17 .
+Page 23 NIH - PA Author Manuscript NIH - PA Author Manuscript NIH - PA Author Manuscript Figure 7 .
+A Salmonella Strain Expressing the T438A PhoQ Protein Exhibits Sustained Expression of PhoP - Activated Genes In Vivo mRNA levels of the PhoP - activated pmrD , mgtA , pcgL , and mig - 14 genes were determined by quantitative real - time PCR analysis with RNA prepared from strains WY105 ( wild - type PhoQ ) orWY107 ( T438A mutant PhoQ ) grown in medium with high ( 10 mM ) Mg 2 + , shifted to medium containing low ( 33 μM ) Mg 2 + in the presence of 0.5 mM IPTG , and harvested at the designated times .
+mRNA levels were normalized to those of the 16S ribosomal RNA gene .
+Data are represented as ± SEM from three independent experiments .
+Kinetics based on the wild - type strain exhibit a surge where the mRNA levels increase , peak , and then decline within 45 min ) ( F statistics , p value < 0.03 ) in contrast to the behavior of the T438Aexpressing strain .
+See also Tables S3 and S4 .
+Author manuscript ; available in PMC 2013 July 17 .

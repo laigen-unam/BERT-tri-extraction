@@ -1,0 +1,215 @@
+JOURNAL OF BACTERIOLOGY , Jan. 1991 , p. 536 - 540 0021 - 9193/91 / 020536 - 05 $ 02.00 / 0 Vol .
+173 , No. 2 Cloning and Nucleic Acid Sequence of the Salmonella typhimurium pncB Gene and Structure of Nicotinate Phosphoribosyltransferase ALEXANDER VINITSKY , HENRY TENG , AND CHARLES TIMMIS GRUBMEYER * Department of Biology , New York University , 100 Washington Square , New York , New York 10003 The pncB gene of SalmoneUa typhimurium , encoding nicotinate phosphoribosyltransferase ( NAPRTase ) , was cloned on a 4.7 - kb Sau3A fragment .
+The gene contains a 1,200 - bp open reading frame coding for a 400 - residue protein .
+Amino acid sequencing of the amino - terminal and two interior peptides of the purified protein confirmed the deduced sequence and revealed that the amino - terminal methionine residue was removed , giving a 399 - residue mature protein of Mr 45,512 .
+No signal sequence was observed in the predicted NAPRTase primary structure , suggesting that the enzyme is not periplasmic .
+The protein does not demonstrate clear sequence similarity to the other seven phosphoribosyltransferases of known primary structure and frustrates attempts to define a consensus 5 - phosphoribosyl - 1-pyrophosphate - binding region .
+The NAPRTase reaction is ATP stimulated , and the protein contains a carboxy - terminal sequence diagnostic of an ATP - binding site .
+An inverted repeat of the sequence TAAACAA observed in the proposed promoter region of pncB is also present in the promoter of nadA , which , like pncB , is also regulated by the NadR ( NadI ) repressor .
+The sequence may thus define an NadR repressor - binding site .
+The pncB gene of Escherichia coli and Salmonella typhimurium encodes the enzyme nicotinate phosphoribosylthesis by about 4,000 - fold ( unpublished data ) .
+reaction increases the equilibrium constant for NAMN syntransferase ( NAPRTase ; EC 2.4.2.11 ) , which catalyzes the In the current work , we have cloned a 4.7 - kb Sau3A formation of nicotinate mononucleotide ( NAMN ) ( 18 , 31 ) .
+fragment containing the S. typhimurium pncB gene and The reaction thus allows use of external nicotinate and sequenced a 1.84 - kb Sall - SphI region containing the gene .
+serves to salvage nicotinate formed in NAD breakdown ( 31 ) .
+The sequence reveals an open reading frame of 1,200 bp that Although the metabolic origin of this cycling remains obscure , in enteric bacteria the NAD pool turns over with a acid sequence was confirmed at several locations by protein produces a 399 - residue mature protein .
+The deduced amino half - time of about 90 min under aerobic conditions ( 27 ) .
+The primary structure of NAPRTase is not pncB locus maps at 25 min on the S. typhimurium chromosome ( 7 , 9 ) and is under the control of a repressor , the contain a consensus ATP - binding site at its carboxyl termi - similar to those of other PRTases , but the enzyme does product of the nadR gene ( 8 ; also called nadl [ 32 ] ) , which nal .
+also serves to regulate the expression of the nadA and nadB genes .
+NAPRTase has been isolated from many sources , including yeast cells , Bacillus species , mammalian erythrocytes , MATERIALS AND METHODS and Materials .
+The protein from yeast cells is a monomer of Bacterial strains used in this work are listed in Mr 43,000 and has been well characterized Table kinetically ( 13 , 1 .
+[ ' 4C ] nicotinic acid was from New England Nuclear .
+21 ) GeneClean was obtained from BiolO1 , La Jolla , Calif. .
+Highpressure liquid chromatography and sequencer solvents ṄAPRTase provides a unique paradigm for energy coupling in enzyme mechanisms .
+Like the other nine were phosphoribosyltransferases ( PRTases ; see reference 24 for a review ) , Fisher Optima grade ; trifluoroacetic acid and phenylisothiocyanate were from Pierce .
+Bacterial growth media NAPRTase catalyzes the formation of a mononucleotide and were obtained from Difco , restriction enzymes and DNA PP1 from a nitrogenous base and 5 - phosphoribosyl - 1-pyrophosphate ( PRPP ) .
+Unlike the other PRTases , however , sequencing supplies were from U.S. Biochemicals , and all other biochemicals were products of Sigma .
+NAPRTase from many sources catalyzes an ATP phosphohydrolase reaction stoichiometrically coupled to the NAMN Protein sequencing .
+For amino - terminal sequencing , 0.7 mg of purified NAPRTase was passed through a Sephadex synthetic reaction ( 15 , 20 ) .
+The ATP hydrolysis reaction is G - 50 centrifuge column ( 29 ) equilibrated with 50 mM not compulsory for the NAMN synthesis activity in all cases NaCI - 20 mM sodium phosphate , pH 8.0 .
+The eluate was however , being unobserved for a protozoal NAPRTase ( 19 ) , applied to the sample disk of a Porton Sequencer and stimulatory but not required for the mammalian enzyme ( 25 , subjected to automated Edman degradation .
+For preparation 30 ) , and apparently required for the well - studied yeast of tryptic peptides , the protein was applied to a column of enzyme ( 20 ) .
+Our own studies on the S. typhimurium Sephadex G - 50 ( 10 by 0.5 cm ) equilibrated with 10 mM NAPRTase have shown that it catalyzes a slow NAMN NH4HCO3 - 0.1 % sodium dodecyl sulfate .
+The pooled protein was lyophilized , suspended in water , and precipitated synthesis reaction in the absence of ATP .
+When ATP is present , it is hydrolyzed , and the ATP phosphohydrolase with 9 volumes of acetone - 1 mM HCl at -20 °C for 3 h .
+The protein pellet was washed with ice - cold acetone and suspended in 8 M urea - 0.4 M NH4HCO3 - 4 mM dithiothreitol .
+After 15 min at 50 °C , iodoacetamide was added to 10 mM .
+Water ( 3 volumes ) was added , and the protein was digested 536 VOL .
+Bacterial strains employed Strain Genotype Source C600 E. coli thr - J leuB6 lacYl supE44 B. Stitt rfbDl thi - J tonA21 X - RM926 S. typhimurium hsdLT ( r - m + ) R. Maurer hsdSA ( r - m + ) hsdSB ( r - m + ) metA22 metE551 trpD2 leu val rpsL120 galE JF1483 S. typhimurium malB trpB2 ilv452 J. Foster metA22 metE551 rpsLJ20flaA66 xy1404 galE496 hsdL6 ( r - m + ) hsdSA29 ( r - m + ) nadB pncB : : TnlO X112 VG001 JF1483 ( pC18 ) This work VG003 JF1483 ( pSC186 ) This work nylalanyl chloromethyl ketone [ Worthington ] ) at 37 °C overnight .
+Samples of the digest were resolved by reverse - phase chromatography using a Waters 600 high - pressure liquid chromatograph equipped with a Vydac 218TP54 C18 column .
+A linear gradient of 0 to 80 % B was used , where solvent A was 0.1 % trifluoroacetic acid in water and solvent B was 0.1 % trifluoroacetic acid in acetonitrile .
+Elution was monitored at A214 with a Waters 481 spectrophotometer .
+Tryptic peptides were dried under vacuum , dissolved in 30 % acetonitrile , and sequenced on the Porton sequencer with Porton peptide samples supports .
+The protocols of Ausubel et al. ( 3 ) were used for preparing single - stranded DNA from M13 clones .
+DNA was sequenced with Sequenase 2.0 ( U.S. Biochemicals , Cleveland , Ohio ) by following the protocols for manual sequencing suggested by the manufacturer .
+Enough distinct clones were employed ( Fig. 1 ) that each strand of DNA was sequenced at least once over the entire sequence presented .
+In several cases sequence discrepancies between the two strands occurred and were readily resolved by sequencing with 7 - deaza - dGTP or dITP replacing dGTP .
+Nucleotide sequence accession number .
+The GenBank accession number for the sequence shown in Fig. 2 is M55986 .
+RESULTS Cloning of pncB .
+The pncB gene was cloned by using a S. typhimurium genomic library prepared in lambda 1059 that was donated by R. Maurer .
+The library was screened using JF1483 ( a nadA pncB mutant ) , an `` Eschinella '' ( lambdasensitive S. typhimurium ) ( 14 ) derivative which is blocked in the de novo NAD biosynthetic pathway as well as being a pncB deletion .
+This strain was constructed for this work by John Foster , University of South Alabama .
+Screening was carried out on plates of M9 supplemented with 0.5 pig of nicotinic acid per ml .
+From one of these colonies , phage Sa N Hp R Hi Hp Sp R pncB FIG. 1 .
+Restriction map of the 4.7 - kb insert of pC18 .
+The insert is bordered by nonunique Sau3A sites .
+Abbreviations : Hi , HindIll ; Hp , HpaI ; R , EcoRI ; N , NruI ; Sa , Sall ; Sp , SphI .
+The position of the coding region is indicated by the solid line .
+The sequencing strategy is shown by arrows denoting the start points and directions of sequencing clones .
+The distance from Sall to SphI is 1.8 kbp .
+* - - S. TYPHIMURIUM pncB SEQUENCE 537 were induced by short - wave UV radiation and a stock was made .
+The stock was used to infect C600 , giving rise to clear and turbid plaques .
+Phage purified from the clear plaques conferred the PncB + phenotype on JF1483 and were used to prepare phage DNA .
+To prepare a plasmid subclone , the phage DNA was partially digested with Sau3A , and fragments of about 5 kb were isolated and ligated into pUC19 previously cut with BamHI and treated with alkaline phosphatase .
+The ligation mixture was used to transform E. coli JM83 , and the transformation mixtures were plated on tryptone plates containing 25 , ug of ampicillin per ml , 40 , ug of 5 - bromo - 4-chloro - 3-indoyl - 3-D - galactopyranoside per ml , and 1 mM isopropyl , - D - thiogalactopyranoside .
+Of the transformed bacteria , 100 white colonies were picked and used to inoculate 20 ml of tryptone broth containing 50 pLg of ampicillin per ml .
+The mixed culture was grown overnight and used for plasmid isolation .
+The resultant library was screened for pncB in JF1483 as described above .
+A plasmid , pC18 , was isolated from one of these colonies and used to transform JF1483 again to Ampr PncB + .
+A map of the 4.7 - kb Sau3A - Sau3A insert in pC18 ( Fig. 1 ) shows 6 - base restriction sites that were located or confirmed by digestions with the appropriate enzymes .
+A pUC19 subclone of the restriction fragment proceeding from Sall to the right - hand Sau3A site , pSC186 , also complemented JF1483 and therefore also contains the pncB gene .
+pSC186 was used to develop a purification process for the NAPRTase protein , employing polyethyleneimine and ( NH4 ) 2SO4 precipitations , anion - exchange chromatography , and final purification on a TSK - Cibacron Blue dye affinity column with salt elution ( details of this procedure will be presented elsewhere ) .
+The homogeneous protein thus produced showed an apparent Mr of 45,000 on a sodium dodecyl sulfate - polyacrylamide gel and catalyzed the NAPRTase reaction with a velocity of 3.6 U/mg , a value in good agreement with values for the yeast enzyme ( 13 , 20 ) .
+DNA sequencing of pncB and deduced amino - acid sequence of NAPRTase .
+The DNA sequencing strategy employed is shown in Fig. 1 .
+The nucleotide sequence of the SalI - SphI fragment revealed an open reading frame of 1,200 bp beginning at nucleotide 238 ( Fig. 2 ) .
+The coding sequence is preceded by a poor ribosome - binding site , AACAGCG , with an alternative ribosome - binding site , GAGGA , at nucleotides 217 to 221 .
+Upstream 72 bp from the ATG is a potential promoter with TTCAATA ( TTGACAT ) at -35 and TATACT ( TATAAT ) at -10 ( consensus sequences from reference 23 ) separated by 15 nucleotides .
+At 14 nucleotides past the UAA terminator codon , nucleotides 1452 to 1478 can form a stem - loop with 11 nucleotides in each half of the stem ( including two GU base pairs ) and a 5 - residue loop .
+This structure , which at its 3 ' end has the T - rich sequence TTTGTTCTGAT , may act as a [ rho ] - independent transcriptional terminator ( 5 ) .
+The deduced primary structure of NAPRTase predicts a peptide of 400 amino - acids .
+If the amino - terminal methionine is removed , the calculated molecular weight of the 399 - residue protein is 45,512 .
+The molecular weight is in good agreement with the results of sodium dodecyl sulfate - polyacrylamide gel electrophoresis on the purified protein .
+We have also sequenced the amino terminus of the purified NAPRTase and portions of two tryptic peptides ( underlined in Fig. 2 ) and observed excellent agreement with the sequence deduced from the DNA .
+The amino - terminal sequence analysis revealed that the terminal methionine is removed in the wild - type protein .
+Further analysis of the sequence is presented below in Discussion .
+Nucleotide sequence of the S. typhimurium pncB gene and deduced primary structure of NAPRTase .
+Underlined bases show the inverted repeat hypothesized to be the NadR - binding site and the proposed terminator region .
+The -10 and -35 areas of the putative promoter are indicated above the nucleotide sequence and are italicized .
+Numbering of the amino - acid - residue6 begins with the Thr residue following the initiator Met .
+Amino acid residues in boldface type were confirmed by protein sequencing .
+240 20 300 40 360 60 420 80 480 100 540 120 600 140 660 160 720 180 780 200 840 220 900 240 960 260 1020 280 1080 300 1140 320 1200 340 1260 360 1320 380 1380 Previous work ( 4 ) led to the conclusion that the NAPRTase protein of E. coli was localized in the periplasmic space .
+Such proteins are synthesized as preproteins with a consensus signal sequence that is removed during processing .
+It is thus possible that our purified protein has not been processed and contains the signal peptide or that it is the processed product of a longer protein .
+A search for an amino - terminal signal sequence within the protein as iso - VOL .
+173 , 1991 NAPRTase 368 L S D S P G K T I C H D K A F V R 384 adenylate kinase 15 G G P G S G K G T Q C E K I V H K 31 recA 66 G P E S S G K T T L T L Q V I A 81 FIG. 3 .
+Sequence comparisons among ATP - binding regions .
+Sequence sources were reference 12 for adenylate kinase and reference 2 for RecA .
+lated , using the criteria of an amino - terminal positive charge followed by 14 to 20 neutral , primarily hydrophobic residues , as presented by Oliver ( 26 ) , was negative .
+Alternative upstream initiation codons at bases 106 , 131 , and 134 are not in frame and are closely followed by translational terminator codons .
+An in - frame GTG initiator at nucleotide 214 would produce the additional amino - terminal sequence Met - Arg - Gly - Pro - Asn - Ser - Ala - Pro - Met .
+This sequence has one positive charge followed by seven neutral residues and is not a compelling candidate for a signal sequence .
+Expression of the pncB gene , like that of nadA , is under the control of the repressor product of the nadR gene ( 10 ) .
+Comparison of the sequence of the putative pncB promoter region with that of nadA , published recently ( 11 ) , reveals that the sequence TAAACAA and its inverted repeat TTGTTTA are present in both genes , in each case with one occurrence between the -10 and -35 regions of the promoter .
+DISCUSSION The sequence of the S. typhimurium pncB gene presented here allowed the first NAPRTase sequence to be deduced .
+The 10 known PRTases employ purine , pyrimidine , and pyridine bases , except for anthranilate PRTase and glutamine PRPP amidotransferase , which employs ammonia produced in a tightly coupled glutaminase reaction .
+None of the pyridine - linked enzymes ( nicotinate , nicotinamide , and quinolinate PRTases ) has previously been sequenced .
+The NAPRTase sequence has been examined for similarity to nucleotide - binding proteins .
+For many of the NADbinding proteins , a consensus motif of sequence Gly - X-Gly - X - X-Gly has been observed and is involved in a tight turn between a beta strand and an alpha helix forming part of the nucleotide - binding structure ( 6 ) .
+No good fit to this sequence is observed in the primary structure of NAPRTase .
+For some ATP - utilizing enzymes , a consensus motif ( the `` flexible loop '' [ 2 , 12 ] ) that contains the sequence GKT preceded by several small residues was found .
+Examples from adenylate kinase and RecA are shown in Fig. 3 .
+This theme was also found in NAPRTase , extending from residues 368 to 384 .
+In studies of the ATP - binding site of adenylate kinase , Fry et al. ( 12 ) showed that the flexible loop ( residues 15 to 23 ) is near the triphosphate portion of the ATP - binding site .
+In NAPRTase , replacements in this region mainly substitute other small polar residues ( Ser and Asp ) for Gly and Pro residues .
+The GKT which is present in most of the ATPbinding proteins is completely conserved .
+Immediately following this structure is the polar sequence Cys - Glu - Lys in adenylate kinase , which is replaced by His - Asp - Lys in NAPRTase .
+In adenylate kinase this lysine makes an important interaction with the gamma phosphate group of ATP ( 12 ) .
+The NAPRTase lacks a second portion of the nucleotide - binding site , about 100 residues downstream in adenylate kinase , that is involved in base binding .
+We have noted that S. typhimurium NAPRTase , like its homolog from Bacillus subtilis ( 17 ) , is extremely nonspecific for nucleoside S. TYPHIMURIUM pncB SEQUENCE 539 triphosphate and will perform its reaction well with tripolyphosphate replacing ATP .
+Further mechanistic and structural work on NAPRTase may reveal the relationship of nucleotide - binding sites in this protein with those identified elsewhere .
+A naive hypothesis for NAPRTase structure is that the ATP - binding site has been added to an otherwise competent ATP - independent NAPRTase functional unit and now affects the behavior of the latter .
+This naive view would be in good accord with our observation that the enzyme can function in either an ATP - coupled or an independent fashion ṄAPRTase was compared with other proteins in several databases by using the program FASTA ( 28 ) .
+No convincing similarities were found .
+In addition , when NAPRTase was directly compared with orotate PRTase by using multiple sequence alignment ( 22 ) , no convincing similarity was observed .
+When primary structures of PRTases are compared , in general they reveal little apparent similarity ( 1 ) .
+However , Hove - Jensen et al. ( 16 ) have identified a region of weak sequence similarity which may define a PRPP - binding site .
+This consensus contains three major elements : a central pair of carboxylic acid residues flanked by hydrophobic residues , an amino terminal glycine , and the carboxy - terminal sequence Thr - Gly - Gly - Thr .
+When the primary structure of S. typhimurium NAPRTase was compared with this consensus PRPP - binding sequence , no strong similarity was observed .
+Although the primary structure does not reveal significant similarity , the higher - level structure may reveal a common folding pattern constituting a PRPP - binding site .
+The sequences of the two other pyridine - based PRTases , quinolinate PRTase and nicotinamide PRTase , remain to be determined and may assist in structure comparisons .
+It has been shown that both pncB and nadA are under the control of NAD levels and that this control is mediated through the action of the product of the nadR gene ( 8 , 32 ) .
+The putative promoter regions of pncB and nadA ( 11 ) share the sequence TAAACAA and its inverted repeat TTGTTTA .
+In both cases they occur near the -10 region of the proposed promoter .
+The order of the element and its repeat is reversed in the two cases , and in nadA , one of the sequences contains an additional A residue , TAAAACAA .
+The center - to - center distances of these two elements are 12 residues in nadA and 32 residues in pncB .
+This separation suggests that the NadR repressor - effector complex may bind to its recognition element and dimerize , causing a loop or kink in the DNA and also preventing the action of RNA polymerase .
+The NadR protein would respond to lower levels of its as - yet - unknown effector by depolymerizing and/or dissociating from the DNA , allowing transcription to proceed .
+Previous work which compared yields of NAPRTase activity following osmotic shock , spheroplast production , and other cell disintegration methods suggested that the NAPRTase of E. coli was localized to the periplasmic space ( 4 ) .
+The metabolic sense of this localization is not clear , since ATP , PRPP , and nicotinate arising from NAD breakdown would normally be found in the cytoplasm , although periplasmic nicotinic acid might also arise from the breakdown of external NAD or metabolites .
+Our failure to find a signal sequence in the pncB gene appears to rule out a periplasmic location for the enzyme .
+Edy Segura performed the amino - acid sequence determinations .
+We gratefully acknowledge the help of John Foster in strain construction and in providing us with his sequence results and of Russell Maurer in providing S. typhimurium genomic libraries .
+We 540 VINITSKY ET AL. thank the late Donald Sloan for many helpful discussions and gifts of reagents .
+Work in this laboratory was supported by a grant from the National Science Foundation ( DMB87 - 09256 ) .
+The acquisition of the protein facility was supported by grants from the National Science Foundation and the University Cost Sharing Instrumentation Fund .
+ADDENDUM IN PROOF The sequence of the E. coli pncB gene was recently reported ( M. G. Wubbolts , P. Terpstra , J. B. van Beilen , J. Kingma , H. A. R. Meesters , and B. Witholt , J. Biol .
+265:17665 - 17672 , 1990 ) ; it is highly similar to the S. typhimurium sequence reported here .
+Argos , P. , M. Hanei , J. M. Wilson , and W. N. Kelley .
+A possible nucleotide - binding domain in the tertiary fold of phosphoribosyltransferases .
+Argos , P. , and R. Leberman .
+Homologies and anomalies in primary structural patterns of nucleotide binding proteins .
+Ausubel , F. M. , R. Brent , R. E. Kingston , D. D. Moore , J. A. Smith , J. G. Seidman , and K. Struhl .
+Current protocols in molecular biology .
+John Wiley & Sons , Inc. , New York .
+Baecker , P. A. , S. G. Yung , M. Rodriguez , E. Austin , and A. J. Andreoli .
+Periplasmic localization of nicotinate phosphoribosyltransferase in Escherichia coli .
+Brendel , V. , G. H. Hamm , and E. N. Trifonov .
+Terminators of transcription with RNA polymerase from Escherichia coli : what they look like and how to find them .
+Eklund , H. , and C. - I .
+Crystal structure , coenzyme conformations , and protein interactions , p. 51 - 98 .
+Avramovic , and R. Poulson ( ed .
+) , Pyridine nucleotide coenzymes , part A. John Wiley & Sons , Inc. , New York .
+Foster , J. W. , and E. A. Holley .
+Genetic mapping of the Salmonella typhimurium pncB locus .
+Foster , J. W. , E. A. Holley - Guthrie , and F. Warren .
+Regulation of NAD metabolism in Salmonella typhimurium : genetic analysis and cloning of the nadR repressor locus .
+Foster , J. W. , D. M. Kinney , and A. G. Moat .
+Pyridine nucleotide cycle of Salmonella typhimurium : isolation and characterization of pncA , pncB , and pncC mutants and utilization of exogenous nicotinamide adenine dinucleotide .
+Foster , J. W. , D. M. Kinney , and A. G. Moat .
+Pyridine nucleotide cycle of Salmonella typhimurium : regulation of nicotinic acid phosphoribosyltransferase and nicotinamide deamidase .
+Foster , J. W. , Y. K. Park , T. Penfound , T. Fenger , and M. P. Spector .
+Regulation of NAD metabolism in Salmonella typhimurium : molecular sequence analysis of the bifunctional nadR regulator and the nadA pnuC operon .
+Fry , D. C. , S. A. Kuby , and A. S. Mildvan .
+NMR studies of the MgATP binding site of adenylate kinase and of a 45 - residue peptide fragment of the enzyme .
+Hanna , L. S. , S. L. Hess , and D. L. Sloan .
+Kinetic analysis of nicotinate phosphoribosyltransferase from yeast using high pressure liquid chromatography .
+Harkki , A. , and E. T. Palva .
+Application of phage lambda technology to Salmonella typhimurium .
+Honjo , T. , S. Nakamura , Y. Nishizuka , and 0 .
+Stoichiometric utilization of adenosine 5 ' - triphosphate in nicotinate ribonucleotide synthesis from nicotinate and 5 - phosphoribosyl - 1-pyrophosphate .
+Hove - Jensen , B. , K. H. Harlow , C. J. King , and R. L. Switzer .
+Phosphoribosylpyrophosphate synthetase of Escherichia coli : properties of the purified enzyme and primary structure of the prs gene .
+A cross - linked control system .
+I. Properties of a triphosphate - dependent nicotinic acid mononucleotide pyrophosphorylase from Bacillus subtilis .
+Imsande , J. , and P. Handler .
+Biosynthesis of diphosphopyridine nucleotide .
+Nicotinic acid mononucleotide pyrophosphorylase .
+Kahn , V. , and J. J. Blum .
+ATP - independent nicotinic acid mononucleotide pyrophosphorylase of Astasia longa .
+Spivey , and R. K. Gholson .
+Nicotinate phosphoribosyltransferase of yeast .
+Spivey , and R. K. Gholson .
+Yeast nicotinate phosphoribosyltransferase : studies of reaction paths , phosphoenzyme , and Mg2 '' effects .
+Lipman , D. J. , S. F. Altschul , and J. D. Kececioglu .
+A tool for multiple sequence alignment .
+Mechanism and control of transcription initiation in prokaryotes .
+Structural features of the phosphoribosyltransferases and their relationship to the human deficiency disorders of purine and pyrimidine metabolism .
+Niedel , J. , and L. S. Dietrich .
+Nicotinate phosphoribosyltransferase of human erythrocytes : purification and properties .
+Periplasm and protein secretion , p. 56 - 69 .
+In F. C. Neidhardt , J. L. Ingraham , K. B. Low , B. Magasanik , M. Schaechter , and H. E. Umbarger ( ed .
+) , Escherichia coli and Salmonella typhimurium : cellular and molecular biology .
+American Society for Microbiology , Washington , D.C. 27 .
+Park , U. E. , B. M. Olivera , K. T. Hughes , J. R. Roth , and D. R. Hillyard .
+DNA ligase and the pyridine nucleotide cycle in Salmonella typhimurium .
+Rapid and sensitive sequence comparison with FASTP and FASTA .
+Reversible binding of Pi by beef heart mitochondrial adenosine triphosphatase .
+Smith , L. D. , and R. K. Gholson .
+Allosteric properties of bovine liver nicotinate phosphoribosyltransferase .
+NAD biosynthesis and recycling , p. 557 - 563 .
+In F. C. Neidhardt , J. L. Ingraham , K. B. Low , B. Magasanik , M. Schaechter , and H. E. Umbarger ( ed .
+) , Escherichia coli and Salmonella typhimurium : cellular and molecular biology .
+American Society for Microbiology , Washington , D.C. 32 .
+Zhu , N. , B. M. Olivera , and J. R. Roth .
+Identification of a repressor gene involved in the regulation of NAD de novo biosynthesis in Salmonella typhimurium .

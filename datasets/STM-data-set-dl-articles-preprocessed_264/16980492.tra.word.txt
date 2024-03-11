@@ -1,0 +1,352 @@
+JOURNAL OF BACTERIOLOGY , Oct. 2006 , p. 6889 -- 6898 Vol .
+188 , No. 19 0021 - 9193/06 / $ 08.00 0 doi : 10.1128 / JB.00804 - 06 PhoP - Induced Genes within Salmonella Pathogenicity Island 1 Andrés Aguirre , 1 María Laura Cabeza , 1 Silvana V. Spinelli , 1 Michael McClelland , 2 Eleonora García Véscovi , 1 and Fernando C. Soncini 1 * Instituto de Biología Molecular y Celular de Rosario , Consejo Nacional de Investigaciones Científicas y Técnicas , Departamento de Microbiología , Facultad de Ciencias Bioquímicas y Farmacéuticas , Universidad Nacional de Rosario , Suipacha 531 , S2002LRK Rosario , Argentina , 1 and Sidney Kimmel Cancer Center , 10835 Altman Row , San Diego , California 92121 2 The invasive pathogen Salmonella enterica has evolved a sophisticated device that allows it to enter nonphagocytic host cells .
+This process requires the expression of Salmonella pathogenicity island 1 ( SPI - 1 ) , which encodes a specialized type III protein secretion system ( TTSS ) .
+This TTSS delivers a set of effectors that produce a marked rearrangement of the host cytoskeleton , generating a profuse membrane ruffling at the site of interaction , driving bacterial entry .
+It has been shown that the PhoP/PhoQ two - component system represses the expression of the SPI - 1 machinery by down - regulating the transcription of its master regulator , HilA .
+In this work , we reveal the presence of a PhoP - activated operon within SPI - 1 .
+This operon is composed of the orgB and orgC genes , which encode a protein that interacts with the InvC ATPase and a putative effector protein of the TTSS , respectively .
+Under PhoP - inducing conditions , expression of this operon is directly activated by the phosphorylated form of the response regulator , which recognizes a PhoP box located at the 35 region relative to the transcription start site .
+Additionally , under invasion - inducing conditions , orgBC expression is driven both by the prgH promoter , induced by the SPI - 1 master regulator HilA , and by the directly controlled PhoP/PhoQ promoter .
+Together , these results indicate that in contrast to the rest of the genes encompassed in the SPI - 1 locus , orgBC is expressed during and after Salmonella entry into its host cell , and they suggest a role for the products of this operon after host cell internalization .
+Salmonella enterica has developed a sophisticated process that allows it to enter and survive within host cells .
+This process requires the early expression of Salmonella pathogenicity island 1 ( SPI - 1 ) , a Salmonella - specific locus that codes for a specialized protein secretion system termed a type III secretion system ( TTSS ) ( 22 ) .
+This TTSS delivers a set of effectors that produce a marked rearrangement of the host cytoskeleton , generating a profuse membrane ruffling at the site of interaction that drives bacterial entry into intestinal epithelial cells ( 63 ) .
+Following internalization , Salmonella is also actively involved in the reversal of the cellular changes induced by the initial interaction , a process that requires at least one SPI - 1 effector protein , SptP ( 21 ) .
+In a systemic infection within infected macrophages , Salmonella induces the expression of a second TTSS , termed SPI - 2 ( 47 , 54 ) , that exports effector proteins across the Salmonella - containing vacuole into the host cytosol ( 60 ) .
+This set of effectors allows the microorganism to survive within infected macrophages , affecting vesicle trafficking , avoiding the oxidative burst , and provoking delayed macrophage cytotoxicity ( 60 ) .
+It has long been established that tight control , in a time - and environment - dependent manner , of the sequential expression of the different sets of virulence - factors is essential for the pathogen to succeed in the infection process ( 51 ) .
+Ectopic expression of these virulence - factors reduces the ability of the organism to disseminate within the infected host and to cause disease ( 23 , 42 ) .
+A series of regulatory systems have been identified that control the proper expression of virulence - factors in a precise spatiotemporal manner , and the PhoP/PhoQ regulatory system is pivotal in this process ( 26 ) .
+Activation of the PhoP - PhoQ regulon is necessary for intramacrophage survival ( 20 ) , resistance to acid - pH and to antimicrobial peptides ( 19 , 43 ) , modification of antigen presentation ( 61 ) , formation of spacious vacuoles ( 4 ) , Salmonella - containing vesicle trafficking within macrophages ( 25 ) , and modulation of macrophage cell death ( 14 ) .
+PhoP is able to control the expression of the SsrB response regulator and the SpiR sensor kinase of the SPI - 2 master SsrB/SpiR regulatory system ( 7 ) .
+Repression of the PhoP - PhoQ regulon is also required during the early invasion steps , as it was shown that the pho - 24 mutant strain , where the activation of PhoP is enhanced ( 24 , 31 , 42 ) , reduces invasion by affecting at least the transcription of the SPI - 1 master regulator , HilA ( 5 , 6 ) .
+We describe here that PhoP induces the expression of the orgB and orgC genes within the otherwise PhoP - repressed SPI - 1 island and that orgB and orgC form an orthodox PhoP - controlled transcriptional unit .
+These genes code for a bacterial cytoplasmic protein required for invasion and a putative effector protein of the SPI - 1 TTSS , respectively ( 13 , 32 , 40 ) .
+We demonstrate that these genes are expressed in - vitro under conditions that stimulate invasion of host cells from the HilA - controlled promoter located upstream of prgH and that induction of these two genes also occurs in a PhoP - dependent manner .
+y Celular de Rosario ( IBR - CONICET ) , Facultad de Ciencias Bioquímicas y Farmacéuticas ( UNR ) , Departamento de Microbiología , Suipacha 531 , S2002LRK Rosario , Argentina .
+MATERIALS AND METHODS Bacterial strains and growth - conditions .
+The bacterial strains and plasmids used in this study are listed in Table 1 .
+Bacteria were grown at 37 °C in Luria broth ( LB ) supplemented with 0.3 M NaCl ( 15 ) or in N - minimal - medium con - 6889 6890 AGUIRRE ET AL. .
+taining 0.1 % Casamino Acids , 38 mM glycerol , and 10 M or 10 mM MgCl 2 ( 24 , 55 ) .
+Ampicillin was used at 100 g ml 1 , kanamycin was used at 50 g ml 1 , chloramphenicol was used at 10 g ml 1 , tetracycline was used at 15 g ml 1 , and spectinomycin was used at 100 g ml 1 .
+Oligonucleotides were purchased from Bio - Synthesis , Inc. ( Lewisville , Tex. ) .
+Their sequences and purposes are shown in Table 2 .
+Bacterial genetic and molecular biology techniques .
+Phage P22 - mediated transductions were performed as described previously ( 12 ) .
+Plasmid DNA was introduced into bacterial strains by electroporation , using a Bio - Rad apparatus following the manufacturer 's recommendations .
+Deletion of various genes and concomitant insertion of antibiotic resistance cassettes were carried out using Lambda Red - mediated recombination ( 11 , 17 ) in strain LB5010 ( 8 ) .
+( The endpoints of each deletion are indicated in Table 1 .
+) The resulting mutations were then verified by genetic mapping and PCR , using pairs of primers that hybridize within the insertion cassette and with an adjacent chromosomal region ( 58 ) .
+Finally , isogenic strains were constructed by P22 - mediated transduction of the mutant DNAs into the appropriate strains and were verified by PCR .
+Chromosomal point mutations in the PhoP - binding site of the orgBC locus were generated as follows .
+First , we constructed strain PB4975 , which has a deletion of orgA and orgB by the one - step inactivation method .
+Second , an overlap extension PCR ( 2 ) fragment encompassing the mutated orgBC promoter , part of the orgB coding region , and a cam cassette was integrated into the chromosome of strain PB4975 to generate an otherwise PB3655 isogenic strain carrying the designed mutations in the PhoP - binding site .
+Sequence analysis of the orgBC promoter region and the junction region of the cam cassette amplified from the chromosome confirmed that the strains displayed only the designed substitutions .
+To generate nonpolar mutations or to introduce a lacZ reporter gene , antibiotic resistance cassettes were removed using the temperature - sensitive plasmid pCP20 carrying the FLP recombinase gene ( 10 ) .
+pCE36 was used to introduce the transcriptional lacZ fusion as previously described ( 17 ) .
+- Galactosidase assays were carried out as described previously ( 41 ) .
+The chromosomal deletion of the phoPQ operon was constructed by introduction of the spectinomycin cassette ( spc ) from plasmid pKRP13 ( 50 ) into the NsiI and NcoI sites of plasmid pEG5381 ( 27 ) .
+The deletion was incorporated into the Salmonella chromosome as previously described ( 57 ) .
+Strains 14028 , PB2069 , and PB2069/pPB1019 were grown in N - minimal - medium , pH 7.4 , with either 10 M or 10 mM MgCl 2 .
+RNAs were extracted by using a protocol from the Brown lab ( http://brownlab.stanford .
+Purified RNAs were labeled and hybridized to a Salmonella open reading frame array ( 40 ) , and slides were scanned as described previously ( 49 ) .
+Data analysis was performed using software provided by the Sidney Kimmel Cancer Center .
+Genes that showed relative ratios of 0.5 or 2.0 were considered down - or up - regulated , respectively .
+The S1 nuclease protection assay was performed as described previously ( 24 ) , using RNAs harvested from late - exponential - phase cultures VOL .
+188 , 2006 PhoP - INDUCED SALMONELLA SPI - 1 GENES 6891 TABLE 2 .
+Introduced point mutations are shown in bold .
+P orgB , orgB promoter region .
+( A 600 , 0.4 to 0.6 ) grown in N - minimal - medium , pH 7.5 , containing 10 M MgCl 2 .
+Total RNA was isolated with TRIzol ( Invitrogen ) according to the manufacturer 's specifications .
+A PCR product generated with primers PROM2869F and ORGB PE3 and with Salmonella chromosomal DNA as the template was used as a probe .
+The ORGB PE3 reverse primer was labeled at the 5 end by phosphorylation with [ - 32 P ] ATP by the use of T4 polynucleotide kinase ( Invitrogen ) prior to PCR .
+Mixtures of 32 P - end - labeled probe and 40 g of total RNA were incubated for 10 min at 75 °C and overnight at 37 °C for hybridization and then treated with S1 nuclease ( GIBCO , Life Technologies ) for 40 min at 37 °C .
+Undigested nucleic acids were extracted with phenol , precipitated with ethanol , and subjected to polyacrylamide gel electrophoresis in the presence of urea .
+For electrophoretic - mobility - shift assays ( EMSAs ) , approximately 6 fmol of labeled orgB promoter region DNA in a 40 - l volume was incubated at room temperature for 30 min with the indicated amounts of purified PhoP - H6 protein .
+The binding buffer used for protein - DNA incubations contained 20 mM Tris - HCl ( pH 7.4 ) , 50 mM KCl , 5 mM MgCl 2 , and 10 % glycerol .
+Samples were run in a 5 % nondenaturing Tris - glycine -- polyacrylamide gel at room temperature .
+After electrophoresis , the gel was dried and autoradiographed .
+DNase I footprinting assay .
+DNase - I-protection assays were done for both DNA strands , essentially as previously described ( 1 , 34 ) .
+Binding reaction mixtures with different amounts of purified PhoP - H6 protein ( 1 , 9 ) , 25 mM acetyl phosphate , and 6 fmol of labeled DNA were treated as described for the gel mobility - shift assay .
+DNase I ( 0.05 U ; Life Technologies , Inc. ) was added and incubated for 70 seconds at room temperature in a final volume of 100 l .
+The reaction was stopped by adding 90 l of 20 mM EDTA ( pH 8 ) , 200 mM NaCl , and 100 g/ml of tRNA .
+DNA fragments were purified by phenol - chloroform extraction and resuspended in 7 l ofH 2 O. Samples ( 3 l ) were analyzed by denaturing polyacrylamide ( 6 % ) gel electrophoresis by comparison with a DNA sequence ladder generated with the appropriate primer .
+RESULTS Expression of SPI - 1 orgB gene is stimulated by PhoP .
+DNA microarray exploratory screening was performed to compare the expression patterns of the PhoP - PhoQ regulon in Salmonella strains grown under different conditions ( our unpublished results ) .
+We determined the relative fluorescence intensities of differentially labeled cDNAs derived from the wild - type strain 14028s , a phoPQ : : spc ( PB2069 ) mutant , and the Mg 2 - and PhoQ - independent PhoP - overproducing strain phoPQ : : spc / pPB1019 induced with 1 mM isopropyl - - D - thiogalactopyranoside ( IPTG ) ( 35 ) and grown until late exponential phase in either PhoP - repressing ( 10 mM MgCl 2 ) or PhoP - activating ( 10 M MgCl 2 ) N - minimal - medium .
+Using cDNAs from the wildtype strain grown in low Mg 2 , we observed a 3.04 - 0.26 - fold increased fluorescence of the orgA - orgB DNA chip spot ( 40 ) compared with that for cDNAs obtained from the same strain grown in high - Mg 2 growth medium .
+No signal difference between low - and high - Mg 2 samples was observed when the phoPQ mutant and PhoP - overproducing strains were analyzed ( 1.07 - 0.31 - and 1.22 - 0.11 - fold differences , respectively , between low - and high - Mg 2 conditions ) , although the latter strain rendered higher fluorescence levels .
+These assays revealed that under PhoP - activating conditions , either orgA , orgB , or both , which were previously described oxygen - induced genes located within the SPI - 1 Salmonella invasion island ( 28 ) , are up - regulated by PhoP .
+Our results are in apparent contradiction with the reported expression of prgHIJK orgABC , controlled by the SPI - 1 master regulator HilA ( 28 , 32 , 38 ) .
+Because hilA transcription is highly repressed in a pho - 24 ( PhoP - overactivating ) mutant background ( 5 ) , we expected orgA and orgB expression to be reduced rather than stimulated under PhoP - inducing conditions .
+Therefore , we decided to examine the role of the PhoP/PhoQ system in the expression of both orgA and orgB .
+Chromosomal lacZ - transcriptional - fusions to each gene were constructed to measure their PhoP tran - 6892 AGUIRRE ET AL. .
+Expression of orgB is induced in low Mg 2 in a PhoP/PhoQdependent manner .
+- Galactosidase activities from an orgB : : lacZ transcriptional fusion ( A ) , an orgA : : lacZ - transcriptional - fusion ( B ) , and an orgB : : lacZ fusion harboring a cam cassette insertion in orgA ( C ) were determined in wild - type and phoPQ strains or in the phoPQ strain harboring pUH21 - 2 ( vector plasmid ) , pEG9071 ( phoPQ low - level expression plasmid ) , or pPB1019 ( phoP overexpression plasmid ) , all of which were grown to exponential phase in N - minimal - medium with the addition of 10 M ( gray bars ) or 10 mM ( black bars ) MgCl 2 .
+- Galactosidase activities are given in Miller units ( 41 ) .
+The data correspond to mean values for three independent experiments , with each done in duplicate .
+scriptional dependence in cells grown in low - and high - Mg 2 minimal - medium as described in Materials and Methods .
+In contrast to the microarray result , we did not detect induction of orgA expression in low - Mg 2 medium .
+Moreover , deletion of the phoPQ locus had essentially no effect on orgA transcription , indicating that this gene was not PhoP activated ( Fig. 1B ) .
+Furthermore , a reduction ( 30 % ) in the transcription of orgA could be observed in a strain harboring the PhoP - overproducing plasmid ( 35 ) , which is characteristic of a PhoP - repressed gene .
+On the other hand , expression of orgB was induced fiveto six - fold under Mg 2 limitation ( Fig. 1A ) .
+This Mg 2 - controlled induction depended on the presence of a functional phoPQ locus because in a phoPQ : : spc strain , orgB expression was reduced to the level detected for the wild - type strain grown in high Mg 2 , regardless of the cation content in the culture medium .
+As expected for a PhoP - activated orthodox gene ( 34 ) , complementation of the phoPQ : : spc strain with pEG9071 , a low - level PhoP - PhoQ expression plasmid ( 56 ) , restored Mg 2 - and PhoP/PhoQ - controlled orgB expression .
+We recently demonstrated that when PhoP is overexpressed , it can induce the transcription of its target genes in a PhoQ - and Mg 2 - independent manner ( 35 ) .
+Accordingly , complementation of the phoPQ : : spc strain with the PhoP - overproducing plasmid pPB1019 induced orgB transcription in either low or high Mg 2 ( Fig. 1A ) .
+These results point out the presence of a previously unidentified PhoP - dependent promoter controlling the expression of orgB .
+Hence , it is conceivable that two distinct promoters could drive the expression of this gene in response to different environmental signals , with one controlled by PhoP and the other controlled by HilA .
+orgB is transcribed from two independent promoters .
+Because OrgB is essential for Salmonella invasion into epithelial cells ( 32 ) , we hypothesized that transcription from either the prgH promoter ( 36 , 37 ) or an as yet unidentified promoter could account for orgB expression under SPI - 1-inducing conditions .
+We analyzed the expression of orgB and prgH from cells grown statically ( low oxygen ) in LB supplemented with 0.3 M NaCl , a condition known to induce the expression of SPI - 1 genes ( 15 ) .
+prgH transcription was not affected in the absence of the phoPQ locus , while it was highly reduced in a hilA or a pho - 24 background ( Fig. 2B ) .
+On the other hand , orgB transcription was reduced approximately 50 % in a phoPQ background and 60 % in a hilA background relative to that in the wild - type strain ( Fig. 2A ) .
+Furthermore , transcription of orgB in a hilA phoPQ double mutant background was almost completely abrogated .
+These results suggest the presence of two promoters that combine to control orgB transcriptional levels under invasion - inducing conditions .
+In this sense , no differences in orgB expression were detected in a pho - 24 background compared to that in the wild - type strain , consistent with a compensatory effect due to the presence of two oppositely regulated promoters , with one activated and one repressed by PhoP .
+To define the region where the putative PhoP - induced promoter is positioned within this locus , we investigated whether a polar insertion in orgA affected the PhoP - dependent orgB transcription either in N - minimal - medium ( Fig. 1C ) or in static LB ( Fig. 2A ) .
+We generated a deletion from nucleotides ( nt ) 86 to 350 of orgA and introduced a cam cassette into this region , leaving intact the last 250 bp of the 3 end of orgA , VOL .
+188 , 2006 PhoP - INDUCED SALMONELLA SPI - 1 GENES 6893 FIG. 3 .
+orgC is cotranscribed with orgB .
+- Galactosidase activities from an orgC : : lacZ - transcriptional - fusion were determined as described in the legend to Fig. 1 , using the wild - type strain , the phoPQ mutant , the phoPQ strain harboring either the pUH21 - 2 vector plasmid , pEG9071 ( phoPQ low - level expression plasmid ) , or pPB1019 ( phoP overexpression plasmid ) , the hilA mutant , and the orgB : : Cm strain , all of which were grown in N - minimal - medium with the addition of 10 M ( gray bars ) or 10 mM ( black bars ) MgCl 2 .
+Assays were performed as described in Materials and Methods and in the legend to Fig. 1 .
+The data correspond to mean values for three independent experiments , with each done in duplicate .
+Transcription of orgB under invasion - inducing conditions is driven by a PhoP - dependent and a HilA - dependent promoter .
+( A ) - Galactosidase activity from an orgB : : lacZ - transcriptional - fusion was determined for cells grown to mid - log phase ( optical density at 600 nm , 1 ) under LB - NaCl static conditions in the following genetic backgrounds : wild type , phoPQ , pho - 24 , hilA , phoPQ hilA , orgA , phoPQ orgA , and pho - 24 orgA .
+( B ) - Galactosidase activity from a prgH : : lacZ - transcriptional - fusion was determined as described above for the wild - type , phoPQ , pho - 24 , hilA , and phoPQ hilA backgrounds .
+Assays were performed as described in Materials and Methods and in the legend to Fig. 1 .
+The data correspond to mean values for at least three independent experiments , with each done in duplicate .
+upstream of the orgB coding region .
+Although this cassette was not designed to produce polar effects , several lines of evidence have shown that its insertion with the cam transcriptional unit in the opposite orientation to that of the interrupted gene renders a polar effect on downstream open reading frames ( our unpublished results ) ( see Fig. 3 for the effect of orgB : : Cm on orgC transcription ) .
+Transcription of orgB in N - minimal medium was almost not affected by the insertion in orgA ( compare Fig. 1A and C ) .
+Under SPI - 1-inducing conditions and in the presence of the polar insertion in orgA , orgB expression was reduced 70 % compared to that in the otherwise wild - type background ( Fig. 2A ) .
+As observed in the hilA phoPQ background , orgB expression was almost completely abrogated in an orgA : : cam phoPQ double mutant strain , indicating the presence of the two oppositely regulated promoters , with one controlled by HilA and the other controlled by PhoP .
+On the other hand , orgB was up - regulated in the pho - 24 orgA : : Cm background , further substantiating the existence of a PhoPdriven promoter located within orgA ( Fig. 2A ) .
+Collectively , these results strongly indicate that under invasion - inducing conditions , the expression of orgB is driven by both a HilA - dependent promoter , located further upstream of orgA , and a PhoP/PhoQ - dependent promoter , located within the orgA coding region .
+orgC is cotranscribed with orgB from the PhoP - activated promoter .
+Given that orgC is transcribed in the same direction as orgB and that the two genes partially overlap ( 32 , 40 ) , we tested whether these two genes form part of a PhoP - controlled transcriptional unit ( Fig. 3 ) .
+The expression of orgC was induced four - to fivefold in low Mg 2 compared to its expression in high Mg 2 , and the induction with low Mg 2 was abrogated in the absence of a functional PhoP/PhoQ system .
+As observed with orgB , the low - Mg 2 expression level of the reporter gene was restored by complementation of the phoPQ mutant strain with the low - level phoPQ expression plasmid pEG9071 and was maximally induced in a strain overexpressing PhoP , regardless of the Mg 2 concentration in the culture medium .
+The Mg 2 - dependent regulation was not affected by a hilA deletion , in agreement with the orgB expression pattern .
+These results indicate that orgC expression is activated by PhoP/PhoQ and suggest that orgB and orgC form part of a single transcriptional unit .
+To confirm this hypothesis , we introduced a cam insertion cassette into the 5 region of orgB .
+Under these conditions , the expression of orgC was abolished .
+Expression of the orgC downstream gene hilC , which encodes an AraC - like regulator responsible , in part , for the expression of hilA ( 16 , 39 , 52 , 53 ) , was not influenced by either Mg 2 or the PhoP/PhoQ system ( data not shown ) .
+This indi - 6894 AGUIRRE ET AL. .
+Mapping the transcription start site of the orgBC operon .
+S1 - nuclease - mapping was used to determine the transcriptional start site of the orgBC operon , using RNAs isolated from mid - exponentialphase 14028s ( wild - type ) or PB2069 ( phoPQ ) cells grown in N - minimal medium , pH 7.5 , with 10 M MgCl 2 .
+The protected products were run in a 6 % polyacrylamide sequencing gel against dideoxy sequencing reactions primed with the same primer .
+The sequence spanning the transcription start site is shown , and the transcription start site is indicated in bold .
+cates that the SPI - 1 PhoP - induced transcriptional unit encompasses solely the orgB and orgC genes .
+Detection of the orgBC transcriptional start site by S1 nuclease mapping .
+To identify the transcriptional start site of the orgBC promoter , we performed an S1 nuclease protection assay using RNAs isolated from late - exponential - phase cultures of the wild - type Salmonella strain ATCC 14028s and the phoPQ mutant grown in N - minimal - medium with 10 M Mg 2 as described previously ( 34 , 56 ) .
+A protection product was detected and was located 20 bp upstream of the orgB start codon ( Fig. 4 ) that was absent in the phoPQ mutant .
+The transcription start site corresponded to a T residue located within the orgA gene .
+Under these conditions , we detected a faint smearing that could account for the low - level transcript driven from a promoter located further upstream .
+The orgBC promoter is directly recognized by PhoP .
+We previously identified the consensus motif recognized in Salmonella by PhoP as a ( G/T ) GTTTA ( A/T ) direct repeat located in the 35 region of the orthodox pag promoters ( 34 ) .
+Although by using bioinformatic tools we did not detect the presence of a PhoP box in the orgBC promoter region , EMSA was performed using a PCR - amplified fragment derived from the orgBC promoter region under the same conditions previously set up for the orthodox pag promoters ( 34 ) .
+The PCR product encompasses the transcriptional start site of the transcriptional unit and extends 239 bp upstream .
+A purified PhoP - H6 fusion protein phosphorylated with acetyl phosphate was used for the assay .
+A single retarded band was detected when 1 M or higher concentrations of the purified response regulator were used ( Fig. 5A ) , suggesting that a single PhoP - binding site was present in the fragment .
+A 100 - or 1,000 - fold excess of competing poly ( dI - dC ) did not affect the interaction , while no shifted band was detected when a 50 - fold excess of unlabeled promoter fragment was included in the mixture , indicating that FIG. 5 .
+PhoP binds to the promoter region of the orgBC operon .
+( A ) EMSA was performed using a 5 - 32 P - end - labeled PCR fragment of the promoter region of the orgBC operon incubated with different amounts of purified PhoP - H6 in the absence or presence of different amounts of either poly ( dI - dC ) as a nonspecific competitor ( dI - dC ) or the corresponding unlabeled PCR fragment ( sp.comp .
+( B ) DNA footprinting analysis of the promoter region of orgB was performed on both end - labeled coding and noncoding strands .
+Phosphorylated PhoP - H6 protein ( P - PhoP ; 2 M ) was added to the DNA fragments .
+Solid lines indicate the PhoP - protected regions .
+The positions of the areas of protection were determined by comparison with sequence ladders , obtained by using the same labeled primer as that used for the probe .
+the interaction of the response regulator with the orgB promoter fragment was specific .
+orgBC is an orthodox PhoP - activated operon .
+There are two conceivable explanations for the results described above , as follows : ( i ) PhoP is able to recognize an unusual sequence divergent from the consensus box in the promoter region of orgBC or ( ii ) the orgBC operon harbors an imperfect but still orthodox PhoP box .
+To distinguish between these possibilities , we analyzed the sequence recognized by PhoP in the orgBC promoter region by DNase I footprinting ( Fig. 5B ) .
+We performed the analysis on both the coding and noncoding strands of the promoter fragment by using acetyl phosphate - phosphorylated PhoP - H6 ( P - PhoP - H6 ) protein as previously described VOL .
+188 , 2006 PhoP - INDUCED SALMONELLA SPI - 1 GENES 6895 FIG. 6 .
+Alignment of promoter regions of Salmonella enterica serovar Typhimurium orthodox PhoP - activated promoters and the promoter region of orgBC .
+Sequences from the orthodox pag promoter regions which were previously described ( 34 ) were piled together with the orgBC promoter region .
+The ( G/T ) GTTTA ( A/T ) direct repeats are shaded , and the T and A residues essential for expression of the E. coli mgtA gene ( 62 ) are highlighted in white .
+The DNA footprint PhoP - protected regions of both coding and noncoding strands of the orgB promoter are indicated with thin lines .
+The orgB upstream sequence from S. bongori ( generated by the Sanger Institute Pathogen Sequencing Unit [ http://www.sanger .
+ac.uk / Projects/Salmonella ] ) was included , and the divergent residues are boxed .
+The P - PhoP - H6 protein protected nt 17 to nt 44 relative to the transcription start site of the orgBC promoter in the coding strand and nt 22 to nt 49 in the noncoding strand .
+In addition , the A residue at position 26 relative to the transcription start site was observed to be hypersensitive to DNase I. Thus , there was an overlap of 23 bp between the two strands protected by the PhoP protein .
+The alignment of the DNase I PhoP - protected sequence located between nt 25 and nt 42 relative to the PhoPinduced transcriptional start site of orgBC ( Fig. 5 , 6 , and 7A ) shows conserved features of the PhoP orthodox promoters identified in the phoPQ operon and in mgtA , slyB , pcgL , and pmrD ( 30 , 34 ) .
+In particular , it shows the presence of T residues at positions 40 , 29 , and 28 and an A residue at position 26 .
+These residues were previously shown to be essential for the PhoP - dependent expression of the Escherichia coli mgtA gene ( 62 ) .
+To confirm the presence of the imperfect PhoP box controlling the expression of the orgBC operon , we generated two different mutant strains with mutations within the orgA coding region affecting the recognition box ( Fig. 7A ) .
+In one of these mutants ( SM , which stands for silent mutation ) , we replaced the T residues at positions 39 and 29 with C residues , disrupting the two direct repeats recognized by PhoP without affecting the translated sequence of orgA .
+In the other mutant ( BM , for Salmonella bongori mutation ) , we replaced the T residues at positions 29 and 28 with G and C , respectively , to mimic the sequence present in S. bongori ( Fig. 6 ) .
+PhoPinduced orgB expression was completely abrogated in both cases ( Fig. 7B ) , confirming the absolute requirement of these residues for PhoP recognition .
+Moreover , under invasion - inducing conditions , orgB expression in the presence of either the SM or BM mutation was similar to the expression in a phoPQ background .
+These mutations affected orgB expression in the hilA strain in a similar manner to that by deletion of the phoPQ operon ( compare Fig. 7C and 2A ) .
+As expected , the pho - 24 mutation in the presence of either the SM or BM background repressed HilA - regulated orgB expression .
+Cumulatively , these results indicate that orgB and orgC expression can be driven either from an invasion - induced promoter located upstream of orgA or as an independent transcriptional unit from an orthodox PhoP - activated promoter located within the orgA coding sequence and highly induced under Mg 2 - limiting conditions .
+DISCUSSION It has been shown extensively that the SPI - 1 genes are induced under conditions of low oxygen and high - osmolarity ( 33 ) and are repressed under PhoP/PhoQ - activating conditions ( 5 ) , a scenario that Salmonella finds inside the host cell after internalization .
+In this regard , it has been shown that a pho - 24 mutant strain in which the activation of PhoP is enhanced ( 24 , 31 , 42 ) reduces invasion by affecting the transcription of the SPI - 1 master regulator HilA ( 5 ) .
+Similarly , overexpression of PhoP from pPB1019 results in hilA transcriptional repression ( our unpublished results ) .
+More recently , it was established that PhoP/PhoQ is also required for the expression of the SPI - 2 island ( 7 ) , demonstrating that the Mg 2 - modulated system plays a master regulatory role in Salmonella during infection .
+This is accomplished by the sequential induction and/or repression of the two key virulence - factors involved in invasion of nonphagocytic cells and in survival and replication inside macrophages .
+Our study shows that PhoP controls genes both positively and negatively within the SPI - 1 island and adds a new level of complexity in the hierarchic regulation of Salmonella virulence determinants .
+Although divergent from the consensus box sequence , ( G/T ) GTTTA ( A/T ) N 4 ( G/T ) GTTTA ( A/T ) ( 34 ) , the alignment of the DNase I PhoP - protected sequence within orgA ( ATTTAT TGAGGAGGCATTGAAGCA ) with the PhoP orthodox promoters ( 30 , 34 ) showed the presence in the orgBC promoter of all established essential residues for PhoP regulation ( Fig. 5 and 6 ) ( 62 ) .
+Additionally , alignment of this region from all sequenced serovars of subspecies I of Salmonella enterica ( http://www.ncbi.nlm.nih.gov/genomes/lproks.cgi ) showed 100 % conservation , suggesting a similar PhoP regulation of these two SPI - 1-carried genes among this subspecies .
+On the other hand , a G and a C residue replaced the two essential T residues located 29 and 28 nucleotides upstream of the PhoP transcriptional start site in the Salmonella bongori genome ( http : / / www.sanger.ac.uk/Projects/Salmonella/ ) , and a C residue replaced the 28 T residue in Salmonella enterica subsp .
+arizonae and diarizonae ( http://genome.wustl.edu/genome 6896 AGUIRRE ET AL. .
+Orthodox PhoP regulation of orgBC .
+( A ) Alignment of the Salmonella serovar Typhimurim PhoP - controlled orgBC promoter region with those of the constructed OrgA silent ( SM ) and S. bongori - like ( BM ) mutant strains , showing the OrgA amino - acid sequence in each case .
+( B and C ) Comparative orgB expression in the presence of the SM and BM mutations in the orgBC promoter region .
+- Galactosidase activities from the orgB : : lacZ - transcriptional - fusion were determined for cells grown in N - minimal - medium with the addition of 10 M ( gray bars ) or 10 mM ( black bars ) MgCl 2 ( B ) or under LB - NaCl static conditions ( C ) in the specified genetic backgrounds .
+Assays were performed as described in Materials and Methods and in the legend to Fig. 1 .
+The data correspond to mean values for at least three independent experiments , with each done in duplicate .
+Because we showed that at least the 29 and 28 T residues are essential for PhoP regulation , we anticipate that this transcriptional unit would not be activated by the PhoP / PhoQ regulatory system in S. bongori .
+This would also be the case for the S. enterica subspecies IIIa and IIIb .
+Based on the evolutionary hypothesis of virulence trait acquisition by Salmonella , it is tempting to speculate that the PhoPcontrolled expression of orgBC has arisen recently in S. enterica , perhaps only in subspecies I , suggesting a double role for OrgB and OrgC in invasion and in intracellular survival and systemic infection .
+In this work , we determined that orgB and orgC are transcribed from a distal HilA - dependent promoter which is active under invasion - inducing conditions and also from the PhoP - controlled promoter located within orgA .
+HilA - dependent expression was previously observed using reverse transcription - PCR ( 32 ) .
+A deletion of orgB impairs Salmonella for secretion of extracellular components of the TTSS and the effector molecules ( 32 , 59 ) , indicating an essential role of OrgB in invasion .
+Although orgC expression was also observed under invasion - inducing conditions ( 13 , 32 ; our unpublished results ) , no phenotype has been noticed for mutants deleted of orgC VOL .
+188 , 2006 PhoP - INDUCED SALMONELLA SPI - 1 GENES 6897 either for in - vitro secretion of extracellular TTSS components and effectors or for internalization into epithelial cells .
+The reason why PhoP/PhoQ activates the expression of these two genes within SPI - 1 remains unclear .
+OrgB , an essential protein for TTSS functioning , interacts with the ATPase InvC ( 3 ) , which is thought to provide the energy for the secretion process .
+It has been shown that the distantly OrgB - related flagellar protein FliH interacts with the InvC homologue FliI and inhibits its ATPase activity in - vitro , controlling flagellar assembly ( 45 , 46 ) .
+This was also observed in the Shigella TTSS , where MxiN , the OrgB homologue , was found to interact with Spa47 , the InvC homologue ( 29 ) .
+Given the homology between these proteins , we can postulate that the PhoP - induced expression of OrgB would regulate the export of effectors once Salmonella is in the intracellular milieu .
+In this way , low - level expression of orgB from the prgH promoter would provide enough inhibitor to modulate energy waste during TTSS formation .
+After host cell invasion , PhoP - directed up - regulation of OrgB would prevent the ectopic secretion of SPI - 1 effectors .
+Alternatively , OrgB may prevent the secretion of effectors required early in infection , allowing injection into the host cell of effectors that are required later , including SptP ( 21 ) and/or OrgC ( 13 ) .
+A third alternative is that OrgB may modulate ATPase activity , not only as an inhibitor but by stimulating ATPase activity when a proper stoichiometry with InvC is reached .
+Altering this stoichiometry would affect the export process , as observed in the case of overexpression of FliH in wild - type Salmonella ( 44 ) .
+It has been proposed that OrgC could act as a secreted negative regulator of SPI - 1 transcription , based on the facts that ( i ) OrgC is secreted into the extracellular milieu by the SPI - 1 translocon ( 13 ) , ( ii ) an insertion in orgC renders increased hilA : : lacZY expression in solid medium ( 18 ) , and ( iii ) orgC is located in the island in a similar position to that of lcrQ in a Yersinia pseudotuberculosis plasmid ( 48 ) which encodes a Yop negative regulator .
+We observed that the deletion in this gene has no effect on hilA : : lacZY expression either under invasion - inducing conditions or in low - Mg 2 N - minimal - medium ( data not shown ) , indicating that OrgC does not affect HilAdependent SPI - 1 transcription .
+In light of these data , it is tempting to speculate that the double control of the expression of OrgB and OrgC may reflect a sequential requirement for these proteins , first during the invasion process under SPI - 1-inducing conditions , and then , after internalization , under the control of intravacuolar input signals .
+We thank M. E. Castelli for comments on the manuscript .
+This work was supported by grants from Agencia Nacional de Promoción Científica y Tecnológica and from the National Research Council ( CONICET ) , Argentina .
+E.G.V. is a career investigator of the National Research Council ( CONICET , Argentina ) , and A.A. , M.L.C. , and S.S. are fellows of the same institution .
+S.S. obtained an ASM fellowship that funded the early stages of this work .
+F.C.S. is a member of the Rosario National University Research Council ( CIUNR ) and CONICET and is also an International Research Scholar of the Howard Hughes Medical Institute .
+Aguirre , A. , S. Lejona , E. García Véscovi , and F. C. Soncini .
+Phosphorylated PmrA interacts with the promoter region of ugd in Salmonella enterica serovar Typhimurium .
+Aiyar , A. , Y. Xiang , and J. Leis .
+Site - directed mutagenesis using overlap extension PCR .
+Akeda , Y. , and J. E. Galan .
+Genetic analysis of the Salmonella enterica type III secretion - associated ATPase InvC defines discrete functional domains .
+Alpuche - Aranda , C. M. , E. L. Racoosin , J. A. Swanson , and S. I. Miller .
+Salmonella stimulate macrophage macropinocytosis and persist within spacious phagosomes .
+Bajaj , V. , R. L. Lucas , C. Hwang , and C. A. Lee .
+Co - ordinate regulation of Salmonella typhimurium invasion genes by environmental and regulatory factors is mediated by control of hilA expression .
+Behlau , I. , and S. I. Miller .
+A PhoP - repressed gene promotes Salmonella typhimurium invasion of epithelial cells .
+Bijlsma , J. J. , and E. A. Groisman .
+The PhoP/PhoQ system controls the intramacrophage type three secretion system of Salmonella enterica .
+Bullas , L. R. , and J. I. Ryu .
+Salmonella typhimurium LT2 strains which are r m for all three chromosomally located systems of DNA restriction and modification .
+Castelli , M. E. , E. García Véscovi , and F. C. Soncini .
+The phosphatase activity is the target for Mg 2 regulation of the sensor protein PhoQ in Salmonella .
+Cherepanov , P. P. , and W. Wackernagel .
+Gene disruption in Escherichia coli : Tc R and Km R cassettes with the option of Flp - catalyzed excision of the antibiotic - resistance determinant .
+Datsenko , K. A. , and B. L. Wanner .
+One - step inactivation of chromosomal genes in Escherichia coli K - 12 using PCR products .
+Davis , R. W. , D. Bolstein , and J. R. Roth .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 13 .
+Day , J. B. , and C. A. Lee .
+Secretion of the orgC gene product by Salmonella enterica serovar Typhimurium .
+Detweiler , C. S. , D. B. Cunanan , and S. Falkow .
+Host microarray analysis reveals a role for the Salmonella response regulator phoP in human macrophage cell death .
+Eichelberg , K. , and J. E. Galan .
+Differential regulation of Salmonella typhimurium type III secreted proteins by pathogenicity island 1 ( SPI - 1 ) - encoded transcriptional activators InvF and HilA .
+Ellermeier , C. D. , J. R. Ellermeier , and J. M. Slauch .
+HilD , HilC and RtsA constitute a feed forward loop that controls expression of the SPI1 type three secretion system regulator hilA in Salmonella enterica serovar Typhimurium .
+Ellermeier , C. D. , A. Janakiraman , and J. M. Slauch .
+Construction of targeted single copy lac fusions using Red and FLP - mediated site - specific recombination in bacteria .
+Fahlen , T. F. , N. Mathur , and B. D. Jones .
+Identification and characterization of mutants with increased expression of hilA , the invasion gene transcriptional activator of Salmonella typhimurium .
+Fields , P. I. , E. A. Groisman , and F. Heffron .
+A Salmonella locus that controls resistance to microbicidal proteins from phagocytic cells .
+Fields , P. I. , R. V. Swanson , C. G. Haidaris , and F. Heffron .
+Mutants of Salmonella typhimurium that can not survive within the macrophage are avirulent .
+Fu , Y. , and J. E. Galan .
+A Salmonella protein antagonizes Rac - 1 and Cdc42 to mediate host - cell recovery after bacterial invasion .
+Salmonella interactions with host cells : type III secretion at work .
+García Véscovi , E. , F. C. Soncini , and E. A. Groisman .
+The role of the PhoP/PhoQ regulon in Salmonella virulence .
+García Véscovi , E. , F. C. Soncini , and E. A. Groisman .
+Mg 2 as an extracellular signal : environmental regulation of Salmonella virulence .
+Garvis , S. G. , C. R. Beuzon , and D. W. Holden .
+A role for the PhoP/Q regulon in inhibition of fusion between lysosomes and Salmonella - containing vacuoles in macrophages .
+The pleiotropic two - component regulatory system PhoP - PhoQ .
+Groisman , E. A. , E. Chiao , C. J. Lipps , and F. Heffron .
+Salmonella typhimurium phoP virulence gene is a transcriptional regulator .
+Jones , B. D. , and S. Falkow .
+Identification and characterization of a Salmonella typhimurium oxygen - regulated gene required for bacterial internalization .
+Jouihri , N. , M. P. Sory , A. L. Page , P. Gounon , C. Parsot , and A. Allaoui .
+MxiK and MxiN interact with the Spa47 ATPase and are required for transit of the needle components MxiH and MxiI , but not of Ipa proteins , 6898 AGUIRRE ET AL. .
+through the type III secretion apparatus of Shigella flexneri .
+Kato , A. , T. Latifi , and E. A. Groisman .
+Closing the loop : the PmrA / PmrB two - component system negatively controls expression of its posttranscriptional activator PmrD .
+Kier , L. D. , R. M. Weppelman , and B. N. Ames .
+Regulation of nonspecific acid phosphatase in Salmonella : phoN and phoP genes .
+Klein , J. R. , T. F. Fahlen , and B. D. Jones .
+Transcriptional organization and function of invasion genes within Salmonella enterica serovar Typhimurium pathogenicity island 1 , including the prgH , prgI , prgJ , prgK , orgA , orgB , and orgC genes .
+Lee , C. A. , and S. Falkow .
+The ability of Salmonella to enter mammalian cells is affected by bacterial growth state .
+Lejona , S. , A. Aguirre , M. L. Cabeza , E. García Véscovi , and F. C. Soncini .
+Molecular characterization of the Mg 2 - responsive PhoP - PhoQ regulon in Salmonella enterica .
+Lejona , S. , M. E. Castelli , M. L. Cabeza , L. J. Kenney , E. García Véscovi , and F. C. Soncini .
+PhoP can activate its target genes in a PhoQindependent manner .
+Lostroh , C. P. , V. Bajaj , and C. A. Lee .
+The cis requirements for transcriptional activation by HilA , a virulence determinant encoded on SPI - 1 .
+Lostroh , C. P. , and C. A. Lee .
+The HilA box and sequences outside it determine the magnitude of HilA - dependent activation of P prgH from Salmonella pathogenicity island 1 .
+Lostroh , C. P. , and C. A. Lee .
+The Salmonella pathogenicity island - 1 type III secretion system .
+Lucas , R. L. , and C. A. Lee .
+Roles of hilC and hilD in regulation of hilA expression in Salmonella enterica serovar Typhimurium .
+McClelland , M. , K. E. Sanderson , J. Spieth , S. W. Clifton , P. Latreille , L. Courtney , S. Porwollik , J. Ali , M. Dante , F. Du , S. Hou , D. Layman , S. Leonard , C. Nguyen , K. Scott , A. Holmes , N. Grewal , E. Mulvaney , E. Ryan , H. Sun , L. Florea , W. Miller , T. Stoneking , M. Nhan , R. Waterston , and R. K. Wilson .
+Complete genome sequence of Salmonella enterica serovar Typhimurium LT2 .
+Experiments in molecular genetics .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 42 .
+Miller , S. I. , and J. J. Mekalanos .
+Constitutive expression of the phoP regulon attenuates Salmonella virulence and survival within macrophages .
+Miller , S. I. , W. S. Pulkkinen , M. E. Selsted , and J. J. Mekalanos .
+Characterization of defensin resistance phenotypes associated with mutations in the phoP virulence regulon of Salmonella typhimurium .
+Minamino , T. , B. Gonzalez - Pedrajo , M. Kihara , K. Namba , and R. M. Macnab .
+The ATPase FliI can interact with the type III flagellar protein export apparatus in the absence of its regulator , FliH .
+Minamino , T. , B. Gonzalez - Pedrajo , K. Oosawa , K. Namba , and R. M. Macnab .
+Structural properties of FliH , an ATPase regulatory component of the Salmonella type III flagellar export apparatus .
+Minamino , T. , and R. M. Macnab .
+FliH , a soluble component of the type III flagellar export apparatus of Salmonella , forms a complex with FliI and inhibits its ATPase activity .
+Ochman , H. , F. C. Soncini , F. Solomon , and E. A. Groisman .
+Identification of a pathogenicity island required for Salmonella survival in host cells .
+Pettersson , J. , R. Nordfelth , E. Dubinina , T. Bergman , M. Gustafsson , K. E. Magnusson , and H. Wolf - Watz .
+Modulation of virulence factor expression by pathogen target cell contact .
+Porwollik , S. , R. M. Wong , S. H. Sims , R. M. Schaaper , D. M. DeMarini , and M. McClelland .
+The uvrB mutations in the Ames strains of Salmonella span 15 to 119 genes .
+Reece , K. S. , and G. J. Phillips .
+New plasmids carrying antibioticresistance cassettes .
+Rhen , M. , and C. J. Dorman .
+Hierarchical gene regulators adapt Salmonella enterica to its host milieus .
+Schechter , L. M. , S. M. Damrauer , and C. A. Lee .
+Two AraC/XylS family members can independently counteract the effect of repressing sequences upstream of the hilA promoter .
+Schechter , L. M. , and C. A. Lee .
+AraC/XylS family members , HilC and HilD , directly bind and derepress the Salmonella typhimurium hilA promoter .
+Shea , J. E. , M. Hensel , C. Gleeson , and D. W. Holden .
+Identification of a virulence locus encoding a second type III secretion system in Salmonella typhimurium .
+Snavely , M. D. , S. A. Gravina , T. - B .
+T. Cheung , C. G. Miller , and M. E. Maguire .
+Magnesium transport in Salmonella typhimurium : regulation of mgtA and mgtB expression .
+Soncini , F. C. , E. García Véscovi , and E. A. Groisman .
+Transcriptional autoregulation of the Salmonella typhimurium phoPQ operon .
+Soncini , F. C. , and E. A. Groisman .
+Two - component regulatory systems can interact to process multiple environmental signals .
+Stanley , T. L. , C. D. Ellermeier , and J. M. Slauch .
+Tissue - specific gene expression identifies a gene in the lysogenic phage Gifsy - 1 that affects Salmonella enterica serovar Typhimurium survival in Peyer 's patches .
+Sukhan , A. , T. Kubori , J. Wilson , and J. E. Galan .
+Genetic analysis of assembly of the Salmonella enterica serovar Typhimurium type III secretionassociated needle complex .
+Waterman , S. R. , and D. W. Holden .
+Functions and effectors of the Salmonella pathogenicity island 2 type III secretion system .
+Wick , M. J. , C. V. Harding , N. J. Twesten , S. J. Normark , and J. D. Pfeifer .
+The phoP locus influences processing and presentation of Salmonella typhimurium antigens by activated macrophages .
+Yamamoto , K. , H. Ogasawara , N. Fujita , R. Utsumi , and A. Ishihama .
+Novel mode of transcription regulation of divergently overlapping promoters by PhoP , the regulator of two - component system sensing external magnesium availability .
+Zhou , D. , and J. Galan .
+Salmonella entry into host cells : the work in concert of type III secreted effector proteins .

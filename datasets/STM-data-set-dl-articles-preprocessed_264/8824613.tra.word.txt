@@ -1,0 +1,397 @@
+JOURNAL OF BACTERIOLOGY , Oct. 1996 , p. 5683 -- 5691 Vol .
+178 , No. 19 0021 - 9193/96 / $ 04.00 0 The Role of Fur in the Acid Tolerance Response of Salmonella typhimurium Is Physiologically and Genetically Separable from Its Role in Iron Acquisition HOLLY K. HALL 1,2 AND JOHN W. FOSTER 1 * Department of Microbiology and Immunology , College of Medicine , 1 and Department of Medical Technology , College of Allied Health , 2 University of South Alabama , Mobile , Alabama 36688 The response of Salmonella typhimurium to low pH includes a low - pH protection system called the acid tolerance response ( ATR ) .
+The iron - regulatory protein Fur has been implicated in the ATR since fur mutants are acid sensitive and cause altered expression of several acid shock proteins ( J. W. Foster , J. Bacteriol .
+We have determined that the acid - sensitive phenotype of fur mutations is indeed due to a defect in Fur that can be complemented by a fur - containing plasmid .
+However , changes in cellular iron status alone did not trigger the ATR .
+Cells clearly required exposure to low pH in order to induce acid tolerance .
+The role of Fur in acid tolerance was found to extend beyond regulating iron acquisition .
+A mutation in fur converting histidine 90 to an arginine ( H90R ) eliminated Fur - mediated iron regulation of enterochelin production and deregulated an iroA - lacZ fusion but had no effect on acid tolerance .
+The H90R iron - blind Fur protein also mediated acid shock induction of several Fur - dependent acid shock proteins and acid control of the hyd locus .
+In addition , a Fur superrepressor that constitutively repressed iron - regulated genes mediated normal Fur - dependent acid tolerance and pH - controlled gene expression .
+The results indicate the acid - sensing and iron - sensing mechanisms of Fur are separable by mutation and reinforce the concept of Fur as a major global regulator in the cell .
+Electronic mail address : fosterj@sungcg.usouthal.edu .
+Acidic pH is one of many environmental challenges that confront bacteria .
+Neutralophilic microorganisms , such as Salmonella typhimurium , can grow in conditions ranging from pH 5 to 9 .
+However , these organisms periodically encounter more severe acid and alkaline conditions outside these limits .
+S. typhimurium , as a facultative intracellular parasite transmitted via oral - fecal routes , will experience acid in a variety of host and nonhost situations .
+During pathogenesis , S. typhimurium experiences severe acidity in the stomach , an alkaline environment in the small intestine , and fermentative reacidification in the bowel .
+Upon invading the intestinal epithelia or macrophages , mild acidification occurs in the endocytic vacuole ( 10 , 11 ) .
+Subsequent phagolysosomal fusion within macrophages may further acidify the vacuole to a potentially deadly pH ( 34 , 35 ) .
+Outside the host , acid rain , acid mine drainage , and industrial slurries can produce pH conditions marginal for survival of S. typhimurium in lakes and rivers ( 2 ) .
+Thus , how S. typhimurium responds to acid stress has important implications for the host - parasite relationship and the organism 's ability to persist in various nonhost environments .
+S. typhimurium can withstand exposures to severe acid challenge by inducing the acid tolerance response ( ATR ) ( 16 ; reviewed in reference 15 ) .
+Acid tolerance is induced when logarithmically growing cells ( pH 7.7 ) are exposed to a mild acidification at pH - 5.8 for one generation or to a moderate acid shock of pH 4.4 for 20 min or more .
+These adapted cells will survive a subsequent acid challenge at normally lethal pH values ( 3.3 to 3.0 ) 100 - to 1,000 - fold better than will unadapted cells .
+The ATR also provides cross - protection to heat , osmotic , and oxidative challenges ( 28 , 29 ) .
+Consequently , unraveling the molecular mechanisms involved with inducible acid tolerance should provide insight into how microorganisms endure a variety of stress situations .
+Stress cross - protection provided by the ATR should also prove important during pathogenesis .
+For example , cells undergoing acid shock in the stomach will be better prepared to endure environmental stresses subsequently confronted in the intestine .
+The process of acid shock induces the synthesis of 51 acid shock proteins ( ASPs ) thought to contribute to survival at low pH ( 13 , 24 , 28 ) .
+Two global regulators , the alternative sigma factor s , encoded by rpoS ( 33 ) , and the iron - regulatory protein Fur ( ferric uptake regulation ) ( 21 , 22 ) , control the expression of nonoverlapping ASP subsets and significantly contribute to the development of acid tolerance ( 13 , 28 ) .
+RpoS , itself an ASP , was shown to direct the expression of eight ASPs .
+Mutations in rpoS dramatically compromise inducible acid tolerance , although a significant , albeit transient , response remains ( 28 ) .
+This RpoS - independent transient ATR was shown to be dependent on the Fur regulator , which acts , either directly or indirectly , in the positive control of several RpoSindependent ASPs ( 17 , 18 ) .
+The 17 - kDa Fur protein exerts control over a series of genes in S. typhimurium involved with the synthesis , excretion , and recovery of the iron - chelating siderophore enterochelin ( 54 ) .
+Because excess intracellular iron can be detrimental to the cell ( 12 ) , tight regulation of iron uptake is required for protection .
+When intracellular Fe ( II ) concentrations are high , iron - metallated Fur complex binds to a 19 - bp DNA consensus sequence , the Fur box , in the promoter region of the iron acquisition genes to repress their transcription ( 1 , 5 , 9 , 21 , 43 ) .
+However , reports from several laboratories , including our own , suggest that the role of Fur in cellular physiology extends beyond that of regulating iron utilization ( 18 , 19 , 23 , 32 , 37 , 47 , 49 , 51 , 53 ) .
+The focus of this study was to further define the roles of Fur and iron in regulating the ATR .
+We have cloned and sequenced fur from S. typhimurium and have , through random mutagenesis , separated acid tolerance from iron - regulatory 5683 5684 HALL AND FOSTER J. BACTERIOL .
+A mutation converting His - 90 to Arg ( H90R mutation ) severely diminished iron regulation but did not affect the role of Fur in acid tolerance .
+MATERIALS AND METHODS Strains .
+Bacterial strains used in this study were derivatives of S. typhimurium LT2 ( SF1 ) or the virulent UK1 .
+Characteristics of the strains and plasmids are presented in Table 1 .
+The Escherichia coli fur clones ( pMH15 [ 43 ] and pMON2064 [ 56 ] ) were gifts kindly provided by R. D. Perry ( pMON2064 was provided with permission from Monsanto Corporation , St. Louis , Mo. ) .
+The basic media used were Luria - Bertani ( LB ) ( 8 ) and E salts minimal medium ( 55 ) with 0.4 % glucose ( EG ) .
+Ampicillin , tetracycline , and chloramphenicol , when used , were added to 60 g/ml , 20 g/ml ( complex media ) , and 30 g/ml , respectively .
+To assess the effect of iron availability , ferrous sulfate or ferric chloride and the iron chelator diethylaminetriaminepentaacetic acid ( DTPA ; Sigma Chemical Company ) were used to create iron - replete and irondeficient conditions , respectively .
+Concentrations used for each are provided in figure legends .
+Chrome azurol S ( Aldrich Chemical ) blue agar was used to estimate siderophore production ( 44 ) .
+Measurement of the ATR .
+Induction of acid tolerance was accomplished in one of two ways , preshock adaptation at pH - 5.8 or acid shock adaptation at pH 4.4 .
+The ATR preshock protocol was followed as described earlier ( 16 ) .
+Briefly , cultures destined for adaptation were grown to the specified optical density at 600 nm ( OD 600 ) in EG ( pH 7.7 ) to 10 8 CFU/ml , shifted to pH - 5.8 with HCl for one doubling of cells , and then readjusted to the challenge pH. Acid challenges for UK1 - and SF1 - derived strains were performed at pH 3.0 and 3.3 , respectively ( pH adjusted with HCl ) .
+Unadapted cultures were grown at pH 7.7 to 2 10 8 CFU/ml and directly acid challenged .
+FeCl 3 or DTPA was added at the times indicated in figure legends .
+Acid shock adaptation involved growing cells in EG at pH 7.7 to a cell density of 2 10 8 CFU/ml , adjusting the medium pH with HCl to pH 4.4 for 20 or 60 min ( adaptation ) , and then readjusting the pH for acid challenge as noted above ( 14 ) .
+Viable counts were determined by plating dilutions ( EG broth ) of the acid - stressed cultures on LB agar .
+Data shown are representative of triplicate experiments in which viable counts were reproducible to within 50 % of a stated value .
+FeCl 3 and DTPA were added at least 45 min prior to the shift to pH 4.4 .
+- Galactosidase assays were performed as described by Miller ( 36 ) .
+Cells were grown for - galactosidase assays in LB buffered with morpholinopropanesulfonic acid ( MOPS ; pH 8 ) or morpholinoethanesulfonic acid ( MES ; pH 5 ) ( 45 ) .
+Supplements included 15 to 60 M FeCl 3 and 200 M DTPA as indicated .
+Values given are averages of triplicate experiments .
+Isolation of fur mutants .
+Mutations in fur that affected iron regulation were screened in two ways involving either the overexpression of an iron - regulated lacZ operon fusion ( iroA : : MudJ ) in the presence of excess iron or the underexpression of the same fusion under limiting - iron conditions .
+Hydroxylaminetreated P22 lysates of JF2037 or JF2082 , each containing a Tn10 insertion near fur , were used to transduce JF1992 ( iroA : : MudJ ) .
+Tetracycline - resistant colonies were screened on MacConkey medium containing 100 M FeSO 4 ( excess iron ) or 12 M DTPA ( low iron ) .
+Loss - of - function fur mutants were isolated as red colonies in excess iron , whereas superrepressor mutants were isolated as white colonies even on low - iron DTPA media .
+Mutants are listed in Table 1 .
+Cloning of the S. typhimurium fur gene and sequence analysis of fur mutants .
+Two primers that would amplify the S. typhimurium fur gene were designed from VOL .
+178 , 1996 IRON , Fur , AND ACID TOLERANCE IN S. TYPHIMURIUM 5685 FIG. 1 .
+Effect of fur on acid tolerance .
+Values represent percent survival in minimal EG after 30 ( solid bars ) , 60 ( stippled bars ) , or 90 ( cross - hatched bars ) min of exposure to a pH 3.0 environment .
+( A ) Cells were grown at pH 7.7 to mid - log phase and challenged to pH 3.0 by the addition of HCl .
+( B ) Cells were grown at pH 7.7 to mid - log phase , adapted at pH - 5.8 for one generation , and then acid challenged .
+( C ) Cells were grown at pH 7.7 , adapted at pH 4.4 for 20 min , and then acid challenged .
+( D ) Cells were grown at pH 7.7 , adapted at pH 4.4 for 60 min , and then acid challenged .
+Strains illustrated are UK1 ( fur ) and SF588 ( fur - 1 ) .
+All ATR assays were performed in triplicate .
+the E. coli fur sequence .
+Primer 23 began at position 19 ( GCCCTAAAGAAA GCTGGCCTG ) , and primer 22 began at position 424 ( CATCTTCGCGGCAA TCGCCTTC ) .
+A 405 - bp fragment amplified from S. typhimurium LT2 was cloned into the TA cloning vector ( version 1.3 ; Invitrogen ) and confirmed to be fur by Southern hybridization to a PCR - amplified E. coli fur probe .
+The E. coli radiolabeled probe used for hybridization was prepared from pMH15 by using primers 22 and 23 ( Prime - a-Gene [ Promega ] , [ 32 P ] ATP ) .
+Two plasmids were constructed with S. typhimurium fur in opposite orientations relative to the lac promoter : pHF202 ( forward orientation ) and pHF201 ( reverse orientation ) .
+The gene was sequenced by using Sequenase version 2.0 ( United States Biochemical ) and primers to the TA vector , 44 ( SP6 ) ( GATTTAGGTGACACTATAG ; bases 239 to 255 ) and 45 ( T75 ) ( TAATACGACTCACTATAGG ; bases 388 to 407 ) .
+Primers 23 and 22 were used to PCR amplify mutant fur genes from boiled whole - cell preparations ( five to six colonies were transferred to 50 lofH 2 O and boiled for 5 min , and then 5 l was used in a 100 - l PCR ) .
+Two independently generated PCR fragments were sequenced for each mutant fur gene .
+Fragments were sequenced by cycle sequencing using an fmol kit ( Promega ) as follows : 95 C for 3 min and then 30 cycles of 94 C for 30 s , 68 C for 30 s , and 72 C for 1 min .
+Two - dimensional sodium dodecyl sulfate ( SDS ) - polyacrylamide gel electrophoresis ( PAGE ) was performed as described by Spector et al. ( 46 ) with cells labeled for 2 min with 35 S - Translabel ( ICN Biomedical , Inc. ) .
+Approximately 5 g of protein from sonicated cell extracts was analyzed for each sample .
+The first dimension was a pH 5 to 7 isoelectric focusing gel containing 1.6 % ( pH 5 to 7 ) and 0.4 % ( pH 3 to 10 ) ampholytes ( Bio - Rad ) , while the second dimension was an SDS -- 11.5 % polyacrylamide gel .
+RESULTS Fur is essential for the ATR .
+We reported previously that when acid challenged at pH 3.3 , fur mutations have only a minor effect on the acid tolerance of rpoS cells but will eliminate the transient response that remains in an rpoS mutant ( 28 , 38 ) .
+However , when acid challenge was conducted at a more severe pH of 3.0 to 3.1 , Fur proved critical for acid tolerance , even in an rpoS cell ( Fig. 1 ) .
+Cells lacking Fur were extremely sensitive to pH 3 when adapted for one generation at pH - 5.8 ( Fig. 1B ) .
+They were also more acid sensitive than the wild type when adapted by acid shock at pH 4.4 for 20 min ( Fig. 1C ) or 60 min ( Fig. 1D ) , although they did regain some inducible tolerance .
+We attribute the partial tolerance in Fig. 1C and D to the induction of RpoS - dependent , and perhaps other , systems that contribute to acid tolerance .
+However , these systems were not sufficient to afford maximal tolerance .
+This finding illustrates that multiple pathways of acid survival exist .
+The more severe an acid stress , the more systems must be engaged to combat that stress .
+For the purposes of this study , we have removed the s - dependent system from the acid tolerance equation by using an rpoS mutant ( SF1 ) defective in s production ( 28 ) .
+Figure 2 illustrates that the acid - sensitive phenotype of fur mutants is not due to a polar effect on potential downstream genes .
+Plasmid pMON2064 contains a gene fusion between the E. coli fur gene and the promoter/operator region of recA .
+This construct expresses Fur protein at a low level unless induced by DNA damage ( 56 ) and does not contain any chromosomal DNA upstream or downstream of fur .
+A comparison of ironregulated iroA - lacZ expression by a fur mutant with and without pMON2064 revealed that a normal iron - repressible regulatory pattern was reestablished by pMON2064 ( Fig. 2A ) .
+In addition , pMON2064 restored normal control over enterochelin expression in a fur mutant ( Fig. 3B and F ) .
+Thus , the E. coli fur locus will complement the iron - regulatory aspects of a S. typhimurium fur mutant .
+Figure 2B shows that pMON2064 also restored the ATR in an S. typhimurium fur mutant to near the wild - type adapted level .
+These studies confirm previous findings demonstrating an important role for Fur in the ATR .
+Iron solubility is not the signal for acid tolerance .
+Because Fur protein is required for the ATR and metallated Fur is considered the active form that represses iron - regulated genes , we examined whether intracellular iron concentrations might be critical for adaptation to acid stress .
+Iron is less soluble at alkaline - pH than it is in acid ( 57 ) .
+Consequently , the increased solubility of Fe ( OH ) 3 at pH - 5.8 or 4.4 could translate into higher intracellular Fe ( II ) concentrations .
+If iron availability was the sole signal for acid tolerance , then cells grown at pH 7.7 replete with iron should mimic the increased intracellular iron concentration and acid tolerance of pH - 5.8 - adapted cells .
+Before testing this premise , we needed to assess whether intracellular iron levels could be modulated under alkaline conditions .
+To do this , we used the iron - regulated gene fusion , iroA - lacZ , as a reporter of intracellular iron status .
+At pH 7.7 5686 HALL AND FOSTER J. BACTERIOL .
+The iron - regulatory and ATR phenotypes of a fur mutant are complemented by an E. coli fur clone .
+( A ) Expression of iroA - lacZ .
+- Galactosidase activity is expressed in Miller units .
+Cells were grown in LB - MOPS medium ( pH 8.0 ) to an OD 600 of 0.2 , at which point the medium was supplemented with 60 M FeCl 3 ( iron replete ; solid bars ) or 200 M DTPA ( iron depleted ; stippled bars ) and cells were grown to an OD 600 of 0.4 .
+Strains used were JF1992 ( iroA1 : : MudJ ) , JF2021 ( iroA1 : : MudJ fur - 1 ) , JF2209 ( iroA1 : : MudJ fur - 1 / pTZ19R ) , and JF2485 ( iroA1 : : MudJ fur - 1 / pMON2064 fur ) .
+Unadapted cells were grown in EG ( pH 7.7 ) to 2 10 8 CFU/ml and challenged at pH 3.3 .
+Cultures marked for adaptation were grown to 10 8 CFU/ml , the culture pH was adjusted with HCl to pH - 5.8 , and the culture was allowed to continue growing for one doubling .
+Values represent average survival at pH 3.3 ( 30 min [ solid bars ] , 60 min [ stippled bars ] , and 120 min [ cross - hatched bars ] ) .
+Strains used were SF1 ( fur ) , JF2391 ( fur - 14 ) , and JF2486 ( fur - 14 / pMON2064 fur ) .
+All assays were performed in triplicate .
+( EG ) , expression of this locus was fully repressed by 100 M FeCl 3 .
+In the same medium but without added iron , iroA - lacZ was partially induced ( 100 - fold ) .
+Full induction ( 300 - fold ) at pH 7.7 was accomplished with the addition of 50 M DTPA ( iron - deficient conditions ) .
+We could not repress this gene any further by shifting cells to pH - 5.8 ( data not shown ) .
+This response pattern confirmed that intracellular iron levels could FIG. 3 .
+Enterochelin production is observed in chrome azurol S blue agar medium as a zone of clearing around representative colonies .
+( A ) LT2 ; ( B ) JF2391 ( fur - 14 ) ; ( C ) SF381 ( ent ) ; ( D ) JF2423 ( fur - 9 ) ; ( E ) JF2851 ( fur s -15 ) ; ( F ) JF2486 ( fur - 14 / pMON2064 ) .
+be effectively manipulated in a pH 7.7 environment .
+We then examined whether increasing intracellular iron levels at pH 7.7 would allow induction of the ATR .
+The results depicted in Fig. 4A demonstrate that unadapted SF1 cells ( pH 7.7 ) treated with 20 and 100 M FeCl 3 were as acid intolerant as cells grown under standard unadapted conditions .
+Thus , an increased iron concentration can not be the sole adaptation signal needed to survive acid stress .
+Acid adaptation requires more than Fur protein and iron .
+Acidic pH is clearly required .
+Potential iron toxicity in fur mutants does not mask the ATR .
+Because fur mutations derepress iron acquisition genes , it was considered possible that unregulated delivery of iron into the fur mutant cell could enhance the lethal effects of low pH by accelerating macromolecular damage .
+However , excess iron added to fur cells did not prevent or diminish adaptation ( Fig. 4B ) .
+The data in Fig. 4C further reveal that ATR competence in the fur mutant could not be restored by lowering iron levels through the addition of DTPA or by raising iron levels through the addition of FeCl 3 .
+We also tested whether overproduction of enterochelin by fur mutants could explain the acid - sensitive ( Atr ) fur phenotype .
+If overproduction of enterochelin and , thus , excessive delivery of iron to the cell is lethal in the ATR protocol , then a fur mutant unable to synthesize enterochelin should exhibit a normal ATR .
+However , a fur ent double mutant was as exquisitely acid sensitive as the fur ent parent ( Fig. 4D ) .
+We conclude that the level of enterochelin itself does not significantly alter the adaptive process .
+It is important to note that a fur ent mutant did exhibit a normal ATR under these conditions ( data not shown ) .
+Hence , the effect of Fur on acid tolerance appears to go beyond its role in iron acquisition .
+Accordingly , we conclude that a component of the fur regulon has a vital function in the cellular response to stressful acid environments .
+178 , 1996 IRON , Fur , AND ACID TOLERANCE IN S. TYPHIMURIUM 5687 FIG. 4 .
+Iron levels and the ATR of fur , fur , and fur ent mutants .
+ATR profiles are given as percent survival in minimal EG following 120 min of exposure to pH 3.3 .
+Shifts to pH 3.3 were made at a cell density of 2 10 8 / ml .
+( A ) Unadapted cultures of LT2 grown at pH 7.7 with 0 , 20 , and 100 M FeCl 3 .
+( B ) Adapted ( pH - 5.8 ) cultures of LT2 grown with no supplement ( open bar ) or 100 M FeCl 3 ( cross - hatched bar ) added during - growth .
+( C ) Cultures of JF2023 ( fur - 1 ) were treated as indicated below each bar with DTPA or FeCl 3 .
+Supplements were added at a cell density of 10 8 / ml .
+Cells were unadapted or adapted at pH - 5.8 as indicated below the bars .
+( D ) JF2709 ( fur - 1 ent - 1 ) was unadapted or adapted ( pH - 5.8 ) in the presence of 100 M FeCl 3 .
+The acid tolerance properties of Fur are genetically separable from iron regulation .
+Previous two - dimensional SDS - PAGE analysis revealed that Fur has a very broad regulatory role in the cell ( 18 ) .
+In addition to 19 iron starvation - inducible proteins negatively controlled by a Fe ( II ) - Fur repressor complex , we discovered that the expressions of 26 proteins were positively controlled by Fur .
+Nine iron - inducible proteins required Fe ( II ) - Fur for positive control , whereas six iron starvation - inducible proteins required demetallated Fur as a positive regulator .
+Twelve proteins were positively regulated by Fur seemingly irrespective of iron status .
+We have also uncovered nine ASPs regulated by Fur , several of which are regulated in an apparently iron - independent manner ( 14 , 15 , 18 ) .
+In an effort to separate the iron - regulatory features of Fur from those involved with acid , we generated a series of fur mutants that were defective in the regulation of iroA - lacZ and enterochelin production .
+We then screened those mutants for defects in acid tolerance .
+Figure 5A presents the effects of the various fur mutations on iroA - lacZ expression .
+Most of the mutations caused derepression of this iron - regulated gene ( Fig. 5A ) and also increased the production of enterochelin ( Fig. 3 ) .
+Three of the mutants ( fur s -15 , -18 , and -19 ) were isolated as superrepressors in which iroA - lacZ expression was repressed even in an iron - poor environment .
+Figure 5B shows the effects of the various fur mutations on acid tolerance .
+In most cases , the iron - blind fur mutations also obliterated inducible acid tolerance .
+The one notable exception was fur - 9 , which retained almost normal acid tolerance .
+In addition , the superrepressors also retained a significant ATR .
+These results suggested that Fur controls iron - and acid - regulated genes by different mechanisms .
+Further evidence for this is found in Table 2 , which illustrates the effects of loss - offunction fur ( fur - 2 ) , superrepressor fur ( fur s -15 ) , and iron - blind fur - 9 mutations on the expression of a hyd - lacZ fusion .
+We have previously shown that the hyd locus is coinduced by acid and anaerobiosis and that Fur is required for hyd induction at pH - 5.8 ( 19 ) .
+This finding is confirmed in Table 2 ( JF2392 ) .
+However , both the fur s -15 superrepressor mutant ( JF2856 ) and the fur - 9 iron - blind mutant ( JF3158 ) proved capable of mediating acid induction of hyd even though the two mutations had opposite effects on iron - regulated expression of iroA - lacZ ( Fig. 5A ) .
+These results indicate that acid - inducible regulation of hyd by Fur is not dependent on the iron - sensing properties of Fur .
+To confirm that Fur - 9 was iron blind , its effect on iroA - lacZ expression was tested over a broad range of iron concentrations .
+Whereas full repression of iroA normally occurs at 15 M FeCl 3 ( Fig. 5 ) , the Fur - 9 product did not mediate iron control of iroA over the range of 15 to 200 M FeCl 3 ( data not shown ) .
+If Fur - 9 simply exhibited a lower affinity for Fe ( II ) , one would expect the mutant protein to repress iroA at the higher iron concentrations .
+Figure 6 presents the sequence of S. typhimurium fur and the positions of several of the mutations examined in Fig. 5 .
+Five mutations eliminated acid tolerance and iron control .
+Two of those were nonsense mutations ( fur - 1 and fur - 17 ) that introduced stop codons near the N terminus .
+The other three were missense mutations , G51D ( fur - 7 ) , R57C ( fur - 11 ) , and I67M ( fur - 5 ) , two of which affected amino - acid - residues ( G - 51 and R - 57 ) totally conserved among the 10 sequenced Fur genes ( 3 , 25 , 26 , 30 , 31 , 39 , 43 , 48 , 52 ) .
+These residues occur in the amino - terminal half of Fur associated with DNA binding ( 50 ) .
+Of particular interest was the H90R ( fur - 9 ) mutation , which also affected a totally conserved amino - acid - residue .
+As indicated above , this mutant lost iron control but retained acid tolerance , suggesting that this residue is important for iron regulation but not for regulating acid tolerance .
+Thus , the iron - regulatory function of Fur is genetically separable from its role in acid tolerance .
+Western blot ( immunoblot ) analysis revealed that none of the fur mutations other than fur - 1 and fur - 17 ( the nonsense mutations ) affected the production or stability of Fur protein ( data not shown ) .
+Hence , the H90R 5688 HALL AND FOSTER J. BACTERIOL .
+Effects of fur mutations on iroA - lacZ expression and acid tolerance .
+( A ) Effects of fur mutations on iroA - lacZ expression .
+Cells were grown in LB to an OD 600 of 0.2 , at which point 15 M FeCl 3 or 200 M DTPA was added ; growth then continued for one doubling before assay .
+- Galactosidase activity is given as Miller units ( 36 ) .
+( B ) Effects of fur mutations on acid tolerance in the SF1 background .
+Cells were adapted at pH 4.4 for 20 min and then acid challenged at pH 3.3 for 120 min .
+mutant phenotype is not caused by an aberrant level of active Fur .
+Effect of H90R on ASP synthesis .
+Several ASPs were previously shown to require Fur for their control ( 14 , 15 , 18 ) .
+Some of these proteins were regulated by acid shock in an apparently iron - independent manner .
+Consequently , we predicted that these proteins , or a subset of these proteins , should remain regulated by acid shock in the H90R mutant .
+Figure 7 presents two - dimensional SDS - PAGE analysis of polypeptides produced by fur , fur ( null ) , and fur H90R mutants before ( pH 7.7 ) and after ( pH 4.4 ) acid shock .
+A total of 12 proteins are highlighted .
+Numbered protein spots marked with circles in Fig. 7B are Fur - dependent ASPs as defined by their lack of acid - pH induction in the fur - 1 mutant .
+The one exception to this trend was ASP - 33 , which is really an iron - regulated protein ( IRO - 29 ) that is repressed by Fur - ( FeII ) .
+ASP - 33 expression seems to reflect pH - mediated changes in iron solubility rather than a response to pH itself .
+In contrast to the other Furdependent ASPs , ASP - 33 was overexpressed in the fur - 1 mutant even at pH 7.7 .
+It is significant that the H90R fur - 9 mutant maintained acid shock control of the four remaining Fur - dependent ASPs even though the cell produces an iron - blind Fur ( Fig. 7D and E ) .
+These results support those presented above Strain TABLE 2 .
+Effects of fur mutations on hyd - lacZ expression Genotype - Galactosidase activity a pH 8 pH 5 Fold induction JF1534 hyd - lacZ 13 790 61 JF2392 hyd - lacZ fur - 1 2 10 5 JF2856 hyd - lacZ fur s -15 10 560 56 JF3158 hyd - lacZ fur - 9 ( H90R ) 2 400 200 a Cultures were grown anaerobically ( under paraffin oil ) in LB - MOPS ( pH 8 ) or LB - MES ( pH 5 ) to mid - log phase .
+- Galactosidase activity is given in Miller units ( 36 ) .
+indicating that although residue H - 90 is needed by Fur for iron sensing , it is not required for acid - pH control .
+In contrast to the ASPs , iron - regulated proteins marked with squares and numbered in Fig. 7C were not ASPs but were overexpressed in both the fur - 1 and iron - blind fur - 9 mutants , confirming that Fur negatively regulates these genes .
+The one exception was IRO - 28 , an iron - repressible gene product that requires deferrated Fur for induction in iron - deficient conditions ( 18 ) .
+This is the opposite of the classic Fur - Fe ( II ) repressor model seen with other IRO proteins .
+The absence of IRO - 28 in the fur - 1 mutant ( Fig. 7C ) and its presence in the fur H90R mutant ( Fig. 7E ) confirm that Fur acts as a positive regulator of this gene and that Fur H90R is iron blind yet active .
+It appears that the binding of Fe ( II ) to Fur inactivates Fur induction of IRO - 28 .
+The data can not be explained by a cascade of regulators in which Fur - Fe ( II ) represses a positive regulator of IRO - 28 expression because deferrated Fur is required for IRO - 28 expression ( Fig. 7C and E ) .
+The data presented illustrate that Fur can positively and negatively regulate gene expression and that regulation can occur in the absence of the iron - sensing function of Fur .
+DISCUSSION Previous work from our laboratory implicated the iron - regulatory gene fur in the ATR of S. typhimurium .
+Mutations in fur were defective in the induction of several ASPs and imparted an acid - sensitive phenotype ( 13 , 14 ) .
+We have confirmed this observation and have shown that fur , not a downstream gene , is directly responsible for this phenotype .
+Two additional questions regarding the role of Fur in acid tolerance were addressed during this study : first , is iron solubility in low pH the signal for acid tolerance , and second , is the acid tolerance phenotype of Fur separable from iron regulation ?
+Since iron is essential for growth , an environmental shift from high - to low - iron concentrations serves as an important regulatory signal to the cell .
+Because iron solubility is a function of pH , it was reasonable to speculate that Fur may sense VOL .
+178 , 1996 IRON , Fur , AND ACID TOLERANCE IN S. TYPHIMURIUM 5689 FIG. 6 .
+S. typhimurium fur sequence and positions of fur mutations .
+The numbers under the deduced amino - acid sequence reflect positions relative to E. coli Fur .
+Because of the PCR cloning strategy , the sequence presented is missing six amino - acids at the N terminus and seven amino - acids at the C terminus .
+Shaded nucleotides and amino - acid - residues below the main sequences reflect mutant base and resulting amino - acid changes in mutant fur alleles .
+The mutant alleles are identified by allele number next to the mutant bases .
+acid indirectly in terms of iron availability .
+However , the results presented show that iron availability alone will not trigger an ATR .
+The cell must experience low pH. Consequently , the role of Fur in acid tolerance appears to transcend its ability to sense iron .
+An alternative explanation , that the overproduction of membrane - associated iron transport proteins in a fur mutant could weaken the integrity of the cell to acid challenge seems unlikely since the fur H90R mutation , which also increased the levels of these membrane - bound proteins , did not affect acid tolerance ( data not shown ) .
+The results also indicate that the role of Fur in acid regulation can be separated genetically from its role in iron regulation .
+This conclusion is based on the ability of the H90R Fur mutant to mediate acid induction of specific Fur - dependent ASPs and enable induction of acid tolerance in spite of the fact that the mutant Fur can not mediate iron regulation .
+We have also provided evidence that Fur can , either directly or indirectly , act as a positive regulator of the pH - regulated locus , hyd ( 19 ) .
+This acid control also appears to be iron independent in that a Fur superrepressor and the iron - blind Fur H90R still regulated hyd in response to pH. Thus , Fur appears to sense acid stress and affect the expression of some genes in an apparent iron - independent fashion .
+The positive control of hyd and ASP expression by Fur can not be explained by a simple repressor cascade in which Fur - Fe ( II ) complex would repress or activate a pH - responsive intermediate regulator of the target genes .
+Two lines of evidence argue against this model .
+First , the genes in question appear regulated by acid but not by iron .
+If Fur - Fe ( II ) regulated an intermediate regulator , then the target gene should also be regulated by iron .
+Second , the Fur H90R mutant , defective in iron sensing , will still mediate pH control .
+Thus , the level of Fur - Fe ( II ) is irrelevant to the pH control of specific genes but Fur itself is needed .
+The data support a model in which Fur can mediate pH control of gene expression in an iron - independent manner .
+There still may be a cascade of regulators leading to the target gene , but it seems the pH control resides with Fur .
+Several laboratories have begun to define the functional regions of Fur involved in Fe ( II ) sensing and in binding DNA as a repressor ( 4 , 6 , 40 -- 42 , 50 ) .
+The results of fusion protein studies combining different domains of Fur and the repressor cI857 indicate that the N terminus of Fur is involved in DNA binding while the C terminus is required for dimerization ( 50 ) .
+Biochemical analysis indicates that repressor activation occurs by two metal - ions per dimer binding to the C - terminal domain 5690 HALL AND FOSTER J. BACTERIOL .
+Two - dimensional analysis of Fur - regulated ASPs .
+SF1 ( A and B ) , JF2023 ( fur - 1 ; C and D ) , and JF2423 ( fur H90R ; E and F ) were grown to mid - log phase in EG ( pH 7.7 ) ( A , C , and E ) , and samples were acid shocked for 15 min at pH 4.4 ( B , D , and F ) .
+Cells were radiolabeled for 2 min with 40 Ci of 35 S - Translabel ( ICN ) per ml and processed for two - dimensional SDS - PAGE as described in Materials and Methods .
+Acidic proteins are on the right , and basic proteins are on the left of each autoradiograph .
+Circled spots ( numbered proteins in panel B ) indicate Fur - dependent ASPs .
+Spots indicated with a square ( numbered proteins in panel C ) are iron - regulated ( IRO ) proteins .
+Fe ( II ) binding induces a conformational change in the N - terminal domain which subsequently permits operator binding ( 50 ) .
+The most likely ligands for ferrous iron binding are histidines and cysteines .
+Fur contains 12 histidines and 4 cysteines , 2 of which are found in the CysXYCysGly motif commonly used as a ligand by iron - sulfur proteins ( 1 ) .
+Site - directed mutagenesis of the histidine and cysteine residues of E. coli Fur argue that cysteines 92 and 95 are the most important for iron binding ( 6 ) .
+Of the histidines , only H - 89 ( equivalent to our H - 90 ) partially reduced iron regulation of an aerobactin operon - lacZ fusion .
+This contrasts with our study of S. typhimurium Fur , in which H - 90 proved essential for iron regulation in - vivo .
+A separate study of Vibrio cholerae fur also supports a role for H - 90 in iron binding .
+Lam et al. ( 27 ) generated an H90L Fur mutant that has no iron - regulatory function in - vivo .
+The reason for the somewhat disparate results between the E. coli and V. cholerae studies involving identical H90L substitutions is not apparent .
+However , all three studies do suggest a role for H - 90 in iron regulation .
+It is interesting that nuclear magnetic resonance studies examining ionization of the histidine residues suggest that Fur is a monitor of iron concentration and pH ( 40 ) .
+Our results support this prediction .
+Clearly , the H90R modification creating an iron - blind Fur did not perceptibly alter the ability of Fur to participate in acid tolerance or to control the induction of several ASPs .
+How Fur might function to regulate acid shock genes independently of iron remains a mystery .
+It will be interesting and informative to identify the residues within Fur that serve as pH sensors and ultimately identify the acid tolerance proteins regulated by Fur .
+We thank Michael Spector and Ferric Fang for critically reading the manuscript and Patricia Couling for its careful preparation .
+We also thank Luis A. Actis , Miami University of Ohio , for his kind gift of Fur antibody .
+This work was supported by awards from the National Institutes of Health ( GM48017 ) and the National Science Foundation ( DCB - 89 - 04039 ) .
+Bagg , A. , and J. B. Neilands .
+Molecular mechanism of regulation of siderophore - mediated iron assimilation .
+Baker , L. A. , A. T. Herlichy , P. R. Kaufmann , and J. M. Eilers .
+Acidic lakes and streams in the U.S. : the role of acidic deposition .
+178 , 1996 IRON , Fur , AND ACID TOLERANCE IN S. TYPHIMURIUM 5691 3 .
+Berish , S. A. , S. S. C. - Y .
+Chen , D. L. Trees , and S. A. Morse .
+Identification and cloning of a fur homolog from Neisseria gonorrhoeae .
+Braun , V. , S. Schäeffer , K. Hantke , and W. Troger .
+Regulation of gene expression by iron .
+Calderwood , S. B. , and J. J. Mekalanos .
+Iron regulation of Shiga - like toxin expression in Escherichia coli is mediated by the fur locus .
+Coy , M. , C. Doyle , J. Besser , and J. B. Neilands .
+Site - directed mutagenesis of the ferric uptake regulation gene of Escherichia coli .
+Curtiss , I. I. I. , R. S. B. Porter , M. Munson , S. A. Tinge , J. O. Hassan , C. Gentry - Weeks , and S. M. Kelly .
+Nonrecombinant and recombinant avirulent Salmonella vaccines for poultry , 169 -- 198 .
+In L. C. Blankenship , J. H. S. Bailey , N. A. Cox , N. J. Stern , and R. J. Meinersmann ( ed .
+) , Colonization control of human bacterial enteropathogens in poultry .
+Academic Press , New York .
+Davis , R. W. , D. Botstein , and J. R. Roth .
+A manual for genetic engineering .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 9 .
+DeLorenzo , V. , S. Wee , M. Herrero , and J. B. Neilands .
+Operator sequences of the aerobactin operon of plasmid Co1V - K30 binding the ferricuptake regulation ( Fur ) repressor .
+Fields , P. I. , R. V. Swanson , C. G. Haidaris , and R. Heffron .
+Mutants of Salmonella typhimurium that can not survive within the macrophage are avirulent .
+Finlay , B. B. , and S. Falkow .
+Salmonella as an intracellular parasite .
+Flitter , R. W. , D. A. Rowley , and B. Halliwell .
+Superoxide dependent formation of hydroxyl radicals in the presence of iron salts .
+Salmonella acid shock proteins are required for the adaptive acid tolerance response .
+The acid tolerance response of Salmonella typhimurium involves transient synthesis of key acid shock proteins .
+Low pH adaptation and the acid tolerance response of Salmonella typhimurium .
+Foster , J. W. , and H. K. Hall .
+Adaptive acidification tolerance response of Salmonella typhimurium .
+Foster , J. W. , and H. K. Hall .
+Inducible pH homeostasis and the acid tolerance response of Salmonella typhimurium .
+Foster , J. W. , and H. K. Hall .
+The effect of Salmonella typhimurium ferric - uptake regulator ( fur ) mutations on iron and pH - regulated protein synthesis .
+Foster , J. W. , Y. K. Park , I. S. Bang , K. Karem , H. Betts , H. K. Hall , and E. Shaw .
+Regulatory circuits involved with pH - regulated gene expression in Salmonella typhimurium .
+Hamed , M. Y. , J. B. Neilands , and V. Huynh .
+Binding of the ferric uptake regulation repressor protein ( fur ) to Mn ( II ) , Fe ( II ) , Co ( II ) , and Cu ( II ) ions as co - repressors : electronic absorption , equilibrium , and 57Fe Mössbauer studies .
+Regulation of ferric - iron transport in Escherichia coli K12 : isolation of a constitutive mutant .
+Cloning of the repressor protein gene of iron - regulated systems in Escherichia coli K 12 .
+Selection procedure for deregulated iron transport mutants ( fur ) inEscherichia coli : fur not only affects iron metabolism .
+Heyde , M. , and R. Portalier .
+Acid shock proteins of Escherichia coli .
+Hickey , E. K. , and N. P. Cianciotto .
+Cloning and sequencing of Legionella pneumophila fur gene .
+Karkhoff - Schweizer , R. R. , A. B. Schryvers , and H. P. Schweizer .
+Cloning and sequence analysis of the fur gene encoding an iron - regulatory protein Neisseria meningitidis .
+Lam , M. S. , C. M. Litwin , P. A. Carroll , and S. B. Calderwood .
+Vibrio cholerae fur mutations associated with loss of repressor activity : implications for the structural - functional relationships of Fur .
+Lee , I. S. , J. Lin , H. K. Hall , B. Bearson , and J. W. Foster .
+The stationary - phase sigma factor s ( RpoS ) is required for a sustained acid tolerance response in virulent Salmonella typhimurium .
+Leyer , G. J. , and E. A. Johnson .
+Acid adaptation induces cross protection against environmental stresses in Salmonella typhimurium .
+Litwin , C. M. , S. A. Boyko , and S. B. Calderwood .
+Cloning sequence and transcriptional regulation of Vibrio cholerae fur gene .
+Litwin , C. M. , and S. B. Calderwood .
+Cloning and genetic analysis of the Vibrio vulnificus fur gene and construction of a fur mutant by in - vivo marker exchange .
+Litwin , C. M. , and S. B. Calderwood .
+Analysis of the complexity of gene regulation by Fur in Vibrio cholerae .
+Loewen , P. C. , and R. Hengge - Aronis .
+The role of the sigma factor s ( KatF ) in bacterial global regulation .
+Lukes , G. L. , O. D. Rotstein , and S. Grinstien .
+Determinants of the phagosomal pH in macrophages .
+Meury , J. , A. Robin , and P. Monnier - Champeix .
+Turgor controlled K flux and their pathways in Escherichia coli .
+A short course in bacterial genetics .
+A laboratory manual and handbook for Escherichia coli and related bacteria .
+Cold Spring Harbor Laboratory Press , Cold Spring Harbor , N.Y. 37 .
+Niederhoffer , E. C. , C. M. Naranjo , K. L. Bradley , and J. A. Fee .
+Control of Escherichia coli superoxide dismutase ( sodA and sodB ) genes by the ferric uptake regulation ( fur ) locus .
+Portillo , F. G. - D. , J. W. Foster , and B. B. Finlay .
+The role of acid tolerance response genes in Salmonella typhimurium virulence .
+Prince , R. W. , C. D. Cox , and M. L. Vasil .
+Coordinate regulation of siderophore and exotoxin A production : molecular cloning and sequencing of the Pseudomonas aeruginosa fur gene .
+Saito , T. , D. Duly , and J. P. Williams .
+The histidines of the iron - uptake regulation protein , Fur .
+Saito , T. , and R. P. Williams .
+The binding of the ferric uptake regulation protein to a DNA fragment .
+Saito , T. , M. R. Wormald , and R. P. Williams .
+Some structural features of the iron - uptake regulation protein .
+Schäeffer , S. , K. Hantke , and V. Braun .
+Nucleotide sequence of the iron regulatory gene fur .
+Schwyn , B. , and J. B. Neilands .
+Universal chemical assay for the detection and determination of siderophores .
+Slonczewski , J. L. , T. N. Gonzalez , M. Batholomew , and N. J. Holt .
+Mud - directed lacZ - fusions regulated by acid - pH in Escherichia coli .
+Spector , M. P. , Z. Aliabadi , T. Gonzalez , and J. W. Foster .
+Global control in Salmonella typhimurium : two - dimensional electrophoretic analysis of starvation - , anaerobiosis - , and heat - shock - inducible proteins .
+Staggs , T. M. , J. D. Fetherston , and R. D. Perry .
+Pleiotropic effects of a Yersinia pestis fur mutation .
+Staggs , T. M. , and R. D. Perry .
+Identification and cloning of a fur regulatory gene in Yersinia pestis .
+Stojiljkovic , I. , A. J. Bäumler , and K. Hantke .
+Fur regulon in Gramnegative bacteria .
+Identification and characterization of new iron - regulated Escherichia coli genes by a Fur titration assay .
+Stojiljkovic , I. , and K. Hantke .
+Functional domains of the Escherichia coli ferric uptake regulator protein ( Fur ) .
+Tardat , B. , and D. Touati .
+Two global regulators repress the anaerobic expression of Mn SOD in Escherichia coli : Fur ( ferric uptake regulation ) and Arc ( aerobic reparation control ) .
+Tolmaskey , M. E. , A. M. Wertheimer , L. A. Actis , and J. H. Crosa .
+Characterization of the Vibrio anguillarum fur gene : role in regulation of expression of the FatA outer membrane protein and catechols .
+Tsolis , R. M. , A. J. Bäumler , I. Stojiljkovic , and F. Heffron .
+Fur regulon of Salmonella typhimurium : identification of new iron - regulated genes .
+Visca , P. , E. Filetici , M. P. Anastasio , C. Vetriani , M. Fantasia , and N. Orsi .
+Siderophore production by species isolated from different sources .
+Vogel , H. J. , and D. M. Bonner .
+Acetylornithase of Escherichia coli : partial purification and some properties .
+Wee , S. , J. B. Neilands , M. L. Bittner , B. C. Hemming , B. L. Haymore , and R. Seetharam .
+Expression , isolation and properties of Fur ( ferric uptake regulation ) protein of Escherichia coli K - 12 .
+Zaino , E. C. , and R. H. Roberts ( ed .
+CIBA Medical Horizons Symposium on chelation therapy in chronic iron overload .
+CIBA , Symposia Specialist , Inc. , New York .

@@ -1,0 +1,346 @@
+JOURNAL OF BACTERIOLOGY , Nov. 1993 , p. 7200 - 7208 Vol .
+175 , No. 22 0021 -9193 / 93/227200 -09 $ 02.00 / 0 Two Global Regulatory Systems ( Crp and Arc ) Control the Cobalamin/Propanediol Regulon of Salmonella typhimurium MICHAEL AILION , * THOMAS A. BOBIK , AND JOHN R. ROTH Biology Department , University of Utah , Salt Lake City , Utah 84112 The genes for cobalamin ( vitamin - B12 ) biosynthesis ( cob ) are coregulated with genes for degradation of propanediol ( pdu ) .
+Both the cob and pdu operons are induced by propanediol by means of a positive regulatory protein , PocR .
+This coregulation of a synthetic and a degradative pathway reflects the fact that vitamin - B12 is a required cofactor for the first enzyme in propanediol breakdown .
+The cob/pdu regulon is induced by propanediol under two sets of growth - conditions , i.e. , during aerobic respiration of a poor carbon source and during anaerobic - growth .
+We provide evidence that , under aerobic conditions , the Crp/cyclic AMP system is needed for all induction of the pocR , cob , and pdu genes .
+Anaerobically , the Crp/cyclic AMP and ArcA/ArcB systems act additively to support induction of the same three transcription units .
+The fact that these global control systems affect expression of the gene for the positive regulatory protein ( pocR ) as well as the pdu and cob operons is consistent with our previous suggestion that these two global controls may act directly only on the pocR gene ; their control over the cob and pdu operons may be an indirect consequence of their effect on the level of PocR activator protein .
+The reported experiments were made possible by the observation that pyruvate supports aerobic - growth of all of the mutants tested ( cya , crp , arcA , and arcB ) ; pyruvate also supports anaerobic growth of these mutants if the alternative electron - acceptor , fumarate , is provided .
+By using pyruvate as a carbon source , it was possible to grow all of these mutant strains under identical conditions and compare their expression of the coblpdu regulon .
+The role of Crp in control of vitamin - B12 synthesis suggests that the major role of vitamin - B12 in Salmonella spp. is in catabolism of carbon sources ; the coregulation of the cob and pdu operons suggests that propanediol is the major vitamin - B12 - dependent carbon source .
+The cobalamin ( cob ) operon of Salmonella typhimurium encodes most of the biosynthetic enzymes for the enzyme cofactor cobalamin ( vitamin - B12 ) ( 19 , 20 , 25 ) .
+This operon maps at min 41 , adjacent to the divergently transcribed pdu operon ( 18 ) which encodes enzymes for utilization of propanediol as a carbon and energy source .
+Both operons are induced by propanediol ; this control is mediated by a positive regulatory protein ( PocR ) encoded by a gene that maps between the cob and pdu operons ( 6 , 23 ) .
+The proximity of these operons and their coordinated control probably reflect the fact that vitamin - B12 is an essential cofactor for propanediol dehydratase , the first enzyme of propanediol degradation ( 18 , 28 ) .
+The coregulation also supports the idea that the major function of vitamin - B12 in Salmonella spp. is in propanediol degradation .
+Insight into the physiological significance of the cob/pdti regulon might come from knowing what global regulatory systems control transcription .
+Fragmentary information has suggested that two such systems are involved .
+Before propanediol was identified as the inducer , it was observed that mutations in the Crp/cyclic AMP ( Crp/cAMP ) system cause a slight reduction in cob operon expression during anaerobic growth - on - glucose ; such mutations do not eliminate the increase in cob operon expression seen following a shift from aerobic to anaerobic conditions ( 13 ) .
+These results suggested that the cob operon is subject to global control by Crp and by some additional system sensing anaerobic conditions ; the effects of Crp on the pdcc operon were not tested .
+Before identification of propanediol as an inducer , the cob operon was found to be maximally expressed during anaerobic respiration when an alternative electron - acceptor was used ; * 7200 optimal expression was observed during anaerobic - growth on glycerol and fumarate .
+Evidence was presented for a redox control system which responds to a reduced cell interior rather than oxygen per se ( 3 ) .
+This redox control system appears to be the ArcA/ArcB system , a two - component system that acts under anaerobic conditions to repress synthesis of proteins involved in aerobic respiration ( 16 , 17 ) .
+Although the redox effect seen earlier ( 3 ) is confirmed , the high expression seen with glycerol ( compared with that of other carbon sources ) is probably not due to the fact that more rapid metabolism of glycerol generates more reducing equivalents but rather to the fact that glycerol can substitute for propanediol as an inducer ( 6 ) .
+Mutations in the arcA and arcB genes cause a slight reduction in anaerobic expression of the cob operon ( 1 ) .
+The effects of crp and arc mutations on induction of the cob operon by propanediol have not been tested nor have the effects of these mutations on the pdu operon .
+We have determined the effects of crp , cya , arcA , and arcB mutations on induction of cob and pdu operons by propanediol .
+We were able to compare the effects of these mutations both aerobically and anaerobically by finding a carbon source , pyruvate , that supports growth of Salmonella crp and arc mutants during both aerobic respiration and anaerobic respiration ( with fumarate as the electron - acceptor ) .
+Even strains with defects in both the arc and crp genes can grow on pyruvate under these conditions .
+This has permitted us to determine the effect of these global control mutations on the cob/pdu regulon by comparing regulon expression in isogenic strains grown under the same conditions .
+We present evidence here that the Crp and Arc systems affect both the pdu and cob operons .
+Under aerobic conditions , induction of these operons requires the Crp/cAMP system but not the ArcA/ArcB system .
+Under anaerobic conditions , in - VOL .
+GLOBAL CONTROL OF cob/pdu 7201 TABLE 1 .
+The positive regulatory protein PocR is controlled in a manner that parallels the control of the pdu and cob operons .
+This is consistent with an earlier proposal that global control systems may act by directly regulating the level of the positive regulatory protein PocR ( 6 ) .
+By controlling the level of PocR protein , these global systems may indirectly exert their control over the cob/pdu regulon .
+MATERIALS AND METHODS Bacterial strains and transposons .
+All strains are derivatives of S. typhimurium LT2 ( Table 1 ) .
+The arcBl point mutation was provided by D. Andersson ( 1 ) .
+The cya - 961 : : TnlO and crp - 773 : : TnlO mutations were provided by P. Postma .
+The MudA and MudJ elements are transposition - defective derivatives of phage Mu dl used to create lacZ operon fusions ( 8 , 9 , 15 ) .
+TnlOdTc and TnlOdCm are transposition - defective derivatives of transposon TnJO ( 12 , 30 ) .
+Nutrient broth ( 0.8 % ) with 85 mM NaClwas used as the rich - medium .
+The minimal - medium was NCE ( 4 ) supplemented with 1 mM MgSO4 and one or more of the following compounds : D - glucose , 0.2 % for aerobic - growth and 0.4 % for anaerobic - growth ; Na pyruvate , 0.44 % ; Na2 fumarate , 0.32 % ; Na2 succinate , 1.0 % ; glycerol , maltose , D - sorbitol , and DL - 1,2 - propanediol , 0.2 % .
+Antibiotics were used at concentrations described previously ( 6 ) .
+cAMP was used at a concentration of 5 mM .
+The chromogenic 3 - galactosidase substrate X - Gal ( 5 - bromo - 4-chloro - 3-indolyl - 3-D - glucuronic - acid ) was used at a concentration of 25 mg/ml .
+Transductional crosses were mediated by the high - frequency generalized transducing phage mutant P22 HT105/1 int - 201 ( 27 ) as described previously ( 6 ) .
+Transductants were purified and made phage free by streaking for single colonies on nonselective green indicator plates ( 10 ) .
+Cells were grown under either aerobic or anaerobic conditions as described previously ( 6 ) .
+Activity was determined by the method of Miller ( 22 ) .
+Numbers in our tables are in Miller units ; although these strains were assayed many times , the presented number is the result of a single experiment .
+For particular strains and conditions , the enzyme levels were variable .
+These values are marked with asterisks in the tables and are discussed later .
+Manipulation of cya and crp mutants .
+Both cya and crp mutants are unstable in that strains with these mutations accumulate suppressor and modifier mutations or lose the original mutation .
+On NB medium , our cya : : TnJO and crp : : TnlO insertion mutants frequently reverted to Cya + or Crp + by loss of the TnlO .
+The addition of tetracycline did not eliminate the appearance of revertants .
+Revertants ( Cya + or Crp + ) that remained Tcr appeared to arise by duplication of the original mutant gene , which was followed by loss of the TnlO insertion from one copy of the gene .
+Such revertants were invariably unstable and gave rise to frequent Tcs segregant clones .
+To minimize selection for Crp + and Cya + revertants , strains were grown on E - glucose medium ( 29 ) for all routine procedures .
+Growth phenotypes of cya and crp mutants Growth in liquid NCE minimal - medium with the indicated carbon source '' ' Strain Relevant Aerobic Anaerobic genotypc Succinate Glycerol Maltose Pyruvate Glucose Maltose Glycerol - fumarate Pyruvate - fumarate Glucose TT17445 Wild type + + + + + + + + + Tf17452 cya : : TnJO - - - + + - - + + TF17458 crp : : TnIO - - - + + - - + + fT17456 cya : : TnlO crp * + + + + + + + + + `` Cells were grown at 37 ' C in liquid medium with methionine ; on solid medium , cya and crp mutants failed to grow anaerobically , even on glucose .
+`` Symbols : + , turbidity approximately equivalent to that of a fully grown glucose culture scored visually after 24 h of incubation ; - , no growth .
+In the course of constructing strains , we noticed that cya and crp null mutants have a characteristic phenotype on green indicator plates ( medium described above ) ; both mutant types form colonies that are lighter in color than those of wild - type colonies .
+Colonies of a crp * mutant ( with or without a cya mutation ) are indistinguishable from those of the wild type .
+These colony phenotypes are not understood but proved useful in strain construction .
+Isolation of crp * mutants .
+The Crp protein is a positive regulator required for maximal expression of a variety of genes involved in carbon source breakdown .
+Normally , activation of these genes occurs only in the presence of cAMP .
+Mutant forms of the Crp protein ( termed Crp * ) are able to activate their target genes to some extent even in the absence of cAMP .
+The Crp/cAMP system has been reviewed recently ( 7 ) .
+The crp * mutations used here were identified by chemical mutagenesis of strain TT17452 , which contains a cya : : TnlO insertion and a TnJOdCm insertion close to the crp + gene ( > 95 % cotransduction ) .
+After diethylsulfate ( DES ) mutagenesis ( 24 ) , new crp * mutants were selected as Mal ' revertants of the parent cya : : TnlO strain ( Mal - ) .
+Mal ' revertants ( arising at a frequency of 10 - 5 ) were screened for retention of Tcr and ability to grow on glycerol , sorbitol , and succinate .
+Putative crp * mutants grew on all such carbon sources .
+To ensure that the mutation permitting growth was in the crp gene , linkage to the TnJOdCm near the crp locus was confirmed .
+In this article , all reported data are for strains with mutation crp * -661 .
+Isolation of arcA : : TnlO mutants .
+By using a transposase with reduced target site specificity ( 21 ) , 400,000 random TnlOdTc insertion mutants were isolated and pooled .
+A P22 transducing lysate was prepared on this pool .
+A recipient strain ( TT17439 ) with a cob - lacZ fusion and a large deletion of the arcA region ( serB to thr ) was transduced to tetracycline resistance and prototrophy ( Ser + Thr + ) on NCE glycerol X - Gal plates .
+Transductants showing reduced expression of cob ( light blue colonies ) were tested for dye sensitivity , a phenotype characteristic of strains with mutations in the arcA gene .
+Dye sensitivity was checked on solid L - broth medium containing 200 mg of toluidine - blue per ml ( 17 ) .
+The mutant phenotypes , dye sensitivity and reduced expression of cob , were always cotransduced with the Tcr phenotype of the arcA mutation .
+This insertion was 95 % linked to the thr locus .
+Growth on pyruvate for doubling time measurements .
+Cells pregrown aerobically in E - glucose medium were used to inoculate 2 ml of NCE pyruvate ( with or without fumarate ) .
+This culture was grown aerobically to full density .
+For aerobic growth - rate determination , 0.2 ml of this culture was used to inoculate 5 ml of NCE pyruvate in a 125 - ml flask , and culture turbidity was measured regularly with a Klett - Summerson photoelectric colorimeter .
+For anaerobic - growth , 0.2 ml of the aerobic pyruvate - fumarate culture was used to inoculate 5 ml of the same medium in an anaerobic chamber ( Forma Scientific model 1024 ) as described previously ( 6 ) .
+The tubes were sealed and culture turbidity was measured regularly in a Bausch & Lomb Spectronic 20 spectrophotometer .
+This series of inoculations was also used to grow cells for 3 - galactosidase assays .
+RESULTS Growth phenotypes of the cya , crp , and crp * mutations used .
+Since strains with cya and crp null mutations accumulate suppressors and modifiers ( see Materials and Methods ) , we transduced these TnlO insertion mutations into a fresh genetic background and retested growth phenotypes .
+The phenotypes of our cya and crp mutants appear to be consistent with previously described phenotypes for such mutations in Escherichia coli and S. typhimurium ( Table 2 ) .
+As shown in Table 2 , cya and crp null mutants were able to grow on pyruvate aerobically and on pyruvate - fumarate anaerobically as long as liquid cultures were tested .
+For unknown reasons , strains with cya and crp mutations did not grow anaerobically on any solid medium tested , including nutrient broth and minimal - medium with pyruvate or even glucose as a carbon source .
+The ability of these strains to grow on pyruvate in liquid cultures was critical to later experiments .
+Isolation and characterization of the arcA and arcB mutants .
+Andersson previously reported that several arcA and arcB point mutations cause reduced expression of the cob operon ( 1 ) .
+We isolated an arcA : : TnJOdTc insertion mutation and used it to test the effect of such a mutation on the pocR and pdu transcripts .
+This allele is likely to be null and is easy to move into new genetic backgrounds ( see Materials and Methods ) .
+The arcBi mutation used here was isolated by Andersson on the basis of its deficiency in anaerobic expression of the cob operon ; he demonstrated that this mutation affects the arcB gene ( 1 ) .
+Growth of crp , cya , and arc mutants on pyruvate .
+To compare the effects of various defects in global control systems on expression of the cob/pdu regulon , we needed to find a carbon source that would support both aerobic and anaerobic growth of strains with mutations in the crp , cya , and arc genes .
+We found that pyruvate was such a carbon source .
+To characterize the growth phenotypes of cya , crp , crp * , and arc mutations , we measured growth - rates on pyruvate aerobically and on pyruvate - fumarate anaerobically , conditions we 3 - galactosidase assays .
+As shown in later used for performing Table 3 , pyruvate supported growth of all strains tested , but both arc and crp mutations caused a reduction in growth - rate that was more marked under anaerobic conditions .
+During anaerobic - growth on pyruvate - fumarate , the combined effect of the two mutations on doubling time is approximately equal VOL .
+Strain Doubling times of crp and arc mutants on pyruvate Relevant genotypea Doubling time ( h ) under indicated conditionsb Aerobic , pyruvate Anaerobic , pyruvate - fumarate TF17445 Wild type 1.7 2 TT17452 cya : : TnlO 2.8 4.5 TT17458 crp : : TnJO 2.8 4.5 TT17456 cya : : TnlOcrp * 1.7 2 TT10852 Wild type 1.5 2 TF17480 arcA : : TnlO 1.6 3.5 FT17486 crp : : TnlO arcA : : TnlO 3 7 a The four strains listed first in the table are an isogenic set ; the last three strains are an isogenic set in a slightly different genetic background .
+b Cells were grown at 37C in NCE medium with methionine as described in Materials and Methods .
+to the sum of the individual effects , suggesting that the two systems affect growth - rate independently .
+Effects of cya and crp mutations on aerobic expression of the coblpdu regulon .
+Isogenic strains containing a cob - lac or pdulac operon fusion and a mutation in the cya or crp gene were assayed for 3 - galactosidase activity after growth - on - glucose or pyruvate as carbon sources and with cAMP or propanediol as possible additions to the growth medium .
+As shown in Table 4 , the Crp/cAMP system is essential for induction of the coblpdu regulon in cells grown on poor carbon sources aerobically .
+Both the basal and induced expression levels of the cob operon are stimulated by the addition of exogenous cAMP to cultures growing on either glucose or pyruvate .
+Exogenous cAMP restored wild - type expression to a cya mutant ( unable to make cAMP ) but had no effect on a crp mutant .
+In a cya mutant , induced expression of the cob operon was increased by a crp * mutation .
+Expression was higher in a crp * mutant than in a Crp + strain and was further stimulated by adding exogenous cAMP , indicating that the particular crp * allele used encodes a protein that is still responsive to cAMP .
+Propanediol did not stimulate aerobic cob operon expression during - growth - on - glucose unless a crp * mutation was present ; the effect of this mutation is equivalent to increasing GLOBAL CONTROL OF coblpdu 7203 cAMP levels in a Crp + strain .
+During growth on pyruvate , propanediol stimulated cob expression in wild - type or crp * backgrounds ( a higher level was achieved in the latter ) , but no induction was seen in the cya or crp mutants .
+Therefore , the Crp system seems essential for aerobic induction by propanediol .
+The pdu operon generally showed the same responses to cya and crp mutations as the cob operon ; however , uninduced levels of transcription were lower and induced levels were higher .
+The addition of cAMP alone did not stimulate the basal expression of the pdu operon during - growth on either glucose or pyruvate .
+In cells grown on glucose , propanediol ( presented alone ) induced the pdu operon only in the strain carrying a crp * mutation .
+The pdu operon was induced in Crp + cells growing on glucose with the addition of both propanediol and cAMP , but there was no induction in a crp null mutant .
+During growth on pyruvate , induction by propanediol was eliminated by crp or cya null mutations .
+Thus , propanediol induction of both the cob and pdu operons is absolutely dependent on the Crp system during aerobic - growth .
+Several values in Table 4 ( and subsequent tables ) are followed by asterisks .
+These 3 - galactosidase activities varied within the ranges indicated in the footnotes , and the numbers given in the table are median values .
+Possible causes of this variation will be discussed later ( see Discussion ) .
+Effects of cya and crp mutations on anaerobic expression of the coblpdu regulon .
+The same strains used above were assayed under anaerobic conditions ( Table 5 ) .
+During anaerobic growth - on - glucose ( leading to a low cAMP level ) , the crp and cya mutations had little effect on induction of the cob/pdu regulon by propanediol ; in this experiment , expression levels were as high in cya or crp mutants as they were in the wild - type control .
+In a separate experiment ( see Table 8 ) , a crp mutation reduced expression but did not eliminate induction by propanediol .
+During anaerobic - growth on pyruvate - fumarate medium ( higher cAMP levels ) , the Crp/cAMP system is partially responsible for induction by propanediol ; strains with cya or crp mutations were induced by propanediol but to a lower maximal level .
+The basal level of anaerobic cob operon expression in cells grown on glucose or pyruvate - fumarate is increased by the addition of exogenous cAMP or by the presence of a crp * TABLE 4 .
+Effects of crp and cya mutations on aerobic expression of the cob/pdu regulon ,3 - Galactosidase activity ( Miller units ) under indicated conditions ' Strain Relevant Glucose Pyruvate genotype '' None cAMP PD PD - cAMP None cAMP PD PD - cAMP FT17459 cob : : lac 2 15 3 95 5 54 75 * C 400 TT17460 cob : : lac cya < 1 14 < 1 96 < 1 50 < 1 500 FT17461 cob : : laccrp < 1 < 1 < 1 < 1 < 1 < 1 < 1 < 1 TT17462 cob : : lac cya crp * 10 22 30 * d 240 18 - 42 - 300 - 640 TT17463 pdu : : lac < 1 < 1 < 1 95 < 1 < 1 280 * e 1,300 TT17464 pdu : : lac cya < 1 < 1 < 1 71 < 1 < 1 < 1 1,500 TT17465 pdu : : lac crp < 1 < 1 < 1 < 1 < 1 < 1 < 1 < 1 TT17466 pdu : : lac cya crp * < 1 < 1 34 370 < 1 < 1 530 1,400 a All strains carry a MudJ insertion either in the cob ( cob : : lac ) or pdu ( pdu : : lac ) operon ; these insertions fuse the lac operon of the inserted material to the relevant chromosomal operon .
+b Cells were grown aerobically at 37 °C in NCE medium with methionine and the indicated sources of carbon and energy .
+None , no addition to the growth medium ; cAMP , PD , and PD - cAMP , additions of cAMP , propanediol , and propanediol - cAMP ; respectively .
+Values marked with an asterisk were found to be variable in replicate experiments .
+c Enzyme levels varied from 15 to 130 Miller units .
+d Enzyme levels varied from 10 to 50 Miller units .
+I Enzyme levels varied from 70 to 700 Miller units .
+Effects of crp and cya mutations on anaerobic expression of the cob/pdu regulon , - Galactosidase activity ( Miller units ) under indicated conditions '' ' Strain Relevant genotype `` a Glucose Pyruvate - fumarate None cAMP PD PD - cAMP None cAMP PD PD - cAMP 1T17459 cob : : lac 4 24 37 530 - 73 - 310 - 760 1,200 TT17460 cob : : Iac cya 3 42 59 * C 340 9 290 92 1,100 7T1F7461 cob : : lac crp 3 3 81 * c 61 * ' 10 9 64 120 1T17462 cob : : lac cya crp * 19 - 52 - 220 - 300 140 320 1,000 1,100 TT17463 pdu : : Iac 1 14 74 1,300 1 6 3,500 3,100 TT17464 pdu : : lac cya 1 5 160 * d 1,700 1 4 260 4,700 TTT17465 pdu : : lac crp 1 1 150160 * di 1 1 200 140 TT1 7466 pdu : : lac cya crp * 1 33 1,100 1,100 1 21 4,300 4,300 '' All strains carry a MudJ insertion either in the cob ( cob : : lac ) or pdu ( plu : : lac ) operon ; these insertions fuse the lac operon of the inserted material to the relevant chromosomal operon .
+'' ` Cells were anaerobically grown at 37 °C in NCE medium with methionine and the indicated sources of carbon and energy .
+None , no addition ; cAMP , PD , and PD - cAMP , additions of cAMP , propanediol , and propanediol - cAMP , respectively .
+' Enzyme levels varied from 10 to 80 Miller units .
+`` Enzyme levels varied from 50 to 250 Miller units .
+On pyruvate - fumarate , the basal level of expression is reduced by cya or crp mutations , indicating that the higher basal level of expression in cells grown on a poor carbon source is largely due to stimulation by Crp/cAMP .
+Propanediol stimulates cob operon expression about 10 - fold on either glucose or pyruvate - fumarate .
+While propanediol does not induce expression aerobically on glucose ( Table 4 ) , anaerobic - growth on glucose allows induction .
+This could reflect higher cAMP levels anaerobically ( 7 ) or the involvement of an additional global system .
+We suggest below that the ArcA/ArcB system permits the observed anaerobic induction in the presence of glucose .
+For an unknown reason , the crp * strain shows a higher induced level on pyruvate - fumarate than on glucose even though the strain has a cya mutation and should not produce cAMP during - growth on either of the carbon sources .
+It is possible that this is due to increased expression of the arcA gene during the slow - growth on pyruvate - fumarate .
+The pdu and cob operons respond similarly to all of the changes in genotype and growth - conditions tested .
+While Crp/cAMP was required for all induction aerobically , this system is only partially responsible for the anaerobic induction of the regulon .
+Effect of the ArcA/ArcB system on aerobic expression of the coblpdu regulon .
+The ArcA/ArcB system plays little or no role in controlling the cob/pdu regulon under aerobic conditions ( Table 6 ) .
+During aerobic - growth - on - succinate in the presence of the inducer ( propanediol ) , an arcA insertion mutation caused no reduction in expression of the cob and pdu operons compared to strains with a wild - type arcA allele .
+Mutations in the arcB gene similarly had no effect on the expression of cob - lac and pdu - lac fusions under these conditions .
+Thus , neither the regulatory protein ( arcA ) nor the membraneassociated sensor protein ( arcB ) of the Arc system seems to be required for normal aerobic expression of the regulon .
+Effect of the ArcA/ArcB system on anaerobic expression of the cob/pdu regulon .
+The ArcA/ArcB system is essential for induction of the cob and pdu operons by propanediol during anaerobic - growth - on - glucose ( Table 7 ) .
+Under these conditions , mutations in either the arcA or arcB gene completely eliminate propanediol induction of the cob and pdu operons .
+During anaerobic - growth on pyruvate - fumarate , the ArcA !
+Lack of a role for the ArcA/ArcB system in aerobic expression of the cob/pdu regulon 13 - Galactosidase activity ( Miller units ) under indicated conditions '' Strain Relevant Glucose Pyruvate Succinate genotype '' ` lcs Prvt None PD None PD None PD TT10852 cob : : lac 8 5 13 65 34 450 TT ' 17480 cob : : lac arcA 3 5 10 39 25 410 TT17481 cob : : lac 7 7 15 66 29 470 TT17482 cob : : lac arcB 6 8 12 77 33 460 1T17131 pdu : : lac 1 1 2 57 8 1,500 1T17483 pdu : : lac arcA 1 1 2 43 12 1,400 TT17484 pdu : : lac 2 1 1 64 2 1 , i00 TT17485 pdu : : lac arcB < I I 11 73 5 1,800 ' The strains used are isogenic pairs .
+Each such pair is separated by a space .
+All strains carry a MudJ insertion either in the cob ( cob : : Iac ) orpdu ( pdu : : lac ) operon ; these insertions fuse the lac operon of the inserted material to the relevant chromosomal operon .
+'' Cells were grown aerobically at 37 °C in NCE medium with methionine and the indicated sources of carbon and energy .
+None , no addition to the medium ; PD , propanediol was added .
+1 75 , 1993 GLOBAL CONTROL OF cob/pdu 7205 TABLE 7 .
+Effects of the ArcA/ArcB system on the anaerobic expression of the cob/pdu regulon , B - Galactosidase activity ( Miller units ) under indicated conditions ' Strain Relevant Glucose Pyruvate - fumarate genotype ' '' None PD None PD TF10852 cob : : Iac 9 34 87 710 TT17480 cob : : lac arcA 8 5 60 480 TT17481 cob : : lac 2 28 67 590 TT17482 cob : : lac arcB I 1 54 500 TF17131 pdu : : lac < 1 61 15 2,400 ` F17483 pdu : : lac arcA 2 < 1 24 1,600 TT 17484 pdu : : lac < 1 54 1 2,100 1T17485 pdu : : lac arcB 2 9 < 1 1,700 aThe strains used are isogenic pairs .
+Each such pair is separated by a space .
+All strains carry a MudJ insertion either in the cob ( cob : : lac ) orpdu ( pdu : : lac ) operon ; these insertions fuse the lac operon of the inserted material to the relevant chromosomal operon .
+'' Cells were grown anaerobically at 37 °C in NCE medium with methionine and the indicated sources of carbon and energy .
+None , no addition to the medium ; PD , propanediol was added .
+ArcB system has a partial role in induction of the cob and pdu operons ( Table 7 ) .
+Under these conditions , mutations in the arcA gene cause a 33 % reduction in the induced level of expression of the cob andpdu operons ; mutations in arcB cause a 17 % reduction in expression of these operons .
+The finding that arcA mutations reduce but do not prevent expression of the cob andpdu operons indicates that a global regulator other than the ArcA protein may assist in induction of these operons during anaerobic - growth on poorer carbon sources .
+The data presented above in Table 5 suggest that this regulator is the Crp/cAMP complex .
+Combined effects of arcA/arcB and crp mutations on induction of the cob and pdu operons .
+During anaerobic - growth on poor carbon sources , induction of the cob and pdu operons requires either the Arc or Crp global system ; maximal induction requires both the Arc and Crp systems .
+During anaerobic growth on pyruvate - fumarate , the arcA mutation reduced the maximum induced level of the cob and pdu operons by 33 % Strain TABLE 8 .
+Additive effects of the ArcA/ArcB system and Crp/cAMP complex on the anaerobic expression of the cob/pdu regulon , B - Galactosidase activity ( Miller units ) under indicated conditionsb Relevant genotype ' Glucose Pyruvate - fumarate None PD None PD TF10852 cob : : lac 9 34 87 710 ` TF17480 cob : : lac arcA 8 5 60 480 TT17447 cob : : lac crp 2 9 17 170 ` TF17486 cob : : lac arcA crp 2 4 7 7 7T17131 pdu : : lac < 1 61 15 2,400 TF17483 pdu : : lac arcA 2 < 1 24 1,600 TTF17449 pdu : : Iac crp 1 16 6 320 TT17487 pdu : : lac arcA crp 1 < 1 7 7 '' All strains carry a MudJ insertion either in the cob ( cob : : lac ) orpdu ( pdu : : lac ) operon ; these insertions fuse the lac operon of the inserted material to the relevant chromosomal operon .
+b Cells were grown anaerobically at 37 °C in NCE medium with methionine and the indicated sources of carbon and energy .
+None , no addition to the medium ; PD , propanediol was added .
+The crp mutation reduced expression of the two operons by 76 and 87 % , respectively .
+Double mutants with both a crp and an arcA mutation are unable to induce either the cob or pdu operon during anaerobic - growth on pyruvatefumarate .
+These results show that either the Crp/cAMP complex or the ArcA/ArcB system can mediate induction of the cob and pdu operons during anaerobic - growth on pyruvatefumarate and that the additive effects of these regulators are needed for maximal expression .
+Effects of cya and crp mutations on expression of the pocR gene .
+The PocR regulatory protein , which is required for induction of the cob and pdu operons , is itself subject to global regulation ( 6 ) .
+Expression ofpocR is induced by propanediol in strains that are phenotypically PocR + but not in strains that are PocR - ( 6 ) .
+To provide apocR + gene to strains carrying a pocR : : lac insertion mutation , a duplication was constructed as described previously ( 6 ) ; the duplication strain has a wild - type pocR allele in one copy of the duplicated region and a pocR : : lac insertion in the other copy of the pocR gene .
+Mutations ( cya and crp ) were added to this duplication strain to test global control of pocR transcription .
+As shown in Table 9 , the pocR gene is induced under conditions analogous to those that result in induction of the cob andpdu operons .
+Both aerobically and anaerobically , there is a two - to threefold increase in pocR expression during growth on pyruvate compared with growth - on - glucose .
+This increase is eliminated in strains carrying either a cya or crp mutation .
+Thus , Crp/cAMP seems to be responsible for the carbon source effect on pocR expression .
+Moreover , pocR expression is stimulated by cAMP or by the presence of a crp * mutation .
+In strains lacking the PocR protein ( data not shown ) , no induction by propanediol was observed , but the global control mutations showed the same effects noted above for the merodiploid strains in the absence of propanediol .
+Thus , the Crp/cAMP system regulates the pocR gene independently of autoinduction .
+Aerobic autoinduction of the pocR gene by propanediol occurs only in PocR + strains and is greater during - growth on poor carbon sources unless cAMP is also added .
+During aerobic - growth on pyruvate , expression of pocR is induced about 2.5 - fold by propanediol .
+Maximal expression is seen when both propanediol and cAMP are added .
+No autoinduction is seen in strains carrying either a cya or a crp mutation , 7206 AILION ET AL. .
+Effects of crp and cya mutations on expression ofpocR , B - Galactosidase activity under indicated conditions '' Relevant Aerobic Anaerobic genotype '' Glucose Pyruvate Glucose Pyruvate - fumarate None cAMP PD cAMP - PD None cAMP PD cAMP - PD None cAMP PD cAMP - PD None cAMP PD cAMP - PD TT17471 Wild type 39 150 60 250 - 76 - 150 - 180 350 - 110 - 210 - 250 400 - 420 - 510 - 800 1,100 TI17472 cya 28 190 36 360 18 260 - 18 - 500 - 110 180 - 120 - 570 - 130 850 210 1,200 TT17473 crp 23 30 31 32 20 19 18 15 87 98 - 86 - 110 - 430 300 - 310 - 240 Tf17474 cya crp * 110 - 170 - 130 - 330 130 - 230 - 190 - 520 200 - 380 - 590 - 640 510 950 1,100 1,200 All strains are pocR : : 1ac/pocR + .
+h Cells were grown at 37 ' C in NCE medium with methionine and the indicated sources of carbon and energy .
+None , no addition to the medium ; cAMP , PD , and cAMP - PD , additions of cAMP , propanediol , and cAMP - propanediol , respectively .
+indicating that the Crp/cAMP system is the primary global regulator controlling aerobic autoinduction of pocR .
+This pattern of regulation is the same as that seen for the cob and pdu operons .
+Similar to the control of cob and pdu , the Crp/cAMP system appears to be only partially responsible for anaerobic autoinduction of pocR by propanediol since cya and crp mutations do not completely eliminate autoinduction during anaerobic - growth on pyruvate - fumarate .
+Combined effects of the ArcA/ArcB and Crp/cAMP systems on expression of the pocR gene .
+The Crp/cAMP system is essential for all aerobic expression of the pocR gene , while both the ArcA/ArcB and Crp/cAMP systems control anaerobic pocR expression ( Table 10 ) .
+A crp mutation completely eliminates aerobic autoinduction of pocR , while an arcA mutation has little effect .
+Neither arcA nor arcB mutations affected expression of pocR during aerobic - growth - on - glucose or pyruvate , in strains with or without functional PocR protein ( data not shown ) .
+We conclude that the Crp/cAMP complex is the primary global regulator controlling aerobic autoinduction of the pocR gene .
+During anaerobic - growth on pyruvate - fumarate , both the Crp/cAMP complex and the ArcA/ArcB system play a role in autoinduction of the pocR gene .
+Under these conditions , strains with mutations in either the arcA or crp gene show partial autoinduction of the pocR gene .
+Strains with mutations in both the arcA and crp genes are unable to autoinduce the pocR gene during anaerobic - growth on pyruvate - fumarate .
+The above results indicate that the general pattern of pocR gene expression is the same as that of the cob and pdu operons .
+Effects of the ArcAB system and Crp/cAMP complex on the pocR gene I - Galactosidase activity under indicated conditions / Relevant Strain Anaerobic , genotypea Aerobic , on on pyruvatepyruvate fumarate None PD None PD TT17167 ( pocR : : lac/pocR + ) 130 - 310 - 400 - 900 T ' 17492 ( pocR : : lac/pocR - ) 160 - 140 - 370 - 370 1T17493 ( pocR : : lac/pocR + ) arcA 140 - 290 - 170 - 590 TT17494 ( pocR : : lac/pocR + ) crp 39 - 36 - 160 - 280 TF17495 ( pocR : : lac/pocR + ) arcA crp 40 38 57 46 a All strains carry a MudJ insertion in one copy of the pocR gene ; this insertion fuses the lac operon of the inserted material to the pocR transcript .
+b Cells were grown at 37 °C in NCE medium with methionine and the indicated sources of carbon and energy .
+None , no addition to the growth medium ; PD , propanediol was added .
+is the primary global regulator under aerobic conditions , while both the Crp and Arc systems act additively to stimulate anaerobic expression .
+DISCUSSION Previous studies have shown that the adjacent , divergently transcribed cob and pdu operons are coregulated by the positive regulatory protein PocR , by using propanediol as an effector ( 6 , 23 ) .
+Induction by propanediol occurs during aerobic growth on poor carbon sources and during anaerobic growth .
+In the experiments presented here , we provide evidence that two global regulatory systems , Crp/cAMP and ArcA/ArcB , control induction of both the cob and pdu operons Ḋuring aerobic - growth , the Crp/cAMP complex is essential for all induction of these operons .
+During aerobic - growth on pyruvate , null mutations in either the cya or crp gene eliminated induction of the cob and pdu operons by propanediol , while arcA and arcB mutations had virtually no effect .
+During aerobic - growth - on - glucose , the addition of cAMP to the growth medium allowed induction of both operons .
+During anaerobic - growth - on - glucose ( leading to a low level of endogenous cAMP ) , the ArcA/ArcB system is the primary global activator of the cob and pdu operons ; neither operon was induced under these conditions in strains carrying null mutations in either the arcA or arcB gene .
+However , during anaerobic - growth on the poor carbon source pyruvate ( leading to a high level of cAMP ) , both the ArcA/ArcB system and the Crp/cAMP complex are needed for maximal induction of the cob andpdu operons .
+Both arcA and crp mutations individually caused reduced induction of the regulon during anaerobic growth on pyruvate - fumarate .
+Strains with null mutations in both the arcA and crp genes showed virtually no expression of cob or pdu under these conditions .
+These results show that under anaerobic conditions , the Crp/cAMP complex and the ArcA/ArcB system have additive effects on induction of the cob and pdu operons .
+Previous findings suggested that the pocR regulatory gene , like the cob and pdu operons , is subject to both global control and induction by propanediol ( 6 ) .
+The global control of pocR , but not its induction by propanediol , is seen in strains that lack functional PocR protein .
+Here we show that both the Crp / cAMP and the ArcA/ArcB systems regulate expression of the pocR gene .
+As was found for the cob and pdu operons , the Crp/cAMP complex is the primary global regulator of pocR under aerobic conditions , while maximal anaerobic induction requires the additive effects of both the Crp/cAMP complex and the ArcA/ArcB system .
+Thus , the general pattern of pocR regulation is the same as that seen for the cob andpdu operons .
+175 , 1993 GLOBAL CONTROL OF cob/pdu 7207 Propanediol utilizationI ( J ` JI Regulation pdi lu I pocR P BI B12 synthesis cob Aerobic A 1 - Anaerobic ( cAMP ) ( : > A ( ArcB ) Carbon control Redox control FIG. 1 .
+Model for control of the coblpdu regulon .
+We propose that the global regulatory systems Crp/cAMP and ArcA/ArcB directly stimulate pocR gene expression , which in turn allows induction of the two operons by propanediol .
+Some direct interactions of these global regulatory proteins with the cob and pdu promoters are not yet excluded .
+We have suggested previously that global control of the cob/pdu regulon may be mediated by the pocR gene .
+The proposal is that the global controls cause an increase in the internal level of PocR protein , which in turn permits the cob and pdu operons to respond to propanediol .
+This model is diagrammed in Fig. 1 .
+The results presented here are consistent with this model but do not eliminate the possibility that one or both of these global systems also acts directly on the cob and pdu operons .
+If one compares Tables 6 and 7 , it can be seen that cob operon expression is stimulated by a shift from aerobic to anaerobic conditions ( on pyruvate ) in the absence of an added inducer .
+This could be interpreted as global controllers acting directly at the cob promoter .
+However , these uninduced levels of operon expression are reduced by a pocR mutation ( 6 ) and thus still seem to depend on transcription stimulated by this protein .
+We have shown previously ( 6 ) that glycerol can act as an inducer .
+Thus , endogenous metabolites may act as effectors of PocR that induce low - level transcription of the cob operon , even in the absence of added propanediol .
+If this is the case , variation in pocR gene expression may still be responsible for changes in cob operon expression seen in the absence of propanediol .
+The use of pyruvate as a carbon source was crucial to the experiments described in this article .
+Induction of cob and pdu by propanediol occurs only on poor carbon sources .
+Strains carrying cya and crp null mutations can not grow on most poor carbon sources ; they can grow on pyruvate both aerobically and anaerobically ( with fumarate as the electron - acceptor ) .
+With pyruvate , it was possible to grow mutant and wild - type strains under the same growth - conditions .
+Induction of the regulon does not occur during aerobic - growth - on - glycerol ( 6 ) but can occur during - growth on pyruvate .
+This suggests that cAMP levels are higher on pyruvate than on glycerol but that the Crp protein is not needed to induce genes required for breakdown of pyruvate .
+As noted earlier , some of our 3 - galactosidase assay values varied from experiment to experiment .
+To pursue the possible causes of this variability , we assayed strains at various times in the growth of a culture ( data not shown ) .
+The level of operon expression was fairly constant during the exponential phase of growth but increased as cells entered the stationary - phase .
+We feel that the observed variability is probably due to slight differences in cAMP and active ArcA levels caused by harvesting cells at slightly different times .
+Variability was seen aerobically in Crp + strains during - growth - on - glucose or pyruvate .
+Under these conditions , ArcA should be inactive and slight changes in cAMP levels could affect induction ; no variability was seen when exogenous cAMP was added .
+Anaerobically , variability was seen only during - growth - on - glucose , when the cAMP level is low and Crp is largely inactive ; slight changes in active ArcA levels due to differences in oxygenation of dense cultures could affect induction .
+No variability was seen under growth - conditions that activate both global regulators .
+The variability seen under particular growth - conditions does not interfere with the main conclusions regarding the roles of the Crp/cAMP and ArcA/ArcB systems .
+We initiated this investigation in the hope that the behavior of this system would suggest reasons for the genetic investment of S. typhimurium in vitamin - B12 synthesis .
+The question is based on the paradoxical observation that S. typhimurium has invested nearly 1 % of its genome in the synthesis and import of vitamin - B12 , yet cob mutants , which are unable to synthesize vitamin - B12 , have no laboratory phenotype in an otherwise wild - type cell .
+The findings that the pdu operon is adjacent to the cob operon and that propanediol induces expression of both the pdu and cob operons suggest that the major significance of vitamin - B12 synthesis to S. typhimurium involves propanediol metabolism .
+The global regulatory pattern of the cob and pdu operons by Crp/cAMP and ArcA/ArcB further suggests that S. typhimurium has use for propanediol as a carbon and/or energy source under both aerobic and anaerobic conditions .
+However , S. typhimurium can use propanediol as a 7208 AILION ET AL. sole carbon and energy source only when oxygen is present as an electron - acceptor ( 18 ) .
+S. typhimurium can not synthesize vitamin - B12 under the aerobic conditions tested , even when the cob operon is fully induced ( 2 ) .
+Hence , the synthesis of vitamin B12 ( anaerobic ) and the ability to grow on propanediol ( aerobic ) seem mutually exclusive .
+The paradox described above is based on a comparison of strains growing under strictly anaerobic conditions with strains growing under heavy aeration .
+It seems likely that the natural environment of S. typhimurium might frequently provide intermediate ( microaerobic ) oxygen levels or periodic exposure to oxygen .
+We have tested the ability of S. typhimurium to grow in an oxygen gradient with propanediol as the sole carbon source and no added vitamin - B12 .
+Growth occurred at an intermediate oxygen concentration ( 5 ) .
+Apparently , low oxygen levels can permit B12 synthesis and still provide sufficient electron - acceptor to support respiration of propanediol .
+S. typhimurium , like all enteric bacteria , might frequently encounter microaerobic environments .
+In the large intestine , which is primarily anaerobic , gases from the bloodstream pass through the epithelium , and nearby regions are microaerobic ( 26 ) .
+The global regulatory system that controls induction of the cob and pdu operons would be expected to allow highest induction of these operons during microaerobic - growth on poor carbon sources .
+The ArcA/ArcB system has already been shown to play a role in the microaerobic induction of the cyd operon ( 11 , 14 ) .
+The availability of propanediol is likely to depend on dietary fucose or rhamnose , whose fermentative breakdown produces propanediol as a by - product .
+This work was supported by grant RO1 GM34804 from the National Institutes of Health .
+We thank Dan Andersson for providing some strains and Jeff Lawrence and Ping Chen for helpful discussions .
+Involvement of the Arc system in redox regulation of the Cob operon in Salmonella typhimurium .
+Andersson , D. I. , and J. R. Roth .
+Mutations affecting regulation of cobinamide biosynthesis in Salmonella typhimurium .
+Andersson , D. I. , and J. R. Roth .
+Redox regulation of the genes for cobinamide biosynthesis in Salmonella typhimurium .
+Berkowitz , D. , J. M. Hushon , H. J. Whitfield , Jr. , J. R. Roth , and B. N. Ames .
+Procedure for identifying nonsense mutations .
+Bobik , T. Unpublished data .
+Bobik , T. A. , M. Ailion , and J. R. Roth .
+A single regulatory gene integrates control of vitamin - B1 ,2 synthesis and propanediol degradation .
+Botsford , J. L. , and J. G. Harman .
+Cyclic AMP in prokaryotes .
+Casadaban , M. J. , and S. N. Cohen .
+Lactose genes fused to exogenous promoters in one step using a Mu - lac bacteriophage : in vivo probe for transcriptional control sequences .
+Castilho , B. A. , P. Olfson , and M. J. Casadaban .
+Plasmid insertion mutagenesis and lac gene fusion with mini - Mu bacteriophage transposons .
+Chan , R. K. , D. Botstein , T. Watanabe , and Y. Ogata .
+Specialized transduction of tetracycline resistance by phage P22 in Salmonella typhimurium .
+Properties of a high - frequency - transducing lysate .
+Cotter , P. A. , and R. P. Gunsalus .
+Contribution of the fnr and arcA gene products in coordinate regulation of cytochrome o and d oxidase ( cyo ABCDE and cydAB ) genes in Escherichia coli .
+Elliot , T. , and J. R. Roth .
+Characterization of TnJOdCAM : a transposition - defective TnJO specifying chloramphenicol resistance .
+Escalante - Semerena , J. C. , and J. R. Roth .
+Regulation of cobalamin biosynthetic operons in Salmonella typhimurium .
+Fu , H. A. , S. luchi , and E. C. C. Lin .
+The requirement of ArcA and Fnr for peak expression of the cyd operon in Escherichia coli under microaerobic conditions .
+Hughes , K. T. , and J. R. Roth .
+Conditionally transpositiondefective derivative of Mu dl ( Amp Lac ) .
+luchi , S. , D. C. Cameron , and E. C. C. Lin .
+A second global regulator gene ( arcB ) mediating repression of enzymes in aerobic pathways of Escherichia coli .
+luchi , S. , and E. C. C. Lin .
+arcA ( dye ) , a global regulatory gene in Escherichia coli mediating repression of enzymes in aerobic pathways .
+Cobalamin - dependent 1,2 - propanediol utilization by Salmonella typhimurium .
+Jeter , R. M. , B. M. Olivera , and J. R. Roth .
+Salmonella typhimurium synthesizes cobalamin ( vitamin - B ,2 ) de novo under anaerobic - growth - conditions .
+Jeter , R. M. , and J. R. Roth .
+Cobalamin ( vitamin - B12 ) biosynthetic genes of Salmonella typhimurium .
+Kleckner , N. , J. Bender , and S. Gottesman .
+Uses of transposons with emphasis on TnlO .
+Experiments in molecular genetics .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 23 .
+Rondon , M. R. , and J. C. Escalante - Semerena .
+Thepoc locus is required for 1,2 - propanediol - dependent transcription of the cobalamin biosynthetic ( cob ) and propanediol utilization ( pdu ) genes of Salmonella typhimurium .
+Roof , D. M. , and J. R. Roth .
+Ethanolamine utilization in Salmonella typhimurium .
+Roth , J. R. , J. G. Lawrence , M. Rubenfield , S. Kieffer - Higgins , and G. M. Church .
+Characterization of the cobalamin ( vitamin B1 ,2 ) biosynthetic genes of Salmonella typhimurium .
+Microbial ecology of the gastrointestinal tract .
+A method for detection of phage mutants with altered transducing ability .
+Toraya , T. , S. Honda , and S. Fukui .
+Fermentation of 1,2 - propanediol and 1,2 - ethanediol by some genera of Enterobacteriaceae , involving coenzyme B12 - dependent diol dehydratase .
+Vogel , H. J. , and D. M. Bonner .
+Acetylornithase of Escherichia coli : partial purification and some properties .
+Way , J. C. , M. A. Davis , D. Morisato , D. E. Roberts , and N. Kleckner .
+New TnOO derivatives for transposon mutagenesis and for construction of lacZ operon fusions by transposition .

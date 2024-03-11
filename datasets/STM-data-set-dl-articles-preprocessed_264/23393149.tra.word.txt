@@ -1,0 +1,332 @@
+Microbiology ( 2013 ) , 159 , 715 -- 725 ompW is cooperatively upregulated by MarA and SoxS in response to menadione B. Collao ,3 E. H. Morales ,3 F. Gil , I. L. Calderón and C. P. Saavedra Correspondence C. P. Saavedra csaavedra@unab.cl Revised 1 February 2013 Laboratorio de Microbiología Molecular , Facultad de Ciencias Biológicas , Universidad Andres Bello , Santiago , Chile OmpW is a minor porin whose biological - function has not been clearly defined .
+Evidence obtained in our laboratory indicates that in Salmonella enterica serovar Typhimurium the expression of OmpW is activated by SoxS upon exposure to paraquat and it is required for resistance .
+SoxS belongs to the AraC family of transcriptional regulators , like MarA and Rob .
+Due to their high structural similarity , the genes under their control have been grouped in the mar/sox/rob regulon , which presents a DNA - binding consensus sequence denominated the marsox box .
+In this work , we evaluated the role of the transcription factors MarA , SoxS and Rob of S. enterica serovar Typhimurium in regulating ompW expression in response to menadione .
+We determined the transcript and protein levels of OmpW in different genetic backgrounds ; in the wild - type and Drob strains ompW was upregulated in response to menadione , while in the DmarA and DsoxS strains the induction was abolished .
+In a double marA soxS mutant , ompW transcript levels were lowered after exposure to menadione , and only complementation in trans with both genes restored the positive regulation .
+Using transcriptional - fusions and electrophoretic - mobility - shift assays with mutant versions of the promoter region we demonstrated that two of the predicted sites were functional .
+Additionally , we demonstrated that MarA increases the affinity of SoxS for the ompW promoter region .
+In conclusion , our study shows that ompW is upregulated in response to menadione in a cooperative manner by MarA and SoxS through a direct interaction with the promoter region .
+INTRODUCTION Porins are aqueous channels that allow the passive diffusion of hydrophilic solutes , nutrients or toxic compounds through the bacterial outer membrane and participate , at least in part , in the ability of bacteria to adapt to diverse environments , in drug resistance mechanisms and in bacterial pathogenesis ( Benz & Bauer , 1988 ; Chatfield et al. , 1991 ; Jeanteur et al. , 1991 ; Weiss et al. , 1991 ; Groisman & Ochman , 1994 ; Nikaido , 1996 ; Zgurskaya & Nikaido , 2000 ; Koebnik et al. , 2000 ; Rodríguez - Morales et al. , 2006 ) .
+Some years ago , Morimyo ( 1988 ) isolated and characterized Escherichia coli mutants sensitive to paraquat , a superoxide - generating compound ( Hassan & Fridovich , 1979 ) .
+The deleted region in E. coli is highly conserved in Salmonella enterica serovar Typhimurium and contains the ompW gene ( Gil et al. , 2007 ) , which encodes a minor porin that has been well studied and its structure in E. coli and Vibrio cholerae has 3These authors contributed equally to this work .
+Two supplementary figures are available with the online version of this paper .
+been described , although its biological - function has not been clearly defined ( Nandi et al. , 2005 ; Hong et al. , 2006 ) .
+It is thought to be involved in osmoregulation , since in Vibrio alginolyticus high salt concentrations ( NaCl 4 % ) induce its expression ( Xu et al. , 2005 ) .
+Furthermore , a S. enterica serovar Typhimurium ceftriaxone - resistant strain showed decreased expression of ompW , suggesting that it might be involved in the uptake of this antibiotic ( Hu et al. , 2005 ) .
+Evidence obtained in our laboratory indicates that in S. enterica serovar Typhimurium 14028s OmpW expression is increased in the presence of paraquat and it mediates resistance ( Gil et al. , 2007 ) .
+The cellular response to superoxide ( O 2 2 ) is regulated at the transcriptional level by the SoxRS system ( Greenberg et al. , 1990 ) .
+Upon exposure to O 2 2 and/or ammonium quaternary compounds , SoxR is oxidized and converted to an active form that induces the transcription of soxS , which binds to the promoter regions of several genes whose products are involved in the response to oxidative damage ( Storz & Imlay , 1999 ; Scandalios , 2002 ; Imlay , 2008 ; Gu & Imlay , 2011 ) .
+In this context , the evidence supports a model in which ammonium quaternary compounds are responsible for SoxR activation ( Krapp et al. , 2011 ; Gu & Imlay , 2011 ) ; however , it has been recently confirmed that 066050 G 2013 SGM Printed in Great Britain 715 B. Collao and others O 2 2 is also able to oxidize its 2Fe -- 2S cluster ( Fujikawa et al. , 2012 ) .
+SoxS belongs to the AraC family of transcriptional regulators , of which MarA and Rob are also members ( Martin & Rosner , 2002 ) .
+In E. coli MarA , SoxS and the N - terminal domain of Rob , which include the DNA - binding domain , share approximately 50 % amino acid sequence identity ( Jair et al. , 1995 , 1996 ; Tobes & Ramos , 2002 ) .
+The mar/sox/rob regulons overlap and together they co - regulate , by direct binding to the promoter regions , more than 40 different genes ( Aono et al. , 1998 ; Martin et al. , 1999 , 2000 ; Martin & Rosner , 2002 ) .
+Expression of MarA , SoxS and Rob is increased upon exposure to a wide variety of signals .
+MarA is increased in response to weak acid conditions and salicylate treatment ( Pomposiello et al. , 2001 ) ; SoxS in response to nitric - oxide , superoxide and ammonium quaternary compounds ( Li & Demple , 1994 ; Vasil ' eva et al. , 2001 ) ; and Rob after treatment with bile - salts and dipyridyl ( Storz & Imlay , 1999 ; Semchyshyn et al. , 2005 ; Kwon et al. , 2000 ) .
+In E. coli , their upregulation is correlated with changes in the expression of genes involved in the efflux of antibiotics ( acrAB and tolC ) , decrease in outer - membrane permeability ( micF ) , superoxide resistance ( fpr and sodA ) , DNA repair systems ( nfo ) and those with unknown function ( Aono et al. , 1998 ; Pomposiello et al. , 2001 ; Chollet et al. , 2002 , 2004 ; Giró et al. , 2006 ; Lee et al. , 2009 ) .
+Due to the high structural similarity among these proteins , genes under their control have been denominated the mar/sox / rob regulon , which present a DNA - binding consensus sequence at their promoter regions , denominated the marsox box which is degenerate and asymmetrical ( AYnGCACnnWnnRYYAAAY ) , and has been detected at various locations on the chromosome of E. coli ( Martin et al. , 2008 ; Aono et al. , 1998 ; Martin et al. , 1999 , 2000 ; Martin & Rosner , 2002 ) .
+These binding sites are also configured in a specific orientation and relative distance to the upstream 235 and 210 elements , to which RNA polymerase binds ( Martin & Rosner , 2002 ; Selke et al. , 2007 ) .
+Previous work in our laboratory determined that ompW is regulated by SoxS in response to paraquat , and a marsox box has been defined at its promoter region with the sequence 59 - TTTGCATAGCGTGAATATGTCAAAATTGAT - 39 ( Gil et al. , 2009 ) .
+Since the binding sites of the members of the mar/sox/rob regulon are similar , in S. enterica serovar Typhimurium Rob and MarA might also regulate ompW in response to menadione , another superoxide - generating compound ( Kato et al. , 1994 ) .
+In the present work , we evaluated the effect of menadione on ompW expression and the role of MarA and SoxS in the response .
+To evaluate the changes after exposure to menadione , we determined the transcript and protein levels of OmpW in the different genetic backgrounds after exposure to the toxic compound .
+In the wild - type and Drob strains , ompW was upregulated in response to menadione , while deletion of MarA or SoxS abolished the regulation .
+Bioinformatic analyses predicted the presence of three potential marsox boxes at the ompW promoter region , including the one previously described by Gil et al. ( 2009 ) .
+Using transcriptional - fusions and electrophoretic mobility shift assays ( EMSAs ) with the wild - type and mutated promoter regions we demonstrated that two of the predicted sites were functional .
+Interestingly , in a double marA soxS mutant strain ompW transcript levels were lowered after menadione exposure , and only complementation in trans with both genes was able to restore the positive regulation observed in the wild - type strain .
+In conclusion , we demonstrated that in response to menadione , MarA and SoxS cooperatively regulate ompW through a direct interaction with the promoter region .
+METHODS Bacterial strains and growth - conditions .
+Salmonella strains used in this study are listed in Table 1 .
+Bacteria were grown routinely at 37 uC in Luria -- Bertani ( LB ) broth with shaking .
+When required , LB was supplemented with - ampicillin ( 100 mg l 21 ) or kanamycin ( 50 mg l 21 ) .
+Solid medium included 15 g agar l 21 .
+When necessary , growth medium was treated with menadione ( 50 mM ) .
+Bioinformatic analyses in search for marsox boxes at the ompW promoter region were performed using the Vector NTI software using the sequences described by Martin et al. ( 1999 ) and Gil et al. ( 2009 ) .
+Construction and cloning of strains .
+For the construction of the double mutant strains we used bacteriophage P22 HT105/1 int 2201 using one single - mutant strain as the donor and the other as the recipient ( Ebel - Tsipis et al. , 1972 ) .
+The presence of substitution mutations was confirmed by PCR using specific primers ( Table 2 ) .
+Genetic complementation of the DsoxS , DmarA , Drob and DmarA soxS strains was performed using plasmids pBR322 - soxS , pBR322 - marA , pBR322 - rob and pBR322 - marA - soxS , respectively .
+To generate these plasmids , S. enterica serovar Typhimurium soxS , marA and rob genes were amplified by PCR using primers listed in Table 2 .
+The PCR was performed under the following conditions : 10 min at 95 uC , followed by 30 cycles of 30 s at 95 uC , 45 s at 55 uC and 1 min at 72 uC , and a final extension of 10 min at 72 uC .
+The restriction sites ( EcoRI and BamHI ) at the ends of the DNA fragment were introduced in the PCR primers ( sequences in bold type in Table 2 ) and were digested with the corresponding enzymes .
+The digested PCR product was cloned into the multiple cloning site ( MCS ) of pBR322 .
+To generate plasmid pBR322 - marA -- soxS primers pBR322 with pBR322 and pBR322 with pBR322 ( Table 2 ) were used to generate overlapping PCR products spanning the divergent construct marA -- soxS , taking advantage of the complementary sequence added ( sequences in italic type in Table 2 ) .
+The resulting PCR products were used as templates in a second reaction with primers pBR322 and pBR322 to generate the divergent construct , which was digested and cloned into the MCS of plasmid pBR322 .
+RNA isolation and mRNA detection .
+An overnight bacterial culture was diluted 100 - fold with fresh LB - medium and was grown at 37 uC with shaking to OD 600 ~ 0.4 .
+The culture was split into two 10 ml aliquots and one of them was incubated with 50 mM menadione .
+Cells were grown at 37 uC and 4 ml aliquots were withdrawn 20 min after menadione exposure .
+Total RNA was extracted using the GenElute Total RNA purification kit ( Sigma ) following the manufacturer 's 716 Microbiology 159 MarA and SoxS regulate ompW expression Table 1 .
+Primers used in this study Underlined sequences indicate restriction sites for KpnI orHindIII which were introduced in the primers .
+Sequences in bold type indicate restriction sites for EcoRI or BamHI introduced in the primers .
+Sequences in italics represent complementary sequences added to generate overlapping PCR products to produce the divergent marA - soxS construct as described in Methods .
+Total RNA was treated with 2 U DNase I to remove trace amounts of DNA .
+cDNA synthesis was carried out at 37 uC for 1 h in 25 ml of a mixture that contained 2.5 pmol of the specific primers , 10 ml template - RNA ( 5 mg ) , 0.2 mM dNTPs , 1 ml sterile water , 4 ml56 buffer [ 250 mM Tris/HCl pH 8.3 , 375 mM KCl , 15 mM MgCl 2 , 10 mM DTT , 40 U RNasin and 200 U MMLV reverse transcriptase ( Invitrogen ) ] .
+Relative quantification of the transcript levels of ompW , marA , rob and soxS by real - time RT - PCR ( qRT - PCR ) was performed using the Brilliant II SYBR Green QPCR Master Reagent kit and the Mx3000P detection system ( Stratagene ) .
+16S rRNA levels were used for normalization .
+The qRT - PCR mixture ( 20 ml ) contained 1 ml cDNA template and 120 nM of each primer [ and for the ompW gene , and for the marA gene , and for the soxS gene , and for the rob gene , and and for the 16S rRNA gene ( 16S ) ( Table 2 ) ] .
+The qRT - PCR was performed under the following conditions : 10 min at 95 uC , followed by 40 cycles of 30 s at 95 uC , 45 s at 53 uC and 30 s at 72 uC , followed by a melting cycle from 53 to 95 uC to check for amplification specificity .
+A standard quantification curve with serial dilutions of RT - PCR products was constructed for each gene to calculate the amplification efficiency .
+These values were used to obtain the ratio between the gene of interest and the expression of the 16S rRNA gene as described by Pfaffl ( 2001 ) .
+All experiments were performed in three biological and technical replicates .
+Briefly , E. coli BL21 cells harbouring plasmid pET - TOPO - soxS or marA were grown in 500 ml LB - medium supplemented with - ampicillin ( 100 mg ml 21 ) to OD 600 ~ 0.4 and protein overexpression was carried out by adding 1 mM IPTG with further growth for 6 h. His - tagged SoxS and MarA used in EMSAs were purified as previously described ( Collao et al. , 2012 ) .
+Immunoblotting using an anti - FLAG M2 mAb ( Sigma ) detected a 36FLAG - containing fusion protein .
+Strains carrying the epitope - tagged construct were grown at 37 uC with shaking to OD 600 ~ 0.4 .
+The culture was split into two 10 ml aliquots , one of which was incubated with 50 mM menadione .
+Cultures were 718 Microbiology 159 MarA and SoxS regulate ompW expression grown at 37 uC and after 20 min of exposure cells were centrifuged at 10 000 g for 3 min .
+Bacterial pellets were suspended in 100 mM Tris / HCl ( pH 8.0 ) and subjected to three rounds of sonication of 30 s each .
+After centrifuging at 13 000 g for 5 min , the pelleted material was subjected to SDS - PAGE and size - separated proteins were electroblotted onto nitrocellulose membranes , incubated with anti- FLAG antibody M2 ( 1 : 1000 dilution ) upon which the FLAG epitope was detected with peroxidase - conjugated anti - mouse IgG and peroxidase activity .
+Construction of transcriptional - fusions with the reporter gene lacZ .
+The native ompW promoter region from positions +1 to2600 ( with respect to the translation start site ) was amplified by PCR with primers and using genomic DNA from S. enterica serovar Typhimurium as a template ( strain 14028s ) .
+The restriction sites ( KpnIandHindIII , respectively ) at the ends of the DNA fragment were introduced by the PCR primers ( underlined sequences in Table 2 ) and were digested with the corresponding enzymes .
+The digested PCR product was cloned into the MCS of the b - galactosidase reporter vector pLacZ - Basic ( GenBank accession no .
+U13184 ) ( Clontech ) , generating plasmid pompW - lacZ .
+To generate plasmids pMutA - lacZ , pMutB - lacZ and pMutC - lacZ , primers -600 Fw with , or and with , or ( Table 2 ) were used to generate overlapping PCR products spanning the whole length of the ompW promoter .
+The PCR was performed under the following conditions : 5 min at 95 uC , followed by 10 cycles of 30 s at 94 uC , 30 s at 40 uC and2minat72uC , followed by 10 cycles of 30 s at 94 uC , 30 s at 45 uCand2minat72uC , and 20 cycles of 30 s at 94 uC , 30 s at 50 uC and2minat72uC , and a final extension of 10 min at 72 uC .
+The resulting PCR products were used as templates in a second reaction with primers and +1 Rv to generate the mutated ompW promoter , which was digested and cloned into the MCS of plasmid pLacZ - Basic .
+PCR conditions were 10 min at 95 uC , followed by 30 cycles of 30 s at 95 uC , 30 s at 55 uCand1minat72uC , and a final extension of 10 min at 72 uC .
+Mutation of other sites was generated the same way , generating plasmids pMutAB - lacZ , pMutAC - lacZ , pMutBC - lacZ and pMutABC - lacZ .
+Constructions were confirmed by DNA sequencing .
+The constructs were transformed into strain 14028s .
+To evaluate activity , cells at OD 600 ~ 0.4 weregrownfor20mininthepresenceof50mM menadione .
+Control cells received no treatment .
+b - Galactosidase activity was determined as previously described by Gil et al. ( 2007 ) .
+To study protein binding to the promoter region of ompW , a non - radioactive EMSA was performed according to the protocol described by De la Cruz et al. ( 2007 ) .
+The probes were obtained by PCR using specific primers and +1 Rv to amplify the promoter region of ompW ( 600 bp ) and pOmpW with pOmpW ( Table 2 ) for the negative control encompassing the coding region of ompW ( 130 bp ) .
+The PCR was performed under the following conditions : 10 min at 95 uC , followed by 30 cycles of 30 s at 95 uC , 30 s at 55 uC and 1 min at 72 uC , and a final extension of 10 min at 72 uC .
+PCR products used in EMSAs with mutations in the mar/sox/rob boxes A , B and C were generated using primers -600 Fw and +1 Rv , and plasmids pMutAB - lacZ , pMutAC - lacZ , pMutBC - lacZ and pMutABC - lacZ as templates .
+Both the promoter region and the negative control ( ~ 2 ng ml 21 ) were mixed with increasing amounts of purified MarA or SoxS in the presence of binding buffer [ 20 mM HEPES , 100 mM KCl , 2 mM MgCl 2 , 0.1 mM EDTA , 20 % ( v/v ) glycerol ] .
+The mixture was incubated for 30 min at room temperature and loaded on a native 6 % polyacrylamide gel in 0.56 Tris/borate -- EDTA buffer .
+The DNA bands were visualized by ethidium bromide staining on a UV transilluminator .
+All primers used in this work were designed using the Vector NTI 10 Software .
+RESULTS ompW is positively regulated after menadione treatment In order to evaluate the effect of menadione on the expression of ompW , we analysed the transcript levels in a S. enterica serovar Typhimurium wild - type strain treated with the toxic compound .
+As shown in Fig. 1 ( a ) , ompW transcript levels were increased ( 20.22 ± 1.70 fold changes ) as compared with control untreated cells .
+To correlate the changes in the levels of transcripts with the gene product OmpW ( ~ 21 kDa ) and evaluate possible post - transcriptional regulation , we constructed translational fusions in the wild - type strain and evaluated their levels as described in Methods .
+In agreement with qRT - PCR analysis , OmpW levels were increased as compared with those of untreated cells ( Fig. 1b ) .
+ompW is positively regulated by MarA and SoxS We previously demonstrated that SoxS positively regulates ompW in response to paraquat ( Gil et al. , 2009 ) .
+Since MarA , SoxS and Rob co - regulate several genes ( Martin & Rosner , 2002 ) , we evaluated ompW transcript levels in the different genetic backgrounds by qRT - PCR after exposure to menadione .
+As shown in Fig. 2a , b , in strains DmarA and DsoxS the transcript levels were decreased after exposure to menadione ( 0.27 ± 0.08 and 0.17 ± 0.01 fold changes , respectively , versus a 20 - fold increase in wild - type cells exposed to the toxic compound ) .
+In contrast , in the rob mutant strain they were upregulated to similar levels as those found in the wild - type strain after the treatment ( 11.42 ± 0.52 fold change , Fig .
+S1a , available with the online version of this paper ) .
+As expected , in trans complementation of strains DmarA and DsoxS restored Relative transcript levels ( a ) ompW ( b ) OmpW - 3 × FLAG 25 *** Control Menadione 20 15 10 5 0 Control Menadione 14028s Fig. 1 .
+Effect of menadione on OmpW in S. enterica serovar Typhimurium 14028s .
+Exponentially growing cells were exposed to menadione ( 50 mM ) for 20 min .
+Controls received no treatment .
+( a ) qRT - PCR was used to analyse ompW transcript levels from strain 14028s .
+Values are means ± SD .
+Experiments were repeated three times and asterisks represent significant differences between control and treated cells ( *** P ,0.001 ) .
+( b ) OmpW - 3 3/4 FLAG protein was detected by Western blotting .
+Each lane was loaded with 10 mg total protein .
+Experiments were repeated three times and a representative result is shown .
+http://mic.sgmjournals.org 719 B. Collao and others ( a ) Relative transcript levels ( b ) Relative transcript levels ( c ) 20 15 10 5 0 20 15 10 5 0 ** *** Control Menadione Control Menadione Control Menadione Control marA *** *** Menadione marA ompW - 3 × FLAG marA/pBR322 Control Menadione Control Menadione *** marA / pBR322 - marA *** Control Menadione Control Menadione soxS soxS / soxS / pBR322 pBR322 - soxS soxS ompW - 3 × FLAG Fig. 2 .
+Effect of menadione on OmpW expression in S. enterica serovar Typhimurium DmarA and DsoxS strains .
+Exponentially growing cells were exposed to menadione ( 50 mM ) for 20 min .
+Controls received no treatment .
+ompW transcripts were detected by qRT - PCR in a marA mutant , DmarA , genetically complemented strain DmarA/pBR322 - marA and a strain carrying the empty vector , DmarA/pBR322 ( a ) , and in a soxS mutant , DsoxS , genetically complemented strain DsoxS/pBR322 - soxS and a strain carrying the empty vector , DsoxS/pBR322 ( b ) .
+Experiments were repeated three times and asterisks represent significant differences between control and treated cells for each strain .
+Values are means ± SD ( ** P ¡ 0.05 , *** P ¡ 0.001 ) .
+( c ) OmpW - 3 3/4 FLAG protein was detected in a DmarA : : FRT ompW - 3 3/4 FLAG and DsoxS : : FRT ompW - 3 3/4 FLAG strain .
+Each lane was loaded with 10 mg total protein .
+Experiments were repeated three times and a representative result is shown .
+the positive regulation observed in the wild - type strain ( Fig. 2a , b ) .
+To further confirm our result , we generated translational fusions of ompW in the DmarA and DsoxS genetic backgrounds and determined the protein levels by performing a Western blot .
+As shown in Fig S1 ( a ) , the positive regulation observed in the wild - type strain after menadione treatment was retained in the Drob strain ( Fig S1b ) , while in DmarA and DsoxS strains it was abolished ( Fig. 2a -- c ) .
+Taken together , qRT - PCR and Western blot analyses suggest that MarA and SoxS are required to positively regulate ompW in response to menadione , while Rob is not involved in this response .
+MarA and SoxS bind to the ompW promoter region To evaluate if the regulation of ompW by MarA and SoxS was due to a direct interaction , we performed EMSAs to determine if the purified proteins were able to bind to its promoter region .
+The bioinformatic analysis predicted the presence of three putative mar/sox/rob boxes ( Fig. 3a ) , two novel ones named MS - A and MS - B , in addition to the previously identified SoxS - binding site ( MS - C ) described by Gil et al. ( 2009 ) .
+All three binding sites presented the two characteristic elements described at marsox boxes , CWA and the highly conserved GCAY ( Li & Demple , 1994 ) , which are required for the stability of the interaction and for protein binding , respectively ( Li & Demple , 1996 ) .
+To confirm the interactions , we performed EMSAs using a PCR product spanning the promoter region from positions 2600 to +1 with respect to the transcription start site , with increasing concentrations of purified MarA or SoxS .
+As a negative control , a PCR product that included a region from +1 to +130 of ompW was used .
+Both MarA and SoxS were able to bind to the wild - type promoter ( Fig. 3c , d ) , although at different concentrations .
+MarA generated a change in the electrophoretic mobility at a concentration of 100 nM , while SoxS required 400 nM ( Fig. 3c , d , respectively , fragment A ) .
+Mutation of the GCAY element to AAAY ( Fig. 3a ) in the three predicted boxes required doubling of the amount of both MarA and SoxS to generate a shift in the electrophoretic mobility as compared with that of the wild - type promoter , while mutating MS - A and MS - C together completely abolished the interaction with both proteins ( Fragments F and H , Fig. 3c , d ) , suggesting that they are required for binding in - vitro .
+The promoter region of ompW has two functional marsox boxes To determine which marsox boxes were functional in - vivo , we constructed transcriptional - fusions of the ompW promoter region with the fragments used for EMSAs , schematized in Fig. 3 ( a ) .
+The different constructs were transformed into strain 14028s and b - galactosidase activity was measured .
+All activities were compared with that of 720 Microbiology 159 MarA and SoxS regulate ompW expression ( a ) ( b ) -- 600 -- 300 -- 250 -- 200 MUTA MUTC MS - A MS - C ( Gil et al. , 2009 ) P MS - B MUTB -- 150 -- 100 -- 50 WT MUTA MUTB MUTC MUTAB MUTAC MUTBC ( A ) ( B ) ( C ) ( D ) ( E ) ( F ) ( G ) MUTABC ( H ) ompW +1 +130 Miller units ( mg protein ) -- 1 1000 800 600 400 200 0 *** C M C M A B *** C M C M C D C M E C M F C M G C M H ( c ) MarA ( d ) SoxS 0 50 - 100200 400 0 50 - 100200 400 0 50 - 100200 400 0 50 - 100 - 200 - 400 0 0.2 0.4 0.8 1.6 0 0.2 0.4 0.8 1.6 0 0.2 0.4 0.8 1.6 0 0.2 0.4 0.8 1.6 * * * * * * * * ( A ) ( B ) ( C ) ( D ) NC NC NC NC ( A ) ( B ) ( C ) ( D ) NC NC NC NC 0 50 - 100 - 200 - 400 0 50 - 100 - 200400 0 50 - 100200 400 0 50 - 100 - 200 - 400 0 0.2 0.4 0.8 1.6 0 0.2 0.4 0.8 1.6 0 0.2 0.4 0.8 1.6 0 0.2 0.4 0.8 1.6 * * * * ( F ) ( F ) ( G ) ( H ) NC NC NC NC ( E ) ( F ) ( G ) ( H ) NC NC NC NC Fig. 3 .
+Evaluation of the binding of MarA and SoxS at the ompW promoter and functionality of the marsox boxes .
+( a ) Schematic representation of marsox boxes MS - A ( black ) , MS - B ( grey ) and MS - C ( white ) , and substitutions generated at the ompW promoter ( native and substituted bases are in upper case ) .
+Marsox boxes are represented by rectangles .
+The absence of a rectangle in the construct represents a mutation of the corresponding binding site .
+Letters A -- H identify the constructs .
+( b ) Expression of the wild - type and mutagenized regulatory region of ompW in S. enterica serovar Typhimurium .
+The constructs A -- H are shown .
+Cells were grown to OD 600 ~ 0.4 and treated with 50 mM menadione ( M ) for 20 min and b - galactosidase activity was measured .
+Controls ( C ) received no treatment .
+Values represent the means ± SD of three independent experiments ( *** P ¡ 0.001 ) .
+( c ) and ( d ) EMSA using increasing concentrations of MarA ( nM ) or SoxS ( mm ) , respectively , with fragments A -- H indicated .
+The interactions were resolved by native PAGE ( 6 % ) .
+Bands were visualized by ethidium bromide staining .
+Asterisks indicate DNA -- protein interaction .
+strain 14028s with the wild - type construct ( A ) .
+Cells containing the wild - type promoter ( A ) or MS - B mutated ( C ) showed a twofold increase in b - galactosidase activity after exposure to the toxic compound ( Fig. 3b ) , indicating that MS - B is dispensable for ompW upregulation by MarA and SoxS in response to menadione .
+However , individually mutating MS - A and MS - C or mutating both together resulted in no regulation after exposure to the toxic compound ( Fig. 3b , fragments B , D , E , F , G and H ) , indicating that both sites are required for the positive regulation by MarA and SoxS in strain 14028s , results which are in agreement with those from EMSAs .
+Both MarA and SoxS are required for ompW positive regulation To determine whether MarA and SoxS individually regulated ompW in response to menadione or if they were both required , we generated a double DmarA soxS strain and measured ompW transcript levels in the presence or absence of menadione .
+As observed in the individual mutants , ompW levels remained decreased in the DmarA soxS strain after treatment with the toxic compound ( 0.29 ± 0.05 fold change , Fig. 4 ) .
+When the double mutant strain was complemented in trans with a plasmid carrying http://mic.sgmjournals.org 721 B. Collao and others Relative transcript levels 10 8 6 4 2 0 C M ΔmarA soxS ** C M C M C M ΔmarA soxS / ΔmarA soxS / ΔmarA soxS / pBR322 - marA pBR322 - soxS DNA probe ( Fig. 3b , fragment C ) , suggesting that the affinity of SoxS for the promoter region of ompW increases in the presence of MarA .
+In agreement with this , using a constant amount of SoxS ( 0.8 mM ) and increasing amounts of MarA ( 33 -- 200 nM ) resulted in a similar shift with a higher molecular mass to that observed for the individual proteins ( Fig. 5b ) .
+As observed for SoxS , lower levels of MarA were required to form the high - molecular - mass complex ( 100 nM ) than when the protein was incubated alone with the ompW promoter ( 200 nM ) , suggesting the same increased affinity for the promoter region as observed in the case of SoxS .
+Taken together , our results indicate that both MarA and SoxS are required to positively regulate ompW and that they cooperatively bind to the promoter region .
+Requirement for MarA and SoxS for ompW positive regulation .
+ompW transcript levels were measured in a double marA soxS mutant strain , individually complemented ( DmarA soxS / pBR322 - marA and DmarA soxS/pBR322 - soxS ) and complemented with both genes ( DmarA soxS/pBR322 - marA soxS ) .
+Exponentially growing cells were exposed to menadione ( 50 mM ) for 20 min .
+Controls received no treatment .
+Experiments were repeated three times and asterisks represent statistically significant differences between the control and treated cells for each strain ( ** P ¡ 0.005 ) ; values are means ± SD .
+C , control ; M , menadione .
+the S. enterica serovar Typhimurium soxS or marA gene ( DmarA soxS/pB322 - soxS and DmarA soxS/pB322 - marA , respectively ) , the transcript levels remained decreased after menadione treatment ( 0.354 ± 0.1 and 0.314 ± 0.06 fold change , respectively , Fig. 4 ) .
+In contrast , when the double mutant strain was complemented with a plasmid coding for both marA and soxS ( DmarA soxS/pB322 - marA soxS ) , the positive regulation was partially restored to levels similar to those observed in the wild - type strain exposed to menadione ( 6.81 ± 1.13 fold change , Fig. 4 ) , indicating that both MarA and SoxS are required for positive regulation .
+MarA and SoxS work cooperatively Since both MarA and SoxS were required to positively regulate ompW , we hypothesized that the two proteins might act cooperatively .
+To evaluate this possibility , we performed EMSAs with the ompW promoter mutated at MS - B ( fragment C , Fig. 3a ) , constant amounts of either MarA ( Fig. 5a ) or SoxS ( Fig. 5b ) , and increasing amounts of the corresponding counterpart .
+When MarA remained constant ( 200 nM ) , adding increasing amounts of SoxS , from 0.0125 to 0.8 mM , resulted in a shift to a higher molecular mass than that generated by the individual proteins ( Fig. 5a ) .
+Interestingly , even at the lower concentrations of SoxS ( 0.0125 mM ) the high - molecularmass complex was observed , while incubating with SoxS alone required 0.4 mM to produce a shift using the same DISCUSSION The OmpW protein is an immunogenic 22 kDa ( Jalajakumari & Manning , 1990 ) minor porin and has been related to osmoprotection ( Hu et al. , 2005 ) , the efflux and resistance towards paraquat ( Gil et al. , 2009 ) and the influx of hydrogen - peroxide and hypochlorous acid ( Morales et al. , 2012 ) .
+It is regulated by diverse environmental conditions including temperature , salinity , nutrient availability , oxygen levels ( Nandi et al. , 2005 ) , paraquat ( Gil et al. , 2009 ) and reactive oxygen species ( Morales et al. , 2012 ) , among others , and is differentially regulated at the transcriptional level by FNR ( anaerobiosis ) , ArcA ( H 2 O 2 and NaOCl ) and SoxS ( paraquat ) ( Bouchal et al. , 2010 ; Morales et al. , 2012 ; Gil et al. , 2009 ) .
+In this work , we demonstrate that both SoxS and MarA , whose response overlap and together co - regulate over 40 genes ( Aono et al. , 1998 ; Martin et al. , 1999 , 2000 ; Martin & Rosner , 2002 ) , were required for the positive regulation of ompW after menadione treatment ( Figs 2 and 4 ) .
+Consistent with this , both transcription factors are upregulated in response to the toxic compound ( Fig S2 ) , and SoxS is required to regulate ompW in response to paraquat ( Gil et al. , 2009 ) .
+Our results indicate that there are two functional mar/sox boxes that are required for the positive regulation in response to menadione ( Fig. 3 ) .
+These sites are located approximately 100 nt upstream from the ArcA - binding site ( from 270 to 255 ) , required for the negative regulation in response to H 2 O 2 and NaOCl ( Morales et al. , 2012 ) .
+This suggests that under the assayed conditions , ArcA is not active , since , as observed in the presence of NaOCl , when ArcA , MarA and SoxS are present , ompW is negatively regulated .
+It is plausible to speculate that under those conditions ArcA could bind to the 235 element and impede binding of the sigma factor , explaining why , although both MarA and SoxS are present , ompW is negatively regulated .
+In contrast , in response to menadione ArcA could be inactive , allowing MarA and SoxS to exert their regulation , although this has not been evaluated .
+722 Microbiology 159 MarA and SoxS regulate ompW expression ( a ) SoxS MarA SoxS -- -- 0.0125 0.025 0.05 0.1 0.2 0.4 0.8 0.8 ( µM ) MarA -- -- 0.033 0.66 0.125 0.25 0.5 0.1 0.2 0.2 MarA -- 0.2 0.2 0.2 0.2 0.2 0.2 0.2 0.2 -- ( µM ) SoxS -- 0.8 0.8 0.8 0.8 0.8 0.8 0.8 0.8 -- MarA/SoxS/DNA complex SoxS -- DNA complex SoxS -- DNA complex ( b ) ( µM ) ( µM ) MarA/SoxS/DNA complex MarA -- DNA complex MarA -- DNA complex B B Fig. 5 .
+Interaction of MarA and SoxS at the ompW promoter region .
+Constant concentrations of purified MarA ( a ) or SoxS ( b ) were incubated with increasing concentrations of SoxS or MarA , respectively , and the wild - type promoter of ompW ( fragment B ) .
+The interactions were resolved by native PAGE ( 6 % ) .
+Bands were visualized by ethidium bromide staining .
+The different DNA -- protein complexes are indicated .
+Our results indicate that Rob is not involved in the regulation of ompW ( Fig .
+S1 ) , indicating that it is regulated in a different manner as compared with other genes that are members of the extensively studied mar/sox/rob regulon , like tolC in E. coli , which is positively regulated by all of them in response to salicylate , paraquat and 2,29 - dipyridyl ( Zhang et al. , 2008 ) .
+In addition , previous work indicates that rob is repressed by MarA due to steric hindrance and in E. coli SoxS modulates its expression in response to paraquat ( McMurry & Levy , 2010 ; Michán et al. , 2002 ) .
+Furthermore , studies in S. enterica serovar Typhimurium showed that the transcript and protein levels of marA and soxS are increased , while those of rob are lowered in a wild - type strain treated with sodium hypochlorite ( Collao et al. , 2012 ) , suggesting a similar mechanism .
+To investigate the mechanism by which MarA and SoxS regulate ompW , we performed EMSAs and used transcriptional fusions of the promoter region ( Figs 3 and 5 ) .
+Our results indicate that both proteins are required for positive regulation and that they act in a cooperative manner ( Figs 4 and 5 ) .
+In this context , several reports provide evidence that two transcription factors work cooperatively in response to the same signal , as in Vibrio vulnificus , where the nan operon is negatively regulated by CRP and NanR in the presence of N - acetylmannosamine 6 - phosphate ( Kim et al. , 2011 ) .
+Also , in E. coli CRP requires the presence of RhaR to efficiently activate rhaSR in - vivo in response to L - rhamnose ( Wickstrum et al. , 2005 ) .
+Similarly , studies in Haemophilus influenzae suggest that CRP and SiaR regulate their respective operators by simultaneously binding to an intergenic region between nan and siaPT , where SiaR functions as both a repressor and activator , using glucosamine - 6-phosphate as a co - activator , and interacts with CRP to regulate these divergent promoters ( Johnston et al. , 2010 ) .
+Furthermore , in Myxococcus xanthus MrPC2 and FruA bind cooperatively to three sites at the fmgE promoter region , and it has been proposed that one site is necessary to recruit MrpC2 and FruA to the promoter , while the other two are required to activate it ( Son et al. , 2011 ) .
+However , most of these studies mainly show that the effect on the target genes is synergic .
+In contrast , our results indicate that MarA and SoxS are required to positively modulate ompW expression ( Figs 4 and 5 ) .
+To our knowledge , this is the first report demonstrating such an effect .
+Further studies addressing whether this is a common feature of regulation of gene expression by MarA and SoxS , novel targets subject to similar regulation , and the mechanism by which these proteins interact are under examination in our laboratory .
+ACKNOWLEDGEMENTS This work was financed by Fondo Nacional de Desarrollo Científico y Tecnológico ( FONDECYT ) grant no. 1120384 to C. P. S .
+The work of B. C. and E. H. M. was supported by Doctoral fellowships granted by the Commission Nacional de Investigación Cientifica y Tecnológica ( CONICYT ) .
+Additionally , the work of B. C. and E. H. M. was supported by grants from the Universidad Andres Bello ( DI - 19 - 12 / I and DI - 24 - 12 / I , respectively ) .
+The authors wish to thank Dr Guido Mora [ Universidad Andres Bello ( UNAB ) , Chile ] for providing strain 14028s .
+Aono , R. , Tsukagoshi , N. & Yamamoto , M. ( 1998 ) .
+Involvement of outer membrane protein TolC , a possible member of the mar -- sox regulon , in maintenance and improvement of organic solvent tolerance of Escherichia coli K - 12 .
+Benz , R. & Bauer , K. ( 1988 ) .
+Permeation of hydrophilic molecules through the outer membrane of Gram - negative bacteria .
+Review on bacterial porins .
+Bouchal , P. , Struhárová , I. , Budinská , E. , Sedo , O. , Vyhlídalová , T. , Zdráhal , Z. , van Spanning , R. & Kucera , I. ( 2010 ) .
+Unraveling an FNR based regulatory circuit in Paracoccus denitrificans using a proteomics - based approach .
+http://mic.sgmjournals.org 723 B. Collao and others Chatfield , S. N. , Dorman , C. J. , Hayward , C. & Dougan , G. ( 1991 ) .
+Role of ompR - dependent genes in Salmonella typhimurium virulence : mutants deficient in both OmpC and OmpF are attenuated in - vivo .
+Chollet , R. , Bollet , C. , Chevalier , J. , Malléa , M. , Pagès , J. - M .
+& Davin - Regli , A. ( 2002 ) .
+mar Operon involved in multidrug resistance of Enterobacter aerogenes .
+Chollet , R. , Chevalier , J. , Bollet , C. , Pages , J. - M .
+RamA is an alternate activator of the multidrug resistance cascade in Enterobacter aerogenes .
+Collao , B. , Morales , E. H. , Gil , F. , Polanco , R. , Calderón , I. L. & Saavedra , C. P. ( 2012 ) .
+Differential expression of the transcription factors MarA , Rob , and SoxS of Salmonella Typhimurium in response to sodium hypochlorite : down - regulation of rob by MarA and SoxS .
+De la Cruz , M. A. , Fernández - Mora , M. , Guadarrama , C. , Flores - Valdez , M. A. , Bustamante , V. H. , Vázquez , A. & Calva , E. ( 2007 ) .
+LeuO antagonizes H - NS and StpA - dependent repression in Salmonella enterica ompS1 .
+Ebel - Tsipis , J. , Fox , M. S. & Botstein , D. ( 1972 ) .
+Generalized transduction by bacteriophage P22 in Salmonella typhimurium .
+Mechanism of integration of transducing DNA .
+Fujikawa , M. , Kobayashi , K. & Kozawa , T. ( 2012 ) .
+Direct oxidation of the [ 2Fe -- 2S ] cluster in SoxR protein by superoxide : distinct differential sensitivity to superoxide - mediated signal transduction .
+Gil , F. , Ipinza , F. , Fuentes , J. , Fumeron , R. , Villarreal , J. M. , Aspée , A. , Mora , G. C. , Vásquez , C. C. & Saavedra , C. ( 2007 ) .
+The ompW ( porin ) gene mediates methyl viologen ( paraquat ) efflux in Salmonella enterica serovar typhimurium .
+Gil , F. , Hernández - Lucas , I. , Polanco , R. , Pacheco , N. , Collao , B. , Villarreal , J. M. , Nardocci , G. , Calva , E. & Saavedra , C. P. ( 2009 ) .
+SoxS regulates the expression of the Salmonella enterica serovar Typhimurium ompW gene .
+Giró , M. , Carrillo , N. & Krapp , A. R. ( 2006 ) .
+Glucose - 6-phosphate dehydrogenase and ferredoxin - NADP ( H ) reductase contribute to damage repair during the soxRS response of Escherichia coli .
+Greenberg , J. T. , Monach , P. A. , Chou , J. H. , Josephy , P. D. & Demple , B. ( 1990 ) .
+Positive control of a global antioxidant defense regulon activated by superoxide - generating agents in Escherichia coli .
+Proc Natl Acad Sci U S A 87 , 6181 -- 6185 .
+Groisman , E. A. & Ochman , H. ( 1994 ) .
+How to become a pathogen .
+Gu , M. & Imlay , J. A. ( 2011 ) .
+The SoxRS response of Escherichia coli is directly activated by redox - cycling drugs rather than by superoxide .
+Hassan , H. M. & Fridovich , I. ( 1979 ) .
+Paraquat and Escherichia coli .
+Mechanism of production of extracellular superoxide radical .
+Hong , H. , Patel , D. R. , Tamm , L. K. & van den Berg , B. ( 2006 ) .
+The outer membrane protein OmpW forms an eight - stranded b - barrel with a hydrophobic channel .
+Hu , W. S. , Li , P. C. & Cheng , C. Y. ( 2005 ) .
+Correlation between ceftriaxone resistance of Salmonella enterica serovar Typhimurium and expression of outer membrane proteins OmpW and Ail/OmpXlike protein , which are regulated by BaeR of a two - component system .
+Cellular defenses against superoxide and hydrogen peroxide .
+Jair , K. W. , Martin , R. G. , Rosner , J. L. , Fujita , N. , Ishihama , A. & Wolf , R. E. , Jr ( 1995 ) .
+Purification and regulatory properties of MarA protein , a transcriptional activator of Escherichia coli multiple antibiotic and superoxide resistance promoters .
+Jair , K. W. , Yu , X. , Skarstad , K. , Thöny , B. , Fujita , N. , Ishihama , A. & Wolf , R. E. , Jr ( 1996 ) .
+Transcriptional activation of promoters of the superoxide and multiple antibiotic resistance regulons by Rob , a binding protein of the Escherichia coli origin of chromosomal replication .
+Jalajakumari , M. B. & Manning , P. A. ( 1990 ) .
+Nucleotide sequence of the gene , ompW , encoding a 22kDa immunogenic outer membrane protein of Vibrio cholerae .
+Jeanteur , D. , Lakey , J. H. & Pattus , F. ( 1991 ) .
+The bacterial porin superfamily : sequence alignment and structure prediction .
+Johnston , J. W. , Shamsulddin , H. , Miller , A. - F .
+& Apicella , M. A. ( 2010 ) .
+Sialic acid transport and catabolism are cooperatively regulated by SiaR and CRP in nontypeable Haemophilus influenza .
+Kato , T. , Watanabe , M. & Ohta , T. ( 1994 ) .
+Induction of the SOS response and mutations by reactive oxygen - generating compounds in various Escherichia coli mutants defective in the mutM , mutY or soxRS loci .
+Kim , B. S. , Hwang , J. , Kim , M. H. & Choi , S. H. ( 2011 ) .
+Cooperative regulation of the Vibrio vulnificus nan gene cluster by NanR protein , cAMP receptor protein , and N - acetylmannosamine 6 - phosphate .
+Koebnik , R. , Locher , K. P. & Van Gelder , P. ( 2000 ) .
+Structure and function of bacterial outer membrane proteins : barrels in a nutshell .
+Krapp , A. R. , Humbert , M. V. & Carrillo , N. ( 2011 ) .
+The soxRS response of Escherichia coli can be induced in the absence of oxidative - stress and oxygen by modulation of NADPH content .
+Kwon , H. J. , Bennik , M. H. , Demple , B. & Ellenberger , T. ( 2000 ) .
+Crystal structure of the Escherichia coli Rob transcription factor in complex with DNA .
+Lee , P. E. , Demple , B. & Barton , J. K. ( 2009 ) .
+DNA - mediated redox signaling for transcriptional activation of SoxR .
+Proc Natl Acad Sci USA106 , 13164 -- 13168 .
+Li , Z. & Demple , B. ( 1994 ) .
+SoxS , an activator of superoxide stress genes in Escherichia coli .
+Purification and interaction with DNA .
+Li , Z. & Demple , B. ( 1996 ) .
+Sequence specificity for DNA binding by Escherichia coli SoxS and Rob proteins .
+Martin , R. G. & Rosner , J. L. ( 2002 ) .
+Genomics of the marA/soxS/rob regulon of Escherichia coli : identification of directly activated promoters by application of molecular genetics and informatics to microarray data .
+Martin , R. G. , Gillette , W. K. , Rhee , S. & Rosner , J. L. ( 1999 ) .
+Structural requirements for marbox function in transcriptional activation of mar/sox/rob regulon promoters in Escherichia coli : sequence , orientation and spatial relationship to the core promoter .
+Martin , R. G. , Gillette , W. K. & Rosner , J. L. ( 2000 ) .
+Promoter discrimination by the related transcriptional activators MarA and SoxS : differential regulation by differential binding .
+Martin , R. G. , Bartlett , E. S. , Rosner , J. L. & Wall , M. E. ( 2008 ) .
+Activation of the Escherichia coli marA/soxS/rob regulon in response to transcriptional activator concentration .
+724 Microbiology 159 MarA and SoxS regulate ompW expression McMurry , L. M. & Levy , S. B. ( 2010 ) .
+Evidence that regulatory protein MarA of Escherichia coli represses rob by steric hindrance .
+Michán , C. , Manchado , M. & Pueyo , C. ( 2002 ) .
+SoxRS downregulation of rob transcription .
+Morales , E. H. , Calderón , I. L. , Collao , B. , Gil , F. , Porwollik , S. , McClelland , M. & Saavedra , C. P. ( 2012 ) .
+Hypochlorous acid and hydrogen - peroxide - induced negative regulation of Salmonella enterica serovar Typhimurium ompW by the response regulator ArcA .
+Isolation and characterization of methyl viologensensitive mutants of Escherichia coli K - 12 .
+Nandi , B. , Nandy , R. K. , Sarkar , A. & Ghose , A. C. ( 2005 ) .
+Structural features , properties and regulation of the outer - membrane protein W ( OmpW ) of Vibrio cholerae .
+Multidrug efflux pumps of Gram - negative bacteria .
+A new mathematical model for relative quantification in real - time RT - PCR .
+Nucleic Acids Res 29 , e45 .
+Pomposiello , P. J. , Bennik , M. H. & Demple , B. ( 2001 ) .
+Genome - wide transcriptional profiling of the Escherichia coli responses to superoxide stress and sodium salicylate .
+Rodríguez - Morales , O. , Fernández - Mora , M. , Hernández - Lucas , I. , Vázquez , A. , Puente , J. L. & Calva , E. ( 2006 ) .
+Salmonella enterica serovar Typhimurium ompS1 and ompS2 mutants are attenuated for virulence in mice .
+Oxidative stress responses -- what have genome - scale studies taught us ?
+Selke , M. , Meens , J. , Springer , S. , Frank , R. & Gerlach , G. F. ( 2007 ) .
+Immunization of pigs to prevent disease in humans : construction and protective efficacy of a Salmonella enterica serovar Typhimurium live negative - marker vaccine .
+Semchyshyn , H. , Bagnyukova , T. , Storey , K. & Lushchak , V. ( 2005 ) .
+Hydrogen peroxide increases the activities of soxRS regulon enzymes and the levels of oxidized proteins and lipids in Escherichia coli .
+Son , B. , Liu , Y. & Kroos , L. ( 2011 ) .
+Combinatorial regulation by MrpC2 and FruA involves three sites in the fmgE promoter region during Myxococcus xanthus development .
+Storz , G. & Imlay , J. A. ( 1999 ) .
+Tobes , R. & Ramos , J. L. ( 2002 ) .
+AraC -- XylS database : a family of positive transcriptional regulators in bacteria .
+Vasil ' eva , S. V. , Stupakova , M. V. , Lobysheva , I. I. , Mikoyan , V. D. & Vanin , A. F. ( 2001 ) .
+Activation of the Escherichia coli SoxRS - regulon by nitric - oxide and its physiological donors .
+Weiss , M. S. , Abele , U. , Weckesser , J. , Welte , W. , Schiltz , E. & Schulz , G. E. ( 1991 ) .
+Molecular architecture and electrostatic properties of a bacterial porin .
+Wickstrum , J. R. , Santangelo , T. J. & Egan , S. M. ( 2005 ) .
+Cyclic AMP receptor protein and RhaR synergistically activate transcription from the L - rhamnose - responsive rhaSR promoter in Escherichia coli .
+Xu , C. , Wang , S. , Ren , H. , Lin , X. , Wu , L. & Peng , X. ( 2005 ) .
+Proteomic analysis on the expression of outer membrane proteins of Vibrio alginolyticus at different sodium concentrations .
+Zgurskaya , H. I. & Nikaido , H. ( 2000 ) .
+Multidrug resistance mechanisms : drug efflux across two membranes .
+Zhang , A. , Rosner , J. L. & Martin , R. G. ( 2008 ) .
+Transcriptional activation by MarA , SoxS and Rob of two tolC promoters using one binding site : a complex promoter configuration for tolC in Escherichia coli .

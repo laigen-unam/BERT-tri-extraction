@@ -1,0 +1,320 @@
+JOURNAL OF BACTERIOLOGY , June 2002 , p. 3151 -- 3158 Vol .
+184 , No. 12 0021 - 9193/02 / $ 04.00 0 DOI : 10.1128 / JB .184.12.3151 -- 3158.2002 Regulation of Salmonella enterica Serovar Typhimurium mntH Transcription by H 2 O 2 , Fe 2 , and Mn 2 David G. Kehres , 1 * Anu Janakiraman , 2 James M. Slauch , 2,3 and Michael E. Maguire 1 Department of Pharmacology , School of Medicine , Case Western Reserve University , Cleveland , Ohio , 1 and Department of Microbiology 2 and College of Medicine , 3 University of Illinois , Champaign , Illinois MntH , a bacterial homolog of mammalian natural resistance associated macrophage protein 1 ( Nramp1 ) , is a primary transporter for Mn 2 influx in Salmonella enterica serovar Typhimurium and Escherichia coli .
+S. enterica serovar Typhimurium MntH contributes to H 2 O 2 resistance and is important for full virulence .
+Consistent with its phenotype and function , mntH is regulated at the transcriptional level by both H 2 O 2 and substrate cation .
+We have now identified three trans - acting regulatory factors and the three corresponding cis - acting mntH promoter motifs that mediate this regulation .
+In the presence of hydrogen - peroxide , mntH is activated by OxyR , acting through an OxyR - binding motif centered just upstream of the likely 35 RNA polymerase - binding site .
+In the presence of Fe 2 , mntH is repressed primarily by Fur , acting through a Fur - binding motif overlapping the 35 region .
+In the presence of Mn 2 , mntH is repressed primarily by the Salmonella equivalent of E. coli b0817 , a distant homolog of the Bacillus subtilis manganese transport repressor , MntR , acting through an inverted - repeat motif located between the likely 10 polymerase binding site and the ribosome binding site .
+E. coli b0817 was recently shown to bind the identical inverted - repeat motif in the E. coli mntH promoter and hence has been renamed MntR ( S. I. Patzer and K. Hantke , J. Bacteriol .
+Using fur , mntR , and fur mntR mutant strains as well as mutations in the Fur - and MntR - binding motif elements , we found that Fe 2 can also mediate repression through the Mn 2 repressor MntR .
+Nramp1 , the product of the ity/bcg/lsh locus in the mouse , is the type member of a protein family now found throughout the domains Eucarya and Bacteria ( 7 ) , with putative homologs recently identified in some members of the domain Archaea ( 23 ) .
+Nramp1 proteins confer `` natural resistance '' to phylogenetically and antigenically diverse microbial pathogens , exemplified in the mouse resistance to Salmonella enterica serovar Typhimurium , Mycobacterium bovis , and Leishmania donovani .
+Nramp1 is expressed strongly in macrophages and neutrophils and is recruited to the phagosomal membrane following phagocytosis .
+It is an electrogenic divalent cation transporter like its biochemically characterized homolog Nramp2 .
+Its substrate specificity has not yet been fully detailed , but direct evidence that it can transport Fe 2 has recently been published ( 15 ) to complement previous indirect data that it can transport both Fe 2 and Mn 2 ( 4 , 22 , 25 ) .
+Like Nramp2 , it is energized by the proton gradient ( 15 , 18 ) .
+The few bacterial Nramp homologs biochemically characterized all appear to transport Mn 2 and have been named MntH .
+Derepression of Bacillus subtilis MntH increases sensitivity to growth inhibition by Mn 2 ( 35 ) .
+Mn 2 inhibits Ni 2 uptake in Xenopus laevis oocytes transfected with the Mycobacterium tuberculosis MntH homolog , Mramp ( 1 ) .
+Direct 54 Mn 2 and 55 Fe 2 uptake studies have shown that Escherichia coli ( 24 , 27 ) and S. enterica serovar Typhimurium ( 24 ) MntH proteins transport both metals .
+However , kinetic analysis further showed that MntH is highly selective for Mn 2 under physiological conditions and contributes little or nothing to School of Medicine , Case Western Reserve University , 10900 Euclid Ave. , Cleveland , OH 44106 - 4965 .
+Collectively these findings suggest that Mn 2 is of general importance in both free - living and pathogenic bacteria .
+This hypothesis is supported by the findings that MntH contributes to H 2 O 2 resistance in both E. coli and S. enterica serovar Typhimurium , that S. enterica serovar Typhimurium mntH is induced upon entry into murine macrophages , and that S. enterica serovar Typhimurium MntH function is required for full virulence even in BALB/c mice which are themselves functionally Nramp1 / ( 24 ) .
+Certain metal - dependent growth phenotypes are also affected by mutation of the E. coli mntH locus ( 27 ) .
+Clues to the physiological importance of Mn 2 in S. enterica serovar Typhimurium can be found by examining how its uptake and homeostasis are regulated .
+In our initial mntH characterization ( 24 ) we noted that addition of peroxide or starvation for a divalent cation ( but not generation of an intracellular superoxide radical ) regulated mntH expression .
+Consistent with these phenotypic data , we noted strong candidate OxyRand Fur - binding sequence motifs in the mntH promoter region , as well as a striking inverted repeat between the putative 10 and ribosome binding sites .
+We have now confirmed the identities of three trans - acting factors and three corresponding cis - acting DNA motifs which mediate H 2 O 2 and metal responses .
+While additional regulators of S. enterica serovar Typhimurium Mn 2 transport likely remain to be discovered , these results provide an initial baseline for understanding mntH expression .
+MATERIALS AND METHODS Construction of cis - acting DNA mutations in the mntH promoter .
+Four mntH : : lacZ reporter plasmids were used in this study .
+pMLZ104 contains the wild - type mntH promoter .
+pDGK261 , pDGK262 , and pDGK263 are identical to pMLZ104 except for block substitution mutations in the OxyR - , Fur - , and MntR - 3151 3152 KEHRES ET AL. .
+Wild - type and mutant candidate cis - acting motifs in the mntH promoter .
+Proximal regions of the mntH promoters from S. enterica serovar Typhimurium ( 24 ) , E. coli ( 24 , 27 ) , and Y. pestis ( 5 ) were aligned and compared to consensus motifs for OxyR ( 40 ) and Fur ( 2 , 9 ) .
+The S. enterica serovar Typhimurium and E. coli mntH promoters both have a candidate OxyR - binding site upstream of the predicted 35 region and a candidate Fur - binding site overlapping and extending downstream of the 35 region .
+Also highlighted is an inverted - repeat motif between the predicted 10 region and the ribosome binding site ( RBS ) of the mntH coding region .
+Of these three motifs , only a putative Fur - binding site is readily discernible in the Y. pestis mntH promoter .
+Below these motifs are lines indicating the substitutions made in the three cis - acting S. enterica serovar Typhimurium promoter mutants used in this study , pDGK261 , pDGK262 , and pDGK263 .
+Identical nucleotides in the three promoter regions ( asterisks ) , novel restriction sites introduced between motifs or within block substitutions ( described in Materials and Methods ) ( bases in bold italic type ) , and isopositional sequences from the bacteriophage P22 P ant promoter ( bases in lightface roman type ) are indicated .
+As some substituted bases fortuitously matched those found in the wild - type S. enterica serovar Typhimurium mntH promoter , the bases actually changed in pDGK261 , pDGK262 , and pDGK263 are underlined .
+In the consensus OxyR - binding motif the bases shown in lowercase type are common but not completely conserved bases at these sites ( 38 ) .
+pMLZ104 ( 24 ) is derived from mini - F plasmid pFZY1 and places transcription of lacZYA under the control of an EcoRI - HindIII fragment encompassing the 120 bp of nupC encoding the N terminus of the product , the 342 - bp nupC - mntH intragenic region , and the 308 bp of mntH encoding the N terminus of the product .
+Block substitutions into putative cisacting elements were derived from the bacteriophage P22 P ant promoter by PCR as described below .
+All primer sequences are available from the authors upon request .
+Initially , a high - copy - number plasmid pDGK247 , in which three novel restriction sites were created between suspected mntH promoter motifs , was constructed .
+An upstream KpnI - SalI piece of the insert was amplified from pMLZ104 's high - copy - number precursor , pDGK227 ( 24 ) , with sense primer DK133 and antisense mutagenic primer DK134 and ligated into pBluescript II SK ( ) to yield pDGK246 .
+Then a downstream SalI - SacI piece of the insert was amplified from pDGK227 with sense mutagenic primer DK135 and antisense primer DK136 and ligated into the corresponding sites of pDGK246 to create pDGK247 containing a full - length EcoRI - HindIII insert bearing novel SphI , SalI , and BamHI sites .
+Responses of this modified promoter to all trans - acting factors were identical to that of the wild - type promoter .
+Motif mutants were made by PCR mutagenesis of pDGK247 by block substitutions of the three desired motifs .
+Since the P ant promoter of bacteriophage P22 ( GenBank accession no .
+X01916 ) has similarly spaced 35 , 10 , ribosome binding , and translation start sites and since no endogenous S. enterica serovar Typhimurium transcription factors are known or suspected to bind in the region ( 16 ) , motifs in the mntH promoter were replaced with equal lengths of isopositional sequence from P ant with two modifications .
+First , in changing the Fur - binding motif , which overlaps the 35 RNA polymerase binding region , the native mntH 35 hexamer was conserved .
+Second , to facilitate identification of the mutations once they were back in a singlecopy vector , a 1 - or 2 - bp change was introduced in the P ant sequence to incorporate a distinct novel restriction enzyme site in each mutant .
+Basal activities of all three cis - acting motif mutants were somewhat lower than that of wild type as measured by mntH : : lacZ activity following overnight growth in M9 - glucose with no added H 2 O 2 or inhibitory cation .
+These basal activities were , however , independent of strain background ( trans - acting factor mutations ) ; thus it was possible to normalize activity in any given assay to the relevant basal activity in the absence of any additives to the culture .
+Upstream modified T7 primer DK146 and mutagenic antisense primer DK143 yielded an EcoRI - SphI fragment upon digestion , which was substituted back into pDGK247 to yield pDGK251 , in which the suspected OxyR - binding motif of the mntH promoter was replaced an by equal - length isopositional P ant sequence containing a novel diagnostic XbaI site .
+Mutagenic sense primer DK144 and downstream modified T3 primer DK147 yielded an SphI - HindIII fragment upon digestion , which was substituted back into pDGK247 to yield pDGK252 , in which the suspected Fur - binding motif of the mntH promoter was replaced by an equal - length isopositional P ant sequence containing a diagnostic SacI site .
+Upstream modified T7 primer DK146 and mutagenic antisense primer DK150 yielded an EcoRI - BamHI fragment upon digestion , which was substituted back into pDGK247 to yield pDGK253 to replace the suspected MntR - binding motif by an equal - length isopositional P ant sequence containing a novel diagnostic KpnI site .
+To make the final block substitution reporter constructs , the EcoRI - HindIII insert in pMLZ104 was replaced by the EcoRI - HindIII inserts from pDGK251 , pDGK252 , and pDGK253 to yield pDGK261 , pDGK262 , and pDGK263 , respectively .
+Mutations were confirmed on the basis of XbaI , SacI , and KpnI digestion patterns , respectively , followed by the sequencing of the entire promoter region .
+The specific mutant sequences obtained after the P ant substitutions are shown in Fig. 1 .
+Construction of trans - acting element mutations and double - mutant strains .
+Strains MM2211 ( JA4023 ) , bearing an oxyR : : Tn10 insertion mutation , and MM2212 ( JA3199 ) , bearing the zbf - 5126 : : Tn10 fur - 9 mutations , were obtained from J. Foster , while strains MM2625 ( JS219 ) , bearing the fur41 : : kan deletion mutation , and MM2626 ( JS220 ) , bearing the mntR51 : : cam deletion mutation were made by the method of Datsenko and Wanner ( 11 ) .
+Mutant alleles were transferred into the SL1344 strain background by P22 transduction by standard methods .
+Subsequently , P22 transduction was also used to construct strains carrying mutations in the various combinations of cis - and trans - acting factors ( Table 1 ) .
+Growth and treatment of cells for transcription - reporter - assays .
+S. enterica serovar Typhimurium SL1344 strains bearing the desired chromosomal mutation and reporter plasmid were grown aerobically overnight at 37 °C from 7 % glycerol frozen stocks in Luria - Bertani medium .
+The medium contained 50 g of ampicillin/ml to maintain the reporter plasmid and 50 g of kanamycin/ml or 25 g of chloramphenicol/ml depending on the marker carried by the chromosomal insertion .
+Overnight cultures were washed twice and resuspended at an optical density at 600 nm ( OD 600 ) of 0.5 to 1.5 in M9 salts ( 6.4 g of Na 2 HPO 4 · 7H 2 O , VOL .
+184 , 2002 REGULATION OF S. ENTERICA SEROVAR TYPHIMURIUM mntH 3153 TABLE 1 .
+15 g of anhydrous KH 2 PO 4 , 2.5 g of NaCl , and 5gofNH 4 Cl per liter ) supplemented with 1 mM MgSO 4 and 0.0021 % ( wt/vol ) histidine ( since SL1344 is a histidine auxotroph ) .
+Unless otherwise specified , the term M9 refers to this Mg 2 - and histidine - supplemented medium .
+For H 2 O 2 challenge experiments , M9 - washed cells were diluted to an OD 600 of 0.020 in the same medium supplemented with 0.2 % ( wt/vol ) glucose and 50 g of ampicillin/ml , grown at 37 °C to an OD 600 of 0.2 to 0.3 either aerobically ( with shaking at 225 rpm ) or `` microaerobically '' ( full , tightly capped tubes without agitation ) , and then treated with H 2 O 2 that was freshly diluted into sterile H 2 O from 3 or 30 % stocks .
+For metal repression experiments , M9 - washed cells were diluted to an OD 600 of 0.020 in M9 medium supplemented with 0.2 % ( wt/vol ) glucose , 50 g of ampicillin/ml , and the desired concentration of metal and grown for 18 to 24 h overnight at 37 °C toanOD 600 of 0.9 to 1.5 .
+Aliquots of cells were subjected to colorimetric - galactosidase activity assays using o - nitrophenyl - - D - galactopyranoside as the substrate in accordance with standard methods .
+Activity is expressed in Miller units , defined as 1,000 times the scattering - corrected OD 420 per OD 600 of cells per minute .
+RESULTS Sequence of the mntH promoter .
+Genomic sequence inspection suggests that mntH is a stand - alone transcriptional unit in many - proteobacteria .
+S. enterica serovar Typhimurium , E. coli , and Yersinia pestis share a gene arrangement in which mntH and the nucleoside permease gene , nupC , are transcribed divergently with approximately 300 bp separating the two open reading frames ( 25 ) .
+The available partial genomic sequence indicates , by contrast , that the mntH and nupC genes of Klebsiella pneumoniae ( Klebsiella pneumoniae Genome Server , http://genome.wustl.edu/gsc/Projects/K.pneumoniae , 2002 ) are unlinked .
+When the nupC - mntH intragenic sequences from the first three organisms are aligned and regions corresponding to documented nupC cis - acting elements are excluded from consideration ( 10 ) , about 100 to 150 bp remains .
+This presumably contains the entire mntH promoter , as experiments with the wild - type gene and a gene controlled only by 150 bp 5 to the coding sequence show the same activity ( data not shown ) .
+Inspection and computer predictions identify likely 35 and 10 RNA polymerase binding sites and a reasonable Shine - Dalgarno ribosome binding site ( Fig. 1 ) .
+With the knowledge that H 2 O 2 and EDTA each induce E. coli and S. enterica serovar Typhimurium mntH , plausible candidate OxyR - and Fur - binding motifs can readily be discerned in these two promoters ( Fig. 1 ) .
+Also evident in these promoters ( but not in that of Y. pestis ) is a perfect 9 - bp inverted repeat separated by a 4 - bp spacer , located between the 10 and Shine - Dalgarno sites .
+Repression of mntH transcription by transition - metals .
+Wild - type reporter strain MM2507 ( S. enterica serovar Typhimurium SL1344 bearing plasmid pMLZ104 ) was grown aerobically overnight at 37 °C in M9 - 0.2 % glucose -- 50 g of ampicillin/ml containing the sulfate or chloride - salts of various divalent first - row transition - metals at a concentration of 10 or 100 M as indicated .
+The - galactosidase activity of saturated cultures ( OD 600 of 1.0 to 1.5 ) was normalized to that of a culture containing no added metal ( about 300 Miller units ) .
+Results represent the means and standard errors of two to five independent experiments in each case .
+Behavior of the wild - type mntH promoter .
+To define wildtype expression , we used a previously constructed transcriptional fusion of a truncated mntH gene to a promoterless lacZYA operon on a nominally single - copy plasmid ( mini - F replication origin ) transformed into wild - type S. enterica serovar Typhimurium SL1344 ( 24 ) .
+Since the chromosomal mntH locus remains intact in this system , reporter transcription should reflect wild - type physiology .
+There is no evidence for posttranscriptional regulation of mntH , and MntH ( like LacZ ) appears stable because bacteria stored at 4 °C retain their initial 54 Mn 2 transport capacity for several days ( data not shown ) .
+Consequently , LacZ protein content and activity should faithfully reflect MntH content and activity .
+The wild - type reporter expressed significantly more LacZ in minimal - medium ( M9 - glucose ) than in complex medium ( Luria - Bertani medium ) , and activity was greatest during late log phase and the transition to stationary - phase .
+Whether this involves more than the interplay of the peroxide and metal regulators described below remains to be determined although , since identical responses were obtained in S. enterica serovar Typhimurium LT2 , which lacks a functional rpoS , RpoS regulation is unlikely to be significant ( data not shown ) .
+For the purposes of this study , however , it had two practical consequences .
+First , since there was negligible expression in early - log - phase cells , we used early - log - phase cultures growing in M9 - glucose to evaluate activation by H 2 O 2 or EDTA .
+Second , since both growth and LacZ activity were reproducible in wild - type cultures grown to saturation , we grew cells overnight in M9 - glucose to evaluate repression by cations .
+Baseline metal repression behavior for the wild - type mntH : : lacZ fusion shown in Fig. 2 and the dose - response curves of Fig. 4 indicate that Mn 2 and Fe 2 are the most potent repressors of mntH transcription .
+Co 2 can also repress but only at higher concentrations , while significant repression by 100 MNi 2 , Cu 2 , or Zn 2 was not observed ( Fig. 2 ) .
+Concentrations of divalent FIG. 3 .
+Activation of mntH transcription by H 2 O 2 .
+Cultures were grown at 37 °C in M9 with 0.2 % glucose and 50 g of ampicillin/ml to an OD 600 of 0.3 , when they were supplemented with 100 M H 2 O 2 .
+- Galactosidase activity was determined at different times following H 2 O 2 challenge .
+The response of the wild - type strain/promoter combination ( MM2507 ) is compared to that of a strain in which the OxyRbinding motif of the mntH : : lacZYA reporter is mutated ( MM2616 ) and to that of a strain in which the OxyR protein is mutated ( MM2529 ) .
+Data shown here are for cells grown microaerobically ( see Materials and Methods ) .
+A similar pattern was seen in cells grown aerobically , except that maximal induced - galactosidase activity was three - to fivefold lower for each strain .
+Results are the means and standard errors of three independent experiments .
+metals Mg 2 and Ca 2 , monovalent metals Na and K , and the osmolite choline - chloride could be varied between 0 and 100 mM with no effect on mntH : : lacZ expression ( data not shown ) .
+To evaluate cis - acting promoter elements , we constructed block substitution mutants lacking individual putative binding motifs .
+The replacement sequence ( Fig. 1 ) was derived from the P ant promoter of bacteriophage P22 since its 35 , 10 , and Shine - Dalgarno elements are spaced similarly to those of mntH and since no endogenous S. enterica serovar Typhimurium transcription factors appear to influence ant transcriptional activity ( 15 ) .
+To evaluate trans - acting regulatory factors , we obtained or constructed S. enterica serovar Typhimurium SL1344 derivatives ( Table 1 ) bearing defined mutations in OxyR , Fur , and MntR .
+MntR is b0817 in Blattner E. coli notation ( 6 ) .
+OxyR mediates H 2 O 2 activation of mntH .
+The wild - type promoter can be induced during log - phase growth by addition of H 2 O 2 .
+The time course for activation by 100 M H 2 O 2 in an early - log - phase microaerobic culture ( see Materials and Methods ) is shown in Fig. 3 .
+The response began within 5 min ( data not shown ) and was transient , consistent with expectations that H 2 O 2 is rapidly degraded .
+Activation was greatly muted by mutation of the OxyR - binding motif and was eliminated entirely in an oxyR mutant strain .
+Thus the mntH response to peroxide is almost completely mediated by OxyR .
+The slight residual activation may be a response to some downstream metabolite or an alternative but less efficacious response to peroxide itself .
+Further , mntH expression in the absence of exogenous peroxide was equivalently low and at the limit of detection during either microaerobic or aerobic - growth ( data VOL .
+184 , 2002 REGULATION OF S. ENTERICA SEROVAR TYPHIMURIUM mntH 3155 not shown ) .
+In contrast to peroxide activation , superoxide has no effect on mntH expression as shown previously ( 24 ) .
+Fur mediates Fe 2 repression of mntH .
+EDTA ( 100 M ) induced mntH when added to rapidly growing cells but not when added to less rapidly growing cells , suggesting that mntH is repressed by one or more divalent cations ( 24 ) .
+As no chelator is sufficiently selective to deplete a single transition - metal from a solution , we identified specific regulatory cations and specific cellular response pathways in this study by means of `` add - back '' experiments .
+Expression of mntH in overnight M9 - glucose cultures was substantial and was not affected by pretreatment of the medium with a chelator such as Chelex ( data not shown ) but could be potently inhibited by addition of Mn 2 and Fe 2 .
+The most prominent Fe 2 - and Mn 2 - dependent regulator in the enterobacteria is Fur .
+Since a plausible Fur - binding motif is apparent in the mntH promoter , cis - and trans - acting Fur - mutants were evaluated in add - back experiments with each metal .
+While the wild - type mntH : : lacZ reporter was strongly repressed by addition of Fe 2 at concentrations of 1 M or greater , this repression was diminished but not eliminated when either the Fur protein or the Fur - binding motif in the promoter or both were mutated ( Fig. 4A ) .
+The fur - 9 allele expresses a Fur containing a point mutation that eliminates the response to Fe 2 or Mn 2 , but the fur - 9 allele still regulates some promoters in response to acid ( 13 ) .
+Overnight expression of the wild - type mntH promoter showed less than a twofold dependence on the pH of the growth medium between pH 6.4 and 8.0 ; moreover , the pattern was identical in the wild - type , fur - 9 , and Fur null strain backgrounds ( data not shown ) .
+Thus both the Fur protein and the Fur - binding motif are involved in Fe 2 - dependent , but not in acid - dependent , regulation of mntH .
+In contrast , addition of Mn 2 to these same strains elicited essentially the same response , i.e. , full repression , from the wild - type system , the Fur protein mutant , the Fur - binding motif mutant , and the double mutant ( Fig. 4B ) .
+Therefore , the primary effect of Mn 2 on mntH is not mediated through Fur .
+The weaker inhibition of mntH expression by Co 2 , by contrast , appears to be mediated entirely via Fur ( data not shown ) .
+The inverted - repeat motif and MntR mediate Mn 2 repression of mntH .
+We noted that a distant homolog of the B. subtilis Mn 2 transport repressor , MntR , was present in S. enterica serovar Typhimurium and was homologous to the protein encoded by the E. coli b0817 locus .
+We hypothesized that S. enterica serovar Typhimurium `` MntR '' was likely the transacting factor that bound at the inverted - repeat motif in the mntH promoter that we had previously noted ( 24 ) .
+Patzer and Hantke recently showed that the E. coli b0817 gene product bound to the identical inverted - repeat motif in the E. coli mntH promoter ( 34 ) .
+Consequently , this locus has been named mntR .
+Experiments equivalent to those with the Fur protein and Fur - binding motif mutants were performed with an MntR protein mutant and an inverted - repeat motif ( MntR - binding motif ) mutant , respectively .
+The results ( Fig. 4D ) indicate that the MntR regulatory circuit is clearly the principal mediator of Mn 2 repression .
+While the wild - type mntH : : lacZ reporter was strongly repressed by addition of Mn 2 at concentrations of 0.3 M or greater , the dose - response curve for Mn 2 was shifted to the right when the MntR protein was mutated .
+Repression by Mn 2 was completely eliminated when the MntR - binding FIG. 4 .
+Control of iron and manganese repression by Fur and MntR .
+Cultures were grown overnight in M9 - 0.2 % glucose -- 50 g of ampicillin/ml with no added metal , with 10 M MnSO 4 , or with 10 M FeSO 4 .
+For each strain the - galactosidase activity of metal - challenged cultures was normalized to that of the same strain grown in the absence of added metal .
+Results are the means and standard errors of two to five independent experiments .
+( A ) Fe 2 repression dose - response curves comparing the wild - type strain/promoter combination ( MM2507 ) to strains bearing a mutated Fur protein ( MM2646 ) , a mutated Fur - binding motif ( MM2617 ) , or both ( MM2762 ) .
+( B ) Mn 2 repression dose - response curves for the same four strains as in panel A. ( C ) Fe 2 repression dose - response curves comparing the wild - type strain/promoter combination ( MM2507 ) to strains bearing a mutated MntR protein ( MM2645 ) , a mutated MntR - binding motif ( MM2618 ) , or both ( MM2760 ) .
+( D ) Mn 2 repression dose - response curves for the same four strains as in panel C. ( E ) Fe 2 repression dose - response curves comparing the wild - type strain/promoter combination ( MM2507 ) to strains bearing a mutated Fur protein and a mutated MntR protein ( MM2654 ) , a mutated Fur protein and a mutated MntR - binding motif ( MM2763 ) , or a mutated MntR protein and a mutated Fur - binding motif ( MM2759 ) .
+( F ) Mn 2 repression doseresponse curves for the same four strains as in panel E. motif or both the MntR protein and the MntR - binding motif were mutated .
+Fe 2 repression was not altered by elimination of the MntR protein and was only minimally shifted to the right by elimination of the MntR - binding motif or both the MntR protein and MntR - binding motif ( Fig. 4C ) .
+Fur and MntR account for all cation repression .
+The data shown in Fig. 4A to D indicate that Fe 2 repression is not completely abolished by any mutation in the Fur regulatory 3156 KEHRES ET AL. .
+Occurrence of H 2 O 2 activation and metal repression in the same culture .
+Three cultures of MM2507 , containing wild - type forms of all three trans - acting factors and cis - acting motifs , were grown microaerobically at 37 °C in M9 - 0.2 % glucose -- 50 g of ampicillin/ml with no added metal , with 10 M MnSO 4 , or with 10 M FeSO 4 .
+Atan OD 600 of 0.3 each culture was supplemented with 100 M H 2 O 2 and - galactosidase activity was determined at different times following H 2 O 2 challenge .
+The cultures were then allowed to grow overnight to saturation ( OD 600 of 1.0 to 1.5 ) , and - galactosidase activity was determined again .
+The data show that H 2 O 2 activation still occurs even if 10 M MnSO 4 or 10 M FeSO 4 was present ( A ) and that manganese and iron repression still occurs even if the cells had been previously challenged with H 2 O 2 ( B ) .
+Note the different scales for - galactosidase activity in the two panels .
+In contrast , Mn 2 repression is completely abolished by mutation of the MntR - binding motif but only partially abolished by mutation of the MntR protein .
+This suggests that S. enterica serovar Typhimurium can compensate for the loss of either individual regulatory circuit .
+We therefore examined Fe 2 and Mn 2 repression in strains where both regulatory circuits were disrupted ( Fig. 4E and F ) .
+Three combinations were tested : a mutant Fur protein combined with a mutant MntR protein , a mutant Fur protein combined with a mutant MntR - binding motif , and a mutant Fur - binding motif combined with a mutant MntR protein .
+Repression by Fe 2 or Mn 2 was completely abolished in all three cases even at concentrations on the threshold of growth inhibition ( 100 M ) .
+Thus , Fur and MntR regulation is sufficient to account for all observed cation regulatory effects .
+Hydrogen peroxide activation is independent of metal repression .
+We observed that Fe 2 and Mn 2 still repressed mntH : : lacZ when OxyR regulation was inactivated by a cis - or trans - acting mutation .
+Likewise , H 2 O 2 still activated mntH : : lacZ when either the Fur or MntR systems had been inactivated by a cis - ortrans - acting mutation ( data not shown ) .
+This suggested that metal repression and peroxide activation are substantially independent responses .
+To determine whether Fe 2 and Mn 2 repression and H 2 O 2 activation of mntH are coupled , the wild - type strain and promoter system were subjected to both metal and H 2 O 2 challenge in the same culture .
+Fe 2 and Mn 2 repressed overnight accumulation of LacZ to comparable extents in wild - type cells whether or not they had been challenged with 100 MH 2 O 2 in early log phase ( Fig. 5B ) , while in the complementary experiment H 2 O 2 activated mntH in wild - type cells in early log phase even if 10 M Fe 2 or Mn 2 had been included in the medium to repress mntH ( Fig. 5A ) .
+DISCUSSION S. enterica serovar Typhimurium mntH is controlled by at least three transcription factors with distinguishable binding sites and roles : OxyR , Fur , and MntR .
+In agreement with the data of Patzer and Hantke ( 34 ) , there is no evidence for metal regulation other than by Mn 2 and Fe 2 acting through MntR and Fur .
+As the data in this report demonstrate , however , regulation is more than the sum of three factors functioning independently .
+In terms of metal repression , our results differ somewhat from those of Patzer and Hantke regarding the E. coli mntH gene ( 34 ) .
+These authors interpreted their data to indicate that Fur and MntR are strictly specific for Fe 2 and Mn 2 , respectively , in E. coli .
+In contrast , in S. enterica serovar Typhimurium , we see significant Fe 2 repression when either component of the Fur regulatory circuit has been disrupted ( Fig. 4A ) , but only when the MntR circuit is intact .
+This residual repression is completely inhibited by disruption of the MntR regulatory circuit ( Fig. 4F ) .
+The simplest interpretation is that Fe 2 also stimulates repressive binding of MntR to the MntR - binding motif , albeit with a poorer overall affinity than Mn 2 .
+While the difference between the results for E. coli and S. enterica serovar Typhimurium could simply be due to a species difference , there are at least two reasons why Fe 2 regulation through the MntR circuit might not have been observed in the E. coli studies .
+First , Fe 2 repression via the MntR circuit alone produces somewhat different dose - response curves than Fe 2 repression through the Fur circuit alone ( Fig. 4A and C ) ; the E. coli studies examined only a single cation concentration .
+Second and more importantly , the reporter systems used in these two studies differ significantly .
+In E. coli the mntH : : lacZ reporter was a chromosomal insertion which inactivated the mntH gene .
+Altered Mn 2 homeostasis resulting from loss of a primary uptake transporter could alter regulatory patterns .
+In contrast , our S. enterica serovar Typhimurium results were obtained by using a nominally single - copy or low - copy - number plasmid reporter in an otherwise wild - type strain , thus maintaining normal Mn 2 and Fe 2 homeostasis and preserving normal regulatory conditions as much as possible .
+Except for slight differences in dose response among the three Fur circuit mutants in Fig. 4A , our data are consistent with the hypothesis that residual Fe 2 repression of mntH in Fur protein and/or Fur - binding motif mutants is straightforward regulation by MntR , acting through the MntR - binding motif using Fe 2 as a cofactor .
+Attributing residual Mn 2 repression to the normal Fur regulatory circuit is more problematic .
+There are extensive previous data that Fur can repress via the Fur - binding motif with Mn 2 as a cofactor ( 8 , 19 , 20 , 31 , 38 ) .
+The Mn 2 repression seen in the MntR protein mutant ( Fig. 4D ) is consistent with these examples .
+However , mutation of the MntR - binding motif alone abolishes Mn 2 repression ( Fig. 4D ) ; hence the possible interaction of a Mn 2 - liganded Fur protein with the Fur - binding motif does not appear to be sufficient to mediate Mn 2 repression .
+Further , mutation of the MntR protein and Fur - binding motif also abolishes Mn 2 repression ( Fig. 4F ) ; hence the Fur protein does not appear to mediate repression by binding to the MntR - binding motif .
+Yet , finally , mutation of both the MntR and Fur proteins also abolishes Mn 2 repression ( Fig. 4F ) , which implies that Fur is the only other trans - acting factor involved .
+The most direct conclusion based on the present data is that residual Mn 2 repression is mediated through the Fur protein , but the cis - acting sequence required for Mn 2 - cofactored Fur to be effective VOL .
+184 , 2002 REGULATION OF S. ENTERICA SEROVAR TYPHIMURIUM mntH 3157 contains elements from both the Fur - and MntR - binding motifs .
+There is the formal possibility that repression involves some other protein which is expressed only in the presence of Fur ; however the same uncertainties as to the cis - acting binding motif apply to it as well .
+Until additional cis - acting mntH promoter mutants are tested , the mechanistic details of Furmediated residual Mn 2 repression of mntH will remain unclear .
+What is clear is that a transporter exclusively dedicated to the uptake of Mn 2 is repressed strongly , via normal Fur regulation , by the minor and physiologically unimportant substrate Fe 2 ( 23a ) .
+What might be the physiological relevance of this regulation ?
+It may be related to the fact that MntH is extraordinarily active when expressed , capable of concentrating submicromolar amounts of extracellular Mn 2 to over 10 mM in the cytoplasm ( 24 ) .
+The iron content of enterobacteria , by contrast , is typically far lower , in the range of a few hundred micromolar ( 21 , 26 , 33 ) , essentially all of it bound to protein .
+Either the [ Mn 2 ] / [ Fe 2 ] ratio or the total content of these two redox - active metals is likely to be under strong homeostatic control .
+It could also be argued that , under some environmental conditions , MntH can mediate physiologically significant amounts of iron uptake .
+However , transport data ( 23a ) suggest that this is highly unlikely in S. enterica serovar Typhimurium .
+It is not surprising that Mn 2 and Fe 2 still repress overnight expression of mntH in cultures that were exposed to H 2 O 2 challenge earlier in their growth .
+Exogenous H 2 O 2 is degraded rapidly after its introduction into culture medium .
+Moreover , the amount of MntH protein ( as well as of catalase and peroxidase proteins ) induced by this transient exposure would be diluted to insignificance by subsequent growth .
+Finally , no mechanism by which cells might be predisposed to resist metal repression many generations after exposure to H 2 O 2 is apparent .
+It is less self - evident , and therefore more interesting , that H 2 O 2 can induce mntH expression when Mn 2 or Fe 2 is present at 10 M in the medium , 10 to 30 times their half - maximal repressive concentrations .
+The possibility that metal repression is somehow inoperative in earlylog - phase cultures seems unlikely .
+A more plausible explanation is that OxyR - mediated activation is configured spatially on the mntH promoter such that it can override both Fur - mediated and MntR - mediated metal repression .
+How this occurs mechanistically , particularly with the MntR - binding motif relatively distant from the OxyR binding site , is an intriguing question .
+Since the 22 - bp inverted repeat has recently been documented as the binding site for the novel MntR regulator ( 34 ) and since we had previously noted a similar motif ( 19 of 22 bp identical ) in the control region of the S. enterica serovar Typhimurium sitABCD operon ( 24 ) , the prevalence of MntR and MntR - regulated genes throughout Bacteria was of interest .
+Extensive queries using BLAST ( 3 ) , including searches for degenerate matches to the inverted - repeat motif , suggest first that close homologs to MntR are restricted to the E. coli and S. enterica lineages with only one ortholog per species and second that MntR regulates only a few genes in any given organism unless its binding site is very degenerate .
+Besides E. coli and S. enterica serovar Typhimurium mntH and S. enterica serovar Typhimurium sitABCD , we have identified only two other strong candidate MntR - regulated transcriptional units .
+One is the mntR locus itself , which has a single copy of the inverted repeat motif in both species ( 18 of 22 bp identical in E. coli , 19 of 22 bp identical in S. enterica serovar Typhimurium ) .
+The second locus is in the presumed promoter region of yebN in each species , whose product is b1821 in Blattner E. coli notation ( 6 ) , which contains two tandem invertedrepeat motifs exhibiting 15 to 18 of 22 bp identical to those of the MntH motif separated by a spacer of 18 or 21 bp .
+The promoter at the mntR locus has not been characterized , but the locus has two intriguing properties .
+First , the MntR - binding motif at the mntR locus lies upstream of a plausible 35 site , such that MntR could either repress or activate transcription .
+Second , the MntR gene stop codon overlaps the start codon of the gene encoding putative membrane protein YbiR , b0818 in Blattner E. coli notation ( 6 ) , whose BLAST hits are annotated variously as carboxylate or arsenate transporters .
+We are investigating the possibility that YbiR mediates the Mn 2 efflux activity that we observed during our characterization of MntH as an Mn 2 uptake protein ( 24 ) .
+If so , this would suggest a model whereby MntR represses two Mn 2 uptake systems and simultaneously activates both itself and the YbiR Mn 2 efflux transporter in the presence of sufficient Mn 2 .
+Most of the bacterial Mn 2 enzymes identified to date function either in stress response or in central energy metabolism .
+Stress Mn 2 enzymes include superoxide dismutase SodA ( 32 , 41 , 42 ) , the newly discovered nonheme - catalase KatN of S. enterica serovar Typhimurium ( 36 ) , and the orthologous protein phosphatases PrpA and PrpB ( 28 , 29 , 39 ) , which modulate repair of envelope - damage in E. coli .
+Metabolic Mn 2 enzymes include ppGpp synthase/hydrolase SpoT , which modulates the bacterial response to amino - acid starvation ( 12 , 30 , 37 ) and phosphoglyceromutase YibO , b3612 in Blattner E. coli notation ( 6 ) , which is regulated distinctly from the 2,3 - bisphosphoglycerate - cofactored GpmA ( 14 , 17 ) and for which a distinctive role is not yet known .
+The overall role of Mn 2 in Salmonella , including its role in both Nramp1 - dependent and Nramp1 - independent aspects of virulence , probably involves the interplay of both stress responses and metabolic adaptability .
+The regulation of mntH , the regulation of a second Mn 2 transporter of S. enterica serovar Typhimurium , encoded by sitABCD ( 23a ) , and the involvement of possible Mn 2 efflux systems will provide clues to the scope and the ultimate significance of Mn 2 in bacterial physiology .
+Understanding OxyR , Fur , and MntR regulation of mntH should enable further regulatory questions to be addressed , particularly questions regarding the sensitivity of mntH expression to growth medium and growth state .
+We thank J. Foster for strains , M. Zaharik and B. Finlay for plasmid pMLZ104 , and Erica Giavasis for performing many - galactosidase assays .
+This work was supported by NIH GM61748 to M.E.M. and grant 00 - 25 from the Roy J. Carver Charitable Trust to J.M.S. 1 .
+Agranoff , D. , I. M. Monahan , J. A. Mangan , P. D. Butcher , and S. Krishna .
+Mycobacterium tuberculosis expresses a novel pH - dependent divalent cation transporter belonging to the Nramp family .
+Althaus , E. W. , C. E. Outten , K. E. Olson , H. Cao , and T. V. O'Halloran .
+The ferric uptake regulation ( Fur ) repressor is a zinc metalloprotein .
+Altschul , S. F. , W. Gish , W. Miller , E. W. Myers , and D. J. Lipman .
+Basic local alignment search tool .
+Atkinson , P. G. , and C. H. Barton .
+Ectopic expression of Nramp1 in COS - 1 cells modulates iron accumulation .
+Bearden , S. W. , and R. D. Perry .
+The Yfe system of Yersinia pestis transports iron and manganese and is required for full virulence of plague .
+Blattner , F. R. , G. Plunkett , C. A. Bloch , N. T. Perna , V. Burland , M. Riley , J. Collado - Vides , J. D. Glasner , C. K. Rode , G. F. Mayhew , J. Gregor , N. W. Davis , H. A. Kirkpatrick , M. A. Goeden , D. J. Rose , B. Mau , and Y. Shao .
+The complete genome sequence of Escherichia coli K - 12 .
+Cellier , M. F. , I. Bergevin , E. Boyer , and E. Richer .
+Polyphyletic origins of bacterial Nramp transporters .
+Compan , I. , and D. Touati .
+Interaction of six global transcription regulators in expression of manganese superoxide dismutase in Escherichia coli K - 12 .
+Coy , M. , and J. B. Neilands .
+Structural dynamics and functional domains of the fur protein .
+Craig , J. E. , Y. Zhang , and M. P. Gallagher .
+Cloning of the nupC gene of Escherichia coli encoding a nucleoside transport system , and identification of an adjacent insertion element , IS186 .
+Datsenko , K. A. , and B. L. Wanner .
+One - step inactivation of chromosomal genes in Escherichia coli K - 12 using PCR products .
+de Boer , H. A. , A. J. Bakker , and M. Gruber .
+Breakdown of ppGpp in spoT and spoT cells of Escherichia coli .
+Manganese and energy requirement and tetracycline inhibition .
+Foster , J. W. , and H. K. Hall .
+Effect of Salmonella typhimurium ferric uptake regulator ( fur ) mutations on iron - and pH - regulated protein synthesis .
+Fraser , H. I. , M. Kvaratskhelia , and M. F. White .
+The two analogous phosphoglycerate mutases of Escherichia coli .
+Goswami , T. , A. Bhattacharjee , P. Babal , S. Searle , E. Moore , M. Li , and J. M. Blackwell .
+Natural - resistance - associated macrophage protein 1 is an H / bivalent cation antiporter .
+Grana , D. , P. Youderian , and M. M. Susskind .
+Mutations that improve the ant promoter of Salmonella phage P22 .
+Grana , X. , P. Perez de la Ossa , C. Broceno , M. Stocker , J. Garriga , P. Puigdomenech , and F. Climent .
+2,3 - Bisphosphoglycerate - independent phosphoglycerate mutase is conserved among different phylogenic kingdoms .
+Gunshin , H. , B. Mackenzie , U. V. Berger , Y. Gunshin , M. F. Romero , W. F. Boron , S. Nussberger , J. L. Gollan , and M. A. Hediger .
+Cloning and characterization of a mammalian proton - coupled metal - ion transporter .
+Binding of the ferric uptake regulation repressor protein ( Fur ) to Mn ( II ) , Fe ( II ) , Co ( II ) , and Cu ( II ) ions as co - repressors : electronic absorption , equilibrium , and 57 Fe Mossbauer studies .
+Hassan , H. M. , and H. C. Sun .
+Regulatory roles of Fnr , Fur , and Arc in expression of manganese - containing superoxide dismutase in Escherichia coli .
+Hudson , A. J. , S. C. Andrews , C. Hawkins , J. M. Williams , M. Izuhara , F. C. Meldrum , S. Mann , P. M. Harrison , and J. R. Guest .
+Overproduction , purification and characterization of the Escherichia coli ferritin .
+Jabado , N. , A. Jankowski , S. Dougaparsad , V. Picard , S. Grinstein , and P. Gros .
+Natural resistance to intracellular infections .
+Natural resistanceassociated macrophage protein 1 ( NRAMP1 ) functions as a pH - dependent manganese transporter at the phagosomal membrane .
+Kawarabayasi , Y. , Y. Hino , H. Horikawa , K. Jin - no , M. Takahashi , M. Sekine , S. Baba , A. Ankai , H. Kosugi , A. Hosoyama , S. Fukui , Y. Nagai , K. Nishijima , R. Otsuka , H. Nakazawa , M. Takamiya , Y. Kato , T. Yoshizawa , T. Tanaka , Y. Kudoh , J. Yamazaki , N. Kushida , A. Oguchi , K. Aoki , S. Masuda , M. Yanagii , M. Nishimura , A. Yamagishi , T. Oshima , and H. Kikuchi .
+Complete genome sequence of an aerobic thermoacidophilic crenarchaeon , Sulfolobus tokodaii strain7 .
+Kehres , D. G. , A. Janakiraman , J. M. Slauch , and M. E. Maguire .
+SitABCD is the alkaline Mn 2 transporter of Salmonella enterica serovar Typhimurium .
+Kehres , D. G. , M. L. Zaharik , B. B. Finlay , and M. E. Maguire .
+The NRAMP proteins of Salmonella typhimurium and Escherichia coli are selective manganese transporters involved in the response to reactive oxygen .
+Kuhn , D. E. , B. D. Baker , W. P. Lafuse , and B. S. Zwilling .
+Differential iron transport into phagosomes isolated from the RAW264 .7 macrophage cell lines transfected with Nramp1Gly169 or Nramp1Asp169 .
+Li , D. S. , K. Ohshima , S. Jiralerspong , M. W. Bojanowski , and M. Pandolfo .
+Knock - out of the cyaY gene in Escherichia coli does not affect cellular iron content and sensitivity to oxidants .
+Makui , H. , E. Roig , S. T. Cole , J. D. Helmann , P. Gros , and M. F. Cellier .
+Identification of the Escherichia coli K - 12 NRAMP orthologue ( MntH ) as a selective divalent metal ion transporter .
+Missiakas , D. , and S. Raina .
+Protein misfolding in the cell envelope of Escherichia coli : New signaling pathways .
+Missiakas , D. , and S. Raina .
+Signal transduction pathways in response to protein misfolding in the extracytoplasmic compartments of E. coli : role of two new phosphoprotein phosphatases PrpA and PrpB .
+Murray , K. D. , and H. Bremer .
+Control of spoT - dependent ppGpp synthesis and degradation in Escherichia coli .
+Nealson , K. H. , and D. Saffarini .
+Iron and manganese in anaerobic respiration : environmental significance , physiology , and regulation .
+Niederhoffer , E. C. , C. M. Naranjo , K. L. Bradley , and J. A. Fee .
+Control of Escherichia coli superoxide dismutase ( sodA and sodB ) genes by the ferric uptake regulation ( fur ) locus .
+Niehaus , F. , K. Hantke , and G. Unden .
+Iron content and FNR - dependent gene regulation in Escherichia coli .
+Patzer , S. I. , and K. Hantke .
+Dual repression by Fe 2 - Fur and Mn 2 - MntR of the mntH gene , encoding an NRAMP - like Mn 2 transporter in Escherichia coli .
+Que , Q. , and J. D. Helmann .
+Manganese homeostasis in Bacillus subtilis is regulated by MntR , a bifunctional regulator related to the diphtheria toxin repressor family of proteins .
+Robbe - Saule , V. , C. Coynault , M. Ibanez - Ruiz , D. Hermant , and F. Norel .
+Identification of a non - haem catalase in Salmonella and its regulation by RpoS ( sigmaS ) .
+Schreiber , G. , E. Z. Ron , and G. Glaser .
+ppGpp - mediated regulation of DNA replication and cell division in Escherichia coli .
+Schrum , L. W. , and H. M. Hassan .
+Transcriptional activation of Mnsuperoxide dismutase gene ( sodA ) ofEscherichia coli by MnCl 2 .
+Shi , L. , D. G. Kehres , and M. E. Maguire .
+The PPP - family protein phosphatases PrpA and PrpB of Salmonella enterica serovar Typhimurium possess distinct biochemical properties .
+Toledano , M. B. , I. Kullik , F. Trinh , P. T. Baird , T. D. Schneider , and G. Storz .
+Redox - dependent shift of OxyR - DNA contacts along an extended DNA - binding site : a mechanism for differential promoter selection .
+Transcriptional and posttranscriptional regulation of manganese superoxide dismutase biosynthesis in Escherichia coli , studied with operon and protein fusions .
+Tsolis , R. M. , A. J. Baumler , and F. Heffron .
+Role of Salmonella typhimurium Mn - superoxide dismutase ( SodA ) in protection against early killing by J774 macrophages .

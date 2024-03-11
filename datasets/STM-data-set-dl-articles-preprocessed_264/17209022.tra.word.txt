@@ -1,0 +1,357 @@
+JOURNAL OF BACTERIOLOGY , Mar. 2007 , p. 2417 -- 2425 Vol .
+189 , No. 6 0021 - 9193/07 / $ 08.00 0 doi : 10.1128 / JB.01277 - 06 CadC Has a Global Translational Effect during Acid Adaptation in Salmonella enterica Serovar Typhimurium Yong Heon Lee , 1 Bae Hoon Kim , 1 Ji Hye Kim , 1 Won Suck Yoon , 1 Seong Ho Bang , 2 and Yong Keun Park 1 * School of Life Sciences and Biotechnology , Korea University , Seoul 136 - 701 , 1 and Department of Biology , Hanseo University , Seosan 356 - 706 , 2 Korea In Salmonella enterica serovar Typhimurium , the membrane - localized CadC is a transcriptional activator of the cadBA operon , which contributes to the acid tolerance response .
+Unlike in Escherichia coli , in which transcription of cadC is constitutive , in S. enterica serovar Typhimurium cadC expression is induced by low pH and lysine .
+Inactivation of cadC suppresses the acid - sensitive phenotype of a cadA mutation , suggesting the existence of other CadC - dependent genes in addition to the cadBA operon .
+Using a proteomic approach , we identified 8 of the putative CadC - induced proteins and 15 of the putative CadC - repressed proteins .
+The former include porin proteins OmpC and OmpF .
+The latter include proteins involved in glycolysis , energy production , and stress tolerance .
+To better understand the altered levels of OmpC and OmpF , we compared expression of ompR in S. enterica serovar Typhimurium wild - type and cadC mutant strains and determined that CadC exerted a negative influence on ompR transcription .
+Taken together , our findings strongly suggest that CadC may be a global regulator involved in the OmpR regulatory system during acid adaptation .
+During the course of infection , Salmonella enterica serovar Typhimurium encounters potentially lethal acidic conditions , such as in the stomach or within the macrophage phagolysosome ( 16 ) .
+Bacterial survival in acidic host environments requires the adaptive acid tolerance response ( ATR ) , in which exposure to mildly acidic conditions promotes survival in subsequent highly acidic environments ( 14 ) .
+Previously , we demonstrated that the cadBA operon is involved in the ATR of S. enterica serovar Typhimurium ( 37 ) .
+The cadBA operon encodes lysine decarboxylase ( CadA ) and lysine - cadaverine antiporter ( CadB ) ; its expression is dependent upon the transcriptional activator CadC , the gene for which is located immediately upstream of the cadBA locus ( 21 , 29 , 30 , 40 , 46 ) .
+Comparative sequence analysis suggests that CadC has three domains : an N - terminal cytoplasmic DNAbinding domain , a central transmembrane domain , and a C - terminal periplasmic domain ( 46 ) .
+Although CadC in S. enterica serovar Typhimurium and Escherichia coli share only 58.4 % identity , hydrophobicity plots and sequence alignment indicate similar structures ( 20 ) .
+CadC acts as both a signal sensor and transcriptional regulator , responding to the low pH and lysine signal by activating transcription of the cadBA operon ( 21 , 29 , 30 , 40 , 46 ) .
+Following induction , CadA catalyzes decarboxylation of lysine to cadaverine , which is excreted through the lysine - cadaverine antiporter CadB , resulting in neutralization of the external pH ( 29 , 46 ) .
+However , the role of S. enterica serovar Typhimurium CadC in the ATR has not yet been investigated .
+Using in - vivo expression technology , in which passage through an animal host enables selection of bacterial genes and Biotechnology , Korea University , Seoul 136 - 701 , Korea .
+Published ahead of print on 5 January 2007 .
+that are induced specifically during infection , S. enterica serovar Typhimurium cadC was shown to be induced in both the small intestines and spleens of BALB/c mice ( 19 ) .
+In addition , microarray analysis demonstrated that expression of S. enterica serovar Typhimurium cadB was upregulated during macrophage infection ( 12 ) .
+The in - vivo induction of CadC suggests that it contributes to survival in specific host tissues , enhancing virulence .
+Although CadC probably plays an important role in the interaction between pathogen and host , little is known about its properties or mode of action .
+We aimed to elucidate the function of S. enterica serovar Typhimurium CadC in the ATR and discovered that it regulates expression of 36 proteins and is related to the OmpR regulatory system .
+Our findings indicate that CadC may function in adaptation to the host environment by regulating other genes either directly or indirectly .
+MATERIALS AND METHODS Bacterial strains , bacteriophages , and growth - conditions .
+The relevant characteristics of the bacterial strains and bacteriophages used in this study are presented in Table 1 .
+Those generated in this study were constructed using suicide vector - mediated gene replacement ( 11 ) and phage P22 - mediated transductions ( 8 ) .
+LB complex medium and Vogel - Bonner E and non - citrate E ( NCE ) minimal media supplemented with 0.4 % glucose were prepared as described previously ( 25 , 45 ) .
+Lysine decarboxylase broth ( 0.5 % peptone , 0.3 % yeast extract , 0.1 % dextrose , 0.5 % L - lysine , and 0.002 % bromcresol purple ) was used for the lysine decarboxylase ( LDC ) assay .
+The following antibiotics were used : ampicillin ( 60 g ml 1 ) , kanamycin ( 50 g ml 1 ) , and tetracycline ( 10 or 20 g ml 1 for minimal or rich media , respectively ) .
+L - Lysine was added to a final concentration of 10 mM .
+Construction of chromosomal cadC and cadA knockout strains .
+The cadC and cadA knockout mutants were constructed using suicide vector - mediated gene replacement ( 11 ) .
+To construct pDMS197 derivatives that contained the sequences up - and downstream of the region to be deleted , PCR amplification was performed using four primers for each strain ( Table 2 ) .
+Recombinant suicide vectors were transferred from E. coli 7213 to S. enterica serovar Typhimurium UK1 ( wild type ) via conjugation .
+Diaminopimelic acid ( 13 g ml 1 ) was added to media for E. coli strain 7213 .
+Salmonella transconjugants containing single - 2417 2418 LEE ET AL. .
+Strain , phage , or plasmid TABLE 1 .
+Bacterial strains , bacteriophages , and plasmids used in this study Relevant characteristics Source or reference S. enterica serovar Typhimurium strains SF530 ( 3761 ) Wild - type UK1 7 JF4484 UK1 putPA1303 : : Kan r - ompR - lacZ ( Op ) 1 YK5001 UK1 cadA This study YK5002 UK1 cadC This study YK5003 UK1 cadC putPA1303 : : Kan r - ompR - lacZ ( Op ) This study E. coli strains DH5 F endA1 recA1 hsdR17 ( r K m K ) supE44 thi - 1 gvrA96 relA1 Gibco - BRL 80dlacZM15 ( lacZYA - argF ) U169 7232 pDMS197 , ( ) DAP a , Tet r 11 7213 ( ) DAP 11 Phages P22HT int 105 Used for generalized transduction 41 H5 P22 c2 mutant 41 Plasmids pGEM - T Easy Multicopy vector for cloning PCR products , Amp r Promega pDMS197 Suicide vector ; oriT oriV sacB , Tet r 11 pDMS197 - CadC pDMS197 containing cadC gene , Tet r This study pDMS197 - CadA pDMS197 containing cadA gene , Tet r This study pMW118 Low - copy - no .
+cloning vector , Amp r Nippon Gene pMW118 - CadC pMW118 with 1.8 - kb DNA fragment containing the promoter region and entire open reading frame of the cadC gene , Amp r This study a DAP , DL - , diaminopimelic - acid .
+crossover plasmid insertions were selected on LB agar containing tetracycline ( 20 g ml 1 ) .
+Subsequently , transconjugants were selected on LB agar containing 5 % sucrose , using sacB - based sucrose sensitivity to identify colonies in which the suicide vector had been lost through a second homologous recombination event ( 17 ) .
+Size comparison of PCR products overlapping the deleted region between the wild type and knockout mutants was used to confirm the presence of deletions .
+Strains were grown in Moeller lysine decarboxylase broth ( Difco ) containing the decarboxylase basal medium supplemented with 0.5 % L - lysine and bromcresol purple indicator .
+One or two colonies were inoculated into fresh culture medium .
+Sterile mineral oil was then added and the culture incubated for 36 h at 37 °C .
+If the dextrose is fermented , the medium turns yellow initially and then purple as the decarboxylase reaction elevates the pH. RNA preparation and Northern blot analysis .
+Total RNAs were isolated as described previously ( 22 ) , with some modifications .
+In brief , cultured cells were collected and resuspended in lysis solution ( 20 mM sodium acetate [ pH 5.5 ] , 1 mM EDTA , 0.5 % sodium dodecyl sulfate [ SDS ] ) .
+The cell lysates were incubated with hot ( 65 °C ) 20 mM sodium acetate ( pH 4.8 ) - saturated phenol for 5 min at 65 °C .
+Phenol extraction was performed until no residue was apparent at the interface .
+RNA was precipitated with 0.1 M KCl and three volumes of ethanol at 20 °C , and following centrifugation , the pellet was resuspended in RNase - free water .
+RNA was separated by denaturing formaldehyde - agarose gel electrophoresis and blotted onto a nylon membrane ( Amersham ) .
+Northern blot analysis was performed using the DNA probes NcadA and NcadC , which were amplified using oligonucleotide primers NcadA1/NcadA2 and NcadC1/NcadC2 , respectively ( Table 2 ) and then labeled randomly using a digoxigenin DNA labeling kit ( Roche ) .
+Following overnight hybridization at 57 °C , blots were washed and signals were visualized using the digoxigenin detection kit ( Roche ) .
+Extension analysis was performed using a 20 - base oligonucleotide ( TScadC [ Table 2 ] ) complementary to the cadC mRNA .
+The primer was end labeled with [ - 32 P ] ATP by using T4 polynucleotide kinase ( Roche ) .
+RNA ( 5 g ) and labeled primers were incubated at 72 °C for 2 min and cooled slowly at room temperature for 1hinorder for the primer to hybridize to the RNA .
+The primer - extension reaction was performed at 37 °C for 90 min in a 20 - l reaction mixture comprising 50 mM Tris - Cl ( pH 8.5 ) , 8 mM MgCl 2 ,30 mM KCl , 1 mM dithiothreitol ( DTT ) , 0.4 pmol of 32 P - labeled primer , 0.5 mM deoxynucleoside triphosphates , 10 U of RNase inhibitor ( Roche ) , and 10 U of avian myeloblastosis virus reverse transcriptase ( Promega ) .
+Remaining RNA was eliminated by a 30 - min incubation with 40 g DNase - free RNase ( Sigma ) .
+Phenol - chloroform extraction was performed on the extension products , followed by ethanol precipitation and resuspension in formamide loading buffer ( 20 mM EDTA , 0.05 % bromophenol blue , 0.05 % xylene cyanol in formamide ) .
+Following denaturation at 90 °C for 2 min , products were separated by denaturing polyacrylamide ( 8 % ) gel electrophoresis .
+Gels were dried and visualized using a phosphorimaging analyzer ( model BAS - 2500 ; Fuji Photo Film ) with Image Reader BAS - 2500 software .
+ATR assays were performed as reported previously ( 24 ) , with some modifications .
+Each test strain was grown overnight in NCE glucose broth and then diluted 1/100 into 3 ml of fresh medium .
+The diluted cultures were grown with aeration to an optical density at 600 nm of 0.40 ( 2 10 8 CFU ml 1 ) , after which cultures destined for adaptation were harvested by centrifugation , and the supernatants removed .
+Cell pellets were resuspended in fresh NCE glucose medium ( pH 4.4 ) containing 10 mM lysine and incubated for 60 min at 37 °C .
+Adapted cultures were harvested , and the cell pellet was resuspended in fresh NCE glucose medium preadjusted to pH 3.0 ( acid shock ) at 37 °C and then incubated for the times indicated .
+Viability of cells was assayed upon resuspension ( t 0 ) and following acid challenge at 60 and 90 min , by preparing serial dilutions in NCE glucose broth ( pH 7.0 ) and plating onto LB agar .
+Plates were incubated overnight at 37 °C and viable cells enumerated .
+Percent survival was calculated by dividing the total number of viable cells at each time point by the initial number of viable cells at t 0 .
+Two - dimensional gel electrophoresis ( 2 - DE ) protein analysis .
+Cells were harvested by centrifugation , washed with 20 mM Tris - Cl buffer ( pH 8.0 ) , and resuspended in lysis buffer -LCB- 0.3 M sucrose , 10 mM EDTA , 20 mM Tris - Cl [ pH 8.0 ] , protease - inhibitor cocktail [ Roche ] , 0.5 mM DTT , 0.1 % 3 - [ ( 3 - cholamidopropyl ) - dimethylammonio ] -1 - propanesulfonate [ CHAPS ] -RCB- , and lysed using 10 ultrasonication treatments of 30 s each .
+Subsequently , cell debris was removed by centrifugation at 15,000 g for 20 min at 4 °C , and the aqueous supernatant was precipitated with trichloroacetic acid in acetone .
+Whole - cell proteins were resuspended in solubilization buffer ( 7 M urea , 2 M thiourea , 2 % CHAPS , 13 mM DTT , protease - inhibitor cocktail , 20 mM Tris - Cl [ pH 8.0 ] ) , and the protein concentration was quantified using the Bio - Rad Bradford protein assay with bovine serum albumin as the standard .
+Isoelectric focusing ( IEF ) was performed with the IPGphor system , using commercial 24 - cm immobilized pH gradient ( IPG ) strips with an immobilized pH 4 to 7 gradient ( Amersham ) .
+Samples ( 50 g ) were diluted in fresh rehydration buffer ( 8 M VOL .
+189 , 2007 GLOBAL REGULATORY ROLE OF CadC 2419 TABLE 2 .
+Sequences of primers used in this study Primer Oligonucleotide sequence , 5 33 a Use CadC - F CCAAGCTTCGGTAGGCTTTATGCAGTT Complementation CadC - R CGGGATCCTTAATCTTCTGCCAGAAAACT NcadA1 AAGAGCCTATTCGTGAACTG Northern blotting NcadA2 TCATCATCAGATGGGTCAG NcadC1 AATAGCCTGTCTTTCGTTTT Northern blotting NcadC2 GTCATGGTTCAGCGTTAAAT TScadC CAGCCAGTCTCCAATGCGTA Primer extension Hmp1 GAGCTCGCTTTGAATTTGAACCAGTC cadC mutant Hmp2 GGATCCAAAGAAAGGCATAAAAAGCA CadC - Mu1 GGATCCCATTCAGTTTGTCAATCAGC CadC - Mu2 TCTAGAGTCATGGTTCAGCGTTAAAT CadA - Mu1 GAGCTCTTCCGTTATGGCCTCTTC cadA mutant CadA - Mu2 GGATCCAGTCTTGTTCCTGGCAAA CadA - Mu3 CGGGATCCCGTTCCTGTTCAGCATTGGTAT CadA - Mu4 GCTCTAGAGCGTATTCCCAAATTTGAATCG OmpC - F AACTACGGCGTAACCTATGA RT - PCR OmpC - R GAGCAACCACTTCAAAGTTC OmpF - F AGTGGGTTCAATCGATTATG OmpF - R GAATATATTTCGCCAGATCG OmpR - F GTACTGGATTTAATGCTGCC OmpR - R AGACGGTCTGAATATAACGC CadCRT - F GCTGATCGATCTTCTGATGT CadCRT - R GAGTAGGTGTTCAGCAGGTC 16S RNA - F AGAGTTTGATCMTGGCTCAG 16S RNA - R TACGGYTACCTTGTTACGACTT a Restriction enzyme recognition sequences are underlined .
+urea , 2 % CHAPS , 13 mM DTT , 0.5 % IPG buffer , and a few grains of bromophenol blue ) .
+IEF was performed at 20 °C with 50 A applied per IPG strip .
+The voltage settings were 200 V for 30 min , a gradient to 500 V for 1 min , and 8,000 V for 1 h , resulting in approximately 80,000 V - h .
+Following IEF , proteins were separated in 8 to 16 % gradient gels , using the Ettan DALT II system .
+A prestained protein ladder ( 14.4 to 97 kDa ; Amersham ) was added to the basic end of the gel .
+Electrophoresis was performed in running buffer ( 25 mM Tris base , 192 mM glycine , 0.1 % SDS ) at 10 °C , using a series of current increases ( 18 , 24 , and 35 mA for 1 , 2 , and 5 h , respectively ) , and was continued until the blue dye reached the end of the gel ( at ca. 7 h ) .
+Gels were silver stained as described by O'Connell and Stults ( 36 ) and scanned using an ImageScanner with Image - Master Labscan version 3.00 software ( Amersham Pharmacia Biotech ) .
+Mass spectrometry and protein identification .
+Protein spots of interest were excised from the silver - stained 2 - D gels .
+Peptide mass fingerprinting was performed using the Voyager DE - STR matrix - assisted laser desorption ionization mass spectrometer ( Applied Biosystems ) at the Korea Basic Science Institute .
+Proteins were identified by searching in ProFound ( Genomic Solutions ) and MASCOT ( Matrix Science ) against the NCBInr database .
+Salmonella strain YK5003 ( cadC putPA1303 : : Kan r - ompR - lacZ ) was constructed using phage P22 - mediated transduction , as described previously ( 8 ) .
+Bacteriophage P22HT int 105 was propagated in a donor strain ( JF4484 ) which was then used to infect the recipient strain ( cadC ) .
+Generalized transduction was used to move putPA1303 : : Kan r - ompR - lacZ between the strains .
+Transductants were selected on LB agar containing 50 g ml 1 kanamycin .
+P22 H5 was used to confirm that transductants were phage free and not P22 lysogens ( 26 ) .
+- Galactosidase activity was determined as described by Miller ( 31 ) .
+In brief , cells ( 1 ml ) were added to 1 ml Z buffer ( 60 mM Na 2 HPO 4 ,40 mMNaH 2 PO 4 , 10 mM KCl , 1 mM MgSO 4 , 2.7 l ml 1 - mercaptoethanol [ pH 7.0 ] ) , disrupted with 0.1 % ( wt/vol ) SDS and chloroform , and incubated with 0.4 ml of 4 mg ml 1 o - nitrophenyl - - D - galactoside .
+The reaction mixture was incubated for 2 or 6 min at room temperature , and then the reaction was stopped with 1MNa 2 CO 3 .
+- Galactosidase activity was expressed in Miller units and calculated using the formula [ 1,000 ( A 420 1.75 A 550 ) ] / [ time ( min ) culture volume ( ml ) A 600 ] .
+For reverse transcription - PCR ( RT - PCR ) , RNA quantity and purity were determined by measuring sample absorbance ( A 260 / A 280 ) in triplicate .
+Total RNA ( 1 g ) was used as a starting template ; the primers are shown in Table 2 .
+The reaction mixture was denatured ( 94 °C , 4 min ) , followed by 18 thermal cycles ( 94 °C , 30 s ; 54 °C , 30 s ; and 72 °C , 50 s ) and a final extension ( 72 °C , 10 min ) .
+16S rRNA was used as a normalization control .
+Amplified products were separated on a 1.5 % agarose gel , stained with ethidium bromide , and visualized .
+Each reaction was performed at least three times .
+RESULTS CadC activates cadA transcription in S. enterica serovar Typhimurium .
+Membrane - bound CadC has been shown to act as a transcriptional activator of the cadBA operon in E. coli , Vibrio cholerae , and Vibrio vulnificus ( 21 , 29 , 30 , 40 , 46 ) .
+However , it is not known whether CadC functions similarly in S. enterica serovar Typhimurium .
+We constructed isogenic cadC and cadA knockout strains of S. enterica serovar Typhimurium .
+The deleted region in cadC encompasses the promoter and nucleotides 1 to 779 of the open reading frame .
+When cadC is expressed from its own promoter in the low - copy plasmid pMW118 , it complements the LDC - negative phenotype of the cadC knockout strain ( Fig. 1A ) .
+Low external pH and exogenous lysine are sufficient for induction of cadA in the S. enterica serovar Typhimurium UK1 wild - type strain ( 37 ) , and following acid shock ( pH - 5.8 , 10 mM lysine ) , the time of induction was determined easily .
+Wild - type serovar Typhimurium strain UK1 2420 LEE ET AL. .
+CadC - dependent transcription of the cadBA operon in S. enterica serovar Typhimurium .
+( A ) LDC assay indicates that plasmid - borne cadC ( pMW118 - CadC ) complements the LDC - negative phenotype of the cadC knockout strain .
+Yellow and purple indicate the absence and presence of lysine decarboxylase , respectively .
+( B ) Northern blot analysis of cadA transcriptional induction following acid shock ( pH 5.8 , 10 mM lysine ) in the UK1 wild - type strain .
+( C ) Northern blot analysis of cadA transcription in the UK1 wild - type and cadC strains .
+Cells were grown in E glucose medium at 37 °C to mid - log phase ( A 600 0.6 ) and then subjected to acid shock ( pH - 5.8 , 10 mM lysine ) for 10 min .
+23S rRNA was used as a loading control .
+was grown in E glucose medium at 37 °C to mid - log phase ( A 600 0.6 ) and then subjected to acid shock ( pH - 5.8 , 10 mM lysine ) , and total RNA was prepared at various time points .
+Northern blot analysis indicated that cadA mRNA was induced within 10 min of acid shock ( Fig. 1B ) .
+To determine whether CadC activates transcription of the cadBA operon in S. enterica serovar Typhimurium , we performed Northern blot analysis on the wild - type UK1 and cadC strains following 10 min of acid shock .
+As expected , there was no induction of cadA transcription in the UK1 cadC strain ( Fig. 1C ) , indicating that CadC is necessary for expression of the cadBA operon .
+Transcription of S. enterica serovar Typhimurium cadC is induced by low pH and lysine .
+The levels of E. coli CadC remain similar in both neutral and acidic media ( 10 , 46 ) , and cadC mRNA levels are not greatly affected by pH or lysine ( 34 ) .
+However , the S. enterica serovar Typhimurium and E. coli CadC proteins only share 58.4 % identity , well below the median amino - acid identity of homologous proteins between these species ( 90 % ) ( 28 ) , including those of CadB ( 90.2 % ) and CadA ( 92.4 % ) .
+Moreover , there is no significant sequence similarity between the promoters of the E. coli and S. enterica serovar Typhimurium cadC genes .
+We examined cadC mRNA levels by using Northern blot and primer - extension analyses of total RNA isolated from UK1 wild - type cells taken at different intervals following acid shock ( pH - 5.8 , 10 mM lysine ) .
+The results indicate that expression of cadC mRNA was induced markedly ( Fig. 2 ) .
+This observation was confirmed by primer - extension analysis , which indicated that following acid shock the levels of cadC mRNA increase rapidly ( Fig. 2 ) .
+Together , these data suggest that the mechanism for activation of the cadBA promoter by Salmonella CadC may differ from that in E. coli .
+Mutation in cadC suppresses the acid - sensitive phenotype of a cadA mutation .
+Previously , we reported that the LDC system is one of several inducible pH homeostasis mechanisms that contribute to the ATR of S. enterica serovar Typhimurium ( 37 ) .
+Since CadC is a transcriptional activator of the cadBA FIG. 2 .
+Induction of cadC expression in response to low pH and lysine .
+Northern blot and primer - extension analyses were performed to analyze the expression of cadC mRNA under nonstress or acid shock ( pH - 5.8 , 10 mM lysine ) conditions .
+UK1 wild - type cells were grown in E glucose medium at 37 °C to mid - log phase ( A 600 0.6 ) and then subjected to acid shock ( pH - 5.8 , 10 mM lysine ) , and RNA was isolated at the times indicated .
+23S rRNA was used as a loading control .
+189 , 2007 GLOBAL REGULATORY ROLE OF CadC 2421 FIG. 3 .
+ATR assays of S. enterica serovar Typhimurium UK1 wildtype ( WT ) , cadA , and cadC strains in NCE glucose medium .
+Strains were adapted to acid for 1hinNCEglucose medium ( pH 4.4 ) containing 10 mM lysine prior to acid challenge ( pH 3.0 ) for the times indicated .
+Cell viability was measured from 10 - l volumes of 10 - fold serial dilutions of culture spotted onto LB agar .
+( A ) Percent survival was calculated by dividing the total number of viable cells at each time point by the initial number of viable cells at t 0 .
+( B ) Representative cell viability plate , following 60 min of acid shock treatment .
+The data represent averages from three independent trials .
+operon , we hypothesized that the effect of a cadC mutation on ATR would be similar to that of a cadA mutation .
+We also reasoned that if CadC regulated additional pathways required for ATR , then the defect exhibited by the UK1 cadC strain would be more severe than that of the UK1 cadA strain .
+In order to test this hypothesis , we conducted comparative ATR assays using UK1 wild - type , cadC , and cadA strains .
+No differences were observed between the three strains when grown in minimal E glucose medium ( data not shown ) , since the citrate present in the medium contributes to acid shock ( pH 4.4 ) adaptation via internal buffering ( 37 ) .
+Thus , ATR assays were performed in NCE glucose medium containing 10 mM lysine .
+Cells were grown to early log phase ( A 600 0.4 ) and then adapted to acid in NCE glucose medium ( pH 4.4 ) for 1 h prior to shifting to pH 3.0 .
+As expected from a previous observation ( 37 ) , cells with the cadA mutation were unable to effect a protective ATR .
+After 90 min at pH 3.0 , survival of the acid - adapted cadA strain was approximately 20 - fold lower than that of the UK1 wild - type strain .
+However , survival of the acid - adapted cadC strain was virtually identical to or slightly higher than that of the UK1 wild - type strain , indicating that some other acid adaptation was occurring in this mutant ( Fig. 3A and B ) .
+This observation raised the possibility that CadC may function as a negative regulator of other genes required for the ATR in S. enterica serovar Typhimurium .
+Moreover , serovar Typhimurium CadC shows a high degree of homology to the N - terminal DNA - binding domain of V. cholerae ToxR ( 20 ) , which regulates as many as 17 genes either directly or indirectly ( 43 ) .
+These results suggest that during acid adaptation ( pH 4.4 for 1 h ) , CadC may regulate other genes in addition to the cadBA operon .
+Global differences in protein expression between the wildtype and cadC strains of S. enterica serovar Typhimurium .
+To examine the derepression of the ATR exhibited by the cadC strain ( Fig. 3A and B ) , comparative 2 - DE was conducted on total protein collected from the S. enterica serovar Typhimurium UK1 wild - type and cadC strains adapted in NCE glucose medium ( pH 4.4 , 10 mM lysine ) for 1 h .
+We used narrow - pH - range ( pH 4 to 7 ) strips for IEF in order to improve resolution of proteins , since most were found in the 3.5 FIG. 4 .
+Comparative 2 - D analysis of whole - cell lysates from S. enterica serovar Typhimurium UK1 wild - type ( A ) and UK1 cadC ( B ) strains .
+Strains were adapted to acid for 1hinNCEglucose medium ( pH 4.4 ) containing 10 mM lysine .
+Protein ( 50 g ) was separated by IEF ( pI 4 to 7 ) and gradient SDS - polyacrylamide gel electrophoresis ( 8 to 16 % ) .
+Blue and red arrows indicate putative CadC - induced and - repressed proteins , respectively .
+Identification of putative CadC - regulated proteins by matrix - assisted laser desorption ionization -- time - of - flight mass spectrometry Functional category Protein a Gene name Spot no .
+b NCBI accession no .
+b Protein spot numbers as shown in Fig. 4 .
+Comparison of the 2 - D proteome maps indicated marked differences in the protein patterns .
+Thus , it would appear that under the conditions used ( pH 4.4 for 1 h ) , CadC regulates a large number of proteins that may be important for acid adaptation .
+In the cadC mutant , approximately 12 and 24 proteins were down - and upregulated , respectively ( Fig. 4 ) .
+Most of these proteins were isolated from the 2 - D gels and analyzed by peptide mass fingerprinting matrix - assisted laser desorption ionization -- time - of - flight mass spectrometry .
+Eight of the putative CadC - induced proteins and 15 of the putative CadCrepressed proteins were identified using ProFound and MASCOT against the NCBInr database .
+According to their respective cellular functions , the results were grouped as listed in Table 3 .
+The groups of proteins include cell envelope , pyruvate dissimilation , amino - acids biosynthesis , cofactor biosynthesis , regulatory functions , translation , glycolysis , tricarboxylic acid cycle , energy production , chaperone , and heat - shock proteins ; proteins with unknown function ; and hypothetical proteins .
+The upregulated proteins in the cadC mutant included proteins involved in glycolysis ( PfkA , PfkB , FbaB , and STM4519 ) , energy production ( AtpD ) , and stress tolerance ( Tig and HslU ) .
+To our knowledge , the enhanced glycolytic capacities could contribute to the ATR by lowering the pH through glycolysis during acid adaptation ( 18 ) .
+The protein AtpD is a beta subunit of F 1 - ATPase , which plays an important role in the ATR ( 3 , 15 ) .
+Elevated expression of molecular chaperons ( Tig and HslU ) may also perform essential roles in pH stress .
+The Tig protein is a ribosome - associated trigger factor that interacts with a wide variety of nascent polypeptides promoting protein folding ( 23 ) .
+The downregulated proteins in the cadC mutant included outer membrane proteins ( OmpC and OmpF ) .
+This regulation would be a simple way to provide protection against acids by downregulating expression of both OmpC and OmpF .
+Moreover , several regulatory proteins were also identified .
+Taken together , these findings strongly support the notion that CadC is a global regulator in acid adaptation .
+189 , 2007 GLOBAL REGULATORY ROLE OF CadC 2423 FIG. 5 .
+Effect of cadC inactivation on ompR transcription .
+( A ) RT - PCR comparison of transcription of the indicated genes .
+UK1 wild - type ( WT ) and cadC strains were adapted in NCE glucose medium ( pH 4.4 , 10 mM lysine ) for 1 h. 16S rRNA was used as a loading control .
+( B ) The chromosomal ompR - lacZ merodiploid strains ( putPA1303 : : Kan r - ompR - lacZ ) were grown in NCE glucose medium ( pH 7.0 ) to early log phase ( optical density at 600 nm of 0.4 ) and then adapted at pH 4.4 for 1 h. Open and filled bars indicate - galactosidase activities ( Miller units ) from unadapted cells and cells adapted at pH 4.4 for 1 h , respectively .
+Three independent assays were performed for each strain , and standard deviations are indicated by error bars .
+Effect of CadC on the regulation of ompR during acid adaptation .
+RT - PCR analysis of the S. enterica serovar Typhimurium UK1 wild - type and cadC strains confirmed the proteomic data ( Table 3 ) , suggesting that CadC positively regulates the transcription of ompC and ompF during acid adaptation ( Fig. 5A ) .
+As the serovar Typhimurium ompC and ompF porin genes are regulated by the products of ompB , a two - component regulatory locus encoding OmpR and EnvZ ( 32 , 38 ) , we hypothesized that CadC may regulate the two former genes indirectly via the OmpR regulatory system .
+We compared ompR mRNA levels by using RT - PCR and determined that the presence of CadC has a negative influence on expression ( Fig. 5A ) .
+Additionally , we compared expression of a chromosomal ompR - lacZ fusion in the JF4484 ( wild - type ) and YK5003 ( cadC mutant ) strains by using - galactosidase assays .
+Since OmpR is known to autoinduce its own expression ( 1 ) , ompR - lacZ merodiploid strains ( putPA1303 : : Kan r - ompRlacZ ) were used to monitor regulation of ompR transcription by CadC .
+As described previously ( 1 ) , an ompR - lacZ fusion was inserted into the putPA operon in the Salmonella chromosome .
+Following adaptation to NCE glucose medium ( pH 4.4 ) for 1 h , the - galactosidase activity of the cadC mutant ( YK5003 ) was approximately 1.6 - fold higher than that of the wild - type ( JF4484 ) , indicating that ompR is transcriptionally downregulated by CadC ( Fig. 5B ) .
+Therefore , CadC appears to be involved in the OmpR/EnvZ two - component regulatory system .
+DISCUSSION CadC is a global regulator of acid adaptation in S. enterica serovar Typhimurium .
+The major finding in this study is that S. enterica serovar Typhimurium CadC plays a role in global regulation during acid adaptation .
+Previously , only the cadBA operon had been identified as CadC dependent ( 21 , 29 , 30 , 40 , 46 ) .
+However , the data presented in Fig. 4 indicate the presence of additional CadC - regulated genes .
+Two - dimensional gel electrophoresis analyses showed that S. enterica serovar Typhimurium CadC is a global regulator that controls the expression of 36 proteins , either positively or negatively .
+In addition , peptide mass fingerprinting using the NCBInr protein database led to the identification of 23 of the putative CadC - regulated proteins ( Table 3 ) .
+However , it remains unclear whether or not these genes are regulated directly or indirectly by CadC .
+For example , CadC might regulate other transcriptional regulators , which in turn induce or repress the production of the proteins indicated in Fig. 4 .
+The enzymes involved in glycolysis were upregulated in the cadC mutant .
+To our knowledge , the rapid dissimilation of glucose results in secretion of relatively greater amounts of acids as by - products of glycolysis .
+Therefore , we can speculate that during acid adaptation ( pH 4.4 for 1 h ) , the cadC mutant may be able to reduce the pH to values lower than those of the wild type and become more resistant to acid killing ( pH 3.0 ) .
+Another possibility is that higher rates of ATP generation through glycolysis enhance the ability of the cells to maintain the internal pH. Moreover , the increased expression of AtpD ( F 1 - ATPase subunit beta ) was also observed in the cadC mutant .
+Under acid stress , there is an apparent need for increased ATPase activity for the organism to protect itself from acidification by pumping protons out of the cells ( 3 , 15 ) .
+Similar findings have also been reported for the gram - positive Streptococcus mutans ( 2 , 18 , 39 ) .
+The proteomic approach revealed an unanticipated link between CadC and the OmpR - EnvZ regulatory system in S. enterica serovar Typhimurium .
+Although it is clear that CadC acts as a mild repressor of ompR transcription , it remains to be determined whether this is a direct or indirect effect .
+CadC may mediate regulation of ompR transcription through protein - protein interactions with OmpR itself .
+It has been demonstrated recently that EnvZ - dependent phosphorylation of OmpR is required for ompR autoinduction and that phosphorylated OmpR ( OmpR - P ) binds to its own promoter with a greater affinity than the unphosphorylated form ( 1 ) .
+Thus , CadC may interact with OmpR - P , hindering its binding to the 2424 LEE ET AL. .
+ompR promoter region and providing a means of fine - tuning ompC and ompF expression .
+The participation of CadC in control of ompR expression suggests a role in adaptation to a broad spectrum of environments .
+Future studies will focus on the mechanism of CadC regulation at the molecular level and the link between Salmonella CadC and the OmpR - dependent pathway .
+Differential expression of cadC between S. enterica serovar Typhimurium and E. coli .
+The enteric bacteria S. enterica serovar Typhimurium and E. coli are closely related , and much of the knowledge obtained about these two organisms is interchangeable ( 4 , 35 ) .
+For example , both bacteria respond to the low pH and lysine signal by activating transcription of the cadBA operon ( 34 ) .
+However , the present study indicates that the two species use disparate regulatory strategies to control cadC expression .
+In S. enterica serovar Typhimurium , cadC transcription is induced by low pH and lysine , whereas its expression is constitutive in E. coli ( 10 , 34 , 46 ) .
+Thus , their CadC proteins appear to respond differently to this signal .
+Dissimilarities in control of CadC expression may be responsible for critical differences in phenotypic traits between these closely related bacteria ; such disparities in regulation of homologous genes are known to have phenotypic consequences ( 48 ) .
+Although the CadC proteins in S. enterica serovar Typhimurium and E. coli have similar structures ( 20 ) , they share only 58.4 % identity .
+Therefore , we can speculate that in serovar Typhimurium , CadC may perform different functions than it does in E. coli .
+Further investigation will be required to identify the molecular mechanisms underlying differential expression of cadC in these two organisms .
+Effect of a cadC mutation on the ATR in S. enterica serovar Typhimurium .
+Previous studies have indicated that in enteroinvasive E. coli ( EIEC ) and Shigella strains , silencing of the cad locus represents an important pathoadaptive mutation for improving fitness in host tissues ( 9 , 27 , 44 ) .
+Although the cad system may be important during transit through the gastrointestinal tract , LDC activity is not found in EIEC or Shigella strains ( 27 , 42 ) , and recent findings suggest that inactivation of cadC is the main strategy for silencing the cad operon ( 5 , 6 ) .
+We discovered that mutation of S. enterica serovar Typhimurium cadC confers a survival advantage under acidic conditions , overcoming the ATR defect caused by lack of expression of cadA ( Fig. 3 ) .
+It is possible that pathoadaptive mutation of cadC may not be limited to EIEC and Shigella strains .
+A recent report demonstrated an unusually high frequency of LDC - negative Salmonella enterica serovar Enteritidis isolates in Japan , all of which had a single - base deletion at the same position in cadC ( 33 ) .
+The LDC - positive phenotype is a major characteristic of Salmonella spp. ( 13 , 47 ) , and the closely related S. enterica serovars Typhimurium and Enteritidis cause almost identical diseases .
+Thus , the lack of cadC in Salmonella may be considered a pathoadaptive mutation , whose emergence is necessary for enhanced survival within host tissues .
+However , it has been reported that serovar Typhimurium cadC is induced during the course of infection , suggesting that CadC may contribute to survival in certain host tissues , enhancing pathogenicity ( 12 , 19 ) .
+Therefore , it will be interesting to determine whether or not inactivation of cadC is also pathoadaptive in serovar Typhimurium .
+In summary , we have shown that S. enterica serovar Typhimurium CadC affects global translation and participates in control of ompR expression during acid adaptation .
+Analysis of the other CadC - regulated proteins may provide further insight into the roles played by CadC in pathogen - host interactions .
+Future studies will be aimed at elucidating the mechanisms underlying regulation by CadC .
+We thank Won - Kyu Son , Chang - Won Cho , Jiyeon Choi , and Soo - Jin Park for assistance in 2 - DE experiments ; all lab members for helpful discussions and suggestions ; and Nobuhiko Okada ( Kitasato University ) for plasmid pMW118 .
+This research was supported by grant A020305 from the Korea Health Industry Development Institute ( KHIDI ) .
+Bang , I. S. , J. P. Audia , Y. K. Park , and J. W. Foster .
+Autoinduction of the ompR response regulator by acid shock and control of the Salmonella enterica acid tolerance response .
+Belli , W. A. , and R. E. Marquis .
+Adaptation of Streptococcus mutans and Enterococcus hirae to acid stress in continuous culture .
+Berk , P. A. , R. de Jonge , M. H. Zwietering , T. Abee , and J. Kieboom .
+Acid resistance variability among isolates of Salmonella enterica serovar Typhimurium DT104 .
+Family I. Enterobacteriaceae Rahn 1937 , p. 408 -- 420 .
+In N. R. Krieg and J. G. Holt ( ed .
+) , Bergey 's manual of systematic bacteriology , vol .
+The Williams & Wilkins Co. , Baltimore , MD. 5 .
+Casalino , M. , M. C. Latella , G. Prosseda , and B. Colonna .
+CadC is the preferential target of a convergent evolution driving enteroinvasive Escherichia coli toward a lysine decarboxylase - defective phenotype .
+Casalino , M. , M. C. Latella , G. Prosseda , P. Ceccarini , F. Grimont , and B. Colonna .
+Molecular evolution of the lysine decarboxylase - defective phenotype in Shigella sonnei .
+Curtiss , R. III , S. B. Porter , M. Munson , S. A. Tinge , J. O. Hassan , C. Gentry - Weeks , and S. M. Kelly .
+Nonrecombinant and recombinant avirulent Salmonella vaccines for poultry , p. 169 -- 198 .
+In L. C. Blankenship , J. H. S. Bailey , N. A. Cox , N. J. Stern , and R. J. Meinersmann ( ed .
+Colonization control of human bacterial enteropathogens in poultry .
+Academic Press , New York , NY .
+Davis , R. W. , D. Bolstein , and J. R. Roth .
+Advanced bacterial geneticsCold Spring Harbor Laboratory Press , Cold Spring Harbor , NY .
+Day , W. A. , R. E. Fernandez , and A. T. Maurelli .
+Pathoadaptive mutation that enhance virulence : genetic organization of the cadA region of Shigella spp. .
+Dell , C. L. , M. N. Neely , and E. R. Olson .
+Altered pH and lysine signalling mutants of cadC , a gene encoding a membrane - bound transcriptional activator of the Escherichia coli cadBA operon .
+Edwards , R. A. , L. H. Keller , and D. M. Schifferli .
+Improved allelic exchange vectors and their use to analyze 987P fimbria gene expression .
+Eriksson , S. , S. Lucchini , A. Thompson , M. Rhen , and J. C. Hinton .
+Unravelling the biology of macrophage infection by gene expression profiling of intracellular Salmonella enterica .
+Farmer , J. J. , III .
+Enterobacteriaceae : introduction and identification , p. 636 -- 651 .
+In P. R. Murray , E. J. Baron , M. A. Pfaller , J. H. Jorgensen , and R. H. Yolken ( ed .
+) , Manual of clinical microbiology , 8th ed .
+ASM Press , Washington , DC .
+Microbial responses to acid stress , p. 99 -- 115 .
+In G. Storz and R. Hengge - Aronis ( ed .
+ASM Press , Washington , DC .
+Foster , J. W. , and H. K. Hall .
+Adaptive acidification tolerance response of Salmonella typhimurium .
+Foster , J. W. , and M. Spector .
+How Salmonella survives against the odds .
+Gay , P. , D. Le Coq , M. Steinmetz , T. Berkelman , and C. I. Kado .
+Positive selection procedure for entrapment of insertion sequence elements in gram - negative bacteria .
+Hamilton , I. R. , and N. D. Buckley .
+Adaptation by Streptococcus mutans to acid tolerance .
+Heithoff , D. M. , C. P. Conner , P. C. Hanna , S. M. Julio , U. Hentschel , and M. J. Mahan .
+Bacterial infection as assessed by in - vivo gene expression .
+Kim , B. H. , H. J. Lee , I. S. Lee , S. H. Bang , J. Kim , and Y. K. Park .
+Cloning and sequencing analysis of cadC encoding transcriptional activator CadC from Salmonella typhimurium .
+189 , 2007 GLOBAL REGULATORY ROLE OF CadC 2425 21 .
+Kuper , C. , and K. Jung .
+CadC - mediated activation of the cadBA promoter in Escherichia coli .
+Laoide , B. M. , and A. Ullmann .
+Virulence dependent and independent regulation of the Bordetella pertussis cya operon .
+Lee , H. C. , and H. D. Bernstein .
+Trigger factor retards protein export in Escherichia coli .
+Lee , I. S. , J. L. Slonczewski , and J. W. Foster .
+A low - pH - inducible stationary - phase acid tolerance response in Salmonella typhimurium .
+Maloy , S. R. , and J. R. Roth .
+Regulation of proline utilization in Salmonella typhimurium : characterization of put : : Mu d ( Ap , lac ) operon fusions .
+Maloy , S. R. , V. J. Stewart , and R. K. Taylor .
+Genetic analysis of pathogenic bacteria .
+Cold Spring Harbor Laboratory Press , Cold Spring Harbor , NY .
+Maurelli , A. T. , R. E. Fernandez , C. A. Bloch , C. K. Rode , and A. Fasano .
+`` Black holes '' and bacterial pathogenicity : a large genomic deletion that enhances the virulence of Shigella spp. and enteroinvasive Escherichia coli .
+McClelland , M. , K. E. Sanderson , J. Spieth , S. W. Clifton , P. Latreille , L. Courtney , S. Porwollik , J. Ali , M. Dante , F. Du , S. Hou , D. Layman , S. Leonard , C. Nguyen , K. Scott , A. Holmes , N. Grewal , E. Mulvaney , E. Ryan , H. Sun , L. Florea , W. Miller , T. Stoneking , M. Nhan , R. Waterston , and R. K. Wilson .
+Complete genome sequence of Salmonella enterica serovar Typhimurium LT2 .
+Meng , S. Y. , and G. N. Bennett .
+Nucleotide sequence of the Escherichia coli cad operon : a system for neutralization of low extracellular - pH .
+Merrell , D. S. , and A. Camilli .
+Regulation of Vibrio cholerae genes required for acid tolerance by a member of the `` ToxR - like '' family of transcriptional regulators .
+A short course in bacterial genetics : a laboratory manual and handbook for Escherichia coli and related bacteria .
+Cold Spring Harbor Laboratory Press , Cold Spring Harbor , NY .
+Mizuno , T. , and S. Mizushima .
+Signal transduction and gene regulation through the phosphorylation of two regulatory components : the molecular basis for the osmotic regulation of the porin genes .
+Morita , M. , K. Mori , K. Tominaga , J. Terajima , K. Hirose , H. Watanabe , and H. Izumiya .
+Characterization of lysine decarboxylase - negative strains of Salmonella enterica serovar Enteritidis disseminated in Japan .
+Neely , M. N. , and E. R. Olson .
+Kinetics of expression of the Escherichia coli cad operon as a function of pH and lysine .
+Ochman , H. , and A. C. Wilson .
+Evolution in bacteria : evidence for a universal substitution rate in cellular genomes .
+O'Connell , K. L. , and J. T. Stults .
+Identification of mouse liver proteins on two - dimensional electrophoresis gels by matrix - assisted laser desorption / ionization mass spectrometry of in situ enzymatic digests .
+Park , Y. K. , B. Bearson , S. H. Bang , I. S. Bang , and J. W. Foster .
+Internal pH crisis , lysine decarboxylase and the acid tolerance response of Salmonella typhimurium .
+Pratt , L. A. , W. Hsing , K. E. Gibson , and T. J. Silhavy .
+From acids to osmZ : multiple factors influence synthesis of OmpF and OmpC porins in Escherichia coli .
+Quivey , R. G. , Jr. , W. L. Kuhnert , and K. Hahn .
+Adaptation of oral streptococci to low pH. Adv. Microbiol .
+Rhee , J. E. , K. S. Kim , and S. H. Choi .
+CadC activates pH - dependent expression of the Vibrio vulnificus cadBA operon at a distance through direct binding to an upstream region .
+Sanderson , K. , A. Hessel , S. L. Liu , and K. Rudd .
+The genetic map of Salmonella typhimurium , edition VIII , p. 1903 -- 1999 .
+In F. C. Neidhardt , R. Curtiss III , J. L. Ingraham , E. C. C. Lin , K. B. Low , B. Magasanik , W. Reznikoff , M. Riley , M. Schaechter , and H. E. Umbarger ( ed .
+) , Escherichia coli and Salmonella : cellular and molecular biology , 2nd ed .
+ASM Press , Washington , DC .
+Silva , R. M. , R. F. Toledo , and L. R. Trabulsi .
+Biochemical and cultural characteristics of invasive Escherichia coli .
+Skorupski , K. , and R. K. Taylor .
+Control of the ToxR virulence regulon in Vibrio cholerae by environmental stimuli .
+Sokurenko , E. V. , D. L. Hasty , and D. E. Dykhuizen .
+Pathoadaptive mutations : gene loss and variation in bacterial pathogens .
+Vogel , H. J. , and D. M. Bonner .
+Acetylornithase of Escherichia coli : partial purification and some properties .
+Watson , N. , D. S. Dunyak , E. L. Rosey , J. L. Slonczewski , and E. R. Olson .
+Identification of elements involved in transcriptional regulation of the Escherichia coli cad operon by external pH. J. Bacteriol .
+Rapid and economical method for biochemical screening of stool isolates for Salmonella and Shigella species .
+Winfield , M. D. , and E. A. Groisman .
+Phenotypic differences between Salmonella and Escherichia coli resulting from the disparate regulation of homologous genes .

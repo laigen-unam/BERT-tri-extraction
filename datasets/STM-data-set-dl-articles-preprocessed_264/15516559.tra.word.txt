@@ -1,0 +1,353 @@
+JOURNAL OF BACTERIOLOGY , Nov. 2004 , p. 7481 -- 7489 Vol .
+186 , No. 22 0021 - 9193/04 / $ 08.00 0 DOI : 10.1128 / JB .186.22.7481 -- 7489.2004 The Salmonella Membrane Protein IgaA Modulates the Activity of the RcsC - YojN - RcsB and PhoP - PhoQ Regulons † Alberto Tierrez and Francisco García - del Portillo * Departamento de Biotecnología Microbiana , Centro Nacional de Biotecnología , Consejo Superior de Investigaciones Científicas ( CSIC ) , Campus de Cantoblanco , Madrid , Spain The Salmonella enterica serovar Typhimurium membrane protein IgaA and the PhoP - PhoQ two - component system are used by this pathogen to attenuate the intracellular growth - rate within fibroblasts .
+IgaA has also recently been shown to contribute to virulence by exerting tight repression of the RcsC - YojN - RcsB phosphorelay in host tissues .
+Here we show that loss of repression of the RcsC - YojN - RcsB system , linked to an R188H mutation in the IgaA protein ( igaA1 allele ) , is accompanied by altered expression of PhoP - PhoQ - activated ( pag ) genes .
+The changes in gene expression were different depending on the specific pag gene analyzed .
+Thus , transcription of ugd , which is required for lipopolysaccharide modification and colanic acid capsule synthesis , was enhanced in the igaA1 mutant .
+RcsB and its coregulator RcsA promoted this alteration in a PhoP - PmrAindependent manner .
+Unlike ugd , activation of the RcsC - YojN - RcsB phosphorelay negatively affected the expression of all other pag genes tested .
+In this case , RcsB alone was responsible for this effect .
+We also found that PhoP , but not PmrA , negatively modulates the expression of gmm , a gene required for colanic acid synthesis that is regulated positively by RcsC - YojN - RcsB .
+Finally , it was observed that the fine regulation of pag genes exerted by RcsB requires the RpoS protein and that an active RcsB , but not RcsA , diminishes expression of the phoP gene .
+These data support the hypothesis that in Salmonella there is an intimate regulatory circuit between the PhoP - PhoQ and RcsC - YojN - RcsB phosphorelays , which is revealed only when the RcsC - YojN - RcsB signaling route is derepressed .
+Consistent with the phenotypes observed in fibroblast cells , IgaA is predicted to favor expression of the entire PhoP - PhoQ regulon based on its repression of the RcsC - YojN - RcsB phosphorelay .
+Fine regulation of virulence gene expression is a common trait of successful bacterial pathogens ( 10 ) .
+Salmonella enterica serovar Typhimurium is a facultative intracellular pathogen in which virulence gene regulation has been extensively analyzed ( 8 , 10 , 14 , 15 , 18 , 31 ) .
+This pathogen invades nonphagocytic eukaryotic cells by using a specialized type III secretion system encoded by Salmonella pathogenicity island 1 ( SPI - 1 ) genes .
+SPI - 1 gene expression is modulated by distinct transcriptional regulators that integrate environmental signals , such as osmolarity , oxygen , and pH ( 1 , 24 ) .
+Upon bacterial entry , S. enterica activates the type III secretion system encoded by SPI - 2 to survive and proliferate within the host cell ( 21 ) .
+Alterations in the structure of the lipopolysaccharide , promoted by the PhoPphoQ two - component regulatory system , are also crucial for intracellular pathogen survival and resistance to host cell immunity ( 13 , 14 ) .
+Signals such as phosphate or magnesium limitation and acidic intraphagosomal pH have been related to activation of SPI - 2 genes and the PhoP - PhoQ regulon in intracellular bacteria ( 18 , 32 ) .
+Remarkably , the PhoP - PhoQ system also represses concrete SPI - 1 invasion genes ( 18 , 32 ) , providing a clear example of fine temporal and spatial control of virulence gene expression .
+Microbiana , Centro Nacional de Biotecnología , Consejo Superior de Investigaciones Científicas ( CSIC ) , Campus de Cantoblanco , 28049 Madrid , Spain .
+† Supplemental material for this article may be found at http://jb .
+It has recently been shown that S. enterica mounts an intracellular response in fibroblast cells that differs substantially from what has been described for other in - vitro infection models .
+Instead of initiating rapid growth within the phagosome , intracellular bacteria remain in a nonproliferative state within the infected fibroblast ( 4 , 26 ) .
+Transcriptional regulators previously related to virulence , such as the PhoP - PhoQ system , SlyA , RpoS , and SpvR , are required to restrain intracellular bacterial growth in fibroblasts .
+In addition , a novel membrane protein designated IgaA ( intracellular growth attenuator ) has been shown to play a similar role in this infection model ( 4 ) .
+Based on these findings , attenuation of the intracellular growth rate was proposed as a new Salmonella intracellular response , probably designed to prolong the time of residence of bacteria within the infected host eukaryotic cell .
+The igaA gene was identified by a detailed genetic analysis of a clone displaying an increased intracellular growth - rate in fibroblasts ( 4 ) .
+This clone harbors a point mutation in the igaA gene ( igaA1 allele ) that causes a nonconservative R188H amino - acid change in the IgaA protein .
+The altered protein is detectable under active exponential - growth - conditions in rich nutrient medium but is lost in the stationary - phase ( 12 ) .
+It is precisely when the IgaA - R188H protein is lost that phenotypes such as overproduction of capsule material and partial loss of motility are evident .
+These phenotypes are suppressed by rcsC , rcsB , oryojN mutations ( 3 ) .
+igaA has also been shown to be an essential gene since igaA null mutations are lethal in a wildtype genetic background , although they are accepted in rcsC , rcsB , oryojN mutants ( 3 , 9 ) .
+igaA and the rcsB , yojN , and rcsC loci are present exclusively in enterobacteria , with the excep - 7481 7482 TIERREZ AND GARCÍA - DEL PORTILLO J. BACTERIOL .
+tion of endosymbiotic bacteria ( 12 ) .
+It is noteworthy that these functions always appear together since no bacterium whose genome has been sequenced has been found to contain only IgaA or the RcsC - YojN - RcsB system .
+The genetic , biochemical , and phylogenetic analyses support the notion that IgaA is a specific repressor of the RcsC - YojN - RcsB phosphorelay system ( 3 ) .
+IgaA accomplishes this by a posttranslational mechanism since the levels of the RcsC , YojN , and RcsB proteins remain unaltered in the igaA1 mutant ( 12 ) .
+This negative regulatory circuit controlled by IgaA is crucial for infection since activation of the RcsC - YojN - RcsB phosphorelay attenuates virulence ( 12 , 28 ) .
+In enterobacteria , the RcsC - YojN - RcsB phosphorelay system activates expression of genes involved in synthesis of exopolysaccharides that form distinct types of capsules ( 2 , 17 , 38 ) .
+Capsule genes are regulated by the concerted action of the transcriptional regulator RcsB and its coregulator RcsA .
+In addition , RcsB also modulates gene expression in an RcsAindependent manner .
+This is the case for the flhDC flagellar master operon ( 2 , 3 ) , the cell division genes ftsA and ftsZ ( 5 ) , the gene encoding the outer membrane protein OsmC ( 11 ) , and the tolQRA genes required for maintenance of envelope integrity ( 7 ) .
+The fact that in laboratory conditions most of the enteric bacteria are nonmucoid suggests that the RcsC - YojN - RcsB phosphorelay is either tightly repressed or functions with a low level of activity that is not sufficient to ensure exopolysaccharide synthesis .
+Signals that have been proposed to be inducers of the RcsC - YojN - RcsB phosphorelay include high osmolarity , desiccation , and loss of envelope integrity ( 2 , 17 , 29 , 30 ) .
+Assays of sensitivity to membrane surfactant agents have eliminated alterations in envelope integrity as the cause of the activation of the RcsC - YojN - RcsB system linked to the igaA1 mutation ( 12 ) .
+Other ways of inducing the RcsC - YojN - RcsB system include overproduction of DjlA , a transmembrane protein containing a DnaJ - like domain ( 6 ) .
+However , the exact mechanism by which the membrane sensor protein RcsC responds to extracellular stimuli remains to be defined .
+During the course of our studies on the function of the IgaA protein , Mouslim et al. provided evidence that the RcsC - YojN - RcsB phosphorelay plays a regulatory role in transcription of ugd , a gene regulated by PhoP - PhoQ .
+These authors showed that activation of the RcsC - YojN - RcsB phosphorelay triggered by either a tolB mutation or the presence of iron together with a pmrA mutation results in increased expression of ugd ( 29 , 30 ) .
+Both conditions were linked to envelope alterations .
+The ugd gene encodes UDP - glucose dehydrogenase , which synthesizes UDP - glucuronic - acid as a product of its enzymatic reaction .
+UDP - glucuronic - acid is a intermediate in the synthesis of 4 - aminoarabinose , which is further incorporated into the lipid A moiety of the lipopolysaccharide ( 14 , 18 ) .
+This modification renders the bacteria resistant to the antibiotic polymyxin B ( 14 , 18 ) .
+Remarkably , UDP - glucuronic - acid is also a precursor of D - glucuronic - acid , a structural element of the repeating unit of the colanic acid capsule ( 37 ) .
+In low - magnesium conditions ( micromolar concentrations of magnesium ) , ugd is regulated by PhoP - PhoQ via another two - component system , PmrA - PmrB , which controls expression of not only ugd but also another set of genes involved in the synthesis of 4 - aminoarabinose and incorporation of 4 - aminoarabinose into the lipopolysaccharide molecule ( 18 ) .
+The regulatory proteins involved in regulation of ugd transcription differ depending on the type of external signals sensed by the bacteria .
+In a tolB mutant , ugd expression is enhanced by RcsB and its coregulator RcsA in a PhoP - PmrA - independent manner ( 29 ) .
+However , when the RcsC - YojN - RcsB system is activated by the presence of iron in a pmrA mutant , ugd expression is promoted by both RcsB and PhoP regulators in an RcsA - independent manner ( 30 ) .
+Since IgaA prevents activation of the RcsC - YojN - RcsB phosphorelay and since this system regulates ugd , we were interested in deciphering a probable regulatory link between IgaA and PhoP - PhoQ .
+This possibility was supported by the similar phenotypes of igaA and phoP phoQ mutants in fibroblasts ( 4 ) .
+Furthermore , and similar to phoP and phoQ mutations , all the igaA point mutants that we isolated and characterized are highly attenuated for virulence ( 12 ) .
+Here , we demonstrate that IgaA , based on its repression of the RcsC - YojN - RcsB system , favors expression of the entire PhoP - PhoQ regulon .
+Inversely , we also show that the PhoP - PhoQ system negatively modulates the expression of capsule genes controlled by the RcsC - YojN - RcsB phosphorelay .
+MATERIALS AND METHODS Bacterial strains and growth - conditions .
+Unless otherwise indicated , bacterial strains used in this study are isogenic with the S. enterica serovar Typhimurium virulent strain SL1344 ( 22 ) .
+A complete list of the strains and plasmids used is shown in Table S1 in the supplemental material .
+Mutations were transferred to different genetic backgrounds by general transduction with the P22 HT 105/1 int201 phage .
+Transductants were tested for sensitivity to the clear - plaque mutant P22 H5 .
+Bacteria were grown overnight at 37 °C with aeration in Luria broth ( LB ) rich - medium or in N minimal - medium ( 34 ) containing 50 g of histidine ml 1 and 38 mM glycerol as a carbon source and supplemented with 10 mM or 8 M MgCl 2 ( high and low Mg 2 concentrations , respectively ) ( 16 ) .
+When appropriate , kanamycin ( 30 g ml 1 ) , ampicillin ( 50 g ml 1 ) , chloramphenicol ( 10 g ml 1 ) , and tetracycline ( 10 g ml 1 ) were used .
+Levels of - galactosidase activity were assayed as described by Miller ( 27 ) by using the CHCl 3 - sodium dodecyl sulfate permeabilization procedure .
+Bacteria were grown either to the exponential phase or to the stationary - phase .
+For exponential cultures , bacteria grown overnight in LB at 37 °C were diluted 1:100 in fresh medium , and the - galactosidase activity was determined after 3 to 4hofgrowth .
+In the case of overnight growth in N medium containing glycerol and 10 mM Mg 2 at 37 °C , bacteria were washed twice in N medium containing glycerol with no Mg 2 added and diluted 1:10 in fresh N medium containing glycerol and either 8 M Mg 2 ( low concentration ) or 10 mM Mg 2 ( high concentration ) .
+- Galactosidase activity was determined after 8hofgrowth in these minimal media .
+The viability of bacteria was monitored in each experiment at the time of the assay .
+Experiments in which the level of gene expression was determined by monitoring - galactosidase activity were repeated a minimum of three times .
+A statistical analysis was performed by using a Student 's t test with the Microsoft Excel data analysis add - in package .
+Differences were considered significant when the P values were 0.05 .
+RESULTS A mutation in the IgaA protein alters expression of the PhoP - PhoQ - activated gene ugd .
+Envelope stress promoted by either a tolB mutation or iron challenge in a pmrA mutant activates the S. enterica RcsC - YojN - RcsB phosphorelay ( 29 , 30 ) .
+It has been shown previously that transcription of the PhoP - PhoQ - activated ( pag ) gene ugd increases under these conditions .
+However , the RcsC - YojN - RcsB phosphorelay is also derepressed in a way that is not related to envelope alteration in strains bearing igaA mutations , such as the igaA1 mutant carrying an IgaA protein with an R188H change ( 12 ) .
+186 , 2004 IgaA MODULATES PhoPQ AND RscC - YojN - RcsB REGULONS 7483 FIG. 1 .
+Distinct level of activation of the RcsC - YojN - RcsB phosphorelay caused by igaA1 and tolB mutations .
+The - galactosidase activity derived from a chromosome - located ugd : : lacZ transcriptional fusion was monitored in the wild type and in igaA1 and tolB mutants grown on LB plates as described previously ( 29 ) .
+The assays were performed in two isogenic series corresponding to the genetic backgrounds of virulent strains 14028s ( open bars ) and SL1344 ( grey bars ) .
+The data are the means and standard errors for a minimum of three independent experiments .
+Both igaA1 and phoP mutants overgrow in fibroblasts , which led us to hypothesize that there is a regulatory circuit involving the RcsC - YojN - RcsB and PhoP - PhoQ systems .
+Consistent with this hypothesis , the igaA1 mutation should affect ugd expression .
+Using the protocol reported by Mouslim and Groisman to measure the - galactosidase activity in bacteria grown in LB plates ( 29 ) , we observed a three - to fourfold increase in ugd transcription in the igaA1 mutant compared to that in the tolB mutant ( Fig. 1 ) .
+This difference was reproduced in two different serovar Typhimurium virulent strains , strains 14028s and SL1344 ( Fig. 1 ) .
+These results were used to differentiate two distinct modes of activation of the RcsC - YojN - RcsB phosphorelay : either activation is related to envelope stress ( tolB mutation ) , or it is related to a partial loss of function of IgaA .
+The latter possibility results in very pronounced alteration of ugd transcription .
+To decipher how the igaA1 mutation affects ugd expression , wild - type , phoP , and igaA1 strains carrying the ugd : : lacZ fusion were analyzed in liquid culture .
+ugd transcription in LB was fully abrogated in the phoP mutant in both the exponential and stationary growth phases ( Fig. 2A ) .
+Under the same growth conditions , the igaA1 mutation enhanced ugd expression twoto threefold compared to the values observed in the wild - type strain ( Fig. 2A ) .
+When tested in N minimal - medium , the igaA1 mutation resulted in a marked increase in ugd transcription , irrespective of the concentration of Mg 2 used ( 10 mM or 8 M ) ( Fig. 2B ) .
+The presence of 10 mM Mg 2 prevents expression of genes regulated by PhoP and/or PmrA ( 16 ) .
+This finding suggested that the igaA1 mutation could increase ugd expression independent of the PhoP - PhoQ system ( see below ) .
+It is noteworthy that even with 8 M Mg 2 , conditions under which the PhoP - PhoQ system is fully active , a stimulatory effect on ugd transcription ( two - to threefold stimulation ) was evident when the wild - type and igaA1 strains were compared ( Fig. 2B ) .
+The increase resembled the increase observed in LB for these two strains ( Fig. 2A ) .
+We next examined whether the increased ugd transcription linked to the igaA1 mutation could be altered by defects in the regulatory and/or sensor proteins PhoP , PmrA , RcsA , RcsB , and RcsC .
+Examination of the corresponding mutants in LB showed that RcsC , RcsB , and RcsA were responsible for the increased ugd transcription displayed by the igaA1 mutant ( Fig. 2C ) .
+A similar result was obtained with N medium containing 10 mM Mg 2 , in which the enhanced ugd expression linked to igaA1 mutation transcription depended entirely on active RcsC , RcsB , and RcsA proteins ( Fig. 2D ) .
+Importantly , a lack of both PhoP and PmrA regulators in the igaA1 mutant had no effect on ugd transcription , regardless of whether bacteria were cultured in LB or with 10 mM Mg 2 ( Fig. 2C and D ) .
+Together , these data demonstrate that the igaA1 mutation stimulates ugd transcription in a PhoP - PmrA - independent manner .
+Whereas the alteration in ugd expression occurred to a greater extent in the igaA1 mutant than in the tolB mutant ( Fig. 1 ) , in both mutants stimulation of ugd transcription was promoted by RcsB and its coregulator RcsA .
+This positive regulatory circuit was noticeable only upon activation of the RcsC - YojN - RcsB phosphorelay .
+IgaA modulates expression of other PhoP - PhoQ - activated ( pag ) genes differently than it modulates expression of ugd .
+The stimulatory effect of ugd transcription linked to the igaA1 mutation suggests that IgaA might attenuate ugd transcription ( a PhoP - PhoQ - activated pag gene ) as a consequence of its repression of the RcsC - YojN - RcsB phosphorelay .
+To test whether this effect occurs in other pag genes , the expression of mgtA and pbgP was examined in wild - type , phoP , and igaA1 strains .
+The mgtA and pbgP genes are paradigm genes for the two types of regulation reported for the PhoP - PhoQ system .
+In a low - Mg 2 environment , mgtA is regulated directly by PhoP , whereas pbgP is regulated by PhoP - PhoQ via the PmrA regulatory protein ( 18 ) .
+Expression of mgtA and pbgP was monitored in diverse growth media , including N medium containing a low Mg 2 concentration ( 8 M ) , N medium containing a high Mg 2 concentration ( 10 mM ) , and LB .
+Two major differences were noticed compared to the regulation of ugd .
+First , the mgtA and pbgP expression levels observed in the igaA1 mutant were equivalent to those in the wild - type strain in N minimal - medium , irrespective of the magnesium concentration used ( Fig. 3A ) .
+It is noteworthy that the igaA1 mutant did not show increased expression of mgtA and pbgP in N medium containing the high Mg 2 concentration ( 10 mM ) , which suggested that unlike ugd and irrespective of the activation status of the RcsC - YojN - RcsB phosphorelay , the expression of these two pag genes is strictly dependent on a functional PhoP - PhoQ system ( Fig. 3A ) .
+Second , the igaA1 mutation caused twofold reductions in the expression levels of both the mgtA and pbgP genes in LB ( Fig. 3B ) .
+The difference , albeit small , was statistically significant ( P 0.05 ) .
+To assess which regulators were implicated in the reduced mgtA - pgbP transcription , the effects of rcsB and rcsA mutations were analyzed .
+A deficiency of RcsB , but not a deficiency of RcsA , returned the levels of expression of both mgtA and pbgP to the levels measured in the wild - type strain ( Fig. 4 ) .
+This result proved that the lower expression of mgtA and pbgP linked to the igaA1 mutation was in this case promoted by RcsB in an RcsA - independent manner .
+Interestingly , it is known that RcsB regulates , independent of RcsA , the levels of another regulatory protein , such as RpoS , via the small RNA RprA ( 25 ) .
+Taking this observation into account , we tested the possibility of involvement of RpoS in the RcsB - mediated regulation of mgtA and pbgP .
+The expression of mgtA and pbgP in the igaA1 rpoS strain matched the 7484 TIERREZ AND GARCÍA - DEL PORTILLO J. BACTERIOL .
+Enhanced ugd transcription displayed by the igaA1 mutant is promoted by RcsB/RcsA regulators independent of PhoP/PmrA .
+( A and B ) Expression of a ugd : : lacZ fusion inserted into wild - type , phoP , and igaA1 strains .
+The growth - conditions were as follows : exponential ( EXP ) and stationary ( ST ) phases in LB ( A ) and N minimal - medium containing high ( 10 mM ) and low ( 8 M ) Mg 2 concentrations ( B ) .
+( C ) Expression of the ugd : : lacZ fusion inserted into wild - type and igaA1 strains lacking distinct components of the RcsC - YojN - RcsB and PhoP - PhoQ regulatory systems ( RcsC , RcsB , RcsA , PhoP , PmrA ) .
+Bacteria were grown in LB to the stationary - phase .
+( D ) ugd : : lacZ expression in the same series of isogenic strains as in panel C , but the strains were grown in N medium containing 10 mM Mg 2 .
+Note that the increased ugd transcription by the igaA1 mutant was promoted by functional RcsC , RcsB , and RcsA proteins , whereas it was independent of PhoP and PmrA .
+The data are the means and standard errors for a minimum of three independent experiments .
+186 , 2004 IgaA MODULATES PhoPQ AND RscC - YojN - RcsB REGULONS 7485 FIG. 3 .
+The regulatory circuit IgaA3RcsC - YojN - RcsB modulates transcription of mgtA and pbgP .
+Expression of mgtA : : lacZ and pgbP : : lacZ fusions was monitored in wild - type , phoP , and igaA1 strains grown in N medium containing either a high ( 10 mM ) or low ( 8 M ) Mg 2 concentration ( A ) and in LB to the exponential ( EXP ) and stationary ( ST ) phases ( B ) .
+The differences between the wild - type and igaA1 strains in LB ( B ) were statistically significant for both mgtA and pbgP ( an asterisk indicates that the P value is 0.05 ) .
+The data are the means and standard errors for a minimum of three independent experiments .
+expression observed in the wild - type and igaA1 rcsB strains ( Fig. 4 ) .
+These results indicated that , by activating RcsB and increasing the levels of RpoS , the igaA1 mutation resulted in diminished expression of mgtA and pbgP .
+Finally , we examined whether , similar to the results obtained for mgtA and pbgP , the igaA1 mutation could affect transcription of other known pag genes , such as mgtC , pbgD , pbgO , pbgX , pcgF , pcgG , pcgL , and psiD .
+The expression of the entire set of genes was reduced twofold in the igaA1 mutant compared to the wild - type strain ( Table 1 ) .
+These data demonstrated that the RcsB protein negatively modulates the expression of a large number of genes of the PhoP - PhoQ regulon via the sigma factor RpoS and independent of RcsA .
+The PhoP - PhoQ system modulates expression of capsule genes regulated by the RcsC - YojN - RcsB phosphorelay .
+The data described above showed that the RcsC - YojN - RcsB phosphorelay affects the expression of genes of the PhoP - PhoQ regulon by at least two different mechanisms : the RcsB/RcsA regulators activate ugd transcription , whereas RcsB , via the RpoS sigma factor , represses the rest of the pag genes analyzed .
+ugd encodes UDP - glucose dehydrogenase , an enzyme that catalyzes the production of UDP - glucuronate , a precursor of one of the four nucleotide sugars of the colanic acid repeating unit ( 33 ) .
+UDP - glucuronate is also an intermediate of the metabolic pathway of 4 - aminoarabinose , which is incorporated into the lipid - A molecule in a modification that confers resistance to polymyxin B ( 14 , 18 ) .
+We considered the possibility that the PhoP - PhoQ system could reciprocally modulate the RcsC - YojN - RcsB phosphorelay .
+Attenuation of the expression of colanic acid genes promoted by the PhoP - PhoQ system would ensure that D - glucuronate is used mostly through the route ending in lipid - A modification and is not diverted to the synthesis of the colanic acid capsule .
+This hypothesis was tested by monitoring the transcription of the gmm gene ( renamed wcaH ) , which encodes GDP - mannose - mannosyl hydrolase , an enzyme required for synthesis of colanic acid .
+It has been shown previously that upon activation of the RcsC - YojN - RcsB phosphorelay , gmm transcription is induced sixfold in the igaA1 mutant compared to the wild type ( 3 ) .
+Since the gmm gene is expressed at very low levels in wild - type bacteria ( 5 Miller units ) ( 12 ) , the proposed modulation of gmm expression by the PhoP - PhoQ system was examined in igaA1 phoP and igaA1 pmrA mutants .
+A lack of PhoP , but not a lack of PmrA , increased gmm transcription about threefold in LB ( Fig. 5A ) .
+When tested in N medium , gmm transcription was higher in the presence of a high Mg 2 concentration ( 10 mM ) than in the presence of a low Mg 2 concentration ( 8 M ) ( 1,800 and 1,200 Miller units , respectively ) ( Fig. 5B ) .
+The difference , al - 7486 TIERREZ AND GARCÍA - DEL PORTILLO J. BACTERIOL .
+Decrease in mgtA and pbgP transcription observed in the igaA1 mutant is promoted by RcsB via RpoS and is independent of RcsA .
+Expression of mgtA : : lacZ ( A ) and pbgP : : lacZ ( B ) fusions was monitored in isogenic wild - type and igaA1 strains lacking RcsB , RpoS , and RcsA regulators .
+Bacteria were grown to the stationary - phase in LB ( LB - ST ) .
+The data are the means and standard errors for a minimum of three independent experiments for each strain .
+beit small , was statistically significant ( P 0.05 ) and was compatible with a role of PhoP as a repressor of gmm expression .
+It is noteworthy that the absence of PmrA did not alter gmm transcription in either LB or N medium ( Fig. 5B ) .
+To assess whether PhoP could also modulate expression of other genes of the RcsC - YojN - RcsB regulon , such as flhDC , a series of motility assays were performed .
+These tests did not reveal significant differences in motility linked to the phoP mutation in either wild - type or igaA1 backgrounds ( data not shown ) .
+The PhoP - PhoQ system negatively modulates the expression of colanic capsule genes .
+( A ) Expression of a gmm : : lacZ transcriptional fusion monitored in wild - type and igaA1 isogenic strains lacking either PhoP or PmrA .
+The organisms were grown in LB to the exponential phase ( LB - EXP ) .
+Differences between igaA1 and igaA1phoP strains were statistically significant ( the asterisk indicates that the P value is 0.05 ) .
+( B ) gmm : : lacZ expression in igaA1 , igaA1 phoP , and igaA1 pmrA strains grown in N medium containing high ( 10 mM ) and low ( 8 M ) concentrations of Mg 2 .
+Note that the gmm transcription levels were significantly different ( an asterisk indicates that the P value is 0.05 ) for the igaA and igaA1 phoP strains only when the PhoP - PhoQ system was activated ( 8 M Mg 2 ) .
+The data are the means and standard errors for a minimum of three independent experiments for each strain .
+gmm transcription in the wild - type , phoP , and pmrA strains was undetectable in N medium containing a high or low concentration of Mg 2 ( data not shown ) .
+Effect of the igaA1 mutation on the expression of PhoP - PhoQ - activated ( pag ) genes Transcriptional fusion - Galactosidase activity ( Miller units ) a Wild type igaA1 phoP pbgD : : MudJ 157.0 63.8 6.2 mgtC : : MudJ 49.1 24.8 3.0 psiD : : MudJ 59.5 43.1 7.9 pbgO : : MudJ 144.7 67.7 14.4 pcgF : : MudJ 375.8 166.8 35.0 pcgG : : MudJ 203.7 81.6 5.0 pcgL : : MudJ 157.7 93.7 25.7 pbgX : : MudJ 152.0 77.5 17.3 zzz : : MudJR9 b 490.6 448.3 576 a The data are data from a representative experiment from a total of three independent assays .
+b The zzz : : MudJR9 transcriptional - fusion was used as an internal control .
+This transposon was inserted into a noncharacterized locus and was selected at random from colonies showing a strong blue color in 5 - bromo - 4-chloro - 3-indolyl - - D - galactopyranoside ( X - Gal ) LB indicator plates .
+Taken together , these data showed that the PhoP - PhoQ system negatively regulates genes encoding enzymes essential for the synthesis of the colanic acid capsule .
+This regulation , promoted by PhoP in a PmrA - independent manner , apparently does not affect other genes of the RcsC - YojN - RcsB regulon .
+Expression of the phoP gene is regulated by the RcsB protein .
+Upon activation of the RcsC - YojN - RcsB phosphorelay , all PhoP - PhoQ - activated ( pag ) genes tested displayed changes in expression ( Table 1 ) .
+This observation prompted us to ask whether the RcsC - YojN - RcsB phosphorelay could modulate expression of upstream regulatory genes , such as phoP .
+This possibility was tested by using a phoP : : lacZ fusion .
+In this case , considering the positive autoregulatory circuit mediated by the PhoP protein ( 36 ) , a plasmid bearing the phoP gene was inserted into all wild - type and igaA1 derivative strains subjected to the analysis .
+As shown in Fig. 6 , phoP transcription decreased about threefold in the igaA1 mutant .
+The alteration was promoted by RcsB in an RcsA - independent manner ( Fig .
+186 , 2004 IgaA MODULATES PhoPQ AND RscC - YojN - RcsB REGULONS 7487 FIG. 6 .
+Transcription of the phoP gene is subjected to negative regulation by RcsB via the sigma factor RpoS .
+Expression of a phoP : : lacZ - transcriptional - fusion was monitored in wild - type and igaA1 isogenic strains lacking RcsB , RcsA , or RpoS regulators .
+All the strains carried the pIZ988 ( phoPQ ) plasmid .
+The organisms were grown in LB to the exponential phase .
+The data are the means and standard errors for a minimum of three independent experiments for each strain .
+Likewise , introduction of an rpoS mutation in the igaA1 mutant restored the phoP transcription levels to the levels of the wild - type strain , which suggested that the modulation of phoP expression by RcsB also requires the sigma factor RpoS .
+These results are completely consistent with RcsB - and RpoSdependent regulation of the mgtA and pbgP genes , as described above ( Fig. 4 ) , and indicated that the PhoP - PhoQ regulon , except ugd , is negatively modulated by RcsB due to diminished expression of the phoP gene .
+DISCUSSION In this study , we unraveled in S. enterica an intricate regulatory circuit between the RcsC - YojN - RcsB and PhoP - PhoQ regulatory systems .
+This analysis was possible due to the pronounced activation of the RcsC - YojN - RcsB phosphorelay resulting from a loss of function in the IgaA protein linked to an R188H mutation ( igaA1 allele ) .
+Unlike many reports showing that loss of envelope integrity activates the RcsC - YojN - RcsB system ( 17 , 29 , 30 ) , we have not found any evidence in the igaA1 mutant that supports such a possibility .
+The igaA1 mutant , which encodes an IgaA protein that is unstable in the stationary - phase , does not display increased sensitivity to surfactant detergents , such as sodium dodecyl sulfate or Triton X - 100 ( 12 ) .
+In addition , point mutations in IgaA distinct from R188H also result in activation of the RcsC - YojN - RcsB system independent of alterations in envelope integrity ( 12 ) .
+These results exclude the possibility of induction of the RcsC - YojN - RcsB phosphorelay due to putative indirect effects caused by the R188H mutation in IgaA and the possibility of alterations in envelope integrity when the IgaA function is compromised .
+Another observation that supports a strict relationship between IgaA function and negative control of the RcsC - YojN - RcsB phosphorelay is the requirement for IgaA in wild - type bacteria but not in rcsC , yojN , and rcsB mutants ( 3 , 9 ) .
+In these mutants the absence of IgaA does not lead to any discernible phenotype .
+Finally , it was shown recently that IgaA is required for Salmonella virulence solely to ensure tight repression of the FIG. 7 .
+Tentative model showing the role of IgaA in coordinating the activities of the RcsC - YojN - RcsB and PhoP - PhoQ regulons .
+( A ) In a wild - type strain ( IgaA ) , the RcsC - YojN - RcsB regulon is repressed ( grey background ) , whereas the PhoP - PhoQ regulon remains active ( white background ) .
+Under these conditions , the ugd gene , included in the cps regulon belonging to the RcsC - YojN - RcsB regulon , is positively regulated by PhoP via PmrA .
+Concomitantly , PhoP independent of PmrA negatively regulates the cps regulon , ensuring that the ugd gene product is used for lipid - A modification .
+( B ) In an igaA1 mutant , the RcsC - YojN - RcsB regulon is activated ( white background ) .
+Under these conditions , RscB down - regulates the expression of the entire PhoP - PhoQ regulon ( grey background ) .
+This effect is promoted via the sigma factor RpoS and is probably related to the activation of expression of the small RprA RNA by RcsB , which is known to increase RpoS translation ( 25 ) .
+In this case , RcsB/RcsA independent of PhoP / PmrA promotes ugd transcription .
+In this way , the ugd gene product is diverted mostly to synthesis of the colanic acid capsule .
+Note that the only gene that is regulated in the opposite manner by a functional wild - type IgaA protein and the PhoP - PhoQ system is ugd ( see text for details ) .
+RcsC - YojN - RcsB phosphorelay when bacteria colonize host animal tissues ( 12 ) .
+Considering the new IgaA3RcsC - YojN - RcsB regulatory cascade , we were interested in deciphering in detail how IgaA modulates gene expression in the RcsC - YojN - RcsB regulon .
+In this analysis , we also took into account the finding that the igaA1 mutant shares phenotypes with mutants having mutations in the PhoP - PhoQ two - component system .
+Both igaA1 and phoPQ mutants overgrow in fibroblasts and are attenuated for virulence ( 4 , 12 ) .
+Moreover , the igaA1 mutation does not affect the functionality of other phosphorelay regulatory systems since both wild - type and igaA1 bacteria have the same 7488 TIERREZ AND GARCÍA - DEL PORTILLO J. BACTERIOL .
+growth - rate in media containing glucose 6 - phosphate as the only carbon source ( data not shown ) .
+Under these conditions , bacteria require the phospho - sugar transporter UhpT , which is positively regulated by the UhpABC phosphorelay ( 23 ) .
+Altogether , these observations led us to consider a hypothetical model in which IgaA plays a pivotal role in coordinating the activity of the RcsC - YojN - RcsB and PhoP - PhoQ regulons .
+During the course of our study , Mouslim et al. described the capacity of the RcsC - YojN - RcsB system for modulating transcription of the ugd gene ( 29 , 30 ) .
+ugd is activated in low - Mg 2 environments by PhoP - PhoQ via the PmrA regulator ( 19 , 35 ) .
+The regulation of ugd by RcsC - YojN - RcsB was discovered in conditions related to defects in envelope integrity ( either a tolB mutation or an iron challenge in a pmrA mutant ) ( 29 , 30 ) .
+As mentioned above , the loss of function of IgaA activates the RcsC - YojN - RcsB system by a different mechanism , which might lead to distinct outputs in terms of gene expression .
+The first evidence supporting this hypothesis was obtained when three - to fourfold - higher levels of ugd expression were found in the igaA1 strain than in the tolB strain .
+The difference may reflect distinct levels of activation of the RcsC - YojN - RcsB phosphorelay .
+Despite the quantitative differences , the increase in ugd transcription that occurs in the igaA1 mutant is absolutely dependent on RcsB and RcsA , mimicking the regulatory pattern described for the tolB mutant ( 29 ) .
+However , unlike the findings obtained for the tolB mutant , neither phoP nor pmrA mutations affected the levels of ugd transcription in the igaA1 mutant .
+Thus , it is probable that a higher intensity of the RcsC - YojN - RcsB phosphorelay ( linked to the igaA1 mutation ) bypasses the requirement of PhoP/PmrA regulators for promoting ugd transcription .
+It is noteworthy that when the RcsC - YojN - RcsB system is activated by iron challenge in a pmrA mutant , ugd transcription is directed by RcsB and PhoP in an RcsA - independent manner ( 30 ) .
+Clearly , the derepression of the RcsC - YojN - RcsB system linked to the igaA1 mutation does not fit this regulation model since in all our assays the PhoP protein was absolutely dispensable .
+The differences in the regulatory patterns that can modulate ugd transcription may account for changes either in the relative amount of RcsB or in the pool of phosphorylated RcsB for a constant number of molecules of the regulator .
+The latter possibility seems likely in the case of the igaA1 mutant since Western analyses have revealed a constant level of RcsB in wild - type and igaA1 strains ( 12 ) .
+In this study , we also obtained data showing that the regulation by the RcsC - YojN - RcsB phosphorelay extends to other PhoP - PhoQ - activated genes ( pag genes ) .
+It is noteworthy that a different regulation pattern was observed when the findings were compared to the findings for ugd ; the pag genes mgtA and pgbP are modulated negatively by the RcsB protein in an RcsA - independent manner .
+Essentially the same regulation was observed for the other eight pag genes tested ( mgtC , pbgD , pbgO , pbgX , pcgF , pcgG , pcgL , and psiD ) , regardless of whether they belong to the PmrA regulon .
+These findings resulted in the intriguing hypothesis that RcsB alone could modulate expression of the entire phoPQ operon .
+We show in this study that RcsB requires the alternative sigma factor RpoS to finely modulate pag expression .
+This result agrees with the findings of Majdalani et al. , who reported that RcsB , independent of RcsA , positively regulates the synthesis of RprA , a small RNA activator of RpoS translation ( 25 ) .
+Therefore , these data provide the first evidence for modulation of the PhoP - PhoQ regulon by RcsB .
+Another hypothesis tested in this work was the reciprocal modulation of the RcsC - YojN - RcsB phosphorelay by the PhoP - PhoQ system .
+ugd is regulated positively by both regulatory systems , while D - glucuronate ( synthesized by UDP - glucose - dehydrogenase , the enzyme encoded by ugd ) is diverted by bacteria through two well - differentiated pathways , synthesis of the colanic acid capsule ( 33 ) and formation of a structurally altered lipid - A molecule ( 18 , 19 ) .
+Thus , we reasoned that under environmental conditions that promote lipopolysaccharide modification ( e.g. , low - Mg 2 conditions ) , bacteria might ensure that D - glucuronate enters this pathway by preventing its use for colanic acid biosynthesis .
+A way of achieving this goal would be for PhoP - PhoQ to impose negative modulation of the colanic acid regulon in addition to the modulation exerted by IgaA via repression of the RcsC - YojN - RcsB phosphorelay .
+This tempting hypothesis was confirmed by analysis of the levels of gmm transcription in igaA1 derivative strains lacking PhoP or PmrA .
+These strains showed minor but statistically significant alteration of gmm expression when PhoP was lacking , but not when PmrA was lacking .
+It is worth recalling that the fine tune - up due to PhoP was noticeable in an igaA1 background ( i.e. , under conditions of activation of the RcsC - YojN - RcsB system ) .
+On the other hand , PhoP seems not to play any role in silencing colanic acid capsule genes when RcsC - YojN - RcsB is silenced ( wild - type situation ) .
+Thus , a phoP single mutant does not display enhanced gmm expression ( data not shown ) .
+Hagiwara et al. recently reported that the combination of a high glucose concentration ( 0.4 % ) , a low - temperature ( 20 °C ) , and a high Zn 2 concentration ( 1 mM ) is a specific environmental condition that activates the RcsC - YojN - RcsB phosphorelay in Escherichia coli ( 20 ) .
+These authors claimed that there is a regulatory link between the PhoP - PhoQ system and the RcsC - YojN - RcsB phosphorelay since most of the cps ( capsule ) genes induced in the presence of 1 mM Zn 2 were partially repressed in phoPQ mutants ( 20 ) .
+The exact mechanism by which PhoP - PhoQ acts as an upstream regulator of the RcsC - YojN - RcsB phosphorelay was not defined .
+Our observations with S. enterica differ from those reported in this previous work since PhoP negatively modulates capsule gene expression .
+Several reasons might account for this apparent discrepancy .
+It is possible that depending on the type of external stimulus , the expression of the genes of the RcsC - YojN - RcsB regulon is modulated differently by the PhoP - PhoQ system .
+An example is the activation of RcsC - YojN - RcsB by either a tolB mutation or the presence of iron combined with a pmrA mutation .
+Both conditions result in distinct regulatory patterns that act on ugd .
+In one case the PhoP regulator is dispensable , whereas in the other case it is strictly required ( 29 , 30 ) .
+The loss of function of IgaA also causes increased ugd expression independent of PhoP .
+In addition , we observed that S. enterica serovar Typhimurium phoP mutants are mucoid when they are growing at 20 °C in the conditions reported by Hagiwara et al. ( 20 ) ( data not shown ) .
+The differences raise the possibility that there are intrinsic differences in the regulatory circuits of S. enterica and E. coli implicating the PhoP - PhoQ and RcsC - YojN - RcsB system .
+In summary , our data prove the existence of a regulatory VOL .
+186 , 2004 IgaA MODULATES PhoPQ AND RscC - YojN - RcsB REGULONS 7489 circuit for the S. enterica PhoP - PhoQ and RcsC - YojN - RcsB phsophorelays that is coordinated by the IgaA protein .
+As shown in the tentative model outlined in Fig. 7 , IgaA and PhoP - PhoQ could act in concert to ensure appropriate activation of the pag genes and repression of the colanic capsule genes ( cps ) .
+The only exception is ugd , which in bacteria having a functional IgaA would be subjected to positive regulation exclusively by the PhoP3PmrA route .
+This condition may resemble that encountered by bacteria when they colonize the intracellular niche of eukaryotic cells .
+In fact , tight repression of the RcsC - YojN - RcsB phosphorelay by IgaA has been found in intracellular bacteria residing within cultured phagocytic and nonphagocytic eukaryotic cells ( data not shown ) and in bacteria colonizing mouse tissues ( 12 ) .
+This hypothesis is consistent with the activity , albeit low , of the RcsC - YojN - RcsB phosphorelay in extracellular bacteria growing in LB ( 12 ) , in which PhoP - PhoQ is not fully active .
+Under these conditions , the response of the RcsC - YojN - RcsB phosphorelay to a stimulus would enhance ugd transcription exclusively by RcsB and the coregulator RcsA , culminating in the synthesis of a protective colanic acid capsule .
+Additional work is required to define in more detail how PhoP affects transcription of colanic capsule genes and the mechanisms underlying the negative modulation of the phoPQ genes by the concerted action of RcsB and RpoS .
+We thank Josep Casadesús and Eduardo Groisman for sending strains and for helpful discussions .
+We also thank Nuria Gómez - López for technical assistance .
+This work was supported by grants from the Spanish Ministry of Education and Science ( grants BIO2001 - 0232 - C02 - 01 and BIO2001 - 5243 - E ) and the European Commission ( grant QLRT - CT - 1999 - 00310 ) .
+A.T. is a recipient of a predoctoral fellowship from the Consejería de Educación de la Comunidad de Madrid .
+Akbar , S. , L. M. Schechter , C. P. Lostroh , and C. A. Lee .
+AraC/XylS family members , HilD and HilC , directly activate virulence gene expression independently of HilA in Salmonella typhimurium .
+Arricau , N. , D. Hermant , H. Waxin , C. Ecobichon , P. S. Duffey , and M. Y. Popoff .
+The RcsB - RcsC regulatory system of Salmonella typhi differentially modulates the expression of invasion proteins , flagellin and Vi antigen in response to osmolarity .
+Cano , D. A. , G. Dominguez - Bernal , A. Tierrez , F. García - Del Portillo , and J. Casadesús .
+Regulation of capsule synthesis and cell motility in Salmonella enterica by the essential gene igaA .
+Cano , D. A. , M. Martinez - Moya , M. G. Pucciarelli , E. A. Groisman , J. Casadesus , and F. Garcia - Del Portillo .
+Salmonella enterica serovar Typhimurium response involved in attenuation of pathogen intracellular proliferation .
+Carballes , F. , C. Bertrand , J. P. Bouche , and K. Cam .
+Regulation of Escherichia coli cell division genes ftsA and ftsZ by the two - component system rcsC - rcsB .
+Chen , M. H. , S. Takeda , H. Yamada , Y. Ishii , T. Yamashino , and T. Mizuno .
+Characterization of the RcsC3YojN3RcsB phosphorelay signaling pathway involved in capsular synthesis in Escherichia coli .
+Clavel , T. , J. C. Lazzaroni , A. Vianney , and R. Portalier .
+Expression of the tolQRA genes of Escherichia coli K - 12 is controlled by the RcsC sensor protein involved in capsule synthesis .
+Clements , M. , S. Eriksson , D. Tezcan - Merdol , J. C. Hinton , and M. Rhen .
+Virulence gene regulation in Salmonella enterica .
+Costa , C. S. , M. J. Pettinari , B. S. Mendez , and D. N. Anton .
+Null mutations in the essential gene yrfF ( mucM ) are not lethal in rcsB , yojN or rcsC strains of Salmonella enterica serovar Typhimurium .
+Cotter , P. A. , and V. J. DiRita .
+Bacterial virulence gene regulation : an evolutionary perspective .
+Davalos - Garcia , M. , A. Conter , I. Toesca , C. Gutierrez , and K. Cam .
+Regulation of osmC gene expression by the two - component system rcsB - rcsC in Escherichia coli .
+Domínguez - Bernal , G. , M. G. Pucciarelli , F. Ramos - Morales , M. García - Quintanilla , D. A. Cano , J. Casadesús , and F. García - del Portillo .
+Repression of the RcsC - YojN - RcsB phosphorelay by the IgaA protein is a requisite for Salmonella virulence .
+Ernst , R. K. , T. Guina , and S. I. Miller .
+How intracellular bacteria survive : surface modifications that promote resistance to host innate immune responses .
+Ernst , R. K. , T. Guina , and S. I. Miller .
+Salmonella typhimurium outer membrane remodeling : role in resistance to host innate immunity .
+Molecular and cellular biology of Salmonella pathogenesis , p. 3 -- 49 .
+In J. W. Cary , J. E. Linz , and D. Bhatnagar ( ed .
+) , Microbial foodborne diseases : mechanisms of pathogenesis and toxin synthesis .
+Technomic Publishing Co. , Inc. , Lancaster , Pa. 16 .
+Garcia Vescovi , E. , F. C. Soncini , and E. A. Groisman .
+Mg 2 as an extracellular signal : environmental regulation of Salmonella virulence .
+Regulation of capsule synthesis : modification of the two - component paradigm by an accessory unstable regulator , p. 253 -- 262 .
+In J. A. Hoch and T. J. Silhavy ( ed .
+American Society for Microbiology , Washington , D.C. 18 .
+The pleiotropic two - component regulatory system PhoP - PhoQ .
+Gunn , J. S. , K. B. Lim , J. Krueger , K. Kim , L. Guo , M. Hackett , and S. I. Miller .
+PmrA - PmrB - regulated genes necessary for 4 - aminoarabinose lipid - A modification and polymyxin resistance .
+Hagiwara , D. , M. Sugiura , T. Oshima , H. Mori , H. Aiba , T. Yamashino , and T. Mizuno .
+Genome - wide analyses revealing a signaling network of the RcsC - YojN - RcsB phosphorelay system in Escherichia coli .
+Hansen - Wester , I. , and M. Hensel .
+Salmonella pathogenicity islands encoding type III secretion systems .
+Hoiseth , S. K. , and B. A. Stocker .
+Aromatic - dependent Salmonella typhimurium are non - virulent and effective as live vaccines .
+Island , M. D. , B. Y. Wei , and R. J. Kadner .
+Structure and function of the uhp genes for the sugar phosphate transport system in Escherichia coli and Salmonella typhimurium .
+Lostroh , C. P. , and C. A. Lee .
+The Salmonella pathogenicity island - 1 type III secretion system .
+Majdalani , N. , D. Hernandez , and S. Gottesman .
+Regulation and mode of action of the second small RNA activator of RpoS translation , RprA .
+Martinez - Moya , M. , M. A. de Pedro , H. Schwarz , and F. Garcia - del Portillo .
+Inhibition of Salmonella intracellular proliferation by non - phagocytic eucaryotic cells .
+Experiments in molecular genetics .
+Cold Spring Harbor Laboratory Press , Cold Spring Harbor , N.Y. 28 .
+Mouslim , C. , M. Delgado , and E. A. Groisman .
+Activation of the RcsC / YojN/RcsB phosphorelay system attenuates Salmonella virulence .
+Mouslim , C. , and E. A. Groisman .
+Control of the Salmonella ugd gene by three two - component regulatory systems .
+Mouslim , C. , T. Latifi , and E. A. Groisman .
+Signal - dependent requirement for the co - activator protein RcsA in transcription of the RcsB - regulated ugd gene .
+Ohl , M. E. , and S. I. Miller .
+Salmonella : a model for bacterial pathogenesis .
+Pegues , D. A. , M. J. Hantman , I. Behlau , and S. I. Miller .
+PhoP/PhoQ transcriptional repression of Salmonella typhimurium invasion genes : evidence for a role in protein secretion .
+Petit , C. , G. P. Rigg , C. Pazzani , A. Smith , V. Sieberth , M. Stevens , G. Boulnois , K. Jann , and I. S. Roberts .
+Region 2 of the Escherichia coli K5 capsule gene cluster encoding proteins for the biosynthesis of the K5 polysaccharide .
+Snavely , M. D. , C. G. Miller , and M. E. Maguire .
+The mgtB Mg 2 transport locus of Salmonella typhimurium encodes a P - type ATPase .
+Soncini , F. C. , and E. A. Groisman .
+Two - component regulatory systems can interact to process multiple environmental signals .
+Soncini , F. C. , E. G. Vescovi , and E. A. Groisman .
+Transcriptional autoregulation of the Salmonella typhimurium phoPQ operon .
+Stevenson , G. , K. Andrianopoulos , M. Hobbs , and P. R. Reeves .
+Organization of the Escherichia coli K - 12 gene cluster responsible for production of the extracellular polysaccharide colanic acid .
+Wehland , M. , and F. Bernhard .
+Characterization of a new operator essential for the regulation of exopolysaccharide biosynthesis in enteric bacteria .

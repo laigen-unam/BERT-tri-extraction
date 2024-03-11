@@ -1,0 +1,309 @@
+Ferric Uptake Regulator - Dependent Antinitrosative Defenses in Salmonella enterica Serovar Typhimurium Pathogenesis Maroof Husain , a Jessica Jones - Carson , a , b Lin Liu , a Miryoung Song , a J. Royden Saah , c Bryan Troxell , d Mary Mendoza , d Hosni Hassan , d Andrés Vázquez - Torres a , e ` Department of Microbiology a and Division of Infectious Diseases , b University of Colorado School of Medicine , Aurora , Colorado , USA ; North Carolina State Laboratory of Public Health , Raleigh , North Carolina , USA c ; Department of Microbiology , North Carolina State University , Raleigh , North Carolina , USA d ; VA Eastern Colorado Health Care System , Denver , Colorado , USA e Herein we report an important role for the ferric uptake regulator ( Fur ) in the resistance of Salmonella enterica serovar Typhimurium to the reactive - nitrogen - species produced by inducible nitric - oxide ( NO ) synthase in an NRAMP1 r murine model of acute systemic infection .
+The expression of fur protected Salmonella grown under normoxic and hypoxic conditions against the bacteriostatic activity of NO .
+The hypersusceptibility of fur - deficient Salmonella to the cytotoxic actions of NO coincides with a marked repression of respiratory activity and the reduced ability of the bacteria to detoxify NO .
+A fur mutant Salmonella strain contained reduced levels of the terminal quinol oxidases of the electron transport chain .
+Addition of the heme precursor - aminolevulinic acid restored the cytochrome content , respiratory activity , NO consumption , and wild - type growth in bacteria undergoing nitrosative - stress .
+The innate antinitrosative defenses regulated by Fur added to the adaptive response associated with the NO - detoxifying activity of the flavohemoprotein Hmp .
+Our investigations indicate that , in addition to playing a critical role in iron homeostasis , Fur is an important antinitrosative determinant of Salmonella pathogenesis .
+Salmonellosis encompasses a spectrum of clinical diseases ranging from typhoid fever , a serious condition that kills about 600,000 people annually ( http://www.who.int/inf - pr - 1998/en/pr98 - 18.html ) , to nontyphoidal zoonotic infections that afflict more than 1.4 million Americans a year ( http://www.who.int/mediacentre / factsheets/fs139/en / ) .
+The parasitic relationship between Salmonella and host mononuclear phagocytes is one of the hallmarks of both typhoidal and nontyphoidal salmonellosis ( 1 ) .
+Within macrophages , Salmonella is sequentially exposed to the antimicrobial activity of the NADPH oxidase and inducible nitric - oxide ( NO ) synthase ( iNOS ) flavohemoproteins ( 2 ) .
+Following the initial oxidative burst emanating from the NADPH oxidase ( 2 ) , reactive nitrogen species derived from iNOS - expressing human ( 3 -- 5 ) and murine ( 2 , 6 ) macrophages exert sustained bacteriostatic activity at later stages of the intracellular Salmonella infection .
+The coordinated actions of low - molecular - weight thiols and superoxide dismutases detoxify a variety of reactive - nitrogen - species produced from the reaction of NO with either oxygen ( O 2 ) or superoxide anion ( 7 -- 9 ) .
+These innate detoxification systems are strengthened upon the induction of Hmp , a flavohemoprotein that denitrosylates NO to nitrate ( NO 3 ) ( 10 ) , thereby protecting Salmonella against NO congeners produced by human and murine macrophages ( 3 , 11 , 12 ) .
+Overall , the enzymatic activity of Hmp appears to be the most important antinitrosative defense in Salmonella pathogenesis ( 11 ) .
+Salmonella can also diminish the extent of nitrosative - stress endured in macrophages through the expression of the Salmonella pathogenicity island 2 type III secretion system that excludes iNOS - containing vesicles from phagosomes ( 13 ) .
+Despite these protective mechanisms , reactive nitrogen species must damage Salmonella biomolecules , as demonstrated by the fact that DNA damage repair systems contribute to the antinitrosative arsenal of this enteric pathogen ( 14 ) .
+Many of these antinitrosative defenses are carefully orchestrated at the transcriptional level .
+The proteins NsrR and NorR are NOdedicated sensors that regulate genes encoding antinitrosative activity in aerobic and anaerobic bacteria ( 15 , 16 ) , whereas OxyR , SoxR , FNR , DksA , and Fur , which primarily serve as sensors of reactive oxygen species , O 2 , nutritional starvation , and iron , contribute important aspects of the antinitrosative arsenal of enteric bacteria ( 17 -- 21 ) .
+Traditionally , the ferric uptake regulator ( Fur ) has been described to be a major determinant in the control of iron homeostasis .
+Binding of Fe 2 Fur to 35 and 10 promoter regions represses transcription by interfering with the RNA polymerase , whereas binding to upstream regions activates transcription ( 22 ) .
+In addition to serving as a cofactor that modulates Fur activity in response to intracytoplasmic metal concentrations , the iron cofactor is a sensor of nitrosative - stress , as indicated by the fact that iron - nitrosyl Fur complexes derepress gene transcription ( 18 ) .
+The ability of Fur to sense nitrosative - stress appears to be important for the antinitrosative defenses of Bacillus subtilis , Staphylococcus aureus , Helicobacter pylori , and Escherichia coli ( 23 -- 26 ) .
+Because Fur has recently been shown to play a critical role in Salmonella virulence ( 27 ) , we tested whether Fur regulates antinitrosative defenses in Salmonella pathogenesis .
+MATERIALS AND METHODS Bacterial strains .
+Salmonella enterica serovar Typhimurium strain ATCC 14028s was used as the wild type and as a background for the construction Published ahead of print 28 October 2013 Editor : A. J. Bäumler Address correspondence to Andrés Vázquez - Torres , andres.vazquez - torres@ucdenver.edu .
+doi : 10.1128 / IAI.01201 - 13 January 2014 Volume 82 Number 1 Infection and Immunity p. 333 -- 340 iai.asm.org 333 Husain et al. .
+TABLE 1 Bacterial strains S. enterica serovar Typhimurium strain Relevant characteristic Source or reference 14028s Wild type ATCC AV13110 hmp : : km 6 AV0468 hmp : : FRT a 6 KLM001 fur : : bla 28 AV10274 fur : : bla hmp : : km This study a FRT , FLP recombination target .
+The hmp , hmp : : km , and fur : : bla mutants used in the course of our investigations have been described earlier ( 6 , 28 ) .
+The mutations were confirmed by PCR analysis .
+A hmp : : km mutation was moved from strain AV13110 into S. Typhimurium strain KLM001 by P22 - mediated transduction to generate strain AV10274 .
+Pseudolysogens were eliminated by streaking on Evans blue uranine agar plates .
+Wild - type and fur mutant Salmonella strains grown overnight in LB broth were subcultured in fresh LB broth to an optical density at 600 nm ( OD 600 ) of 0.5 .
+Where indicated , some of the cultures were supplemented with 100 M - aminolevulinic acid ( - ALA ) .
+Inner membranes were prepared as described by Husain et al. ( 29 ) .
+Briefly , bacterial pellets were resuspended in 10 mM EDTA , 100 mM Tris HCl buffer , pH 8.5 .
+The bacteria were lysed by passing the cell suspension through a French press cell disruptor ( Thermo Electron Corporation , Milford , MA ) 3 times at 18,000 lb/in 2 at a flow rate of 5 ml/min .
+Cell debris was removed after centrifugation at 10,000 g for 20 min .
+The supernatants were then centrifuged at 200,000 g for 1 h , and the pellets were solubilized in 75 mM K 2 HPO 4 , 150 mM KCl , 5 mM EDTA , and 60 mM N - dodecyl - N , N dimethyl - 3-ammonio - 1-propane sulfonate buffer , pH 6.4 .
+Supernatants containing inner membranes were collected , and the protein concentration was assayed using a bicinchoninic acid protein assay kit ( Thermo Fisher Scientific , Rockford , IL ) .
+The protein concentration was adjusted to 1.5 mg/ml in 75 mM K 2 HPO 4 , 150 mM KCl , 5 mM EDTA , 10 mM ascorbate , and 60 mM N - dodecyl - N , N - dimethyl - 3-ammonio - 1-propane sulfonate buffer , pH 6.4 .
+Spectra were collected by absorbance spectroscopy with a Hewlett - Packard diode array spectrophotometer ( model 8452A ) .
+O 2 and NO measurements .
+Overnight Salmonella cultures diluted 1:100 in EG medium ( 1.66 mM MgSO 4 , 9.5 mM citric acid monohydrate , 57 mM K 2 HPO 4 , 16.7 mM NaNH 3 PO 4 , 0.4 % [ wt/vol ] glucose ) were grown to an OD 600 of 0.5 in a shaker incubator at 37 °C .
+The cultures were diluted to an OD 600 of 0.2 with EG medium and equilibrated in a shaker incubator at 37 °C for 3 min before transfer into an air - sealed , multiport measurement chamber equipped with ISO - OXY - 2 O 2 and ISO - NOP NO probes .
+The evolution of O 2 and NO in the cultures was recorded with an Apollo 4000 free - radical analyzer ( World Precision Instruments , Inc. , Sarasota , FL ) .
+Selected cultures were supplemented with 100 M - ALA. .
+The fast inhibition of respiratory activity in response to NO was studied by adding 5 M proli NONOate [ 1 - ( hydroxy - NNO - azoxy ) - L - proline ] ( halflife [ t 1/2 ] 1.8 s at 37 °C ) to the bacterial cultures when the concentration of O 2 in the chamber was 130 M. To assess the ability of the bacteria to adapt to NO , O 2 consumption was also studied in cultures treated for 10 min with 50 M spermine NONOate ( t 1/2 39 min at 37 °C ) .
+The rates of oxygen consumption supported by bacteria at a cell density of an OD 600 of 1 are expressed as M/s .
+The concentration of NO in the cultures is expressed as M. Bacterial growth kinetics .
+The growth kinetics of wild - type and mutant Salmonella were studied using a Bioscreen C growth analyzer ( Labsystems , Helsinki , Finland ) .
+Salmonella strains grown overnight in LB broth were diluted to 2 10 6 CFU/ml with fresh LB broth .
+The cultures were treated with 2.5 to 7.5 mM diethylentriamine ( DETA ) polyamine control or the NO - donor DETA NONOate .
+Two hundred microliters of the bacterial suspension was dispensed into a Bioscreen 100 - well microtiter plate .
+For analysis of growth under a normoxic environment , the microtiter plates were incubated at 37 °C for 30 h with continuous shaking .
+The OD 600 of the cultures was recorded every 15 min .
+To study the effect of - ALA on normoxic growth , some of the cultures diluted 1:100 in LB broth were supplemented with 100 M - ALA until they reached an OD 600 of 0.5 .
+The cultures were then diluted to 2 10 6 CFU/ml with fresh LB broth , and the bacterial growth was recorded under normoxic conditions as described above .
+To measure growth under hypoxic conditions , the bacterial cultures in the microtiter plates were overlaid with 50 l of mineral oil .
+The cultures were incubated at 37 °C for 30 h without shaking , and the bacterial density at 600 nm was recorded every 15 min .
+Bacterial virulence in mice .
+Eight - to 10 - week - old NRAMP1 r C3H / HeN mice were bred at the animal facility of the University of Colorado School of Medicine according to the University of Colorado at Denver , Anschutz Medical Campus , Institutional Animal Care and Use Committee guidelines .
+NRAMP1 r C3H/HeN mice were challenged intraperitoneally with 3 10 3 CFU/mouse of wild - type or isogenic fur mutant Salmonella prepared in phosphate - buffered saline from overnight cultures grown in LB broth .
+To evaluate the role of Fur in the resistance of Salmonella to iNOS - dependent cytotoxicity , the drinking water of selected groups of C3H/HeN mice was supplemented with 500 g/ml of the specific iNOS inhibitor N 6 - ( 1 - iminoethyl ) - L - lysine , dihydrochloride ( L - NIL ) .
+The survival of Salmonella - infected mice was recorded over time .
+Data are presented as the mean standard error of the mean or standard deviation .
+The statistical significance was calculated with a two - way analysis of variance , followed by a Bonferroni posttest .
+The statistical significance of the difference in O 2 consumption between the control and spermine NONOate - treated cells was calculated using a paired Student 's t test .
+Differences in mouse survival after Salmonella infection were determined by a log - rank Martel - Cox test .
+Data were considered statistically significant when the P value was 0.05 .
+RESULTS Fur contributes to the antinitrosative defenses of Salmonella .
+The cytoplasm of E. coli exposed to NO harbors nitrosyl - iron Fur complexes ; and fur mutants of E. coli , H. pylori , S. aureus , and B. subtilis are hypersusceptible to the cytotoxicity of this diatomic radical .
+We therefore tested whether Fur contributes to the antinitrosative armamentarium of Salmonella .
+Wild - type and fur mutant Salmonella strains grown overnight to stationary - phase in LB broth were diluted 1:100 in fresh LB broth .
+The cultures were treated with 7.5 mM either DETA NONOate or the DETA polyamine base .
+The fur mutant grew similarly to the isogenic wildtype controls during the first 6hofculture in LB broth supplemented with DETA but exhibited slightly lower growth - rates once the bacterial cells entered late log phase ( Fig. 1A ) .
+The overall doubling times of wild - type and fur mutant bacteria growing in LB broth were 1.1 and 1.7 h , respectively .
+The addition of 7.5 mM DETA NONOate , which generates about 7.5 M NO for the duration of the experiment ( 30 ) , inhibited the growth of wild - type bacteria .
+The fur mutant was even more sensitive to the bacteriostatic activity of DETA NONOate , showing an extended lag period compared to wild - type controls .
+The doubling time of wild - type Salmonella after the initial bacteriostasis imposed upon NO treatment was similar to that of the untreated controls ( 1.2 versus 1.1 h , respectively ) .
+In comparison to the untreated controls , NO significantly ( P 0.001 ) slowed the doubling time ( i.e. , 3.9 h ) of fur mutant Salmonella .
+Cumulatively , these data indicate that Salmonella fur mutant strains are hypersusceptible to NO during both the lag and log phases of growth .
+We also tested the anti - Salmonella activity of NO under O 2 - limiting conditions ( Fig. 1B ) .
+To attain a hypoxic environment , 50 l of sterile mineral oil was overlaid on top of the bacterial cultures .
+The addition of 7.5 mM DETA NONOate was highly inhibitory for both wild - type and fur 334 iai.asm.org Infection and Immunity Fur - Mediated Antinitrosative Defenses FIG 2 Consumption of O 2 by fur mutant Salmonella undergoing nitrosative stress .
+The consumption of O 2 was recorded in Salmonella grown to an OD 600 of 0.5 in EG medium .
+The bacteria were diluted to an OD 600 of 0.2 in an air - sealed chamber .
+Bacterial cultures were treated with 5 M proli NONOate ( arrows ) at a time when the concentration of O 2 in the medium was about 130 M .
+The evolution of NO in the cultures was also recorded .
+The data are representative of those from three independent experiments performed on three separate days .
+FIG 1 Effect of NO on bacterial growth .
+( A ) Growth of wild - type ( WT ) Salmonella and its isogenic fur mutant in LB broth supplemented with either 7.5 mM DETA or DETA NONOate in a 100 - well microtiter plate with shaking ( normoxic ) .
+( B ) Bacterial growth was also monitored in standing cultures overlaid with mineral oil after treatment with 2.5 mM DETA or DETA NONOate ( hypoxic ) .
+The data are representative of those from experiments performed on three independent days with five replicates each day .
+mutant bacteria grown under hypoxic conditions .
+Therefore , we tried lower concentrations of DETA NONOate .
+It was found that fur mutant bacteria grown under hypoxic conditions were hypersusceptible to 2.5 mM DETA NONOate compared to wild - type Salmonella .
+Together , these data indicate that Fur contributes to the antinitrosative defenses of Salmonella .
+Fur protects the respiratory activity of Salmonella undergoing nitrosative - stress .
+NO nitrosylates a variety of biomolecules , including [ 4Fe - 4S ] clusters , redox - active cysteines , organic - radicals , and quinol oxidases of the electron transport chain .
+NO reacts with metal groups in the cytochromes of terminal oxidases of the electron transport chain with k on ( association constant ) rates of 1.25 10 7 to 2.3 10 8 M 1 s 1 ( 31 ) , making these biomolecules one of the preferred targets of NO .
+We therefore tested the respiratory activity of fur mutant bacteria undergoing nitrosative stress ( Fig. 2 ) .
+Under the experimental conditions of our investigations , log - phase wild - type and fur mutant Salmonella bacteria respired at a rate of about 3.5 MO 2 / s/OD 600 unit .
+Proli NONOate , which at 37 °C and pH 7.4 releases NO with a half - life of 1.8 s , allowed us to deliver a bolus of 10 M NO .
+We then followed the evolution of NO in the cultures over time .
+The addition of 5 M proli NONOate inhibited the respiration of wild - type Salmonella .
+After 2 min , wild - type Salmonella resumed respiration at rates similar to the ones sustained before exposure to NO .
+The reestablishment of respiratory activity coincided with the detoxification of NO from the bacterial cultures .
+In comparison , the respiratory activity of fur mutant Salmonella was inhibited for about 3 min after NO treatment .
+The longer period of inhibition of respiration in proli NONOate - treated , fur mutant bacteria coincided with a prolonged presence of NO in the cultures ( P 0.05 ) .
+Hmp - independent , Fur - dependent antinitrosative defenses .
+The flavohemoprotein Hmp catalyzes the denitrosylation of NO to NO 3 , thereby serving as a primary defense mechanism against the nitrosative - stress generated by iNOS ( 11 ) .
+The transcription of hmp is derepressed in a fur mutant grown under anaerobic conditions ( 32 ) , raising the possibility that the sustained inhibition of respiratory activity endured by fur - deficient Salmonella undergoing nitrosative - stress is independent of Hmp function .
+To test this hypothesis , we constructed a double hmp fur mutant strain .
+Wildtype Salmonella grew in LB broth with kinetics similar to those for the hmp , fur , and fur hmp mutants ( Fig. 3A ) .
+The addition of 7.5 mM DETA NONOate completely inhibited the growth of the hmp mutant for the 30 h tested .
+Therefore , 1 mM DETA NONOate was used instead .
+The hmp mutant was significantly more susceptible than the fur - deficient strain to the bacteriostasis of 1 mM DETA NONOate ( Fig. 3B ) , indicating that the flavohemoprotein Hmp contributes to the antinitrosative defenses of Salmonella more than Fur .
+Interestingly , the fur hmp double mutant was even more susceptible than single fur or hmp mutant strains , supporting our hypothesis that Hmp and Fur independently contribute to the antinitrosative defenses of Salmonella .
+Hmp protects the respiratory activity of terminal cytochromes of the electron transport chain ( 33 ) .
+Therefore , the contribution of Fur and Hmp to Salmonella 's antinitrosative defenses was independently tested by monitoring the respiratory activity of logphase bacteria after spermine NONOate treatment .
+The bacteria were exposed to 50 M spermine or spermine NONOate .
+This donor was chosen because its 39 - min half - life facilitates the longterm release of NO , thereby allowing the expression of inducible antinitrosative determinants .
+After 10 min of treatment , the bacterial cultures were transferred to an air - sealed , multiport measurement chamber and the evolution of O 2 in the cultures was January 2014 Volume 82 Number 1 iai.asm.org 335 Husain et al. .
+FIG 3 Contribution of Hmp and Fur to the antinitrosative defenses of Salmonella .
+Growth of stationary - phase Salmonella diluted to 2 10 6 CFU/ml in LB medium over time .
+The bacterial cultures were treated with either 1 mM DETA ( A ) and DETA NONOate ( B ) .
+( C ) O 2 consumption in log - phase Salmonella grown in EG medium was monitored 10 min after the addition of 50 M the spermine control ( ctl ) or 50 M the NO - donor spermine NONOate ( sNO ) .
+The data are representative of those from three independent experiments performed on three separate days .
+The O 2 consumption rates supported by bacterial cells at a cell density of OD 600 of 1 are expressed as M/s .
+measured using an Apollo 4000 free - radical analyzer .
+The respiratory activity of wild - type bacteria was not inhibited ( P 0.05 ) after treatment with 50 M spermine NONOate ( i.e. , 3.8 versus 5.5 M O 2 / s/OD 600 unit for spermine and spermine NONOate , respectively ) .
+In contrast , the respiratory activity of log - phase hmp - deficient Salmonella was still inhibited 10 min after treatment with spermine NONOate ( i.e. , 4.6 versus 2.0 M O 2 / s / OD 600 unit for spermine and spermine NONOate , respectively ) .
+The respiration of the fur mutant was not affected ( P 0.05 ) 10 min after the addition of spermine NONOate ( 3.6 versus 3.0 M O 2 / s/OD 600 unit for spermine or spermine NONOate , respectively ) , suggesting that fur mutant Salmonella can adapt to prolonged exposure to NO .
+Remarkably , a lack of both fur and hmp further reduced the respiratory activity of Salmonella treated with 50 M spermine NONOate ( i.e. , 1.3 M O 2 / s/OD 600 unit ) .
+Cumulatively , these findings indicate that Hmp - and Fur - regulated targets can independently protect respiration against the inhibitory actions of the diatomic radical NO .
+Cytochrome content in Fur - deficient Salmonella and susceptibility to nitrosative - stress .
+UV - visible spectroscopic analysis of cytoplasmic membranes revealed that Fur - deficient Salmonella strains have decreased absorbance peaks at the 430 - nm Soret and 560 - nm visible regions of the spectrum ( Fig. 4A ) , indicating that Fur regulates the expression of cytochromes in Salmonella .
+The addition of - ALA , which is an intermediate of heme biosynthesis , restored the 430 - and 560 - nm absorption peaks in fur mutant Salmonella .
+In agreement with the spectroscopy data , membranes isolated from fur mutant bacteria grown in LB broth containing 100 M - ALA yielded a pellet with a brown stain that is consistent with an increase in cytochrome content ( Fig. 4B ) .
+We tested whether the addition of - ALA could enhance the resistance of fur mutant bacteria to the antimicrobial activity of 2 mM DETA NONOate .
+The bacteria grew in the presence of 100 M - ALA ; however , the addition of 2 mM DETA NONOate to LB broth containing - ALA completely inhibited the growth of both wildtype and fur mutant bacteria , which might reflect the toxicity associated with high levels of heme ( 34 ) .
+Therefore , to test the effect of - ALA on the susceptibility of Salmonella to DETA NONOate , the bacteria were grown to an OD 600 of 0.5 in LB broth supplemented with 100 M - ALA. .
+The cells were then washed and exposed to 2 mM DETA or DETA NONOate in fresh LB broth in the absence of - ALA. .
+Log - phase wild - type Salmonella bacteria were highly resistant to the bacteriostatic activity of 2 mM DETA NONOate ( Fig. 4C and D ) .
+In contrast , fur mutant bacteria exposed to 2 mM DETA NONOate were susceptible to NO .
+The fur mutant bacteria that had been grown in the presence of 100 M - ALA were as resistant to NO as the wild - type controls during the first2hofchallenge but became susceptible thereafter .
+The transient protective effects may be explained by the dwindling - ALA concentrations as fur mutant bacteria grew in fresh LB broth .
+The addition of 5 M proli NONOate more profoundly inhibited the consumption of O 2 in fur mutant Salmonella than in the wild - type controls ( Fig. 4E ) .
+Wild - type Salmonella growth in EG medium supplemented with 100 M - ALA detoxified NO more efficiently 336 iai.asm.org Infection and Immunity Fur - Mediated Antinitrosative Defenses FIG 4 Effect of - ALA supplementation on the cytochrome content , growth , and O 2 consumption .
+( A ) UV/visible difference absorbance ( A ) spectra were recorded in Salmonella grown in LB broth with or without 100 M - ALA. .
+The absorption band at 560 and the Soret peak at 430 nm correspond to the fully reduced cytochrome b. ( B ) Inner membrane preparations from fur mutant Salmonella grown with or without - ALA. ( C , D ) Effect of 100 M - ALA on the growth of log - phase wild - type and fur mutant Salmonella in the presence of 2 mM DETA ( C ) or DETA NONOate ( D ) .
+Where indicated , the Salmonella strains for which the results are presented in panels C and D were grown to log phase in LB broth supplemented with 100 M - ALA. .
+The cells were then washed and exposed to NO in fresh LB broth .
+( E ) Effect of 100 M - ALA on the respiratory activity of fur mutant Salmonella grown to log phase in EG medium .
+Selected cultures were treated with 5 M proli NONOate ( arrows ) when the concentration of O 2 in the cultures reached about 130 M. than control growth in EG medium , an activity that coincided with a shortened inhibition of respiration .
+Remarkably , the robust repression of respiratory activity noted in NO - treated fur - deficient Salmonella was prevented by growing the bacteria in EG medium containing 100 M - ALA. .
+Together , these findings suggest that the reduced cytochrome content of fur mutant bacteria decreases antinitrosative defenses .
+Fur contributes to Salmonella virulence by protecting against NO - dependent host defenses .
+The results of the experiments described above demonstrate the importance of Fur in the antinitrosative arsenal of Salmonella .
+Next , we tested the possibility that Fur - dependent antinitrosative defenses may contribute to Salmonella virulence in a murine model of acute infection .
+Because the antinitrosative defenses of Salmonella have consistently been better appreciated in mice expressing the wild - type NRAMP1 r allele ( 7 , 11 , 35 ) , we used C3H/HeN mice in these investigations .
+C3H/HeN mice were inoculated intraperitoneally with about 3,000 CFU of either wild - type or fur mutant Salmonella .
+The fur mutant was found to be profoundly attenuated in this acute model of Salmonella infection ( Fig. 5A ) , an observation that is consistent with our previously published data ( 27 ) .
+Using this murine model of salmonellosis , we tested whether Fur antagonizes iNOS - dependent anti - Salmonella host defenses .
+This idea FIG 5 Effect of iNOS inhibition on the virulence of fur mutant Salmonella .
+( A ) The survival of C3H/HeN mice infected intraperitoneally with wildtype or fur mutant Salmonella strains was studied over time .
+( B ) Some of the animals were treated with 500 g/ml of the iNOS - inhibitor L - NIL in drinking water .
+The data are from two independent experiments ( n 5to 11 mice per group ) .
+January 2014 Volume 82 Number 1 iai.asm.org 337 Husain et al. .
+FIG 6 Model for Fur - mediated , innate , antinitrosative defenses .
+Fur - mediated regulation of terminal quinol oxidases of the electron transport chain can boost the innate antinitrosative defenses of Salmonella by ( i ) generating the ATP that is necessary for bacterial growth and ( ii ) directly detoxifying NO .
+The critical role played by Fur in iron homeostasis may also add to the defense mechanisms against nitrosative - stress .
+For example , Fur - regulated expression of the sufABCDSE system could help repair [ 4Fe - 4S ] clusters damaged by NO and its oxidative congeners .
+Moreover , the Fur - dependent control of the labile iron pool could limit the formation of cytotoxic dinitrosyl - iron complexes ( DNIC ) .
+was examined by adding 500 g/ml of the iNOS - specific inhibitor L - NIL to the drinking water of C3H/HeN mice .
+As previously noted ( 35 ) , the addition of L - NIL to drinking water did not increase the virulence of wild - type Salmonella .
+In contrast , the addition of this iNOS competitive inhibitor to the drinking water of C3H/HeN mice significantly ( P 0.05 ) increased the virulence of fur - deficient Salmonella ( Fig. 5B ) .
+These findings indicate that Fur - regulated antinitrosative defenses contribute to the virulence potential of Salmonella .
+It should be noted , however , that fur mutant Salmonella was slightly more attenuated in L - NIL - treated mice than wild - type isogenic bacteria , indicating that some aspects of the Fur - mediated Salmonella virulence can not be accounted for by the contribution of this regulator to antinitrosative defenses .
+DISCUSSION Fur has been shown to be important in bacterial pathogenesis .
+The Fur metalloprotein could coordinate virulence through the regulation of metabolic processes , and more specifically , in the case of enteropathogenic bacteria , it could enhance pathogenicity by regulating the acid tolerance response that increases bacterial fitness in the low pH of the stomach ( 36 ) .
+Our investigations have identified regulation of antinitrosative defenses as a novel mechanism by which Fur contributes to Salmonella pathogenesis in an acute model of infection .
+Our investigations indicate that Fur helps maintain normal cytochrome content in Salmonella .
+The regulation of cytochrome expression could mediate Salmonella virulence by at least two non - mutually exclusive mechanisms ( Fig. 6 ) .
+First , the protontranslocating activity of terminal cytochromes of the electron transport chain is essential for the production of ATP during aerobic metabolism .
+Low cytochrome levels in fur mutant bacteria could affect Salmonella virulence because production of ATP is correlated with bacterial cell growth .
+In this context , cytochromes were recently found to add to the pathogenicity of S. aureus ( 37 ) .
+Copper and iron cofactors in quinol cytochrome oxidases are some of the preferred targets of the cytotoxicity of NO ( 38 ) .
+Therefore , the extended inhibition of respiration experienced by fur mutant bacteria undergoing nitrosative - stress could have a particularly devastating effect on ATP synthesis , cell growth , and Salmonella pathogenesis .
+Second , lower concentrations of the cytochrome bd oxidase , which is known to detoxify NO ( 31 ) , might have contributed to the slow detoxification of this diatomic radical in fur mutant Salmonella .
+The lingering concentrations of NO noted in cultures of fur mutant Salmonella could exert lasting cytotoxicity to critical enzymes , such as ribonucleotide reductase and dihydroxy - acid dehydratase ( 38 ) .
+Low concentrations of cytochrome bd oxidase could also explain why the doubling time of fur mutant Salmonella undergoing nitrosative - stress is less than the one recorded for wild - type controls .
+The reduced cytochrome content in fur mutant Salmonella is surprising since the cyoABCDE and cydAB genes encoding cytochrome bo and bd oxidases , respectively , are overexpressed in the absence of this regulatory metalloprotein ( 27 ) .
+These observations suggest that the decreased cytochrome content of fur - deficient Salmonella must be explained by defects at steps of their biosynthesis other than the transcriptional regulation of the cyoABCDE and cydAB operons .
+The addition of - ALA to the culture medium not only increased the cytochrome content of fur mutant bacteria to wild - type levels but also enhanced NO detoxification .
+These findings indicate that Fur must directly or indirectly control a step in the biosynthesis of - ALA. .
+This model is consistent with the fact that the supplementation of culture medium with - ALA reestablishes wild - type expression levels of the hemoproteins hydroperoxidase I and II in fur mutant bacteria ( 39 ) .
+In Salmonella and E. coli , the hemA - encoded - aminolevulinic acid synthase generates - ALA from glutamate by the C5 pathway ( 40 ) .
+Analysis of a lacZY transcriptional - fusion revealed similar expression of hemA in wild - type and fur mutant controls ( M. Song and A. Vázquez - Torres , unpublished data ) .
+Further investigations are needed in order to address how Fur regulates the biosynthesis of heme - proteins .
+Our investigations suggest that Fur regulates an innate antinitrosative detoxification system .
+However , fur mutant Salmonella strains respire and consume NO after prolonged exposure to NO , indicating that they are capable of mounting a delayed protective adaptive response against NO .
+The marked susceptibility of fur hmp mutant bacteria to nitrosative - stress indicates that the flavohemoprotein Hmp mediates the adaptive antinitrosative defenses seen in fur mutant bacteria .
+Our investigations are consistent with a model in which Fur controls an innate mechanism of detoxification of NO ( data herein ) , whereas the induction of the flavohemoprotein Hmp in response to the nitrosylation of the NsrR repressor provides adaptive , long - term , and amplified NO resistance ( 41 ) .
+Terminal cytochromes of the electron transport chain are logical suspects for the Fur - regulated innate NO detoxification noted in our investigations , as suggested by previous studies in E. coli ( 31 ) .
+Our observations also indicate that Fur - and Hmp - mediated antinitrosative defenses mostly operate independently .
+In support of this notion , a fur hmp double mutant not only was significantly more susceptible to the bacteriostatic actions of NO , but it also detoxified NO with apparently slower kinetics than fur and hmp single mutant isogenic Salmonella strains .
+Collectively , our investigations indicate that both innate and adaptive antinitrosative defenses are necessary for the growth of Salmonella in the presence of reactive - nitrogen - species generated by the inducible NO synthase .
+In addition to the regulation of cytochrome expression , Fur could enhance the antinitrosative defenses of Salmonella by other mechanisms as well ( Fig. 6 ) .
+For example , Fur is a positive regulator of the sufABCDSE operon that encodes an enzymatic pathway for the repair of oxidized [ 4Fe - 4S ] clusters ( 42 ) .
+As mentioned earlier , [ 4Fe - 4S ] clusters in dehydratases are some of the 338 iai.asm.org Infection and Immunity Fur - Mediated Antinitrosative Defenses preferred targets of NO and some of its oxidative products , such as peroxynitrite ( 38 , 43 ) .
+Low levels of expression of SufABCDSE in fur mutant bacteria could have devastating effects on the repair of dehydratases , such as aconitase , the nuo - encoded NADH dehydrogenase , glutamate synthetase , and dihydroxy - acid dehydratase , which are responsible for key aspects of central metabolism .
+In addition , deregulated iron homeostasis could play a key role in the hypersusceptibility of fur mutant Salmonella to nitrosative - stress .
+Increases in the cytoplasmic pool of labile iron in fur mutant bacteria could lead to the formation of highly cytotoxic dinitrosyliron complexes that , according to work published by Lancaster and collaborators ( 44 ) , are the leading nitrosating species in the cell .
+This research was supported by NIH grant AI54959 , U.S. Department of Veterans Affairs grant 1I01BX002073 , and the Burroughs Wellcome Fund .
+We are grateful to Michael Vasil from the University of Colorado School of Medicine for helpful discussions during the preparation of the manuscript .
+Fields PI , Swanson RV , Haidaris CG , Heffron F. 1986 .
+Mutants of Salmonella typhimurium that can not survive within the macrophage are avirulent .
+Vazquez - Torres A , Jones - Carson J , Mastroeni P , Ischiropoulos H , Fang FC .
+Antimicrobial actions of the NADPH phagocyte oxidase and inducible nitric - oxide synthase in experimental salmonellosis .
+I. Effects on microbial killing by activated peritoneal macrophages in - vitro .
+Stevanin TM , Poole RK , Demoncheaux EA , Read RC .
+Flavohemoglobin Hmp protects Salmonella enterica serovar Typhimurium from nitric - oxide - related killing by human macrophages .
+Paolillo R , Carratelli CR , Rizzo A. 2011 .
+Effect of resveratrol and quercetin in experimental infection by Salmonella enterica serovar Typhimurium .
+Azenabor AA , Kennedy P , York J. 2009 .
+Free intracellular Ca 2 regulates bacterial lipopolysaccharide induction of iNOS in human macrophages .
+McCollister BD , Bourret TJ , Gill R , Jones - Carson J , Vazquez - Torres A. 2005 .
+Repression of SPI2 transcription by nitric - oxide - producing , IFN activated macrophages promotes maturation of Salmonella phagosomes .
+Song M , Husain M , Jones - Carson J , Liu L , Henard CA , Vazquez - Torres A. 2013 .
+Low - molecular - weight thiol - dependent antioxidant and antinitrosative defences in Salmonella pathogenesis .
+De Groote MA , Testerman T , Xu Y , Stauffer G , Fang FC .
+Homocysteine antagonism of nitric - oxide - related cytostasis in Salmonella typhimurium .
+Fang FC , DeGroote MA , Foster JW , Baumler AJ , Ochsner U , Testerman T , Bearson S , Giard JC , Xu Y , Campbell G , Laessig T. 1999 .
+Virulent Salmonella typhimurium has two periplasmic Cu , Zn - superoxide dismutases .
+Hausladen A , Gow A , Stamler JS .
+Flavohemoglobin denitrosylase catalyzes the reaction of a nitroxyl equivalent with molecular oxygen .
+Bang IS , Liu L , Vazquez - Torres A , Crouch ML , Stamler JS , Fang FC .
+Maintenance of nitric - oxide and redox homeostasis by the Salmonella flavohemoglobin hmp .
+Crawford MJ , Goldberg DE .
+Role for the Salmonella flavohemoglobin in protection from nitric - oxide .
+Chakravortty D , Hansen - Wester I , Hensel M. 2002 .
+Salmonella pathogenicity island 2 mediates protection of intracellular Salmonella from reactive nitrogen intermediates .
+Richardson AR , Soliven KC , Castor ME , Barnes PD , Libby SJ , Fang FC .
+The base excision repair system of Salmonella enterica serovar Typhimurium counteracts DNA damage by host nitric - oxide .
+Bodenmiller DM , Spiro S. 2006 .
+The yjeB ( nsrR ) gene of Escherichia coli encodes a nitric - oxide - sensitive transcriptional regulator .
+D'Autreaux B , Tucker NP , Dixon R , Spiro S. 2005 .
+A non - haem iron centre in the transcription factor NorR senses nitric - oxide .
+Cruz - Ramos H , Crack J , Wu G , Hughes MN , Scott C , Thomson AJ , Green J , Poole RK .
+NO sensing by FNR : regulation of the Escherichia coli NO - detoxifying flavohaemoglobin , Hmp .
+D'Autreaux B , Touati D , Bersch B , Latour JM , Michaud - Soret I. 2002 .
+Direct inhibition by nitric - oxide of the transcriptional ferric uptake regulation protein via nitrosylation of the iron .
+Ding H , Demple B. 2000 .
+Direct nitric - oxide signal transduction via nitrosylation of iron - sulfur centers in the SoxR transcription activator .
+Hausladen A , Privalle CT , Keng T , DeAngelo J , Stamler JS .
+Nitrosative stress : activation of the transcription factor OxyR .
+Henard CA , Vazquez - Torres A. 2012 .
+DksA - dependent resistance of Salmonella enterica serovar Typhimurium against the antimicrobial activity of inducible nitric - oxide synthase .
+Spiro S , D'Autreaux B. 2012 .
+Non - heme iron sensors of reactive oxygen and nitrogen species .
+Moore CM , Nakano MM , Wang T , Ye RW , Helmann JD .
+Response of Bacillus subtilis to nitric - oxide and the nitrosating agent sodium nitroprusside .
+Richardson AR , Dunman PM , Fang FC .
+The nitrosative - stress response of Staphylococcus aureus is required for resistance to innate immunity .
+Qu W , Zhou Y , Shao C , Sun Y , Zhang Q , Chen C , Jia J. 2009 .
+Helicobacter pylori proteins response to nitric - oxide stress .
+Mukhopadhyay P , Zheng M , Bedzyk LA , LaRossa RA , Storz G. 2004 .
+Prominent roles of the NorR and Fur regulators in the Escherichia coli transcriptional response to reactive - nitrogen - species .
+Troxell B , Sikes ML , Fink RC , Vazquez - Torres A , Jones - Carson J , Hassan HM .
+Fur negatively regulates hns and is required for the expression of HilA and virulence in Salmonella enterica serovar Typhimurium .
+Velayudhan J , Castor M , Richardson A , Main - Hester KL , Fang FC .
+The role of ferritins in the physiology of Salmonella enterica sv .
+Typhimurium : a unique role for ferritin B in iron - sulphur cluster repair and virulence .
+Husain M , Bourret TJ , McCollister BD , Jones - Carson J , Laughlin J , Vazquez - Torres A. 2008 .
+Nitric oxide evokes an adaptive response to oxidative - stress by arresting respiration .
+Henard CA , Bourret TJ , Song M , Vazquez - Torres A. 2010 .
+Control of redox balance by the stringent - response regulatory protein promotes antioxidant defenses of Salmonella .
+Mason MG , Shepherd M , Nicholls P , Dobbin PS , Dodsworth KS , Poole RK , Cooper CE .
+Cytochrome bd confers nitric - oxide resistance to January 2014 Volume 82 Number 1 iai.asm.org 339 Husain et al. .
+Troxell B , Fink RC , Porwollik S , McClelland M , Hassan HM .
+The Fur regulon in anaerobically grown Salmonella enterica sv .
+Typhimurium : identification of new Fur targets .
+Stevanin TM , Ioannidis N , Mills CE , Kim SO , Hughes MN , Poole RK .
+Flavohemoglobin Hmp affords inducible protection for Escherichia coli respiration , catalyzed by cytochromes bo = or bd , from nitric - oxide .
+Anzaldi LL , Skaar EP .
+Overcoming the heme paradox : heme toxicity and tolerance in bacterial pathogens .
+Husain M , Jones - Carson J , Song M , McCollister BD , Bourret TJ , Vazquez - Torres A. 2010 .
+Redox sensor SsrB Cys 203 enhances Salmonella fitness against nitric - oxide generated in the host immune response to oral infection .
+Foster JW , Moreno M. 1999 .
+Inducible acid tolerance mechanisms in enteric bacteria .
+Hammer ND , Reniere ML , Cassat JE , Zhang Y , Hirsch AO , Indriati Hood M , Skaar EP .
+Two heme - dependent terminal oxidases power Staphylococcus aureus organ - specific colonization of the vertebrate host .
+Henard CA , Vazquez - Torres A. 2011 .
+Nitric oxide and Salmonella pathogenesis .
+The role of ferric uptake regulator in regulation of metal homeostasis , metabolism , virulence , and protection against hydrogen peroxide in Salmonella enterica serovar Typhimurium .
+North Carolina State University , Raleigh , NC .
+Avissar YJ , Beale SI .
+Identification of the enzymatic basis for deltaaminolevulinic acid auxotrophy in a hemA mutant of Escherichia coli .
+Hausladen A , Gow AJ , Stamler JS .
+Nitrosative stress : metabolic pathway involving the flavohemoglobin .
+Nachin L , El Hassouni M , Loiseau L , Expert D , Barras F. 2001 .
+SoxRdependent response to oxidative - stress and virulence of Erwinia chrysanthemi : the key role of SufC , an orphan ABC ATPase .
+Henard CA , Vazquez - Torres A. 2013 .
+Regulation of Salmonella resistance to oxidative and nitrosative - stress , p 425 -- 440 .
+In Vasil ML , Darwin AJ ( ed ) , Regulation of bacterial virulence .
+ASM Press , Washington , DC .
+Bosworth CA , Toledo JC , Jr , Zmijewski JW , Li Q , Lancaster JR , Jr. 2009 .
+Dinitrosyliron complexes and the mechanism ( s ) of cellular protein nitrosothiol formation from nitric - oxide .

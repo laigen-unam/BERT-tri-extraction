@@ -1,0 +1,401 @@
+Mapping and Regulation of Genes within Salmonella Pathogenicity Island 12 That Contribute to In Vivo Fitness of Salmonella enterica Serovar Typhimurium Ana M. Tomljenovic - Berube , a , b Brandyn Henriksbo , b Steffen Porwollik , c , d Colin A. Cooper , b Brian R. Tuinema , a , b Michael McClelland , c , d Brian K. Coombes a , b Michael G. DeGroote Institute for Infectious Disease Research a and Department of Biochemistry and Biomedical Sciences , b McMaster University , Hamilton , Ontario Canada ; Department of Pathology and Laboratory Medicine c and Department of Microbiology and Molecular Biology , d University of California Irvine , Irvine , California , USA Salmonella pathogenicity island 12 ( SPI - 12 ) of Salmonella enterica serovar Typhimurium is a 15 - kb region that encompasses genes STM2230 to STM2245 and encodes a remnant phage known to contribute to bacterial virulence .
+In mouse infection experiments and replication assays in macrophages , we demonstrated a role for four genes in SPI - 12 for bacterial survival in the host .
+STM2239 , a potential Q antiterminator , showed a prominent contribution to bacterial fitness .
+Transcriptional reporter experiments , quantitative reverse transcription - PCR ( RT - PCR ) , and immunoblotting demonstrated that the virulence regulator SsrB and STM2239 contribute to transcriptional activation of genes in SPI - 12 .
+SsrB was found to indirectly regulate this locus by transcriptional read - through from the sspH2 ( STM2241 ) promoter .
+Chromatin immunoprecipitation showed that STM2239 copurified with the promoter regulating STM2237 , suggesting that STM2239 may function as an antiterminator to activate adjacent genes .
+These results demonstrate that bacteriophage genes may be adapted by pathogenic bacteria to improve fitness in the host .
+Horizontal gene transfer ( HGT ) is a prominent driver of evolution in bacterial pathogens , allowing rapid adaptation to new environments ( 1 ) .
+These integration events have shaped the genomic landscape of many organisms and in some cases contributed to host range expansion , such as the acquisition of the intracellular virulence machinery encoded in Salmonella pathogenicity island 2 ( SPI - 2 ) ( 2 -- 6 ) .
+While there are several mechanisms by which HGT can occur , bacteriophage - mediated transduction has contributed significantly to the mosaic nature of bacterial genomes , introducing substantial diversity not only among different species but also within subspecies ( 7 ) .
+In Salmonella enterica serovar Typhimurium , prophages have introduced a number of virulence - factors that contribute to the pathogenic nature of this organism .
+These genes , called lysogenic conversion genes , are integrated into new bacterial genomes through passive carriage by bacteriophages that can package bacterial genes from one host during a lytic cycle and introduce this new genetic content into a subsequent host ( 8 ) .
+S. Typhimurium has acquired an extensive arsenal of virulence genes in this manner , including sopE , contained within the SopE prophage ; gogB , contained within Gifsy - 1 ; sseI and gtgE , contained within Gifsy - 2 ; and the superoxide dismutase genes sodC1 and sodC3 , contained within Gifsy - 2 and Fels - 1 , respectively ( 9 -- 15 ) .
+Additionally , several other virulence genes are contained within cryptic prophages .
+Many of these phage loci are remnants with a reduced repertoire of phage genes rendering them unable to produce viable phage .
+As with intact prophage , remnant phage islands can be associated with genes that confer a virulence or fitness advantage on the bacterial host as part of adaptation to specific environments ( 16 ) .
+The incorporation of horizontally acquired genes into existing regulatory networks has been the subject of much research , particularly with Salmonella .
+Transcriptional regulators involved in the activation of virulence - factors have been extensively studied , with PhoP and SsrB integrating large regulons important for infection ( 17 , 18 ) .
+We recently identified the regulatory logic controlling SsrB - DNA interactions and showed that the SsrB response regulator controls about 4 % of the Salmonella genome ( 19 ) , including genes in the remnant phage in Salmonella pathogenicity island 12 ( SPI - 12 ) ( 19 -- 21 ) .
+Previous work showed that SPI - 12 contributes to S. Typhimurium systemic survival in mice ; however , the individual genes responsible for this fitness benefit were not identified ( 22 ) .
+In this study , we investigated the mechanism of SPI - 12 regulation by SsrB and quantified the fitness benefit associated with individual SPI - 12 genes during host infection .
+We show that STM2239 , a putative Q antiterminator , accounts for much of the fitness benefit associated with SPI - 12 .
+STM2239 is expressed through transcriptional read - through from the SsrBcontrolled sspH2 promoter and subsequently activates additional phage genes in SPI - 12 .
+MATERIALS AND METHODS Bacterial strains and growth - conditions .
+Bacterial strains and plasmids used in this work are listed in Table S1 in the supplemental material .
+Strains were propagated in Luria - Bertani ( LB ) medium unless otherwise indicated .
+Liquid cultures were grown at 37 °C with shaking unless otherwise noted .
+Antibiotics were used at the following concentrations : ampicillin , 100 g/ml ; kanamycin , 50 g/ml ; and streptomycin , 50 g/ml .
+Published ahead of print 29 April 2013 Editor : A. J. Bäumler Address correspondence to Brian K. Coombes , coombes@mcmaster.ca .
+Supplemental material for this article may be found at http://dx.doi.org/10.1128 / IAI.00067 - 13 .
+doi : 10.1128 / IAI.00067 - 13 2394 iai.asm.org Infection and Immunity p. 2394 -- 2404 July 2013 Volume 81 Number 7 Mapping and Regulation of SPI - 12 Low - phosphate , low - magnesium ( LPM ) medium ( 23 ) was used for microarray , reverse transcription - PCR ( RT - PCR ) , chromatin immunoprecipitation ( ChIP ) , - galactosidase , and immunoblot experiments .
+Cloning and mutant construction .
+Primers used for construction of plasmid inserts and mutant or tagged strains are listed in Table S2 in the supplemental material .
+All S. Typhimurium deletion mutant strains were generated using the Lambda Red recombination method ( 24 ) .
+Chromosomal hemagglutinin ( HA ) or 3FLAG tags were generated using pSUB315 ( Kan r ) and pSUB11 ( Kan r ) as the templates , respectively ( 25 ) .
+Resistance cassettes were resolved using pCP20 where indicated in Table S1 in the supplemental material .
+For generation of - galactosidase reporter plasmids , 1,000 bp of intergenic sequence upstream of the relevant gene was cloned into pIVET5n using XhoI - MfeI restriction sites and confirmed by sequencing .
+Plasmids were maintained in Escherichia coli SM10 pir and conjugated into S. Typhimurium .
+Integrated reporters were selected by antibiotic resistance phenotypes .
+Plasmids carrying 2HA - tagged constructs for protein studies were generated in pWSK129 .
+For instance , pWSK129 - STM2234 - 2HA contains the promoter for STM2237 , and the operon genes STM2237 , STM2236 , STM2235 , and STM2234 , with the 2HA tag at the 3 = end of STM2234 .
+Inserts were cloned using SalI - BglII .
+The pWSK129 - PsspH2 : : STM2239 complementation vector was constructed using splicing by overlap extension ( SOE ) PCR ( 26 ) .
+The pFLAG - STM2239 construct was generated in pFLAG - CTC ( Sigma ) using XhoI - BglII restriction sites .
+Finally , for generation of the pCS26 luminescence reporter plasmids , 600 bp of intergenic sequence upstream of the relevant genes was cloned into pCS26 ( 27 ) using XhoI - BamHI restriction sites and confirmed by sequencing .
+ChIP was conducted as described previously ( 28 ) with the following modifications : wild - type , SsrB - 3FLAG , and STM2239 - 3FLAG strains were grown in LPM , pH - 5.8 , to mid - log phase .
+Formaldehyde was added to a 1 % final concentration and then quenched with glycine ( 125 mM ) .
+Cells were pelleted and resuspended in a 1:1 mix of ChIP lysis buffer and 2 radioimmunoprecipitation assay ( RIPA ) solution in 1/10 the original culture volume .
+The suspension was incubated at 37 °C for 30 min to lyse the bacteria .
+Aliquots of 0.5 ml were subjected to sonication using a Misonix 4000 sonicator ( Fisher Scientific ) at 40 % intensity for 10 - to 15 - s pulses to shear the chromosomal DNA to a size range of 500 to 1,000 bp .
+Lysates were clarified via centrifugation , and supernatants were used as input for immunoprecipitation .
+Immunoprecipitation was conducted overnight at 4 °C on a rolling shaker , using prewashed anti - FLAG - M2 magnetic bead resin ( Sigma ) .
+The IP resin was subjected to multiple wash treatments ( 28 ) , treated with RNase A ( 20 g/ml ) for 30 min at 37 °C , and then subjected to a final wash in Tris - EDTA ( TE ) buffer ( pH 8.0 ) followed by suspension in 100 l of ChIP elution buffer .
+Samples were incubated for 10 min at 65 °C , proteinase K was added ( final concentration , 0.8 mg/ml ) , and samples were incubated for 2hat42 °C , followed by an overnight incubation at 65 °C .
+The eluted IP DNA and input DNA were purified using phenol - chloroform extraction , precipitated with ethanol , and resuspended in nuclease - free water .
+Immunoprecipitated DNA from wild type ( untagged ) , SsrB - 3FLAG , and STM2239 - 3FLAG - tagged strains was purified and used as the template for PCR , employing primers indicated in Table S2 in the supplemental material .
+Exactly 1 l of DNA was used as the template in a 50 - l PCR mixture using Platinum Taq polymerase ( Life Techonologies ) , as directed by the manufacturer .
+PCR proceeded for 30 cycles and was resolved via electrophoresis on a 1 % agarose gel .
+- Galactosidase activity was assayed as described previously ( 29 ) .
+Briefly , washed Salmonella cells were inoculated 1:50 from overnight cultures into LPM , pH - 5.8 , liquid medium and grown with shaking for 7 h. Samples were taken to measure - galactosidase activity using a chemiluminescence - based assay ( Applied Biosystems ) .
+Luminescence was measured on an EnVision multilabel reader ( Perkin - Elmer ) and was expressed as relative light units ( RLU ) , normalized to optical density at 600 nm ( OD 600 ) .
+Each experiment was performed in three biological replicates and repeated three times .
+Bacterial cultures grown overnight were washed , subcultured 1:50 into LPM , pH - 5.8 , and grown to an OD 600 of 0.6 .
+Cells were pelleted and then resuspended in SDS - PAGE sample buffer ( 100 mM Tris - HCl [ pH 6.8 ] , 20 % [ vol/vol ] glycerol , 4 % [ wt/vol ] SDS , 0.002 % [ wt / vol ] bromophenol blue , and 200 mM dithiothreitol [ DTT ] ) with volumes normalized according to optical density as described previously ( 23 ) .
+Resuspended samples were heat treated at 100 °C for 10 min , and then 10 l of each sample was loaded onto 15 % SDS - PAGE gels and subjected to electrophoresis .
+Gels were transferred to polyvinylidene difluoride ( PVDF ) membranes and probed with the following antibodies : mouse anti - HA ( 1:1,000 or 1:2,000 ; Covance ) , mouse anti - DnaK ( 1:5,000 or 1:10,000 ; Stressgen ) , rabbit anti - SseC ( 1:10,000 ; gift from M. Hensel ) , goat anti - mouse - horseradish peroxidase ( HRP ) conjugate ( 1:5,000 ; Sigma ) , and goat anti - rabbit - HRP conjugate ( 1:5,000 ; Sigma ) .
+Conjugated HRP was detected using the Western Lightning Plus - ECL chemiluminescence reagent ( PerkinElmer ) , as per the manufacturer 's directions .
+RAW264 .7 macrophage cells were grown at 37 °C and 5 % CO 2 , in Dulbecco modified Eagle medium ( DMEM ) supplemented with 10 % ( vol/vol ) fetal bovine serum ( FBS ) ( Gibco ) throughout all experiments .
+Bacteria were grown overnight in LB medium , centrifuged , resuspended in opsonization medium ( DMEM , 20 % human serum ) , and then incubated at 37 °C for 30 min .
+RAW264 .7 cells were seeded at 2 10 5 / well in 24 - well tissue culture plates and then infected at a multiplicity of infection of 100 .
+Cells were infected for 30 min , washed , and then treated with 100 g/ml of gentamicin for 90 min , followed by an additional 18 h in DMEM containing 10 g/ml of gentamicin .
+After 2 and 20 h , macrophages were lysed ( 1 % Triton X - 100 , 0.1 % SDS ) , diluted , and plated to determine viable bacterial counts .
+Replication was determined as CFU ( 20 h ) / CFU ( 2 h ) , and normalized to the replication of the wild type for each independent experiment .
+All experiments were repeated 5 times unless otherwise noted .
+Statistical analysis was performed using a Student paired t test .
+Competitive infection of animals .
+All animal protocols were performed in accordance with the Canadian Council on the Use of Laboratory Animals and approved by the McMaster University Animal Ethics Committee .
+For competitive infections of the wild type against mutants , 2 10 6 Salmonella organisms containing a 1:1 mix ratio of chloramphenicol - resistant wild type ( SL1344 ushA : : Cm ) ( 29 ) and unmarked mutant were administered orogastrically to female C57BL/6 mice ( Charles River ) .
+At minimum , 5 mice per strain were used .
+At 3 days postinfection , mice were sacrificed ; the spleen , liver , and cecum were harvested , homogenized , serially diluted , plated on selective medium ( LB - streptomycin ) , and then replica plated onto LB - medium containing streptomycin and chloramphenicol to determine the ratio of chloramphenicol - resistant to - sensitive colonies .
+The competitive index was calculated as ( mutant/wild type ) output / ( mutant/wild type ) input .
+For mixed - mutant competitive infections , bacteria were administered via either the oral or intraperitoneal route .
+For oral infections , 2 10 7 Salmonella organisms containing a 1:1 mix ratio of unmarked and marked ( Kan r ) mutant strains was administered .
+Intraperitoneal infections utilized 2 10 5 total Salmonella organisms containing a 1:1 mix ratio of unmarked and marked ( Kan r ) mutant strains .
+Statistical analysis was performed using a Student t test .
+For isolation of bacterial RNA , Salmonella strains were grown in either LB or LPM , pH - 5.8 , liquid culture to mid - log phase , with an OD 600 of 0.5 .
+Exactly 1 ml of 95 % ethanol -- 5 % acidic phenol ( pH 4.3 ) ( vol/vol ) solution ( Sigma ) was added per 5 ml of culture , and this mixture was incubated at 4 °C for 20 min .
+Bacteria were isolated by centrifugation , resuspended in 200 l of 10 mM Tris , pH 8.0 , with lysozyme ( 1 mg/ml ) , and incubated for 10 min at 37 °C .
+RNA was isolated using the Roche High Pure RNA isolation kit ( Roche ) as per the manufacturer 's instructions for bacterial RNA , including on - column DNase I treatment .
+Purified RNA was subjected to two additional rounds of DNase I treatment using the TURBO DNA - free kit ( Ambion ) .
+July 2013 Volume 81 Number 7 iai.asm.org 2395 Tomljenovic - Berube et al. pro2 tRNA STM2230 STM2231 oafA STM2233 STM2234 STM2235 STM2236 STM2237 STM2238 STM2239 STM2240 sspH2 STM2242 STM2243 STM2244 pagL narP FIG 1 The SPI - 12 locus in Salmonella enterica serovar Typhimurium strain SL1344 .
+Shown is a schematic diagram depicting gene arrangement at SPI - 12 .
+The locus spans bases 2328470 to 2345065 in S. Typhimurium .
+Black arrows indicate genes of likely bacterial origin , blue arrows indicate genes of likely bacteriophage origin , and the red arrow identifies the lysogenic conversion gene sspH2 .
+For quantitative RT - PCR ( qRT - PCR ) , RNA was treated with DNase inactivation reagent ( Ambion ) and assessed for DNA contamination using PCR prior to reverse transcription ( RT ) .
+Total RNA was adjusted to identical concentrations prior to RT , to normalize between isolates .
+RT was conducted using Superscript III reverse transcriptase , as per the manufacturer 's instructions , using random hexamers ( Life Technologies ) .
+First - strand cDNA was diluted 1:10 prior to qRT - PCR .
+The qRT - PCR experiments were conducted using the Roche LightCycler 480 ( Roche ) in a 96 - well format , with Roche SYBR - Green I Master reagents ( Roche ) .
+Normalized ratios ( mutant/wild type ) were calculated via the pFAFFL equation method , using the rsmC transcript as an internal control across all strains .
+Each experiment used three technical replicates and was repeated three times .
+A Competitive Index 10 1 0.1 *** *** * B 0.01 10 spleen liver cecum ** ** ** * ** *** ** Competitive Index 1 0.1 0.01 0.001 spleen liver ∆ STM2234 spleen liver spleen liver spleen liver spleen liver spleen liver ∆ STM2235 ∆ STM2236 ∆ STM2237 ∆ STM2239 ∆ STM2240 C 10 ns ns 10 Competitive Index 1 0.1 D Competitive Index 1 ** 0.01 spleen liver 0.1 FIG 2 Four bacteriophage genes in SPI - 12 contribute to in - vivo fitness .
+( A and B ) Competitive - infection experiments between wild - type and mutant strains .
+Each data point represents an individual animal , and the horizontal bars represent the geometric means .
+( A ) Wild type versus STM2234 - STM2240 in C57BL/6 mice ( n 9 ) .
+( B ) Wild type competed against six individual phage gene mutants as indicated ( n 5 ) .
+STM2234 , STM2235 , STM2236 , and STM2239 deletion mutants showed a CI of 1.0 .
+( C and D ) Competitive - infection experiments between two mutant strains , as indicated .
+Each data point represents an individual animal , and the horizontal bars represent the geometric means .
+( C ) STM2234 - STM2240 versus STM2239 mutant ( n 7 ) .
+( D ) STM2239 versus STM2234 - STM2237 mutant .
+Circles represent mice infected by the intraperitoneal route ( n 5 ) ; squares represent mice infected orogastrically ( n 3 ) .
+* , P 0.05 ; ** , P 0.01 ; *** , P 0.001 ; ns , not significant .
+spleen 2396 iai.asm.org Infection and Immunity Mapping and Regulation of SPI - 12 A 150 B 200 * Percent of wt 100 50 *** ** Percent of wt 150 100 50 ** 0 WT ∆ ssrB ∆ STM2234 ∆ STM2235 ∆ STM2236 ∆ STM2237 ∆ STM2239 ∆ STM2240 ∆ STM2234 - 40 0 WT + pWSK129 ∆ STM2239 ∆ STM2239 pPsspH2 : : STM2239 FIG 3 The STM2239 mutant shows a replication defect in - vitro .
+Gentamicin protection assays were conducted to assess gene contribution to intracellular replication in RAW264 .7 cells .
+( A ) Macrophages were infected with the strains indicated , and the percentages were determined as the ratio of CFU at 2 and 20 h postinfection normalized to the wild type ( wt ) , where wt equals 100 % .
+The ssrB mutant was used as a replication - deficient control .
+Data are the means with standard errors from 5 experiments .
+( B ) The replication defect observed in the STM2239 mutant was complemented by providing the gene on a plasmid .
+Data are the means with standard errors from 5 experiments .
+For 5 = random amplification of cDNA ends ( RACE ) analysis , RNA was isolated from wild - type S. Typhimurium carrying an isopropyl - - D - thiogalactopyranoside ( IPTG ) - inducible pFLAG - STM2239 plasmid .
+This strain was grown in LB supplemented with 1 mM IPTG to overexpress STM2239 while maintaining environmental conditions suitable for purification of stable RNA necessary for 5 = transcript mapping .
+The firststrand cDNA template was generated using primer GSP1 P2237 and then purified using a Qiaquick PCR purification column ( Qiagen ) .
+Poly ( C ) tailing and cDNA amplification were achieved using the 5 = RACE System for rapid amplification of cDNA ends , version 2.0 , from Invitrogen ( Life Technologies ) .
+PCR products from primer pair GSP3 P2237 - AUAP were purified and sequenced to determine the transcriptional start site .
+The experiment was done twice to ensure reproducibility .
+For microarray analysis to identify STM2239 - regulated genes , RNA was isolated as described above , with the following adjustments .
+Salmonella strains carrying either pFLAG - CTC ( empty vector control ) or pFLAG - STM2239 were grown in 10 ml of LB - ampicillin for 1.5 h at 37 °C and 225 rpm to an OD 600 of 0.1 , then IPTG ( 1 mM ) was added , and the culture was incubated for 1.5 h to an OD 600 of 0.5 to induce expression of STM2239 .
+RNA was isolated from each strain in three biological replicates on separate days , purified and DNase treated as described previously , and then pooled and concentrated following TURBO DNase treatment on an RNeasy RNA purification column ( Qiagen ) to achieve concentrations suitable for microarray analysis ( 1 g / l ) .
+RNA was used as the template to generate Cy3 - and Cy5 - labeled first - strand cDNA using Superscript II ( Life Technologies ) and Cy3 or Cy5 dye - labeled dCTP .
+Approximately 20 g of total RNA was preincubated with 2.4 gof random hexamers ( Life Technologies ) at 70 °C for 10 min and then placed on ice for 2 min .
+The RNA mix was then combined with the Superscript II mastermix , which was composed of the following : 4 l of dye - labeled 1 mM dCTP ( Cy3/Cy5 ) , 6 l of 0.1 M DTT , 12 l of first - strand buffer ( Life Technologies ) ,1.2 l of nucleotide mix ( 25 mM [ each ] dATP , dTTP , and dGTP ; 10 mM dCTP ) , 4 l of Superscript II reverse transcriptase ( Life Technologies ) , 2 l of RNasin ( Roche ) , and 0.8 l of nuclease - free water .
+The reaction mixture was incubated at 42 °C for 1 h , followed by addition of 2 l of Superscript II and a second incubation at 42 °C for 1 h. Exactly 3 l of fresh 1 M NaOH was added .
+The suspension was then incubated at 70 °C for 10 min , followed by reaction neutralization with 3 l of 1 M HCl .
+The cDNA was purified using the Qiagen PCR purification kit according to the manufacturer 's directions ( Qiagen ) .
+Labeled cDNAs were hybridized to S. Typhimurium 14028 high - density oligonucleotide arrays ( Roche NimbleGen ) in formamide - containing hybridization buffer overnight at 42 °C , according to standard protocols ( Roche NimbleGen ) .
+Arrays were scanned using the Axon GenePix 4000B scanner ( Molecular Devices LLC , Sunnyvale , CA ) .
+Image analysis and feature extraction were performed with Axon GenePix Pro software ( Molecular Devices ) .
+Experiments were performed in triplicate with dye swapping .
+Output data were analyzed using WebarrayDB and LIMMA software packages ( 30 , 31 ) .
+S. Typhimurium growth curves .
+S. Typhimurium phage gene mutant strains were subcultured from washed overnight cultures into 200 lofLB medium ( 1:100 ) or LPM ( 1:50 ) in triplicate into a clear flat - bottomed 96 - well plate ( VWR ) .
+Cultures were grown for 11 h ( 40,000 s ) at 37 °C with shaking set at medium speed in a Tecan microplate reader ( Tecan Group Ltd. ) set to take readings every 15 min .
+Data represent the averages of three independent growth experiments .
+Microarray data accession number .
+The microarray data used in the study have been deposited in the Gene Expression Omnibus ( GEO ) database ( http://www.ncbi.nlm.nih.gov/geo ) under accession number GSE47165 .
+RESULTS Bacteriophage genes within SPI - 12 contribute to in - vivo fitness of Salmonella Typhimurium .
+Previous experiments had identified SPI - 12 as a pathogenicity island , where a mutant with a deletion of STM2230 to STM2245 was attenuated in mice ( Fig. 1 ) ( 22 ) .
+We later identified five genes in SPI - 12 using microarray and ChIP - on - chip studies as being regulated by SsrB in Salmonella ( 19 ) .
+Due to their association with SsrB , a known virulence gene regulator , we followed up these bacteriophage genes to establish whether they contribute to Salmonella survival during host infection .
+To define the fitness contribution of the bacteriophage genes encoded in this island , we deleted genes STM2234 to STM2240 and tested this strain for its ability to compete with wild - type cells during systemic infection in mice .
+The competitive indices ( CIs ) in the spleen , liver , and cecum at 3 days postinfection were 0.38 0.27 ( P 0.001 ) , 0.46 0.35 ( P 0.001 ) , and 0.58 0.32 ( 0.01 P 0.05 ) , respectively , for the STM2234 - STM2240 deletion strain , indicating that the mutant was attenuated for systemic dissemination compared to the wild type ( Fig. 2A ) .
+These results were in agreement with those of Haneda et al. , indicating that one or more fitness factors may be encoded among the bacteriophage genes in SPI - 12 ( 22 ) .
+We made single mutations in STM2234 , July 2013 Volume 81 Number 7 iai.asm.org 2397 Tomljenovic - Berube et al. .
+A I II III B I II III Normalized RLU ( x10 6 ) oafA 1.5 1.0 0.5 0 STM2233 STM2234 wild type ∆ ssrB STM2235 STM2236 STM2237 970 bp 1008 bp 957 bp STM2238 STM2239 STM2240 sspH2 STM2242 STM2243 3 4 5 6 7 hours 3 4 5 6 7 hours 3 4 5 6 7 hours C 2.0 D STM2234 STM2235 STM2236 STM2239 Normalized ratio ( target / control ) 1.5 1.0 0.5 0.0 rsmC sspH2 ssrB STM2234 STM2235 transcript STM2236 STM2237 STM2238 STM2239 STM2240 DnaK HA wt ∆ ssrB wt ∆ ssrB wt ∆ ssrB wt ∆ ssrB FIG 4 The SPI - 12 locus is regulated by the transcription factor SsrB .
+( A ) Diagram of the gene arrangement at SPI - 12 in S. Typhimurium .
+Black arrows indicate genes of likely bacterial origin , blue arrows indicate genes likely of bacteriophage origin , and the red arrow identifies the lysogenic conversion gene sspH2 .
+Roman numerals identify the intergenic regions evaluated for transcriptional activation .
+( B ) Transcriptional activation at three intergenic loci in SPI - 12 as determined by - galactosidase assays in wild - type and ssrB backgrounds .
+The sspH2 promoter ( III ) was used as a positive control .
+Reporter strains were grown in LPM , pH 5.8 , and - galactosidase was quantified by chemiluminescence .
+RLU were normalized to the OD 600 at each time point .
+Data are the means with standard errors from 3 experiments .
+( C ) Quantitative RT - PCR experiments evaluating the transcript levels of SPI - 12 genes in the wild - type versus ssrB background .
+The rsmC gene was used as an internal control across strains , while sspH2 served as a positive control , as it is known to be SsrB dependent .
+All phage genes demonstrate a decrease in transcript levels in the ssrB mutant .
+( D ) Evaluation of phage protein expression by immunoblotting .
+Phage proteins were tagged with HA on the chromosome in the wild - type and ssrB backgrounds , and cell lysates of strains grown in LPM , pH - 5.8 , were detected with antibody directed against this tag .
+DnaK antibody was used as a loading control .
+Data are representative of three experiments with similar results .
+All four phage proteins tested showed decreased expression levels in the ssrB mutant .
+The SseC blot was included as a control showing a typical SsrB - dependent expression phenotype .
+DnaK SseC wt SseC ∆ ssrB STM2235 , STM2236 , STM2237 , STM2239 , and STM2240 and tested these individually against wild - type cells in competitive infections .
+STM2238 was not included because it was not SsrB regulated in our experiments and thus was not prioritized for followup .
+Of the six mutants tested , four ( STM2234 , STM2235 , STM2236 , and STM2239 ) showed a fitness defect ( Fig. 2B ) .
+The STM2239 mutant was most affected in competition experiments with the wild type , with CIs of 0.10 0.097 ( P 0.0001 ) and 0.120 0.126 ( P 0.0001 ) in the spleen and liver , respectively .
+These mutants exhibited no general growth defects when grown in - vitro in LB - medium and LPM , pH - 5.8 ( see Fig .
+S1 in the supplemental material ) .
+We performed additional competition experiments evaluating the contribution of STM2239 in comparison to the other genes within the locus , testing the STM2239 mutant against the STM2234 - STM2240 mutant and against an STM2234 - STM2237 mutant .
+The STM2239 mutant competed against the STM2234 - STM2240 mutant produced CIs of 0.92 0.86 and 1.17 0.82 in the spleen and liver , respectively , indicating that the two mutants competed equally ( Fig. 2C ) .
+The STM2239 mutant competed against the STM2234 - STM2237 mutant produced a CI of 0.726 0.189 , indicating that the STM2239 mutant on its own is less fit than the four - gene mutant ( Fig. 2D ) .
+These experiments suggested that STM2239 has an influence on genes outside SPI - 12 that may impact fitness .
+Gentamicin protection assays were conducted with each of the mutant strains to test their ability to replicate in tissue culture 2398 iai.asm.org Infection and Immunity Mapping and Regulation of SPI - 12 A 12 10 ChIP Score 8 6 4 2 B 0 bp oafA STM2233 STM2234 STM2235 STM2236 STM2237 cont wt ∆ ssrB ∆ 2239 STM2238 C STM2239 STM2240 STM2239 sspH2 STM2242 1000 wt ∆ PsspH2 500 DnaK 100 HA FIG 5 SsrB regulates STM2239 expression via transcriptional read - through from the sspH2 promoter .
+( A ) ChIP interaction profile of SsrB at the SPI - 12 locus showing a prominent interaction peak at the sspH2 promoter .
+These data are derived from the SsrB ChIP - on - chip experiment described in reference 19 .
+( B ) Verification of a transcript that spans sspH2 and STM2240 .
+First - strand cDNA derived from wild - type , ssrB , and STM2239 strains grown in LPM , pH - 5.8 , was used as the template for PCR using primers specific for the 3 = end of sspH2 and the 5 = end of STM2240 .
+Amplification of product indicates that a transcript spanning that region exists in wild - type and STM2239 strains but not in the ssrB strain .
+( C ) Immunoblot demonstrating that STM2239 expression is dependent on the sspH2 promoter ( PsspH2 ) .
+STM2239 was tagged with HA on the chromosome in the wild - type and PsspH2 backgrounds , and cell lysates of strains grown in LPM , pH - 5.8 , were interrogated with antibody directed against this tag .
+DnaK antibody was used as a loading control .
+Data are representative of two experiments with similar results .
+Of all seven mutants tested , the STM2234 - STM2240 and STM2239 strains were deficient at 20 h postinfection ( Fig. 3A ) , which we were able to complement when STM2239 was provided on a plasmid ( Fig. 3B ) .
+These results indicate that four bacteriophage genes from the SPI - 12 remnant phage island contributed to S. Typhimurium fitness in a host and that STM2239 showed the most profound fitness defect both systemically and during intracellular replication in - vitro .
+SsrB influences transcriptional regulation of SPI - 12 bacteriophage genes .
+Having established a fitness contribution for phage genes within SPI - 12 , we next focused on the regulation of this locus .
+Our previous work showed that gene expression in SPI - 12 decreased in an SsrB mutant ( 19 ) .
+To test the regulatory sequences in SPI - 12 directly , chromosomal - galactosidase transcriptional reporters were generated for three intergenic regions ( IGR ) in SPI - 12 ( designated I , II , and III ) ( Fig. 4A ) .
+In these experiments , - galactosidase activity from IGR - I and IGR - III was decreased in an SsrB mutant compared to the wild type , whereas IGR - II showed similar activities in wild - type and ssrB cells ( Fig. 4B ) .
+To confirm that SsrB influenced the transcript levels of the phage genes within SPI - 12 , we measured specific mRNA levels by RT - PCR .
+The rRNA methyltransferase gene , rsmC , was used as an internal control , and the SPI - 12 gene sspH2 was used as a positive control , as it is regulated by SsrB ( 21 , 32 , 33 ) .
+All six phage genes showed decreased transcript levels that were comparable to those of the sspH2 control , while mRNA levels for STM2238 were unaffected by the loss of ssrB ( Fig. 4C ) .
+Protein levels were verified using chromosomal HA fusions for each of the six phage genes .
+Of the six phage proteins tested , only four were expressed under these conditions ( STM2234 , STM2235 , STM2236 , and STM2239 ) , and each of these was decreased in an ssrB mutant compared to the wild type , in agreement with the reporter and RT - PCR data ( Fig. 4D ) .
+These data indicate that SsrB plays a role in regulating the expression of STM2234 , STM2235 , STM2236 , and STM2239 .
+SsrB regulates SPI - 12 phage genes by transcriptional readthrough from the sspH2 promoter .
+Having established that SsrB influences transcriptional regulation of phage genes within SPI - 12 , we wanted to determine whether SsrB acted directly or indirectly on this locus .
+Our previous work mapping SsrB binding sites showed that despite transcriptional and translational data supporting a role for SsrB - dependent regulation at the STM2237 promoter , there was no SsrB binding site directly upstream of STM2237 ( Fig. 5A ) ( 19 ) .
+There was , however , a prominent SsrB interaction site at the sspH2 promoter , implying possible transcriptional read - through from this promoter to STM2240 and STM2239 .
+To investigate this possibility , cDNA generated from RNA isolated from wild - type , ssrB , and STM2239 strains was used as the template for PCR designed to amplify the IGR that resides between STM2240 and sspH2 .
+Primers were designed to amplify from within sspH2 21 bp from the 3 = end of the coding sequence into the first 7 bp of the 5 = coding sequence of STM2240 .
+PCR products were observed for cDNA from the wild type and the STM2239 mutant but not from the ssrB mutant ( Fig. 5B ) .
+These data demonstrate that a transcript spanning sspH2 and STM2240 was produced and that SsrB was necessary for production of this transcript .
+Additionally , we evaluated the expression of STM2239 in an sspH2 promoter deletion mutant strain ( P sspH2 ) .
+Deletion of P sspH2 resulted in loss of STM2239 expression ( Fig. 5C ) , which is consistent with STM2240 and STM2239 transcription by SsrB via transcriptional read - through from the sspH2 promoter .
+July 2013 Volume 81 Number 7 iai.asm.org 2399 Tomljenovic - Berube et al. .
+TABLE 1 Summary of phage gene characteristics and phenotypes identity Putative function description BLAST - p results a vitro vivo expression fold change b Virulence phenotype Gene In In In vitro SsrB microarray STM2234 Putative phage tail fiber assembly All S. Typhimurium ; S. Heidelberg ; S. Paratyphi B ; S. 4 , [ 5 ] ,12 : i : ; No Yes Yes 6.0 protein ; pfam02413 , Caudo - TAP superfamily S. Javiana ; S. Agona ; S. Dublin STM2235 Hypothetical protein , putative phage tail fiber protein S. Typhimurium ; S. Heidelberg ; S. St.Paul ; S. Paratyphi B ; S. Javiana ; S. Agona ; S. Dublin No Yes Yes 14.0 STM2236 STM2237 STM2239 STM2240 Hypothetical protein , phage head maturation protease ; peptidase U35 superfamily Putative inner membrane protein ; similar to lambda phage holin ; looks like a fusion protein -- N - terminal holin and C - terminal portal protein Putative phage antiterminator ; similar to antiterminator protein Q ; pfam06530 , phage antiterminator Q superfamily Putative cytoplasmic protein , putative phage protein ; proteins of unknown function DUF122 superfamily , pfam06914 a All serovars belong to S. enterica .
+b Obtained from the work of Tomljenovic - Berube et al. ( 19 ) .
+All S. Typhimurium ; S. Heidelberg ; S. Paratyphi B ; S. 4 , [ 5 ] ,12 : i : ; S. Enteriditis ; S. Javiana ; S. Agona ; S. Dublin ; phage SfV All S. Typhimurium ; S. Heidelberg ; S. Paratyphi B ; S. 4 , [ 5 ] ,12 : i : ; S. Javiana ; S. Agona ; S. Dublin ; phage SfV All S. Typhimurium ; S. Heidelberg ; S. Paratyphi B strain SPB7 ; enterotoxigenic Escherichia coli H10407 and other E. coli strains ; Escherichia fergusonii ; phage cdtI ; Shigella boydii ; Pantoea sp. ; various Yersinia spp. .
+All S. Typhimurum ; S. Heidelberg , S. St. Paul ; S. Choleraesuis ; S. Dublin ; S. Weltevreden ; S. Enteritidis ; S. Schwarzengrund ; Escherichia coli O103 : H2 and other E. coli strains ; Shigella boydii No Yes Yes 30.1 No No No 8.5 Yes Yes Yes 24.7 No No No 26.2 STM2239 is a transcriptional regulator of the STM2234 - STM2237 operon .
+Having established a role for STM2234 , STM2235 , STM2236 , and STM2239 in S. Typhimurium pathogenesis , we next explored possible functions for these proteins .
+BLAST analysis showed that these genes are most similar to other bacteriophage genes typically encoded in the late operon of lysogenic phage , summarized in Table 1 .
+STM2239 is similar to Q - like antiterminators that facilitate transcriptional activation of the late operon in temperate phage during bacteriophage assembly ( 34 ) .
+We investigated this potential function for STM2239 in SPI - 12 by examining the transcriptional profile of a strain overexpressing STM2239 .
+The results from these experiments indicated that the genes most influenced by STM2239 overexpression are in SPI - 12 , followed by a subset of genes involved in various metabolic pathways ( Table 2 ) .
+These include genes involved in ribose modification and transport , acetyl coenzyme A ( acetyl - CoA ) synthesis and recycling , and galactose metabolism .
+We evaluated whether STM2239 directly influenced transcriptional activation at the STM2237 promoter .
+Activity of a P STM2237 - galactosidase transcriptional reporter was measured in an STM2239 mutant , showing a loss of transcriptional activity compared to the wild type that was similar to that seen in the ssrB mutant ( Fig. 6A ) .
+Evaluation of mRNA levels of SPI - 12 genes in the wild type and the STM2239 mutant showed a decrease for the genes in the STM2237 operon but no difference in the other genes tested ( Fig. 6B ) .
+Moreover , protein levels for STM2234 , STM2235 , and STM2236 were diminished in an STM2239 mutant similar to the case for the ssrB mutant ( Fig. 6C ) .
+These data indicate that STM2239 is a transcriptional regulator of the STM2237 operon .
+STM2239 copurifies with the STM2237 promoter .
+In order to provide further evidence that STM2239 functions as a Q antiterminator protein , chromatin immunoprecipitation ( ChIP ) was performed to determine whether STM2239 copurifies with the STM2237 promoter .
+PCR showed that the STM2237 promoter region was enriched following chromatin immunoprecipitation with STM2239 ( Fig. 7A ) .
+We mapped the transcriptional start site of STM2237 using 5 = random amplification of cDNA ends ( 5 = RACE ) and identified a transcriptional start site at 198 bp from the translational start ( Fig. 7B ) .
+Examination of the sequence surrounding the 1 site identified putative 10 and 35 70 elements as defined by Hawley and McClure , though no definitive Q utilization ( qut ) site was found ( 35 ) .
+These data indicate that STM2239 may function as a DNA - binding protein to influence transcriptional activation and expression of the genes within the STM2237 operon .
+DISCUSSION We characterized the fitness contribution and regulatory mechanisms associated with the bacteriophage genes in SPI - 12 .
+We established that SsrB plays an indirect role in activating genes within this locus by transcriptional read - through from the sspH2 promoter .
+Previous work showed that an sspH2 mutant is not attenuated during infection of mice ( 21 ) .
+Rather , deletion of STM2239 , a putative Q - like antiterminator , accounted for the fitness defect in mice following loss of SPI - 12 .
+Q antiterminators are transcriptional regulatory proteins that facilitate the activation and elongation at the late operon in lambdoid phages ( 36 ) .
+Their expression is tightly controlled by other transcriptional regulators that are inactivated when the phage initiates the lytic cycle .
+Q itself then interacts with a qut on the chromosome , which generally overlaps with the 10 site of the P R = late operon promoter ( 37 , 38 ) .
+July 2013 Volume 81 Number 7 iai.asm.org 2401 Tomljenovic - Berube et al. .
+A B 2.5 Normalized RLU ( x10 6 ) C DnaK 1.5 1 0.5 0 3 4 5 6 7 wt wild type ∆ STM2239 Time ( h ) Normalized Ratio ( Target/Control ) transcript STM2234 STM2235 STM2236 ∆ ssrB ∆ 2239 wt ∆ ssrB ∆ 2239 wt ∆ ssrB ∆ 2239 2 1.5 1 0.5 0 rsmC sspH2 ssrB STM2234 STM2235 STM2236 STM2237 STM2238 STM2239 STM2240 HA FIG 6 STM2239 regulates the STM2237 operon .
+( A ) Transcriptional activation at the STM2237 promoter as determined by - galactosidase assays in wild - type and STM2239 backgrounds .
+Reporter strains were grown in LPM , pH - 5.8 , and - galactosidase was quantified by chemiluminescence .
+RLU were normalized to OD 600 at each time point .
+Data are the means with standard errors from 3 experiments .
+( B ) Quantitative RT - PCR experiments evaluating the transcript levels of SPI - 12 genes in the wild type and the STM2239 mutant .
+The rsmC gene was used as an internal control .
+Only the phage genes within the STM2237 operon demonstrate a decrease in transcript levels in the STM2239 mutant .
+Data are the means with standard errors from three experiments .
+( C ) Evaluation of phage protein expression by immunoblotting .
+Phage proteins were expressed with an HA tag under the control of the STM2237 promoter from a plasmid in wild - type , ssrB , and STM2239 strains , and cell lysates of strains grown in LPM , pH - 5.8 , were detected with antibody directed against this tag .
+DnaK antibody was used as a loading control .
+Data are representative of three experiments with similar results .
+Decreased expression in a STM2239 background is comparable to that observed in a ssrB background .
+mally limits late operon activity ( 39 , 40 ) .
+The SPI - 12 locus in S. Typhimurium is a remnant prophage with substantial genomic degradation .
+As such , the intrinsic terminators that may have been present to regulate this locus appear to have been lost over time , as there is no evidence of terminator sequences upstream of either STM2240 or STM2237 .
+Loss of the terminators at this locus has permitted integration of the phage genes STM2240 and STM2239 into the SsrB regulon through transcriptional read - through from the sspH2 promoter .
+Our data are consistent with a model where STM2239 has maintained its function as a Q antiterminator pro- A IP : wild type 2239 - FLAG SsrB - FLAG 2239 - FLAG 2239 - FLAG Target : PSTM2237 xerD PsseI PsseI PSTM2237 + W E W E W E W E W E B 198 nts -35 -10 +1 attaaaaatcattaacgcggtccgcaaaaattcttgtaatctgctaagagtggtta ... ctacaaatgcctcat FIG 7 STM2239 copurifies with the STM2237 promoter .
+( A ) ChIP - PCR demonstrated amplification of the STM2237 promoter from chromosomal DNA immunoprecipitated ( IP ) with STM2239 - 3FLAG .
+W , whole - cell lysate ; E , eluted DNA ; , positive control using genomic DNA .
+PsseI was used as a positive control for ChIP .
+PsseI and xerD were used as negative controls for STM2239 - FLAG ChIP .
+Data are representative of three independent experiments .
+( B ) 5 = RACE mapping of the STM2237 transcriptional start site .
+Start site `` g '' is in bold , predicted 10 and 35 sites are highlighted in blue , and the translation start site is in green .
+The experiment was repeated twice .
+START 2402 iai.asm.org Infection and Immunity Mapping and Regulation of SPI - 12 tein by facilitating transcriptional activation of the adjacent gene cluster STM2234 - STM2237 .
+The SPI - 12 remnant phage locus has been linked to intracellular survival of Salmonella .
+Transposon mutagenesis studies investigating genes important for S. Typhimurium survival in macrophages identified a Tn10 insertion at this locus ( 41 , 42 ) .
+This Tn10 insertion , MS5076 , was mapped to STM2234 and STM2235 , which likely encode tail fiber assembly and tail fiber proteins , respectively .
+A similar mutagenesis approach looking for SsrB - regulated genes also identified an insertion at this same site , which was named SsrB - regulated factor K ( srfK ) ( 11 ) .
+At this point , no specific function has been determined for STM2234 and STM2235 .
+Phage tail fiber proteins contribute to pathogen - specific functions in other organisms .
+For example , PblA and PblB in Streptococcus mitis function as platelet adhesins that allow S. mitis to adhere to human platelets during infective endocarditis ( 43 -- 45 ) .
+They have also been adapted for use as the target - specific component of a subset of bacteriocins whose protein structures resemble bacteriophage tails .
+Examples include the carotovoricins of the plant pathogen Erwinia carotovora and the R - and F - type pyocins of Pseudomonas aeruginosa ( 46 -- 48 ) .
+Of the additional phage genes in SPI - 12 , STM2236 is similar to a head maturation protease , while STM2237 appears to be a hybrid of a holin protein and a portal protein , which may explain why we could not find evidence of STM2237 protein expression despite confirmation of gene expression .
+The integration of these genes into the SsrB regulon and the attenuation of strains in which certain SPI - 12 genes were deleted suggest that these bacteriophage gene products may contribute in some way to the pathogenicity of the strains that carry them .
+The SPI - 12 locus is largely specific to S. Typhimurium , with only a few other sequenced serovars carrying the genes within it .
+Further studies with other SPI - 12 - containing serovars such as S. Heidelberg and S. Paratyphi B would be required to establish whether they exhibit a similar regulatory cascade involving SsrB .
+The inclusion of the Q - like antiterminator protein STM2239 into the SsrB regulatory cascade is intriguing .
+Shiga toxin is regulated by Q proteins in the associated prophage , although transcriptional activation is mediated by induction of the phage lytic cycle in enterohemorrhagic E. coli ( EHEC ) during host infection ( 49 , 50 ) .
+The extent to which STM2239 directs regulation outside SPI - 12 remains to be determined , although competition studies suggest that it does so .
+When STM2239 is overexpressed , the majority of genes with altered transcription in LB - medium at mid - log phase have roles in metabolism , and some have been implicated in Salmonella fitness within the host .
+For instance , SpeF , an ornithine decarboxylase , was shown to play a role in sensing low pH and delaying Salmonella - containing vacuole ( SCV ) acidification ( 51 ) .
+Additionally , the acetate kinase encoded by ackA was found to contribute to formate production , which plays a role during SPI - 1 - mediated Salmonella invasion ( 52 ) .
+This work highlights a case in which bacteria improve within - host fitness by using regulatory connections with prophage genes .
+This work was supported by an operating grant from the Canadian Institutes of Health Research ( MOP 82704 ) , an infrastructure grant from the Canada Foundation for Innovation and the Canada Research Chairs Program from the Government of Canada .
+and B.R.T. were supported by the Ontario Graduate Scholarship program .
+B.K.C. is the Canada Research Chair in Infectious Disease Pathogenesis .
+S.P. and M.M. were supported in part by NIH grants AI039557 , AI052237 , AI073971 , AI075093 , AI077645 , and AI083646 ; USDA grants 2009 - 03579 and 2011 - 67017 - 30127 ; the Binational Agricultural Research and Development Fund ; and a grant from the Center for Produce Safety .
+S.P. and M.M. thank Pui Cheng for technical assistance with microarrays .
+Ochman H , Lawrence JG , Groisman EA .
+Lateral gene transfer and the nature of bacterial innovation .
+Ochman H , Groisman EA .
+Distribution of pathogenicity islands in Salmonella spp. .
+McClelland M , Sanderson KE , Spieth J , Clifton SW , Latreille P , Courtney L , Porwollik S , Ali J , Dante M , Du F , Hou S , Layman D , Leonard S , Nguyen C , Scott K , Holmes A , Grewal N , Mulvaney E , Ryan E , Sun H , Florea L , Miller W , Stoneking T , Nhan M , Waterston R , Wilson RK .
+Complete genome sequence of Salmonella enterica serovar Typhimurium LT2 .
+Mills DM , Bajaj V , Lee CA. 1995 .
+A 40 kb chromosomal fragment encoding Salmonella typhimurium invasion genes is absent from the corresponding region of the Escherichia coli K - 12 chromosome .
+Li J , Ochman H , Groisman EA , Boyd EF , Solomon F , Nelson K , Selander RK .
+Relationship between evolutionary rate and cellular location among the Inv/Spa invasion proteins of Salmonella enterica .
+Hensel M , Shea JE , Baumler AJ , Gleeson C , Blattner F , Holden DW .
+Analysis of the boundaries of Salmonella pathogenicity island 2 and the corresponding chromosomal region of Escherichia coli K - 12 .
+Canchaya C , Fournous G , Brussow H. 2004 .
+The impact of prophages on bacterial chromosomes .
+Brüssow H , Canchaya C , Hardt WD .
+Phages and the evolution of bacterial pathogens : from genomic rearrangements to lysogenic conversion .
+Coombes BK , Wickham ME , Brown NF , Lemire S , Bossi L , Hsiao WW , Brinkman FS , Finlay BB .
+Genetic and molecular analysis of GogB , a phage - encoded type III - secreted substrate in Salmonella enterica serovar Typhimurium with autonomous expression from its associated phage .
+Hardt WD , Urlaub H , Galan JE .
+A substrate of the centisome 63 type III protein secretion system of Salmonella typhimurium is encoded by a cryptic bacteriophage .
+Worley MJ , Ching KH , Heffron F. 2000 .
+Salmonella SsrB activates a global regulon of horizontally acquired genes .
+Miao EA , Miller SI .
+A conserved amino - acid sequence directing intracellular type III secretion by Salmonella typhimurium .
+Figueroa - Bossi N , Uzzau S , Maloriol D , Bossi L. 2001 .
+Variable assortment of prophages provides a transferable repertoire of pathogenic determinants in Salmonella .
+Fang FC , DeGroote MA , Foster JW , Baumler AJ , Ochsner U , Testerman T , Bearson S , Giard JC , Xu Y , Campbell G , Laessig T. 1999 .
+Virulent Salmonella typhimurium has two periplasmic Cu , Zn - superoxide dismutases .
+Spanò S , Galan JE .
+A Rab32 - dependent pathway contributes to Salmonella typhi host restriction .
+Prophages and bacterial genomics : what have we learned so far ?
+Zwir I , Latifi T , Perez JC , Huang H , Groisman EA .
+The promoter architectural landscape of the Salmonella PhoP regulon .
+Xu X , Hensel M. 2010 .
+Systematic analysis of the SsrAB virulon of Salmonella enterica .
+Tomljenovic - Berube AM , Mulder DT , Whiteside MD , Brinkman FS , Coombes BK .
+Identification of the regulatory logic controlling Salmonella pathoadaptation by the SsrA - SsrB two - component system .
+Hansen - Wester I , Hensel M. 2002 .
+Genome - based identification of chro - July 2013 Volume 81 Number 7 iai.asm.org 2403 Tomljenovic - Berube et al. mosomal regions specific for Salmonella spp. .
+Miao EA , Scherer CA , Tsolis RM , Kingsley RA , Adams LG , Baumler AJ , Miller SI .
+Salmonella typhimurium leucine - rich repeat proteins are targeted to the SPI1 and SPI2 type III secretion systems .
+Haneda T , Ishii Y , Danbara H , Okada N. 2009 .
+Genome - wide identification of novel genomic islands that contribute to Salmonella virulence in mouse systemic infection .
+Coombes BK , Brown NF , Valdez Y , Brumell JH , Finlay BB .
+Expression and secretion of Salmonella pathogenicity island - 2 virulence genes in response to acidification exhibit differential requirements of a functional type III secretion apparatus and SsaL .
+Datsenko KA , Wanner BL .
+One - step inactivation of chromosomal genes in Escherichia coli K - 12 using PCR products .
+Uzzau S , Figueroa - Bossi N , Rubino S , Bossi L. 2001 .
+Epitope tagging of chromosomal genes in Salmonella .
+Horton RM , Hunt HD , Ho SN , Pullen JK , Pease LR .
+Engineering hybrid genes without the use of restriction enzymes : gene splicing by overlap extension .
+Bjarnason J , Southward CM , Surette MG .
+Genomic profiling of iron - responsive genes in Salmonella enterica serovar Typhimurium by high - throughput screening of a random promoter library .
+Osborne SE , Walthers D , Tomljenovic AM , Mulder DT , Silphaduang U , Duong N , Lowden MJ , Wickham ME , Waller RF , Kenney LJ , Coombes BK .
+Pathogenic adaptation of intracellular bacteria by rewiring a cis - regulatory input function .
+Coombes BK , Wickham ME , Lowden MJ , Brown NF , Finlay BB .
+Negative regulation of Salmonella pathogenicity island 2 is required for contextual control of virulence during typhoid .
+Xia XQ , McClelland M , Porwollik S , Song W , Cong X , Wang Y. 2009 .
+WebArrayDB : cross - platform microarray data analysis and public data repository .
+Linear models and empirical bayes methods for assessing differential expression in microarray experiments .
+Kundinger MM , Zabala - Díaz IB , Chalova IV , Kim W - K , Moore RW , Ricke SC .
+Characterization of rsmC as a potential reference gene for Salmonella Typhimurium gene expression during - growth in spent media .
+Miao EA , Freeman JA , Miller SI .
+Transcription of the SsrAB regulon is repressed by alkaline - pH and is independent of PhoPQ and magnesium concentration .
+Grayhack EJ , Yang XJ , Lau LF , Roberts JW .
+Phage lambda gene Q antiterminator recognizes RNA polymerase near the promoter and accelerates it through a pause site .
+Hawley DK , McClure WR .
+Compilation and analysis of Escherichia coli promoter DNA sequences .
+Roberts JW , Yarnell W , Bartlett E , Guo J , Marr M , Ko DC , Sun H , Roberts CW .
+Antitermination by bacteriophage lambda Q protein .
+Cold Spring Harbor Symp .
+Yarnell WS , Roberts JW .
+The phage lambda gene Q transcription antiterminator binds DNA in the late gene promoter as it modifies RNA polymerase .
+Friedman DI , Court DL .
+Bacteriophage lambda : alive and well and still doing its thing .
+Nickels BE , Roberts CW , Roberts JW , Hochschild A. 2006 .
+RNAmediated destabilization of the sigma ( 70 ) region 4/beta flap interaction facilitates engagement of RNA polymerase by the Q antiterminator .
+Deighan P , Diez CM , Leibman M , Hochschild A , Nickels BE .
+The bacteriophage lambda Q antiterminator protein contacts the beta - flap domain of RNA polymerase .
+Fields PI , Swanson RV , Haidaris CG , Heffron F. 1986 .
+Mutants of Salmonella typhimurium that can not survive within the macrophage are avirulent .
+Bäumler AJ , Kusters JG , Stojiljkovic I , Heffron F. 1994 .
+Salmonella typhimurium loci involved in survival within macrophages .
+Bensing BA , Siboo IR , Sullam PM .
+Proteins PblA and PblB of Streptococcus mitis , which promote binding to human platelets , are encoded within a lysogenic bacteriophage .
+Bensing BA , Rubens CE , Sullam PM .
+Genetic loci of Streptococcus mitis that mediate binding to human platelets .
+Mitchell J , Siboo IR , Takamatsu D , Chambers HF , Sullam PM .
+Mechanism of cell surface expression of the Streptococcus mitis platelet binding proteins PblA and PblB .
+Nguyen HA , Tomita T , Hirota M , Kaneko J , Hayashi T , Kamio Y. 2001 .
+DNA inversion in the tail fiber gene alters the host range specificity of carotovoricin Er , a phage - tail - like bacteriocin of phytopathogenic Erwinia carotovora subsp .
+Veesler D , Cambillau C. 2011 .
+A common evolutionary origin for tailedbacteriophage functional modules and bacterial machineries .
+Nakayama K , Takashima K , Ishihara H , Shinomiya T , Kageyama M , Kanaya S , Ohnishi M , Murata T , Mori H , Hayashi T. 2000 .
+The R - type pyocin of Pseudomonas aeruginosa is related to P2 phage , and the F - type is related to lambda phage .
+Neely MN , Friedman DI .
+Functional and genetic analysis of regulatory regions of coliphage H - 19B : location of Shiga - like toxin and lysis genes suggest a role for phage functions in toxin release .
+Tyler JS , Mills MJ , Friedman DI .
+The operator and early promoter region of the Shiga toxin type 2 - encoding bacteriophage 933W and control of toxin expression .
+Viala JP , Meresse S , Pocachard B , Guilhon AA , Aussel L , Barras F. 2011 .
+Sensing and adaptation to low pH mediated by inducible amino - acid decarboxylases in Salmonella .
+Huang Y , Suyemoto M , Garner CD , Cicconi KM , Altier C. 2008 .
+Formate acts as a diffusible signal to induce Salmonella invasion .

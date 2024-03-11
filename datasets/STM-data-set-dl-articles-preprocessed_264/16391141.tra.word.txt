@@ -1,0 +1,165 @@
+APPLIED AND ENVIRONMENTAL MICROBIOLOGY , Jan. 2006 , p. 946 -- 949 Vol .
+72 , No. 1 0099 - 2240/06 / $ 08.00 0 doi : 10.1128 / AEM .72.1.946 -- 949.2006 Butyrate Specifically Down - Regulates Salmonella Pathogenicity Island 1 Gene Expression I. Gantois , 1 * R. Ducatelle , 1 F. Pasmans , 1 F. Haesebrouck , 1 I. Hautefort , 2 A. Thompson , 2 J. C. Hinton , 2 and F. Van Immerseel 1 Department of Pathology , Bacteriology and Avian Diseases , Research Group Veterinary Public Health and Zoonoses , Faculty of Veterinary Medicine , Ghent University , Salisburylaan 133 , B - 9820 Merelbeke , Belgium , 1 and Molecular Microbiology Group , Institute of Food Research , Norwich Research Park , Norwich NR4 7UA , United Kingdom 2 Invasion of intestinal epithelial cells by Salmonella enterica is decreased after exposure to butyric acid .
+To understand the molecular mechanisms of this phenomenon , a comparative transcriptomic analysis of Salmonella enterica serovar Enteritidis and Salmonella enterica serovar Typhimurium grown in medium supplemented with butyrate was performed .
+We found that butyrate down - regulated the expression of 19 genes common to both serovars by a factor of twofold or more , and 17 of these genes localized to the Salmonella pathogenicity island 1 ( SPI1 ) .
+These included the SPI1 regulatory genes hilD and invF .
+Of the remaining two genes , ampH has 91 % homology to an Escherichia coli penicillin - binding protein and sopE2 encodes a type III - secreted effector protein associated with invasion but located at a separate site on the chromosome from SPI1 .
+Bacteriology and Avian Diseases , Research Group Veterinary Public Health and Zoonoses , Faculty of Veterinary Medicine , Ghent University , Salisburylaan 133 , B - 9820 Merelbeke , Belgium .
+Non - host - specific Salmonella enterica subspecies enterica serovars , such as Salmonella serovar Enteritidis and Salmonella serovar Typhimurium , are the leading cause of self - limiting nontyphoidal gastroenteritis in humans ( 4 ) .
+The interaction between bacteria and host cells is crucial in Salmonella pathogenesis .
+During infection of the host , Salmonella bacteria encounter several environmental triggers , including the acidity of the stomach and the anoxia of the gut .
+In the intestine , the anaerobic environment is dominated by fermentative bacteria , which mainly accumulate three organic - acids , acetate , propionate , and butyrate ( 6 ) .
+These acids play a vital role in maintenance of colonic integrity and metabolism .
+Butyrate is of particular importance because it has nutritious properties for the healthy and injured colon epithelium ( 16 ) and is able to induce apoptosis in colon cancer cells ( 29 ) .
+In addition , a shortage of butyrate can result in intestinal inflammation ( 18 ) .
+Recently , butyrate was also shown to affect the interaction of Salmonella enterica with the intestinal epithelium , characterized by a reduction of invasion ( 34 , 35 ) .
+Invasion of intestinal epithelial cells is an important step in the pathogenesis of Salmonella - mediated enteritis and requires a set of genes encoded on the Salmonella pathogenicity island 1 ( SPI1 ) .
+Bacterial internalization occurs through the type III secretion system ( TTSS ) , which injects bacterial effector proteins directly into the cytosol of epithelial cells , inducing actin rearrangements leading to the uptake of the bacteria ( 5 , 7 ) .
+Currently , it is known that acetate , when converted to acetylphosphate , increases SPI1 gene expression through activation of the sensor kinase/response regulator system BarA / SirA ( 22 ) .
+However , the molecular mechanism underlying the invasion - suppressive activity of butyrate is unknown .
+To elucidate this mechanism , we compared the gene expression profiles of two Salmonella enterica serovars grown in Luria - Bertani ( LB ) medium versus LB - medium supplemented with 10 mM butyrate by using cDNA microarray technology .
+In our experiments , we used two well - characterized strains , Salmonella serovar Typhimurium SL1344 ( 20 ) and Salmonella serovar Enteritidis 76Sa88 ( 10 ) .
+In order to determine the timing of the largest butyrate - mediated reduction in invasion , a HeLa cell invasion assay was performed .
+Briefly , HeLa cells ( European Collection of Cell Cultures ) were grown in six - well plates containing HEPES - buffered Dulbecco 's modified Eagle medium supplemented with 2 mM L - glutamine , 10 % fetal bovine serum .
+Bacteria were grown overnight in LB - medium .
+The bacterial suspension was diluted 1:50 in 50 ml of either LB medium supplemented with 10 mM butyrate or control LB medium in 250 - ml flasks .
+The pH of all media was brought to pH 6 and the osmolarity to 600 mmol/kg .
+The suspensions were incubated statically at 37 °C .
+After 2 , 4 , and 6hofincubation , HeLa cells were infected using a multiplicity of infection of 100:1 under 10 % CO 2 atmosphere .
+Invasion was limited to 30 min , and extracellular bacteria were killed in medium containing 30 g/ml gentamicin for 30 min .
+The gentamicin concentration was subsequently reduced to 5 g/ml for the remaining time of the experiment .
+At appropriate time points , the infected cells were lysed in 0.1 % sodium dodecyl sulfate and intracellular populations determined by viable counts .
+Exposure of the bacteria to butyrate for 4 h at 37 °C resulted in the lowest invasion percentage of the HeLa cells for both serovar Typhimurium and serovar Enteritidis ( data not shown ) .
+Furthermore , to confirm our findings , SPI1 expression in individual bacteria was measured in a green fluorescent protein - based system using a chromosomally integrated prgH - gfp fusion ( 19 ) .
+PrgH is a structural component of the needle complex of the SPI1 type III secretion system and is regulated by HilA ( 24 ) .
+The level of prgH expression in SL1344 was measured hourly using flow cytometric analysis as previously reported ( 19 ) .
+The lowest expression of prgH was observed after 4hof 946 VOL .
+72 , 2006 BUTYRATE DOWN - REGULATES SPI1 GENE EXPRESSION 947 FIG. 1 .
+( A ) List of genes that were down - regulated more than twofold in Salmonella serovar Typhimurium SL1344 and Salmonella serovar Enteritidis 76Sa88 bacteria grown in LB - medium supplemented with 10 mM butyric acid relative to the control condition .
+Expression data were normalized to the control condition ( LB ) , and the ratios for butyrate - treated LB to control LB were calculated .
+( B ) Strains were grown overnight at 37 °C and diluted 50 - fold in LB and LB supplemented with 10 mM butyrate .
+Light emission was measured every 15 min , and the graph shows the difference observed at the time point when the highest level of expression was normally observed in LB .
+incubation in media supplemented with butyrate .
+On the basis of these findings , we extracted bacterial RNA from the strains serovar Typhimurium SL1344 and serovar Enteritidis 76Sa88 after 4hofgrowth in LB - medium with and without butyric acid .
+The pHs of both media did not vary during the 4 - h incubation .
+In order to provide robust and reproducible gene expression data , microarray experiments were performed with at least two biological and technical replicate samples for all conditions examined .
+An indirect comparison experimental design was used for the microarray hybridizations ( 36 ) .
+The reference channel was Cy3 - labeled genomic DNA isolated from either serovar Typhimurium or serovar Enteritidis ( for all microarray protocols , see www.ifr.ac.uk/safety/microarrays/protocols .
+RNA was isolated from cultures and labeled with Cy5 - dCTP during reverse transcription .
+The microarray used in this study was the whole - genome Salmonella serovar Typhimurium / Enteritidis SALSA cDNA microarray which carried 5,877 coding sequences ( 13 ) .
+Features with a reference signal lower than background plus 2 standard deviations were excluded from subsequent analysis .
+The microarray data were normalized to the untreated control for each serovar and statistically filtered by applying a t test with a false discovery rate of P 0.05 .
+The data were further filtered to exclude genes that changed in expression by less than twofold relative to the untreated control samples .
+In serovar Typhimurium SL1344 treated with butyrate , only 49 genes were down - regulated more than twofold .
+Interestingly , 23 of these genes were invasion - associated SPI1 genes , and 15 genes were of unknown function , among which 3 belong to the SPI1 gene cluster ( STM2868 , STM2870 , and STM2880 ) .
+Genes encoding SPI1 effector proteins were also down - regulated upon exposure to butyrate ( i.e. , STM4257 for SPI4 , pipC and sopB for SPI5 , and sopE2 ) .
+The remaining genes were iacP ( encoding an acyl carrier protein ) ; hycB , hycC , hycE , and hycG ( coding for a hydrogenase enzyme ) ; ampH ( encoding a penicillin - binding protein ) ; and hupB ( encoding a nucleoid - associated protein ) .
+The gene expression profile from serovar Enteritidis 76Sa88 grown in LB containing butyrate showed a similar down - regulation of SPI1 .
+Of the 90 genes that were down - regulated more than twofold , 24 were SPI1 genes and 25 had an unknown function , including the STM2880 gene located within SPI1 .
+The comparative transcriptomic analysis revealed that 19 genes were down - regulated by butyrate in both strains ( Fig. 1B ) .
+Of these genes , 17 were SPI1 associated , and a description of their functions can be found in Table 1 .
+The key regulator of SPI1 is HilA , a member of the OmpR / 948 GANTOIS ET AL. .
+List of functions of the SPI1 and SPI1 - associated genes which are down - regulated more than two - fold in Salmonella serovar Typhimurium SL1344 and Salmonella serovar Enteritidis 76Sa88 with butyrate Gene type and name Function Regulators Apparatus genes Secreted proteins and their chaperones sopE2 ( not SPI1 encoded but SPI1 associated ) ... Effector protein that mediates cytoskeletal rearrangements ToxR family of transcriptional activators ( 2 ) .
+It has been shown that a null mutation in hilA causes a dramatic attenuation of invasion , demonstrating the importance of HilA for entry into epithelial cells ( 14 , 27 ) .
+As HilA is crucial for invasion , its regulation has been intensively studied .
+The complex and coordinated mechanism of hilA expression is regulated by environmental and regulatory factors .
+Invasion is tightly orchestrated by several environmental signals and shows a significant decrease under conditions of high oxygen , low pH , and low osmolarity ( 3 , 17 ) .
+Numerous regulators of hilA , both activators and repressors , have been identified .
+BarA/SirA ( 1 ) , HilD ( 14 , 30 ) , HilC/SirC/SprA ( 11 , 12 , 28 , 30 ) , CsrAB ( 1 ) , PhoB , FadD , and FliZ ( 25 ) have been shown to activate hilA expression .
+The negative regulators , identified through transposon mutagenesis , include HilE , Ams , and Pag , whereas Hha , a small nucleoid - associated protein , was identified by introduction of a serovar Typhimurium chromosomal DNA gene bank into a serovar Typhimurium hilA : Tn5lacZY reporter strain ( 14 , 15 ) .
+Of the small nucleoid - binding proteins that affect hilA expression , H - NS acts as a repressor , but Fis and HU activate hilA by changing the expression of hilD ( 32 ) .
+Apart from hilD , none of these regulators were down - regulated by butyrate in both serovars .
+However , hilA expression was down - regulated sixfold in serovar Enteritidis but changed by less than twofold in serovar Typhimurium .
+In order to check the specificity of this change for serovar Enteritidis , we monitored the expression of plasmid - borne hilA : : luxCDABE and hilD : : luxCDABE transcriptional - fusions both in serovar Typhimurium SL1344 and in serovar Enteritidis 76Sa88 ( 33 ) .
+Our results are illustrated in Fig. 1B .
+These experiments confirmed that the addition of butyrate to both serovar Typhimurium and serovar Enteritidis grown in LB as described above resulted in down - regulation of hilA and hilD .
+Two members of the AraC/XylS family of transcription activators , HilC and HilD , can independently derepress hilA expression by binding directly to the upstream repressing sequence and counteracting its repressing effect in - vitro and in vivo ( 24 , 30 , 31 ) .
+A cascade of transcriptional activation has been unraveled in which HilD , in response to particular environmental signals , directly affects hilA expression by binding to the upstream repressing sequence , thereby derepressing hilA .
+By binding upstream of invF and prgH , HilA directly activates the invF and prgH operons .
+InvF , in conjunction with SicA and PrgH , activates the sip genes encoding the TTSS effector proteins ( 8 , 9 , 11 , 21 , 23 , 24 ) .
+Studies suggested that HilC is not required to affect the HilA activity by any environmental conditions or inputs , except by the EnvZ/OmpR regulatory pathway ( 26 ) .
+In contrast , all of the other environmental and regulatory inputs modulate hilA expression through transcriptional and/or posttranscriptional alteration of HilD or by modulating the activity of an unknown repressor ( 26 ) .
+Remarkably , we observed that most genes that showed significant changes after contact of both Salmonella strains with butyrate were genes of the Salmonella pathogenicity island 1 .
+Thus , butyric acid specifically down - regulates SPI1 genes in both serovars .
+Our findings are consistent with the butyratemediated reduction in invasion reported previously ( 22 , 34 ) .
+The primary target of butyrate in the bacterial cell remains unknown , but our data suggest that butyrate could interfere with HilA - dependent regulation of SPI1 by altering the regulation of hilD transcription .
+We show that butyrate targets a narrow and specific set of genes in Salmonella .
+This underlines the importance of butyrate as a signaling - molecule in the intestine playing a crucial role in the maintenance of gut health .
+Since butyrate is a fermentation product of the intestinal flora , it is tempting to speculate that modification of gut flora to produce more bu - VOL .
+72 , 2006 BUTYRATE DOWN - REGULATES SPI1 GENE EXPRESSION 949 tyric acid ( e.g. , by probiotics ) could reduce invasive infections by Salmonella serovars in farm animals .
+We are grateful to Vittoria Danino for commenting on the manuscript .
+This project was funded by a Marie Curie Fellowship from the European Commission ( contract number QLK2 - GH - 01 - 60081 - 09 ) .
+Filip Van Immerseel is funded by a research grant from Ghent University ( BOF ) .
+Altier , C. , M. Suyemoto , A. I. Ruiz , K. D. Burnham , and R. Maurer .
+Characterization of two novel regulatory genes affecting Salmonella invasion gene expression .
+Bajaj , V. , C. Hwang , and C. A. Lee .
+HilA is a novel ompR/toxR family member that activates the expression of Salmonella Typhimurium invasion genes .
+Bajaj , V. , R. L. Lucas , C. Hwang , and C. A. Lee .
+Co - ordinate regulation of Salmonella Typhimurium invasion genes by environmental and regulatory factors is mediated by control of hilA expression .
+Chalker , R. B. , and M. J. Blaser .
+A review of human salmonellosis .
+Magnitude of Salmonella infections in the United States .
+Collazo , C. M. , and J. E. Galán .
+Requirement for exported proteins in secretion through the invasion - associated type III system of Salmonella Typhimurium .
+Cummings , J. H. , E. W. Pomare , W. J. Branch , C. P. Naylor , and G. T. Macfarlane .
+Short chain fatty - acids in human large intestine , portal , hepatic and venous blood .
+Daoguo , Z. , and J. E. Galán .
+Salmonella entry into host cells : the work in concert of type III secreted effector proteins .
+Darwin , K. H. , and V. L. Miller .
+InvF is required for expression of genes encoding proteins secreted by the SPI - 1 type III secretion apparatus in Salmonella typhimurium .
+Darwin , K. H. , and V. L. Miller .
+The putative invasion protein chaperone SicA acts together with InvF to activate the expression of Salmonella typhimurium virulence genes .
+Desmidt , M. , R. Ducatelle , and F. Haesebrouck .
+Pathogenesis of Salmonella enteritidis phage type four after experimental infection of young chickens .
+Eichelberg , K. , and J. E. Galán .
+Differential regulation of Salmonella typhimurium type III secreted proteins by pathogenicity island 1 ( SPI - 1 ) - encoded transcriptional activators InvF and HilA .
+Eichelberg , K. , W. D. Hardt , and J. E. Galán .
+Characterization of sprA , an AraC - like transcriptional regulator encoded within the Salmonella Typhimurium pathogenicity island 1 .
+Eriksson , S. , S. Lucchini , A. Thompson , M. Rhen , and J. C. Hinton .
+Unravelling the biology of the macrophage infection by gene expression profiling of intracellular Salmonella enterica .
+Fahlen , T. F. , N. Mathur , and B. D. Jones .
+Identification and characterization of mutants with increased expression of hilA , the invasion gene transcriptional activator of Salmonella Typhimurium .
+Fahlen , T. F. , R. L. Wilson , J. D. Boddicker , and B. D. Jones .
+Hha is a negative modulator of transcription of hilA , the Salmonella enterica serovar Typhimurium invasion gene transcriptional activator .
+Frankel , W. , J. Lew , B. Su , A. Bain , D. Klurfeld , E. Einhorn , R. MacDermott , and J. Rombeau .
+Butyrate increases colonocyte protein synthesis in ulcerative colitis .
+Galán , J. E. , and R. I. Curtis .
+Expression of Salmonella typhimurium genes required for invasion is regulated by changes in DNA supercoiling .
+Harig , J. M. , K. H. Soergel , R. A. Komorowski , and C. M. Wood .
+Treatment of diversion colitis with short - chain fatty acid irrigation .
+Hautefort , I. , M. J. Proença , and J. C. D. Hinton .
+Single - copy green fluorescent protein gene fusions allow accurate measurement of Salmonella gene expression in - vitro and during infection of mammalian cells .
+Hoiseth , S. K. , and B. A. Stocker .
+Aromatic - dependent Salmonella typhimurium are non - virulent and effective as live vaccines .
+Kaniga , K. , J. C. Bossio , and J. E. Galán .
+The Salmonella Typhimurium invasion genes invF and invG encode homologues of the AraC and PulD family of proteins .
+Lawhon , S. D. , R. Maurer , M. Suyemoto , and C. Altier .
+Intestinal short - chain - fatty - acids alter Salmonella Typhimurium invasion gene expression and virulence through BarA/SirA .
+Lostroh , J. P. , V. Bajaj , and C. A. Lee .
+The cis requirements for transcriptional activation by hilA , a virulent determinant encoded on SPI - 1 .
+Lostroh , J. P. , and C. A. Lee .
+The hilA box and sequences outside it determine the magnitude of hilA - dependent activation of P prgH from Salmonella pathogenicity island 1 .
+Lucas , R. L. , C. P. Lostroh , C. C. DiRusso , M. P. Spector , B. L. Wanner , and C. A. Lee .
+Multiple factors independently regulate hilA and invasion gene expression in Salmonella enterica serovar Typhimurium .
+Lucas , R. L. , and C. A. Lee .
+Roles of hilC and hilD in regulation of hilA expression in Salmonella enterica serovar Typhimurium .
+Penheiter , K. L. , N. Mathur , D. Giles , T. Fahlen , and B. D. Jones .
+Non - invasive Salmonella Typhimurium mutants are avirulent because of an inability to enter and destroy M cells of ileal Peyer 's patches .
+Rakeman , J. L. , H. R. Bonifield , and S. I. Miller .
+A HilA - independent pathway to Salmonella typhimurium invasion gene transcription .
+Ruemmele , F. M. , S. Dionne , I. Qureshi , D. S. Sarma , E. Levy , and E. G. Seidman .
+Butyrate mediates Caco - 2 cell apoptosis via up - regulation of pro - apoptotic BAK and inducing caspase - 3 mediated cleavage of poly - ( ADP - ribose ) polymerase ( PARP ) .
+Schechter , L. M. , S. M. Scott , and C. A. Lee .
+Two AraC/XylS family members can independently counteract the effect of repressing sequences upstream of the hilA promoter .
+Schechter , L. M. , and C. A. Lee .
+AraC/XylS family members , hilC and hilD , directly bind and derepress the Salmonlla Typhimurium hilA promoter .
+Schechter , L. M. , S. Jain , S. Akbar , and C. A. Lee .
+The small nucleoidbinding proteins H - NS , HU , and Fis affect hilA expression in Salmonella enterica serovar Typhimurium .
+Van Immerseel , F. , J. De Buck , F. Boyen , L. Bohez , F. Pasmans , J. Volf , M. Sevcik , I. Rychlik , F. Haesebrouck , and R. Ducatelle .
+Medium - chain fatty - acids decrease colonization and invasion through hilA suppression shortly after infection of chickens with Salmonella enterica serovar Enteritidis .
+Van Immerseel , F. , J. De Buck , I. Desmet , F. Pasmans , F. Haesebrouck , and R. Ducatelle .
+Interactions of butyric acid - and acetic acid - treated Salmonella with chicken primary cecal epithelial cells in - vitro .
+Van Immerseel , F. , V. Fievez , J. De Buck , F. Pasmans , A. Martel , F. Haesebrouck , and R. Ducatelle .
+Microencapsulated short - chain - fatty - acids in feed modify colonization and invasion early after infection with Salmonella Enteritidis in young chickens .
+Yang , Y. H. , and T. Speed .
+Design issues for cDNA microarray experiments .

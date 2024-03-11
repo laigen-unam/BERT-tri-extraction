@@ -1,0 +1,615 @@
+JOURNAL OF BACTERIOLOGY , May 2001 , p. 2733 -- 2745 Vol .
+183 , No. 9 0021 - 9193/01 / $ 04.00 0 DOI : 10.1128 / JB .183.9.2733 -- 2745.2001 Roles of hilC and hilD in Regulation of hilA Expression in Salmonella enterica Serovar Typhimurium ROBIN L. LUCAS AND CATHERINE A. LEE * Department of Microbiology and Molecular Genetics , Harvard Medical School , Boston , Massachusetts 02115 Sequences between 332 and 39 upstream of the hilA promoter are required for repression of hilA .
+An unidentified repressor is thought to bind these upstream repressing sequences ( URS ) to inhibit hilA expression .
+Two AraC - like transcriptional regulators encoded on Salmonella pathogenicity island 1 ( SPI1 ) , HilC and HilD , bind to the URS to counteract the repression of hilA .
+The URS is required for regulation of hilA by osmolarity , oxygen , PhoP/PhoQ , and SirA/BarA .
+Here , we show that FadD , FliZ , PhoB , and EnvZ/OmpR also require the URS to regulate hilA .
+These environmental and regulatory factors may affect hilA expression by altering the expression or activity of HilC , HilD , or the unknown repressor .
+To begin investigating these possibilities , we tested the effects of environmental and regulatory factors on hilC and hilD expression .
+We also examined hilA regulation when hilC or hilD was disrupted or expressed to a high level .
+Although hilC is regulated by all environmental conditions and regulatory factors that modulate hilA expression , hilC is not required for the regulation of hilA by any conditions or factors except EnvZ/OmpR .
+In contrast , hilD is absolutely required for hilA expression , but environmental conditions and regulatory factors have little or no effect on hilD expression .
+We speculate that EnvZ/OmpR regulates hilA by altering the expression and/or activity of hilC , while all other regulatory conditions and mutations regulate hilA by modulating hilD posttranscriptionally .
+We also discuss models in which the regulation of hilA expression is mediated by modulation of the expression or activity of one or more repressors .
+Salmonella enterica serovar Typhimurium is a gram - negative bacterium that causes various host - specific diseases .
+To do so , the pathogen must overcome barriers and manipulate host cells at specific sites along the course of infection .
+Following ingestion , the bacteria withstand the stomach 's acid environment and subsequently colonize the small intestine .
+In calves and humans , S. enterica serovar Typhimurium induces cytokine production and neutrophil migration across the intestinal epithelium to elicit inflammatory diarrhea ( 69 ) .
+In mice , however , the bacteria spread to systemic sites by traversing the intestinal epithelium to reach Peyer 's patches , lymphatics , and the bloodstream .
+Before reaching the Peyer 's patches , bacteria can also be intercepted by CD18 phagocytes , which shuttle the bacteria directly to the liver and spleen ( 67 ) .
+During systemic infection , the pathogen evades the host 's immune response by residing within macrophages , causing a typhoid - like disease ( 19 ) .
+To execute such activities , S. enterica serovar Typhimurium produces virulence - factors , including those encoded on the 40 - kb Salmonella pathogenicity island 1 ( SPI1 ) at centisome 63 ( 53 ) .
+SPI1 genes encode several effectors and a type III secretory apparatus that translocates the effectors directly into the cytosol of intestinal epithelial cells ( 13 , 64 ) .
+There , the effectors interact with host cell proteins to rearrange the actin cytoskeleton and induce morphological changes that ultimately cause these normally nonphagocytic cells to take up the bacteria in a process called invasion ( 11 , 21 , 22 , 31 , 35 ) .
+In addition to their roles in invasion , SPI1 invasion genes are important for and Molecular Genetics , Harvard Medical School , 200 Longwood Ave. , Boston , MA 02115 .
+intestinal colonization ( 55 ) , destruction of M cells in Peyer 's patches ( 39 , 57 ) , activation of cytokine secretion ( 69 ) , and induction of neutrophil migration ( 24 , 42 , 49 ) .
+Furthermore , effectors secreted by the SPI1 secretion apparatus activate proinflammatory and cytotoxic signal transduction pathways in host cells ( 11 , 34 , 35 , 42 , 54 ) .
+Thus , the SPI1 type III secretion apparatus and its effectors may function in several ways to promote Salmonella virulence .
+Virulence genes are thought to be regulated in the host such that they are expressed only at those sites where their products are needed ( 47 ) .
+Unregulated production of virulence - factors at inappropriate sites may inhibit the bacteria 's ability to cause disease ( 32 ) .
+SPI1 invasion genes are regulated in - vitro by several transcription factors that may help limit SPI1 invasion gene expression to appropriate sites in - vivo .
+HilA , an OmpR / ToxR family member encoded on SPI1 , controls the expression of genes on SPI1 , SPI4 , SPI5 , and SopE ( 1 , 6 , 12 , 16 ) .
+HilA directly binds to and activates promoters of SPI1 operons encoding the type III secretory apparatus , several secreted effectors , and InvF , an AraC - like transcriptional regulator ( 46 ) .
+InvF promotes expression of HilA - activated effector genes on SPI1 by directly inducing their transcription from a second , HilA - independent promoter ( 12 ) .
+InvF also appears to directly induce expression of effector genes outside of SPI1 , including sigD ( sopB ) and sopE ( 12 , 16 ) .
+Because HilA directly modulates invF expression , InvF - dependent transcription of effector genes is regulated indirectly by HilA .
+Thus , HilA directly and/or indirectly activates the expression of genes encoding the SPI1 type III secretion apparatus and its secreted effectors , thereby playing a central role in the regulatory hierarchy controlling invasion - related gene expression .
+Many two - component regulatory systems have been impli - 2733 2734 LUCAS AND LEE J. BACTERIOL .
+cated in modulating hilA expression in - vitro .
+One example is PhoP/PhoQ ( 7 ) .
+PhoQ is a membrane sensor that phosphorylates its cognate transcriptional regulator PhoP only when extracellular cation levels are low ( 68 ) .
+PhoP P binds to and activates promoters of pags ( PhoP - activated genes ) , including genes required for bacterial survival in macrophages ( 26 , 27 , 52 ) .
+A point mutation in phoQ called pho - 24 renders the sensor hyperactive , resulting in net phosphorylation of PhoP and activation of pag expression even when extracellular cation levels are high ( 28 ) .
+The pho - 24 mutation also greatly reduces hilA expression , suggesting that PhoP P represses hilA ( 7 ) .
+Interestingly , a disruption in the newly identified pag gene increases hilA expression , indicating that pag represses hilA ( 18 ) .
+This suggests that the repression of hilA by PhoP/PhoQ may be mediated by pag .
+However , it has not yet been determined whether a disruption in pag can overcome the repression of hilA by a pho - 24 mutation .
+The PhoR/PhoB two - component signal transduction system may also regulate hilA expression .
+The PhoR sensor kinase phosphorylates PhoB when extracellular P i levels are low ( 70 ) .
+PhoB P then binds to and activates promoters in the Pho regulon .
+However , when extracellular P i concentrations are high , PhoR dephosphorylates PhoB P , thereby preventing the transcriptional regulator from binding promoters and modulating gene expression .
+For its phosphatase activity , PhoR requires the presence of the Pst high - affinity P i uptake system .
+Disruptions in the pstSCAB - phoU operon , which encodes the Pst system , result in an accumulation of PhoB P and activation of the Pho regulon even when extracellular P i levels are high .
+Such mutations also reduce hilA expression in a phoBdependent manner , suggesting that PhoB P represses hilA ( 48 ) .
+Mutant analyses also imply that BarA/SirA and EnvZ / OmpR regulate hilA .
+BarA and SirA are homologs of the Pseudomonas two - component regulatory factors LemA and GacA , respectively .
+BarA is believed to activate the transcriptional regulator SirA in response to an unknown environmental signal .
+Disruptions in sirA and barA repress hilA and invasion gene expression , suggesting that this putative twocomponent system activates hilA expression ( 1 , 4 , 38 ) .
+Similarly , the EnvZ/OmpR two - component system may activate hilA expression since disruptions in envZ and ompR repress hilA ( 48 ) .
+The sensor EnvZ modulates the activity of its cognate transcriptional regulator OmpR in response to changes in osmolarity ( 60 ) .
+In addition to two - component regulatory systems , small nucleoid binding proteins H - NS , HU , and Fis may modulate hilA expression .
+Recent genetic evidence suggests that H - NS can repress hilA under - certain - conditions while HU and Fis help activate hilA expression ( L. M. Schechter and C. A. Lee , unpublished results , and reference 72 ) .
+H - NS is a homodimeric protein that preferentially binds to and condenses curved DNA , causing local as well as global transcriptional effects ( 5 ) .
+HU is composed of two similar but nonidentical subunits encoded by hupA and hupB .
+It binds DNA nonspecifically with respect to sequence and influences expression of a number of genes ( 59 ) .
+In contrast , Fis is a site - specific DNA binding protein that induces sharp bends ( 58 ) and can behave both as an activator and a repressor of gene expression ( 20 ) .
+It is unknown whether these proteins modulate hilA expression directly or indirectly .
+hilA expression also appears to be modulated in - vitro by several other factors whose roles in transcriptional regulation are not fully understood .
+One such factor , called CsrB , is an RNA that sequesters CsrA , which is a protein that selectively destabilizes specific mRNAs ( 43 , 74 ) .
+A disruption in csrB or expression of csrA from a plasmid represses hilA , suggesting that one of CsrA 's target mRNAs encodes an activator of hilA expression ( 4 ) .
+Loss of csrA also decreases hilA expression , suggesting that CsrA affects a repressor of hilA as well ( 3 ) .
+A disruption in ams , which encodes RNase E , increases hilA expression , suggesting that RNase E inhibits hilA expression ( 18 ) .
+Like CsrA , RNase E may target an RNA that induces hilA expression .
+Another potential inhibitor of hilA expression is a protein of unknown function called HilE .
+A disruption in hilE increases hilA expression , suggesting that HilE somehow represses hilA ( 18 ) .
+FliZ , whose function is also not well understood , appears to induce hilA .
+An enhancer of class II flagellar gene expression ( 40 ) , FliZ is encoded in an operon with fliA ( 36 ) , which encodes the alternative sigma factor required for class III flagellar gene expression ( 56 ) .
+The fliAZY operon requires the master flagellar gene regulators , FlhD and FlhC , for expression ( 44 ) .
+Disruptions in flhDC and fliA that reduce fliZ expression also repress hilA , and the effects of these mutations on hilA expression are complemented by a plasmid expressing fliZ from an inducible promoter ( 48 ) .
+Furthermore , controlled expression of fliZ results in high - level expression of hilA , suggesting that FliZ somehow induces hilA expression .
+Other factors promoting hilA expression may include FadD and SPI2 gene products , since disruptions in fadD and certain SPI2 genes repress hilA expression ( 14 , 48 ) .
+fadD encodes acyl coenzyme A synthetase , which is required for the uptake and degradation of long - chain - fatty - acids ( 15 ) .
+SPI2 genes encode another type III secretion system required for S. enterica serovar Typhimurium 's ability to survive in macrophages ( 33 ) .
+The mechanisms whereby these factors influence hilA expression remain cryptic .
+Several environmental conditions , including oxygen , osmolarity , and pH , also regulate hilA expression in - vitro , but the sensors and transcription factors responsible for this environmental regulation have not yet been identified ( 7 ) .
+Previous studies indicate that phoP is not required for regulation of hilA by any of these conditions ( 7 ) .
+pmrA , anFe 3 - responsive regulator ( 73 ) whose expression and activity are influenced by PhoP/PhoQ and pH ( 29 , 65 ) , is not required for pH regulation of hilA expression ( unpublished observations ) .
+Furthermore , arcA and oxrA , two transcriptional regulators known to modulate expression of many genes in response to changes in redox states ( 8 ) , are not required for oxygen - mediated repression of hilA ( unpublished observations ) .
+However , it is unknown whether the environmental regulation of hilA expression is mediated by two - component signal transduction systems such as PhoR/PhoB , BarA/SirA , or EnvZ/OmpR , which are known to influence hilA expression .
+It is also unclear how all of these environmental and regulatory inputs are integrated to modulate hilA expression .
+Recent evidence indicates that sequences 332 to 39 upstream of the hilA promoter are required for repression of hilA by low osmolarity , high oxygen , the pho - 24 mutation , or a disruption in sirA ( 63 ) .
+This suggests that the upstream repressing se - VOL .
+183 , 2001 REGULATION OF hilA EXPRESSION 2735 quences ( URS ) define a common regulatory node where all of these conditions and mutations converge to reduce hilA expression .
+It was proposed that an unknown repressor binds to the URS under repressing conditions to reduce hilA expression ( 63 ) .
+Two AraC - like transcriptional regulators encoded on SPI1 , HilC ( also called SirC [ 61 ] or SprA [ 17 ] ) and HilD , also bind to the URS ( Schechter and Lee , unpublished results ) and appear to derepress hilA expression ( 63 ) .
+Thus , the environmental and regulatory inputs may affect hilA expression by altering the expression or activity of HilC , HilD , or the unknown repressor .
+Previously , we provided evidence that FadD , FliZ , PhoB , SirA , and EnvZ regulate hilA expression by independent pathways ( 48 ) .
+In this paper , we demonstrate that these pathways require the URS to regulate hilA expression .
+This finding suggests that these regulatory pathways ultimately modulate the repression - derepression mechanism at this site to alter expression of hilA .
+Our results suggest that the EnvZ/OmpR regulatory pathway modulates hilA expression primarily by altering the expression and/or activity of hilC .
+In contrast , our results favor models in which all other regulatory factors and environmental conditions tested affect hilA expression by transcriptional and/or posttranscriptional modulation of hilD or by altering the expression or activity of the repressor .
+MATERIALS AND METHODS Bacterial strains and growth - conditions .
+Bacterial strains and plasmids used in this study are listed in Table 1 .
+Unless otherwise specified , bacterial cultures were grown at 37 °C in Luria - Bertani ( LB ) medium comprised of 0.5 % Bacto yeast extract , 1 % Bacto tryptone , and 1 % NaCl .
+For `` no salt '' growth - conditions , NaCl was omitted from the medium .
+When appropriate , the medium was supplemented with 10 g of chloramphenicol per ml , 100 g of ampicillin per ml , 50 g of kanamycin per ml , or 10 g of tetracycline per ml .
+To induce genes under P BAD control , the medium was supplemented with 0.02 % arabinose before bacterial inoculation .
+All strains containing plasmids that express hilC or hilD from P BAD also carry a deletion in the chromosomal araBAD operon and therefore can not metabolize arabinose .
+- Galactosidase assays were performed on bacterial cultures grown under low - oxygen or high - oxygen conditions as previously described ( 7 , 41 ) , and activities were quantified by the Miller method ( 51 ) .
+For `` extended high - oxygen '' assays , the protocol for high - oxygen assays was slightly modified .
+Each strain was grown in LB from a single colony to saturation .
+Each saturated culture was then diluted 1:1,000 in fresh LB and dispensed into culture tubes such that there was 1 ml per tube .
+One - milliliter cultures derived from the same initial inoculum ( i.e. , sister cultures ) were grown on a roller at 37 °C for different lengths of time ( 2.5 to 4 h ) and to varying optical densities at 600 nm ( OD 600 s ) .
+- Galactosidase assays were performed on the cultures , and the - galactosidase activity of each culture was plotted with respect to its OD 600 .
+Data points from sister cultures grown to different OD 600 s were combined to represent the effects of growth on the - galactosidase activity of the strain from which the sister cultures were derived .
+Restriction enzymes were obtained from New England Biolabs .
+PCR was done using Ex Taq polymerase from Takara Shuzo Co. .
+Plasmid DNA was isolated using Qiagen columns , and chromosomal DNA was purified using the Easy - DNA kit from Invitrogen .
+Enzymes and kits were used according to the manufacturers ' directions .
+pSA4 was produced by cloning hilD downstream of P BAD in pBAD33 ( S. Akbar , unpublished results ) .
+pRL692 was constructed by inserting lacZ into the hilD open reading frame ( ORF ) on pSA4 .
+lacZ was cut out of pCS3 ( 71 ) using BamHI and BglII .
+This fragment was inserted into pSA4 's unique BglII site 398 bp downstream of hilD 's translational start site , creating a hilD : : lacZ - transcriptional - fusion under P BAD control .
+To ensure that lacZ was in the proper orientation for a transcriptional hilD : : lacZ fusion , candidates were tested for arabinose induction of lacZ expression and their plasmids were tested by restriction digests .
+pLS106 was constructed by cloning the hilD promoter into pRW50 ( 45 ) upstream of lacZ .
+A region extending from 315 bp upstream to 13 bp downstream of hilD 's translational start site was amplified from SL1344 chromosomal DNA by PCR using primers PRG2 ( CGGGATCCATATACTGTTAGCGATGTC ) and LS48 ( CCAAGCTTACATTTTCCATATTATCCC ) .
+The resulting PCR product has a BamHI site added to its 5 end and a HindIII site added to its 3 end .
+It was first cloned into the BamHI and HindIII sites in pBCKS to yield pLS103 .
+The fragment was later cut out of pLS103 using BamHI and HindIII and ligated into the BamHI and HindIII sites in pRW50 , yielding pLS106 .
+Marked mutations were transduced into different strain backgrounds by using P22 .
+Plasmids were passed through the r m LT2 strain LB5000 ( 10 , 62 ) before being electroporated into SL1344 derivatives .
+RL696 was constructed by generating the chromosomal hilD696 : : lacZ fusion in SL1344 .
+hilD : : lacZ was cut out of pRL692 using BamHI and PstI .
+The gelpurified fragment was ligated into pLD55 ( 50 ) , which had also been digested with BamHI and PstI .
+pLD55 contains the R6K DNA replication origin and requires the protein ( encoded by pir ) to be maintained ( 50 ) .
+The ligation was therefore electroporated into DH5 pir , and Amp r transformants were selected .
+These transformants were also tested for Tet r , because pLD55 confers both Amp r and Tet r .
+Candidate plasmids were tested by restriction digests for insertion of hilD : : lacZ into pLD55 , and of these candidates , pRL693 was chosen for construction of RL696 .
+pRL693 was electroporated into the Escherichia coli strain SM10 pir , and Amp r transformants were then mated with SL1344 .
+Because SL1344 lacks pir , Amp r Salmonella conjugates contain pRL693 integrated into the chromosome .
+To select for these SL1344 integrants , conjugates were restreaked on M9 minimal medium supplemented with 0.1 mM histidine , 0.2 % glucose , and 25 g of ampicillin per ml .
+The integrants were subsequently restreaked on LB plates without selection to allow recombination .
+The resulting colonies were restreaked on TSS agar containing 7 g of fusaric acid per ml to select for Tet s bacteria that had lost the plasmid from the chromosome ( 9 , 50 ) .
+Large colonies were chosen and patched onto LB - 5-bromo - 4-chloro - 3-indolyl - - D - galactopyranoside ( X - Gal ) plates .
+Lac bacteria were selected and checked for ampicillin and tetracycline sensitivity .
+Confirmation that RL696 contains the chromosomal lacZ insertion in hilD was obtained by using PCR with primers PRG2 and LS39 ( GCGGATCCTGATAGAGCGTGTTAATG ) as well as primers PRG2 and CL2 ( CCAGGGTTTTCCCAGTC ) .
+LS39 hybridizes to sequences 69 to 91 bp downstream of the hilD translational stop site .
+CL2 hybridizes to the 5 end of lacZ .
+RESULTS Multiple regulatory pathways act at a common node to modulate hilA expression .
+Because the URS is required for regulation of hilA expression by oxygen , osmolarity , PhoP/PhoQ , and SirA/BarA ( 63 ) , we tested whether this cis element is also required for regulation of hilA expression by FadD , FliZ , PhoB , and EnvZ .
+For these experiments , we used two pRW50 reporter plasmids , pLS50 and pLS79 , to measure the activity of the hilA promoter .
+In these plasmids , portions of the hilA promoter and the 5 untranslated region of hilA are cloned upstream of a promoterless lacZ gene .
+pLS50 contains 332 to 416 of hilA , and pLS79 contains 39 to 416 of hilA .
+As shown in Fig. 1 , lacZ expression from pLS50 was reduced in fadD , fliA , pstS , and envZ mutants , compared to lacZ expression from this reporter in wild - type SL1344 .
+The relative effects of these mutations on lacZ expression from pLS50 are comparable to their effects on the expression of the chromosomal hilA080 : : Tn5lacZY fusion ( Fig. 2 ) .
+In contrast , these mutations did not reduce lacZ expression from pLS79 ( Fig. 1 ) , indicating that the URS is required for repression of hilA by these mutations .
+Thus , the same regulatory node that is required for regulation of hilA expression by SirA , PhoP/PhoQ , oxygen , and osmolarity is also required by FadD , FliZ , PhoB , and EnvZ to modulate hilA expression .
+Regulation of mutants by oxygen and osmolarity .
+The apparent convergence of multiple regulatory pathways at a common site upstream of the hilA promoter could be explained in part if regulation of hilA expression by oxygen or osmolarity is mediated by one of these regulatory factors .
+For example , if 2736 LUCAS AND LEE J. BACTERIOL .
+To test whether FadD , FliZ , PhoB , EnvZ , or SirA is responsible for the environmental regulation of hilA expression , we examined the effects of oxygen and osmolarity on hilA080 : : Tn5lacZY expression in mutants containing disruptions in fadD , fliA , pstS , envZ , and sirA .
+As expected , these mutants exhibited reduced hilA expression under activating conditions compared to wild - type bacteria ( Fig. 2 ) .
+However , in the mutants , hilA expression was still reduced under high - oxygen or low - osmo - VOL .
+183 , 2001 REGULATION OF hilA EXPRESSION 2737 FIG. 1 .
+Disruptions in fadD , fliA , pstS , and envZ require region 332 to 39 upstream of the hilA promoter to reduce hilA expression .
+The following mutations were used in this experiment : fadD1 : : Tn5 , fliA51 : : Tn5 , pstS55 : : Tn5 , and envZ182 : : cam .
+- Galactosidase assays were performed on cultures grown in high - salt LB - medium ( 1 % NaCl ) under oxygen - limiting conditions ( 7 ) .
+Averages were calculated using four or more values from at least two different experiments .
+a , standard deviation of 633 ; b , standard deviation of 263 .
+This suggests that these regulatory factors are not required for repression of hilA by high oxygen or low - osmolarity .
+In support of this conclusion , we found that a disruption in phoB has no effect on the environmental regulation of hilA expression ( data not shown ) .
+Furthermore , a disruption in ompR reduces hilA expression similarly to the envZ mutation under activating conditions , and hilA is still repressed by low - osmolarity in an ompR mutant ( data not shown ) .
+Thus , the regulatory pathways mediating environmental regulation of hilA expression appear to be distinct from those affected by FadD , FliZ , PhoB , EnvZ , and SirA .
+Effects of environmental conditions and regulatory mutations on hilC and hilD expression .
+Although the regulatory pathways modulating hilA expression appear to act independently of each other ( 48 ) , their convergence at the URS suggests that they all ultimately influence a common mechanism that directly regulates hilA expression .
+HilC and HilD are thought to bind directly at this site to derepress the hilA promoter under activating conditions ( Schechter and Lee , unpublished results ) .
+Thus , the environmental conditions and regulatory mutations that modulate hilA expression may do so by regulating expression of either hilC or hilD .
+HilC and HilD are encoded at different locations on SPI1 and are transcribed separately .
+Therefore , we examined the effects of these conditions and mutations on expression of hilC9 : : Tn5lacZY and hilD696 : : lacZ chromosomal fusions .
+As shown in Fig. 3A , high - oxygen and low - osmolarity conditions mildly repressed hilD expression .
+Similar results were obtained with pLS106 , a pRW50 reporter with lacZ expression under control of the hilD promoter ( data not shown ) .
+hilC expression was also modestly reduced by low - osmolarity but strongly repressed under high - oxygen conditions .
+Thus , it is possible that the repression of hilA expression under high - oxygen and low - osmolarity conditions is due to decreased hilD and hilC expression under these conditions .
+Disruptions in pstS and sirA reduced hilD expression less than twofold , while mutations in fadD , fliA , and envZ had no effect ( Fig. 3B ) .
+Similar results were obtained for pLS106 ( data not shown ) .
+The regulation of hilD expression by SirA and PhoB may help mediate the regulation of hilA expression by these factors .
+However , it seems unlikely that the mild effects of the sirA and pstS mutations on hilD expression are entirely responsible for the effects of these mutations on hilA expression .
+The other mutations have no effect on hilD expression , suggesting that FadD , FliZ , and EnvZ do not regulate hilA by modulating hilD expression .
+hilC expression was modestly repressed by all mutations tested ( Fig. 3B ) .
+Thus , all of these regulatory factors may help modulate hilA expression by altering the expression of hilC .
+However , as with hilD , it seems unlikely that the mild effects of the mutations on hilC expression are entirely responsible for the effects of these mutations on hilA expression .
+The sirA mutation had the strongest repressing effect on hilC expression ( approximately twofold ) .
+This effect is much milder than that reported by Rakeman et al. ( 61 ) .
+The discrepancy may be explained by differences in growth - conditions , reporter fusions , and sirA mutations used .
+Although both HilC and HilD have been implicated in derepressing hilA expression , their effects on each other 's expression are unknown .
+Such effects might help to explain how hilA expression is regulated by each of the derepressors .
+For example , if HilC regulates hilD expression , this might partially account for the effects of HilC on hilA expression .
+To test this , we examined the effect of hilC1 : : cam or hilD1 : : kan on hilD or hilC expression , respectively .
+As shown in Fig. 3B , the disruption in hilC had no effect on hilD expression .
+Similar results were obtained for pLS106 ( data not shown ) .
+However , a disruption in hilD reduced hilC expression nearly twofold , indicating that HilD regulates hilC expression ( Fig. 3B ) .
+Thus , the regulation of hilA expression by HilD may be mediated in part by the effects of HilD on hilC expression .
+Interestingly , lacZ expression from pLS106 is unaffected by a disruption in chromosomal hilD , suggesting that hilD is not autoregulated ( data not shown ) .
+Roles of hilC and hilD in regulation of hilA expression by environmental conditions and regulatory mutations .
+Disruptions in fadD , fliA , pstS , envZ , and sirA do not abolish regulation of hilA080 : : Tn5lacZY expression by oxygen and osmolarity .
+The following mutations were used in this experiment : fadD1 : : Tn5 , fliA51 : : Tn5 , pstS55 : : Tn5 , envZ182 : : cam , and sirA2 : : kan. - Galactosidase assays were performed on cultures grown as indicated .
+Cultures exposed to activating conditions were grown in high - salt LB medium ( 1 % NaCl ) under oxygen - limiting conditions .
+No - salt cultures were grown in LB - medium lacking NaCl under oxygen - limiting conditions .
+High - oxygen cultures were grown in high - salt LB - medium ( 1 % NaCl ) under high - oxygen conditions to OD 600 s of approximately 0.2 to 0.3 ( 7 , 41 ) .
+Averages were calculated using six or more values from at least three different experiments .
+Error bars represent standard deviations .
+2738 LUCAS AND LEE J. BACTERIOL .
+Regulation of hilC and hilD expression by environmental conditions and regulatory mutations .
+- Galactosidase activity for each fusion is expressed as a percentage of its activity in a wild - type ( WT ) background under activating conditions .
+Error bars represent the standard deviation of normalized values .
+( A ) No - salt and high - oxygen conditions reduce expression of hilC9 : : Tn5lacZY and hilD696 : : lacZ .
+- Galactosidase assays were performed on cultures grown as described for Fig. 2 .
+Average percentages were calculated by using 10 or more values from at least three different experiments .
+( B ) Effects of mutations on hilC9 : : Tn5lacZY and hilD696 : : lacZ expression .
+The mutations used in these experiments were as follows : fadD1 : : Tn5 , fliA51 : : Tn5 , pstS55 : : Tn5 , sirA2 : : kan , envZ182 : : cam , hilD1 : : kan , and hilC1 : : kan. - Galactosidase assays were performed on cultures grown in high - salt LB - medium ( 1 % NaCl ) under oxygen - limiting conditions .
+Average percentages were calculated by using four or more values from at least two different experiments .
+Typical - galactosidase activities ( Miller units ) for fusions in a wild - type background under activating environmental conditions were as follows : hilC9 : : Tn5lacZY , 1,081 units ; hilD696 : : lacZ , 1,456 units .
+ulation of hilC and hilD expression by oxygen and osmolarity might account for the regulation of hilA expression under these conditions .
+Furthermore , although the repression of hilC by fadD , fliA , pstS , envZ , and sirA mutations is mild , it is still possible that the modest effects of these mutations on hilC expression may help to cause the repression of hilA in these mutants .
+Similarly , although the repression of hilD in sirA and pstS mutants is very modest , it is still possible that this mild reduction in hilD expression helps mediate the repression of hilA in these mutants .
+Alternatively , these conditions and mutations may modulate hilC or hilD posttranscriptionally , thereby affecting hilA expression .
+If environmental conditions and regulatory mutations alter hilA expression by modulating hilC or hilD transcriptionally or posttranscriptionally , we would expect that hilC or hilD would be required for regulation of hilA expression by these conditions and mutations .
+Therefore , we examined the effects of disruptions in hilC and hilD on the regulation of iagB87 : : lacZY expression by oxygen , osmolarity , and regulatory mutations .
+iagB is a gene downstream of and in the same operon with hilA , and the chromosomal iagB87 : : lacZY fusion is used as a reporter of hilA expression ( 48 ) .
+As shown in Fig. 4A , a disruption in hilC reduced hilA expression approximately twofold under activating conditions .
+However , hilA expression was further repressed under highoxygen or low - osmolarity conditions in this mutant , indicating that hilC is not required for the environmental regulation of hilA expression .
+Thus , the reduction in hilC expression under high - oxygen and low - osmolarity conditions can not fully account for the repression of hilA expression under these same conditions .
+Furthermore , environmental regulation of hilA expression is apparently not mediated by posttranscriptional modulation of hilC , since hilA expression is still regulated by environmental conditions when hilC is absent .
+In contrast , a disruption in hilD strongly represses hilA expression .
+Indeed , the level of hilA expression in the hilD mutant is comparable to that observed under high - oxygen and low - osmolarity conditions in hilD bacteria .
+These data are consistent with a model in which the environmental regulation of hilA expression is mediated by modulation of hilD transcriptionally or posttranscriptionally .
+However , these results could also be explained if hilD is absolutely required for hilA expression , such that hilD - independent mechanisms of regulating hilA expression can not be easily observed in a hilD mutant .
+Thus , these results can not rule out the possibility that environmental regulation of hilA expression occurs by a hilD - independent mechanism , such as modulating the expression or activity of the repressor .
+We also examined the effects of regulatory mutations on hilA expression in hilC and hilD mutants .
+In Fig. 4B , we show that while hilA expression was reduced by a disruption in hilC , expression was reduced even further in a hilC mutant when a disruption in fadD , fliA , pstS , orsirA was also present .
+Conversely , while a fadD , fliA , pstS , or sirA mutant exhibits a reduced level of hilA expression compared to wild - type bacteria , expression is even further reduced in these mutants when hilC is also disrupted .
+Our result with the sirA hilC double mutant differs from that of Rakeman et al. ( 61 ) , who found that hilA expression in a sirA mutant is not further repressed by a disruption in sirC ( hilC ) .
+This conflict may be explained by differences in strain backgrounds and sirA mutations used ( see Discussion ) .
+In contrast to all other mutations tested , hilA expression in a hilC mutant does not appear to be further repressed when ompR is disrupted , and an ompR mutant does not exhibit significantly greater repression when hilC is disrupted than when hilC is intact .
+Thus , it appears that FadD , FliZ , PhoB , and SirA act independently of hilC to reduce hilA expression .
+However , because EnvZ/OmpR appears to affect hilA expression in a hilC - dependent manner , the EnvZ/OmpR two - component system may modulate hilA expression by transcriptional and/or posttranscriptional effects on hilC .
+In Fig. 4C , we show that iagB87 : : lacZY expression was se - VOL .
+183 , 2001 REGULATION OF hilA EXPRESSION 2739 FIG. 4 .
+Roles of hilC and hilD in regulation of hilA expression by environmental conditions and regulatory mutations .
+( A ) Regulation of iagB87 : : lacZY expression by oxygen and osmolarity is hilC independent and hilD dependent .
+- Galactosidase assays were performed on cultures grown as described for Fig. 2 .
+Averages were calculated using four or more values from at least two different experiments .
+( B ) The effects of fadD , fliA , pstS , and sirA disruptions on iagB87 : : lacZY expression are hilC independent .
+The following mutations were used in this experiment : fadD1 : : Tn5 , fliA51 : : Tn5 , pstS55 : : Tn5 , sirA2 : : kan , ompR1009 : : Tn10 16 17 , and hilC1 : : cam .
+- Galactosidase assays were performed on cultures grown in high - salt LB - medium ( 1 % NaCl ) under oxygen - limiting conditions .
+Averages were calculated using three or more values from at least two different experiments .
+( C ) The effects of disruptions in envZ , pst , and fliA on iagB87 : : lacZY expression are verely reduced by a disruption in hilD and was not further repressed by disruptions in envZ , pstSCAB - phoU , orfliA .
+hilA080 : : Tn5lacZY expression is also severely reduced when hilD is disrupted and is not further repressed by a disruption in hilC ( data not shown ) .
+This suggests that these mutations may reduce hilA expression by transcriptional or posttranscriptional effects on hilD .
+However , the results from the hilD envZ double mutant suggest another interpretation of these results .
+Because the EnvZ/OmpR regulatory pathway appears to regulate hilA expression by a hilC - dependent mechanism ( Fig. 4B ) , we expected that a disruption in envZ would repress hilA expression even further in a hilD mutant .
+However , hilA expression was no lower in the envZ hilD double mutant than it was in the hilD single mutant ( Fig. 4C ) .
+This could be explained if hilA expression is so low in a hilD mutant that further repression by other mechanisms ( such as reduced hilC expression or activity ) is not observable .
+Thus , our results can not rule out the possibility that the regulatory mutations affect hilA expression by hilD - independent mechanisms .
+Controlled expression of hilC or hilD abolishes regulation of hilA expression by environmental conditions and regulatory mutations .
+Another way to investigate whether the regulation of hilC or hilD expression plays any role in the regulation of hilA expression by environmental conditions and regulatory factors is to induce hilC or hilD expression under repressing conditions .
+If repression by a particular regulatory pathway is specifically overcome by expressing either hilC or hilD , it might suggest that this regulatory pathway affects hilA expression primarily by controlling hilC or hilD expression .
+Because certain environmental conditions and regulatory mutations affect hilC or hilD expression and appear to regulate hilA expression in a hilC - orhilD - dependent manner , we expected that controlled expression of hilC or hilD would abolish the effects of some conditions and mutations on hilA expression but not others .
+For example , we expected controlled expression of hilC to overcome regulation of hilA expression by EnvZ/OmpR because hilC expression appears to be regulated by this pathway and hilC is required for EnvZ/OmpR regulation of hilA expression .
+However , because hilC is not required for regulation of hilA expression by any other environmental condition or regulatory mutation tested , we expected that controlled expression of hilC would not abolish the regulation of hilA expression by these other conditions and mutations .
+Similarly , we expected that controlled expression of hilD would not overcome the effects of the fadD , fliA , orenvZ mutations of hilA expression because hilD expression is not affected by these mutations .
+In contrast , we expected that controlled expression of hilD might overcome regulation of hilA expression by oxygen and osmolarity because hilD expression is regulated under these conditions .
+To control hilD and hilC expression , we used pSA4 and pLS119 , respectively .
+pSA4 , referred to as philD , is pBAD33 hilD dependent .
+The following mutations were used in this experiment : envZ182 : : cam , pst - 4 : : Tn10 , fliA36 : : Tn5B50 , and hilD1 : : kan. - Galactosidase assays were performed on cultures grown in high - salt LB - medium ( 1 % NaCl ) under oxygen - limiting conditions .
+Averages were calculated using six or more values from at least two different experiments .
+Error bars represent standard deviations .
+2740 LUCAS AND LEE J. BACTERIOL .
+Repression of hilA080 : : Tn5lacZY expression by low - osmolarity is suppressed by arabinose - induced expression of hilC or hilD .
+- Galactosidase assays were performed on cultures grown as described for Fig. 2 .
+Media were supplemented with 0.02 % arabinose prior to inoculation as indicated .
+Averages were calculated using six or more values from at least three different experiments .
+Error bars represent standard deviations .
+To investigate this possibility , we used pRL692 ( philD with lacZ cloned into the hilD ORF ) and pBAD - Myc/His - lacZ .
+In Fig. 6B , we show that lacZ was not expressed from pRL692 under our conditions until the cultures reached an OD 600 of 0.25 to 0.3 .
+This suggests that there is a delay in arabinose induction of P BAD under our conditions .
+There is a similar delay in arabinose - induced lacZ expression from pBAD - Myc / His - lacZ ( data not shown ) .
+Thus , the lag in hilA derepression after arabinose induction of philC or philD appears to be due to a delay in arabinose induction of P BAD under our conditions rather than posttranscriptional modulation of hilC or hilD .
+The reason for this delay in P BAD induction is unknown .
+In addition to abolishing environmental regulation of hilA expression , controlled expression of hilC or hilD overcomes with hilD cloned downstream of P BAD .
+pLS119 , referred to as philC , is pBAD - Myc/His with hilC cloned downstream of P BAD .
+In the presence or absence - of - arabinose , the parent plasmids , pBAD33 and pBAD - Myc/His , have no effect on the regulation of hilA expression by oxygen , osmolarity , or a disruption in fadD , fliA , pstS , sirA , envZ , orhilD ( data not shown ) .
+Furthermore , as shown in Fig. 5 , philD and philC have no effect on osmoregulation of hilA expression in the absence of arabinose .
+However , arabinose - induced expression of hilC or hilD induces high levels of hilA expression under both activating and low - osmolarity conditions .
+This suggests that controlled expression of hilC or hilD can abolish osmoregulation of hilA expression .
+Similar results show that the repression of hilA expression under high - oxygen conditions is overcome by arabinose - induced expression of hilC or hilD ( Fig. 6A ) .
+For these experiments , we performed extended high - oxygen assays in which we measured hilA expression of highly aerated cultures grown to various OD 600 s .
+In the absence of plasmids , hilA expression remains low throughout growth , presumably due to oxygen repression .
+In contrast , hilA is expressed under low - oxygen ( activating ) conditions ( Fig. 5 ) .
+philD and philC have no effect on hilA expression under high - oxygen conditions when arabinose is omitted from the medium ( Fig. 6A ) .
+However , arabinose - induced expression of hilD or hilC from these plasmids yields high levels of hilA expression under both activating ( Fig. 5 ) and high - oxygen ( Fig. 6A ) conditions .
+This suggests that controlled expression of either hilC or hilD abolishes oxygen regulation of hilA expression .
+Curiously , the repression of hilA expression under highoxygen conditions is overcome by controlled hilC or hilD expression only at higher OD 600 s .
+One interpretation of this result might be that hilC and hilD are posttranscriptionally modulated by oxygen at lower OD 600 s , thereby repressing hilA expression .
+However , subsequent results revealed that this lag in hilA induction is probably due to a lag in the arabinose induction of hilC and hilD expression from philC and philD , respectively .
+Repression of hilA080 : : Tn5lacZY expression by high - oxygen conditions is overcome by arabinose - induced expression of hilC or hilD .
+- Galactosidase assays were performed on cultures grown in high - salt LB - medium ( 1 % NaCl ) with or without 0.02 % arabinose under extended high - oxygen conditions as described in Materials and Methods .
+( A ) After an initial lag , arabinose induction of hilC or hilD results in high - level expression of hilA080 : : Tn5lacZY under high - oxygen conditions .
+philC is pLS119 , and philD is pSA4 .
+Each curve is comprised of data points from at least four different experiments .
+( B ) The delay in philD - mediated derepression of hilA expression is due to a lag in P BAD induction .
+pRL692 is philD ( pSA4 ) with lacZ cloned into the hilD ORF .
+Each curve is comprised of data points from three different experiments .
+183 , 2001 REGULATION OF hilA EXPRESSION 2741 FIG. 7 .
+Repression of hilA080 : : Tn5lacZY expression by disruptions in fadD , fliA , pstS , sirA , envZ , and hilD is overcome by arabinoseinduced expression of hilC or hilD .
+The mutations used in these experiments were as follows : fadD1 : : Tn5 , fliA51 : : Tn5 , pstS55 : : Tn5 , sirA2 : : kan , envZ182 : : cam , and hilD1 : : kan. philC is pLS119 , and philD is pSA4 .
+- Galactosidase assays were performed on cultures grown under oxygen - limiting conditions in high - salt LB - medium ( 1 % NaCl ) with or without 0.02 % arabinose as indicated .
+Averages were calculated using four or more values from at least two different experiments .
+repression of hilA expression by all regulatory mutations tested , including a disruption in chromosomal hilD ( Fig. 7 ) .
+The latter finding confirms previous results suggesting that hilC expressed to high levels can substitute functionally for chromosomal hilD to promote hilA expression ( 63 ) .
+In the absence - of - arabinose , philD and philC have no effect on the modulation of hilA expression by these regulatory mutations .
+Taken together , our data demonstrate that controlled expression of either hilC or hilD abolishes regulation of hilA expression by all environmental conditions and regulatory mutations tested .
+Because hilC expressed from P BAD can substitute functionally for chromosomal hilD , we can not use these data to differentiate which regulatory pathways might act through which derepressor to modulate hilA expression .
+Furthermore , it is important to note that in wild - type bacteria under activating conditions , arabinose induction of hilC or hilD expression yields three - to fourfold higher hilA expression than that observed in bacteria not expressing hilC or hilD from a controlled promoter ( Fig. 7 ) .
+This implies that arabinose induction of hilC or hilD expression results in abnormally high levels of HilC or HilD , respectively , and may produce artificial situations that permit high - level expression of hilA regardless of any existing repression mechanisms ( see Discussion ) .
+Thus , our findings should not be interpreted to mean that all repressing conditions and mutations affect hilA expression by modulating hilC or hilD expression .
+In fact , as previously discussed , results from some of our earlier experiments preclude this possibility for certain conditions and mutations .
+DISCUSSION Previously , Schechter et al. demonstrated that hilA expression is repressed in the absence of hilD ( 63 ) .
+Because the URS is required for repression , an unidentified repressor is thought to bind to this region , thereby inhibiting hilA expression .
+When present , HilC or HilD binds to this same site and promotes hilA expression ( 63 ; Schechter and Lee , unpublished results ) .
+However , when this site is removed , the hilA promoter is no longer repressed even when hilD and hilC are absent .
+These results suggest a model in which HilC and HilD , unlike most other AraC - like transcriptional regulators ( 23 ) , are not activators but instead behave as derepressors of hilA expression ( Fig. 8 ) .
+In this model , the repressor is always present but can not inhibit hilA expression under activating conditions because HilD ( and , to a lesser extent , HilC ) displaces it from the URS .
+However , when hilD is absent , the repressor can bind to this site to inhibit hilA expression even under activating environmental conditions .
+Previous results as well as data from this study demonstrate that the URS is also required for modulation of hilA expression by oxygen , osmolarity , PhoP/PhoQ , FadD , FliZ , PhoB , SirA , and EnvZ ( 63 ) .
+None of the regulatory factors affecting hilA expression appears to be responsible for regulating the expression of hilA in response to oxygen or osmolarity .
+Also , previous results indicate that many of these regulatory factors act independently of each other to modulate hilA expression ( 48 ) .
+Thus , multiple independent regulatory pathways converge at the URS , suggesting that they may all modulate the repression - derepression mechanism to regulate hilA expression .
+Such modulation might include altering the expression or activity of HilD , HilC , or the unknown repressor .
+Mutations in fadD , fliA , envZ , and hilC have no effect on hilD expression .
+This suggests that these mutations do not repress hilA by modulating hilD expression .
+However , the finding that the fliA , envZ , and hilC mutations no longer affect hilA expression in a hilD mutant suggests that they may be modulating hilA expression by posttranscriptional effects on hilD .
+The fadD mutation may also affect hilA expression by modulating hilD posttranscriptionally .
+Alternatively , regulation by all of these mutations may be mediated by modulation of the repressor ( see below ) .
+In contrast , mutations in pstS and sirA mildly repress hilD .
+Model for regulation of hilA expression .
+hilA expression may be regulated by modulating the expression or activity of hilC or hilD .
+R is an unknown repressor .
+Under activating conditions , HilC and HilD bind to region 332 to 39 upstream of the hilA promoter , displacing the repressor from this site .
+This allows derepression of hilA expression .
+High oxygen , low - osmolarity , and PhoB P repress expression of hilC and hilD and may modulate hilD posttranscriptionally .
+SirA , OmpR , FadD , FliZ , and HilD promote hilC expression , and OmpR may also modulate hilC posttranscriptionally .
+SirA , OmpR , FadD , and FliZ may also modulate hilD posttranscriptionally to regulate hilA expression .
+2742 LUCAS AND LEE J. BACTERIOL .
+Furthermore , hilD expression is repressed under high - oxygen and low - osmolarity conditions just as hilA expression is .
+This suggests that the regulation of hilA expression by these conditions and mutations might be mediated by modulating hilD expression .
+Consistent with this model , hilA expression is strongly repressed by a disruption in hilD , and a mutation in pstSCAB - phoU has no effect on hilA expression in a hilD mutant .
+However , such results are also consistent with models in which these conditions and mutations regulate hilA expression by modulating hilD posttranscriptionally .
+In an attempt to further investigate which pathways regulate hilA expression by modulating hilD expression , we examined the effect of controlled hilD expression on the modulation of hilA expression by environmental conditions and regulatory mutations .
+Unexpectedly , controlled expression of hilD overcomes the effects of all repressing conditions and mutations on hilA expression .
+This finding should be interpreted with caution , because many of these mutations do not affect hilD expression and presumably regulate hilA expression either by posttranscriptional effects on hilD or by hilD - independent mechanisms .
+Thus , arabinose - induced expression of hilD appears to do more than just compensate for decreased hilD expression under repressing conditions .
+Indeed , hilA expression is much higher when hilD expression is driven from the P BAD promoter than it is in bacteria expressing chromosomal hilD from its own promoter .
+This implies that an artificially high level of HilD is present when hilD is expressed from the P BAD promoter .
+Such high - level expression of hilD may increase hilA expression under repressing conditions by compensating for posttranscriptional effects on hilD .
+There are several ways in which hilD might be regulated posttranscriptionally , including modulation of hilD mRNA stability .
+A mechanism for this type of regulation may involve CsrA , which selectively destabilizes mRNAs ( 43 ) .
+As previously discussed , both high - level expression and loss of CsrA repress hilA , suggesting that CsrA may destabilize different mRNAs that promote and inhibit hilA expression ( 3 , 4 ) .
+Alternatively , CsrA levels may directly affect the stability of hilD mRNA .
+In support of this idea , recent evidence demonstrates that hilD transcript levels are reduced in strains lacking or overexpressing CsrA ( 3 ) .
+RNase E , which appears to somehow repress hilA expression ( 18 ) , may affect hilD transcript stability in conjunction with CsrA .
+If environmental conditions and regulatory factors modulate hilA expression by affecting hilD transcript stability , high - level expression of HilD from the P BAD promoter may help compensate for hilD transcript instability , allowing expression of hilA under repressing conditions .
+More experiments must be done to determine whether specific environmental conditions or regulatory mutations ultimately modulate hilA expression by these mechanisms .
+Another possibility is that HilD protein activity is affected by particular environmental conditions or regulatory mutations .
+For example , HilD may interact with a ligand that is present under specific conditions , and the binding of this ligand may affect HilD 's ability to bind DNA .
+Alternatively , HilD may be phosphorylated or otherwise modified such that its activity is modulated in response to particular conditions or mutations .
+If repression is mediated by modulating HilD activity , high - level expression of hilD might somehow overcome the effects of such modulation .
+One example of an AraC - like transcriptional regulator whose activity can be affected in this way is XylS from Pseudomonas putida .
+XylS is thought to exist in a dynamic equilibrium between an active and inactive state , and binding of certain effectors favors the transition from the inactive to active form ( 23 ) .
+Normally , XylS requires the binding of these effectors to activate transcription of its target genes .
+However , when XylS is overproduced , XylS - dependent transcription is induced even in the absence of effectors .
+It is thought that when the total amount of XylS in the cell is high , the amount of active XylS in equilibrium with inactive XylS is high enough to activate transcription .
+HilD may also exist in an equilibrium between an active and inactive state , similar to XylS .
+In such a model , overproduction of HilD could yield enough active HilD in equilibrium with inactive HilD to derepress hilA expression under repressing conditions .
+Because arabinose - induced expression of hilD results in artificially high levels of HilD that might compensate for posttranscriptional regulation of hilD , our results can not determine which environmental and regulatory pathways regulate hilA expression by modulating hilD expression .
+However , the effects of the pstS and sirA mutations on hilD expression are extremely mild , and it seems unlikely that such effects would significantly reduce hilA expression .
+Also , the reduction in hilA expression under high - oxygen or low - osmolarity conditions is much more dramatic than the repression of hilD expression by these conditions .
+Therefore , it seems unlikely that environmental regulation of hilD expression can fully account for the regulation of hilA expression by these environmental conditions .
+For these reasons , we favor models in which the regulation of hilA expression by environmental conditions and regulatory mutations is mediated by posttranscriptional effects on hilD or by modulating the expression or activity of a repressor ( see below ) .
+Interpreting the impact of controlled hilD expression on the modulation of hilA expression was made even more complicated by the fact that hilC , when expressed to high levels , can substitute functionally for hilD .
+Schechter et al. found that high - level expression of hilC could derepress the hilA promoter even in the absence of hilD ( 63 ) .
+Furthermore , we found that controlled expression of hilC overcomes repression of chromosomal hilA expression by high oxygen levels , low osmolarity , and all mutations tested ( Fig. 5 , 6 , and 7 ) .
+Arabinose - induced expression of hilC overcomes repressing conditions and mutations even when hilD is disrupted ( data not shown ) , suggesting that HilC is directly derepressing hilA expression .
+In support of this hypothesis , HilC binds to the URS in - vitro ( Schechter and Lee , unpublished results ) .
+Thus hilC , which is also a member of the AraC family , can behave as a derepressor of hilA expression when produced at high levels .
+However , Schechter et al. found that a disruption in hilC has only modest effects on S. enterica serovar Typhimurium 's ability to invade HEp - 2 cells , while a disruption in hilD has profound effects on invasion ( 63 ) .
+This suggests that hilC plays a minor role in - vitro compared to hilD .
+Our results seem to confirm this prediction .
+A disruption in hilC reduced iagB87 : : lacZY expression only 2 - fold , compared with the 32 - fold repression seen in a hilD mutant .
+Furthermore , hilC is not required for the regulation of hilA expression by oxygen , osmolarity , FadD , FliZ , PhoB , or SirA .
+Only EnvZ/OmpR seems to require hilC to regulate hilA expression .
+Thus , while EnvZ / VOL .
+183 , 2001 REGULATION OF hilA EXPRESSION 2743 OmpR may regulate hilA expression by modulating hilC expression and/or activity , all other conditions and regulatory factors affect hilA expression by a hilC - independent mechanism .
+We have concluded that SirA and HilC affect hilA expression independently , based on results which show that a hilC sirA double mutant yields much lower hilA expression than either a sirA or hilC single mutant .
+This conflicts with data from Rakeman et al. , who found that in a sirA mutant , hilA expression was not further reduced by a disruption in sirC ( hilC ) ( 61 ) .
+We suspect that the conflict between our results and those of Rakeman et al. can be explained by differences in strain backgrounds and sirA mutations used .
+We observed over 500 Miller units of - galactosidase activity from the iagB87 : : lacZY fusion in SL1344 under our conditions .
+However , Rakeman et al. observed less than 200 Miller units of - galactosidase activity from the same fusion in their strain background , 14028s , indicating that hilA expression is already somewhat repressed in their strain background ( 61 ) .
+Furthermore , their sirA mutation has a stronger effect on iagB87 : : lacZY expression than our sirA mutation does ( sixfold repression and threefold repression , respectively ) .
+The end result of these differences is that Rakeman et al. observed only approximately 30 Miller units of - galactosidase activity from iagB87 : : lacZY in a sirA mutant .
+In this situation , the hilA promoter may already be as repressed as it can be .
+Thus , the effect of the hilC mutation on hilA expression may not be observable in the sirA mutant , which could explain why their sirA hilC double mutant did not exhibit lower hilA expression than a sirA single mutant .
+However , since we still have considerable hilA expression in our sirA mutant ( 168 Miller units of - galactosidase activity from iagB87 : : lacZY ) , we can observe the combined effects of the sirA and hilC mutations on hilA expression in the double mutant ( iagB87 : : lacZY expression dropped to 29 Miller units ) .
+Parallels between regulation of hilC and hilA expression .
+Rakeman et al. observed that hilC expression is reduced by a disruption in sirA ( 61 ) .
+Our results confirm this observation , though our sirA mutation has a milder effect on hilC expression than that reported by Rakeman et al. .
+In addition , we found that hilC expression is repressed by high - oxygen conditions , low - osmolarity , and all regulatory mutations tested .
+Thus , although hilC is not required for the regulation of hilA expression by any of these conditions or mutations , hilC expression is regulated in a manner that parallels the regulation of hilA expression .
+hilC expression is unaffected by a disruption in hilA ( 61 ) , but it is mildly reduced by a disruption in hilD .
+This suggests that the same repression - derepression mechanism that regulates hilA expression may also affect hilC expression .
+If so , future studies on the regulation of hilC expression by all of these environmental conditions and regulatory mutations may provide clues about how hilA expression is regulated .
+Interestingly , preliminary results indicate that in a hilD mutant , hilC expression is even further repressed by low - osmolarity conditions , suggesting that osmoregulation of hilC expression is hilD independent ( data not shown ) .
+The same may be true for osmoregulation of hilA expression .
+Although this study focused on the roles of hilC and hilD in regulating hilA expression , this regulation could also be mediated by affecting the expression or activity of a repressor .
+The finding that arabinose - induced expression of hilD overcomes the repression of hilA by all environmental conditions and regulatory mutations would seem to argue against this possibility .
+However , controlled expression of hilD from the P BAD promoter may result in such high levels of HilD that the repressor is completely outcompeted for binding at the URS .
+If repression by a particular condition or mutation is mediated by increasing the expression or activity of the repressor , this effect could be counteracted by flooding the system with so much HilD that the repressor is unable to bind to the URS at all .
+In such a situation , the abundance and activity of the repressor would become irrelevant , such that environmental conditions and regulatory mutations acting through the repressor would no longer affect hilA expression .
+Similarly , if hilD is absolutely required for expression of hilA , increased expression or activity of the repressor might have no effect in a hilD mutant .
+This might explain why hilA expression is not strongly affected by environmental conditions or regulatory mutations in the absence of hilD .
+Thus , our data do not rule out models in which environmental conditions and regulatory mutations modulate hilA expression by altering the expression or activity of a repressor .
+Our results have excluded hilC from playing a major role in the in - vitro regulation of hilA expression by all environmental conditions and regulatory factors tested ( except EnvZ/OmpR ) .
+However , regulation of hilC expression by these conditions and regulatory factors parallels the regulation of hilA expression .
+This implies that studies on the regulation of hilC expression may provide more clues about how hilA is regulated .
+In fact , something equivalent to the URS may be present upstream of the hilC promoter , and future studies must explore this possibility .
+We have also shown that FadD , FliZ , and EnvZ do not regulate hilA expression by modulating hilD expression .
+Furthermore , we suspect that the mild effects of oxygen , osmolarity , SirA , and PhoB on hilD expression do not fully account for the effects of these conditions and mutations on hilA expression .
+We are left with a model in which these conditions and mutations regulate hilA expression by modulating hilD posttranscriptionally ( Fig. 8 ) .
+Future molecular and biochemical studies must focus on determining how posttranscriptional regulation of hilD might be achieved .
+Our data are also consistent with a model in which the regulation of hilA expression is mediated by modulating the expression or activity of the repressor .
+Future experiments to test such a model await the identification of the repressor .
+In fact , more than one repressor may be involved in mediating inhibition of hilA expression by different environmental conditions and regulatory mutations .
+One likely candidate , hns , appears to be required for repression of hilA under lowosmolarity conditions , even in the absence of hilC and hilD ( Schechter and Lee , unpublished results ) .
+Another potential repressor is HilE .
+Fahlen et al. demonstrated that some mutations ( such as hilE1 , which contains a disruption in hilE ) result in increased hilA expression under activating conditions ( 18 ) .
+Thus , HilE may act as a repressor under certain circumstances .
+Experiments must be done to determine whether H - NS and HilE interact directly with the URS , as we would expect if they are repressors .
+It is unlikely that any one mechanism of regulation can account for the changes in hilA expression in the presence of various environmental conditions and regulatory mutations .
+2744 LUCAS AND LEE J. BACTERIOL .
+Transcriptional and posttranscriptional regulation of hilD as well as modulation of the expression and activity of one or more repressors may all contribute to the regulation of hilA expression .
+Thus , future studies must focus on measuring how much each mechanism contributes to the regulation of hilA expression by each environmental condition and regulatory factor .
+We are grateful to S. Akbar , L. Schechter , S. Lindgren , and B. Ahmer for sharing unpublished strains , plasmids , and results .
+We also thank S. Akbar and J. Day for critical reading of the manuscript .
+This work was supported by the American Heart Association grantin - aid 96006780 ( C.A.L. ) and NIH grant no .
+ADDENDUM IN PROOF Iyoda et al. ( S. Iyoda , T. Kamidoi , K. Hirose , K. Katsukake , and H. Watanabe , Microb .
+30:81 -- 90 , 2001 ) have shown that a disruption in fliZ represses hilA , confirming that FliZ positively regulates hilA expression .
+Ahmer , B. M. M. , J. van Reeuwijk , P. R. Watson , T. S. Wallis , and F. Heffron .
+Salmonella SirA is a global regulator of genes mediating enteropathogenesis .
+Ailion , M. , T. A. Bobik , and J. R. Roth .
+Two global regulatory systems ( Crp and Arc ) control the cobalamin/propanediol regulon of Salmonella typhimurium .
+Altier , C. , M. Suyemoto , and S. D. Lawhon .
+Regulation of Salmonella enterica serovar Typhimurium invasion genes by csrA .
+Altier , C. , M. Suyemoto , A. I. Ruiz , K. D. Burnham , and R. Maurer .
+Characterization of two novel regulatory genes affecting Salmonella invasion gene expression .
+Atlung , T. , and H. Ingmer .
+H - NS : a modulator of environmentally regulated gene expression .
+Bajaj , V. , C. Hwang , and C. A. Lee .
+hilA is a novel ompR/toxR family member that activates the expression of Salmonella typhimurium invasion genes .
+Bajaj , V. , R. L. Lucas , C. Hwang , and C. A. Lee .
+Co - ordinate regulation of Salmonella typhimurium invasion genes by environmental and regulatory factors is mediated by control of hilA expression .
+Bauer , C. E. , S. Elsen , and T. H. Bird .
+Mechanisms for redox control of gene expression .
+Bochner , B. R. , H. - C .
+Huang , G. L. Schieven , and B. N. Ames .
+Positive selection for loss of tetracycline resistance .
+Bullas , L. R. , and J. - I .
+Salmonella typhimurium LT2 strains which are r m for all three chromosomally located systems of DNA restriction and modification .
+Chen , L. M. , K. Kaniga , and J. E. Galan .
+Salmonella spp. are cytotoxic for cultured macrophages .
+Darwin , K. H. , and V. L. Miller .
+InvF is required for expression of genes encoding proteins secreted by the SPI1 type III secretion apparatus in Salmonella typhimurium .
+Darwin , K. H. , and V. L. Miller .
+Molecular basis of the interaction of Salmonella with the intestinal mucosa .
+Deiwick , J. , T. Nikolaus , J. E. Shea , C. Gleeson , D. W. Holden , and M. Hensel .
+Mutations in Salmonella pathogenicity island 2 ( SPI2 ) genes affecting transcription of SPI1 genes and resistance to antimicrobial - agents .
+DiRusso , C. C. , P. N. Black , and J. D. Weimar .
+Molecular inroads into the regulation and metabolism of fatty - acids , lessons from bacteria .
+Eichelberg , K. , and J. E. Galan .
+Differential regulation of Salmonella typhimurium type III secreted proteins by pathogenicity island 1 ( SPI1 ) - encoded transcriptional activators InvF and HilA .
+Eichelberg , K. , W. D. Hardt , and J. E. Galan .
+Characterization of SprA , an AraC - like transcriptional regulator encoded within the Salmonella typhimurium pathogenicity island 1 .
+Fahlen , T. , N. Mathur , and B. D. Jones .
+Identification and characterization of mutants with increased expression of hilA , the invasion gene transcriptional activator of Salmonella typhimurium .
+Fields , P. I. , R. V. Swanson , C. G. Haidaris , and F. Heffron .
+Mutants of Salmonella typhimurium that can not survive within macrophages are avirulent .
+Finkel , S. E. , and R. C. Johnson .
+The Fis protein : it 's not just for DNA inversion anymore .
+Francis , C. L. , T. A. Ryan , B. D. Jones , S. J. Smith , and S. Falkow .
+Ruffles induced by Salmonella and other stimuli direct macropinocytosis of bacteria .
+Fu , Y. , and J. E. Galan .
+The Salmonella typhimurium tyrosine phosphatase SptP is translocated into host cells and disrupts the actin cytoskeleton .
+Gallegos , M. - T. , R. Schleif , A. Bairoch , K. Hofman , and J. L. Ramos .
+AraC/XylS family of transcriptional regulators .
+Gewirtz , A. T. , A. M. Siber , J. L. Madara , and B. A. McCormick .
+Orchestration of neutrophil movement by intestinal epithelial cells in response to Salmonella typhimurium can be uncoupled from bacterial internalization .
+Gibson , M. M. , E. M. Ellis , K. A. Graeme - Cook , and C. F. Higgins .
+OmpR and EnvZ are pleiotropic regulatory proteins : positive regulation of the tripeptide permease ( tppB ) ofSalmonella typhimurium .
+The ins and outs of virulence gene expression : Mg 2 as a regulatory signal .
+Groisman , E. A. , E. Chiao , C. J. Lipps , and F. Heffron .
+Salmonella typhimurium phoP virulence gene is a transcriptional regulator .
+Gunn , J. S. , E. L. Hohmann , and S. I. Miller .
+Transcriptional regulation of Salmonella virulence : a PhoQ periplasmic domain mutation results in increased net phosphotransfer to PhoP .
+Gunn , J. S. , and S. I. Miller .
+PhoP - PhoQ activates transcription of pmrAB , encoding a two - component regulatory system involved in Salmonella typhimurium antimicrobial peptide resistance .
+Guzman , L. - M. , D. Belin , M. J. Carson , and J. Beckwith .
+Tight regulation , modulation , and high - level expression by vectors containing the arabinose P BAD promoter .
+Hardt , W. D. , H. Urlaub , and J. E. Galan .
+A substrate of the centisome 63 type III protein secretion system of Salmonella typhimurium is encoded by a cryptic bacteriophage .
+Heithoff , D. M. , R. L. Sinsheimer , D. A. Low , and M. J. Mahan .
+An essential role for DNA adenine methylation in bacterial virulence .
+Hensel , M. , J. E. Shea , S. R. Waterman , R. Mundy , T. Nikolaus , G. Banks , A. Vazquez - Torres , C. Gleeson , F. C. Fang , and D. W. Holden .
+Genes encoding putative effector proteins of the type III secretion system of Salmonella pathogenicity island 2 are required for bacterial virulence and proliferation in macrophages .
+Hersh , D. , D. M. Monack , M. R. Smith , N. Ghori , S. Falkow , and A. Zychlinsky .
+The Salmonella invasin SipB induces macrophage apoptosis by binding to caspase - 1 .
+Hobbie , S. , L. M. Chen , R. J. Davis , and J. E. Galan .
+Involvement of mitogen - activated protein kinase pathways in the nuclear responses and cytokine production induced by Salmonella typhimurium in cultured intestinal epithelial cells .
+Ikebe , T. , S. Iyoda , and K. Kutsukake .
+Structure and expression of the fliA operon of Salmonella typhimurium .
+Jiang , W. , W. W. Metcalf , K. - S .
+Lee , and B. L. Wanner .
+Molecular cloning , mapping , and regulation of Pho regulon genes for phosphonate breakdown by the phosphonatase pathway of Salmonella typhimurium LT2 .
+Johnston , C. , D. A. Pegues , C. J. Hueck , C. A. Lee , and S. I. Miller .
+Transcriptional activation of Salmonella typhimurium invasion genes by a member of the phosphorylated response - regulator superfamily .
+Jones , B. D. , N. Ghori , and S. Falkow .
+Salmonella typhimurium initiates murine infection by penetrating and destroying the specialized epithelial M cells of Peyer 's patches .
+Kutsukake , K. , T. Ikebe , and S. Yamamoto .
+Two novel regulatory genes , fliT and fliZ , in the flagellar regulon of Salmonella .
+Lee , C. A. , B. D. Jones , and S. Falkow .
+Identification of a Salmonella typhimurium invasion locus by selection for hyperinvasive mutants .
+Lee , C. A. , M. Silva , A. M. Siber , A. J. Kelly , E. E. Galyov , and B. A. McCormick .
+A secreted Salmonella protein induces a proinflammatory response in epithelial cells , which promotes neutrophil migration .
+Liu , M. Y. , H. Yang , and T. Romeo .
+The product of the pleiotropic Escherichia coli gene csrA modulates glycogen biosynthesis via effects on mRNA stability .
+Liu , X. , and P. Matsumura .
+The FlhD/FlhC complex , a transcriptional VOL .
+183 , 2001 REGULATION OF hilA EXPRESSION 2745 activator of the Escherichia coli flagellar class II operons .
+Lodge , J. , J. Fear , S. Busby , P. Gunasekaran , and N. R. Kamini .
+Broad host range plasmids carrying the Escherichia coli lactose and galactose operons .
+Lostroh , C. P. , V. Bajaj , and C. A. Lee .
+The cis requirements for transcriptional activation by HilA , a virulence determinant encoded on SPI1 .
+Lucas , R. L. , and C. A. Lee .
+Unravelling the mysteries of virulence gene regulation in Salmonella typhimurium .
+Lucas , R. L. , C. P. Lostroh , C. C. DiRusso , M. P. Spector , B. L. Wanner , and C. A. Lee .
+Multiple factors independently regulate hilA and invasion gene expression in Salmonella enterica serovar Typhimurium .
+McCormick , B. A. , P. M. Hofman , J. Kim , D. K. Carnes , S. I. Miller , and J. L. Madara .
+Surface attachment of Salmonella typhimurium to intestinal epithelia imprints the subepithelial matrix with gradients chemotactic for neutrophils .
+Metcalf , W. W. , W. Jiang , L. L. Daniels , S. - K .
+Kim , A. Haldimann , and B. L. Wanner .
+Conditionally replicative and conjugative plasmids carrying lacZ for cloning , mutagenesis , and allele replacement in bacteria .
+Experiments in molecular genetics .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 52 .
+Miller , S. I. , A. M. Kukral , and J. J. Mekalanos .
+A two - component regulatory system ( phoP phoQ ) controls Salmonella typhimurium virulence .
+Mills , D. M. , V. Bajaj , and C. A. Lee .
+A 40 - kb chromosomal fragment encoding Salmonella typhimurium invasion genes is absent from the corresponding region of the Escherichia coli K - 12 chromosome .
+Monack , D. M. , B. Raupach , A. E. Hromockyj , and S. Falkow .
+Salmonella typhimurium invasion induces apoptosis in infected macrophages .
+Murray , R. A. , and C. A. Lee .
+Invasion genes are not required for Salmonella enterica serovar typhimurium to breach the intestinal epithelium : evidence that Salmonella pathogenicity island 1 has alternative functions during infection .
+Oshini , K. , K. Kutsukake , H. Suzuki , and T. Iino .
+Gene fliA encodes an alternative sigma factor specific for flagellar operons in Salmonella typhimurium .
+Penheiter , K. L. , N. Mathur , D. Giles , T. Fahlen , and B. D. Jones .
+Non - invasive Salmonella typhimurium mutants are avirulent because of an inability to enter and destroy M cells of ileal Peyer 's patches .
+Perez - Martin , J. , and V. de Lorenzo .
+Clues and consequences of DNA bending in transcription .
+Pinson , V. , M. Takahashi , and J. Rouviere - Yaniv .
+Differential binding of the Escherichia coli HU homodimeric forms and heterodimeric form to linear , gapped , and cruciform DNA .
+Pratt , L. A. , and T. J. Silhavy .
+Porin regulon of Escherichia coli , p. 105 -- 127 .
+In J. A. Hoch and T. J. Silhavy ( ed .
+American Society for Microbiology , Washington , D.C. 61 .
+Rakeman , J. L. , H. R. Bonifield , and S. I. Miller .
+A HilA - independent pathway to Salmonella typhimurium invasion gene transcription .
+Sanderson , K. E. , and B. A. D. Stocker .
+Salmonella typhimurium strains used in genetic analysis , p. 1220 -- 1224 .
+In F. C. Neidhardt , J. L. Ingraham , D. A. Low , B. Magasanik , M. Schaechter , and H. E. Umbarger ( ed .
+) , Escherichia coli and Salmonella typhimurium : cellular and molecular biology , vol .
+American Society for Microbiology , Washington , D.C. 63 .
+Schechter , L. M. , S. M. Damrauer , and C. A. Lee .
+Two AraC/XylS family members can independently counteract the effect of repressing sequences upstream of the hilA promoter .
+Schechter , L. M. , and C. A. Lee .
+Salmonella invasion of non - phagocytic cells , p. 289 -- 320 .
+In T. Oelschlaeger and J. Hacker ( ed .
+Kluwer Academic/Plenum Publishers , New York , N.Y. 65 .
+Soncini , F. C. , and E. A. Groisman .
+Two - component regulatory systems can interact to process multiple environmental signals .
+Strauch , K. L. , J. B. Lenk , B. L. Gamble , and C. G. Miller .
+Oxygen regulation in Salmonella typhimurium .
+Vazquez - Torres , A. , J. Jones - Carson , A. J. Baumler , S. Falkow , R. Valdivia , W. Brown , M. Le , R. Berggren , W. T. Parks , and F. C. Fang .
+Extraintestinal dissemination of Salmonella by CD18 - expressing phagocytes .
+Vescovi , E. G. , F. C. Soncini , and E. A. Groisman .
+Mg2 as an extracellular signal : environmental regulation of Salmonella virulence .
+Wallis , T. S. , and E. E. Galyov .
+Molecular basis of Salmonella - induced enteritis .
+Phosphorus assimilation and control of the phosphate regulon , p. 1357 -- 1381 .
+In F. C. Neidhardt , R. Curtiss III , J. L. Ingraham , E. C. C. Lin , K. B. Low , B. Magasanik , W. S. Reznikoff , M. Riley , M. Schaechter , and H. E. Umbarger ( ed .
+) , Escherichia coli and Salmonella : cellular and molecular biology , 2nd ed. , vol .
+American Society for Microbiology , Washington , D.C. 71 .
+Wilmes - Riesenberg , M. R. , and B. L. Wanner .
+TnphoA and TnphoA elements for making and switching fusions for study of transcription , translation , and cell surface localization .
+Wilson , R. L. , S. J. Libby , A. M. Freet , J. D. Boddicker , T. F. Fahlen , and B. D. Jones .
+Fis , a DNA nucleiod - associated protein , is involved in Salmonella typhimurium SPI - 1 invasion gene expression .
+Wosten , M. M. , L. F. Kox , S. Chamnongpol , F. C. Soncini , and E. A. Groisman .
+A signal transduction system that responds to extracellular iron .
+Yang , H. , M. Y. Liu , and T. Romeo .
+Coordinate genetic regulation of glycogen catabolism and biosynthesis in Escherichia coli via the CsrA gene product .

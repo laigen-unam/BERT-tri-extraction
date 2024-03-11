@@ -1,0 +1,482 @@
+JOURNAL OF BACTERIOLOGY , Mar. 2009 , p. 1498 -- 1508 Vol .
+191 , No. 5 0021 - 9193/09 / $ 08.00 0 doi : 10.1128 / JB.01177 - 08 T - POP Array Identifies EcnR and PefI - SrgD as Novel Regulators of Flagellar Gene Expression † Christopher E. Wozniak , 1 ‡ Changhan Lee , 1 and Kelly T. Hughes 2 * Department of Microbiology , University of Washington , Seattle , Washington 98195 , 1 and Department of Biology , University of Utah , Salt Lake City , Utah 84112 2 The T - POP transposon was employed in a general screen for tetracycline ( Tet ) - induced chromosomal loci that exhibited Tet - activated or Tet - repressed expression of a fliC - lac transcriptional - fusion .
+Insertions that activated flagellar transcription were located in flagellar genes .
+T - POP insertions that exhibited Tet - dependent fliC - lac inhibition were isolated upstream of the ecnR , fimZ , pefI - srgD , rcsB , and ydiV genes and in the flagellar gene flgA , which is located upstream of the anti- 28 factor gene flgM .
+When expressed from the chromosomal P araBAD promoter , EcnR , FimZ , PefI - SrgD , and RcsB inhibited the transcription of the flagellar class 1 flhDC operon .
+YdiV , which is weakly homologous to EAL domain proteins involved in cyclic - di - GMP regulation , appears to act at a step after class 1 transcription .
+By using a series of deletions of the regulatory genes to try to disrupt each pathway , these regulators were found to act largely independently of one another .
+These results identify EcnR and PefI - SrgD as additional components of the complex regulatory network controlling flagellar expression .
+Flagella are rotary propellers that some bacteria use to swim through liquid environments .
+A single flagellum can grow to 10 times the length of the cell and be composed of tens of thousands of protein subunits ( 35 ) .
+Salmonella strains have an average of eight flagella per cell ( 43 ) .
+By enabling bacteria to swim toward nutrients and away from harmful substances , these structures provide bacteria with a competitive advantage .
+The price for this advantage is about 2 % of the cell 's biosynthetic resources in order to build the flagella and 0.1 % of the cell 's energy for their rotation ( 16 , 35 ) .
+Therefore , flagella are likely to be expressed only when they are needed .
+Bacteria upregulate flagellar synthesis under low - nutrient conditions ( 62 , 63 ) .
+Flagellar genes are shut down after attachment to surfaces during biofilm formation ( 2 , 42 ) .
+Flagellar synthesis is inhibited after entry into host cells , which would prevent the recognition of flagellin by the immune system ( 8 , 9 , 14 ) .
+Flagella are also regulated in response to temperature , DNA supercoiling , water availability , and other conditions ( 6 , 56 ) .
+The approximately five dozen genes involved in flagellar synthesis and chemotaxis in Salmonella enterica serovar Typhimurium are organized into a transcriptional hierarchy of three classes .
+At the top of the hierarchy is the class 1 promoter .
+The class 1 promoter is thought to integrate many different signals in the decision on when to express flagellar genes .
+In Salmonella , the class 1 promoter contains at least six transcriptional start sites ( 61 ) and expresses the flhDC genes , which encode the FlhD 4 C 2 activator complex ( 34 , 58 ) .
+The FlhD 4 C 2 activator University of Utah , 257 S. 1400 E. , Salt Lake City , UT 84112 - 0840 .
+† Supplemental material for this article may be found at http://jb .
+‡ Present address : Department of Biology , University of Utah , Salt Lake City , UT 84112 .
+Published ahead of print on 29 December 2008 .
+complex directs 70 and RNA polymerase to initiate transcription at class 2 promoters .
+Gene products expressed from the class 2 promoters are used to build the basal body , which is the motor structure that spans the membranes and peptidoglycan and consists of the rotor , the rod , bushings , and the flagellar secretion system .
+Class 2 gene products are also used to assemble the flexible , extracellular rod - filament linker called the hook .
+A class 2 promoter transcribes the gene for the flagellar sigma factor 28 , which activates transcription from class 3 promoters .
+Class 3 promoters transcribe the genes for the filament subunits , motor force generators , and chemosensory system ( 6 ) .
+In Salmonella , a number of nonflagellar proteins are known to affect flagellar synthesis .
+These regulators include eight proteins that contain DNA - binding domains .
+One is the cyclic AMP - catabolite gene activator protein ( CAP ) complex that activates flhDC transcription ( 27 , 28 , 30 , 62 ) .
+CAP binds DNA when cyclic AMP levels are high during - growth under nutrientlimiting conditions .
+In Escherichia coli , DNA footprinting demonstrated previously that CAP binds to a specific site within the flhDC promoter region ( 49 ) .
+A second regulator of flagellar transcription is RcsB , which is the response regulator component of the phosphotransfer relay system that controls capsule synthesis ( 5 , 11 ) .
+The RcsCDB system responds to multiple external stimuli , including high - osmolarity , desiccation , and low - temperature with high zinc concentrations ( 36 ) .
+RcsB binds to a specific site termed the RcsAB box within the class 1 promoter region to inhibit motility ( 57 ) .
+A third DNA - binding protein that affects motility is FimZ .
+FimZ is a response regulator that activates type 1 fimbrial genes .
+Type 1 fimbriae are utilized for surface - adhesion , but it is not known to what signals FimZ responds .
+FimZ inhibits motility at the level of class 1 transcription ( 7 ) .
+The iron - regulatory protein Fur and the nucleoid proteins Fis and H - NS activate flagellar transcription ( 4 , 25 , 28 ) .
+It has been demonstrated previously for Fis in Salmonella and for Fur and H - NS in E. coli that these regula - 1498 VOL .
+191 , 2009 NOVEL REGULATORS OF FLAGELLAR GENE EXPRESSION 1499 tors can bind directly to the flhDC promoter ( 25 , 49 , 51 ) .
+Finally , SlyA and RtsB are pathogenesis - related DNA - binding proteins that affect motility or flagellar expression ( 13 , 50 ) .
+SlyA promotes the expression of the filament subunits ( 50 ) , and RtsB binds to and inhibits the class 1 flagellar promoter ( 13 ) .
+Proteins that do not contain DNA - binding domains also regulate motility in Salmonella and tend to affect steps after class 1 transcription .
+CsrA is an RNA - binding protein involved in carbon storage regulation that stabilizes the flhDC transcript in E. coli ( 59 ) and is important for motility in Salmonella ( 32 ) .
+DnaK is a heat - shock response chaperone that directly interacts with FlhD 4 C 2 to promote the formation of active FlhD 4 C 2 complexes ( 52 ) .
+ClpXP is a protease that is also induced by the heat - shock response but inhibits motility by degrading FlhD 4 C 2 ( 9 , 54 , 55 ) .
+Proteins that adjust the levels of or respond to the global signaling - molecule cyclic - di - GMP ( c - di - GMP ) also affect motility .
+The GGDEF domain protein AdrA increases c - di - GMP levels , reduces motility , and promotes biofilm formation ( 47 ) .
+The EAL domain proteins YhjH and STM1827 decrease c - di - GMP levels , increase motility , and inhibit biofilm formation ( 45 -- 47 ) .
+The YcgR protein inhibits motility and contains a PilZ domain that binds c - di - GMP ( 46 ) .
+In E. coli , these c - di - GMP - related proteins have been shown to promote the assembly of the motor force generator proteins and alter the directional bias of flagellar rotation ( 19 , 26 ) .
+Because flagella can be an advantage or a handicap depending on the situation , it is not surprising that flagellar synthesis is regulated in response to many different signals .
+However , the more than a dozen proteins described above may not constitute the entire regulatory network in Salmonella .
+A genetic approach was utilized in this study to search for additional regulators of flagellar synthesis .
+The T - POP transposon , which contains an inducible promoter , was allowed to transpose to random locations throughout the Salmonella genome .
+Depending on the orientation of the transposon , the inducible promoter could initiate the transcription of adjacent genes or produce antisense RNA to inhibit translation .
+This transposon was used to screen for genes that either inducibly activated or inhibited the transcription of the filament subunit gene fliC .
+In addition to insertions that directly controlled known regulators of flagellar transcription , two new loci were found to inhibit flagellar synthesis when overexpressed .
+Deletions in and lac fusions to these negative regulator genes were used to organize the corresponding proteins into pathways .
+These additional regulators provide further insight into when and how flagellar synthesis is controlled .
+MATERIALS AND METHODS Bacterial strains and general techniques .
+The strains used in this study were derived from Salmonella enterica serovar Typhimurium strain LT2 .
+Many of these strains are listed in Table 1 .
+Additional strains were constructed from the alleles indicated in Table 1 and are listed in Table S1 in the supplemental material .
+Cultures of bacterial strains and phage P22 lysates were prepared as described previously ( 18 ) .
+Chlortetracycline ( 50 g/ml ; autoclaved ) or tetracycline ( Tet ; 15 g/ml ) was used to induce transcription from the tetA promoter within the T - POP transposon , and 0.2 % arabinose ( Ara ) was used to induce transcription from the araBAD promoter .
+Tet s selections and transductions were performed as described previously ( 37 , 38 ) , except that Luria broth ( LB ) was used instead of nutrient broth .
+Primers were synthesized by Integrated DNA Technologies ( Coralville , IA ) and are listed in Table S2 in the supplemental material .
+PCR products were sequenced at the DNA sequencing facility ( Department of Biochemistry ) at the University of Washington or at the DNA sequencing core facility at the University of Utah .
+Strain constructions utilizing red recombination were performed using plasmid pKD46 as described previously ( 60 ) .
+MES ( morpholineethanesulfonic acid ) buffer ( 100 mM ) was used in acidic motility plates to maintain the pH near 5.1 ( 39 ) .
+A position - specific score matrix algorithm was used to search intergenic regions with the consensus sequences for 28 and FlhD 4 C 2 , as described in an earlier study ( 60 ) .
+Screen for random T - POP insertions affecting flagellar transcription .
+The screen was performed as described in Results .
+The T - POP transposon was mobilized by P22 - mediated transduction into recipient strains expressing Tn10 transposase from a plasmid .
+The frequency of hot - spot transposition was reduced by using the mutant Tn10 transposase with altered target specificity from plasmid pNK2880 .
+To compensate for the decreased transposition frequency of the mutant transposase with altered target specificity , the donor strain ( TH3923 ) had the Tn10dTc [ 25 ] transposon inserted downstream from a Mud - P22 insertion in an F - plasmid .
+Because an induced Mud - P22 packages primarily adjacent chromosomal DNA , 10 to 50 % of the phage particles should carry the T - POP DNA sequence ( 33 ) .
+The screen was undertaken by undergraduate students , graduate students , and postdoctoral fellows in a number of genetics classes .
+We roughly estimate that a half million transposon insertions were screened for inducible expression of the fliC - lac transcriptional - fusion .
+Arbitrary PCR and sequencing were used to identify individual T - POP insertions ( 33 ) .
+Many of the insertions that showed linkage to markers near fimZ , rcsB , and ydiV by P22 transduction were not considered further .
+Isolation of MudJ insertions .
+Transposon insertions of the MudJ transcriptional reporter were isolated near the PecnR : : T - POP insertion in strain TH9291 , the feoB : : T - POP insertion in strain TH9293 , the PpefI : : T - POP insertion in strain TH8774 , and the rcsD : : T - POP insertion in strain TH8758 .
+Random MudJ insertions were generated ( 22 ) , and between 24,000 and 90,000 colonies were pooled for each strain .
+Phage stocks were prepared on the pooled colonies .
+A wild - type strain ( TH437 ) was transduced with these pools of random insertions , and the cells were spread onto LB - Tet - kanamycin ( Kan ) - EGTA plates to select for transductions that had brought in the T - POP insertion ( by selecting for Tet r ) and nearby MudJ insertions ( by selecting for MudJ - encoded Kan r ) .
+To screen for MudJ lac fusions under the control of the tetA promoter in the T - POP , transductants were patched onto lactose indicator medium ( LB -- X - Gal [ 5 - bromo - 4 - chloro - 3-indolyl - - D - galactopyranoside ] , MacConkey agar - lactose [ Mac - Lac ] , or triphenyl tetrazolium chloride - lactose ) containing either chlortetracycline or no inducer .
+To screen for MudJ insertions that blocked the inhibition of motility , transductants were poked into Tet - Kan - EGTA motility plates .
+The locations of insertions linked to ecnR , pefI - srgD , and rcsB were determined by PCR and sequencing .
+For feoB , transposons were checked for linkage to the feoB : : T - POP insertion regardless of the strains ' motility or their Lac phenotypes .
+The left ends of linked MudJ insertions were identified using arbitrary PCR and sequencing as described previously ( 33 ) , except that primer Mud - R3 ( AGCAATTTTTTACTATCTTTC GCG ) was used for the primary reaction and primer Mud - R4 ( TTTGCACTA CAGGCTTGCAAGCCC ) was used for the secondary reaction and for sequencing .
+The isolation of MudJ transposons in E. coli F - plasmid genes ybiB and ycbB indicated that F - plasmid DNA had transferred into the feoB gene .
+Through PCR and sequencing , the F - plasmid junctions were located .
+The left end ( tetA side ) of the T - POP was inserted 82 bp downstream from the start of ybjA , with PtetA transcribing toward the start codon .
+The right end ( tetR side ) of the T - POP was inserted 73 bp downstream from the start of ybjA , with PtetR transcribing toward the stop codon .
+A junction that fused F - plasmid DNA 3,149 bp after the start of ycbB to F - plasmid DNA 11 bp after the end of ybhB was also sequenced .
+Altogether , 6,016 bp of F - plasmid DNA flanked by T - POPs had transposed into feoB .
+A transposon insertion of the MudJ transcriptional reporter into a fimbrial gene was also isolated .
+Random MudJ insertions were generated in strain TH8757 .
+Strain TH13235 ( PfimZ : : T - POP araBAD : : fimZ ) was transduced with a phage stock prepared on 180,000 pooled colonies .
+Tet - sensitive plates containing Kan were used to select for MudJ insertions that had replaced PfimZ : : T - POP .
+Insertions in fimbrial genes could be distinguished on lactose indicator media by looking for an increase in lac expression when fimZ was induced from the arabinose promoter .
+Arbitrary PCR and sequencing were used to locate the left end of a MudJ insertion in fimH .
+Expression of genes at the ara locus .
+Genes were placed under the control of the arabinose promoter at the ara locus by amplifying the coding sequence and then using red recombination to replace araBAD : : tetRA in TH6706 with the amplified DNA .
+Primers were designed with about 40 bp of homology to the arabinose locus ( for recombination ) and about 20 bp of homology to the cloned 1500 WOZNIAK ET AL. .
+191 , 2009 NOVEL REGULATORS OF FLAGELLAR GENE EXPRESSION 1501 gene ( for amplification ) .
+These constructs replaced the sequence spanning the araB start codon through the araD stop codon with that spanning the start codon through the stop codon of the cloned gene .
+Tet - sensitive plates were used to select for recombinants following red recombination .
+In the case of pefI - srgD , a 250 - bp sequence of DNA starting upstream of pefI and continuing through 14 bp after the stop codon of srgD was used to replace the ribosome - binding site from 13 bp upstream of the araB start codon through the stop codon of araD ( resulting in strain TH12196 ) .
+To delete pefI from this construct , a tetRA cassette was inserted ( generating strain TH14897 ) and then replaced with a clean deletion of pefI ( producing strain TH14945 ) .
+Other P ara : : pefI - srgD variants that began with the pefI start codon or ended 193 bp after srgD were constructed .
+Genes were deleted using the FLP recombination target ( FRT ) - Kan - FRT cassette ( FKF ) or the FRT - chloramphenicol - FRT cassette ( FCF ) as described by Datsenko and Wanner ( 10 ) .
+FKF and FCF insertiondeletion alleles were constructed in strain TH4702 and designed to leave 10 codons at the beginning and end of each gene intact .
+Kan r or chloramphenicolresistant colonies were selected , and the location of each insertion was confirmed by PCR .
+Motility plates were prepared as described previously ( 18 ) .
+Single colonies were poked into the plates using toothpicks , and the plates were incubated for 6 or 24 h. For motility assays requiring the induction of a T - POP or Para construct , colonies were picked from plates that contained Tet or arabinose , respectively .
+At least six independent colonies were checked for each strain assayed .
+Adobe Photoshop was used to adjust the levels for pictures of motility plates in order to increase the contrast between the swarms and the background .
+Ten microliters of an overnight culture ( in LB , LB - Ara , LB - Ara - Tet , or LB - chlortetracycline ) was subcultured into 3 ml of fresh medium ( LB , LB - Ara , LB - Ara - Tet , or LB - chlortetracycline ) .
+Tubes were incubated with shaking at 37 °C until the contents reached a mid - log - phase density of 60 Klett units , which corresponds to an optical density at 600 nm of about 0.6 .
+Cultures were put on ice , spun down , and resuspended in 3 ml of cold buffered saline .
+Culture samples of between 50 l and 0.5 ml were added to 0.55 ml of complete Z - buffer ( Z - buffer plus 5 l of 10 % sodium dodecyl sulfate and 100 l of chloroform ) ( 37 ) and adjusted to give a total aqueous volume of 1.05 ml with buffered saline .
+The assay was continued as described previously ( 37 ) .
+For each strain , assays were performed for three independent biological replicates .
+RESULTS Isolation of T - POP insertion mutations that induce or inhibit flagellar gene transcription .
+Strain TH4881 ( pNK2880 [ pTn10 - tpnase Amp r ats - l ats - 2 ] fliC5050 : : MudJ fljB5001 : : MudCm ) was mutagenized with the T - POP transposon Tn10dTc [ 25 ] , which is a derivative of Tn10 .
+The T - POP contains the tetA and tetR genes needed for resistance to Tet and forms stable insertions because it lacks the transposase gene .
+In the T - POP transposon Tn10dTc [ 25 ] , the transcription terminator region of the tetA transcript is deleted .
+Insertions of this T - POP element into the chromosome result in Tet - inducible transcription from the tetA promoter into adjacent chromosomal DNA ( 44 ) .
+A transcriptional - fusion of the lac operon to the 28 - dependent fliC gene ( fliC5050 : : MudJ ) was present in the recipient strain as a reporter to screen for Tet - dependent changes in flagellar transcription .
+Strains expressing the fliC - lac fusions grew as Lac ( red ) colonies on Mac - Lac indicator medium .
+Following transposition , four classes of T - POP insertion mutants were obtained based on their phenotypes on Mac - Lac and Mac - Lac - Tet media .
+( i ) The majority of T - POP insertion mutants displayed a Lac phenotype on both Mac - Lac and Mac - Lac - Tet plates , indicating that the transposon insertion had no significant effect on fliC - lac transcription .
+( ii ) A small percentage of the T - POP insertion mutants had a Lac ( white ) phenotype on both Mac - Lac and Mac - Lac - Tet plates .
+These mutants carried insertions that themselves resulted in the inhibition of fliC - lac transcription .
+For example , insertions in flagellar genes required for the formation of the hook - basal body ( HBB ) accumulate the anti- 28 factor FlgM , resulting in the inhibition of fliC - lac transcription ( 21 , 29 , 30 ) .
+( iii ) About 0.5 % of the T - POP insertion mutants showed normal fliC - lac transcription on Mac - Lac plates but had a Lac phenotype on Mac - Lac - Tet plates .
+This phenotype indicated that fliC - lac expression was inhibited by the transcription of chromosomal DNA near the T - POP .
+( iv ) About 0.1 % of the insertion mutations resulted in a Lac phenotype on Mac - Lac plates and a Lac phenotype on Mac - Lac - Tet plates .
+In this case , the act of T - POP insertion resulted in the inhibition of the fliC - lac reporter but expression was restored by the transcription of genes adjacent to the site of insertion .
+Mutations in the third and fourth classes , which yielded inducible Lac phenotypes , were analyzed further .
+Characterization of T - POP insertions resulting in Tetinduced Lac phenotypes .
+The fourth class of T - POP insertion mutants that had a Tet - induced Lac phenotype was characterized by DNA sequence analysis .
+In three cases , the T - POP had inserted upstream of the fliAZY operon , upstream of the fliE operon , or 785 bp into the 996 - bp fliG gene .
+These insertion mutations were polar : the flagellar promoters did not transcribe through the T - POP insertion elements .
+The inhibition of transcription of the fliAZY operon , which includes the 28 structural gene ( fliA ) , would prevent all class 3 flagellar gene transcription .
+The inhibition of transcription of fliE or the genes downstream of fliG that are needed for the completion of the HBB would result in the accumulation of FlgM in the cell and the inhibition of 28 - dependent class 3 flagellar gene transcription .
+The fliG gene containing the T - POP insertion is likely still functional in its role in HBB assembly .
+It is known that the first 245 amino - acids of FliG are enough to interact with FliM and FliN in order to build the C - ring rotor complex and full - length flagella , but these flagella do not rotate due to a defective interaction with the stator complex ( 53 ) .
+For the fliA , fliE , and fliG mutants , the addition of Tet would induce the transcription of flagellar structural or regulatory genes from the tetA promoter and restore fliC - lac expression .
+The third class of T - POP insertion mutants exhibited a Tetinducible Lac phenotype .
+The insertions in these mutants potentially inhibited flagellar transcription by inducing the expression of an adjacent gene on the chromosome .
+These T - POP insertions were moved into a wild - type background by P22 - mediated transduction and characterized for the effect of Tet on motility .
+The transductants exhibited either a Tetinduced Mot phenotype or a Mot phenotype with or without Tet .
+As confirmed by DNA sequence analysis or linkage tests and complementation analysis , all of the T - POP mutations that produced a Mot phenotype with or without Tet were inserted in the HBB assembly gene flgA .
+While insertions in genes required for HBB assembly normally accumulate high levels of the anti- 28 factor FlgM inside the cell , insertions in flgA have a polar effect on the downstream flgM gene and do not accumulate as much FlgM ( 30 ) .
+The remaining T - POP insertions generating Tet - inducible Mot phenotypes were located in six other regions of the chromosome that are not associated with the flagellar regulon ( Fig. 1 ) .
+The motility of one representative T - POP insertion mutant for each of these six regions is shown in Fig. 2A .
+For three of these regions , T - POP insertions were isolated upstream of the fimZ , rcsB , and ydiV genes ( Fig. 1A , B , and C ) , which have been identified previously as regu - 1502 WOZNIAK ET AL. .
+A. B. C. D. T - POP MudJ disrupting inhibition MudJ not affecting inhibition 1 kb fimY fimZ fimF fimH fimD rcsD rcsB rcsC btuC btuE btuD nlpC ydiV ydiU blc sugE ecnR efp yjeK yjeJ E. pefC pefD orf5 orf6 pefI srgD srgA F. feoA feoB ' ` feoB STM3508 FIG. 1 .
+T - POP insertions at six different loci inhibited flagellar transcription when induced with Tet .
+Each T - POP insertion is represented by a triangle containing an arrow .
+The arrow indicates the direction in which transcripts initiated from the tetA promoter proceed into the adjacent chromosomal DNA .
+The smaller , solid triangles represent polar MudJ insertions which either disrupt the inhibition of flagellar transcription or have no effect on inhibition by the T - POP insertions .
+As depicted in panel F , the only isolated insertion in feoB consisted of 6 kb of E. coli F - plasmid DNA ( wavy line ) flanked by T - POP insertions .
+Motility of T - POP insertion strains with or without induction by autoclaved chlortetracycline ( A ) or P ara constructs with or without arabinose induction ( B ) .
+For the colonies poked into motility plates containing chlortetracycline or arabinose , the expression of negative regulators had already been induced by growth - on - LB - Tet or LB - Ara plates .
+Pictures were taken after 6 h. Strains are indicated by the affected gene .
+lators of flagellar transcription ( 5 , 7 , 11 , 48 , 57 ) .
+RcsB and FimZ are response regulators with C - terminal DNA - binding domains .
+YdiV shows weak homology to EAL domain proteins , which break down the signaling - molecule c - di - GMP ( 20 ) .
+However , YdiV inhibits motility while other EAL domain proteins like YhjH and STM1827 stimulate motility ( 45 -- 48 ) .
+To confirm that FimZ , RcsB , and YdiV were responsible for inhibiting flagellar transcription , each corresponding gene was cloned after the arabinose promoter at the araBAD locus on the chromosome .
+All three constructs inhibited motility when arabinose was added ( Fig. 2B ) .
+Two T - POPs were isolated upstream of the ecnR gene ( Fig. 1D ) .
+While transcription from the tetA promoter of one of the T - POP insertions proceeded away from ecnR into the upstream gene , an insertion in ecnR disrupted the inhibition of motility in the strain .
+Some transcripts originating from the tetR promoter , which initiates transcription in the opposite direction from the tetA promoter , apparently did not terminate before the end of the transposon .
+A P ara : : ecnR construct inhibited motility when arabinose was added ( Fig. 2B ) .
+Based on a search using the protein domain database Pfam ( 15 ) , most of EcnR is not homologous to any domains of known function .
+The C terminus of EcnR is homologous to helix - turn - helix DNA - binding domains .
+EcnR is thought to be the regulator of the entericidin genes ecnA and ecnB , which are near ecnR .
+The entericidin genes encode small , amphipathic - helical lipoproteins that act as a toxin - antitoxin system .
+Entericidins may induce apoptosis in stationary - phase E. coli cells ( 3 ) .
+Other T - POP insertions were isolated in front of the pefI and srgD genes on the virulence plasmid of Salmonella ( Fig. 1E ) .
+The pefI and srgD genes are a part of the pef locus , whose genes encode a second set of fimbriae ( the plasmid - encoded fimbriae ) .
+Although the fim locus encodes the major type of fimbriae expressed in Salmonella enterica serovar Typhimurium , there are 12 additional fimbrial operons in the genome .
+Some expression of pef fimbriae and other minor fimbriae during growth at low pH or after the infection of intestinal cells can be detected ( 14 , 23 , 39 ) .
+PefI is a DNA - binding protein that affects DNA methylation patterns and inhibits the pefA fimbrial VOL .
+191 , 2009 NOVEL REGULATORS OF FLAGELLAR GENE EXPRESSION 1503 FIG. 3 .
+Motility and class 3 flagellar transcription of strains with deletions of the negative regulators .
+Motility was determined by measuring the diameters in motility plates after 6 h. Each reported diameter is an average for six replicates and is normalized with respect to the diameter for the wild type ( wt ) .
+A representative photo of each strain is shown beneath the bar graph .
+Class 3 transcription from the motA : : MudJ transcriptional reporter was quantified through - galactosidase assays .
+Epistatic analysis of negative regulators of motility .
+A deletion of each regulator was introduced into strains in which one of the five negative regulators could be induced .
+Colonies picked from LB - Ara plates were poked into motility plates containing arabinose using toothpicks .
+Pictures were taken after 6 h. wt , wild type .
+PefI is homologous to the E. coli fimbrial regulatory proteins FaeA and PapI ( 39 ) .
+Through a Pfam search ( 15 ) , SrgD appears to be a single - domain protein that contains a helix - turn - helix motif .
+When pefI , srgD,orpefI - srgD was cloned at the ara locus , no significant inhibition of motility was observed ( data not shown ) .
+In order to further map the genes responsible , insertions of a large , polar transposon ( MudJ ) were isolated near one of the T - POP insertions .
+A MudJ element inside srgD no longer inhibited motility , and a MudJ element located about 200 bp after srgD continued to inhibit motility ( Fig. 1E ) .
+This genetic analysis suggested that DNA between the T - POP upstream of pefI and the MudJ insertion downstream of srgD was important for the efficient expression of PefI - SrgD or for the inhibition of motility .
+When 250 bp of DNA upstream of pefI was included in the P ara : : pefI - srgD construct , inhibition of motility was observed ( Fig. 2B ) .
+This 250 bp of upstream DNA fused only to srgD was not sufficient to inhibit motility ( data not shown ) .
+This finding suggests that both pefI and srgD are needed to inhibit motility .
+Adding the 200 bp of DNA downstream of srgD had no effect on inhibition by the ara constructs ( data not shown ) .
+One T - POP insertion was isolated inside the iron transport gene feoB ( Fig. 1F ) .
+MudJ insertions linked to the T - POP were isolated , and DNA sequence analysis revealed that several MudJ insertions were located near feoB and several were inserted in the E. coli F - plasmid sequence .
+PCR amplification and DNA sequence analysis of this region revealed that a 6 - kb section of F - plasmid DNA flanked by two T - POPs had transposed into feoB .
+This F - plasmid DNA originated from the donor strain and was somehow coinherited along with the T - POP element during transposition .
+The junctions between the T - POP insertions and the F - plasmid DNA on the chromosome were identical to the original insertion of the T - POP in the F - plasmid in the donor strain .
+It is unclear whether the transfer of F - plasmid DNA was a result of a duplication of the T - POP and a chromosomal rearrangement of F - plasmid DNA that occurred before transposition or was due to the T - POP uncharacteristically undergoing a replicative transposition event .
+When this F - plasmid DNA was recombined out , the T - POP did not significantly inhibit motility and only a small , 17 % decrease in class 3 transcription was observed .
+The feoB : : T - POP insertion was not analyzed further .
+Effects on motility of deleting negative regulators .
+Deletions of ecnR , fimZ , pefI - srgD , rcsDBC , and ydiV were examined for their effects on motility and flagellar transcription .
+Deletions of ecnR , rcsDBC , and ydiV significantly increased motility and generated a corresponding increase in class 3 transcription ( Fig. 3 ) .
+Increases in motility for rcsB and ydiV mutants have been observed before ( 48 , 57 ) .
+A deletion of pefI - srgD did not significantly increase motility or class 3 transcription .
+If pefIsrgD is not highly expressed during - growth in LB , this regulator may not have a large effect on motility when deleted .
+In particular , genes in the pef regulon are better expressed in cells grown in acidic media ( 23 , 39 ) .
+When the pefI - srgD deletion strain was inoculated into pH 5.1 motility plates , the deletion strain was not more motile than the wild type ( data not shown ) .
+Therefore , the levels of PefI - SrgD in wild - type cells in motility plates containing a mixture of tryptone , salt , and agar were not enough to inhibit motility .
+Finally , the strain with fimZ deleted showed a small but significant decrease in motility , which was an unexpected result for the deletion of a negative regulator of motility .
+If there is coordination among the different fimbrial systems , perhaps a decrease in fimZ levels would upregulate another fimbrial inhibitor of motility like pefI - srgD .
+Epistatic analysis of the negative regulators .
+To determine whether the regulators are in the same or independent pathways for inhibiting motility , a deletion of each regulator was introduced into strains in which one of the five negative regulators could be induced ( Fig. 4 ) .
+If an overexpressed regulator depends upon a second regulator for inhibition , there should not be any inhibition of motility when that second regulator is deleted .
+The columns in Fig. 4 were arranged in order of increasing motility of the deletion strains , and the rows were 1504 WOZNIAK ET AL. .
+organized in order of increasing flagellar inhibition by each regulator expressed from the arabinose promoter .
+While motility generally increases as one moves up and to the right in Fig. 4 , a number of irregularities in this pattern can be observed .
+First , the deletion of the rcsDBC genes ( Fig. 4 ) or an insertion in rcsB ( data not shown ) completely prevented the inhibition of motility by P ara - ecnR .
+This finding suggests that EcnR acts through RcsB .
+Second , when rcsB was overexpressed in a strain with the rcsDBC genes deleted , a further decrease in motility was seen .
+This effect was more noticeable after a full day 's incubation ( data not shown ) .
+This tighter inhibition has been observed before and is likely a result of RcsC 's no longer being able to remove phosphates to inactivate the response regulator RcsB ( 36 ) .
+Third , the deletion of ydiV relieved the inhibition of motility by all the regulators by more than what would be expected from the 20 % increase in the motility of the ydiV deletion mutant over the wild - type strain .
+This potent effect on motility indicates that YdiV acts by a mechanism that is independent of the mechanism ( s ) of action of the other regulators .
+Overall , with the exception of EcnR , the regulators do not depend upon any of the other four to inhibit motility .
+Effect of regulators on flagellar transcription .
+Transcriptional fusions to the class 1 promoter ( flhC : : MudJ ) , a class 2 promoter ( fliL : : MudJ ) , and a class 3 promoter ( motA : : MudJ ) were utilized to determine which levels of the flagellar transcriptional hierarchy are affected by the negative regulators .
+PefI - SrgD , RcsB , EcnR , and FimZ inhibited all three classes of flagellar promoters ( Fig. 5A ) .
+This result indicates that these four regulators act at the top of the hierarchy at the class 1 promoter .
+In the case of YdiV , only the class 2 and class 3 flagellar promoters were inhibited .
+These data suggest that some step after class 1 transcription is being affected by YdiV .
+Since PefI - SrgD , RcsB , EcnR , and FimZ inhibit class 1 transcription , these regulators may act directly at the class 1 promoter .
+A T - POP insertion located after all known transcription start sites in the class 1 flhDC promoter and upstream of the coding sequence was tested for its ability to bypass the negative regulation ( Fig. 5B ) .
+This T - POP insertion is 163 bp downstream of the first transcription start site in the class 1 promoter ( 48 bp upstream of the start codon ) and expresses the flhDC genes from the tetA promoter ( 24 ) .
+As judged by motility and transcriptional - fusions to flagellar genes , PefI - SrgD and EcnR were no longer able to inhibit flagellar expression .
+As expected , YdiV still inhibited motility , which is consistent with YdiV 's acting at a step after class 1 transcription .
+RcsB and FimZ , however , retained some capacity for negatively regulating motility .
+This partial inhibition by RcsB and FimZ might be an indirect effect through the upregulation of capsule and fimbrial synthesis .
+More of these extracellular structures may comprise a physical barrier to flagellar assembly .
+Therefore , null mutations of a capsular gene and fimbrial genes were used to test the effect of the absence of these extracellular structures on motility .
+The assembly of fimbriae was disrupted using insertions in the genes for the filament subunit ( fimA ) , the outer membrane usher ( fimD ) , and the tip adhesin ( fimH ) ( 40 ) .
+For each of the three insertion strains , the loss of fimbriae increased motility in the P ara - fimZ T - POP - flhDC background to about 74 % of the wild - type level ( data not shown ) .
+While these insertions did not FIG. 5 .
+Flagellar transcription and motility in strains expressing the negative regulators from the arabinose promoter .
+For both panels , the activities of MudJ transcriptional - fusions to the flhC class 1 promoter , the fliL class 2 promoter , and the motA class 3 promoter were quantified through the - galactosidase assay .
+Transcription activities and swimming - area diameters were normalized with respect to the wildtype levels .
+In the strains analyzed in panel A , the flhDC operon was expressed from its wild - type promoter .
+In those analyzed in panel B , the flhDC operon was expressed from a T - POP induced with Tet .
+The key in panel A also applies to panel B. relieve all of the inhibition , the data indicate that fimbrial structures are themselves inhibitory to motility .
+Capsule production was prevented by using a deletion of the promoter and first gene ( wza ) of the capsule synthesis operon .
+This wza deletion did not increase motility ( data not shown ) .
+This result suggests that the capsule itself is not interfering with flagellar synthesis or function and that some other RcsBregulated gene is responsible .
+In another study , however , this wza deletion did restore full motility in a strain exhibiting high RcsB activity and containing a mutated RcsAB box that prevented RcsB binding ( 57 ) .
+The discrepancy between the findings of our studies regarding the effect of the wza deletion on motility may result from different approaches for generating increased RcsB activity .
+In the study by Wang et al. ( 57 ) , an igaA mutation was used to induce RcsB activity , whereas we overexpressed RcsB directly from the arabinose promoter .
+Our different approaches may have induced different gene sets and inhibited motility through different mechanisms .
+Spontaneous mutations that disrupt inhibition by EcnR and PefI - SrgD .
+To further map the pathways by which the novel regulators ( EcnR and PefI - SrgD ) inhibit motility , spontaneous Mot mutants were isolated and characterized .
+Colonies of the T - POP - pefI - srgD strain ( TH8774 ) or the P ara - ecnR strain ( TH9386 ) were poked into motility plates containing tetracy - VOL .
+191 , 2009 NOVEL REGULATORS OF FLAGELLAR GENE EXPRESSION 1505 FIG. 6 .
+Locations of spontaneous mutations in the flhDC promoter region that suppress the inhibition of motility by EcnR and PefI - SrgD overexpression .
+Transcription start sites ( P1 , P2 , P3 , P4 , and P6 ) as determined by Yanagihara et al. ( 61 ) are marked with bent arrows , and 10 hexamers are underlined .
+The sequence that matches the consensus for the RcsAB box is identified by a wavy line ( 17 , 36 ) .
+The start codon of flhD is boxed .
+One double mutation was isolated and is indicated by a line connecting the two changes ( G 211A and G 213A ) .
+The A 198G mutation was found in 6 of the 10 flhDC promoter mutants that suppressed PefI - SrgD inhibition and 20 of the 26 flhDC promoter mutants that suppressed EcnR inhibition .
+cline or arabinose , respectively , to inhibit motility , and the plates were incubated overnight at 30 °C .
+Mot mutants were then picked .
+Only one motile flare from each inoculated colony was chosen to ensure that each mutation originated independently .
+Of 46 spontaneous Mot mutations isolated in the T - POP - pefI - srgD strain , 36 were linked to the T - POP and 10 were linked to flhDC .
+Of 45 spontaneous Mot mutations isolated in the P ara - ecnR strain , 13 were linked to the ara locus , 6 were linked to rcsB , and 26 were linked to flhDC .
+This spontaneous - mutation analysis suggests that no other nonessential genes are involved in these pathways .
+The flhDC promoter was sequenced for mutations linked to flhDC ( Fig. 6 ) .
+Similar flhDC promoter mutations were observed for EcnR and PefI - SrgD : mutations in the first 15 bp of the untranslated region for the P1 transcript and mutations that increased the match to the consensus sequence in the 10 hexamers for 70 .
+Since EcnR and PefI - SrgD probably do not inhibit the flhDC promoter in the same way , these mutations are likely to be suppressors that generally increase flhDC transcription .
+It may be that single mutations do not disrupt EcnR and PefI - SrgD binding sites enough to restore motility .
+Effect of flagellar synthesis on the transcription of negative regulators .
+While we have demonstrated that these five regulators inhibit flagellar transcription , these regulators are part of a regulatory network and might themselves be affected by flagellar proteins .
+To test this , lac fusions to ecnR , ydiV , fimH , rcsB , and srgD were isolated or constructed .
+The T - POP insertion in front of the class 1 flhDC promoter was moved into the resulting lac fusion strains .
+By inducing flagellar transcription using the T - POP , we could determine the effect of flagellar gene expression on the transcription of each of these regulatory genes ( Fig. 7 ) .
+The ecnR gene was turned off in the absence of flagellar gene expression and turned on following flhDC induction .
+This feedback on ecnR transcription probably moderates the level of expression of both ecnR and the flagellar genes .
+A computational search for FlhD 4 C 2 or 28 binding sites revealed a weak match to the FlhD 4 C 2 consensus sequence 80 bp upstream of the ecnR start codon .
+Transcription of the ydiV gene , on the other hand , increased in the absence of flagellar gene expression .
+Since EAL domain proteins like YdiV are involved in the switch between swimming and sticking to surfaces , this competition between ydiV and flagellar genes for transcription may contribute to tighter regulation .
+The lac fusions to fimH , rcsB , and srgD were not affected by the induction of the flagellar regulon .
+DISCUSSION A screen for transposon insertions that inducibly affected flagellar transcription enabled us to identify two new regula - FIG. 7 .
+Effect of the flagellar system on the transcription of the negative regulator genes .
+The fusion of lac to each negative regulator gene was used to quantify changes in transcription .
+The flhDC operon was expressed from its wild - type promoter or from the tetA promoter in the T - POP .
+When under the control of the T - POP , the flhDC operon is not expressed without the inducer chlortetracycline ( chlortet .
+Diagram of interactions for the five negative regulators identified in this study .
+While arrows show interactions between the regulators and the flagellar system , it is not known whether the majority of the interactions are direct or are mediated by regulators other than the five that were studied .
+A binding site in the class 1 promoter has been identified only for RcsB ( 57 ) .
+It is also not clear how RcsB helps EcnR to inhibit class 1 transcription , and this interaction is labeled with a question mark .
+Since part of RcsB 's inhibition of motility occurs after class 1 transcription , EcnR may not inhibit flagellar transcription by directly activating RcsB .
+tors ( EcnR and PefI - SrgD ) in addition to three known regulators ( FimZ , RcsB , and YdiV ) of flagellar synthesis .
+Other T - POP insertions upstream of flagellar genes were isolated .
+Deletions and lac fusions were used to separate the regulators into pathways and map interactions .
+Even though all five regulators inhibited flagellar transcription , these regulatory proteins exhibited little cross talk ( Fig. 8 ) .
+Only EcnR was dependent upon another regulator ( RcsB ) for the inhibition of motility .
+These proteins provide further evidence that other regulatory systems act independently and in parallel to control the flagellar regulon .
+Four of the negative regulators that were analyzed in this study may contribute to a regulatory network for external structures .
+RcsB is an activator of capsule synthesis , FimZ upregulates type 1 fimbriae , PefI controls the synthesis of virulence plasmid - encoded fimbriae , and YdiV has weak homology to EAL domain proteins which are known to decrease c - di - GMP levels , enhance swimming , and decrease cell adhesion to surfaces .
+Since RcsB , FimZ , and PefI - SrgD are associated with specific structures involved in sticking to surfaces , it makes sense that these regulators would inhibit flagellar transcription .
+As a c - di - GMP - related protein , YdiV may coordinate the sticking and swimming strategies more generally .
+YdiV 's role in shutting off flagellar expression may be more important during the infection of host cells , since YdiV has been implicated previously in the level of macrophage killing during pathogenesis ( 20 ) .
+The function of EcnR is less clear .
+Because the ecnR gene is located next to the entericidin genes , EcnR may be involved in their regulation .
+It has been proposed previously that the entericidins in E. coli are produced in stationary - phase to kill some cells in order to feed the rest of the population ( 3 ) .
+If this hypothesis is correct , entericidins and flagella would represent two different strategies for survival .
+Flagella are used to find more nutrients , and entericidins would enable survival without nutrients .
+EcnR may help coordinate these two strategies .
+Moreover , the activation of ecnR transcription by flagellar genes may provide the entericidin system with a readout on the metabolic state of the cell .
+Part of the flagellar inhibition by FimZ was determined to occur at a step after class 1 transcription .
+Mutations in the structural genes for fimbriae removed some of this secondary inhibition of motility by FimZ .
+These data suggest that the fimbrial structure can be inhibitory to flagellar synthesis or function , as has been observed before in E. coli ( 19 , 31 , 48 ) .
+The inhibition of flagellar synthesis may occur through fimbrial proteins acting as a physical barrier to the assembly of the flagellum past the outer membrane .
+An example of this sort of inhibition may exist in Salmonella enterica serovar Typhi , in which the Vi capsular antigen is able to inhibit flagellar secretion ( 1 ) .
+Alternatively , inhibition may occur through the proton motive force ( PMF ) .
+If excess fimbrial production depletes the PMF , the result will be the inhibition of flagellar assembly since flagellar secretion utilizes the PMF ( 41 ) .
+Finally , the inhibition may occur through competition for secretion systems or other resources to build the extracellular structures .
+The presence of fewer functional flagella may provide feedback to reduce flagellar transcription through flagellar regulatory proteins like FlgM and FliT .
+While two new regulators of flagellar transcription were identified in this study , our screen probably did not saturate the genome .
+Insertions in front of the genes for known regulators like AdrA , CAP , ClpXP , CsrA , Fur , H - NS , and RtsB were not isolated .
+Regulators that have a more subtle effect on flagellar transcription might not have been detected on the Mac - Lac indicator medium for the fliC - lac reporter fusion that was used .
+Since we did not saturate our screen for low - level effects , there are likely to be other parts of the flagellar regulatory network that have not been identified .
+Further characterization of these pathways should improve our understanding of the complex regulatory mechanisms involved in adapting to different environments .
+We thank Kelly Winterberg for construction of the ydiV - lac fusion strain and other useful strains .
+We also thank Stanley Maloy and Rasika Harshey for valuable discussions .
+This work was supported by Public Health Service grant GM56141 from the National Institutes of Health ( to K.T.H. ) .
+Arricau , N. , D. Hermant , H. Waxin , C. Ecobichon , P. S. Duffey , and M. Y. Popoff .
+The RcsB - RcsC regulatory system of Salmonella typhi differentially modulates the expression of invasion proteins , flagellin and Vi antigen in response to osmolarity .
+Beloin , C. , and J. M. Ghigo .
+Finding gene - expression patterns in bacterial biofilms .
+Bishop , R. E. , B. K. Leskiw , R. S. Hodges , C. M. Kay , and J. H. Weiner .
+The entericidin locus of Escherichia coli and its implications for programmed bacterial cell death .
+Campoy , S. , M. Jara , N. Busquets , A. M. de Rozas , I. Badiola , and J. Barbé .
+Intracellular cyclic AMP concentration is decreased in Salmonella typhimurium fur mutants .
+Cano , D. A. , G. Domínguez - Bernal , A. Tierrez , F. Garcia - Del Portillo , and J. Casadesús .
+Regulation of capsule synthesis and cell motility in Salmonella enterica by the essential gene igaA .
+Chilcott , G. S. , and K. T. Hughes .
+Coupling of flagellar gene expression to flagellar assembly in Salmonella enterica serovar Typhimurium and Escherichia coli .
+Clegg , S. , and K. T. Hughes .
+FimZ is a molecular link between sticking and swimming in Salmonella enterica serovar Typhimurium .
+Cummings , L. A. , S. L. Barrett , W. D. Wilkerson , I. Fellnerova , and B. T. Cookson .
+FliC - specific CD4 T cell responses are restricted by bacterial regulation of antigen expression .
+Cummings , L. A. , W. D. Wilkerson , T. Bergsbaken , and B. T. Cookson .
+In vivo , fliC expression by Salmonella enterica serovar Typhimurium is heterogeneous , regulated by ClpX , and anatomically restricted .
+191 , 2009 NOVEL REGULATORS OF FLAGELLAR GENE EXPRESSION 1507 10 .
+Datsenko , K. A. , and B. L. Wanner .
+One - step inactivation of chromosomal genes in Escherichia coli K - 12 using PCR products .
+Domínguez - Bernal , G. , M. G. Pucciarelli , F. Ramos - Morales , M. García - Quintanilla , D. A. Cano , J. Casadesús , and F. García - del Portillo .
+Repression of the RcsC - YojN - RcsB phosphorelay by the IgaA protein is a requisite for Salmonella virulence .
+Ellermeier , C. D. , A. Janakiraman , and J. M. Slauch .
+Construction of targeted single copy lac fusions using lambda Red and FLP - mediated sitespecific recombination in bacteria .
+Ellermeier , C. D. , and J. M. Slauch .
+RtsA and RtsB coordinately regulate expression of the invasion and flagellar genes in Salmonella enterica serovar Typhimurium .
+Eriksson , S. , S. Lucchini , A. Thompson , M. Rhen , and J. C. Hinton .
+Unravelling the biology of macrophage infection by gene expression profiling of intracellular Salmonella enterica .
+Finn , R. D. , J. Mistry , B. Schuster - Böckler , S. Griffiths - Jones , V. Hollich , T. Lassmann , S. Moxon , M. Marshall , A. Khanna , R. Durbin , S. R. Eddy , E. L. Sonnhammer , and A. Bateman .
+Pfam : clans , web tools and services .
+Fontaine , F. , E. J. Stewart , A. B. Lindner , and F. Taddei .
+Mutations in two global regulators lower individual mortality in Escherichia coli .
+Francez - Charlot , A. , B. Laugel , A. Van Gemert , N. Dubarry , F. Wiorowski , M. P. Castanié - Cornet , C. Gutierrez , and K. Cam .
+RcsCDB His - Asp phosphorelay system negatively regulates the flhDC operon in Escherichia coli .
+Gillen , K. L. , and K. T. Hughes .
+Molecular characterization of flgM , a gene encoding a negative regulator of flagellin synthesis in Salmonella typhimurium .
+Girgis , H. S. , Y. Liu , W. S. Ryu , and S. Tavazoie .
+A comprehensive genetic characterization of bacterial motility .
+Hisert , K. B. , M. MacCoss , M. U. Shiloh , K. H. Darwin , S. Singh , R. A. Jones , S. Ehrt , Z. Zhang , B. L. Gaffney , S. Gandotra , D. W. Holden , D. Murray , and C. Nathan .
+A glutamate - alanine - leucine ( EAL ) domain protein of Salmonella controls bacterial survival in mice , antioxidant defence and killing of macrophages : role of cyclic diGMP .
+Hughes , K. T. , K. L. Gillen , M. J. Semon , and J. E. Karlinsey .
+Sensing structural intermediates in bacterial flagellar assembly by export of a negative regulator .
+Hughes , K. T. , and J. R. Roth .
+Transitory cis complementation : a method for providing transposition functions to defective transposons .
+Humphries , A. D. , M. Raffatellu , S. Winter , E. H. Weening , R. A. Kingsley , R. Droleskey , S. Zhang , J. Figueiredo , S. Khare , J. Nunes , L. G. Adams , R. M. Tsolis , and A. J. Bäumler .
+The use of flow cytometry to detect expression of subunits encoded by 11 Salmonella enterica serotype Typhimurium fimbrial operons .
+Karlinsey , J. E. , S. Tanaka , V. Bettenworth , S. Yamaguchi , W. Boos , S. I. Aizawa , and K. T. Hughes .
+Completion of the hook - basal body complex of the Salmonella typhimurium flagellum is coupled to FlgM secretion and fliC transcription .
+Kelly , A. , M. D. Goldberg , R. K. Carroll , V. Danino , J. C. Hinton , and C. J. Dorman .
+A global role for Fis in the transcriptional control of metabolism and type III secretion in Salmonella enterica serovar Typhimurium .
+Ko , M. , and C. Park .
+Two novel flagellar components and H - NS are involved in the motor function of Escherichia coli .
+Komeda , Y. , H. Suzuki , J. I. Ishidsu , and T. Iino .
+The role of cAMP in flagellation of Salmonella typhimurium .
+Autogenous and global control of the flagellar master operon , flhD , inSalmonella typhimurium .
+Excretion of the anti - sigma factor through a flagellar substructure couples flagellar gene expression with flagellar assembly in Salmonella typhimurium .
+Kutsukake , K. , Y. Ohya , and T. Iino .
+Transcriptional analysis of the flagellar regulon of Salmonella typhimurium .
+Lane , M. C. , A. N. Simms , and H. L. Mobley .
+Complex interplay between type 1 fimbrial expression and flagellum - mediated motility of uropathogenic Escherichia coli .
+Lawhon , S. D. , J. G. Frye , M. Suyemoto , S. Porwollik , M. McClelland , and C. Altier .
+Global regulation by CsrA in Salmonella typhimurium .
+Lee , C. , C. Wozniak , J. E. Karlinsey , and K. T. Hughes .
+Genomic screening for regulatory genes using the T - POP transposon .
+Liu , X. , and P. Matsumura .
+The FlhD/FlhC complex , a transcriptional activator of the Escherichia coli flagellar class II operons .
+Flagella and motility , p. 123 -- 145 .
+In F. C. Neidhardt , R. Curtiss III , J. L. Ingraham , E. C. C. Lin , K. B. Low , B. Magasanik , W. S. Reznikoff , M. Riley , M. Schaechter , and H. E. Umbarger ( ed .
+) , Escherichia coli and Salmonella : cellular and molecular biology , 2nd ed .
+ASM Press , Washington , DC .
+Majdalani , N. , and S. Gottesman .
+The Rcs phosphorelay : a complex signal transduction system .
+Experimental techniques in bacterial genetics .
+Jones and Bartlett , Boston , MA .
+Maloy , S. R. , and W. D. Nunn .
+Selection for loss of tetracycline resistance by Escherichia coli .
+Nicholson , B. , and D. Low .
+DNA methylation - dependent regulation of Pef expression in Salmonella typhimurium .
+Nuccio , S. P. , and A. J. Bäumler .
+Evolution of the chaperone/usher assembly pathway : fimbrial classification goes Greek .
+Paul , K. , M. Erhardt , T. Hirano , D. F. Blair , and K. T. Hughes .
+Energy source of flagellar type III secretion .
+Prigent - Combaret , C. , O. Vidal , C. Dorel , and P. Lejeune .
+Abiotic surface sensing and biofilm - dependent regulation of gene expression in Escherichia coli .
+Quadling , C. , and B. A. D. Stocker .
+An environmentally - induced transition from the flagellated to the non - flagellated state in Salmonella typhimurium : the fate of parental flagella at cell division .
+Rappleye , C. A. , and J. R. Roth .
+A Tn10 derivative ( T - POP ) for isolation of insertions with conditional ( tetracycline - dependent ) phenotypes .
+Rychlik , I. , G. Martin , U. Methner , M. Lovell , L. Cardova , A. Sebkova , M. Sevcik , J. Damborsky , and P. A. Barrow .
+Identification of Salmonella enterica serovar Typhimurium genes associated with growth suppression in stationary - phase nutrient broth cultures and in the chicken intestine .
+Ryjenkov , D. A. , R. Simm , U. Romling , and M. Gomelsky .
+The PilZ domain is a receptor for the second messenger c - di - GMP : the PilZ domain protein YcgR controls motility in enterobacteria .
+Simm , R. , M. Morr , A. Kader , M. Nimtz , and U. Romling .
+GGDEF and EAL domains inversely regulate cyclic - di - GMP levels and transition from sessility to motility .
+Simms , A. N. , and H. L. Mobley .
+Multiple genes repress motility in uropathogenic Escherichia coli constitutively expressing type 1 fimbriae .
+Soutourina , O. , A. Kolb , E. Krin , C. Laurent - Winter , S. Rimsky , A. Danchin , and P. Bertin .
+Multiple control of flagellum biosynthesis in Escherichia coli : role of H - NS protein and the cyclic AMP - catabolite activator protein complex in transcription of the flhDC master operon .
+Spory , A. , A. Bosserhoff , C. von Rhein , W. Goebel , and A. Ludwig .
+Differential regulation of multiple proteins of Escherichia coli and Salmonella enterica serovar Typhimurium by the transcriptional regulator SlyA .
+Stojiljkovic , I. , A. J. Bäumler , and K. Hantke .
+Fur regulon in Gramnegative bacteria : identification and characterization of new iron - regulated Escherichia coli genes by a Fur titration assay .
+Takaya , A. , M. Matsui , T. Tomoyasu , M. Kaya , and T. Yamamoto .
+The DnaK chaperone machinery converts the native FlhD 2 C 2 hetero - tetramer into a functional transcriptional regulator of flagellar regulon expression in Salmonella .
+Tang , H. , T. F. Braun , and D. F. Blair .
+Motility protein complexes in the bacterial flagellar motor .
+Tomoyasu , T. , T. Ohkishi , Y. Ukyo , A. Tokumitsu , A. Takaya , M. Suzuki , K. Sekiya , H. Matsui , K. Kutsukake , and T. Yamamoto .
+The ClpXP ATP - dependent protease regulates flagellum synthesis in Salmonella enterica serovar Typhimurium .
+Tomoyasu , T. , A. Takaya , E. Isogai , and T. Yamamoto .
+Turnover of FlhD and FlhC , master regulator proteins for Salmonella flagellum biogenesis , by the ATP - dependent ClpXP protease .
+Wang , Q. , A. Suzuki , S. Mariconda , S. Porwollik , and R. M. Harshey .
+Sensing wetness : a new role for the bacterial flagellum .
+Wang , Q. , Y. Zhao , M. McClelland , and R. M. Harshey .
+The RcsCDB signaling system and swarming motility in Salmonella enterica serovar Typhimurium : dual regulation of flagellar and SPI - 2 virulence genes .
+Wang , S. , R. T. Fleming , E. M. Westbrook , P. Matsumura , and D. B. McKay .
+Structure of the Escherichia coli FlhDC complex , a prokaryotic heteromeric regulator of transcription .
+Wei , B. L. , A. M. Brun - Zinkernagel , J. W. Simecka , B. M. Prüß , P. Babitzke , and T. Romeo .
+Positive regulation of motility and flhDC expression by the RNA - binding protein CsrA of Escherichia coli .
+Wozniak , C. E. , and K. T. Hughes .
+Genetic dissection of the consensus sequence for the class 2 and class 3 flagellar promoters .
+Yanagihara , S. , S. Iyoda , K. Ohnishi , T. Iino , and K. Kutsukake .
+Structure and transcriptional control of the flagellar master operon of Salmonella typhimurium .
+Yokota , T. , and J. S. Gots .
+Requirement of adenosine 3 , 5 - cyclic phosphate for flagella formation in Escherichia coli and Salmonella typhimurium .
+Zhao , K. , M. Liu , and R. R. Burgess .
+Adaptation in bacterial flagellar and motility systems : from regulon members to ` foraging ' - like behavior in E. coli .

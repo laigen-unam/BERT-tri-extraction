@@ -1,0 +1,322 @@
+JOURNAL OF BACTERIOLOGY , Oct. 2007 , p. 7335 -- 7342 Vol .
+189 , No. 20 0021 - 9193/07 / $ 08.00 0 doi : 10.1128 / JB.00801 - 07 Induction of RpoS Degradation by the Two - Component System Regulator RstA in Salmonella enterica María L. Cabeza , Andrés Aguirre , Fernando C. Soncini , and Eleonora García Véscovi * Departamento de Microbiología , Facultad de Ciencias Bioquímicas y Farmacéuticas , Universidad Nacional de Rosario , Instituto de Biología Molecular y Celular de Rosario , Consejo Nacional de Investigaciones Científicas y Técnicas , S2002LRK Rosario , Argentina Bacterial survival in diverse and changing environments relies on the accurate interplay between different regulatory pathways , which determine the design of an adequate adaptive response .
+The proper outcome depends on a precise gene expression profile generated from the finely tuned and concerted action of transcriptional factors of distinct regulatory hierarchies .
+Salmonella enterica serovar Typhimurium harbors multiple regulatory systems that are crucial for the bacterium to cope with harsh extra - and intracellular environments .
+In this work , we found that the expression of Salmonella RstA , a response regulator from the two - component system family , was able to downregulate the expression of three RpoS - controlled genes ( narZ , spvA , and bapA ) .
+Furthermore , this downregulation was achieved by a reduction in RpoS cellular levels .
+The alternative sigma factor RpoS is critical for bacterial endurance under the most - stressful conditions , including stationary - phase entrance and host adaptation .
+Accordingly , RpoS cellular levels are tightly controlled by complex transcriptional , translational , and posttranslational mechanisms .
+The analysis of each regulatory step revealed that in Salmonella , RstA expression was able to promote RpoS degradation independently of the MviA - ClpXP proteolytic pathway .
+Additionally , we show that RstA is involved in modulating Salmonella biofilm formation .
+The fact that the RpoS - modulated genes affected by RstA expression have previously been demonstrated to contribute to Salmonella pathogenic traits , which include biofilm - forming capacity , suggests that under yet unknown conditions , RstA may function as a control point of RpoS - dependent pathways that govern Salmonella virulence .
+RstA is a member of the OmpR subfamily of two - component system ( TCS ) response regulators ( RRs ) , characterized by the display of a winged - helix - turn - helix motif in the DNAbinding domain .
+Several lines of evidence demonstrated that in Escherichia coli , the encoding gene , rstA , belongs to the PhoP / PhoQ regulon ( 39 ) showing downregulation of rstAB ( which codes for the putative RstA/RstB TCS putative pair ) in a phoPQ mutant strain and direct PhoP control over rstA expression by a footprinting assay ( 34 ) .
+Yamamoto et al. showed that RstB , the putative RstA - associated histidine kinase , was able to transfer in - vitro its phosphoryl group to RstA ( 53 ) , suggesting that in E. coli , RstB and RstA constitute an orthodox TCS regulatory pair .
+Phenotypic screenings , either systematically deleting the genes that code for TCS or overexpressing all RRs , indicated that E. coli rstAB was involved in bacterial resistance to ketoprofen , pridinol , and troleandomycin ( 54 ) and that RstA overexpression conferred low - level - lactam resistance ( 20 ) .
+More recently , it was shown that in E. coli , the transient expression of RpoE ( sigma E ) in stationary - phase downregulated rstA and rstB transcription ( 22 ) and that multiple copies of rstA suppressed the lethal phenotype of a deletion in yjeE , encoding an ATPase with undetermined function ( 6 ) .
+While this report was in preparation , Ogasawara et al. ( 39 ) y Farmacéuticas ( UNR ) , Departamento de Microbiología , Instituto de Biología Molecular y Celular de Rosario ( IBR - CONICET ) , Suipacha 531 , ( S2002LRK ) Rosario , Argentina .
+Published ahead of print on 17 August 2007 .
+reported that E. coli RstA upregulated the expression of asr ( acid shock RNA ) but that RstA overexpression repressed csgD ( a regulator of curli fimbriae ) .
+On the other hand , in Salmonella enterica serovar Typhimurium , the regulation of rstA by PhoP was shown by bioinformatics analysis ( 55 , 56 ) .
+Intriguingly , in this bacterium , rstA and rstB are separated by 3,585 bp in the chromosome , in contrast to the adjacent localization displayed in E. coli .
+Apart from this knowledge , both the identity of the members of the Salmonella RstA regulon and the physiological relevance of its function remain unclear .
+In this work , we searched for RstA gene targets with the aim of understanding the role of the RstA regulon in S. enterica serovar Typhimurium physiology .
+This screening led us to uncover that RstA was able to downregulate RpoS - dependent genes and that this modulation was achieved by decreasing the intracellular levels of the alternative sigma factor .
+RpoS ( also known as sigma S or sigma 38 ) plays a central role in bacterial adaptation to starvation and countering a variety of stressful conditions , including low pH , heat or cold - shock , oxidative damage , hyper - or hypo - osmolarity , and DNA damage ( 19 ) .
+It has also been demonstrated that RpoS plays an essential role in S. enterica serovar Typhimurium pathogenesis : the rpoS mutant displays a decreased ability to colonize murine Peyer 's patches and a severe defect in the systemic phase of the infection ( 11 , 17 , 37 ) .
+The fine - tuning of the cellular concentration of this sigma factor underlies an intricate regulatory network fed by multiple inputs , involving transcriptional , translational , and posttranslational controls ( comprehensively reviewed in reference 19 ) .
+Among the posttranslational processes , RpoS degradation , which maintains the sigma factor at low levels in 7335 7336 CABEZA ET AL. .
+The results presented here demonstrate that RstA is able to promote RpoS degradation in Salmonella , downregulating the expression of RpoS - modulated genes and altering biofilm formation .
+The data shown in this work also underscore the existence of an RpoS degradation process that is independent of the MviA - ClpXP proteolytic machinery .
+MATERIALS AND METHODS Bacterial strains and growth - conditions .
+The bacterial strains and plasmids used in this study are listed in Table 1 .
+Bacteria were grown at 37 °C in Miller 's Luria broth ( LB ) ( 10 g/liter NaCl , 5 g/liter yeast extract , and 10 g/liter tryptone ) .
+Ampicillin was used at 100 g ml 1 , kanamycin at 50 g ml 1 , chloramphenicol at 10 g ml 1 , and spectinomycin at 100 g ml 1 .
+IPTG ( isopropyl - - D - thiogalactopyranoside ) was used at 0.5 mM , when indicated .
+Bacterial genetic and molecular biology techniques .
+Phage P22 - mediated transductions were performed as described previously ( 15 ) .
+Plasmid DNA was introduced into bacterial strains by electroporation using a Bio - Rad apparatus according to the manufacturer 's recommendations .
+The deletion of various genes and the concomitant insertion of an antibiotic resistance cassette were carried out using Lambda Red - mediated recombination ( 14 , 16 ) in strain LB5010 ( 4 ) .
+The mutations resulting from this procedure were transferred to the wild - type ATCC 14028s background by P22 transduction .
+To introduce the lacZ reporter gene , antibiotic resistance cassettes were removed using the temperature - sensitive plasmid pCP20 carrying the FLP recombinase ( 10 ) .
+pCE36 was used to introduce the transcriptional lacZ fusion as previously described ( 16 ) .
+The oligonucleotides used to perform these procedures were purchased from Bio - Synthesis , Inc. ( Lewisville , TX ) .
+Their sequences are listed in Table 2 .
+- Galactosidase assays were carried out as described previously ( 33 ) .
+Overnight , aerated cultures grown in LB were cultured ( 1 : 100 ) in fresh LB - medium .
+When cultures reached late exponential phase ( 4.5 h ) , IPTG was added to a final concentration of 0.5 mM in order to induce RstA expression .
+Cultures were incubated at 37 °C for thirty additional minutes .
+Then , spectinomycin was added to a final concentration of 1.0 mg/ml .
+The 0 - min sample was taken immediately before the addition of spectinomycin .
+Subsequent samples were taken at the indicated time points ( see Fig. 4 ) .
+One - milliliter aliquots were resuspended in sodium dodecyl sulfate - polyacrylamide gel electrophoresis ( SDS - PAGE ) loading buffer in a volume in milliliters equal to 0.1 optical density unit at 600 nm ( OD 600 ) and subjected to SDS - PAGE and Western blot analysis .
+Except for the stability assay samples , 1.0 - ml samples were prepared by pelleting whole - cells and immediately resuspending them in SDS loading buffer in a volume with an OD 600 of 10 .
+After resuspension in loading buffer , all samples from the stability assays and other experiments were treated in the same fashion .
+Equal volumes ( 5.0 l for clp and mviA samples withdrawn from stationary - phase and 20 l for the rest of the assays ) were loaded onto 12 % polyacrylamide denaturing gels .
+After electrophoresis , proteins were transferred onto nitrocellulose membranes and probed with a 1:1,000 dilution of anti - RpoS monoclonal antibody ( Neoclone ) .
+Goat anti - mouse immunoglobulin G -- horseradish peroxidase conjugate ( Amersham Pharmacia Biotech ) was used at a 1:2,500 dilution as a secondary antibody .
+The bands were detected with the VOL .
+189 , 2007 RstA INDUCES RpoS DEGRADATION IN SALMONELLA 7337 Primer a TABLE 2 .
+Oligonucleotide primers used in this study Sequence ( 5 33 ) AGCTGCTTCG CCTCCTTA a F , forward primer ; R , reverse primer .
+ECL antibody detection kit ( GE Healthcare ) .
+In the experiments performed with the clp mutant strains , the exposure time was adjusted to avoid signal saturation .
+Immunoblotting results were scanned densitometrically to produce quantitative determinations .
+The immunoblots shown in the figures are representative results from at least three independent assays .
+In order to test different strains for their ability to produce a biofilm , 2.0 l of an overnight culture was used to inoculate 2.0 ml of LB , in borosilicate tubes .
+The cultures were incubated at room temperature in static conditions for 6 days , as described previously ( 27 ) .
+The cultures were removed , and the tubes were rinsed with phosphate - buffered saline three times .
+After drying the tubes at room temperature , 3.0 ml of crystal violet ( 1 % ) was added for 20 min .
+The stained biofilms were rinsed several times with distilled water and visualized as a colored ring in the air - broth interface .
+In order to quantify the biofilm formation , adhered crystal violet was solubilized by the addition of 3.0 ml of 95 % ethanol and then 3.0 ml of 30 % acetic acid .
+The OD 575 was measured .
+RESULTS Search for RstA - regulated genes .
+With the aim of analyzing the Salmonella RstA regulon , we constructed lacZ reporter fusions to yfiA , cspC , and entE .
+These genes were among the RstAactivated genes found previously by microarray analysis in E. coli ( 39 ) .
+Surprisingly , we found that the expression of the aforementioned genes was not altered either by expressing RstA from a medium - copy - number , IPTG - inducible plasmid ( pRstA ) or in an rstA deletion mutant ( rstA ) , compared with the wild - type strain ( data not shown ) .
+This result suggested that the Salmonella RstA regulon would not entirely overlap with its counterpart in E. coli .
+Because the RstA - inducing signal was undetermined , we decided to search for Salmonella RstA - regulated genes by screening a random insertional MudJ library in a rstA strain harboring pRstA .
+The screening was carried out in LB -- X - Gal ( 5 - bromo - 4 - chloro - 3-indolyl - - D - galactopyranoside ) replica plates , with or without the addition of IPTG , as described previously ( 44 ) .
+Among the 10,000 mutants screened , we found three MudJ insertions in which lacZ expression was downregulated by RstA .
+A DNA sequence analysis of the regions adjacent to the insertions and a subsequent search of the Salmonella genome database ( 32 ) showed that they were located in narZ , spvA , and STM2689 .
+narZ is the first gene of the Salmonella narZYWV operon .
+Spector et al. showed that in S. enterica , narZ was required for carbon - starvation - inducible thermotolerance and that it was induced inside epithelial cells , while a narZ deletion raised approximately 10 - fold the 50 % lethal dose of the wild - type strain in a mouse virulence assay ( 45 ) .
+spvA is the first gene of the spvABCD operon located in the Salmonella virulence plasmid .
+This operon is essential for Salmonella to establish a successful systemic infection , and this phenotype has been ascribed mainly to spvB expression ( 7 , 9 , 18 , 25 ) .
+STM2689 has recently been renamed bapA and codes for a large proline - threonine - rich protein involved in biofilm formation and invasion ( 27 ) .
+It should be mentioned that we found narZ , spvA , and bapA transcriptional levels to be repressed in a strain expressing RstA from pRtsA , while they were unaltered in a rstA mutant , compared to a wild - type background under the growth - conditions tested ( Fig. 1 ) .
+These results remained unchanged when tested in an rstB deletion mutant background ( data not shown ) .
+These last findings suggest that RstA overexpression could functionally mimic the effect generated by the switch of the regulator to an activated state , as it occurs with other two - component RRs , such as PhoP , UphB , and OmpR ( 13 , 26 , 29 ) .
+The RpoS - dependent genes narZ , spvA , and bapA are downregulated by the expression of RstA .
+- Galactosidase activities from lacZ - transcriptional - fusions to narZ , spvA , and bapA were measured in the wild type ( W - t ) , the rstA strain , the rstA strains harboring pUHE21 - 2 lacI q ( vector ) and pUHE21 - 2 lacI q : : rstA ( pRstA ) , and the otherwise isogenic rpoS background .
+Cells were grown overnight in LB , with the addition of 0.5 mM IPTG when plasmids were present , as indicated .
+The data shown are averages from at least three independent assays performed in duplicate .
+Error bars , standard deviations .
+( A ) Expression of RstA specifically downregulates RpoS levels .
+Cells were grown to late stationary - phase ( 18 h ) in LB alone or in LB plus 0.5 mM IPTG when plasmids were present .
+Equivalent aliquots of each culture ( standardized by OD 600 ) were analyzed by using immunoblots developed with monoclonal anti - RpoS antibodies ( upper panel ) or polyclonal anti - PhoQ antibodies ( lower panel ) .
+( B ) RstA and RpoS expression levels are transcriptionally independent .
+- Galactosidase activities from rstA - lacZ or rpoS - lacZ transcriptional fusions , in the indicated genetic backgrounds , were measured as described in Materials and Methods .
+Cells were grown overnight in LB , with the addition of 0.5 mM IPTG when plasmids were present , as indicated .
+The data shown are averages from three independent assays performed in duplicate .
+Error bars , standard deviations .
+RstA modulates RpoS - dependent genes .
+Previous work demonstrated that the expression of both narZ and the spv operon was activated by RpoS ( 9 , 24 , 45 ) .
+Using a rpoS isogenic strain , we corroborated that in stationary - phase both narZ expression and spvA expression were dependent on the intactness of rpoS ( Fig. 1 ) .
+Moreover , we verified that bapA expression was also under RpoS control ( Fig. 1 ) .
+In light of these results , we investigated whether RpoS and RstA regulatory pathways were interconnected .
+To assess whether RstA expression was altering the cellular RpoS content , RpoS steady - state levels were measured by immunoblot analysis using stationary - phase bacterial cultures ( the growth - condition in which RstA - dependent downregulation of the reporter genes was detected ) .
+As shown in Fig. 2A , upon RstA expression , cellular RpoS levels were greatly diminished with respect to the levels found in the wild type or the rstA strains ( i.e. , a 40 % reduction as determined by densitometric analysis ) .
+A quantitatively equivalent expression of a related RR of the two - component family ( PhoP ) or of the unrelated transcriptional MerR - type metalloregulator GolS ( 8 ) did not significantly modify RpoS levels ( Fig. 2A , upper panel ) .
+In parallel , an internal control experiment was carried out by developing the Western blot with polyclonal anti - PhoQ antibodies ( Fig. 2A , lower panel ) .
+These results suggest that the observed downregulation of RpoS - dependent genes was due specifically to an RstA - induced decrease of the cellular levels of the sigma factor .
+Therefore , we determined at which stage of RpoS expression ( transcriptional , translational , or protein stability ) the RstA - mediated effect was taking place .
+First , we generated a chromosomal rpoS - lacZ transcriptional fusion .
+Figure 2B shows that rpoS transcriptional levels remained essentially unaltered either in a rstA strain or in an RstA - expressing strain .
+We also performed the counterpart experiment by assaying an rstA - lacZ transcriptional reporter in either a wild - type or rpoS strain to rule out that rstA transcriptional levels could be influenced by RpoS ( Fig. 2B ) .
+Next , to investigate whether RstA was acting on rpoS translation , we used an rpoS - lacZ translational reporter ( 9 ) in which the lacZ fusion occurs at codon 177 of rpoS , truncating the essential target motif for RpoS degradation .
+This reporter was previously demonstrated to be a useful tool reflecting the sum of transcriptional and translational controls ( 46 , 50 ) .
+Because of the lack of a selectable marker to perform the transduction of this construction to the ATCC 14028s strain , we carried out this set of determinations in the Salmonella enterica strain UK1 original background ( 1 , 12 ) .
+As shown in Fig. 3A , RstA - induced expression was not able to modify rpoS translational levels , simultaneously corroborating that rpoS transcription was unaffected as well .
+Control experiments were performed to test the rpoS177 - lacZ fusion in clpP or mviA isogenic backgrounds to verify the inability of the MviA - ClpXP machinery to accomplish the degradation of the corresponding reporter fusion protein , or in a strain harboring a null mutation in hfq , which codes for an RNA chaperone that positively regulates RpoS translation ( 30 ) ( see Fig. 3A ) .
+RstA promotes RpoS degradation in an MviA - ClpXP - independent manner .
+While active proteolysis maintains RpoS at low levels in exponentially growing cells , RpoS stability increases at the entry into stationary - phase and when starvation challenges the bacterial cell ( 19 , 31 ) .
+Two factors are described to be essential for RpoS turnover : the ClpXP protease complex and MviA ( known as RssB in E. coli ) .
+MviA associates with RpoS and delivers the sigma factor to the ClpXP degradation complex ( 35 , 36 , 41 , 42 ) ( compare also cellular RpoS levels in wild - type and clpP or mviA backgrounds [ Fig. 3B ] ) .
+In order to assess whether RstA was triggering this pathway , we compared the effects of RstA expression on RpoS levels in strains carrying a deletion mutation in either clpP or mviA .
+As shown in Fig. 3B , RstA expression was able to lower cellular RpoS levels in both mutant backgrounds ( an average 50 % reduction of RpoS levels , as determined by the densitometric analysis of three independent experiments ) .
+An equivalent effect was observed when samples taken from either exponential or late stationary phase were analyzed ( Fig. 3B , compare the lower and upper panels ) .
+This result clearly indicates that the action of RstA over RpoS was independent of the ClpXP - MviA degradation pathway .
+In a parallel experiment , we determined narZ transcriptional activity in the otherwise wild - type rstA strain compared to that of the clpP or mviA isogenic strains when RstA was expressed .
+We observed that , consistent with the previous result , RstA expression downregulated this RpoS - dependent gene independent of the integrity of the ClpXP/MviA machinery ( Fig. 3C ) .
+Finally , we tested whether the observed downregulation of RpoS was due to RstA - promoted induction of the degradation of the sigma factor .
+With this aim , de novo protein synthesis VOL .
+189 , 2007 RstA INDUCES RpoS DEGRADATION IN SALMONELLA 7339 FIG. 3 .
+RstA expression downregulates RpoS at a posttranslational level , independently of the MviA - ClpXP degradation pathway .
+( A ) - Galactosidase activities were determined from an rpoS177 - lacZ translational fusion in the Salmonella UK1 wild type ( W - t ) and the clpP , mviA and hfq strains harboring the vector or the derived pRstA plasmids , as indicated .
+( B ) The rstA narZ - lacZ strain and the otherwise isogenic clpP and mviA strains were grown to exponential phase ( EP ) or to late stationary - phase ( SP ; 18 h ) in LB or LB plus 0.5 mM IPTG when the cells harbored pUHE21 - 2 lacI q ( vector ) or pUHE21 - 2 lacI q : : rstA ( pRstA ) , as indicated .
+Equivalent aliquots ( 20 l for EP and 5.0 l for SP ) of each culture ( standardized by OD 600 ) were analyzed by using immunoblots developed with monoclonal anti - RpoS antibodies .
+( C ) - Galactosidase activities from the rstA narZ - lacZ strain and from the otherwise isogenic clpP and mviA strains were measured as described in Materials and Methods .
+Cells were grown overnight in LB , with the addition of 0.5 mM IPTG when plasmids were present , as indicated .
+The data shown are averages from three independent assays performed in duplicate .
+Error bars , standard deviations .
+RstA stimulates RpoS degradation through a ClpXP - independent pathway .
+( A ) rstA clpP strains harboring pUHE21 - 2 lacI q ( vector ) or pUHE21 - 2 lacI q : : rstA ( pRstA ) were grown in LB to late exponential phase ( OD 600 of 1.3 ) .
+IPTG ( 0.5 mM ) was added to the culture medium , and cells were grown for an additional 30 min to allow for RstA expression .
+Translation was stopped by the addition of spectinomycin ( 1.0 mg/ml ) .
+Equivalent aliquots were withdrawn at 0 , 3 , 6 , and 9 min after the spectinomycin addition and analyzed by using immunoblots developed with polyclonal anti - RpoS antibodies , as described in Materials and Methods .
+( B ) Densitometric quantifications at various time points of each band shown in panel A are shown .
+The density for samples at time zero was set to 100 % for each experiment .
+( C ) Equivalent aliquots of overnight cultures ( standardized by OD 600 ) of the wild type ( W - t ) and the clpP , hslV , lon , and hflB strains harboring the vector ( - ) or pRstA ( ) , grown to late stationary - phase ( 18 h ) in LB plus 0.5 mM IPTG , were analyzed by SDS - PAGE , followed by using immunoblots developed with monoclonal anti - RpoS antibodies .
+clpP strain samples were diluted ( 1/4 ) with respect to the rest in order to avoid signal saturation .
+The results shown are representative of four identical independent assays .
+was halted by the addition of spectinomycin to the bacterial cultures , and RpoS decay in the clp mutant strain harboring either the empty vector or pRstA was followed over time by immunodetection ( see Materials and Methods for details ) .
+As shown in Fig. 4A and B , once translation was stopped , the degradation of preexisting RpoS was estimated to be three times faster in the RstA - expressing strain .
+This last result demonstrates that in Salmonella , RstA is able to upregulate RpoS degradation through a pathway distinct from the MviA - ClpXPdependent one .
+We then examined whether other major cellular proteases present in Salmonella could be involved .
+With this purpose , we generated lon , hslV , and hflB deletion mutant strains ( 5 ) .
+As shown in Fig. 4C , none of these deletions affected RstA - induced degradation of RpoS .
+In a parallel experiment , we corroborated that the transcriptional activity of narZ was not affected in any of these protease deletion backgrounds ( data not shown ) .
+RstA expression inhibits biofilm formation .
+The production of thin aggregative fimbriae , together with cellulose , capsule , extracellular polysaccharides , and BapA , has been demonstrated to form a matrix that contributes to Salmonella biofilm development ( 27 , 52 ) .
+We showed that RstA downregulates 7340 CABEZA ET AL. .
+Static biofilm formation is modulated by rstA .
+Cultures were grown in LB - medium , in borosilicate tubes , for 6 days at room temperature with no agitation .
+The biofilm that adhered to the glass surface was stained with crystal violet , and the tubes were photographed ( lower panel ) or the bound stain was quantified by solubilizing crystal violet and measuring the OD 570 ( upper panel ) , as described in Materials and Methods .
+The data shown are the averages of four identical independent assays .
+Error bars , standard deviations .
+Moreover , it was previously demonstrated that RpoS induces the expression of AgfD ( known also as CsgD ) , a LuxR - type regulator that controls the expression of all the aforementioned factors ( 27 , 52 ) .
+Therefore , we examined whether RstA expression affected biofilm formation .
+As shown in Fig. 5 , expression of RstA diminishes the biofilm formation visualized by crystal violet staining of the ring that remained firmly adhered to the culture tubes ( upper panel ) or by quantification of the solubilized stain ( lower panel ) .
+Accordingly , a moderate but consistent increase in the adhered biofilm was detected in the rstA strain compared to the wildtype strain .
+As expected , no detectable biofilm formation was observed in the rpoS strain .
+These results suggest the possibility that rstA is involved in a regulatory pathway that controls the Salmonella biofilm differentiation process .
+DISCUSSION With the aim of deciphering the role of the RstA regulon in Salmonella , we undertook a genetic screening in search of RstA - regulated genes .
+In this approach , we assumed that the induced expression of the RR from a medium - copy - number plasmid circumvented the need for activation by the associated sensor protein -- as we demonstrated to be the case for the homologous PhoP transcriptional regulator ( 29 ) -- or by other possible phosphodonors , such as acetyl phosphate ( 23 , 49 ) .
+The first round of screening pinpointed three genes as targets of RstA downregulation : narZ , spvA , and bapA .
+Remarkably , these genes were demonstrated to be transcriptionally controlled by RpoS ( 24 , 27 , 46 ) ( see Fig. 1 ) .
+Having also verified that RstA expression is not RpoS dependent , we hypothesized that RstA could be able to modulate intracellular RpoS levels .
+RpoS , the stationary - phase alternative sigma factor , has a large impact on the ability of enteric and nonenteric gramnegative bacteria to cope with adverse conditions , such as nutrient - starvation , medium acidification , and peroxide resistance ( 19 ) , by remodeling the expression pattern of more than 100 genes ( 21 , 40 , 48 , 51 ) .
+Accordingly , diverse regulatory factors , from transcriptional ones to small RNAs , proteases ( 19 ) , antiadaptor proteins ( 3 ) , and even other alternative sigma factors ( 2 ) , are involved in the complex control of the cellular RpoS content .
+Here we demonstrated that RstA expression lowered steady - state RpoS levels and that this effect was not associated with a general stress effect promoted by protein overexpression but was due specifically to the expression of RstA ( see Fig. 2A ) .
+To define where the regulatory action of RstA was occurring , we sequentially focused on each regulatory stage that determines RpoS expression .
+We showed that RstA expression had no impact on either RpoS transcription or translation by monitoring the expression of a transcriptional fusion that disrupts the RpoS region that is essential for MviA interaction ( 46 ) .
+It has been largely demonstrated that the RpoS degradation pathway , active mostly to maintain low levels of the sigma factor when bacteria are growing in exponential phase , depends on the sequential recognition of RpoS by MviA ( named also SprE or RssB in E. coli ) , which delivers it to the ClpXP proteolytic complex .
+We therefore asked whether RstA was stimulating this cascade or , alternatively , it could conceivably replace MviA in the function of delivery to the protease complex .
+By assessing the RpoS levels in clpP and mviA deletion mutants , we showed that the RstA ability to downregulate RpoS expression was independent of this degradation pathway , regardless of the growth phase .
+This result was substantiated by showing that RstA - mediated repression of the identified target genes also remained MviA - ClpXP independent .
+We also demonstrated that apart from ClpXP , none of the other major cellular proteases , i.e. , Lon , HslUV , or HflB , are responsible for the RstA - induced degradation of RpoS .
+Finally , RpoS degradation was monitored after blocking de novo protein synthesis while inducing RstA expression .
+This experiment established that in Salmonella , RstA is able to promote RpoS turnover , activating its degradation in a ClpXP - MviA - independent manner .
+This last result uncovered clearly the existence of a yet unknown RpoS degradation mechanism triggered by the two - component RR RstA .
+Further work will be required to elucidate the mechanism by which RstA promotes RpoS degradation .
+We foresee several potential alternatives : ( i ) RstA induces the expression of a gene ( s ) that encodes an unknown protease ( or protease complex ) involved in RpoS turnover , ( ii ) RstA itself chaperones RpoS to a degradation apparatus different from ClpXP , or ( iii ) RstA directly or indirectly counteracts the effect of a factor that protects RpoS from proteolysis .
+It was demonstrated previously that rstA is transcriptionally induced in extracellular Mg 2 limitation ( a PhoP/PhoQ system - inducing condition ) .
+However , this stimulus was insufficient to promote RstA - dependent modulation of narZ , spvA , or bapA ( data not shown ) .
+With this finding and the fact that identical results were obtained when the assays shown in this work were done in an rstB background , it becomes apparent that an additional and yet unidentified signal is required to trigger the switch of RstA to an activated state , which in our experiments is bypassed by RstA - induced expression .
+That the RstA - activating signal is not present in the culture conditions used ( LB - medium , vigorous shaking , 37 °C ) would also explain the lack of significant differences detected between the wild type and the rstA strains in the modulation of RpoS levels VOL .
+189 , 2007 RstA INDUCES RpoS DEGRADATION IN SALMONELLA 7341 and , in consequence , in the transcriptional activity of the RpoS - dependent genes .
+Interestingly , Tu et al. recently showed that IraP , a small protein under the transcriptional control of PhoP , stabilizes RpoS by preventing MviA binding , thus blocking ClpXP - mediated degradation ( 47 ) .
+Because PhoP upregulates both rstA and iraP transcription , we can predict that in an environment where not only PhoP - but also RstA - activating signals are simultaneously present , cellular RpoS levels will be finely adjusted by the opposing effects of the two circuits .
+Finally , biofilm formation was enhanced in the rstA strain , while it was repressed in the RstA - expressing bacteria , compared to the wild - type strain .
+Because we were able to detect a differential phenotype between the wild type and the rstA strains when biofilm was developed , we can speculate that the assay conditions that promote multicellular behavior in Salmonella ( i.e. , static growth over an extended period of time and cell - cell and cell - abiotic surface contacts ) would generate a signal which physiologically modulates RstA activity .
+RstAdependent regulation of biofilm was not unexpected in light of the RstA - dependent modulation of cellular RpoS levels and the knowledge that this sigma factor stimulates AgfD expression .
+This regulator controls the production of essential constituents of the extracellular matrix that leads to biofilm development .
+Indeed , the recent work of Ogasawara et al. ( 38 ) revealed that in E. coli , overexpression of RstA downregulates csgD ( agfD in Salmonella ) expression by direct binding to its promoter region .
+As a result , and because agfD also exhibits the described RstA - binding motif ( as determined by our visual inspection of the agfD promoter region ) , RstA would display a double control over Salmonella biofilm formation , simultaneously repressing the two master regulatory factors , RpoS and AgfD .
+We are indebted to J. W. Foster for the generous gift of strains .
+This work was supported by grants from Agencia Nacional de Promoción Científica y Tecnológica , the National Research Council ( CONICET , Argentina ) , and The Josefina Prats foundation .
+E.G.V. is a career investigator of the National Research Council ( CONICET , Argentina ) .
+M.L.C. and A.A. are fellows of the same institution .
+E.G.V. is a career investigator of CONICET .
+F.C.S. is a member of the Rosario National University Research Council ( CIUNR ) and of CONICET .
+Audia , J. P. , and J. W. Foster .
+Acid shock accumulation of sigma S in Salmonella enterica involves increased translation , not regulated degradation .
+Bang , I. S. , J. G. Frye , M. McClelland , J. Velayudhan , and F. C. Fang .
+Alternative sigma factor interactions in Salmonella : E and H promote antioxidant defences by enhancing S levels .
+Bougdour , A. , S. Wickner , and S. Gottesman .
+Modulating RssB activity : IraP , a novel regulator of S stability in Escherichia coli .
+Bullas , L. R. , and J. - I .
+Salmonella typhimurium LT2 strains which are r m for all three chromosomally located systems of DNA restriction and modification .
+Butler , S. M. , R. A. Festa , M. J. Pearce , and K. H. Darwin .
+Selfcompartmentalized bacterial proteases and pathogenesis .
+Campbell , T. L. , C. S. Ederer , A. Allali - Hassani , and E. D. Brown .
+Isolation of the rstA gene as a multicopy suppressor of YjeE , an essential ATPase of unknown function in Escherichia coli .
+Cano , D. A. , M. Mártinez - Moya , M. G. Pucciarelli , E. A. Groisman , J. Casadesús , and F. García - del Portillo .
+Salmonella enterica serovar Typhimurium response involved in attenuation of pathogen intracellular proliferation .
+Checa , S. K. , M. Espariz , M. E. Audero , P. E. Botta , S. V. Spinelli , and F. C. Soncini .
+Bacterial sensing of and resistance to gold - salts .
+Chen , C. - Y. , L. Eckmann , S. J. Libby , F. C. Fang , S. Okamoto , M. F. Kagnoff , J. Fierer , and D. G. Guiney .
+Expression of Salmonella typhimurium rpoS and rpoS - dependent genes in the intracellular environment of eukaryotic cells .
+Cherepanov , P. P. , and W. Wackernagel .
+Gene disruption in Escherichia coli : Tc R and Km R cassettes with the option of Flp - catalyzed excision of the antibiotic - resistance determinant .
+Coynault , C. , V. Robbe - Saule , and F. Norel .
+Virulence and vaccine potential of Salmonella typhimurium mutants deficient in the expression of the RpoS ( sigma S ) regulon .
+Curtiss , R. , III , and J. O. Hassan .
+Nonrecombinant and recombinant avirulent Salmonella vaccines for poultry .
+Dahl , J. L. , B. Y. Wei , and R. J. Kadner .
+Protein phosphorylation affects binding of the Escherichia coli transcription activator UhpA to the uhpT promoter .
+Datsenko , K. A. , and B. L. Wanner .
+One - step inactivation of chromosomal genes in Escherichia coli K - 12 using PCR products .
+Davis , R. W. , D. Bolstein , and J. R. Roth .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , NY .
+Ellermeier , C. D. , A. Janakiraman , and J. M. Slauch .
+Construction of targeted single copy lac fusions using lambda Red and FLP - mediated sitespecific recombination in bacteria .
+Fang , F. C. , S. J. Libby , N. A. Buchmeier , P. C. Loewen , J. Switala , J. Harwood , and D. G. Guiney .
+The alternative factor KatF ( RpoS ) regulates Salmonella virulence .
+Gotoh , H. , N. Okada , Y. G. Kim , K. Shiraishi , N. Hirami , T. Haneda , A. Kurita , Y. Kikuchi , and H. Danbara .
+Extracellular secretion of the virulence plasmid - encoded ADP - ribosyltransferase SpvB in Salmonella .
+Signal transduction and regulatory mechanisms involved in control of the S ( RpoS ) subunit of RNA polymerase .
+Hirakawa , H. , K. Nishino , J. Yamada , T. Hirata , and A. Yamaguchi .
+Beta - lactam resistance modulated by the overexpression of response regulators of two - component signal transduction systems in Escherichia coli .
+Ibanez - Ruiz , M. , V. Robbe - Saule , D. Hermant , S. Labrude , and F. Norel .
+Identification of RpoS ( S ) - regulated genes in Salmonella enterica serovar Typhimurium .
+Kabir , M. S. , D. Yamashita , S. Koyama , T. Oshima , K. Kurokawa , M. Maeda , R. Tsunedomi , M. Murata , C. Wada , H. Mori , and M. Yamada .
+Cell lysis directed by E in early stationary - phase and effect of induction of the rpoE gene on global gene expression in Escherichia coli .
+Kim , S. K. , M. R. Wilmes - Riesenberg , and B. L. Wanner .
+Involvement of the sensor kinase EnvZ in the in - vivo activation of the response - regulator PhoB by acetyl phosphate .
+Kowarz , L. , C. Coynault , V. Robbe - Saule , and F. Norel .
+The Salmonella typhimurium katF ( rpoS ) gene : cloning , nucleotide sequence , and regulation of spvR and spvABCD virulence plasmid genes .
+Kurita , A. , H. Gotoh , M. Eguchi , N. Okada , S. Matsuura , H. Matsui , H. Danbara , and Y. Kikuchi .
+Intracellular expression of the Salmonella plasmid virulence protein , SpvB , causes apoptotic cell death in eukaryotic cells .
+Lan , C. - Y. , and M. M. Igo .
+Differential expression of the OmpF and OmpC porin proteins in Escherichia coli K - 12 depends upon the level of active OmpR .
+Latasa , C. , A. Roux , A. Toledo - Arana , J. M. Ghigo , C. Gamazo , J. R. Penades , and I. Lasa .
+BapA , a large secreted protein required for biofilm formation and host colonization of Salmonella enterica serovar Enteritidis .
+Lejona , S. , A. Aguirre , M. L. Cabeza , E. García Véscovi , and F. C. Soncini .
+Molecular characterization of the Mg 2 - responsive PhoP - PhoQ regulon in Salmonella enterica .
+Lejona , S. , M. E. Castelli , M. L. Cabeza , L. J. Kenney , E. García Véscovi , and F. C. Soncini .
+PhoP can activate its target genes in a PhoQindependent manner .
+Majdalani , N. , C. K. Vanderpool , and S. Gottesman .
+Bacterial small RNA regulators .
+Mandel , M. J. , and T. J. Silhavy .
+Starvation for different nutrients in Escherichia coli results in differential modulation of RpoS levels and stability .
+McClelland , M. , K. E. Sanderson , J. Spieth , S. W. Clifton , P. Latreille , L. Courtney , S. Porwollik , J. Ali , M. Dante , F. Du , S. Hou , D. Layman , S. Leonard , C. Nguyen , K. Scott , A. Holmes , N. Grewal , E. Mulvaney , E. Ryan , H. Sun , L. Florea , W. Miller , T. Stoneking , M. Nhan , R. Waterston , and 7342 CABEZA ET AL. .
+Complete genome sequence of Salmonella enterica serovar Typhimurium LT2 .
+Experiments in molecular genetics .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , NY .
+Minagawa , S. , H. Ogasawara , A. Kato , K. Yamamoto , Y. Eguchi , T. Oshima , H. Mori , A. Ishihama , and R. Utsumi .
+Identification and molecular characterization of the Mg 2 stimulon of Escherichia coli .
+Moreno , M. , J. P. Audia , S. M. Bearson , C. Webb , and J. W. Foster .
+Regulation of sigma S degradation in Salmonella enterica serovar Typhimurium : in - vivo interactions between sigma S , the response regulator MviA ( RssB ) and ClpX .
+Muffler , A. , D. Fischer , S. Altuvia , G. Storz , and R. Hengge - Aronis .
+The response regulator RssB controls stability of the S subunit of RNA polymerase in Escherichia coli .
+Nickerson , C. A. , and R. Curtiss III .
+Role of sigma factor RpoS in initial stages of Salmonella typhimurium infection .
+Ogasawara , H. , A. Hasegawa , E. Kanda , T. Miki , K. Yamamoto , and A. Ishihama .
+Genomic SELEX search for sarget promoters under the control of PhoQP - RstBA signal relay cascade .
+Oshima , T. , H. Aiba , Y. Masuda , S. Kanaya , M. Sugiura , B. L. Wanner , H. Mori , and T. Mizuno .
+Transcriptome analysis of all two - component regulatory system mutants of Escherichia coli K - 12 .
+Patten , C. L. , M. G. Kirchhof , M. R. Schertzberg , R. A. Morton , and H. E. Schellhorn .
+Microarray analysis of RpoS - mediated gene expression in Escherichia coli K - 12 .
+Pratt , L. A. , and T. J. Silhavy .
+The response regulator SprE controls the stability of RpoS .
+Schweder , T. , K. H. Lee , O. Lomovskaya , and A. Matin .
+Regulation of Escherichia coli starvation sigma factor ( S ) by ClpXP protease .
+Soncini , F. C. , E. García Véscovi , and E. A. Groisman .
+Transcriptional autoregulation of the Salmonella typhimurium phoPQ operon .
+Soncini , F. C. , E. García Véscovi , F. Solomon , and E. A. Groisman .
+Molecular basis of the magnesium deprivation response in Salmonella typhimurium : identification of PhoP - regulated genes .
+Spector , M. P. , F. García del Portillo , S. M. Bearson , A. Mahmud , M. Magut , B. B. Finlay , G. Dougan , J. W. Foster , and M. J. Pallen .
+The rpoSdependent starvation - stress response locus stiA encodes a nitrate reductase ( narZYWV ) required for carbon - starvation - inducible thermotolerance and acid tolerance in Salmonella typhimurium .
+Stüdemann , A. , M. Noirclerc - Savoye , E. Klauck , G. Becker , D. Schneider , and R. Hengge .
+Sequential recognition of two distinct sites in S by the proteolytic targeting factor RssB and ClpX .
+Tu , X. , T. Latifi , A. Bougdour , S. Gottesman , and E. A. Groisman .
+The PhoP/PhoQ two - component system stabilizes the alternative sigma factor RpoS in Salmonella enterica .
+Vijayakumar , S. R. V. , M. G. Kirchhof , C. L. Patten , and H. E. Schellhorn .
+RpoS - regulated genes of Escherichia coli identified by random lacZ fusion mutagenesis .
+Wanner , B. L. , and M. R. Wilmes - Riesenberg .
+Involvement of phosphotransacetylase , acetate kinase , and acetyl phosphate synthesis in control of the phosphate regulon in Escherichia coli .
+Webb , C. , M. Moreno , M. Wilmes - Riesenberg , R. Curtiss III , and J. W. Foster .
+Effects of DksA and ClpP protease on sigma S production and virulence in Salmonella typhimurium .
+Weber , H. , T. Polen , J. Heuveling , V. F. Wendisch , and R. Hengge .
+Genome - wide analysis of the general stress response network in Escherichia coli : S - dependent genes , promoters , and sigma factor selectivity .
+White , A. P. , and M. G. Surette .
+Comparative genetics of the rdar morphotype in Salmonella .
+Yamamoto , K. , K. Hirao , T. Oshima , H. Aiba , R. Utsumi , and A. Ishihama .
+Functional characterization in - vitro of all two - component signal transduction systems from Escherichia coli .
+Zhou , L. , X. H. Lei , B. R. Bochner , and B. L. Wanner .
+Phenotype MicroArray analysis of Escherichia coli K - 12 mutants with deletions of all two - component systems .
+Zwir , I. , H. Huang , and E. A. Groisman .
+Analysis of differentiallyregulated genes within a regulatory network by GPS genome navigation .
+Zwir , I. , D. Shin , A. Kato , K. Nishino , T. Latifi , F. Solomon , J. M. Hare , H. Huang , and E. A. Groisman .
+Dissecting the PhoP regulatory network of Escherichia coli and Salmonella enterica .

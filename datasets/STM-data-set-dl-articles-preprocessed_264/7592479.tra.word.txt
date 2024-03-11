@@ -1,0 +1,232 @@
+JOURNAL OF BACTERIOLOGY , Dec. 1995 , p. 6861 -- 6865 Vol .
+177 , No. 23 0021 - 9193/95 / $ 04.00 0 Construction and Characterization of a fimZ Mutant of Salmonella typhimurium KUANG - SHENG YEH , LISA S. HANCOX , AND STEVEN CLEGG * Department of Microbiology , College of Medicine , University of Iowa , Iowa City , Iowa 52242 The Salmonella typhimurium fimA gene is controlled by several ancillary fim genes .
+One of these genes , fimZ , appears to be involved in increasing the expression of fimA .
+AfimZ mutant of S. typhimurium was constructed by allelic exchange , and this mutant was found to be nonfimbriate .
+The fimZ mutant demonstrated decreased levels of fimA expression compared with the parental strain when both were grown under conditions favoring fimbrial expression .
+An examination of the predicted amino - acid sequence , deduced from the nucleotide sequence of fimZ , indicated that the FimZ polypeptide possessed a DNA binding motif .
+Bacterial lysates , derived from strains transformed with recombinant plasmids possessing a fimZ gene , demonstrated DNA binding activity with a fragment containing the fimA promoter .
+Lysates without a FimZ polypeptide did not exhibit any binding activity .
+These data are consistent with FimZ being a transcriptional activator of fimA , and FimZ acts by binding to the promoter region .
+Initial investigations of the Salmonella typhimurium fim gene cluster have suggested that the gene encoding the major fimbrial subunit , fimA , is regulated in part by fim genes that are not immediately adjacent to fimA within the gene cluster ( 2 , 23 ) .
+Four genes , fimZ , - Y, - W , and - U , have been implicated in affecting fimA expression in S. typhimurium ( 4 , 25 ) , and one of these genes ( fimU ) encodes a tRNA molecule ( 25 ) .
+The precise mechanism by which FimZ , - Y , and - W control fimA expression is unknown , but initial evidence indicates that fimZ encodes a positive activator of fimA ( 4 , 23 ) .
+The mechanism of action of the fimZ , fimY , and fimW determinants has yet to be elucidated .
+In Escherichia coli , the control of fimA expression is a complex process involving a number of different proteins ( 6 , 9 , 13 , 14 ) .
+It is likely that the regulation of fimA expression in S. typhimurium is also under the control of numerous gene products .
+However , the two fimA genes do appear to be controlled , in part , by different and unrelated mechanisms .
+Evidence for this is as follows .
+Firstly , there are no fimB or fimE homologs in the S. typhimurium fim gene cluster .
+Conversely , genes related to the Salmonella fimY or fimW are not found within the E. coli gene cluster .
+Secondly , fimbriate E. coli strains lysogenized with an S. typhimurium fimA - lacZ fusion molecule demonstrate poor - galactosidase activity ( 23 ) .
+Therefore , under conditions in which the E. coli fimA gene is expressed in these strains , the S. typhimurium fimA gene is not .
+Thirdly , none of the E. coli fim genes affect the expression of the S. typhimurium fimA in its natural host , whereas ancillary Salmonella fim genes that alter fimA expression have been identified ( 4 , 23 ) .
+Since we have demonstrated that the S. typhimurium fimZ gene appears to alter fimA expression ( 23 ) , we decided to investigate further the mechanism of action of the fimZ gene product .
+The following describes the construction and characterization of an S. typhimurium fimZ mutant and the ability of FimZ to bind to the promoter region of the S. typhimurium fimA gene .
+Evidence that FimZ is necessary for fimbrial expression in S. typhimurium and that the binding by FimZ results in increased expression of fimA is presented .
+Electronic mail address : Steven - clegg@uiowa.edu .
+MATERIALS AND METHODS Bacterial strains , plasmids , and media .
+The fimbriate strain S. typhimurium LB5010 ( 2 ) was used to construct the fimZ mutant .
+S. typhimurium IS145 is a fimA - lacZ lysogen , and its construction and characterization have been previously described ( 23 ) .
+E. coli IS145 is a derivative of E. coli JM109 carrying the S. typhimurium fimA - lacZ fusion on its chromosome ( 23 ) .
+Different serovars of Salmonella were provided from the collection of J. P. Duguid ( University of Dundee , Dundee , United Kingdom ) .
+Bacteria were cultured on L media and incubated at 37 C , or 30 C for lysogens , for 24 or 48 h. All plasmids used in this study are shown in Fig. 1 and are derivatives of pISF101 carrying the S. typhimurium fim gene cluster ( 24 ) .
+The plasmid pISF182 possesses only the fimZ and fimY genes of the fim gene cluster , and it was constructed by cloning a 2.8 - kb HpaI DNA fragment into the EcoRV site of pACYC184 .
+The plasmid pISF187 possesses a universal translation terminator inserted into a unique EcoRV site within fimY .
+In pISF189 the terminator was inserted at a unique PvuI site within fimZ .
+The deletion derivative pISF199 was constructed by removal of nucleotides encoding the eight amino - acids at the C terminus of FimZ .
+Detection of type 1 fimbriae .
+Bacteria were serially subcultured in 10 ml of L broth and incubated without shaking for 48 - or 72 - h periods .
+Bacteria were harvested by centrifugation and gently resuspended in the residual fluid as previously described ( 20 , 26 ) .
+Subsequently , 30 l of bacterial suspension was mixed with 30 l of a 3 % ( vol/vol ) suspension of Candida albicans cells or guinea pig erythrocytes in phosphate - buffered saline ( PBS ) .
+The level of mannosesensitive yeast cell agglutination or mannose - sensitive guinea pig erythrocyte hemagglutination was determined by incubation of the bacterial suspension with cells resuspended in PBS containing 3 % ( wt/vol ) - methyl - D-mannoside .
+The mannose - sensitive adhesin was considered to be present if the cells were agglutinated only in the absence of mannose within 1 min .
+Fimbrial antigens were detected by using monospecific S. typhimurium antifimbrial serum as described elsewhere ( 24 ) .
+Intact fimbrial appendages were detected by observation of negatively stained bacteria with an electron microscope ( 12 ) .
+Construction of the S. typhimurium fimZ mutant .
+The plasmid pISF182 possesses an intact fimZ gene ( Fig. 1 ) .
+This plasmid was linearized at the unique PvuI site within fimZ , and a DNA molecule possessing flush ends was prepared .
+A HincII DNA fragment , possessing a kanamycin resistance determinant , was subsequently ligated into the fimZ gene .
+Following isolation of kanamycin - resistant transformants in E. coli HB101 ( 5 ) , the plasmid carrying the insertionally inactivated fimZ gene was isolated by standard techniques ( 15 ) .
+Subsequently , the inactivated determinant was cloned into the suicide vector pGP704 and maintained in the permissive host E. coli SY327 ( 18 ) .
+After characterization of the plasmid by restriction analysis to confirm the location of the Kn r cassette within the fimZ gene , kanamycin - resistant transformants of S. typhimurium that exhibited ampicillin sensitivity were isolated and characterized by Southern hybridization using DNA probes specific for the fimZ gene or the Kn r determinant .
+All hybridizations were performed under high - stringency conditions as described elsewhere ( 11 ) .
+Assays for - galactosidase were performed in triplicate by the method of Miller ( 17 ) using the fimA - lacZ lysogens .
+The preparation of the 452 - bp target DNA possessing the promoter region of the S. typhimurium fimA gene has been described previously ( 23 ) .
+Following end labeling of the DNA fragment using the Klenow 6861 6862 YEH ET AL. .
+Expression of fimbriae by S. typhimurium Strain Plasmid ( phenotype ) Phenotypic expression of type 1 fimbriae by bacteria grown on or in a : Presence of fimbriae as determined by EM b Agar Broth LB5010 LBZ100 LBZ100 pISF182 ( FimZ FimY ) LBZ100 pISF187 ( FimZ FimY ) LBZ100 pISF189 ( FimZ FimY ) ND c FIG. 1 .
+Genetic organization of the S. typhimurium fim gene cluster .
+The predicted sizes ( in kilodaltons ) of the Fim polypeptides are as indicated , and the signal peptide region of each gene product is shown as a solid area .
+The arrows indicate the direction of transcription of fimZ and fimY , and the crosses indicate the site of insertion of translation stop codons into the fimZ and fimY genes .
+The plasmid pISF182 possesses only the fimZ and fimY genes .
+a Phenotypic expression was determined by mannose - sensitive guinea pig erythrocyte hemagglutination or mannose - sensitive yeast cell agglutination and reactivity with fimbrial antiserum .
+Agar - grown cultures were subcultured up to 3 times ; broth - grown cultures were subcultured up to 10 times .
+b Electron microscopy ( EM ) was performed on bacterial suspensions that demonstrated hemagglutination activity and reactivity with fimbrial antiserum .
+c ND , not determined .
+fragment of DNA polymerase ( 15 ) , the DNA was incubated with cell sonicates prepared from S. typhimurium or E. coli transformants ( 8 , 10 ) .
+Gel mobility - shift assays were performed by standard techniques ( 10 ) except that bovine serum albumin was not added to the incubation mixtures and all volumes were adjusted with sterile distilled water .
+The mobility of the DNA fragment was determined by autoradiography .
+Plasmid and DNA manipulations .
+All plasmids were prepared by standard techniques ( 15 ) .
+Synthetic oligonucleotides were prepared by using an Applied Biosystems DNA synthesizer according to the manufacturer 's instructions .
+The compositions of the synthesized oligonucleotides were derived from the appropriate nucleotide sequence of the S. typhimurium fim gene cluster ( GenBank accession number L19338 ) .
+Restriction enzyme digestions , DNA ligations , and labeling were performed by conventional techniques .
+DNA colony blot analysis .
+The genomic DNAs from bacterial isolates were tested for the presence of fimZ nucleotide sequences as previously described ( 11 ) .
+The 680 - bp DNA probe used in these studies was composed of sequences restricted to the fimZ gene of S. typhimurium and was prepared by PCR using the cloned gene as a template .
+RESULTS Characterization of the fimZ mutant of S. typhimurium LB5010 .
+Following transformation of S. typhimurium LB5010 with a plasmid possessing an insertionally inactivated fimZ gene carried on the pGP704 vector , a kanamycin - resistant , ampicillin - sensitive derivative was isolated .
+Unlike the parental strain , this isolate , designated S. typhimurium LBZ100 , did not mediate mannose - sensitive guinea pig erythrocyte hemagglutination or mannose - sensitive yeast cell agglutination when grown under conditions for optimal expression of type 1 fimbriae ( Table 1 ) .
+After repeated subculture ( up to 10 times ) in static liquid media , no fimbriae could be observed on the bacteria .
+In contrast , S. typhimurium LB5010 was found to be fully fimbriate under identical cultural conditions .
+Genomic DNA was isolated from both S. typhimurium LB5010 and S. typhimurium LBZ100 .
+DNA preparations were restricted with ClaI and probed with a 1,300 - bp DNA fragment comprising the Kan r gene .
+No sequences homologous to the probe were detected in the parental strain .
+By use of S. typhimurium LBZ100 DNA , two ClaI DNA fragments were shown to hybridize with the probe ( Fig. 2 ) .
+The larger of these DNA fragments possesses only 300 nucleotides that are homologous to the 1,300 - bp DNA probe used in the assay .
+A faint signal corresponding to the size of this fragment was seen by autoradiography .
+The sizes of the two fragments ( 1,500 bp and 4.5 kb ) are consistent with the presence of ClaI sites within the Kn r cassette and fim gene cluster .
+The genomic DNA preparations were digested with a number of different enzymes and probed with the 680 - bp fimZ DNA fragment .
+A representative hybridization profile is shown in Fig. 2 .
+The DNA from S. typhimurium LB5010 possessed the fimZ gene on a 2.5 - kb EcoRV DNA fragment within the fim gene cluster .
+Insertion of the Kn r cassette into this gene resulted in hybridization of the gene probe with a 3.8 - kb DNA fragment ( Fig. 2 ) .
+S. typhimurium LBZ100 was transformed with pISF182 , pISF187 , or pISF189 ( Table 1 ) .
+When grown under conditions favoring fimbrial expression , pISF182 and pISF187 transformants were able to express type 1 fimbriae .
+However , S. typhimurium LBZ100 transformed with pISF189 did not produce fimbriae , as evidenced by its lack of agglutinating activity and reactivity with fimbria - specific serum .
+In addition , examination of this transformant by electron microscopy demonstrated that no fimbrial appendages were located on the bacterial surface .
+Expression of - galactosidase by fimA - lacZ lysogens .
+Previously we have described the construction of an S. typhimurium fimA - lacZ lysogen ( 23 ) .
+This strain was used to prepare recombinant phages that were subsequently used to lysogenize S. typhimurium LBZ100 .
+The expression of - galac - FIG. 2 .
+Southern hybridization profiles of genomic DNA isolated from S. typhimurium LB5010 ( WT ) and LBZ100 ( fimZ ) .
+( A ) DNA probed with a fimZ gene probe .
+( B ) DNA probed with sequences from the Kn r cassette .
+177 , 1995 S. TYPHIMURIUM fimZ MUTANT 6863 TABLE 2 .
+Expression of - galactosidase by fimA - lacZ lysogens Transforming plasmid ( phenotype ) - Galactosidase production by bacteria lysogenized with fimA - lacZ a S. typhimurium LB5010 S. typhimurium LBZ100 E. coli JM109 None 80 2 -- 3 0 pISF182 ( FimZ FimY ) 2,000 ND b 600 pISF187 ( FimZ FimY ) 500 900 0 pISF189 ( FimZ FimY ) 1,800 1 -- 2 0 pISF199 ( FimZ FimY ) 1,200 2 -- 3 0 a Strains were grown under conditions for optimal expression of type 1 fimbriae .
+Galactosidase activity is reported as Miller ( 17 ) units , and data represent the results from at least three independent experiments with 20 % variability .
+b ND , not determined .
+tosidase by the mutant is shown in Table 2 .
+Low levels of enzyme activity were detected in lysogens grown in broth or on agar .
+In contrast , the lysogen of S. typhimurium LB5010 expressed relatively high levels of - galactosidase following incubation in liquid media .
+The plasmids pISF187 and pISF189 possess translation termination signals in fimY and fimZ , respectively ( Fig. 1 ) .
+Transformants of both S. typhimurium LB5010 and LBZ100 lysogenized with the fimA - lacZ fusion and possessing pISF187 expressed relatively high levels of - galactosidase ( Table 2 ) .
+However , with pISF189 ( fimZ negative ) only transformants of the parental strain expressed significant levels of enzyme activity .
+The S. typhimurium LBZ100 lysogen transformed with pISF189 exhibited low - galactosidase activity in a manner similar to that of the untransformed strain .
+When the E. coli JM109 fimA - lacZ lysogen that lacks chromosomally borne fimZ and fimY alleles was used , only transformants with intact fimZ and fimY genes on the transforming plasmid could produce - galactosidase .
+The relatively high levels of enzyme activity in S. typhimurium LB5010 fimA - lacZ transformed with pISF189 compared with the levels in the S. typhimurium LBZ100 and E. coli lysogens were most likely due to the absence of a functional fimZ gene in the latter strains .
+DNA binding by FimZ .
+Cell extracts of pISF182 or pISF187 demonstrated DNA binding activity with a 452 - bp DNA fragment possessing the promoter region of fimA ( Fig. 3 ) .
+In vitro binding could be inhibited by competition with unlabeled DNA , and no binding was observed when fractions from transformants possessing fimA to fimF were used ( 4 ) .
+In addition , bacterial lysates prepared from strains possessing only the cloning vector of pISF182 or pISF187 did not bind to the promoter - containing region of fimA .
+Frequency of fimZ among Salmonella isolates .
+The presence of nucleotide sequences homologous to the fimZ DNA probe could be detected among 14 different serovars of Salmonella .
+All these strains have been shown to be fimbriate and to express antigenically related fimbrial appendages ( 7 , 24 ) .
+In addition , genomic DNAs from E. coli HB101 , DH5 ( 22 ) , and C1a ( 15 ) possess sequences that are homologous to the fimZ DNA probe .
+Genomic DNA isolated from two nonenteric species , Haemophilus influenzae and Neisseria gonorrhoeae , did not hybridize with the fimZ DNA probe .
+DISCUSSION We have previously demonstrated that the S. typhimurium fimZ gene product can affect the expression of the fimA gene ( 23 ) .
+Examination of the predicted amino - acid sequence of the FimZ polypeptide had shown that it exhibited similarity to a FIG. 3 .
+Gel mobility - shift assays using a DNA fragment containing the promoter region of fimA .
+Lane A , the 452 - bp fragment incubated in the absence of bacterial lysates ; lane B , the DNA fragment incubated with lysates prepared from S. typhimurium transformed with pACYC184 ( the cloning vector of pISF182 , pISF187 , and pISF189 ) ; lane C , the DNA fragment incubated with lysates prepared from S. typhimurium transformed with pISF182 .
+number of transcriptional activators ( 4 ) .
+These results suggested that the S. typhimurium fimA gene , encoding the major fimbrial subunit , is positively controlled by FimZ .
+If the FimZ protein is a transcriptional activator of fimA , then S. typhimurium fimZ mutants should be poorly fimbriate or nonfimbriate .
+Also , fimZ mutants should demonstrate low levels of FimA expression .
+In addition , binding of the fimZ gene product to the promoter region of fimA would be consistent with the hypothesis that FimZ acts as a positive regulator of fimA .
+To examine the role of FimZ in fimbrial expression , we constructed a fimZ mutant of S. typhimurium LB5010 by allelic exchange .
+Southern hybridization analysis demonstrated that this mutant , S. typhimurium LBZ100 , possesses a disrupted fimZ determinant on its chromosome , since a predictable change in size ( from 2.5 to 3.8 kb ) of an EcoRV DNA fragment relative to that in the wild - type strain was detected in the mutant when a fimZ DNA probe was used .
+In addition , the Kn r cassette was detected in the genomic DNA of the mutant but not in that of the wild - type strain .
+Confirmation that the mutated fimZ gene had replaced the wild - type allele was obtained by Southern hybridization analysis of DNA that had been restricted with a number of different enzymes in addition to EcoRV ( data not shown ) .
+In all cases the hybridization profiles were consistent with replacement of the fimZ gene by the mutated allele .
+S. typhimurium LBZ100 was nonfimbriate even when cultured under conditions favoring fimbrial expression .
+The lack of fimbriation correlated with low levels of fimA expression as determined by using the fimA - lacZ fusion .
+In fact , S. typhimurium LB5010 does express low but detectable levels of fimA after subculture on solid media even though no fimbriae can be detected on the bacterial surface ( Table 1 ) .
+However , the fimZ mutant does not express significant amounts of fimA regardless of the conditions of culture .
+These results are consistent with FimZ controlling FimA production rather than subsequent effects upon fimbrial transport and assembly .
+Also , we have demonstrated that FimZ alters FimA expression by binding to a DNA fragment possessing the promoter region of fimA , since only bacterial extracts of transformants possessing an intact fimZ gene will bind to the promoter region of the S. typhi - 6864 YEH ET AL. .
+By using the predicted amino - acid sequence of FimZ , it is possible to demonstrate a helix - turn - helix motif in the C terminus of this polypeptide .
+All these results , in conjunction with our previously published studies of fimAspecific mRNA levels ( 23 ) , are consistent with the FimZ protein being a positive regulator of fimA .
+Complementation of S. typhimurium LBZ100 could be achieved by transformation of the mutant with plasmids ( pISF182 and pISF187 ) carrying an intact fimZ gene .
+These transformants were fully fimbriate and demonstrated increased production of the fimA gene product ( Tables 1 and 2 ) .
+As shown in Fig. 1 , fimZ lies immediately downstream of fimY and transcription of fimZ appears to start in the intergenic region between fimZ and fimY .
+Confirmation that only fimZ could complement S. typhimurium LBZ100 was attained by using pISF182 , pISF187 , pISF189 , and pISF199 ( Table 1 ) .
+Premature termination of translation of fimZ on pISF189 , or deletion of the C terminus ( pISF199 ) , resulted in no fimbrial assembly and low - level expression of fimbrial subunits in S. typhimurium LBZ100 , whereas a plasmid that expresses fimZ but not fimY ( pISF187 ) transformed the mutant to fimbriation .
+Interestingly , FimA expression , as measured by - galactosidase production , depends upon both the fimZ gene and the fimY gene , since the E. coli JM109 lysogen requires both genes for fimA expression .
+The precise role of fimY in fimbrial production has yet to be determined , but initial experiments suggest that FimY may also be a DNA - binding protein .
+It is possible that both FimZ and FimY , in correct stoichiometric ratios , are required for optimal expression of fimA .
+However , further investigation of the role of FimY in fimbrial expression needs to be performed in order to confirm this hypothesis .
+The regulation and control of fimA expression in S. typhimurium demonstrate differences from the regulation and control described for E. coli ( 13 , 14 ) .
+Nucleotide sequences homologous to the fimZ gene can be detected in many different Salmonella serovars .
+Therefore , it is likely that fimA expression in most Salmonella strains is in part controlled by a fimZ gene product .
+A search of various databases demonstrated that the primary sequence of the S. typhimurium FimZ protein is related ( 71 % identical ) to the predicted amino - acid sequence of an E. coli polypeptide that may be produced by an open reading frame located in the 5 region of the argU ( dnaY ) gene ( 19 ) .
+Hybridization of nucleotide sequences representing this open reading frame of E. coli would explain why the fimZ gene probe hybridized with the E. coli genomic DNA .
+Interestingly , the E. coli argU gene is identical to the S. typhimurium fimU determinant ( 25 ) .
+Therefore , some E. coli isolates possess genes related to the Salmonella fimZ and fimU determinants .
+However , the role , if any , of these E. coli genes in affecting fimbriation in these bacteria is unknown .
+Also , the fimY and fimW genes of S. typhimurium are located between fimZ and fimU , whereas the E. coli argU and the open reading frame are adjacent to each other .
+It is currently unknown if the E. coli open reading frame encodes a polypeptide and if such a gene product is involved in fimbrial expression in E. coli .
+In both E. coli and Salmonella spp. the regulation of fimA expression appears to involve a complex regulon ( 6 , 9 , 13 , 16 ) .
+Initial studies have demonstrated that in addition to fimZ , both fimY and fimW , as well as the tRNA gene fimU ( 25 ) , play a role in fimbrial expression ( 4 , 23 ) .
+It is unknown whether any of the additional gene products , such as FimY or FimW , directly interact with FimZ to mediate fimA expression or if these polypeptides regulate fimZ .
+It is probable that additional genes are also involved in the regulation of fimbrial expression because in other fimbrial systems gene products encoded by determinants that are not linked to the fimbrial gene cluster have been detected ( 1 , 3 , 6 , 9 , 16 , 21 ) .
+It appears that each fimbrial system has evolved to possess its own unique features of regulation that enable the bacteria to modulate fimbrial expression in their appropriate environment .
+Currently , we are identifying the precise binding site of FimZ relative to the promoter region of fimA .
+In addition , the role of fimY and fimW in fim gene expression is being investigated .
+Since fimZ , fimY , and fimW can affect the production of the FimA subunit in S. typhimurium ( 4 , 23 ) , the interaction of these genes and their products will need to be elucidated in order to more fully understand fim gene expression in Salmonella .
+This work was supported by the NRI Competitive Grants program ( USDA 94 - 37204 - 0854 to S.C. ) .
+Blyn , L. B. , B. A. Braaten , and D. A. Low .
+Regulation of pap pilin phase variation by a mechanism involving differential Dam methylation states .
+Bullas , L. R. , and J. - I .
+Salmonella typhimurium LT2 strains which are r m for all three chromosomally located systems of DNA restriction and modification .
+Caron , J. , L. M. Coffield , and J. Scott .
+A plasmid - encoded regulatory gene , ms , required for expression of the CS1 and CS2 adhesins of enterotoxigenic Escherichia coli .
+Clegg , S. , and D. L. Swenson .
+In P. Klemm ( ed .
+) , Fimbriae : adhesion , genetics , biogenesis , and vaccines .
+CRC Press , Boca Raton , Fla. 5 .
+Davis , R. W. , D. Botstein , and J. Roth .
+Advances in bacterial genetics : a manual for genetic engineering .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 6 .
+Dorman , C. J. , and C. F. Higgins .
+Fimbrial phase variation in Escherichia coli : dependence on integration host factor and homologies with other site - specific recombinases .
+Duguid , J. P. , and I. Campbell .
+Antigens of the type - 1 fimbriae of salmonellae and other enterobacteria .
+Fried , M. , and D. Crothers .
+Equilibrium and kinetics of lac repressoroperator interactions by polyacrylamide gel electrophoresis .
+Gally , D. L. , T. J. Rucker , and I. C. Blomfield .
+The leucine - responsive regulatory protein binds to the fim switch to control phase variation of type 1 fimbrial expression in Escherichia coli K - 12 .
+Garner , M. , and A. Revzin .
+A gel electrophoresis method for quantifying the binding of proteins to specific DNA regions : application to components of the E. coli lactose operon regulatory system .
+Gerlach , G. - F. , B. L. Allen , and S. Clegg .
+Type 3 fimbriae among enterobacteria and the ability of spermidine to inhibit MR/K hemagglutination .
+Gerlach , G. - F. , S. Clegg , N. J. Ness , B. L. Allen , and W. A. Nichols .
+Expression of type 1 fimbriae and mannose - sensitive hemagglutination by recombinant plasmids .
+Kawula , T. H. , and P. E. Orndorff .
+Rapid site - specific DNA inversion in Escherichia coli mutants lacking the histone - like protein H - NS .
+Two regulatory fim genes , fimB and fimE , control the phase variation of type 1 fimbriae in Escherichia coli .
+Maniatis , T. , E. F. Fritsch , and J. Sambrook .
+Molecular cloning : a laboratory manual .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 16 .
+McClain , M. S. , I. C. Blomfield , K. J. Eberhardt , and B. I. Eisenstein .
+Inversion - independent phase variation of type 1 fimbriae in Escherichia coli .
+Experiments in molecular genetics .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 18 .
+Miller , V. L. , and J. J. Mekalanos .
+A novel suicide vector and its use in construction of insertion mutations : osmoregulation of outer membrane proteins and virulence determinants in Vibrio cholerae requires toxR .
+Muramatsu , S. , and T. Mizumo .
+Nucleotide sequence of the region encompassing the int gene of a cryptic prophage and the dnaY gene flanked by a curved DNA sequence of Escherichia coli K12 .
+Old , D. C. , I. Corneil , L. F. Gibson , A. D. Thomson , and J. P. Duguid .
+Fimbriation , pellicle formation and the amount of growth of salmonellas in broth .
+Olsen , P. B. , and P. Klemm .
+Localization of promoters in the fim gene VOL .
+177 , 1995 S. TYPHIMURIUM fimZ MUTANT 6865 cluster and the effect of H - NS on the transcription of fimB and fimE .
+Raleigh , E. A. , K. Lech , and R. Brent .
+Current protocols in molecular biology .
+Greene Publishing Associates and Wiley Interscience , New York .
+Swenson , D. L. , and S. Clegg .
+Identification of ancillary genes affecting fimA expression in Salmonella typhimurium .
+Swenson , D. L. , S. Clegg , and D. C. Old .
+The frequency of fim genes among Salmonella serovars .
+Swenson , D. L. , K. - J .
+Kim , E. W. Six , and S. Clegg .
+The gene fimU affects expression of Salmonella typhimurium type 1 fimbriae and is related to the Escherichia coli tRNA gene argU .
+Tavendale , A. , C. K. H. Jardine , D. C. Old , and J. P. Duguid .
+Haemagglutinins and adhesion of Salmonella typhimurium to HEp2 and HeLa cells .

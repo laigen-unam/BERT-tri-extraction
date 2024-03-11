@@ -1,0 +1,334 @@
+JOURNAL OF BACTERIOLOGY , May 1999 , p. 3096 -- 3104 Vol .
+181 , No. 10 0021 - 9193/99 / $ 04.00 0 A HilA - Independent Pathway to Salmonella typhimurium Invasion Gene Transcription JENNIFER L. RAKEMAN , 1 HEATHER R. BONIFIELD , 1,2 AND SAMUEL I. MILLER 1,2 * Departments of Microbiology 1 and Medicine , 2 University of Washington , Seattle , Washington 98195 Salmonella typhimurium invasion of nonphagocytic cells requires the expression of a type III secretion system ( TTSS ) encoded within Salmonella pathogenicity island 1 ( SPI1 ) .
+TTSS gene transcription is activated in response to environmental signals and requires transcriptional regulators encoded within ( HilA ) and outside ( SirA ) SPI1 .
+Two unique loci , sirB and sirC , which contribute to SPI1 gene transcription were defined .
+sirC is an SPI1 - encoded transcription factor of the AraC family that contributes to the invasive phenotype .
+sirB is required for maximal expression of sirC and consists of two open reading frames located near kdsA , a gene involved in lipopolysaccharide biosynthesis .
+sirC expression , unlike expression of other SPI1 genes , does not require HilA .
+Overexpression of sirC or sirA restores expression of a subset of SPI1 genes , including invF and sspC , in the absence of HilA .
+These data define roles for SirC and SirA as part of a HilA - independent pathway to SPI1 gene expression .
+We postulate that HilA - independent activation of inv expression is important for efficient assembly and function of the SPI1 TTSS .
+and Microbiology , University of Washington , Health Sciences Building , Box 357710 , Seattle , WA 98195 .
+Salmonellae are enteric pathogens that cause gastroenteritis and enteric fevers .
+Animals ingest bacteria orally , and subsequent interaction with the intestinal epithelium results in mucosal invasion and immune system responses that result in inflammation ( 11 , 15 ) .
+One bacterial molecular mechanism required for invasion and inflammation is the specialized secretion system encoded within Salmonella pathogenicity island 1 ( SPI1 ) .
+This type III secretion system ( TTSS ) functions to translocate bacterial proteins directly into the eukaryotic cell cytosol on contact .
+The TTSS is a complex system involving over 25 proteins , some of which assemble into a macroscopic complex ( 14 , 18 , 23 ) .
+The TTSS is required for bacterial invasion of epithelial cells through macropinocytosis and for the induction of inflammatory responses that include interleukin - 8 secretion , neutrophil transmigration , and intestinal fluid accumulation in both human and bovine intestinal disease models ( 13 , 30 , 31 ) .
+In addition , the TTSS is required for Salmonella typhimurium to induce apoptotic myeloid cell death ( 5 , 26 , 36 ) .
+Transcription of TTSS genes is regulated in response to environmental conditions .
+Conditions which promote TTSS gene transcription include high - osmolarity , pH 8 , low - oxygen bacterial growth medium conditions , and growth to the late logarithmic phase ( 2 , 3 , 8 , 10 , 24 , 25 , 28 ) .
+The number and diversity of promoters controlling expression of SPI1 genes are unknown .
+It is known that regulated expression of at least three TTSS promoters is required for invasion .
+These promoters are located upstream of prgH , orgA , and invF ( 21 , 22 , 37 ) .
+Two SPI1 - encoded regulators , InvF and HilA , effect TTSS gene transcription and invasion .
+The deduced amino - acid sequence of InvF suggests that it is a transcriptional regulator of the AraC family .
+It is not required for expression of all genes downstream from invF but is required for the invasive phenotype ( 21 ) .
+HilA promotes invasion as a major transcriptional regulator of SPI1 genes , including orgA , prgH , invF , and sspC .
+The mechanism by which HilA regulates TTSS genes is unknown ; however , the deduced amino - acid sequence of HilA suggests that it is a DNA binding protein that may interact directly with TTSS gene promoters ( 1 , 2 ) .
+The expression of hilA and other SPI1 genes can be transcriptionally regulated by PhoP and SirA , two members of the two - component response regulator family encoded outside SPI1 .
+Activation of PhoP , as a result of PhoP phosphorylation by PhoQ , represses transcription of hilA and other SPI1 genes ( 2 , 3 , 16 , 37 ) .
+SirA is required for maximal expression of prgH , hilA , and other SPI1 genes and for the invasive phenotype ( 20 ) .
+Previously , two plasmids containing unique loci , sirB and sirC , were identified by their ability to function as multicopy suppressors of the effects of a sirA mutation on TTSS gene expression ( 20 ) .
+In this study , we have characterized sirB and sirC and provide evidence for a HilA - independent pathway to invasion gene expression which involves SirC and SirA .
+MATERIALS AND METHODS Bacterial strains , eukaryotic cell lines , and growth - conditions .
+The S. typhimurium strains used are listed in Table 1 .
+Bacteria were grown and HeLa cells were maintained as described previously ( 20 ) .
+Enzymes were purchased and DNA was manipulated as described previously ( 20 ) .
+DNA sequencing of both strands was performed , and sequences were analyzed as described previously ( 20 ) .
+Oligonucleotide primers that hybridized to the pWKS30 and pWSK29 vectors ( pBluescript - based lowcopy - number cloning vector [ 9 ] ) and to S. typhimurium DNA were synthesized by Gibco BRL and were used for sequencing or PCR .
+PCR was performed according to the protocol given by New England Biolabs for Vent polymerase .
+The primers used to amplify the sirB open reading frames ( ORFs ) by PCR were 5 - GAATTCTCGAGGAACGCGTGACCTGCGGACGT - 3 and 5 - GAGCTC GGCCGTGCCACCTTAATGTCGCCA - 3 .
+The resulting PCR product was used to create pCJ22d .
+Chromosomal DNA was isolated by the following method .
+A 1.5 - ml portion of an overnight culture was resuspended in 400 l of lysis buffer ( 100 mM Tris - HCl [ pH 8.0 ] , 5 mM EDTA , 200 mM NaCl ) to which 10 l of lysozyme ( 10 g/ml in lysis buffer ) was added .
+After a 15 - min incubation on ice , proteinase K was added to 100 g/ml and sodium dodecyl sulfate was added to 0.2 % .
+The samples were incubated for several hours to overnight at 55 °C .
+The DNA was precipitated with isopropanol , spooled , washed in ethanol , dried , and resuspended in Tris - EDTA plus RNase .
+After incubation for several hours at 55 °C , the DNA was phenol extracted , ethanol precipitated , and resuspended in 500 l of Tris - EDTA .
+Southern hybridizations were performed as described previously ( 20 ) .
+Construction of luciferase fusion and in - frame deletion strains .
+A transcriptional fusion of sirC to the gene encoding firefly luciferase was created by cloning the 1.1 - kb HindIII - NruI fragment from pCJ20 into pGPL01 ( 17 ) to create psirC : : luc .
+Integration of the pir - dependent plasmid in S. typhimurium creates a 3096 VOL .
+181 , 1999 HilA - INDEPENDENT SPI1 REGULATION 3097 TABLE 1 .
+transcriptional - fusion of sirC to luc in the presence of a wild - type copy of the sirC gene .
+Deletions were created by using pKAS32 ( 39 ) .
+This pir - dependent plasmid encodes ampicillin resistance and contains a streptomycin sensitivity allele that is dominant to the streptomycin resistance allele present in CS401 .
+Loss of plasmid sequences from an integrant strain can be selected for by plating to streptomycin .
+Upstream and downstream fragments of DNA with engineered cloning sites were amplified by PCR from either pCJ22 or pCJ20 to create sirB and sirC deletion strains .
+To create sirB , the following primers were used : A1 , 5 - GGGAATTCTGG TCGCTGCCGCTCTTCGTTT - 3 ; A2 , 5 - GGGATATCGAGCAACATTGCA ATTGTCATG - 3 ; B1 , 5 - GGGATATCCATTAATTAACCGACATTTTAC - 3 ; and B2 , 5 - GGGAGCTCGAGGTCGACGGTATCGATAAGC - 3 .
+The resulting fragments were ligated into pKAS32 to create p sirB .
+Integration and excision of p sirB results in a 1.2 - kb in - frame deletion of ORF1 and ORF2 , and deletion was confirmed by Southern blot analysis .
+To create sirC , the following primers were used : C1 , 5 - ACAACGTTAGA ACAATAAGCAGTTTGCGA - 3 ; C2 , 5 - ATGGGGTACCGCTTTCATTACA AAATTGTG - 3 ; D1 , 5 - GCATATTCTAGAAACCATTGATTTGTGAAA - 3 ; and D2 , KS primer ( Stratagene ; recognizes vector sequences ) .
+The resulting fragments were ligated into pKAS32 to create p sirC , which after integration and excision , yields a 748 - bp in - frame deletion of the sirC coding sequence .
+Deletion was verified by Southern blot analysis .
+Alkaline phosphatase , - galactosidase , and luciferase assays .
+Alkaline phosphatase and - galactosidase assays were performed as previously described ( 32 ) .
+Appropriate amounts of bacteria were used in the assays to obtain significant levels of enzymatic activity .
+Units were calculated as defined by Miller ( 33 ) .
+Luciferase assays were performed as described by Johnston et al. ( 20 ) , except that the centrifugation step was left out .
+Samples were normalized for cell number before processing .
+Bacteria were grown overnight in L broth containing appropriate antibiotics under microaerophilic conditions ( no shaking , culture tube filled with medium ) .
+HeLa cells were plated in 24 - well plates at 1.5 10 5 per well .
+Bacteria were inoculated in Dulbecco 's modified Eagle medium plus 10 % heat - inactivated fetal bovine serum ( DMF ) at a multiplicity of infection of 10 .
+Invasion was allowed to proceed for 30 min at 37 °C with 5 % CO 2 after a 10 - min centrifugation at 46 g at 4 °C .
+The wells were washed three times in phosphatebuffered saline , 1 ml of DMF containing gentamicin ( 15 g/ml ) was added , and the plates were then incubated for an additional 30 min .
+The wells were washed three times in phosphate - buffered saline ; HeLa cells were lysed by the addition of 200 l of 1 % Triton X - 100 in water and pipetting up and down 10 times , and then 800 l of saline was added .
+The initial bacterial inoculum and the number of invaded bacteria were enumerated by plating dilutions to agar plates .
+P22HT int transduction ( 6 ) was used to move marked alleles into different background strains .
+Proper integration of these alleles was verified by assessing linkage to known markers by marker replacement .
+Whenever appropriate , the deletion of DNA in strains was confirmed by Southern blot hybridization .
+Nucleotide sequence accession numbers .
+The GenBank accession numbers for sirB and sirC are AF134855 and AF134856 , respectively .
+RESULTS sirA mutant phenotypes can be suppressed by DNA ( sirC ) predicted to encode an AraC family member and by a locus ( sirB ) near an LPS synthesis gene , kdsA .
+Previously , sirB and sirC were found to be able to restore expression of PrgH : : PhoA in the presence of the sirA : : Tn10d allele .
+These loci are unique and are located within SPI1 at centisome 63 ( sirC ) and at centisome 37.6 to 40.2 ( sirB ) oftheS .
+The DNA fragments required for suppression of the sirA - null phenotype were further defined by deletion analysis and are shown in Fig. 1 .
+sirB is found within a 2.7 - kb PstI - HindIII fragment , and sirC is found within a 1.4 - kb HindIII - EcoRI fragment 3 to the SPI1 gene orgA .
+The sirB locus consists of two ORFs .
+ORF1 is required for the suppression phenotype ; it is unknown whether ORF2 is also required .
+Data bank searches with these sequences revealed that the sequences showed similarity to no sequences of genes of known function .
+Similar sequences are found in the Escherichia coli genome , and the ORFs are found in an operon with kdsA , a gene required for synthesis of lipopolysaccharide ( LPS ) .
+In E. coli , kdsA is essential for growth , while the upstream ORFs are not essential ( 40 ) .
+Further sequence analysis of the Salmonella locus revealed that these ORFs are physically located in what is predicted to be an operon with kdsA .
+DNA sequencing of the sirC - containing DNA fragment revealed a 780 - bp ORF .
+The deduced amino - acid sequence of SirC shows similarity to members of the AraC family of transcriptional regulators .
+Members of this family show sequence similarity to the 3 end of araC , which encodes the C - terminal DNA binding helix - turn - helix ( HTH ) domain .
+The N termini are divergent and , in some cases , have been shown to be important for signal receiving ( 12 ) .
+The HTH domain is found within deduced amino - acids 203 to 260 of SirC .
+envY of E. coli is most similar to sirC ( 36 % identical and 60 % similar ) .
+This similarity is clustered at the 3 end , which encodes the putative HTH domains .
+EnvY is involved in regulating the temperature - dependent expression of genes encoding envelope proteins ( 27 ) .
+SirC , but not SirB , is required for full expression of the invasive phenotype .
+Because suppression of sirA - null phenotypes was a result of multicopy ( six to eight copies per cell ) expression of the sirB ORFs or sirC , sirB and sirC mutants were constructed to determine the direct roles of SirB and SirC in invasion and SPI1 gene expression .
+A strain containing an in - frame chromosomal deletion of the two ORFs comprising the sirB locus , HRB090 ( sirB ) , was created and tested for its ability to invade cultured epithelial cells .
+No significant decrease in the ability of HRB090 to invade cells compared to that of wild - type strains was observed ( data not shown ) .
+These data demonstrated that sirB was not essential for the invasive phenotype under the conditions tested .
+JLR130 ( sirC ) , a strain that contains an in - frame chromosomal deletion of sirC , was created and tested for its invasion phenotype and was found to be three - to fourfold less invasive than wild - type strains ( Fig. 2 ) .
+This result indicated that SirC contributes to the invasive phenotype .
+To determine if SirA and SirC cooperate to promote invasiveness of S. typhimurium , a strain containing two mutations , sirC and sirA : : Tn10d , was constructed ( sirA sirC double mutant JLR152 ) .
+JLR152 was 98 - fold less invasive than wild - type strains , which is a greater effect than the sum of the effects of each mutation alone ( Fig. 2 ) .
+This suggests that SirC and SirA may be able to affect expression at the same invasion gene promoters or to affect expression of different subsets of invasion genes , independently of one another .
+sirC is environmentally regulated and is part of the SirA regulon .
+Other TTSS gene regulators , such as HilA and InvF , have been shown to be regulated at the transcriptional level in response to environmental signals and by other transcriptional regulators ( 2 , 20 , 21 ) .
+The expression of sirC throughout a growth curve was studied .
+A strain ( JLR028 ) containing a single - copy chromosomal fusion of sirC to the gene encoding firefly luciferase was constructed and used to characterize the expression of sirC in the presence of a wild - type copy of sirC .
+Expression of sirC is maximally induced in the late logarithmicearly stationary - phase of growth when the fusion strain is grown aerobically in L broth ( high - osmolarity ) ( data not shown ) .
+Since SirA and SirC cooperate to promote invasion and since overexpression of sirC could suppress sirA - null phenotypes , the effect of SirA on sirC expression was tested .
+The effects of PhoPQ and SirB on sirC expression were also studied .
+sirC expression was measured throughout a growth curve in bacterial cultures grown in L broth at 37 °C with shaking .
+Activity from the same number of cells was measured at each time point for each strain .
+The amount of expression relative to expression in the wild - type strain at maximum ( optical density at 600 nm 1.8 for all strains ) in mutant backgrounds is represented in Table 2 .
+These experiments determined that maximal sirC expression requires sirA and sirB and that sirC VOL .
+181 , 1999 HilA - INDEPENDENT SPI1 REGULATION 3099 FIG. 1 .
+Definition of sirB and sirC DNA .
+The minimum DNA required for the suppression of sirA : : Tn10d phenotypes as defined by restoration of PrgH : : PhoA expression was determined for sirB ( A ) and sirC ( B ) .
+, suppression ( PhoA activity restored ) ; , no suppression ( PhoA activity not restored ) .
+Activity was determined by a blue colony phenotype on plates containing 5 - bromo - 4-chloro - 3-indolylphosphate and confirmed by quantitative alkaline phosphatase activity measurements of bacteria grown in liquid culture .
+Abbreviations : A , SacII ; I , EcoRI ; P , PstI ; H , HindIII ; N , NruI ; S , SalI ; V , EcoRV .
+Plac indicates the relative position of the vector - encoded lac promoter ( pWSK29 or pWKS30 ) .
+expression is repressed by PhoPQ .
+Notably , there is a basal level of sirC expression that occurs in the absence of SirA .
+sirC is not a HilA - regulated gene , and SirC has a minor effect on hilA expression .
+Since all SPI1 genes tested to date are regulated by HilA , sirC expression was tested for evidence of HilA regulation .
+The expression of sirC : : luc in wild - type and hilA - null backgrounds indicated that the hilA : : kan allele ( 2 ) had no effect on the expression of sirC ( Fig. 3 ) , demonstrating that sirC is not a HilA - regulated gene .
+Because sirC expression does not require HilA , we sought to determine whether SirC , like SirA , acts to regulate hilA expression .
+The hilA - iagB : : lacZY fusion , which measures expression from the hilA promoter in the presence of HilA , was used .
+hilA and iagB are cotranscribed , and the lacZY fusion is within iagB .
+Bacteria were grown under hilA - inducing conditions ( high - osmolarity ) ( 2 ) with shaking at 37 °C .
+As shown in Fig. 4A , a minimal effect of SirC on hilA expression was observed .
+The effect is ca .
+threefold at most and is similar to the fold effect of the deletion of sirC on invasion .
+The cooperative effect of SirA and SirC on invasion is not through a cooperative effect on hilA expression .
+The sirA sirC double - mutant strain ( JLR152 ) was used to determine if the synergistic effect of these mutations on invasion was through an effect on hilA expression .
+This effect was tested under dif - 3100 RAKEMAN ET AL. .
+SirC contributes to invasion cooperatively with SirA .
+Invasion is expressed as a percentage of the initial inoculum , and the numbers above the bars on the graph represent the fold decrease in invasiveness versus that of the wild - type strain , JLR129 .
+The graph depicts results from one experiment performed in triplicate and is representative of several replicate experiments .
+Error bars represent the standard deviation ; the absence of bars indicates that the standard deviation is insignificant .
+First , hilA expression from bacteria grown aerobically throughout a growth curve was measured , and as depicted in Fig. 4A , the effect of the double mutations on hilA expression was similar to that of the sirA : : Tn10d mutation alone .
+Second , bacteria were grown overnight under microaerophilic conditions in L broth , and - galactosidase produced by these bacteria was measured ; the results are depicted in Fig. 4B .
+The same cultures that were used in these assays were used in the invasion assay ( Fig. 2 ) to enable a measurement of hilA expression in invasion - ready bacteria .
+The invasion incubation was short ( 30 min ) so that invasiveness and hilA expression were measured in bacteria in similar states .
+Although the invasion defect of JLR152 , the double - mutant strain , was greater than the sum of the defects of strains containing each mutation alone , expression in the double - mutant background was like that in the sirA : : Tn10d background ( Fig. 4B ) .
+This suggests that it is possible that the large effect of the sirA sirC double mutation on the invasive phenotype is not mediated entirely through effects on hilA expression .
+Regulation of sirC expression % of maximum luciferase activity a Wild type ( JLR028 ) 100 sirA : : Tn10d ( JLR040 ) 8.3 0.018 sirB ( HRB094 ) 26.0 0.009 pho - 24 ( JLR076 ) 1.6 0.001 a Optical density at 600 nm 1.8 .
+sirC expression does not require HilA .
+The expression of sirC was measured by quantitating the amount of luciferase activity produced by strains containing the sirC : : luc transcriptional - fusion .
+RLU , relative light units .
+Error bars represent the standard deviation ; the absence of bars indicates that the standard deviation is insignificant .
+OD 600 , optical density at 600 nm .
+SirC and SirA are part of a HilA - independent pathway to invasion gene expression .
+To further explore the HilA - independent effects of SirC and SirA on TTSS gene expression , expression of genes in hilA mutant background strains with or without overexpression of SirC or SirA was measured and compared to expression in the wild - type background .
+Overexpression of SirC and SirA was achieved by expression of these genes from their own promoters on low - copy - number vectors ( pCJ20 or pCJ13d ) .
+In the hilA : : kan background , there was virtually no expression of sspC : : Tn5 - lacZY ( JLR141 ) , invF : : Tn5 - lacZY ( JLR149 ) , or prgH : : Tn5 - lacZY ( JLR136 ) as measured by - galactosidase enzymatic activity .
+When SirC was expressed from pCJ20 in these strains , sspC : : Tn5 - lacZY expression was restored to nearwild - type levels ( JLR147 ) , and invF : : Tn5 - lacZY expression was restored to above - wild - type levels ( JLR150 ) , as shown in Fig. 5A .
+In contrast , no restoration of prgH : : Tn5 - lacZY expression ( JLR145 ) was observed ( Fig. 5A ) .
+Overexpression of SirC from pCJ20c resulted in the same phenotypes , indicating that the phenotype is SirC specific ( data not shown ) .
+Similar results were obtained when SirA was overexpressed from pCJ13d ; both sspC : : Tn5 - lacZY and invF : : Tn5 - lacZY expression were restored to near - wild - type levels ( JLR153 and JLR155 ) , and prgH : : Tn5 - lacZY expression was not restored ( JLR156 ) ( Fig. 5B ) .
+These data establish roles for SirC and SirA in the induction of expression of the TTSS genes invF and sspC independently from HilA .
+Expression of prgH absolutely requires HilA under the conditions tested .
+DISCUSSION This work provides further characterization of the regulatory network controlling expression of the S. typhimurium SPI1 TTSS .
+This system is a multicomponent organelle assembled VOL .
+181 , 1999 HilA - INDEPENDENT SPI1 REGULATION 3101 FIG. 4 .
+Regulation of hilA expression .
+hilA expression was measured by quantitating the amount of - galactosidase activity produced by strains expressing the hilA - iagB : : lacZY fusion .
+( A ) Enzyme activity over a growth curve of bacteria grown in L broth with shaking .
+( B ) - galactosidase activity produced by bacteria grown overnight under microaerophilic conditions in L broth .
+The cultures used in this assay were the same cultures used in the invasion assay represented in Fig. 2 .
+Error bars represent the standard deviation ; the absence of bars indicates that the standard deviation is insignificant .
+WT , wild type ; OD600 , optical density at 600 nm .
+within the bacterial envelope in response to environmental signals sensed by the bacterium , presumably when in close proximity to appropriate mammalian cells .
+These signals can , in part , be mimicked in - vitro .
+The transcription factors PhoPQ , SirA , HilA , and InvF have been demonstrated to be important to SPI1 gene regulation ( 1 -- 3 , 7 , 20 , 37 ) .
+In this work , SirB and SirC were shown to be part of this complex regulatory network .
+Previous work led to the hypothesis that HilA was essential to all SPI1 gene transcription ( 1 , 2 ) .
+This work provides evidence for a HilA - independent pathway to SPI1 gene expression .
+SirC was defined as an SPI1 transcription factor that was able to activate expression of inv and ssp genes in the absence of HilA .
+Expression of sirC is regulated by SirA and SirB , implicating the Sir regulators as part of this pathway .
+Although SirB is not essential for the expression of the invasive phenotype , it is required for maximal expression of sirC .
+When sirB is present in multiple copies , expression of TTSS genes is induced in the absence of SirA .
+These data suggested that SirB could function as a transcription factor .
+However , SirB is not similar to any known family of transcription factor .
+The two ORFs that comprise sirB may encode novel transcription factors or proteins that affect TTSS gene expression by another mechanism .
+In E. coli , the ORFs are cotranscribed with kdsA , an essential gene involved in LPS synthesis whose expression , like the expression of SPI1 genes , is growth phase regulated ( 40 ) .
+Similarly , sirB and kdsA are encoded in an operon structure in S. typhimurium .
+KdsA is involved in the synthesis of 3 - deoxy - D-manno - octulosonic acid , a core sugar of LPS .
+If SirB is not a transcription factor , it may be able to promote invasion gene transcription by affecting the cytoplasmic levels of some carbohydrate or other metabolite , which could affect a signal that activates an SPI1 transcription factor .
+The deduced amino - acid sequence of SirC indicates that it belongs to the AraC family of transcriptional regulators .
+sirC is carried within SPI1 , and like other SPI1 genes , its expression is regulated by several regulators ( PhoP , SirA , and SirB ) and in response to growth phase .
+SirC is able to promote expression of some SPI1 genes ( inv and ssp ) , indicating that it can function as an SPI1 transcription factor .
+SirC alone makes a minor contribution to invasiveness under the conditions tested but acts cooperatively with SirA to induce expression of this phenotype .
+Interestingly , the cooperativity of the SirA and SirC contributions to the invasive phenotype is not mediated through a cooperative effect of these regulators on hilA expression .
+The effect of sirA sirC double mutations on invasion was a 98 - fold decrease from wild - type levels of invasion , which was greater than the sum of the effects of sirA ( 10.8 - fold decrease ) and sirC ( 3.5 - fold decrease ) single mutations on invasion .
+However , hilA expression was not affected by the double mutations in this manner .
+Expression in the doublemutant strain was similar to that in the sirA : : Tn10d background .
+This suggested that expression of invasion can be affected independently of HilA , since the effects on invasion and hilA expression of SirA and SirC together were not of a similar magnitude .
+Previous work has led to the hypothesis that all environmental regulation of SPI1 genes is mediated through HilA ( 2 ) .
+hilA expression is environmentally regulated and is required for expression of SPI1 genes and the invasive phenotype .
+HilA is predicted to be a DNA binding protein because the amino terminus of the protein is similar to DNA binding domains of other transcription factors ( 1 ) .
+Bajaj et al. ( 2 ) have suggested that HilA acts directly at the prgH and invF promoters , because transcription of these genes in E. coli requires hilA .
+We have shown that overexpression of sirC or sirA allows expression of 3102 RAKEMAN ET AL. .
+Definition of HilA - independent pathways to invasion gene expression .
+Squares , expression of the indicated transcriptional - fusions in the wild - type background ; diamonds , expression in the hilA : : kan background ; circles , expression in the hilA : : kan - plus - plasmid background .
+( A ) Overexpression of sirC from pCJ20 .
+( B ) Overexpression of sirA from pCJ13d .
+Error bars represent the standard deviation ; the absence of bars indicates that the standard deviation is insignificant .
+OD 600 , optical density at 600 nm .
+invF and sspC , but not prgH , in the absence of HilA .
+The SirA effect may be mediated through an increase in sirC expression when sirA is overexpressed , since sirC is a SirA - regulated gene .
+It is possible that HilA , SirC , and SirA all act directly at the invF promoter .
+Since the expression of sirC is not regulated by HilA , the regulation of the inv and ssp genes by SirC and SirA in the absence of HilA constitutes a novel branch in the regulatory network controlling expression of these genes .
+The HilA - independent and HilA - dependent pathways to invasion gene expression are depicted in Fig. 6 .
+HilA - independent SirA - and SirC - directed amplification of inv gene cluster expression in response to specific signals may be important to the efficiency of assembly of the TTSS apparatus components .
+SirC has the potential to receive a specific signal that tells Salmonella that higher levels of inv expression are required and to drive expression of these genes in response to that signal .
+It is hypothesized that at some point during the process of assembling the TTSS , higher levels of expression of inv , but not prg , genes is needed .
+HilA can induce transcription FIG. 6 .
+Model of HilA - independent and HilA - dependent pathways to invasion gene expression .
+The HilA - independent pathway is depicted with boldface arrows , and the HilA - dependent pathway is depicted with the smaller arrows .
+It is possible that SirA interacts directly with the invF promoter rather than exerting its regulatory effects through other regulators ( such as SirC ) .
+181 , 1999 HilA - INDEPENDENT SPI1 REGULATION 3103 of the inv genes , but it also induces prg expression .
+The directed amplification of inv expression may be achieved by the SirA - SirC pathway in response to specific signals marking this point in the assembly process .
+SirC , therefore , is important for the efficiency of induction of TTSS expression and invasion through its ability to induce specific SPI1 genes in a HilAindependent manner in response to a specific signal .
+This work demonstrates that transcriptional regulation of invasion genes is not achieved simply through the regulated transcription of hilA .
+It seems likely that further study of this system will lead to the discovery of further complexity .
+Many other regulators that affect TTSS gene transcription have been identified , including six regulatory loci outside SPI1 ( 4 ) and a gene for a third AraC family member , hilD , within SPI1 ( 38 ) .
+It is unclear whether these newly identified loci fall into HilAdependent or HilA - independent pathways and whether the list of identified regulatory loci is complete .
+Ordered expression of the components of TTSSs is well illustrated by the transcriptional regulation of flagellar genes and the assembly of the flagella in Salmonella ( 29 ) .
+Expression of the flagellar components is associated with the order in which the components are assembled ( 19 ) .
+It is likely that the SPI1 TTSS genes are also expressed in an ordered fashion that reflects assembly of the organelle .
+The regulation of these genes seems to be more complex than the regulation of flagellar genes in that there are more regulatory loci involved in the network controlling SPI1 TTSS gene expression .
+This is reflective of the fact that the conditions under which the SPI1 TTSS is expressed are more specific than the conditions under which flagella are expressed .
+Regulatory pathways with multiple branches , each responding to different environmental signals , may be a means to achieve ordered expression .
+The discovery of the HilA - independent branch of the regulatory network controlling expression of SPI1 genes demonstrates that this network is more complex than previously believed .
+This work was supported by grant 1 - RO1 - A141069 - 01A2 from the National Institutes of Health to S.I.M. J.L.R. is supported by a predoctoral training grant from the National Science Foundation ( DGE 9616736 ) .
+We gratefully acknowledge the technical assistance of Christine Johnston .
+We thank members of the Miller laboratory and Steve Moseley for helpful discussions and assistance , and we thank Wendy Pabich for assistance with statistical analysis .
+We thank Tyler Kimbrough and Cathy Lee for strains and/or information prior to publication and Tom Elliot for the unpublished DNA sequences of sirB ORF2 and ORF1 .
+Bajaj , V. , C. Hwang , and C. A. Lee .
+hilA is a novel ompR/toxR family member that activates the expression of Salmonella typhimurium invasion genes .
+Bajaj , V. , R. L. Lucas , C. Hwang , and C. A. Lee .
+Co - ordinate regulation of Salmonella typhimurium invasion genes by environmental and regulatory factors is mediated by control of hilA expression .
+Behlau , I. , and S. I. Miller .
+A PhoP - repressed gene promotes Salmonella typhimurium invasion of epithelial cells .
+Bonifield , H. , and S. Miller .
+Chen , L. , K. Kaniga , and J. Galan .
+Salmonella spp. are cytotoxic for cultured macrophages .
+Davis , R. W. , D. Botstein , and J. R. Roth .
+Advanced bacterial genetics : a manual for genetic engineering .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 7 .
+Eichelberg , K. , K. Kaniga , and J. E. Galán .
+Transcriptional regulation of Salmonella secreted virulence determinants , abstr .
+In Abstracts of the 96th General Meeting of the American Society for Microbiology .
+ASM Press , Washington , D.C. 8 .
+Ernst , R. K. , D. M. Dombroski , and J. M. Merrick .
+Anaerobiosis , type 1 fimbriae , and growth phase are factors that affect invasion of HEp - 2 cells by Salmonella typhimurium .
+Fu , R. , and S. R. Kushner .
+Construction of versatile low - copy - number vectors for cloning , sequencing and gene expression in Escherichia coli .
+Galán , J. E. , and R. Curtiss III .
+Cloning and molecular characterization of genes whose products allow Salmonella typhimurium to penetrate tissue culture cells .
+Galán , J. E. , and P. J. Sansonetti .
+Molecular and cellular bases of Salmonella and Shigella interactions with host cells , p. 2757 -- 2773 .
+In F. C. Neidhardt , R. Curtiss III , J. L. Ingraham , E. C. C. Lin , K. B. Low , B. Magasanik , W. S. Reznikoff , M. Riley , M. Schaechter , and H. E. Umbarger ( ed .
+) , Escherichia coli and Salmonella : cellular and molecular biology , 2nd ed .
+American Society for Microbiology , Washington , D.C. 12 .
+Gallegos , M. - T. , R. Schleif , A. Bairoch , K. Hofmann , and J. L. Ramos .
+AraC/XylS family of transcriptional regulators .
+Galyov , E. E. , M. W. Wood , R. Rosqvist , P. Mullan , P. R. Watson , S. Hedges , and T. S. Wallis .
+A secreted effector protein of Salmonella dublin is translocated into eukaryotic cells and mediates inflammation and fluid secretion in infected ileal mucosa .
+Ginocchio , C. C. , S. B. Olmsted , C. L. Wells , and J. E. Galán .
+Contact with epithelial cells induces the formation of surface appendages on Salmonella typhimurium .
+Pathogenesis of systemic disease , p. 2774 -- 2787 .
+In F. C. Neidhardt , R. Curtiss III , J. L. Ingraham , E. C. C. Lin , K. B. Low , B. Magasanik , W. S. Reznikoff , M. Riley , M. Schaechter , and H. E. Umbarger ( ed .
+) , Escherichia coli and Salmonella : cellular and molecular biology , 2nd ed .
+American Society for Microbiology , Washington , D.C. 16 .
+Gunn , J. S. , E. L. Hohmann , and S. I. Miller .
+Transcriptional regulation of Salmonella virulence : a PhoQ periplasmic domain mutation results in increased net phosphotransfer to PhoP .
+Gunn , J. S. , and S. I. Miller .
+PhoP - PhoQ activates transcription of pmrAB , encoding a two - component regulatory system involved in Salmonella typhimurium antimicrobial peptide resistance .
+Type III protein secretion systems in bacterial pathogens of animals and plants .
+Hughes , K. , K. Gillen , M. Semon , and J. Karlinsey .
+Sensing structural intermediates in bacterial flagellar assembly by export of a negative regulator .
+Johnston , C. , D. A. Pegues , C. J. Hueck , C. A. Lee , and S. I. Miller .
+Transcriptional activation of Salmonella typhimurium invasion genes by a member of the phosphorylated response - regulator superfamily .
+Kaniga , K. , J. C. Bossio , and J. E. Galán .
+The Salmonella typhimurium invasion genes invF and invG encode homologues of the AraC and PulD family of proteins .
+Kimbrough , T. , and S. Miller .
+Kubori , T. , Y. Matsushima , D. Nakamura , J. Uralil , M. Lara - Tejero , A. Sukhan , J. Galan , and S. Aizawa .
+Supramolecular structure of the Salmonella typhimurium type III protein secretion system .
+Lee , C. A. , and S. Falkow .
+The ability of Salmonella to enter mammalian cells is affected by bacterial growth state .
+Lee , C. A. , B. D. Jones , and S. Falkow .
+Identification of a Salmonella typhimurium invasion locus by selection for hyperinvasive mutants .
+Lindgren , S. , I. Stojiljkovic , and F. Heffron .
+Macrophage killing is an essential virulence mechanism of Salmonella typhimurium .
+Lundrigan , M. D. , and C. F. Earhart .
+Gene envY of Escherichia coli K - 12 affects thermoregulation of major porin expression .
+MacBeth , K. J. , and C. A. Lee .
+Prolonged inhibition of bacterial protein synthesis abolishes Salmonella invasion .
+Flagella and motility , p. 123 -- 145 .
+In F. C. Neidhardt , R. Curtiss III , J. L. Ingraham , E. C. C. Lin , K. B. Low , B. Magasanik , W. S. Reznikoff , M. Riley , M. Schaechter , and H. E. Umbarger ( ed .
+) , Escherichia coli and Salmonella : cellular and molecular biology , 2nd ed .
+American Society for Microbiology , Washington , D.C. 30 .
+McCormick , B. , S. Colgan , C. Delp - Archer , S. Miller , and J. Madara .
+Salmonella typhimurium attachment to human intestinal epithelial monolayers : transcellular signalling to subepithelial neutrophils .
+McCormick , B. A. , S. I. Miller , C. Delp - Archer , and J. T. Madara .
+Transepithelial signaling to neutrophils by Salmonella : a novel virulence mechanism for gastroenteritis .
+Michaelis , S. , H. Inouye , D. Oliver , and J. Beckwith .
+Mutations that alter the signal sequence of alkaline phosphatase in Escherichia coli .
+Experiments in molecular genetics .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 34 .
+Miller , S. I. , A. M. Kukral , and J. J. Mekalanos .
+A two - component regulatory system ( phoP phoQ ) controls Salmonella typhimurium virulence .
+Miller , S. I. , and J. J. Mekalanos .
+Constitutive expression of the PhoP regulon attenuates Salmonella virulence and survival within macrophages .
+Monack , D. , B. Raupach , A. Hromockyj , and S. Falkow .
+Salmonella typhimurium invasion induces apoptosis in infected macrophages .
+Pegues , D. A. , M. J. Hantman , I. Behlau , and S. I. Miller .
+PhoP/PhoQ transcriptional repression of Salmonella typhimurium invasion genes : evidence for a role in protein secretion .
+Schecter , L. , S. Damrauer , and C. Lee .
+Two AraC/XylS family members can independently counteract the effect of repressing sequences upstream of the hilA promoter .
+Skorupski , K. , and R. K. Taylor .
+Positive selection vectors for allelic exchange .
+Strohmaier , H. , P. Remler , W. Renner , and G. Högenauer .
+Expression of genes kdsA and kdsB involved in 3 - deoxy - D-manno - octulosonic acid metabolism and biosynthesis of enterobacterial lipopolysaccharide is growth phase regulated primarily at the transcriptional level in Escherichia coli K - 12 .

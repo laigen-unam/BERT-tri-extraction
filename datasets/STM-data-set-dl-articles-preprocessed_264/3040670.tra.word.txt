@@ -1,0 +1,271 @@
+JOURNAL OF BACTERIOLOGY , Sept. 1987 , p. 3976 - 3981 0021 - 9193/87 / 093976 - 06 $ 02.00 / 0 Vol .
+169 , No. 9 Comparison of dnaA Nucleotide Sequences of Escherichia coli , Salmonella typhimurium , and Serratia marcescens OLE SKOVGAARDt AND FLEMMING G. HANSEN * Department of Microbiology , Technical University of Denmark , DK - 2800 Lyngby , Denmark The dnaA genes of SalmoneUa typhimurium and Serratia marcescens , which complemented the temperaturesensitive dnaA46 mutation of Escherichia coli , were cloned and sequenced .
+They were very homologous to the dnaA gene of E. coli .
+The 63 N - terminal amino - acids and the 333 C - terminal amino - acids of the corresponding DnaA proteins were identical .
+The region in between , corresponding to 71 amino - acids in E. coli , exhibited a number of changes .
+This variable region coincided with a nonhomologous region found in the comparison of E. coli dnaA and Bacillus subtilis `` dnaA '' genes .
+The regions upstream of the genes were also homologous .
+The ribosome - binding area , one of the promoters , the DnaA protein - binding site , and many GATC sites ( Dam methyltransferase - recognition sequence ) were conserved in these three enteric bacteria .
+The DnaA protein is an essential factor in initiation of DNA replication at oriC in Escherichia coli ( 34 ) .
+The DnaA protein affects the frequency of initiation .
+In dnaA ( Ts ) mutants , in which DnaA protein activity is low , the initiation frequency per cell mass is decreased ( 10 , 15 , 19 , 32 ) .
+In a cold - sensitive revertant of the dnaA46 mutant , the initiation frequency is increased ( 18 ) ; this increase also occurs when the DnaA protein is overproduced ( e.g. , with a dnaA gene controlled by a PL promoter ) ( 3 ) .
+The function of the DnaA protein is still not known , although it binds to DNA at specific sites ( DnaA boxes ) in the oriC region ( 12 ) .
+The DnaA protein also binds to the DnaA box in the dnaA promoter region ( 4 , 12 ) .
+The DnaA protein probably interacts with several other proteins : the , B subunit of the RNA polymerase ( 1 ) , the DnaB protein ( 11 ) , the DnaZ protein ( 37 ) , and the groE gene products ( 9 , 17 ) .
+Thus , the DnaA protein is possibly involved in the assembly of the initiation complex .
+The dnaA gene of E. coli has been sequenced .
+It encodes the DnaA protein with a Mr of 52,500 ( 13 , 29 ) .
+The dnaA gene is expressed from two promoters , dnaAlp and dnaA2p ( 14 ) , and the expression is regulated by the DnaA protein itself .
+This autoregulation depends on the DnaA box located between the two promoters ( 2 , 4 , 18a ) .
+The DNA sequence encompassing the origin of replication of Bacillus subtilis has been determined ( 24 ) .
+It was found to contain a gene ( `` dnaA '' ) coding for a protein homologous to the E. coli DnaA protein ( 28 ) .
+To extend the comparative study of this essential initiation factor , we cloned and sequenced the dnaA genes of two enteric bacteria , Salmonella typhimurium and Serratia marcescens .
+We compared the nucleotide sequences and the amino - acid sequences ( deduced from the nucleotide sequences ) with those of the E. coli dnaA gene and DnaA protein , and we found that the three genes were very horpologous .
+This study complements the study of Zyskind and co - workers ( 39 ) , who have compared origins of replication from different enteric bacteria and found them to be very homologous .
+* t Present address : Institute I , Life Sciences and Chemistry , University of Roskilde , DK - 4000 Roskilde , Denmark .
+3976 MATERIALS AND METHODS Bacterial strains and plasmids .
+E. coli MT102 is an hsdR derivative of MC1000 ( 6 ) constructed by M. Trier - Hansen ; E. coli FH1220 trp - 3 his4 thi - J dnaA46 pyrB : : Tn5 and CM2517 metB46 trp - 3 his4 thi - J dnaA46 recAl were used for complementation tests ( both strains are derived from CM734 ) ( 16 ) .
+Plasmid pFHC539 ( 35 ) was used as a hybridization probe .
+pGV455 is a sequencing vector analogous to those described in reference 33 .
+Strain TA98 ( 23 ) was used to isolate S. typhimurium chromosomal DNA , and strain W225 ( 38 ) was used to isolate S. marcescens chromosomal DNA .
+Cultures were grown in NY medium ( 36 ) .
+Preparation of plasmid DNA , use of restriction enzymes ( from New England J3ioLabs , Inc. , or Amersham Corp. ) , ligation , and transformation were according to Maniatis et al. ( 20 ) .
+Southern DNA - DNA hybridization experiments ( 31 ) were carried out to determine the restriction map of the dnaA regions of S. marcescens and S. typhimurium .
+Chromosomal DNA was cut with different restriction enzymes , separated by agarose gel electrophoresis , denatured , transferred to filters ( GeneScreen or GeneScreen Plus ; New England Nuclear Corp. ) , and hybridized with nick - translated ( kit from Amersham ) pFHC539 DNA ( pFHC539 carries the intact dnaA gene of E. coli ) .
+Hybridization and washings were carried out at 60 °C .
+Restriction fragments enriched for the dnaA gene of S. marcescens were purified from a digest of total chromosomal DNA as follows .
+Fragments of 4 to 6 kilobase pairs were electrophoresed 10 cm into an agarose gel and then collected by further electrophoresis onto DEAE membranes ( NA45 ; Schleicher & Schuell , Inc. ) which were repeatedly inserted into the same slit cut in front of the fragments .
+This process allowed us to pool chromosomal DNA fragments in welldefined size classes .
+The DNA fragments were eluted from the DEAE membrane with buffer ( 1.5 M NaCl , 7 mM Tris hydrochloride [ pH 8.0 ] , 1 mM EDTA , 0.1 mg of tRNA per ml ) at 70 °C for 30 min and recovered by ethanol precipitation .
+Fragment pools which were enriched for the dnaA gene were identified by dot - blot analysis ( samples denatured at 95 °C were spotted onto GeneScreen - Plus membrane ) with nick - translated pFHC539 DNA as the hybridization probe .
+169 , 1987 dnaA GENES FROM ENTERIC BACTERIA 3977 A 0 -- 0 - o - 0 -0 - - 0 - = 1 = pFHC539 C E Ev X/S 1 - z z z ~ B ( a Oj m : - 0 - 0 - - - - 0 - 0 - @ - 0 -- 0 o 0 -0 & t - t # 0 0 - 0 -- 0 Q 0 0 FIG. 1 .
+Sequencing strategies for the S. typhimurium ( A ) and S. marcescens ( B ) dnaA genes .
+Only restriction sites used in the nucleotide sequencing are indicated .
+DNA fragments were end labeled by using Klenow polymerase and the appropriate 32P - labeled deoxynucleoside triphosphate .
+Symbols : 0 , fragments labeled directly ; 0 , fragments cloned in the sequencing vector pGV455 and then sequenced .
+Nucleotide sequencing was according to Maxam and Gilbert ( 22 ) .
+Plasmids pOSC277 ( S. marcescens ) and pOSC292 ( S. typhimurium ) were used as sources of DNA .
+The sequencing strategy is shown in Fig. 1 .
+Part of the S. typhimurium sequence was obtained with fragments subcloned in the ClaI site of pGV455 ( 33 ) .
+RESULTS AND DISCUSSION Restriction mapping and cloning of the dnaA regions of S. typhimurium and S. marcescens .
+Plasmid pFHC539 carrying the wild - type E. coli dnaA gene ( 35 ) was used to probe for homologous sequences in S. typhimurium and S. marcescens .
+We obtained hybridization signals from both bacteria , and we could construct restriction maps of the regions homologous to the E. coli dnaA gene ( Fig. 2 ) .
+We cloned the S. marcescens dnaA gene as follows .
+The 4.7 - kilobase - pair BamHI fragment from S. marcescens ( Fig. 2 ) , which hybridized to pFHC539 , was purified approximately 50 times ( see Materials and Methods ) and cloned into pBR322 .
+A library of 100 clones was screened for the presence of the 1,000 - base - pair ( bp ) EcoRI fragment characteristic of the dnaA region ( Fig. 2 ) .
+The plasmid DNA from one of these clones was subsequently found to hybridize to the E. coli dnaA region in a Southern experiment with nick - translated A tna - dnaA phage DNA ( 16 ) as a probe .
+This plasmid ( pOSC269 ) contained two different BamHI fragments of 4.7 kilobase pairs .
+We subcloned the 1,950 - bp BamHI - EcoRV fragment ( Fig. 2 ) and obtained plasmid BamHI EcoRV sty -LCB- l I EcoRl ------- i Hindill a -LCB- .
+l ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ a I a l. w I I I kbp BamHI EcoRV EcoRI FIG. 2 .
+Restriction enzyme map of the dnaA regions of S. typhimurium ( Sty ) and S. marcescens ( Sma ) derived from the hybridization experiments .
+, Extent of E. coli DNA carried on plasmid pFHC539 .
+0 0 0 pOSC292 to rnpA rpmH a E EvE pOSC277 dnaA dnaN ' .
+Structure of plasmids carrying dnaA genes from E. coli ( pFHC539 [ 35 ] ) , S. typhimurium ( pOSC292 ) , and S. marcescens ( pOSC277 ) .
+The three plasmids are pBR322 derivatives , with the chromosomal DNA inserted into the tet gene .
+Only the chromosomal part and the tet gene of pBR322 are shown .
+E - i , Chromosomal genes ; , tet gene .
+Arrows , orientation of the genes .
+Restriction enzyme sites : C , ClaI ; E , EcoRI ; Ev , EcoRV ; S , Sall ; X , XhoI ; t , TaqI .
+The dnaA ( Ts ) strains ( e.g. , FH1220 [ dnaA46 ] and CM2517 [ dnaA46 recAll ) were transformed with plasmid pOSC277 at permissive temperature ( 300C ) , and all transformants were found to form colonies also at 42 °C .
+This complementation of dnaA ( Ts ) strains indicated that pOSC277 probably carried the intact dnaA gene .
+The Salmonella dnaA gene complements E. coli dnaA ( Ts ) strains ( 21 ) .
+Therefore , we used a library of clones containing partially TaqI - restricted S. typhimurium DNA inserted in pBR322 to transform a dnaA46 strain ( FH1220 ) .
+One clone ( pOSC292 ) was obtained at 420C ( approximately 10,000 transformants were obtained at 37 °C ) , and restriction analysis demonstrated that it contained the 1,300 - bp EcoRI - EcoRV and 1,000 - bp EcoRI fragments in accordance with the restriction map of the S. typhimurium dnaA region ( Fig. 2 ) .
+This clone exhibited slow - growth , which could be ascribed to the presence of the rpmH gene ( data not shown ) .
+E. coli clones containing the rpmH and dnaA genes also exhibit slow - growth ( unpublished observation ) .
+The structure of plasmid pOSC292 is shown in Fig. 3 .
+Plasmids pOSC277 and pOSC292 were examined in maxicell experiments ( 30 ) .
+In agreement with the complementation data , we found that the dnaA genes from S. typhimurium and S. marcescens were expressed efficiently in E. coli ( data not shown ) .
+Comparison of the dnaA gene sequences .
+The DNA sequences of the dnaA genes ( and part of the dnaN genes ) from the three enteric bacteria are shown in Fig. 4 .
+The divergence of the dnaA genes was 12.2 % between E. coli and S. typhimurium , 16.0 % between E. coli and S. marcescens , and 17.1 % between S. typhimurium and S. marcescens ( deletions and insertions are not counted in this calculation ) .
+This comparison demonstrated that the dnaA genes from the three enteric bacteria were very homologous .
+Most of the nucleotide differences were situated in the third base position of the codon .
+Therefore , the relationships among the three bacteria become more striking when the amino - acid sequences of the proteins are compared .
+The 63 N - terminal amino - acids and the 333 C - terminal amino - acids were identical ( except for a shift from proline to alanine in S. marcescens at amino - acid - residue 194 ) .
+Figure 5 shows the remaining 71 amino - acids aligned for the three species .
+There were 15 amino - acids which were different in E. coli and S. typhimurium , and the S. typhimurium protein was one amino acid shorter .
+The S. marcescens DnaA protein exhibited 22 amino - acid differences in this region and had an insert of four and deletions of seven amino - acids as compared with the E. 3978 SKOVGAARD AND HANSEN J. BACTERIOL .
+Eco ' Sty Sma dnaAlp -331 ... -101 Eco TTAGATCGATTAAGCCAATTTTTGTCTATGG Sma GGATCCGGTGGATAACAGGGTATAACCGGTT -300 .
+DnaA - box -201 TCATTAAATTTTCCAATATGCGGCGTAAATCGTGCCCGCCTCGCGGCAGGATC ` GTTTACACTTAGCGAGTTCTGGAAAGTCCTGTGGATAAATCGGGAAA CTJ ... T. ... T. CGCG ... G. .
+-101 ATCTGTGAGAAACAGAAGATCTC ` TTGCiGCAGTTTAGGCTATGATCGCGGTCCCGATCGTTTTGCAGGATCTTGATCGOGCATATAACCOCAGACAGCGG Eco Sty ... ... .
+GC TCA ... I. CGA.C.TCATG.CG .
+G G CACA - $ D -1 E. - 100 .
+Eco TTCGTGCGTCACCCTCAAGCAGGGTCTTTTCGACGTACGTCAA'CAATCATGAATGTTTCAGCCTTA 6TCATTATCGACT ` TTTGTTCGAGTGGAGTCCGCC Sty .
+C.T. ... T Ṫ T T Sma .
+CȦ.T1.GC.C.TT.CTT.TC T ... ' 4G IATAAAAAAGT T M S L S L W Q Q C L A R L Q D E L P A T E F S M W I R P L 0 A E L 1 .
+SO ... 100 EGo GTGTCACTTTCGCTTTGGCAGCAGTGTCTTGCCCGATTGCAGGATGAGTTACCAGCCACAGAATTCAGTATGTGGATACGCCCATTGCAGGCGGAACTGA Sty ... .
+T. T. 50 S D N T L A Y A P N f F V L D W V R D K Y L N N IN G L L T S F C 101 ... 150 ... 200 Eco GCGATAACACGCTGGCCCTGTAC4GCGCCAAACCGtTTTGTCCTCGATTGGGTACGGGACAAGTACCTTAATAATATCAATGGACTGCTAACCAGT , TTCTG Sty .
+T 1 00 G AD A P Q L R F E V G T K P V T Q T P Q A A V T S N V A A P AQ 201 20 .
+Go.GIII GT , GATC , AGMUA V A Q T Q P Q R A A P S T R S G W D N V P A P A E P T Y R S N V N 301 ... 350 ... 400 Eco GTGGCGCAAACGCAGCCGCAACGTGCTGCGCCTTCTACGCGCTCAGGTTGGGATAACGTCCCGGCCCCGGCAGAACCGACCTATCGtTTTAACGTAAACG Sty ACAA.AACG ... .
+C. Co. T. Smi III .
+IC.GAĊ ... C. ... CGG ... G.AAC.C .
+C 150 V K H T DON F V E G K S N Q L A R A A A R Q V A D N P G G A Y N P 401 .
+C ; oT.T Sma Co C. C. .
+G. C ... C. 200 L FL Y G G T G L G K T L L H A V G N G I M A R K P N A K V V Y 5 01 ... 550 ... 600 Eco GTTGTTCCTTTATGGbGGCACGGGTCTGGGTAAAACTCACCTGCTGCATGCGGTGGGTAACGGCATTATGGCGCGCAAGCCGAATGCCAAAGTGGTTTAT Sty .
+C. C. C 201 M H S E R F V Q D M V K A L Q N N Al E E F K R Y Y R S V 0 A L L 601 .
+250 I D D I Q F F A N K E R S Q E E F H T F N A L L EG N Q Q I I L T 701 ... - b .
+169 , 1987 dnaA GENES FROM ENTERIC BACTERIA 3979 300 S D R Y P K E N G V E D R L K S R F G W G L T V A E P P E L E 801 ... 850 .
+900 Eco CTCGGATCGCTATCCGAAAGAGATCAACGGCGTTGAGGATCGTTTGAAATCCCGCTTCGGTTGGGGACTGACTGTGGCGATCGAACCGCCAGAGCTGGAA Sty G. ... .
+G. T.G.A.A. Sma T. C.T. .
+G. C. G.G. G. .
+301 T R V A I L M K K A D E N D R L P G E V A F F A K R L R S N V 901 ... 950 .
+... A. ... A. A. C. G. ... CC .
+G. Sma ... * ~ ~ ~ ~ ~ ~ ~ ~ 350 R E L E G AL N R V I A N A N F T G R A T I D F V RE A L R D L L 1001 ... 1050 ... 1100 Eco GTGAGCTGGAAGGGGCGCTGAACCGCGTCATTGCCAATGCCAACTTTACCGGACGGGCGATCACCATCGACTTCGTGCGTGAGGCGCTGCGCGACTTGCT Sty ... .
+T. G.G. C. T. T. T.C. .
+TC ... 400 A L Q E K L V T D N Q K T V A E Y Y K I K V A D L L S K R R S 1101 .
+1200 Eco GGCATTGCAGGAAAAACTGGTCACCATCGACAATATTCAGAAGACGGTGGCGGAGTACTACAAGATCAAAGTCGCGGATCTCCTTTCCAAGCGTCGATCC Sty ... G. C.T.A.A.T. G.T. T Sma ... GC .
+G 401 R S V A R P R Q M A M A L A K E L TN H S L P E I G O A F G G R D 1201 ... 1250 ... 1300 Eco CGCTCGGTGGCGCGTCCGCGCCAGATGGCGATGGCGCTGGCGAAAGAGCTGACTAACCACAGTCTGCCGGAGATTGGCGATGCGTTTGGTGGCCGTGACC Sty ... A. .
+T A CC T AAC CG Sma .
+C.C. ... 450 467 H T T V L H A C R K E Q L R E E S H D K E D F SN L R T L S S 1301 ... 1350 ... 1400 Eco ACACGACGGTGCTTCATGCCTGCCGTAAGATCGAGCAGTTGCGTGAAGAGAGCCACGATATCAAAGAAGATTTTTCAAATTTAATCAGAACATTGTCATC Sty ... .
+1 M K F T V E R E H L L K P L Q Q V S G P L G G R P T L P I L G 1401 ... 1450 ... 1500 Eco GTAAACCTATGAAATTTACCGTAGAACGTGAGCATTTATTAAAACCGCTACAACAGGTGAGCGGTCCGTTAGGTGGTCGTCCTACGCTACCGATTCTCGG Sty .
+C. G. Sma A. .
+CT. G. C. G. .
+50 N L L L Q V A D G T L S L T G T D L E M E M V A R V A L V Q P H E 1501 ... 1550 ... 1600 Eco TAATCTGCTGTTACAGGTTGCTGACGGTACGTTGTCGCTGACCGGTACTGATCTCGAGATGGAAATGGTGGCACGTGTTGCGCTGGTTCAGCCACACGAG Sty .
+CT. C. C. G. G. .
+Comparison of the nucleotide sequences of the dnaA genes and flanking sequences of E. coli ( Eco ) , S. typhimurium ( Sty ) , and S. marcescens ( Sma ) .
+The S. typhimurium and S. marcescens sequences are aligned with the E. coli sequence , which is numbered relative to the first base in the dnaA start codon .
+, Conserved base ; , deleted base ; inserted bases are indicated below the respective sequences .
+The dnaA promoters , ribosome - binding sites ( S.D. [ Shine - Dalgarno sequence ; 30a ] ) , and DnaA boxes are shown above the E. coli sequence .
+The amino - acid sequences of the E. coli DnaA protein and of the first part of the DnaN protein are also indicated above the sequences .
+GATC sequences ( Dam methylation sites ) are underlined .
+This variable region of the DnaA protein We suggest that the identity of the N - terminal and C - from the three enteric bacteria coincides precisely with the terminal domains of the DnaA protein indicates a constraint region in the B. subtilis `` dnaA '' gene product which has no on the evolution of the gene , which may be due to many homology to the E. coli DnaA protein ( 28 ) .
+inherent functions of the DnaA protein , e.g. , binding to the DnaA boxes , possible formation of oligomers , interaction with RNA polymerase , or interaction with other proteins .
+S. typhimurium and S. marcescens showed the same 63 - 100 - 135 pattern at the dnaA - dnaN transition as that seen in E. coli Sty LNTFCGADAPQLRFEVG ; KPVTQ TLKTiVH NVVAPAQTTTAQPQRVAPAARSGWDNVPAPAEPTYRSNVNVK ( 29 ) , i.e. , the dnaA stop codon followed by four nucleotides : tI ... t. ... .
+NVAI111 11A1T1P 1 a d lii4 c d n ~ Wea l Eca LTSFCGADAPQLRFEVGTKPVTQ TPQAAVTSNVAAPAQVAQTQPQRASTRSGNVPAPAEPTYRSNVNVK TRSG INVPPAETYRSNVNVK and then the dnaN start codon ( Fig. 4 ) .
+We were able to Sma LNDFCGTDAPLLRFEVGSKPITQVISQTVTAGVSSAPAAPA ART AAPS RPSWDNAAAQPELSYRSNVNPK compare the 64 N - terminal amino - acids of the three dnaN FIG. 5 .
+Compan ` son of the amino - acid sequences in the variable gene products , and we found that this replication factor was regions of E. coli ( Eco ) , S. typhimurium ( Sty ) , and S. marcescens also conserved ; S. typhimurium showed a divergence of two ( Sma ) .
+1 , Identical amino - acid - residues ; : , conservative changes of amino - acids , and S. marcescens showed a divergence of amino - acid - residues .
+seven amino - acids when compared with E. coli .
+3980 SKOVGAARD AND HANSEN J. BACTERIOL .
+Eco -224 Eco/Sma Sna -331 Sma / Sma Sma -224 Eco/Sma Eco -224 dnaA 2p DnaA - box AAGTCCTGTGGATAAATGG ( GAAAATCTGT GAGAAACAGi AAGATCTCTTGCGCAGT TTAGGCTATGATCCGCGGTCCGGATCGTTTTGCAGGATCTTGATGGG GCAT IIIlIllItIl 11if I II 1111I 11 I 11 III I 1I 11 - 111111 GGATCQGGTGGATAACAGGG TATAACcGGTTGACAATGTA AAAAACGCG GCGCAGCGGCOGGATCTGCGCGGTCATTC GG GCTGGGGTGAAA GATCGCCGCCG I IIIIIIIIIII llll lllllll llllii l 1111 llll ll II Ill1111 GCGOGGTGTGGATAAATGGATCTAATCTGT GAGGAAGGAGATCTCTTGCTCGGA TTGCGCTATGATCCGTCATCC GATCGGGATCCTCATGCCGGATCGT GAGG IIIIIIIIIII 1111111 II 11 I lllllllI l l lllllll IIII11111 liii !
+I l ll I AAGTCCTGTGGATAAATOGG GAAAATCTGT GAGAAAC AAGATCTCTTGCGCAGT TTAGGCTATGATCCGGGTCCGGATCGTTTTGCAGGATCTTGATCGG GCAT FIG. 6 .
+Comparison of nucleotide sequences in the promoter regions of E. coli ( Eco ) and S. marcescens ( Sma ) .
+Coordinates are the same as those described in the legend to Fig. 4 .
+-11 7 -225 -11 7 -11 7 A comparison of gene products in the three bacteria used in this study has been carried out in a number of other studies .
+The TrpG protein ( 194 amino - acids ) has 8 amino - acid changes from E. coli to S. typhimurium and 35 amino - acid changes from E. coli to S. marcescens ( 26 ) .
+The TrpA protein ( 268 amino - acids ) has 40 changes from E. coli to S. typhimurium ( 27 ) .
+The TrpB protein ( 397 amino - acids ) has 14 changes from E. coli to S. typhimurium ( 8 ) .
+The Lpp protein ( 78 amino - acids ) has 6 changes from E. coli to S. marcescens ( 25 ) .
+In all these cases , the amino - acid differences are more evenly distributed in the proteins than was observed for the DnaA protein .
+Also , a comparison at the nucleotide level indicates that fewer constraints on these genes have been present during evolution .
+The catabolite activator protein amino - acid sequences from E. coli and S. typhimurium have also been compared .
+Only one amino - acid divergence was found ( 7 ) .
+The catabolite activator protein is also a protein with several functions , i.e. , subunit - subunit interaction , binding of cyclic AMP , and binding to the specific DNA sequences .
+We believe that the very high conservation of the catabolite activator protein and of the two domains of the DnaA protein demonstrates that the more different molecular interactions are carried out by a protein , the higher the evolutionary contraint will be .
+Comparison of the dnaA promoter regions .
+A comparison of the regions upstream of the three dnaA genes is shown in Fig. 4 .
+It can be seen that the dnaA - proximal promoter , dnaA2p , was almost identical in the three species .
+Also , the DnaA box TTATCCACA was conserved .
+Sites for Dam methylation ( GATC sequences ) are underlined in Fig. 4 .
+All three species exhibited a high number of Dam methylation sites in the dnaA promoter region , as well as in a region of the structural gene .
+This latter region in the E. coli dnaA gene contained a DnaA box - like sequence which had degenerated in the two other organisms .
+Methylation of a GATC sequence in the dnaA2p promoter region , which was conserved in the three species , is essential for initiation of transcription from this promoter in E. coli ( 5 , 18a ) .
+Thus , the main regulatory region of the dnaA gene in E. coli ( 2 , 4 ) was highly conserved .
+The region upstream of the DnaA box in S. typhimurium also showed homology with the dnaAlp promoter region of E. coli .
+The -10 sequences ( TACACT ) were identical , whereas the -35 regions differed .
+For S. marcescens , no homology with the corresponding region in E. coli could be observed .
+A closer look ( Fig. 6 ) revealed that the sequence upstream of the DnaA box in S. marcescens showed significant homology with the dnaA2p region .
+We conclude from this comparison that the dnaA2p promoter area has been duplicated in S. marcescens .
+However , several changes have occurred in the duplicated area , making it difficult to recognize a -10 sequence , and a mutation in the DnaA box has also occurred .
+The nucleotide sequencing has not been extended beyond the BamHI site in S. marcescens .
+Therefore , we can not exclude the possibility that a promoter analogous to dnaAlp is present upstream of the BamHI site .
+The region between the dnaA2p promoter and the dnaA gene is conserved in S. typhimurium , except for a large insertion of 53 bp in a region with otherwise good homology .
+S. marcescens showed less homology in this region .
+However , the 22 bp upstream of the start of the structural gene , which contain the ribosome binding site , were identical , indicating that dnaA gene expression at the translational level ( translation initiation frequency ) might be very similar in the three organisms .
+We thus conclude that the regulation of expression of the dnaA gene in the three bacterial species probably is identical .
+We thank Tove Atlung , Kaspar von Meyenberg , and Andrew Wright for stimulating discussions and editorial advice .
+This work was supported by grants from the NOVO foundation , the Carlsberg Foundation , the Danish Natural Science Research Council , and the Danish Technical Science Research Council .
+Allele - specific suppression of dnaA ( Ts ) mutations by rpoB mutations in Escherichia coli .
+Atlung , T. , E. S. Clausen , and F. G. Hansen .
+Autoregulation of the dnaA gene of Escherichia coli .
+Atlung , T. , A. L0bner - Olesen , and F. G. Hansen .
+Overproduction of DnaA protein stimulates initiation of chromosome and minichromosome replication in Escherichia coli .
+Braun , R. E. , K. O'Day , and A. Wright .
+Autoregulation of the DNA replication gene dnaA in E. coli K - 12 .
+Braun , R. E. , and A. Wright .
+DNA methylation differentially enhances the expression of one of the two E. coli dnaA promoters in - vivo and in - vitro .
+Casadaban , M. J. , and S. N. Cohen .
+Analysis of gene control signals by DNA fusion and cloning in E. coli .
+Cossart , P. , E. A. Groisman , M. - C .
+Serre , M. J. Casadaban , and B. Gicquel - Sanzey .
+crp genes of Shigella flexneri , Salmonella typhimurium , and Escherichia coli .
+Crawford , I. P. , B. P. Nichols , and C. Yanofsky .
+Nucleotide sequence of the trpB gene in Escherichia coli and Salmonella typhimurium .
+Louarn , and C. Georgopoulos .
+Suppression of the Escherichia coli dnaA46 mutation by amplification of the groES and groEL genes .
+Studies on the regulation of initiation of chromosome replication in Escherichia coli .
+Frey , J. , M. Chandler , and L. Caro .
+The initiation of chromosome replication in a dnaAts46 and a dnaA + strain at various temperatures .
+Fuller , R. S. , B. E. Funnell , and A. Kornberg .
+The dnaA complex with the E. coli chromosomal replication origin ( oriC ) and other DNA sites .
+Hansen , E. B. , F. G. Hansen , and K. von Meyenburg .
+The nucleotide sequence of the dnaA gene and the first part of the dnaN gene of Escherichia coli K - 12 .
+Hansen , F. G. , E. B. Hansen , and T. Atlung .
+The nucleotide sequence of the dnaA gene promoter and of the adjacent rpmH gene , coding for the ribosomal protein L34 , of Escherichia coli .
+Hansen , F. G. , and K. V. Rasmussen .
+Regulation of the dnaA product in Escherichia coli .
+Hansen , F. G. , and K. von Meyenburg .
+Characterization of the dnaA , gyrB and other genes in the dnaA region of the Escherichia coli chromosome on specialized transducing phages X tna .
+Jenkins , A. J. , J. B. March , I. R. Oliver , and M. Masters .
+A DNA fragment containing the groE genes can suppress mutations in the Escherichia coli dnaA gene .
+Kellenberger - Gujer , G. , A. J. Podhajska , and L. Caro .
+A cold sensitive dnaA mutant of E. coli which overinitiates chromosome replication at low - temperature .
+Kucherer , C. , H. Lother , R. Kolling , M. - A .
+Schauzu , and W. Messer .
+Regulation of transcription of the chromosomal dnaA gene of Escherichia coli .
+Lycett , G. W. , E. Orr , and R. H. Pritchard .
+Chloramphenicol releases a block in initiation of chromosome replication in a dnaA strain of Escherichia coli K - 12 .
+Maniatis , T. , E. F. Fritsch , and J. Sambrook .
+Molecular cloning : a laboratory manual .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 21 .
+Maurer , R. , B. C. Osmond , E. Shekhtman , A. Wong , and D. Botstein .
+Functional interchangeability of DNA replication genes in Salmonella typhimurium and Escherichia coli demonstrated by a general complementation procedure .
+Maxam , A. M. , and W. Gilbert .
+Sequencing end - labeled DNA with base - specific chemical cleavages .
+McCann , J. , N. E. Spingarn , J. Kobori , and B. N. Ames .
+Detection of carcinogens as mutagens : bacterial tester strains with R factor plasmids .
+Moriya , S. , N. Ogasawara , and H. Yoshikawa .
+Structure and function of the region of the replication origin of the Bacillus subtilis chromosome .
+Nucleotide sequence of some 10,000 base pairs in the origin region .
+Nakamura , K. , and M. Inouye .
+DNA sequence of the Serratia marcescens lipoprotein gene .
+Nichols , B. P. , G. F. Miozzari , M. van Cleemput , G. N. Bennett , dnaA GENES FROM ENTERIC BACTERIA 3981 and C. Yanofsky .
+Nucleotide sequence of the trpG regions of Escherichia coli , Shigella dysenteriae , Salmonella typhimurium and Serratia marcescens .
+Nichols , B. P. , and C. Yanofsky .
+Nucleotide sequence of the trpA of Salmonella typhimurium and Escherichia coli : an evolutionary comparison .
+Ogasawara , N. , S. Moriya , K. von Meyenburg , F. G. Hansen , and H. Yoshikawa .
+Conservation of genes and their organization in the chromosomal replication origin region of Bacillus subtilis and Escherichia coli .
+Ohmori , H. , M. Kimura , T. Nagata , and Y. Sakakibara .
+Structural analysis of the dnaA and dnaN genes of Escherichia coli .
+Sancar , A. , A. M. Hack , and W. D. Rupp .
+Simple method for identification of plasmid - coded proteins .
+Shine , J. , and L. Dalgarno .
+The 3 ' - terminal sequence of Escherichia coli 16S ribosomal RNA : complementarity to nonsense triplets and ribosome binding sites .
+Detection of specific sequences among DNA fragments separated by gel electrophoresis .
+Tippe - Schindler , R. , G. Zahn , and W. Messer .
+Control of the initiation of DNA replication in Escherichia coli .
+I. Negative control of initiation .
+Volckaert , G. , E. de Vleeschouwer , H. Blocker , and R. Frank .
+A novel type of cloning vectors for ultrarapid chemical degradation sequencing of DNA .
+von Meyenburg , K. , and F. G. Hansen .
+Regulation of chromosome replication , p. 1555 - 1577 .
+In F. C. Neidhardt , J. L. Ingram , K. B. Low , B. Magasanik , M. Schaechter , and H. E. Umbarger ( ed .
+) , Escherichia coli and Salmonella typhimurium : cellular and molecular biology .
+American Society for Microbiology , Washington , D.C. 35 .
+von Meyenburg , K. , F. G. Hansen , T. Atlung , L. Boe , I. G. Clausen , B. van Deurs , E. B. Hansen , B. B. J0rgensen , F. J0rgensen , L. Koppes , 0 .
+Michelsen , J. Nielsen , P. E. Pedersen , K. V. Rasmussen , E. Riise , and 0 .
+Facets of the chromosomal origin of replication , oriC , of Escherichia coli , p. 260 - 281 .
+In M. Schaechter , F. C. Neidhardt , J. Ingraham , and N. 0 .
+) , Molecular biology of bacterial growth .
+Jones and Bartlett Publishers , Inc. , Boston .
+von Meyenburg , K. , B. B. J0rgensen , J. Nielsen , and F. G. Hansen .
+Promoters of the atp operon coding for the membrane bound ATP synthase of Escherichia coli mapped by TnIO insertion mutations .
+Walker , J. R. , J. A. Ramsey , and W. G. Haldenwang .
+Interaction of the Escherichia coli dnaA initiation protein with the dnaZ polymerization protein in - vivo .
+Mutants of Serratia marcescens defective or superactive in the release of a nuclease , p. 187 - 201 .
+In H. G. Wittmann and H. Schuster ( ed .
+Springer - Verlag KG , Berlin .
+Zyskind , J. W. , J. M. Cleary , W. S. A. Brusilow , N. E. Harding , and D. W. Smith .
+Chromosomal replication origin from the marine bacterium Vibrio harveyi functions in E. coli : oriC consensus sequence .

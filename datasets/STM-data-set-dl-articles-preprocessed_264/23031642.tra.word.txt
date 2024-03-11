@@ -1,0 +1,297 @@
+BMC Microbiology 2012 , 12:224 http://www.biomedcentral.com/1471 - 2180/12/224 RESEARCH ARTICLE Open Access A connecter - like factor , CacA , links RssB/RpoS and the CpxR/CpxA two - component system in Salmonella Akinori Kato * , Hironori Hayashi , Wataru Nomura , Haruka Emori , Kei Hagihara and Ryutaro Utsumi Abstract Background : Bacteria integrate numerous environmental stimuli when generating cellular responses .
+Increasing numbers of examples describe how one two - component system ( TCS ) responds to signals detected by the sensor of another TCS .
+However , the molecular mechanisms underlying this phenomenon remain poorly defined .
+Results : Here , we report a connector - like factor that affects the activity of the CpxR/CpxA two - component system in Salmonella enterica serovar Typhimurium .
+We isolated a clone that induced the expression of a cpxP - lac gene fusion from a high - copy - number plasmid pool of random Salmonella genomic fragments .
+A 63 - amino - acid protein , CacA , was responsible for the CpxA/CpxR - dependent activation of the cpxP gene .
+The CpxR - activated genes cpxP and spy exhibited approximately 30 % and 50 % reductions in transcription , respectively , in a clean cacA deletion mutant strain in comparison to wild - type .
+From 33 response regulator ( RR ) deletion mutants , we identified that the RssB regulator represses cacA transcription .
+Substitution mutations in a conserved -10 region harboring the RNA polymerase recognition sequence , which is well conserved with a known RpoS -10 region consensus sequence , rendered the cacA promoter RpoS - independent .
+The CacA - mediated induction of cpxP transcription was affected in a trxA deletion mutant , which encodes thioredoxin 1 , suggesting a role for cysteine thiol - disulfide exchange ( s ) in CacA - dependent Cpx activation .
+Conclusions : We identified CacA as an activator of the CpxR/CpxA system in the plasmid clone .
+We propose that CacA may integrate the regulatory status of RssB/RpoS into the CpxR/CpxA system .
+Future investigations are necessary to thoroughly elucidate how CacA activates the CpxR/CpxA system .
+Background The two - component system ( TCS ) is one of the most ubiquitous signal transduction systems in bacteria [ 1 ] .
+A prototypical TCS harbors a sensor histidine kinase ( HK ) , which is often integrated into the inner membrane , and a response regulator ( RR ) , which is predominantly a cytoplasmic DNA - binding transcription factor .
+In the presence of a specific activating signal , the sensor HK is autophosphorylated , and a phosphoryl group is subsequently transferred to a conserved aspartate residue in its cognate RR , thus changing gene expression patterns and cell physiology .
+Each TCS responds to specific environmental * Correspondence : Department of Advanced Bioscience , Graduate School of Agriculture , Kinki University , Nakamachi , Nara 631 -- 8505 - 3327 - 204 , Japan signals but elude identification even in the wellinvestigated organisms Escherichia coli and Salmonella .
+Due to the high levels of sequence and structure similarity among different TCSs , cross - talk ( i.e. , phosphotransfer from a HK to its non - cognate RR ) may occur in at least some circumstances .
+However , cross - talk is extremely rare due to the kinetic preference of a sensor HK for its cognate RR [ 2 ] and their phosphatase activities [ 3 ] .
+To date , several small proteins connecting TCSs have been reported in Salmonella and E. coli [ 4,5 ] .
+For example , the 85 - amino - acid PmrD protein , which is transcriptionally induced by the PhoP/PhoQ system under low Mg 2 + conditions , binds to the phosphorylated form of the regulator PmrA and hinders its dephosphorylation by the cognate sensor PmrB [ 6 ] .
+Therefore , expression of PmrA - activated genes , some of which are responsible Commons Attribution License ( http://creativecommons.org/licenses/by/2.0 ) , which permits unrestricted use , distribution , and reproduction in any medium , provided the original work is properly cited .
+BMC Microbiology 2012 , 12:224 Page 2 of 12 http://www.biomedcentral.com/1471 - 2180/12/224 for polymixin B resistance and iron resistance in Salmonella , is induced even in the absence of an Fe 3 + signal [ 7 ] .
+The small anti - adapter proteins IraP and IraM , which promote the stability of the stationary - phase sigma S factor ( RpoS ) of RNA polymerase by hindering an RR ( RssB ) , are also transcriptionally activated by the PhoP/PhoQ system in response to low Mg 2 + conditions in Salmonella [ 8 ] and E. coli [ 9 ] , respectively .
+In contrast to these cytosolic connectors , the small inner membrane proteins SafA ( B1500 ) [ 10 ] and MzrA [ 11 ] were identified as signal transducers between two TCSs by targeting downstream sensor HKs .
+SafA elicits a response from the PhoQ sensor to the PhoP regulator even under high Mg 2 + conditions when the EvgS1 mutan protein [ 12 ] induces the EvgA - activated safA gene constitutively [ 10 ] .
+Alternatively , MzrA interacts with the EnvZ sensor to control OmpR - regulated gene transcription when mzrA expression is induced in a constitutively activated CpxA * mutant background [ 13 ] in E. coli .
+The membrane peptide MgrB [ 14,15 ] , which corresponds to a single TCS , communicates the activation status of the PhoP regulator to its cognate sensor PhoQ in E. coli and Salmonella [ 15 ] .
+In contrast , the unique membrane peptide PmrR mediates the feedback control of the PmrA/PmrB system indirectly in Salmonella [ 16 ] .
+The CpxR/CpxA system regulates pilus assembly , adherence , and biofilm development in response to envelope stress and is required for host cell invasion in several species , including pathogenic E. coli and Salmonella [ 17 ] .
+The periplasmic chaperone CpxP binds to both the CpxA periplasmic domain and to certain misfolded proteins , which are degraded by the periplasmic protease DegP , therefore integrating information about their turnover status to the kinase activity of CpxA [ 18 - 20 ] .
+The outer membrane lipoprotein NlpE activates the CpxA protein upon its overexpression [ 21 ] and is required for CpxA protein activation after adhering to hydrophobic surfaces [ 22 ] .
+Additional upstream components have been proposed to integrate other stresses in a process that is independent of the CpxP and NlpE pathways [ 17,23 ] .
+For example , the CpxR/CpxA system confers a copper resistance phenotype even in CpxP and NlpE mutants [ 24 ] .
+Notably , nlpE ( cutF or STM0241 ) is a pseudogene in Salmonella [ 25 ] .
+Here , we aimed to identify candidate connector genes that may integrate the signals of other systems .
+We identified a small protein as a novel connector - like factor from screening high copy plasmid clones that could affect the CpxR/CpxA system status .
+Results Identification of a plasmid clone that activates cpxP transcription To conduct a genetic screen for novel connector proteins acting on the CpxR/CpxA system , we constructed a strain harboring a cpxP - lac transcriptional - fusion in Salmonella .
+The cpxP gene was chosen as a readout of the activation status of the CpxR/CpxA system because it is likely directly regulated exclusively by this system , unlike other CpxR - activated genes that are also controlled by envelope stress - responsive systems [ 26 - 28 ] .
+The lacZY genes were inserted after the cpxP stop codon to ensure that the CpxP protein retained the ability to repress the CpxR/CpxA system .
+Then , Salmonella chromosomal DNA was partially digested with Sau3AI and ligated with the high - copy - number plasmid pUC19 ( digested with BamHI ) to generate a DNA fragment library .
+Of approximately 10,000 cpxP - lac Salmonella transformants , a plasmid clone termed pWN1 yielded stable blue colonies on LB plates containing 5 - bromo - 4 - chloro - 3-indolyl - β-D - galactoside ( X - gal ) and ampicillin and was isolated four times .
+The blue color of the pWN1 strain was due to elevated cpxP - lac fusion expression .
+We demonstrated that this strain exhibit ~ 8 - fold higher β - galactosidase activity than the same strain harboring the vector control or the plasmid clone pUC19 - R1 that was randomly selected during the screening as a negative control ( Figure 1A ) .
+Sequence analysis revealed that pWN1 harbors only the intact STM1852 open reading frame ( ORF ) , which appeared to encode a 63 - amino - acid protein with no homology to any protein of known function , as well as the 3 ' region of STM1851 and the 5 ' region of pphA ( Figure 1B ) .
+Expression of STM1852 from tetracycline - ( Figure 1C ) or L - arabinose - ( Figure 1D ) inducible promoters recapitulated the increase in the β - galactosidase activity observed in the cpxP - lac strain , supporting the hypothesis that STM1852 was affecting cpxP transcription in the pWN1 plasmid .
+Here , we named STM1852 `` Cpx activating connector - like factor - A '' , or CacA .
+CacA - mediated cpxP activation is dependent on the CpxR/CpxA system The results described above demonstrated that cpxP transcription was induced when CacA was expressed from a high - copy - number plasmid or from a heterologous promoter in an inducer - dependent manner .
+Next , we compared the β - galactosidase activities of the cpxPlac fusion from cpxR and cpxA mutant strains harboring pBAD18 - cacA to an isogenic cpxR + A + strain containing the same plasmid ( Figure 1D ) .
+We determined that CacA acts upstream of the CpxR/CpxA system because the activities of the cpxR and cpxA mutant strains expressing CacA were comparable to that of the isogenic cpxR + A + strain with vector ( i.e. , pBAD18 ) alone ( Figure 1D ) .
+This was further supported by the observation that another CpxR - activated gene , spy , was induced by CacA protein overexpression ( Figure 1C ) .
+Moreover , CacA likely acts on the CpxR/CpxA system specifically Kato et al. .
+BMC Microbiology 2012 , 12:224 Page 3 of 12 http://www.biomedcentral.com/1471 - 2180/12/224 Figure 1 The identification of a novel connector - like factor , CacA .
+A. β - galactosidase activity from a cpxP - lac transcriptional - fusion expressed in the wild - type strain ( AK1052 ) harboring pUC19 , pUC19 - R1 , and pWN1 .
+Bacteria were grown for 4 h in LB before β - galactosidase activity was measured ( Miller units ) .
+The data correspond to the means of two independent experiments performed in duplicate , and the error bars represent standard deviations .
+A genetic map of the cacA ( STM1852 ) locus in Salmonella .
+Each arrow indicates a gene and its orientation in the chromosome .
+The chromosomal location corresponding to the inserted DNA fragment of the pWN1 plasmid clone is indicated by a horizontal bar .
+C. β - galactosidase activity from cpxP - lac or spy - lac transcriptional - fusions in a wild - type ( AK1052 or AK1053 ) strain harboring pASK or pASKcacA .
+Bacteria were grown for 2 h in LB in the presence of 0.2 μg/ml anhydrotetracycline ( ATc ) before β - galactosidase activity was measured ( arbitrary units ) as described [ 42 ] .
+The data correspond to the means of three independent experiments performed in duplicate , and the error bars represent standard deviations .
+D. β - galactosidase activity from a cpxP - lac transcriptional - fusion in the wild - type strain ( AK1052 ) harboring pBAD18 or pBAD18 - cacA and the ΔcpxR mutant ( AK1061 ) and ΔcpxA mutant ( AK1062 ) strains harboring pBAD18 - cacA .
+Bacteria were grown for 4 h in LB in the presence ( + ) or absence ( − ) of 5 mM L - arabinose before β - galactosidase activity was measured ( Miller units ) .
+The data correspond to the means of two independent experiments performed in duplicate , and the error bars representstandardrepresent standard deviations .
+E. β - galactosidase activity from cpxP - lac or spy - lac transcriptional - fusions in a wild - type strain ( − ; AK1052 or AK1053 ) and a ΔcacA mutant strain ( AK1075 or AK1076 ) .
+Bacteria were grown for 4 h in N - minimal - medium , pH 7.7 with 10 μM Mg2 + before β - galactosidase activity was measured ( arbitrary units ) as described [ 42 ] .
+The data correspond to the means of three independent experiments performed in duplicate , and the error bars represent standard deviations .
+Single and double asterisks indicate p < 0.05 and p < 0.01 , respectively , using an unpaired t test for analysis .
+BMC Microbiology 2012 , 12:224 Page 4 of 12 http://www.biomedcentral.com/1471 - 2180/12/224 because expression of CacA did not affect genes under the direct control of other TCSs ( data not shown ) .
+cacA transcription is activated by RpoS but repressed by RssB Next , we asked whether the cacA gene might be regulated by an undefined upstream TCS .
+To examine candidate TCSs that could potentially affect cacA transcription , we constructed a strain with a cacA promoter - lac fusion 1 ( i.e. , P cacA - lac 1 ) at the pgtP locus on the Salmonella chromosome .
+Then , 33 RR mutant stocks were independently transduced into the P cacA - lac 1 strain by phage P22 .
+Whereas most RR mutants exerted minor or no effects on transcription from the cacA promoter ( data not shown , Figure 2A ) , the rssB mutant exhibited a ~ 1.5 - fold increase in cacA promoter activity ( Figure 2A ) .
+Because RssB is the adaptor protein that recruits RpoS to the ClpXP protease , we examined the effect of a ΔrpoS mutant on transcription from the cacA promoter .
+As expected , the rpoS gene was required for cacA expression ( Figures 2A and 2B ) .
+Consistent with these observations , an alignment of the cacA promoter regions from Salmonella and its related enteric species revealed a conserved sequence that is present in an RpoS - dependent consensus -10 region sequence ( CTAcacT from -13 to -7 ) [ 29 ] ( Figure 3A ) .
+Moreover , although the location of the predicted -10 region correlates well with a transcription start site ( TSS ) determined by a genome - scale precise mapping of TSSs that covered 78 % of the Salmonella ORFs [ 30 ] , no obvious typical -35 region sequence exists upstream of the -10 nucleotides ( Figure 3A ) .
+We mutated this -10 sequence from TCCTACACT to TCGTACACT ( -14 C/G ) , ACGTACACT ( -16 T/A -14 C/G ) , or TCCTTCACA ( -12 A/T -8 T/A ) and analyzed their effects on cacA transcription ( Figures 3B and 3C ) .
+In the ΔrpoS mutant , the β - galactosidase activity of the cacA promoter was approximately 1/3 of wild - type levels ( Figure 3C ) .
+However , the β - galactosidase activities from the cacA promoter containing -14 C/G or -16 T/A -14 C/G substitutions were not affected by the ΔrpoS mutationafter4hofgrowthinLB , indicating that these substitution mutations rendered the cacA promoter RpoS - independent ( Figure 3C ) .
+Conversely , when the essential nucleotides -12 A and -8 T of the canonical -10 region sequence , which permits recognition by both RpoD and RpoS , were mutated , cacA promoter activity was abolished independent of RpoS presence ( Figure 3C ) .
+Taken together , these results demonstrated that the activation of the cacA promoter is dependent on the -10 region sequence , which harbors an RpoS recognition site .
+Transcription of the CpxR - activated genes cpxP and spy is attenuated in a cacA mutant Because RpoS activates cacA expression , we assessed whether a cacA deletion mutation would affect transcription of the CpxA/CpxR - dependent cpxP and spy genes in low Mg 2 + , the conditions under which the PhoQ/PhoP - activated IraP prevents the RssB/ClpXPmediated degradation of RpoS , even at log phase [ 8 ] .
+We determined that CacA participates in CpxA/CpxR system activation because cpxP and spy expression levels Figure 2 Transcription of the cacA gene is activated by RpoS but repressed by RssB .
+A. β - galactosidase activity from a PcacA - lac transcriptional - fusion 1 in the wild - type ( − ; AK1056 ) , ΔcpxR mutant ( AK1063 ) , phoP mutant ( AK1064 ) , ΔrssB mutant ( AK1065 ) , and ΔrpoS mutant ( AK1066 ) strains .
+Bacteria were grown for 4 h in LB before β - galactosidase activity was measured ( Miller units ) .
+The data correspond to the means of two independent experiments performed in duplicate , and the error bars represent standard deviations .
+B. β - galactosidase activity from PcacAlac transcriptional - fusion 1 or 2 in a wild - type strain ( − ; AK1056 or AK1067 ) and a ΔrpoS mutant strain ( AK1059 or AK1071 ) .
+Note that the PcacA - lac 1 strain contains a DNA fragment encompassing the 3 ' region ( 80 bp ) of STM1851 and the intergenic region ( 110 bp ) between STM1851 and cacA , whereas the PcacA - lac 2 strain harbors only the intergenic region ( 110 bp ) between STM1851 and cacA preceding the lacZ gene ( See Methods ) .
+Bacteria were grown for 4 h in LB before β - galactosidase activity was measured ( arbitrary units ) as described [ 42 ] .
+The data correspond to the means of three independent experiments performed in duplicate , and the error bars represent standard deviations .
+The data in the panels A and B were obtained using two different methods .
+BMC Microbiology 2012 , 12:224 Page 5 of 12 http://www.biomedcentral.com/1471 - 2180/12/224 Figure 3 The cacA promoter harbors a conserved -10 region sequence that is crucial for RpoS - dependent regulation .
+A. Alignment of the DNA sequences of the intergenic region between the cacA - coding region and its upstream ORF ( STM1851 ) in E. coli ( ECO ) , C. koseri ( CKO ) , Enterobacter sp. 638 ( ENT ) , S. enterica serovar Typhimurium LT2 ( STM ) , Klebsiella pneumoniae ( KPN ) , and C. sakazakii ( ESA ) .
+Asterisks correspond to nucleotides that are conserved in all listed species .
+Twin dots and single dots indicate conservative and semiconservative substitutions , respectively .
+The -10 region sequence is marked in bold blue letters .
+The bent arrow indicates the transcription start site ( TSS ) of the cacA transcript , as determined by a recent report [ 30 ] ( designated position +1 ) .
+The inverted arrows indicate predicted Rho - independent terminator sequences .
+The initiation codons for the cacA gene are boxed .
+B. Designated mutations in the cacA promoter .
+The -10 region sequence ( CTAcacT from -13 to -7 ) [ 29 ] represents a consensus sequence that is recognized by RpoS .
+The -10 region sequence of the cacA promoter is highlighted in blue .
+The numbers shown above the wild - type sequence are the positions relative to the cacA TSS [ 30 ] .
+The substituted nucleotides ( -14 C/G , -16 T/A -14 C/G , and -12 A/T -8 T/A ) are underlined .
+C. β - galactosidase activity from a P cacA - lac transcriptional - fusion 2 in the wild - type ( − ; AK1067 ) , ΔrpoS mutant ( AK1071 ) , -14 C/G cacA promoter mutant ( AK1068 ) , ΔrpoS -14 C/G cacA promoter mutant ( AK1072 ) , -16 T/A -14 C/G cacA promoter mutant ( AK1069 ) , ΔrpoS -16 T/A -14 C/G cacA promoter mutant ( AK1073 ) , -12 A/T -8 T/A cacA promoter mutant ( AK1070 ) , and ΔrpoS -12 A/T -8 T/A cacA promoter mutant ( AK1074 ) strains .
+Bacteria were grown for 4 h in LB before β - galactosidase activity was measured ( arbitrary units ) as described [ 42 ] .
+The data correspond to the means of three independent experiments performed in duplicate , and the error bars represent standard deviations .
+were reduced by approximately 30 % and 50 % , respectively , in the cacA deletion mutant compared with wildtype ( Figure 1E ) .
+Thioredoxin 1 is required for the CacA - mediated activation of the CpxR/CpxA system Pull - down experiment of the Glutathione S Transferase ( GST ) - CacA fusion protein recovered the GroEL and thioredoxin 1 ( TrxA ) proteins , suggesting that they interact directly with CacA ( data not shown ) .
+Because GroEL has been shown to associate with proteins that are overexpressed , we did not investigate its role further .
+Instead , we focused on the effect of TrxA on the CacAmediated activation of the CpxR/CpxA system because CacA orthologs contain four conserved cysteine residues ( Figure 4A ) and because TrxA catalyzes thiol disulfide redox reactions in a variety of substrate proteins [ 31 ] .
+We investigated TrxC , another thioredoxin , and TrxB , which participates in the regeneration of reduced TrxA and TrxC [ 31 ] , as controls .
+Whereas mutations in trxA , trxB , and trxC did not affect cpxP transcription in strains harboring vector alone , the trxA mutant expressing CacA significantly decreased the levels of cpxP transcription compared to wild - type expressing CacA ( Figure 4B ) .
+These results indicate that TrxA is required for the CacA - mediated activation of the CpxR / Kato et al. .
+BMC Microbiology 2012 , 12:224 Page 6 of 12 http://www.biomedcentral.com/1471 - 2180/12/224 Figure 4 The CacA - dependent activation of the CpxR/CpxA requires functional thioredoxin 1 .
+A. Alignment of the amino - acid sequences of the CacA protein of S. enterica serovar Typhimurium LT2 ( STM ) , C. koseri ( CKO ) , E. coli ( ECO ) , C. sakazakii ( ESA ) , Enterobacter sp. 638 ( ENT ) , Klebsiella pneumoniae ( KPN ) , D. dadantii Ech703 ( DDA ) , and Rahnella sp. .
+Conserved cysteine residues are marked in bold blue letters .
+Asterisks indicate amino - acids that are conserved in all listed species .
+Twin dots and single dots indicate conservative and semiconservative substitutions , respectively .
+B. β - galactosidase activity from a cpxP - lac transcriptional - fusion in the wild - type ( AK1052 ) , ΔtrxA mutant ( AK1080 ) , ΔtrxB mutant ( AK1081 ) , and ΔtrxC mutant ( AK1082 ) strains harboring plasmids pASK or pASK - cacA .
+Bacteria were grown for 2 h in LB in the presence of 0.2 μg/ml ATc before β - galactosidase activity was measured ( arbitrary units ) as described [ 42 ] .
+The data correspond to the means of three independent experiments performed in duplicate , and the error bars represent standard deviations .
+Figure 5 A model for the regulatory interactions between RssB/RpoS and the CpxR/CpxA system .
+RpoS accumulates during stationary phase and log phase , when the small anti - adopter protein IraP inhibits the RssB/ClpXP - mediated degradation of RpoS in low Mg 2 + conditions [ 8 ] .
+RpoS induces expression of CacA , which stimulates the CpxR/CpxA system thus activating cpxP transcription .
+TrxA functionally associates with CacA - mediated Cpx induction .
+BMC Microbiology 2012 , 12:224 Page 7 of 12 http://www.biomedcentral.com/1471 - 2180/12/224 CpxA system .
+This suggests that cysteine thiol - disulfide exchanges participate in CacA - dependent Cpx activation .
+Discussion We identified CacA , encoded on a plasmid clone , as a novel connector - like factor that activated the CpxR / CpxA system from screening a library of high - copynumber plasmids containing various Salmonella chromosomal DNA fragments .
+CacA appears to exclusively act on the CpxR/CpxA system because a similar induction was not observed in other TCS reporter strains with the same clone .
+This observation was not just an artifact of CacA overexpression or from its expression driven by a heterologous promoter because deleting this gene revealed a moderate decrease in transcription of the cpxP and spy genes , which are directly regulated by the CpxR/CpxA system .
+Moreover , the activation of the cacA gene promoter is , at least in part , dependent on RpoS , the stability of which is subject to RssB/ClpXP - mediated processability and the -10 region sequence .
+Taken together , we hypothesize that CacA may integrate information about the regulatory status of RssB/RpoS into the CpxR/CpxA system ( Figure 5 ) .
+However , future investigations are necessary to fully elucidate the mechanism of CacA - mediated CpxR/CpxA activation .
+Several assessments of how the CacA protein activates CpxR - regulated genes were attempted .
+However , we did not detect a physical association between CacA and the CpxR/CpxA system .
+For example , no significant interaction was observed between the CacA protein and the CpxR/CpxA system in our bacterial two - hybrid system analyses ( data not shown ) , although we can not completely dismiss that these proteins do not interact directly .
+Instead , thioredoxin 1 amino - acid sequences were recovered by our pull - down assay .
+trxA inactivation impacted the activation of the CpxR/CpxA system by CacA , which possesses the conserved cysteine residues .
+This is in contrast to a report that demonstrated that a dsbD mutation activated the CpxR/CpxA system in Vibrio cholerae [ 32 ] , where the DsbC - DsbD pathway promotes proper folding of substrate proteins with disulfide bond ( s ) at the periplasm using the cytoplasmic reducing ability of thioredoxin [ 33 ] .
+Moreover , the cysteine residues of NlpE are critical for activating the CpxR / CpxA system in E. coli [ 34 ] , and a periplasmic LolA derivative with an artificial disulfide bond activates the CpxR/CpxA system [ 35 ] .
+Notably , perturbing the oxidizing environment of the periplasm in dsbA and dsbB mutants or treating wild - type cells with dithiothreitol ( DTT ) activated the PhoP/PhoQ system in E. coli [ 36 ] .
+Disruption of disulfide bond formation affects this system largely via an additional small protein component , MgrB , and its conserved cysteine residues .
+Currently , we can not exclude the possibility that the interaction between CacA and TrxA is an artifact CacA protein overexpression because TrxA interacts with many proteins , including the RR RcsB [ 37 ] .
+Because we were unable to detect the 63 - amino - acid CacA protein at native levels , we employed a larger tag or carrier protein in several biochemical experiments , including the pull - down assay .
+Protein instability likely precludes thorough analysis of small proteins of less than 50 amino acids or so [ 38 ] .
+Notably , deletion of trxA did not impact cpxP transcription levels in normal growth - conditions ( e.g. , LB - medium ) .
+More strict conditions need to be tested , as some small proteins accumulated within bacterial cells upon exposure to sodium dodecyl sulfate ( SDS ) and ethylenediaminetetraacetic acid ( EDTA ) [ 38 ] .
+The specificity that TCS connectors exhibit for their targets is likely a key contributing factor in the fidelity of the integration of TCS signals at a post - translational level .
+In fact , the PmrD connector protein can inhibit the dephosphorylation of phospho - PmrA but not of its closest homolog , the response regulator YgiX [ 6 ] .
+Although recognizing novel connectors in genomic sequences based on their uniqueness is far from trivial , genetic approaches will continue to help elucidate links amongst TCSs .
+Conclusions In this study , we identified the CacA protein as an activator of the CpxR/CpxA system .
+This factor may be another example of an emerging class of small proteins [ 39 ] that function as nodes in the TCS network and function to integrate their signaling pathways in Salmonella .
+Methods Bacterial strains , plasmids , primers , and growth - conditions Bacterial strains and plasmids used in this study are listed in Table 1 .
+Primers used in this study are listed in Table 2 .
+All S. enterica serovar Typhimurium strains are derived from wild - type 14028s and were constructed by phage P22 - mediated transduction as previously described [ 40 ] .
+Bacteria were grown at 37 °C in N - minimal media [ 41 ] buffered with 50 mM Bis - Tris , pH 7.7 , and supplemented with 0.1 % casamino - acids , 38 mM glycerol and 10 μM or10mM MgCl2 .
+E. coli DH5 α was used for preparing plasmid DNA .
+Ampicillin and kanamycin were used at 50 μg/ml , chloramphenicol at 20 μg/ml and tetracycline at 10 μg/ml .
+β - Galactosidase assay For data presented in Figures 1C , 1E , 2B , 3C , and 4B , a modified kinetic β - galactosidase assay was performed as previously described [ 42 ] .
+Salmonella cultures grown in LB overnight were diluted 50 times in fresh medium and Kato et al. .
+Culture aliquot ( 80 μl ) were added to individual wells of a clear 96 - well plate containing 20 μl Reporter Lysis buffer ( Promega , Madison , WI , USA ) .
+Cells were lysed by freezing at -80 °C and subsequent thawing at 37 °C for ~ 20 min .
+One hundred microliters of 1.32 mg/ml 2 - Nitrophenyl β - Dgalactopyranoside ( ONPG , Sigma - Aldrich , St. Louis , MO , USA ) in Z - buffer was then added to each well and mixed thoroughly .
+OD 415 for each well was read 20 times within 40 min at 25 °C using the Model 680 microplate reader ( BioRad , Hercules , CA , USA ) .
+β - galactosidase activity is reported in arbitrary units [ AU ] and represents the rate of ONPG conversion ( i.e. , Velocity , with units of mOD 415 per minute ) divided by the OD 595 of the bacterial culture at the time of collection .
+For data presented in Figures 1A , 1D , and 2A , β - galactosidase assays were performed in triplicate , and the activity in Miller units was determined as described [ 43 ] .
+Data correspond to mean values of two or three independent experiments performed in duplicate .
+Strain construction Strain AK1052 , which encodes a transcriptional - fusion of cpxP - lacZY on the chromosome , was constructed as described [ 44 ] .
+A Cm R cassette was amplified from pKD3 using the primers 35 and 36 and integrated immediately downstream of the stop codon of the cpxP gene on the 14028s chromosome by the one - step gene inactivation method [ 45 ] .
+The junction region of cpxP and the Cm R cassette was amplified from the chromosome and confirmed by direct nucleotide sequencing .
+After removing the Cm R cassette , the lacZY transcriptional - fusion plasmid pCE37 was integrated into the FLP recombination target sequence immediatel downstream of the cpxP gene by FLP - mediated recombination .
+Strain AK1053 , which encodes a transcriptional - fusion of spy - lacZY on the chromosome , was constructed as described [ 44 ] .
+A Cm R cassette was amplified from pKD3 using the primers 37 and 38 and integrated immediately downstream of the stop codon of the spy gene on the 14028s chromosome by the one - step gene inactivation method [ 45 ] .
+The junction region of spy and the Kato et al. .
+BMC Microbiology 2012 , 12:224 Page 9 of 12 http://www.biomedcentral.com/1471 - 2180/12/224 Table 2 Primers used in this study Primers Sequence ( 5 ' !
+After removing the Cm R cassette , the lacZY transcriptional - fusion plasmid pCE37 was integrated into the FLP recombination target sequence immediately downstream of the spy gene by FLP - mediated recombination .
+Strain AK1054 , which encodes a transcriptional - fusion of pgtP - lacZY on the chromosome , was constructed as described [ 44 ] .
+A Cm R cassette was amplified from pKD3 using the primers 84 and 85 and integrated immediately downstream of the stop codon of the pgtP gene on the 14028s chromosome by the one - step gene inactivation method [ 45 ] .
+The junction region of pgtP and the Cm R cassette was amplified from the chromosome and confirmed by direct nucleotide sequencing .
+After removing the Cm R cassette , the lacZY transcriptional fusion plasmid pCE37 was integrated into the FLP recombination target sequence immediately downstream of the pgtP gene by FLP - mediated recombination .
+Strain AK1055 , which encodes a transcriptional - fusion of tetA - lacZY on the chromosome , was constructed by the one - step gene inactivation method [ 45 ] .
+The tetA Kato et al. .
+BMC Microbiology 2012 , 12:224 Page 10 of 12 http://www.biomedcentral.com/1471 - 2180/12/224 gene was amplified from the MS7953s chromosomal DNA using the primers 451 and 452 and integrated between the pgtP gene and the lacZ gene in the AK1054 chromosome by the one - step gene inactivation method [ 45 ] .
+Strain AK1056 , which harbors a fusion of the cacA promoter and lacZY genes at the pgtP locus , was constructed by a combination of the one - step gene inactivation method and the counterselection method for Tet s colonies .
+A PCR fragment containing the cacA promoter was amplified from Salmonella chromosomal DNA using the primers 453 and 454 and recombined into the chromosome , replacing the tetA insertion in the strain AK1055 .
+Strain AK1067 , which harbors a fusion between the cacA promoter and the lacZY gene at the pgtP locus , was constructed by a combination of the one - step gene inactivation method and the counterselection method for Tet s colonies .
+A PCR fragment containing the cacA promoter was amplified from Salmonella chromosomal DNA using the primers 832 and 454 and recombined into the chromosome , replacing the tetA insertion in the strain AK1055 .
+Strain AK1068 , which harbors lacZY genes under the control of a mutant cacA promoter with a nucleotide substitution ( TCCTACACT to TCGTA CACT ) in the -10 region at the pgtP locus , was constructed by a combination of the one - step gene inactivation method and the counterselection method for Tet s colonies .
+A PCR fragment containing the mutant cacA promoter was amplified from Salmonella chromosomal DNA using the primers 832 , 833 , 834 , and 454 by the asymmetric PCR - based synthesis method [ 46 ] and recombined into the chromosome , replacing the tetA insertion in the strain AK1055 .
+Strain AK1069 , which harbors lacZY genes under the control of a mutant cacA promoter with two nucleotide substitutions ( TCCTA CACT to ACGTACACT ) in the -10 region at the pgtP locus , was constructed by a combination of the one - step gene inactivation method and the counterselection method for Tet s colonies .
+A PCR fragment containing the mutant cacA promoter was amplified from Salmonella chromosomal DNA using the primers 832 , 833 , 835 , and 454 by the asymmetric PCR - based synthesis method [ 46 ] and recombined into the chromosome , replacing the tetA insertion in the strain AK1055 .
+Strain AK1070 , which harbors lacZY genes under the control of a mutant cacA promoter with two nucleotide substitutions ( TCCTACACT to TCCTTCACA ) in the -10 region at the pgtP locus , was constructed by a combination of the one - step gene inactivation method and the counterselection method for Tet s colonies .
+A PCR fragment containing the mutant cacA promoter was amplified from Salmonella chromosomal DNA using the primers 832 , 833 , 836 , and 454 by the asymmetric PCR - based synthesis method [ 46 ] and recombined into the chromosome , replacing the tetA insertion in the strain AK1055 .
+Strain AK1057 , which harbors a deletion in the cpxA coding region , was constructed by the one - step gene inactivation method [ 45 ] .
+A Cm R cassette was amplified from pKD3 using the primers 393 and 394 and recombined into the 14028s chromosome .
+Strain AK1058 , which harbors a deletion in the rssB coding region , was constructed by the one - step gene inactivation method [ 45 ] .
+A Cm R cassette was amplified from pKD3 using the primers 367 and 368 and recombined into the 14028s chromosome .
+Strain AK1059 , which harbors a deletion in the rpoS coding region , was constructed by the one - step gene inactivation method [ 45 ] .
+A Cm R cassette was amplified from pKD3 using the primers 473 and 474 and recombined into the 14028s chromosome .
+Strain AK1060 , which harbors a deletion in the cacA coding region , was constructed by the one - step gene inactivation method [ 45 ] .
+A Cm R cassette was amplified from pKD3 using the primers 333 and 336 and recombined into the 14028s chromosome .
+Strain AK1077 , which harbors a deletion in the trxA coding region , was constructed by the one - step gene inactivation method [ 45 ] .
+A Cm R cassette was amplified from pKD3 using the primers 1160 and 1161 and recombined into the 14028s chromosome .
+Strain AK1078 , which harbors a deletion in the trxB coding region , was constructed by the one - step gene inactivation method [ 45 ] .
+A Cm R cassette was amplified from pKD3 using the primers 1164 and 1165 and recombined into the 14028s chromosome .
+Strain AK1079 , which harbors a deletion in the trxC coding region , was constructed by the one - step gene inactivation method [ 45 ] .
+A Cm R cassette was amplified from pKD3 using the primers 1166 and 1167 and recombined into the 14028s chromosome .
+Plasmid construction The pBAD18 - cacA plasmid , encoding the CacA protein , was constructed by cloning a PCR fragment , generated using the primers 337 and 338 from a pWN1 template , between the EcoRI and BamHI sites in the pBAD18plasmid.The pASK - cacA plasmid , encoding the CacA protein , was constructed by TA cloning [ 47 ] of a PCR fragment , generated using the primers 639 and 640 from a 14028s genomic DNA template , into the pASK - IBA3plus plasmid that had been digested with SmaI and T - tailed .
+Screening for a gene that activates the CpxR/CpxA system Chromosomal DNA prepared from an overnight culture of wild - type strain 14028s was digested with Sau3AI ( 0.01 U/μl ) for 4 h .
+The digested DNA was separated on a 0.8 % agarose gel , and 0.5 -- 5 kb fragments were collected and ligated to pUC19 plasmid DNA that had been digested with BamHI and dephosphorylated by alkaline phosphatase .
+The ligation mixture was transformed into E. coli DH5α , and ampicillin - resistant transformants Kato et al. .
+BMC Microbiology 2012 , 12:224 Page 11 of 12 http://www.biomedcentral.com/1471 - 2180/12/224 were selected .
+Plasmid DNA was prepared from a pool of ~ 100,000 transformants and used to transform the strain AK1052 .
+Transformants were serially diluted and spread onto LB plates containing ampicillin and 40 μg/ml X - gal to obtain 1,000 ~ 10,000 colonies per plate .
+Plasmids were isolated from colonies that developed a blue color on LB plates containing ampicillin and X - gal .
+These plasmids were reintroduced into AK1052 by electroporation , and four transformants were selected on LB plates containing ampicillin and X - gal .
+A random single white colony from the same plate was also selected as a negative control .
+Abbreviations ATc : Anhydrotetracycline ; AU : Arbitrary units ; CKO : Citrobacter koseri ; DDA : Dickeya dadantii Ech703 ; DTT : Dithiothreitol ; ECO : Escherichia coli ; EDTA : Ethylenediaminetetraacetic acid ; ENT : Enterobacter sp. 638 ; ESA : Cronobacter sakazakii ; GST : Glutathione S Transferase ; HK : Hisitidine kinase ; IPTG : Isopropyl - β-D - thiogalactopyranoside ; LB : Luria - Bertani ; KPN : Klebsiella pneumonia ; ONPG : 2 - Nitrophenyl β - D-galactopyranoside ; ORF : Open reading frame ; RAH : Rahnella sp. .
+Y9602 ; RR : Response regulator ; SDS : Sodium dodecyl sulfate ; STM : Salmonella enterica serovar Typhimurium LT2 ; TCS : Two - component system ; TSS : Transcription start site ; X - gal : 5 - Bromo - 4-chloro - 3-indolyl - β-D - galactoside .
+Competing interest The authors declare that they have no competing financial interests .
+Authors ' contributions AK designed the experiments .
+AK , HH , WN , HE , KH performed the experiments .
+AK wrote the manuscript .
+RU edited the manuscript .
+All authors read and approved the final manuscript .
+Acknowledgements This work was supported , in part , by Grant - in - Aid for Young Scientists ( Start - up ) 19810025 and ( A ) 23688013 from the Japan Society for the Promotion of Science ( JSPS ) , the Kato Memorial Bioscience Foundation , the Uehara Memorial Foundation , the Mochida Foundation , and the Inamori Foundation to AK .
+Received : 11 July 2012 Accepted : 21 September 2012 Published : 2 October 2012 References 1 .
+Ulrich LE , Zhulin IB : The MiST2 database : a comprehensive genomics resource on microbial signal transduction .
+Nucleic Acids Res 2010 , 38 ( Database issue ) : D401 -- 407 .
+Laub MT , Goulian M : Specificity in two - component signal transduction pathways .
+Bijlsma JJ , Groisman EA : Making informed decisions : regulatory interactions between two - component systems .
+Mitrophanov AY , Groisman EA : Signal integration in bacterial twocomponent regulatory systems .
+Kato A , Groisman EA : The PhoQ/PhoP regulatory network of Salmonella enterica .
+Adv Exp Med Biol 2008 , 631:7 -- 21 .
+Kato A , Groisman EA : Connecting two - component regulatory systems by a protein that protects a response regulator from dephosphorylation by its cognate sensor .
+Kox LF , Wosten MM , Groisman EA : A small protein that mediates the activation of a two - component system by another two - component system .
+Tu X , Latifi T , Bougdour A , Gottesman S , Groisman EA : The PhoP/PhoQ two - component system stabilizes the alternative sigma factor RpoS in Salmonella enterica .
+Proc Natl Acad Sci USA 2006 , 103 ( 36 ) : 13503 -- 13508 .
+Bougdour A , Cunning C , Baptiste PJ , Elliott T , Gottesman S : Multiple pathways for regulation of sigmaS ( RpoS ) stability in Escherichia coli via the action of multiple anti - adaptors .
+Eguchi Y , Itou J , Yamane M , Demizu R , Yamato F , Okada A , Mori H , Kato A , Utsumi R : B1500 , a small membrane protein , connects the twocomponent systems EvgS/EvgA and PhoQ/PhoP in Escherichia coli .
+Proc Natl Acad Sci USA 2007 , 104 ( 47 ) : 18712 -- 18717 .
+Gerken H , Charlson ES , Cicirelli EM , Kenney LJ , Misra R : MzrA : a novel modulator of the EnvZ/OmpR two - component regulon .
+Kato A , Ohnishi H , Yamamoto K , Furuta E , Tanabe H , Utsumi R : Transcription of emrKY is regulated by the EvgA - EvgS two - component system in Escherichia coli K - 12 .
+Cosma CL , Danese PN , Carlson JH , Silhavy TJ , Snyder WB : Mutational activation of the Cpx signal transduction pathway of Escherichia coli suppresses the toxicity conferred by certain envelope - associated stresses .
+Kato A , Tanabe H , Utsumi R : Molecular characterization of the PhoP - PhoQ two - component system in Escherichia coli K - 12 : identification of extracellular Mg 2 + - responsive promoters .
+Lippa AM , Goulian M : Feedback inhibition in the PhoQ/PhoP signaling system by a membrane peptide .
+Kato A , Chen HD , Latify T , Groisman EA : Reciprocal Control Between a Bacterium 's Regulatory System and the Modification Status of its Lipopolysaccharide .
+Vogt SL , Raivio TL : Just scratching the surface : an expanding view of the Cpx envelope stress response .
+Buelow DR , Raivio TL : Cpx signal transduction is influenced by a conserved N - terminal domain in the novel inhibitor CpxP and the periplasmic protease DegP .
+DiGiuseppe PA , Silhavy TJ : Signal detection and target gene induction by the CpxRA two - component system .
+Isaac DD , Pinkner JS , Hultgren SJ , Silhavy TJ : The extracytoplasmic adaptor protein CpxP is degraded with substrate by DegP .
+Proc Natl Acad Sci USA 2005 , 102 ( 49 ) : 17775 -- 17779 .
+Snyder WB , Davis LJ , Danese PN , Cosma CL , Silhavy TJ : Overproduction of NlpE , a new outer membrane lipoprotein , suppresses the toxicity of periplasmic LacZ by activation of the Cpx signal transduction pathway .
+Otto K , Silhavy TJ : Surface sensing and adhesion of Escherichia coli controlled by the Cpx - signaling pathway .
+Proc Natl Acad Sci USA 2002 , 99 ( 4 ) : 2287 -- 2292 .
+Raivio TL , Laird MW , Joly JC , Silhavy TJ : Tethering of CpxP to the inner membrane prevents spheroplast induction of the Cpx envelope stress response .
+Yamamoto K , Ishihama A : Characterization of copper - inducible promoters regulated by CpxA/CpxR in Escherichia coli .
+McClelland M , Sanderson KE , Spieth J , Clifton SW , Latreille P , Courtney L , Porwollik S , Ali J , Dante M , Du F , et al : Complete genome sequence of Salmonella enterica serovar Typhimurium LT2 .
+Raivio TL , Silhavy TJ : The sigmaE and Cpx regulatory pathways : overlapping but distinct envelope stress responses .
+Raffa RG , Raivio TL : A third envelope stress signal transduction pathway in Escherichia coli .
+Hagiwara D , Sugiura M , Oshima T , Mori H , Aiba H , Yamashino T , Mizuno T : Genome - wide analyses revealing a signaling network of the RcsC - YojN - RcsB phosphorelay system in Escherichia coli .
+Lee SJ , Gralla JD : Sigma38 ( rpoS ) RNA polymerase promoter engagement via -10 region nucleotides .
+Ramachandran VK , Shearer N , Jacob JJ , Sharma CM , Thompson A : The architecture and ppGpp - dependent expression of the primary transcriptome of Salmonella Typhimurium during invasion gene expression .
+Ritz D , Beckwith J : Roles of thiol - redox pathways in bacteria .
+BMC Microbiology 2012 , 12:224 Page 12 of 12 http://www.biomedcentral.com/1471 - 2180/12/224 32 .
+Slamti L , Waldor MK : Genetic analysis of activation of the Vibrio cholerae Cpx pathway .
+Stewart EJ , Katzen F , Beckwith J : Six conserved cysteines of the membrane protein DsbD are required for the transfer of electrons from the cytoplasm to the periplasm of Escherichia coli .
+Hirano Y , Hossain MM , Takeda K , Tokuda H , Miki K : Structural studies of the Cpx pathway activator NlpE on the outer membrane of Escherichia coli .
+Tao K , Watanabe S , Narita S , Tokuda H : A periplasmic LolA derivative with a lethal disulfide bond activates the Cpx stress response system .
+Lippa AM , Goulian M : Perturbation of the oxidizing environment of the periplasm stimulates the PhoQ/PhoP system in Escherichia coli .
+Kumar JK , Tabor S , Richardson CC : Proteomic analysis of thioredoxin - targeted proteins in Escherichia coli .
+Proc Natl Acad Sci USA 2004 , 101 ( 11 ) : 3759 -- 3764 .
+Hemm MR , Paul BJ , Miranda - Rios J , Zhang A , Soltanzad N , Storz G : Small stress response proteins in Escherichia coli : proteins missed by classical proteomic studies .
+Kato A , Mitrophanov AY , Groisman EA : A connector of two - component regulatory systems promotes signal amplification and persistence of expression .
+Proc Natl Acad Sci USA 2007 , 104 ( 29 ) : 12063 -- 12068 .
+Davis RW , Bolstein D , Roth JR : Advanced bacterial genetics .
+Cold Spring Harbor , N.Y. : Cold Spring Harbor Lab ; 1980 .
+Snavely MD , Gravina SA , Cheung T - BT , Miller CG , Maguire ME : Magnesium transport in Salmonella typhimurium : regulation of mgtA and mgtB expression .
+Camp AH , Losick R : A feeding tube model for activation of a cell - specific transcription factor during sporulation in Bacillus subtilis .
+Miller JH : Experiments in molecular genetics .
+Cold Spring Harbor , NY : Cold Spring Harbor Laboratory Press ; 1972 .
+Ellermeier CD , Janakiraman A , Slauch JM : Construction of targeted single copy lac fusions using lambda Red and FLP - mediated site - specific recombination in bacteria .
+Datsenko KA , Wanner BL : One - step inactivation of chromosomal genes in Escherichia coli K - 12 using PCR products .
+Proc Natl Acad Sci USA 2000 , 97 ( 12 ) : 6640 -- 6645 .
+Pan W , Ravot E , Tolle R , Frank R , Mosbach R , Turbachova I , Bujard H : Vaccine candidate MSP - 1 from Plasmodium falciparum : a redesigned 4917 bp polynucleotide enables synthesis and isolation of full - length protein from Escherichia coli and mammalian cells .
+Zhou MY , Gomez - Sanchez CE : Universal TA cloning .
+Curr Issues Mol Biol 2000 , 2 ( 1 ) : 1 -- 7 .
+Fields PI , Groisman EA , Heffron F : A Salmonella locus that controls resistance to microbicidal proteins from phagocytic cells .
+Hanahan D : Studies on transformation of Escherichia coli with plasmids .
+Tabor S , Richardson CC : A bacteriophage T7 RNA polymerase/promoter system for controlled exclusive expression of specific genes .
+Proc Natl Acad Sci USA 1985 , 82:1074 -- 1078 .
+Cherepanov PP , Wackernagel W : Gene disruption in Escherichia coli : Tc R and Km R cassettes with the option of Flp - catalyzed excision of the antibiotic - resistance determinant .
+Guzman L - M , Belin D , Carson MJ , Beckwith J : Tight regulation , modulation , and high - level expression by vectors containing the arabinose P BAD promoter .
+doi : 10.1186 / 1471 - 2180 - 12 - 224 Cite this article as : Kato et al. : A connecter - like factor , CacA , links RssB / RpoS and the CpxR/CpxA two - component system in Salmonella .

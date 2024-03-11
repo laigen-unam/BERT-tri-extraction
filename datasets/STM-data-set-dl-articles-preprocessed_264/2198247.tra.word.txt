@@ -1,0 +1,370 @@
+JOURNAL OF BACTERIOLOGY , Aug. 1990 , p. 4187 - 4196 0021 - 9193/90 / 084187 - 10 $ 02.00 / 0 Vol .
+172 , No. 8 Regulation of NAD Metabolism in Salmonella typhimurium : Molecular Sequence Analysis of the Bifunctional nadR Regulator and the nadA - pnuC Operon JOHN W. FOSTER , ' * YONG K. PARK ,2 THOMAS PENFOUND , l TERRY FENGER ,3 AND MICHAEL P. SPECTOR4 Department of Microbiology and Immunology , College of Medicine , ' and Department of Biomedical Sciences ,4 University of South Alabama , Mobile , Alabama 36688 ; Department of Biology , Han Nam University , Daejon , South Korea2 ; and Department of Microbiology , Marshall University School of Medicine , Huntington , West Virginia 257553 In Salmonella typhimurium , de novo synthesis of NAD is regulated through the transcriptional control of the nadA and nadB loci .
+Likewise , the pyridine nucleotide salvage pathway is controlled at pncB .
+The transcriptional expression of these three loci is coordinately regulated by the product of nadR .
+However , there is genetic evidence suggesting that NadR is bifunctional , serving in both regulatory and transport capacities .
+One class of mutations in the nadR locus imparts a transport - defective PnuA - phenotype .
+These mutants retain regulation properties but are unable to transport nicotinamide mononucleotide ( NMN ) intact across the cell membrane .
+Other nadR mutants lose both regulatory and transport capabilities , while a third class loses only regulatory ability .
+The unusual NMN transport activity requires both the PnuC and NadR proteins , with the pnuC locus residing in an operon with nadA .
+To prove that nadlR encoded a single protein and to gain insight into a regulatory target locus , the nadR and nadA pnuC loci were cloned and sequenced .
+A DNA fragment which complemented both regulatory and transport mutations was found to contain a single open reading frame capable of encoding a 409 - amino - acid protein ( 47,022 daltons ) , indicating that NadR is indeed bifunctional .
+Confirmation of the operon arrangement for nadA and pnuC was obtained through the sequence analysis of a 2.4 - kilobase DNA fragment which complemented both NadA and PnuC mutant phenotypes .
+The nadA product , confirmed in maxicells , was a 365 - amino - acid protein ( 40,759 daltons ) , while pnuC encoded a 322 - amino - acid protein ( 36,930 daltons ) .
+The extremely hydrophobic ( 71 % ) nature of the PnuC protein indicated that it was an integral membrane protein , consistent with its central role in the transport of NMN across the cytoplasmic membrane .
+The results presented here and in previous studies suggest a hypothetical model in which NadR interacts with PnuC at low internal NAD levels , permitting transport of NMN intact into the cell .
+As NAD levels increase within the cell , the affinity of NadR for the operator regions of nadA , nadB , and pncB increases , repressing the transcription of these target genes .
+Nicotinamide adenine dinucleotide ( NAD ) is of central importance to cellular metabolism .
+It functions as a cofactor in over 300 oxidation reduction reactions and as a substrate in several others ( e.g. , DNA ligase ) .
+Consequently , the maintenance of an optimal intracellular concentration of this nucleotide is of paramount importance .
+The cell may synthesize NAD de novo or from preformed pyridine compounds , such as nicotinic acid scavenged from the environment ( 5 ) .
+The initial steps of the de novo biosynthetic pathway , L - aspartate oxidase and quinolinic acid synthetase , and one of the components of the scavenging system , nicotinic acid ( NA ) phosphoribosyltransferase ( pncB ) , are transcriptionally regulated in Salmonella typhimurium as determined by lacZ operon fusion studies .
+Genes encoding quinolinic acid synthetase ( nadA ) and L - aspartate oxidase ( nadB ) are tnore tightly controlled than the pncB locus ( 4 , 8 , 9 , 17 , 18 ) .
+However , all three loci are under negative transcriptional control by the product of the nadR regulatory locus ( 4 , 8 ) .
+The nadR locus is located at 99 min on the Salmonella linkage map .
+Studies by other investigators refer to this regulator as nadI ( 28 ) .
+A highly unusual feature of the pyridine nucleotide - scavenging system in this organism is its ability to transport the phosphorylated pyridine compound nicotinamide mononucleotide ( NMN ) intact across the cytoplasmic membrane * 4187 ( 12 ) .
+At least two genetic loci have been implicated in this unique process of pyridine nucleotide uptake , pnuA and pnuC ( 23 ) .
+Mutations in either locus were found to severely reduce NMN uptake ( 23 ) .
+The pnuC product is an essential component of this transport process , while the role of PnuA can be supplanted by a mutation in pnuB .
+The pnuC locus maps at 17 min in an operon with nadA , while mutations giving rise to the PnuA - phenotype map at 99 min , near or in the nadR locus ( 4 , 8 , 28 , 29 ) .
+The fact that point mutations in the nadR region gave rise to three clearly discernible phenotypes affecting transcriptional regulation , NMN transport , or both ( NadR + PnuA - , NadR - PnuA + , and NadR - PnuA - , respectively ) provided the first indication that nadR might actually encode a bifunctional protein ( 4 , 28 ) .
+In addition , nadRs superrepressor mutations were identified that also conferred a partial PnuA - phenotype to the mutant cell ( 4 ) .
+The major question we wished to address was whether nadR did indeed code for a single protein .
+Definitive proof that nadR encodes a bifunctional transport - transcriptional regulatory protein demanded DNA sequence analysis of the cloned nadR gene .
+Additionally , the DNA sequences of a transcriptional target of NadR such as nadA and the cotransport locus pnuC were desirable for initiating studies of NadR interactions with DNA target sequences ( regulation ) and PnuC ( transport ) .
+The results of the DNA sequencing analysis confirm that nadR codes for a bifunctional protein and provide evidence 4188 FOSTER ET AL. that PnuC is an integral membrane protein .
+Based upon these and earlier results , a model for the bifunctional character of NadR is proposed .
+MATERIALS AND METHODS Bacterial strains , plasmids , bacteriophages , and cultural conditions used .
+The bacterial strains used in this study were derivatives of LT2 with the exception of the Escherichia coli maxicell strain CRS603 ( 19 ) .
+JF1057 is AnadA101 ApncAJ AnadR4 recAl Asrl galE hutR49 .
+JF1535 is zvnadA ApncA A ( nadR - serB ) nadB : : Mu dJ recA srl : : TnJO galE hutR .
+The plasmids used were pBR322 , pTZ18R , and pTZ19R ( Pharmacia ) .
+The bacteriophages M13mpl8 and M13mpl9 were used for some of the sequencing studies .
+Cultural conditions were as described previously ( 8 ) .
+Detection of the NadR - and PnuA - phenotypes .
+The NadR - regulatory phenotype was visualized as deregulated expression of a nadB - lacZ operon fusion on minimal - medium containing X - gal ( 5 - bromo - 4-chloro - 3-indolyl - 3-D - galactopyranoside ) ( 40 p.g / ml ) and either 10 - 4 or 10 - 6 M nicotinate for repressive and derepressive conditions , respectively .
+The PnuA - transport - defective phenotype was observed as the inability of a nadB pncA nadR mutant to grow on 10 - 4 M NMN .
+Use of JF1535 ( nadB - lac ApncA AnadR ) allowed us to monitor both the NadR - and PnuA - phenotypes of plasmids bearing a mutagenized nadR locus .
+Manipulation of DNA and DNA sequencing .
+Conventional recombinant DNA techniques were performed as described by Maniatis et al. ( 14 ) .
+DNA sequencing was carried out by the dideoxynucleotide method described by Sanger et al. ( 21 ) .
+Deletion fragments for DNA sequencing were produced by the single - stranded sequential method of Dale et al. ( 1 ) or the double - stranded sequential method of Henikoff ( 7 ) .
+Customized primers were synthesized in the Biopolymer Center at the University of South Alabama .
+Routine sequence data manipulations and analyses of DNA and protein sequences were performed with the Pustell sequence analysis system of International Biotechnologies , Inc. , New Haven , Conn. .
+Identification of plasmid - encoded proteins was accomplished by the maxicell method essentially as described by Sancar et al. ( 19 ) with modifications outlined by Foster and Aliabadi ( 3 ) .
+Alternatively , insertspecific gene products from plasmids containing a T7 promoter ( e.g. , pTZ19R ) were identified by a modification of the Tabor and Richardson T7 RNA polymerase procedure ( 26 ) .
+Cells containing a plasmid with a T7 promoter were transformed with pGP1 - 2 .
+The pGP1 - 2 plasmid contains the rifampin - resistant T7 RNA polymerase gene under the control of temperature - sensitive cI repressor .
+However , even without temperature induction , a sufficient amount of T7 RNA polymerase is made to transcribe the T7 promoter plasmid .
+The labeling procedure was as follows .
+An overnight culture grown in selective minimal - medium was used to inoculate minimal glucose medium supplemented with 10 - 4 M NA and the appropriate antibiotics for plasmid maintenance ( 5 x 106 cells/ml ) .
+Each 5 - ml culture was then grown to an OD60 of 0.2 , centrifuged , and suspended in 6 ml of M9 labeling medium .
+The culture was allowed to incubate until it reached an ODwo of 0.35 , at which time the culture was split .
+Rifampin was added to half of the portions at a final concentration of 240 , ug/ml .
+Thirty minutes after the addition of rifampin , the cells were pulse labeled for 5 min with 10 , uCi of [ 35S ] methionine per ml .
+Cells were harvested by centrifugation , washed with an equal volume of ice - cold E buffer ( 8 ) , and then stored at -70 °C .
+Crude membranes were prepared by suspending labeled cells in 300 , u1 of sonication buffer ( 100 mM Tris hydrochloride , 50 mM MgCl2 , pH 7.4 ) .
+The suspension was sonicated four times ( 5 - s pulses ) at the lowest power ( Branson Sonifier model 185 ) .
+Cell debris was removed by low - speed centrifugation ( 10,000 rpm for 5 min ) , and 150 p. 1 of the supernatant solution was centrifuged at 300,000 x g for 30 min in a Beckman TL - 100 ultracentrifuge .
+The crude membrane pellet was suspended in and washed with an equal volume of buffer and recentrifuged .
+The pellet was finally suspended in 60 , ul of sodium dodecyl sulfate ( SDS ) lysis buffer for SDS - polyacrylamide gel electrophoresis ( PAGE ) analysis .
+DNA sequence analysis of nadR and proof of the bifunctional nature of its product .
+A 2.5 - kilobase ( kb ) EcoRl - Bglll fragment containing the nadR locus was removed from pFW29 - 4 ( 4 ) and subcloned into the phagemid vectors pTZ18 and pTZ19 .
+The resultant plasmids , pFW42 and pFW38 , respectively , contained the fragment in opposite orientations .
+Both plasmids complemented NadR - and PnuAphenotypes , indicating that the 2.5 - kb fragment contained the nadR promoter region .
+Figure 1A illustrates the sequencing strategy used .
+A series of sequential deletions made with the exonuclease III - S1 nuclease procedure as described by Dale et al. ( 1 ) were constructed from both pFW38 and pFW42 .
+Single - stranded templates were prepared from each and sequenced with modified T7 DNA polymerase by using the universal reverse primer .
+Synthetic oligonucleotide primers prepared from previously determined sequences were used to extend the sequence in some areas .
+The DNA and subsequently deduced amino - acid sequences revealed two major open reading frames ( ORFs ) ( Fig. 2 ) .
+The first was a 584 - base - pair ( bp ) ORF which would code for a 20,943 - dalton ( Da ) protein .
+The second ORF encompassed 1,230 bp , potentially coding for a 47,022 - Da protein ( estimated pl , 5.7 ) .
+The maxicell and overexpression studies described below have only shown a 43 - kDa insertspecific protein .
+In order to prove whether the smaller ORF affects regulation or transport functions , the sequence encoding this ORF was deleted .
+The 20 - kDa ORF contained an HpaI - HinclI site in the middle of its sequence ( Fig. 2 ) .
+Deletion of the amino - terminal half of this ORF was achieved via HincIl digestion and relegation of pFW38 , yielding pFW38 - 46 .
+This plasmid was introduced into JF1535 ( nadB - lac ApncA AnadR ) to test for complementation of NadR - and PnuAmutant phenotypes .
+The results ( Table 1 ) revealed that the plasmid lacking the smaller ORF sequence was still able to complement both the regulatory - and transport - deficient phenotypes of the chromosomal nadR deletion .
+Identical results were obtained when a 1,328 - bp StuI fragment containing only the 47 - kDa NadR ORF was subcloned into pTZ19R .
+This plasmid , pFP77 , again complemented both the transport and regulatory phenotypes .
+However , a deletion extending into the larger 47 - kDa nadR ORF ( to base 343 ) removed both transport and regulatory complementation capabilities .
+Maxicell studies revealed the latter deletion created a fusion between the amino terminus of lacZ and the carboxyl three - fourths of nadR .
+Furthermore , a StuI deletion of pFW38 that removed nadR but left the 20 - kDa ORF intact failed to complement either phenotype .
+These data prove that both the transcriptional regulator and nucleotide transport functions of the nadR locus can be attributed to a VOL .
+172 , 1990 REGULATION OF NAD METABOLISM IN S. TYPHIMURIUM 4189 A OR F v Hpa na d R ft I P - Avaal Acc B nadA pnuC Hpa I FIG. 1 .
+Sequencing strategies for nadR ( A ) and nadA pnuC ( B ) .
+Arrows indicate the extent and direction of sequencing .
+p - * , Promoter and direction of transcription .
+single 47 - kDa protein , confirming the unusual bifunctional nature of NadR .
+Examination of the DNA sequence upstream from nadR revealed two potential promoter regions located at -123 and -150 bp relative to the GUG translational start codon .
+Both promoter regions contained consensus -10 Pribnow box sequences ( TATAAT ) with less than consensus -35 regions ( ATGCGT and AHCTCT ) .
+A consensus ribosome - binding site ( AGGAGG ) was located 5 bases upstream from the proposed translation initiating codon .
+DNA sequence analysis of the nadA - pnuC operon .
+A 3.3 - kb AvaI - Sall fragment from pTF20 ( 25 ) containing nadA and pnuC was subcloned into M13mpl9 in both orientations .
+Sequential deletions and synthetic oligonucleotide primers to extend sequence information were used to determine the nucleotide sequence of both strands ( Fig. 1B ) .
+The DNA and deduced amino - acid sequences are shown in Fig. 3 .
+The sequence confirms earlier reports indicating that the nadA and pnuC genes occur in an operon with transcription initiating upstream from nadA ( 29 ) .
+A putative promoter was found that included a -10 region ( TATAAA ) at -76 bp and a -35 recognition sequence ( TAIITGAAT ) at -100 bp upstream from the nadA initiating AUG start codon .
+The nadA coding region is 1,095 bp , encoding a 40,759 - Da protein ( estimated pI , 8.1 ) .
+This correlated to an insertspecific protein identified during maxicell analysis ( see below ) .
+A potential ribosome - binding site ( AACiAGiA ) with 71 % identity to the consensus ( AAGGAGG ) occurred seven bases upstream from the initiating AUG. .
+Previous studies in this laboratory indicated that nadA expression was partially controlled by cyclic AMP ( cAMP ) ( 8 ) .
+DNA sequence analysis confirmed this by locating a potential cyclic AMP response protein - binding site immediately upstream from the -35 recognition site at -115 bp .
+The sequence TATTGTGACTTTCCTTA matches the consensus sequence AANTGTGANNTN4CA at 15 of 17 positions , where N indicates any nucleotide .
+A putative nadR - binding site was discovered following 4190 FOSTER ET AL. .
+-1040 -1030 -1020 -1010 -1000 -990 -980 -970 -960 -950 -940 -930 TCT GMC TGA TAM CGG MA AM AAC AMC CGA AAC TGA TOG TGA TCG ACT CTA TAC AGO TGA TOO ATA TOO CGG ATA TCC MGT OCT CGC CAG SCA COO TCG CCC MOG TCC GCG MAA CUG CMG -920 -910 -900 -690 -68 -870 -860 -850 -840 -830 -820 -810 CCT ACC IGA CGC OCT TCG CCA MAA COC 6CC GCC TOO CCA TCC TGA TOG TCG GCC ACG TCA CCA MAG ACC OCT CCC TGG CCG GGC CCA MOG TOC TOG MAC ACT GTA TCG ATT OCT CMG TAT ORF -790 -760 -770 ~ ~ ~ T -760 -750 -740 -730 -72 -710 .7 fl -490 TOC TCG AU SCO MOG CTO ATT CTC OTT TCC SCA COO TOC 6CA GCC ACA MAA ACC OCT TTG GCM CMG TCA ATC MGC TUG GCC TCT TCG ATO MCC MAA CMG 666 TTG CCC MAA P0G MC MAT Net Ser - Ti - p Al. .
+r Swt Not Thr - Ctu Ctn Cly Lou Arg Siu Val Mer Aen -680 -6710 -660 -650 -640 -630 -620 -610 -600 -590 -560 -570 CUO TCC QCC ATC TTT TTA MC UGT GM SAT SMG TC MCT TCC UOC MGT TCA OTO ATO OTC GTC TUG MAA OC MCG CMA CCO TTGCOTO OTC SAC ATT CM 6CC CTGOSTC GAT CMC TCG ATG Pro Sow Ale Iti , Ph. Lou Swt Are Sly Asp Clu Vol Thr - Set - Gly Ser Swt Va1 Net Val Val Ti - p Ctu Cly Thr - Arg Pro Lou Lou Vol Gtu 11e Gin Ale Lou Vol Asp Nis Sw Nett -560 -550 -540 -530 -520 -510 -500 -490 -480 -470 -460 I1 -400 ATS OCCAAC CCC MGA CUC PSO 600 PTC UOT CTC GAA CMA MAC UGT CTC 6CA ATC CTG CTS ICC TSCTOCTCCMGC CAC SOC UGT CTG CMA ATC TCG MAT CM MAC STC TTC OTT AAC PCG Net Al. .
+Asn Pro Ar - g Ar - g Vol Ale Vol Sly Lou Ciu Sin AMn Ar - g Lou Ale It1 , Lou Lou Ale Val Lou His Ar - g Nis Cly Cly Lou Ctn Net Swt Asp Sin Asp Vol PM .
+Vol An Vol -440 -430 -420 -410 -400 -390 -360 -370 -360 -350 -340 -330 CTC OCC CCC TC MAA OTC ACC MAA ACC MC 6CC MAT CTG OCT TTA CTG CTG 6CC ATO CTC TCC MOC CTGCGUT MAC MOG CCG TTC CCC CMG MAT CTG CTO PCG TTT US GMA STO US CTC Vol Cly Cly Vol Lys Vol Thr - Stu Thr Sew Al. .
+Asp Lou Ale Lou Lou Lou Al. .
+Nst Vol set Swr Lou Ar - s Asp Ar - g Pro Lou Pro Sin Asp Lou Val Vol PM .
+Sly Ctu Va1 Sly Lou -320 -310 -300 -29 -280 -270 -260 -250 -240 -230 -220 -210 SCA O6M SM ATT UGT CCOOTPS CUG MC USG CMASMUACT ATT TCC SMG 0CC OM MAA CMC660 TTT UGT CUG 6C ATT GTO CCT CCC OCC MAC STA CUC AAA AA CUO CU MAA MA ATC Ale Sly Gtu Ite , Ar - , Pr - o Vol Pro Mw Sly Gin Ctu Arg II & SMr Ctu Al. .
+Lys His Sly Ph. Ar , Ar - g Al. 11o Vol Pro Ale Ale Amn Vol Pro LWs LV Pro Pro Otu Sly Ntt -200 -190 -180 -170 -160 -150 -140 -130 -120 -110 -100 -90 * * ~ ~ ~ ~ ~ ~ ~ ~ .
+S S 0500 0 5 CTO STS TTC GOT CTT MAA AMS CTC 6CA MAT 600 TTA MGC OTO TTT MAC MAC TTA TM TTC TOT STA TOT MGT MAT CTT PTA TMA TTT 6CC ISA TOG CMA TIC MAT 600 TOT TAT CUO ICC - Lou Vol PM .
+Sly Vol Lys Lys Lou Ale Asp Al. .
+Lou SMr Val Ph. Asp Asp Lou -80 -70 -60 -5 o -40 -30 -20 -10 1 10 20 30 * 5 0 0 5 5 5 ~ ~ ~ ~ ~ ~ ~ ~ ~ * S.I. ~ ~ ~ 005 TMC SA TTC ATA CUG ATT SAT OTT CTA SOC CTG ATA MCC GMA GCGCCA TCA UGC MGT CTT ATO CMA TTT TTC CMC CMfSACLJfCT OTT PTC TCA TCG TTC SMC TAT CTC MAA MCC 6CC ATT Net Mr Mer PM .
+Asp Tyr Lou LWs Thr Al. .
+It * 40 so 60 710 80 - 90 - 100 - 110 120 - 130 - 140 1SO AMC CM CMA UGT TOC MCT OTO CMA CMG CTO CTC MCC MC COT ATO MCC AMG GSA TAT COT MGT CMG TTA OTT MAC OCC MAA ATO MAA MCC CCC MC 6CC CMA AMA COCASM60CTA G CMC LWs Ctn Sin Sly OyW Thr Lou Sin Cin Vol Lou Thr Mer Cly Nst Thr - LWs Sly Tyr - Lou Mr Sin Lou Lou Msn AL. .
+Lys l1e LWs Mer Pro M * r Al. .
+Ctn LWs Lou Clu Ale Lou Hi .
+160 170 1SO 190 - 200 - 210 - 220 230 - 240 - 250 - 260 270 UGT TTT OTC US CTG SM TTT CCC CCC CMA CMG MAA MAC ATT CMA OTC GTC TTCOGUT MAA TTT TAT CCA TTG CAT MCC CM CMC ATC TMC TTG ATC CMG 060 OM TCT MCC CMG P0 SAT Ar , Ph. Lou Gty Lou Stu Ph. Pr - o Ar , Ar , Gin LWs Asn It @ Sly Vol Val PM .
+Sly LWs Ph. Tyr Pro Lou His Thr Cty His Ie * Tyr Lou It , Ctn Ar , Al. .
+Cy Mer Ctn Vol Asp 280 - 29 - 300 - 310 320 - 330 - 340 - 350 360 - 370 - 380 - 390 SM TTG CMC ATC ATT ATG SMA TAT SAC SAT MSG CCC QC CCC US CTG TTT SM SAT MCC CCC ATG TCG CMG CMG CCC MCC GTG TCC MAT CGC CTG CCC TUO TTA TTC CMA MCC TTC MAA Gtu Lou Nis Ite , Is Net Cty Tyr Asp Asp Thr Ar , Asp Ar , Gty Lou Ph. Gtu Asp M * r Al. .
+Net Mtr Gin Gin Pro Thr VatlSMr Asp Ar , Lou Arg Trp Lou Lou Gin Thr Ph. LWs 400 - 410 - 420 - 430 440 - 450 - 460 - 470 480 - 490 - 500 - 510 TMC CMA MAA MT ATT CCC ATC CMC QCC TTT MT MAA SMG USG ATG SMG COT TAT CUG CAT 600 TUG SAC GTC TUO MC MAC 6SC ATT AMA SOC TTT ATGCA 600AS AM ISA ATA CMG 00G Tyr Gin LWs Mn Ite Ar , It .
+Ph. Mn Ctu Gtu Sly Not Gtu Pro Tyr Pro Nis Cty Trp Asp Vol Ti - p Mr Msn Cty Ite , LWs Al. .
+GLu LWs Cly Ie , Ctn Pro 520 - 530 - 540 - 550 560 570 5SW 590 - 600 - 610 - 620 630 MCC TUO ATC TMC AOT TCC MAA SM COCT SAT GCC CCC CMG TAT OTT SMG CAT TTA US ATT SM AUG GTG CTG GTC SAT CCT MAA COCACMG TTT ATC MT ATC MGT USG 600 CMA ATC CCC Mr Ti - p It .
+Tyr Thr Mer Stu Siu Al. .
+Pro Ctn Tyr Lou Ctu His Lou Gly ILie , Gtu Thr Val Lou Vol Asp Pro GLu Ar , Thr Ph. Net AMn Ieo Mr Sly Al. .
+Sin Ito Ar , 640 - 650 - 660 - 670 680 - 690 - 700 - 710 72 - 730 - 740 - 750 MAA MT CCC TTT UGT TMC TU MAA TAT ATT OCT MCC MAA STG AMC COO TTT TT CUTCT MCC GTC SOC ATT CTGOCOG0USMA TCA MC 660 AMG TOT ACG CTG PTC MAT AMG OTC 6CC Gtu Msn Pro Phe , Ar , Tyr Ti - p Ciu Tyr Iti , Pro Thr GLu Vol LWs Pro Ph. Ph. Vol Ar , Thr Vol Al. .
+Iti , Lou Sly Cty Gtu Mr Mr Cty LWyM Thr Lou Vol AMn LWs Lou Ale 760 770 7S 790 - 800 - 810 - 620 830 - 840 - 850 No0 870 MT ATT TTT MT MCC MCC MGC GCC TUG GMA TAT OSC CCC SAC TAT CTC TTT TCG CAT CTG 5O0 660 SAT SMG ATG OCC TTA CMG TAT TCC MAC TMC MAT MAA ATT US CTG 650 CAT USG AMn lie Ph. An Thr - Thr - $ r Al. .
+Ti - p Giu Tyr Cty Ar , Asp Tyr VolPhM rHwis Lou Cty Cly Asp Ciu Nelt Al. .
+Lou Gin Tyr Mr Asp Tyr Amp LWs lIte , Al. .
+Lou Sly His Al. m u90 900 910 - 92 - 930 - 940 950 960 - 97 - 930 - 990 CM TAT ATT SAT TTC GUA GTG MAA TAT 6CC MT MAA GTGOM6C TTT ATC SAT MCC MAT TTC GTC MCC MCC CMG GCA TTT TOC MAA MAA TMC GMA ISA C60 SM CAT CCC TT PTC CM 600 Ctn Tytr11o Asp Ph. Al. .
+Val LWs Tyr Ate Msn LWs Vol Ate Ph. , Ii .
+Asp Thr - Amp Ph. Vol Thr Thr Sin Al. .
+Ph. OW LWs LWs Tyr Giu Cty Ar , Gtu His Pro Ph. Vol Sin Ate 1000 - 1010 - 1020 - 1030 1040 1050 IUS0 1070 - 1080 - 1090 - 1100 1110 CTO ATC MOC SM TAT CCC TTC SAC CT : G CT ATT TTG OTG SMG MT MT ACG CCG TU GTA OCT MAC CMA CTG CMA MC CTC GCS MT ; TCA GTG SAT 000 MAA 600 TYC CM MAC O'TS CTG Lou Ite , Asp Stu Tyr Ar , Ph. Asp Lou Vol lIte Lou Lou Gtu Msn Msn Thr - Pro Ti - p Vol Ate Asp Cty Lou Ar , Mer Lou Cty Mr SMr Vol Asp Ar , LWs Al. .
+Phe , Sin Amn Lou Lou 1120 - 1130 - 1140 - 1150 1160 - 1170 - 1180 - 1190 1200 - 1210 - 1220 - 1230 GTC SM ATO CTG MAA SMG MAC MAC ATT GAG TTC CTT CMC GTT MAA SMG OCT SAT TMC MAT UGT CCC TTT TTG COO TGT GTG MAA CTS ST AMA SMG ATG ATG 660 SM CM GU TMA MAA Vol Stu Net Lou LWs Otu Mn Msn Ite Stu Ph. Vol His Vol LWs Giu Ate Asp Tyr Asp Gty Ar , Ph. Lou Ar , OW * VoL Gtu Lou Vol LWs Gtu Not Net Sly Slu Sin Sly StuN 1240 - 1250 - 1260 - 1270 1280 - 129 - 1300 - 1310 1320 - 1330 - 1340 - 1350 00A ATG CCT SAT 600 A OTT MCC CUG TOT TAT CMG 000 TMC MT TTC MCA ACG TM TUG MT COO TUG GTT TOT MS CUS CTA ACG 000 600 MC 600 MCC COG MAT TMA SMC ATT TAT 1360 13710 1380 - 1390 - 1400 - 1410 1420 - 1430 - 1440 TTG GCM ATA 060 TTS TMC TTG ATA COO TTC OCO TCC MGC SOC TUCCC MGC GTGCGUT TTC TTG TMC TOT TCC TAT TCC GTA AMG TTG COT TCU AMS FIG. 2 .
+DNA sequence and autotranslation of the nadR region .
+The potential -10 and -35 promoter sequences are overscored .
+The amino acid sequences showing homology to mononucleotide - binding proteins are underlined .
+These data have been submitted to GenBank under accession no .
+172 , 1990 REGULATION OF NAD METABOLISM IN S. TYPHIMURIUM 4191 TABLE 1 .
+Complementation of NadR - and PnuA - phenotypes in JF1535 ( nadB - lac ApncA AnadR ) 13 - Galactosidase activityb Strain '' Straina Plasmid ( Miller units ) Growth on 10 - 4io ~ M NMN 10 - 4 M NA 10 - 6 M NA JF1535 None 1,230 1,480 JF1536 pFW38 19 178 + JF1906 pFW42 10 90 + JF1914 pFW38 - 46c 14 141 + JF1833 pFW38 - 45d 1,580 1,830 - a All strains were JF1535 [ AnadA ApncA A ( nadR - serB ) nadB : : Mu dJ recA srl : : TnlO galE hutR ) containing the indicated plasmid .
+b , B - Galactosidase activity is expressed in Miller units .
+Cells were grown in minimal glucose medium containing 1o - 4 M NA ( repressive concentration ) or 10 - 6 M NA ( derepressive concentration ) .
+c pFW38 - 46 is a AHincII derivative of pFW38 missing the amino - terminal half of the 20 - kDa ORF .
+d pFW38 - 45 is a deletion removing the 20 - kDa ORF and the amino - terminal half of nadR .
+comparisons between the nadA and pncB promoter sequences ( C. Grubmeyer , personal communication ) .
+The sequence ( TTG lAN5TAAAACAA ) is an inverted repeat located between -91 and -72 bp of the nadA sequence ( numbering based on autotranslation in Fig. 3 ) .
+Stem - loop formation would effectively sequester the -10 Pribnow box region of the putative nadA promoter .
+Similarly , pncB contained the sequence TAAACAAN24TTGlT [ A , once again positioned so that stem - loop formation would prevent RNA polymerase access to a putative -10 region .
+Comparison with the E. coli nadB sequence also revealed a homologous sequence ( GTGTTTAN45TAAACAA ) that flanked the promoter region ( 2 ) .
+An attractive model for repression is that NadR binds to these inverted repeats , stabilizing the stem - loop structure .
+The pnuC gene sequence was 966 bp in length and encoded a 36,930 - Da protein ( estimated pI , 9.4 ) .
+A potential ribosome - binding site , TGGGAGA , was located 3 bp from the putative AUG start codon .
+The pnuC N - terminal coding region appeared to overlap the nadA C - terminus by 9 amino acids but was read in a different reading frame .
+Such an extended overlap is highly unusual for Salmonella and Escherichia spp. .
+Coding sequence overlap in these organisms usually consists of only a few bases ( 24 ) .
+There are examples , such as gene A and B of phage XX174 , where extensive overlap does occur ( 22 ) .
+The significance of the overlap between nadA and pnuC is unknown and will need to be confirmed through N - terminal protein sequence analysis .
+It is possible that translation of nadA and pnuC is coupled , although cells containing insertions in nadA are phenotypically PnuC + .
+This fact indicates that a second promoter for pnuC exists within nadA , as suggested previously ( 23 , 27 , 29 ) , but does not rule out translational coupling from a larger transcript .
+Two potential promoters for pnuC were identified within the nadA open reading frame .
+The first potential promoter had -10 ( IAAAAA ) and -35 ( GTI IAAAA ) regions at 643 and 620 bp of nadA .
+The -10 and -35 regions for the second promoter were located at 993 ( CATTAC ) and 968 ( GGIJ.ATC ) bp , respectively .
+It is not known which of these promoters plays a role in - vivo .
+Analysis of the nadA , pnuC , and nadR products .
+Plasmid pFW38 encoding nadR plus the 20 - kDa ORF was introduced into E. coli CRS603 for maxicell analysis .
+Only one insertspecific protein was observed ( data not shown ) .
+The protein had a molecular mass of 43 kDa in the SDS - PAGE system , which is somewhat smaller than the molecular mass predicted from the DNA sequence .
+The pFW38 and pFW38 - 46 plasmids also contained a T7 promoter capable of driving the transcription of both the 20 - kDa ORF and nadR .
+We introduced the T7 RNA polymerase - containing plasmid pGP1 - 2 , described by Tabor and Richardson ( 26 ) , into JF1057 ( pFW38 ) and JF1057 ( pFW38 - 46 ) .
+The resultant strains , JF1057 ( pFW38 , pGPl - 2 ) and JF1057 ( pFW38 - 46 , pGPl - 2 ) , will transcribe the ORF ( or truncated ORF , in the case of pFW38 - 46 ) and nadR genes even in the presence of rifampin , since the T7 RNA polymerase is resistant to this antibiotic .
+Although the T7 RNA polymerase gene is controlled by a temperature - sensitive cI repressor , heat induction was not required to induce its synthesis .
+The small amount of constitutively produced T7 RNA polymerase was sufficient to transcribe the pFW38 and pFW38 - 46 inserts .
+The results of exclusively expressing the pFW38 - 46 insert are shown in Fig. 4 ( right ) .
+Identical results were obtained for pFW38 .
+The only insert - specific protein produced in either case was the 43 - kDa NadR .
+This indicates that the 20 - kDa ORF is probably a cryptic gene not normally expressed or translated under usual growth - conditions .
+Since the NadR protein participates in NMN transport , we examined whether NadR could be found associated with membrane fractions in S. typhimurium by using the T7 RNA polymerase system described above .
+The results ( Fig. 4 , right ) indicate that while the majority of NadR was associated with the soluble fraction of sonicated cell extracts , a significant portion ( 20 to 30 % ) was found with membraneenriched fractions ( Fig. 4 , right , lane B ) .
+However , most of the NadR protein appearing in the membrane fraction was not membrane associated since only about 10 to 20 % was solubilized by 2 % Triton X - 100 .
+The remainder of NadR appeared to form large aggregates that cosedimented with membranes .
+No major processing of NadR was observed .
+These results , along with the hydrophobicity profile noted below , suggest that even though NadR participates in NMN transport , it probably does not fulfill this role as an integral membrane protein .
+However , it may still loosely associate with the membrane .
+Plasmids pTF15 and pTF20 were introduced into the maxicell CRS603 strain to identify the NadA and PnuC products .
+Both plasmids contained nadA and pnuC , but pTF15 contained an additional 2 kb of upstream sequence ( 27 ) .
+Previous work with a chloramphenicol release method in conjunction with two - dimensional PAGE identified NadA and PnuC as 43 - and 25 - kDa proteins , respectively ( 27 ) .
+The two - dimensional PAGE procedure , however , made accurate molecular mass determinations difficult , which led us to pursue the maxicell determinations with one - dimensional SDS - PAGE .
+Results from the one - dimensional SDS - PAGE experiments indicated that NadA was a 41 - kDa protein ( Fig. 4 , left ) .
+This size agrees nicely with the size predicted from the DNA sequence determination .
+The apparent molecular mass of PnuC , however , was about 33 kDa , about 4 kDa smaller than predicted from the DNA sequence determinations .
+This discrepancy may be due to the extremely hydrophobic nature of this protein .
+An additional insert - specific protein with a molecular mass of 32.6 kDa was evident in extracts from pTF15 - containing maxicells .
+This protein was missing from pTF20 extracts .
+Consequently , an additional gene existed upstream from nadA .
+The gene is most likely the envD locus , as determined from the current Salmonella linkage map ( 20 ) .
+Structural analyses of NadR , NadA , and PnuC .
+The amino acid sequences of the predicted NadR , NadA , and PnuC polypeptides were analyzed to derive molecular models of 4192 FOSTER ET AL. .
+-160 -150 -140 -130 -120 -110 -100 -90 -60 -70 -60 -50 * * 0 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 0 ~ ~ ~ ~ 3 * i * 6 ATA AGA COT TAC 6MCC00 ATC AGA TAC 000 OCT ACG TAA TTA ; TT TIA CTT TCC TTA TTO MT CM CTA TCT TGT TTA OCA TAT M C T T 0 T T 0 T Nod A -40 -30 - ~ ~ ~ ~ 20 - 10 ~ 1 10 20 30 40 50 60 710 0 ~ ~ ~ ~ ~ ~ ~ ~ S.D. * TCA TTC OCT TOT TTC GTT MO TCA OTA AMCOA '' 0CC MCO ATG AOC PTA ATG TTT MAC C CAAC 0CC OCA ATC TMACOTGTC CCG CCO AAA CCA MOG CCC TTG AMAC OK O MA MG Net Set Vol met Ph. Amp Plro Otn Ata Ala [ te Tyr ProPh Pr - .
+Pro Lys Pro Thr Pro Lou Amn Amp Asp Slu Lys 9 60o 100 - 110 - 120 - 130 140 - 150 - 160 - 170 160 190 CM TTT TAT COT MO MAA ATC AMG 000 TTO CTC MAA GMO ACC T OO PTC ATO P0 0GM CMC TMC TMC MCC MAT CO MAA ATT CMA CMG TTA CM MAA MAA AMC TOSC ; T ATT TCC Gin Ph. Tyr Aug Gtu Lys 11 .
+Lye Ar , Lou Lou Lye Gtu Arg Amn Ala Val Net Vol Ale His Tyr Tyr Thr Asp Pro Otu Its Gin Gtn Lou Ala Stu Gtu Thr Sly Sly Cye Ie * SW - 200 - 210 - 220 - 230 240 2509 0 270 230 - 29 - 300 - 310 MAC TMA CTO MAA ATGO0CC COT TTC OK ACO MO CMC 0CC OCA TCC MOG CTO CTG OTA OCOM NCOTA COO TTT ATC OG 000 A MCC 0CC AAA ATC CTC AMC CCM MA AMO AC ATT CTT ATG Asp Sow Lou Otu Not Ale Arg Ph. Oly Thr Lye His Ala Ala Se Thu Lou Lou Vol Ale Oly Vat Aug Ph. Net Oty Gtu Thu Ale Lye It * Lou Sot Pro ltu Lye Thr 11o Lou Nett 320 - 330 - 340 - 350 360 - 370 - 360 - 390 400 - 410 - 420 - 430 COT ACC CTO 000600 MA TPT TCO CTG MAT UA NOC TOC CCA ATA OK MAA TTT MSC OCT TYT TOT MAT W00 CC CCT GAC AMA MCC PTA OTO OTC TAT OCT AMC AC TCO OCT GCT OTT Pro Thu Lou Ala Ale Gtu Cye Sow Lou Asp Lou Gty Oye Pro ItI Asp Olu Pho Set Ala Ph. Cye Asp Ala Nis Pro Asp Arg Thr Val Vol Vol Tyr - Ale Amn Thu Swt Ale Ala Vat 440 - 450 - 460 - 4710 460 - 490 - 500 - 510 520 - 530 - 540 55 MA 000 COT OCO MAC TOO PTT PS ACC TCC MT ATC GMC OTA MAA PS ATT MO MAT CTO MAT MET TTS SM MA AAA ATT ATC TNOO SCOSM MMCAG CM .
+Tip LOU Ala Swt Lou Stu Lye I10 Set Amn Tyr Phe Ph. Sly Lou Vol Amn VoL Thr Lou Ph. Ale Ito IIe Phe Ph. SIn It * Sin Lou Tyr - Ate Sot 120 1290 l 1300 - 1310 - 1320 - 1330 1340 - 1350 - 1360 - 13710 1360 1390 COT TTO CTO CMA PC TTT TTC TTT 0CC = C M : T ATT TAT 000 TOO TAT O00 TOO TCO CM CM MCA AM MAT MT CAOM5CC MOTT MA ATC CDC TOO PSA SM US CMA MA SM ATO Areg Lou Lou SIn Lou Ph. Ph. Ph. Ate Ate Amn Ite Tyr Sly Ti - p Tyr Ate Tip Sor Arg Sin Thr - Lye Asp Am SIn Ate Stu Lou Lye 110 Ar - u Tip Lou Pro Lou Pro Lye Ate Nett 1400 - 1410 - 1420 - 1430 1440 - 1450 - 1460 - 1470 1460 - 1490 - 1500 - 1510 OATOO PSG 600 ATA TOT PSG ATA OPT ATC OOT TTO ATO MCO CMA TAT ATC MAT = PTA TTC 60 PTC PS MCO CDC PGSM ICCC SOC ATT ATS CMG AT$ PTS M UTA CM PS MA Ate Ti - p Lou Ate Ito Cye Votli11 Ale 110 Sly Lou Net Thr Arg Tyr - Ite Asp Pro Vol Phe Ate Val Lou Thr Argu Vol Ale Vol Ato Ito Net SItn Net Lou Sly Lou Sin vol Tb .
+- 1520 - 1530 - 1540 - 1550 1560 - 1570 - 1560 - 1590 1600 - 1610 - 142 - 143 ATGO CCOTA PSG CM SM MC OCT TTC SMO TTC TOO MAC TCT TOC ATS ATG GTG PSG TCT ATC ST ONS ATG ATT PSO ATS MCA CCC AAA TAT PTC MAA AMC TOO PTC PS TOO PS ATA Net Pro Vol Lou Stn Pro Asp Ate Pho Pro Phe Ti - p Asp Set Cye Net Net Vol Lou lot 110 Vol Ale Net 110 Lou Net Thr - Areu Lye Tyr Val Stu Am Trp Lou Lou Trp V.111.o 1640 - 1650 - 1660 - 1670 1660 - 1690 - 170 - 1710 172 - 173 - 1750 1740 ATC AMC GTG ATC MT GTG OTG ATT TTT OCT TTG CMS OCC STC TAT SM ATO TCO PSO GMA TAT PS ATCTOP ACA TTT ATC 0CC PSO AMC09AOP C COCCTPS TOO ATA AMC AC MC SCS It .
+Amn Vol It * Sot Vol Vol ILe Ph. Ala Lou SIn Sly Val Tyr Ate Net Sor Lou Gtu Tyr Lou 110 Lou Thu Ph. 110 Ate Vol Amn Sly SWt Ar , Lou Tip Ite Amn ow Arg Ala 1760 - 1770 - 170 19 - 1600 - 1610 18m 1830 16a0 110 1wo 1670 SMOM MGO ATC SM CCC OPT TTC CCC TTA ATG OTO ATG AMC ATO = C SM CMA TOT PSG ATT CMS ATG MCA WTC COO 6CC PSG MA CMC TTO ATA PTC MIT PTS MT CIT MCT 6CO CA Sly Ala Ar , Ite Ala Ar , Ala Phe Pro Lou Net Vol Net Amn Net Pro Sly Ar , Cye Lou lto SIn Net Thr - Vol Ar , Ale Vol Thr Nie Lou Ite Lou Nie Lou Amn Ar , Thr Ale Sin 16690i i9O 1910 - 1920 - 1930 - 1940 1950 - 1940 - 1970 IM1990 TAT UGT ATT COT OCA TMA GMA ATC CTG MAT MCO TTC CMG CMG COO ATC ATG GTC GTG TOO COO MAT MAC CTGOMC GTG CMA COT MAT MAC CM TTT TTC 0CC MOC MAT MA MOC ATS CMC Tyr Sly I1 .
+Ar , Ateor SeGLu Ito Lou Asp Thr - Pho GIn SIn Are lie Net Vol Vol Trp Ar , Amn Asp Lou SWt Vol SIn Ar , Nis Asp Ar , Ph. Phe Ale Asp Nie Pro Asp Net Nie 2000 - 2010 - 2020 - 2030 2040 - 205 - 2000 - 2070 2000 - 200 - 2166 - 2110 ATG PSG TMC OTT SM MC TTC CO MAT TTC CCS MCT TMA ATOSM PSCT TMA OM ATT MAT ATC CMG TMA AMC SM COO OTT CMA SM ATT COT TMA CCC TAT PTT TTA MCA AMC SWM Net Vol s Tyr Vol Ale Asp Ph. Sly Asp Ph. Pro Thr - - -- 2120 - 2130 - 2140 - 2150 2160 - 2170 - 2160 CMC TC0 TMG CMC CM TMC CMA AMC CM MAT AMA MO MAT COO OTC COC TOO COT CCA 0CC TOT CCA MAT MAT FIG. 3 .
+DNA sequence and autotranslation of the nadA pnuC operon .
+Potential -10 and -35 promoter sequences are overscored .
+A putative NadR box consensus sequence is underscored .
+S.D. , Shine - Dalgarno ribosome - binding sites .
+These data have been submitted to GenBank under accession no .
+172 , 1990 REGULATION OF NAD METABOLISM IN S. TYPHIMURIUM 4193 A B C D E F 92 - X - - 43 - n - fe ... M ; .
+f : qi .4 qwW4 ' NladA Tc ' PuC 4 3 .
+zfa - NadR 31 Cur 31 - 14 - 21 - 14 - B ^ .
+Protein analysis of the nadR , nadA , and pnuC products .
+( Left ) Identification of NadA and PnuC in maxicells .
+Lane A , pBR328 ; lane B , pTF15 ; lane C , pTF20 .
+Arrowheads point to NadA and PnuC proteins .
+Tcr , Tetracycline resistance protein ; Apr , P - lactamase ; Cmr , chloramphenicol acetyltransferase .
+Sizes are shown on the left in kilodaltons .
+( Right ) Identification of NadR by the in - vivo T7 RNA polymerase protocol of Tabor and Richardson ( 26 ) .
+Lane A and B , Rifampin - treated cells containing pFW 38 - 46 .
+Lane A , Soluble proteins following sonic disruption and removal of membrane fraction ; lane B , washed membrane preparation .
+Lanes C through F , Cells containing pTZ19R .
+Lane C , Soluble fraction from cells prepared without rifampin ; lane D , membrane fraction prepared from untreated cells ; lane E , soluble proteins from rifampin - treated cells ; lane F , washed membrane preparation .
+The 42 - kDa band in lane E is a residually synthesized major cellular protein ( see lane C ) that migrated slightly ahead of NadR ( arrowhead ) .
+Apr , , - Lactamase ; Cmr , chloramphenicol acetyltransferase .
+The hydropathy plots ( Fig. 5 ) ( 10 , 11 ) indicate that PnuC is an extremely hydrophobic protein ; 71 % of the residues were hydrophobic .
+This degree of hydrophobicity is typical of integral membrane transport proteins .
+There was the potential for at least seven membrane - spanning regions .
+In contrast to PnuC , the second component of this transport system , NadR , did not display a significantly hydrophobic region .
+The hydropathy profile for the cytoplasmic NadA protein was interesting because the amino and carboxyl ends were hydrophilic while the middle was rather hydrophobic .
+The significance of this is unknown ( 16 , 17 ) .
+DISCUSSION Model for the bifunctional nature of the NadR repressortransporter .
+The results presented clearly reveal the novel use of one protein ( NadR ) to control two aspects of NAD metabolism .
+First , NadR acts as a repressor to regulate the de novo biosynthesis of NAD .
+Second , NadR participates with PnuC in some manner to mediate the transport of a precursor ( NMN ) of this cofactor .
+Alternative complex scenarios , such as NadR inducing a component of NMN transport separate from PnuC or repressing an antagonist of NMN transport , seem remote possibilities .
+The model emerging from these studies is illustrated in Fig. 6 .
+In this model , NadR may assume two conformations , one suitable as a transcriptional repressor and one as a component of a transport system .
+The presence of high internal levels of NAD is predicted to cause a conformational change from transporter to repressor .
+The repressor form of NadR would not be optimal for mediating transport .
+This aspect of the model is indicated by the fact that nadRs superrepressor mutants grow poorly on NMN .
+This is not due to superrepression of the nadA pnuC operon causing lowered production of PnuC , since mutants carrying insertions and deletions in nadA remain PnuC + due to the presence of an internal unregulated promoter for pnuC ( 27 , 29 ) .
+The model also suggests that NadR interacts with PnuC at the membrane to function in the transport of NMN .
+The hydropathy plot of the predicted NadR amino - acid sequence does not favor an integral membrane location for this protein ( Fig. 5C ) .
+The gene product experiments do suggest that membrane fractions contain a portion of the NadR protein , although the specificity of that association awaits further study .
+It seems reasonable to predict that NadR may loosely associate with the membrane through its interaction with the membranebound PnuC .
+We hypothesize that NadR may associate or disassociate from the membrane ( at PnuC ?
+) depending upon intracellular NAD levels .
+In combination with corepressor , the cytoplasmic form of NadR would be capable of acting as a transcriptional repressor of nadA , nadB , and pncB .
+While a logical candidate for the corepressor is NAD , this has not been demonstrated .
+It is interesting that the consensus sequence ( Gly - X-Gly - X-X - Gly ) for dinucleotide - binding proteins , as proposed by Moller and Amons ( 16 ) , is not present in the NadR sequence .
+However , homology to the consensus sequence observed for mononucleotide - binding proteins ( Gly - X-X - X-X - Gly - Lys - Ser ) is present twice in NadR , at A 25 20 NadA 15 2 10 0 -5 -10 2I .
+n u V yI -15 - -20 - -25 - 50 - 100 - 150 - 200 250 - 300 - 350 B PnuC 40 - 2V 09 3 2 ` od - i & w 50 1 0 0 ' - -1 10 -2 .0 - .
+x. * 1 - I 50 - 100 - 150 - 200 250 300 c NadR Z. 50 100 1 50 - 200 - 250 - 300 35 400 FIG. 5 .
+Hydropathy profiles of NadA ( A ) , PnuC ( B ) , and NadR ( C ) deduced proteins .
+The hydropathicity value of each amino - acid - residue is plotted against its position in the polypeptide ( x axis ) , starting with the amino terminus ( 11 ) .
+172 , 1990 REGULATION OF NAD METABOLISM IN S. TYPHIMURIUM 4195 B. Repression NMN NMN out PnuC ) membrane in NMN t low [ NAD ] 1 nadB out PnuCamembrane X high [ NAD ] 1 in pncB nadR nadA pnuC nadB pncB FIG. 6 .
+Hypothesized model for the bifunctional nature of NadR .
+( A ) Under low internal NAD conditions ( low [ NAD ] , ) , NadR collaborates with PnuC in the transport of NMN .
+( B ) Under a high internal NAD concentration ( high [ NAD ] i ) , NadR assumes a conformation i that increases its affinity for nad operator sequences but is less suitable for transport .
+positions 66 to 71 ( Gly - X-X - X-Gly - Lys ) and 237 to 244 ( Gly - X-X - X-X - Gly - Lys - Ser ) .
+The first site occurs in the amino - terminal half of NadR , while the second site occurs in the carboxyl - terminal half of the 409 - amino - acid protein .
+No such site is found in the other protein required for NMN uptake , PnuC .
+It will be useful to discover whether mutants deficient in regulation but not transport possess mutations in one of these sites , while mutants with the converse phenotype , transport deficient but regulation proficient , possess mutations in the other site .
+While it is tempting to predict nucleotide binding as the corepressor , it is also possible that some form of covalent modification of NadR occurs , converting it to an active repressor ( ADP - ribosylation ?
+We are currently seeking additional evidence to reveal the details of this novel mechanism of genetic control .
+Comparison of the nadA sequences of E. coli and S. typhimurium .
+Flachmann et al. ( 2 ) have sequenced nadA and nadB from E. coli .
+Comparison of the E. coli sequence with S E MSVMFDPQAAIYPFPPKPTPLNDDEKQFYREKIKRLLKERNAVMVAHYYTDPEIQQaAEE MVAHYYTDPEIQQVAEE S TGGCISDSLEMARFGTKHAASTLLVAGVRFMGETAKILSPEKTILMPTLAAECSLDLGCP E TGGCISDSLEMARFGAKHPASTLLVAGVRFMGETAKILSPEKTILMPTLQAECSLDLGCP S TDEFSAFCDAHPDRTVVVYANTSAAVKARADWVVTSSIAVELIEHLDSLGEKI IWAPDRH E VEEFNAFCDAHPDRTVVVYANTSAAVKARADWGVTSSIAVELIDHLDSLCEKIIWAPDKH S LGAYVQKQTGXDVLCWQGACIVHDEFKTQALTRLhK1YPDAA ` LLVHPESPQ ` SIVEMADAV E LGRYVQKQTGGDILCWQGACIVHDEFKTQALTRLQEEYPDAAILVHPESPQAIVDMADAV S GSTSQLIKAAKTLPHRQLLIVATDRGIFYKMQQAVPEKELLEAPTAGEGATCRSCAHCPWM E S E A. Transport/Derepression nadR GSTSQLIAAAKTLPHQRLIVATDRGIFYKMQQAVPDKELLEAPTAGEGATCRSCAHCPWM AMNGLKA1AEtfGt4GGARM2TLMRRYARAHYCRSTGCWI LRLHFGRKDGNLWGREWI FL AMNALGHRRGIRTGRKQSRGSC nadA pnuC S VRTTY FIG. 7 .
+Comparison of S. typhimurium NadA ( S ) and E. coli NadA ( E ) .
+Open circles indicate conservative replacement of an amino - acid .
+Solid circles indicate nonconservative replacement .
+that of S. typhimurium ( Fig. 7 ) reveals striking differences and similarities .
+The E. coli nadA sequence is an 840 - bp ORF coding for a 31,555 - Da protein .
+In contrast , the S. typhimurium nadA is a 1,095 - bp ORF coding for a 40,759 - Da protein .
+Maxicell analysis of the Salmonella nadA product confirmed this size ( Fig. 4 ) .
+Flachmann et al. ( 2 ) did not report on maxicell studies with the E. coli nadA .
+However , Suzuki et al. ( 25 ) did report a molecular weight of 35,000 for partially purified NadA from E. coli .
+Consequently , there does appear to be a significant difference between these organisms in the size of the NadA protein .
+Comparison of the amino - acid sequence , however , indicates that the central 262 amino - acids of Salmonella NadA are 91.6 % homologous to the equivalent portion of E. coli NadA .
+There are 43 additional amino - acids at the amino terminus and 43 additional amino - acids at the carboxyl terminus of the Salmonella NadA protein .
+While there is no report of a pnuC locus in E. coli , the sequence reported by Flachmann et al. ( 2 ) does contain a region homologous to the DNA sequence of Salmonella pnuC .
+There are several features of the NAD system which make it attractive for study , not the least of which is the unique bifunctional nature of the NadR repressor - transporter and its possible membrane association .
+There are other examples of membrane - associated regulatory proteins , such as ToxR from Vibrio cholerae , PutA from S. typhimurium , and BglS from E. coli ( 6 , 13 , 15 ) .
+The PutA protein is , in fact , bifunctional , possessing both proline oxidase and repressor activities ( 6 ) .
+More like the NadR system , the BglS protein is proposed to be a negative regulator of the bgl operon as well as a component of the P - glucoside phosphoenolpyruvatedependent phosphotransferase transport system ( 13 ) .
+The bgl operon , however , is cryptic and thus not central to the physiology of the cell .
+The significance of the NadR system lies in the central importance of NAD to cellular physiology and in the unusual transport of a phosphorylated compound , NMN , across the cytoplasmic membrane .
+It is reasonable for the cell to utilize such a system to maintain the appropriate intracellular concentration ( ca. 1 mM ) of a major cellular nucleotide .
+NAD affects so many diverse biochemical systems that the ability of the cell to respond quickly to NAD deprivation is clearly advantageous .
+One protein mediating both transcriptional control and transport of a preformed pyridine nucleotide would make the transition from repression and no transport to derepression and transport extremely efficient .
+Questions related to the possible mechanism ( s ) underlying the dual activities of NadR are currently under investigation .
+We thank H. Winkler , Z. Aliabadi , and D. Wood for enlightening discussions .
+We also thank C. Grubmeyer for providing pncB sequence and B. Stitt for help in revealing sequence homologies .
+The expert secretarial support of R. Hughes is greatly appreciated .
+Dale , R. M. K. , B. A. Mclure , and J. P. Houchins .
+A rapid single - stranded cloning strategy for producing a sequential series of overlapping clones for use in DNA sequencing : applications to sequencing the corn mitochondrial 18s rDNA .
+Flachmann , R. , N. Kunz , J. Seifert , M. Gutlich , F. - J .
+Wientjes , A. Laufer , and H. G. Gassen .
+Molecular biology of pyridine nucleotide biosynthesis in Escherichia coli .
+Cloning and characterization of quinolinate synthesis genes nadA and nadB .
+Foster , J. W. , and Z. Aliabadi .
+pH - regulated gene expres - 4196 FOSTER ET AL. sion in Salmonella : genetic analysis of aniG and cloning of the earA regulator .
+Foster , J. W. , E. A. Ho1ley - Guthrle , and F. Warrrn .
+Regulation of NAD metabolism in Salmonella typhimurium : genetic analysis and cloning of the nadR repressor locus .
+Foster , J. W. , and A. G. Moat .
+Nicotinamide adenine dinucleotide biosynthesis and pyridine nucleotide cycle metabolism in microbial syste , ms. Microbiol .
+Hahn , D. R. , R. S. Myers , C. ft. Kent , and S ' .
+Regulation of proline utilization in Salmonella typhimurium : molecular characterization of the put operon , and DNA sequence of the put control region .
+Unidirectional digestion with exonuclease III creates targeted breakpoints for DNA sequencing .
+Holley , E. A. , M. P. Spector , and J. W. Foster .
+Regulation of NAD biosynthesis in Salmonella typhimurium : expression of nad - lac gene fusions and identification of a nad regulatory locus .
+Kinney , D. , and J. W. Foster .
+Identification of a cis - acting regulatory region in the pnuB locus of Salmonella typhimurium .
+Klein , P. , M. Kanehisa , and D. DeLisi .
+The detection and classification of membrane - spanning proteins .
+Kyte , J. , and R. F. Doolttle .
+A simple method for displaying the hydrophobic character of a protein .
+Liu , G. , J. Foster , P. ManLapaz - Ramos , and B. Oliveria .
+Nucleoside salvage pathway for NAD biosynthesis in Salmonella typhimurium .
+Mahadevan , S. , A. E. Renolds , and A. Wright .
+Positive and negative regulation of the bgl operon in Escherichia coli .
+Maniatls , T. , E. F. Fritsch , and J. Sambrook .
+Molecular cloning : a laboratory manual .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 15 .
+Miller , V. L. , R. K. Taylor , and J. J. Mekalanos .
+Cholera toxin transcriptional activator ToxR is a transmembrane DNAbinding protein .
+Mil1er , W. , and R. AmoBs .
+Phosphate - binding sequences in nucleotide - binding proteins .
+Nasu , S. , F. D. Wicks , and R. K. Gholson .
+L - Aspartate oxidase , a newly discovered enzyme from Escherichia coli , is J. BACTERIOL .
+the B protein of quinolinate synthetase .
+Nasu , S. , F. D. Wicks , and R. K. Gholson .
+The mammalian enzyme which replaces B protein of E. coli quinolinate synthetase is D - aspartate oxidase .
+Sancar , A. , A. M. Hacks , and W. P. Rupp .
+Simple method for identification of plasmid - coded proteins .
+Sanderson , R. E. , and J. R. Roth .
+Linkage map of Salmonella typhimurium , edition VII .
+Sanger , F. , S. Nidken , and A. R. Coulson .
+DNA sequencing with chain - terminating inhibitors .
+Smith , M. , N. L. Brown , G. M. Air , B. G. Barrel , A. R. Coulson , C. A. Hutchinson HI , and F. Sanger .
+DNA sequence at the C - termini of the overlapping genes A and B in bacteriophage * X174 .
+Spector , M. P. , J. M. Hill , E. A. HoMey , and J. W. Foster .
+Genetic characterization of pyridine nucleotide uptake mutants of Salmonella typhimurium .
+SIrling , D. A. , C. S. J. Hulton , L. Waddel , S. F. Park , G. S. A. B. Stewart , I. R. Booth , and C. F. HiggIns .
+Molecular characterization of the proU loci of Salmonella and Escherichia coli encoding osmoregulated glycine betaine transport systems .
+Suzuki , N. , J. Carson , G. Griffith , and R. K. Ghols .
+Studies on the de novo biosynthesis of NAD in Escherichia coli .
+V. Properties of the quinolinic acid synthetase system .
+Tabor , S. , and C. C. Richardson .
+A bacteriophage T7 RNA polymerase/promoter system for controlled exclusive expression of specific genes .
+Tirgari , S. , M. P. Spector , and J. W. Foster .
+Genetics of NAD metabolism in Salmonella typhimurium and cloning of the nadA and pnuC loci .
+Zhu , N. , B. M. Olivera , and J. R. Roth .
+Identification of a repressor gene involved in the regulation of NAD de novo biosynthesis in Salmonella typhimurium .
+Zhu , N. , B. M. Olivera , and J. R. Roth .
+Genetic characterization of the pnuC gene , which encodes a component of the nicotinamide mononucleotide transport system in Salmonella typhimurium .

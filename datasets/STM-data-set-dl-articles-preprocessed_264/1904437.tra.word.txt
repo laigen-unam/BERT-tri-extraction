@@ -1,0 +1,289 @@
+JOURNAL OF BACTERIOLOGY , June 1991 , p. 3547 - 3553 0021 - 9193/91 / 113547 - 07 $ 02.00 / 0 Vol .
+173 , No. 11 The MetR Binding Site in the Salmonella typhimurium metH Gene : DNA Sequence Constraints on Activation KYNA A. BYERLY , MARK L. URBANOWSKI , AND GEORGE V. STAUFFER * Department of Microbiology , University of Iowa , Iowa City , Iowa 52242 Transcription of the metH gene in Salmonella typhimurium and Escherichia coli is positively regulated by the metR gene product , a DNA binding protein .
+The interaction between the MetR activator protein and the S. typhimurium metH control region was investigated .
+In vitro gel mobility - shift assays and DNase - I-protection assays established that the MetR protein binds to and protects a 24 - bp sequence in the metH promoter region from DNase I attack .
+This region includes the proposed metR recognition sequence 5 ' - TGAANNNNNCTCA - 3 ' .
+Single - base - pair changes were introduced into the proposed MetR recognition sequence within the promoter region of a metH - lacZ gene fusion by oligonucleotide - directed mutagenesis .
+Two classes of mutations were identified .
+In the first class , the mutations caused reduced activation of the metH - lacZ - fusions that correlated with reduced MetR binding .
+In the second class , activation of the metH - lacZ fusion was reduced , yet there was no appreciable reduction in MetR binding , indicating that the presence of bound MetR is not sufficient for activation of metH - lacZ gene expression .
+These two classes of mutations in the DNA binding site are grouped spatially , suggesting that the proposed MetR recognition sequence can be divided into two functional domains , one for binding and the other for activation .
+The methionine biosynthetic pathway in Escherichia coli and Salmonella typhimurium is regulated both negatively and positively at the level of transcription .
+All of the methionine biosynthetic genes , with the exception of metH , are negatively regulated by the MetJ repressor , with S - adenosylmethionine acting as a corepressor ( 16 ) .
+The MetR gene product , a DNA binding protein ( 1 , 24 ) , activates metA ( unpublished data ) , metE , metH , and glyA expression ( 1 , 14 , 26 ) .
+Homocysteine ( HC ) , a methionine pathway intermediate , modulates the MetR - mediated activation of these genes and has a negative effect on metA ( unpublished data ) and metH activation and a positive effect on glyA and metE activation ( 2 , 14 , 25 ) .
+Previous studies have shown that the MetR protein binds to the metE metR control region and protects a 24 - bp area ( 1 , 24 ) .
+Included in this protected region is an 8 - bp interrupted palindrome , 5 ' - TGAANNNNNTTCA - 3 ' , proposed to be the MetR recognition sequence .
+This palindromic sequence is highly conserved in the metA ( unpublished data ) and metH promoter regions ( 23 ) and has been proposed as the MetR recognition sequence .
+Because the S. typhimurium metH control region has been cloned and sequenced ( 23 ) , we investigated MetR binding in the metH control region through DNase - I-protection assays , gel mobility - shift assays , and mutational analysis of the proposed MetR binding site .
+MATERIALS AND METHODS Bacterial strains , plasmids , and bacteriophage .
+All bacterial strains used were derived from E. coli K - 12 and are described in Table 1 .
+Plasmid pMC1403 ( 3 ) , a lac fusion vector , has been described previously , as have bacteriophages M13mpl9 ( 27 ) and Xgt2 ( 13 ) .
+Plasmid pGS192 , carrying the S. typhimurium metH gene ( 23 ) , and pGS199 , carrying the S. typhimurium metR gene under control of the isopropyl - 3-D - thiogalactopyranoside - inducible tac promoter ( 24 ) , have been described previously .
+Other plasmids and * 3547 phage were constructed during this study and are described in the text .
+Luria agar , Luria broth , and glucose minimal - medium ( GM ) have been described previously ( 20 ) .
+GM was always supplemented with phenylalanine ( 50 , ug/ml ) and vitamin - B1 ( 1 , ug/ml ) .
+Additional supplements were added where indicated at the following concentrations : D - methionine ( D - met ) , 50 Rg/ml ; DL - HC , 100 p.g / ml ; ampicillin , 100 , ug/ml ; spectinomycin , 50 , ug/ml ; ( X - Gal ) , 40 pLg / 5 - bromo - 4-chloro - 3-indolyl - p-D - galactoside ml ; uridine , 0.25 pg/ml ; and isopropyl - p-D - thiogalactopyranoside , 1 mM .
+All A lysogens produce a temperature - sensitive A repressor due to the c1857 mutation and were grown at 30 °C .
+All other strains were grown at 37 °C .
+General procedures for plasmid DNA isolation , cloning , restriction enzyme digestion , ligation , and transformation have been described previously ( 9 ) .
+General procedures for growth , preparation , and transformation of single - stranded and double - stranded replicating form M13mpl9 DNA have been described previously ( 28 ) .
+Plasmid pGS201 and phage M13mpl9 - 201 .
+Construction of plasmid pGS201 and phage M13mpl9 - 201 is detailed in Fig. 1 .
+The 415 - bp EcoRI - EcoRV fragment on plasmid pGS201 contains 179 bp of the untranslated metH control region plus 77 codons of the amino - terminal end of the S. typhimurium metH structural gene .
+This fragment was fused to the eighth codon of the lacZ gene in plasmid pMC1403 ( 3 ) .
+The construction was verified by DNA sequencing across the metHlacZ fusion junction by using the Maxam and Gilbert procedure ( 10 ) .
+The EcoRI - BamHI fragment from pGS201 was cloned into bacteriophage M13mpl9 , creating M13mpl9 - 201 for use in site - directed mutagenesis .
+Purification of the MetR protein .
+The procedure used for purifying MetR was that of Maxon et al. ( 11 ) , with modification .
+One liter of Luria broth supplemented with - ampicillin and spectinomycin was inoculated with an E. coli strain transformed with the MetR overproducing plasmid pGS199 and grown to 50 to 70 Klett units .
+Isopropyl - p-D - thiogalac - 3548 BYERLY ET AL. .
+E. coli strains used in this investigation Genotype GS719a metBI metJ97 pheA905 thi araD129 rspL A ( lacZYAargF ) U169 GS761a metBI metJ97 metR : : AMu pheA905 thi araDl29 rspL A ( IacZYA - argF ) U169 BW313b HfrKL16 PO/45 [ lysA ( 61 - 62 ) ] dut - I ung - J thi - l relAl JM107b endAI gyrA96 thi hsdRJ7 supE44 relAl A - t ( lacproAB ) ( F ' traD36 proAB lacIq lacZAM15 ) DH5aC F - 480dIacZAMl5 A ( IacZYA - argF ) U169 recAl endAI hsdR17 ( rK - MK + ) supE44 X - thi - J gyrA relAl a This laboratory .
+b Obtained from M. Feiss .
+c Obtained from Bethesda Research Laboratories ( Bethesda , Md. ) .
+topyranoside was added to induce transcription of the metR gene on the plasmid , and the culture was incubated for an additional 3 h. Cells were harvested by centrifugation , resuspended in 8 ml of 2 x DNA binding buffer ( DBB ; lx DBB is 10 mM Tris hydrochloride [ pH 7.5 ] , 50 mM KCI , 1 mM EDTA , 1 mM dithiothreitol , and 5 % glycerol ) , and M13mpl9 EcoRI + EcoRV Ioate 415 bp RI - RV fragment FIG. 1 .
+Construction of the metH - lacZ gene fusion plasmid pGS201 and phage M13mpl9 - 201 .
+A 415 - bp EcoRI - EcoRV DNA fragment carrying the S. typhimurium metH gene control region and the first 77 codons of the metH structural gene was ligated into the EcoRI and SmaI sites of the lac fusion plasmid pMC1403 , creating the metH - lacZ fusion plasmid pGS201 .
+For in - vitro mutagenesis , a derivative of phage M13mpl9 was constructed by cloning the 420 - bp EcoRI - BamHI fragment from pGS201 carrying the metH control region into the EcoRI - BamHI sites of the phage , creating M13mpl9 - 201 .
+RI , EcoRI ; RV , EcoRV ; St , StuI ; B , BamHI ; S , Sall .
+The resulting crude lysate was centrifuged to pellet cell debris .
+The proteins were precipitated from the supernatant by adding ( NH ) 2SO4 ( 33 % final concentration ) and were collected by centrifugation .
+The pellet was resuspended in 2 ml of buffer A ( 50 mM Tris acetate [ pH 7.4 ] , 1 mM magnesium acetate , 1 mM dithiothreitol , 100 mM KCl ) and dialyzed overnight against buffer A to remove ( NH ) 2SO4 .
+The sample was run over a DE - 52 cellulose column equilibrated with buffer A .
+The column was washed with 2 column volumes of buffer A .
+The flowthrough was collected and dialyzed overnight against buffer B ( 25 mM Tris acetate [ pH 6.4 ] , 0.5 mM magnesium acetate , 0.5 mM dithiothreitol , 50 mM KCl ) .
+We found that the S. typhimurium MetR protein would only bind to the CM - 52 column in the next step at pH 6.4 , instead of the reported pH 7.4 used by Maxon et al. ( 11 ) .
+The protein - buffer B sample was run over a CM - 52 column equilibrated with buffer B .
+The column was washed with buffer B until no protein could be detected in the wash buffer by a Bio - Rad protein assay .
+The MetR protein was eluted from the column with a linear gradient from 50 to 350 mM KCl in buffer B. Fractions ( 1 ml ) were collected and assayed for the MetR protein by the gel mobility - shift assay .
+Active fractions were pooled and concentrated with a Centricon 10 concentrator ( Amicon , Danvers , Mass. ) .
+The concentrated sample was judged to be pure MetR protein by sodium dodecyl sulfate ( SDS ) - polyacrylamide gel electrophoresis , showing a single protein band at approximately 33 kDa ( results not shown ) .
+The purified protein was stored in buffer B at -70 °C .
+The DNase - I-protection assay was carried out in a 120 - pld reaction mixture and is based on the method of Schmitz and Galas ( 18 ) , with the following modifications .
+The EcoRI - BamHI fragment from pGS201 carrying the metH control region ( described above ) was - 32p labeled at the 5 ' end of either the EcoRI site or the BamHI site .
+The labeled fragment was preincubated for 5 min at 37 °C in 1 x DBB plus 125 jig of bovine serum albumin ( BSA ) per ml .
+Purified MetR protein was added ( see Fig. 3 ) , and the incubation was continued at 37 °C for an additional 15 min .
+A 6 - Rd portion of a solution of DNase 1 ( 2.5 , ug/ml dissolved in 20 mM sodium acetate [ pH 7 ] -32 mM CaCl2 ) was added , and incubation was continued at 37 °C for 30 s .
+The DNase I digestions were stopped by adding 25 p , l of a stop solution ( 3 M ammonium acetate , 0.25 M EDTA , 15 , ug of sonicated calf thymus DNA per ml ) and precipitated with ethanol .
+The partial DNase I digestion products were run on a DNA sequencing gel alongside the Maxam and Gilbert sequencing reactions of the DNA probe .
+After electrophoresis , the gels were dried and autoradiographed .
+Seven point mutations ( Fig. 2 ) were introduced into the metH control region by an in - vitro oligonucleotide - directed mutagenesis procedure ( 8 ) .
+Singlestranded uracil - containing M13mpl9 - 201 template was isolated from the dut ung strain BW313 grown in Luria broth supplemented with uracil .
+Oligonucleotides ( 15 to 30 bp ) were synthesized by the University of Iowa DNA core facility .
+A phosphorylated oligonucleotide containing the desired mutation was annealed to the single - stranded uracilcontaining M13mpl9 - 201 template , the complementary strand was synthesized with T7 polymerase ( Pharmacia LKB Biotechnologies , Piscataway , N.J. ) , and the ends were ligated with T4 DNA ligase ( New England BioLabs , Beverly , Mass. ) .
+T7 DNA polymerase was used instead of the Klenow fragment because its higher processivity results in a greater amount of double - stranded DNA after the hybridiza - VOL .
+173 , 1991 MetR BINDING SITE IN THE metH CONTROL REGION 3549 REGION PROTECTED BY METR -35 -10 5 ' - GGCAAGC T G A A CATGT C T C A TGTTG ( CCCGTTGTTCTCTTTTCCGCCAGCACGCTTTGTGCCAGTATGGCTCGTTACGT - 3 ' PC ~ § 2 / I -62 G -61 A -59 G -56 G -53 T -51 T -50 G FIG. 2 .
+Locations of the mutations in the S. typhimurium metH control region .
+The base changes produced by in - vitro mutagenesis are shown below the sequence .
+The allele designation indicates both the base change and its position in the DNA sequence relative to the transcription start site .
+The region protected by bound MetR protein in the footprinting experiment ( see Fig. 3A ) is overlined .
+The site of transcription initiation ( arrow ) and likely -35 and -10 regions of the metH promoter were determined previously ( 23 ) .
+tion and fill - in steps ( data not shown ) .
+The resulting doublestranded DNA was transformed into the dut + ung + strain JM107 to destroy the original , uracil - containing strand .
+Plaques from this transformation were purified and singlestranded DNA was prepared .
+This procedure gives a > 50 % efficiency , allowing screening for mutants by the sequencing method of Sanger et al. ( 17 ) by using a T7 sequencing kit obtained from Pharmacia .
+This procedure resulted in the generation of seven new M13 phages : M13mpl9 - 201 - 62G , -201 - 61A , -201 - 59G , -201 - 56G , -201 - 53T , -201 - 51T , and -201 - 50G .
+The allele designation for each mutation denotes both its position in the DNA sequence relative to the transcription start site ( +1 ) and the mutant base occurring at that position ( Fig. 2 ) .
+The replicative - form DNA of each mutant phage was digested with EcoRI plus BamHI , and the resulting 420 - bp fragment containing the metH control region was ligated into the EcoRI and BamHI sites of plasmid pMC1403 .
+The resulting ligation mixture was used to transform competent DH5ct cells .
+The transformed cells were plated on Luria agar supplemented with X - Gal and ampicillin .
+From each sample , a single Ampr blue colony was purified , and plasmid DNA was prepared .
+These metH - lacZ fusion plasmids are identical to plasmid pGS201 except for the point mutation , and thus were named pGS201 - 62G , pGS201 - 61A , etc. .
+The parental metH - lacZ fusion plasmid pGS201 and the mutated metH - lacZ fusion plasmids were ligated into bacteriophage Xgt2 by using the method described previously ( 21 ) .
+These phage were named X201 ( parental ) , X201 - 62G , X201 - 61A , X201 - 59G , X201 - 56G , X201 - 53T , X201 - 51T , and X201 - 50G .
+Construction of X lysogens .
+Strains GS719 and GS761 were lysogenized with X201 or one of the mutant derivatives by the procedure described previously ( 21 ) .
+After purification , the lysogens were tested for a single copy of the X phage by infection with phage XcI90c17 ( 19 ) .
+P - Galactosidase activity of midlog - phase cultures was measured as described by Miller ( 12 ) by using the chloroform - SDS lysis procedure .
+Each sample was done in triplicate , and each assay was done at least twice .
+The gel mobility - shift assay is based on the methods developed by Fried and Crothers ( 5 ) and Garner and Revzin ( 6 ) .
+A double - stranded 420 - bp EcoRI - BamHI fragment from either pGS201 or mutant derivatives containing the metH control region was used as a target fragment .
+The parental and mutant plasmids were digested with EcoRI and BamHI and precipitated .
+A small aliquot of each digestion was run on a polyacrylamide gel , and the samples were adjusted to equal DNA concentrations .
+A concentration of MetR that shifted approximately half of the wild - type metH fragment was used for the assay .
+A 20 - , u reaction mixture containing 6 [ lI of DNA ( 0.5 pLg of digested plasmid , yielding approximately 20 ng of target fragment ) in TE buffer ( 9 ) , 2 [ l of BSA ( 2 mg/ml ) , 2 pl of H20 , and 10 , ul of 2x DBB was preincubated for 5 min at 37 °C .
+Two microliters of the purified MetR protein ( 10 ng ) was added to each reaction mix , and incubation was continued for an additional 15 min at 37 °C .
+One microliter of dye ( 0.1 % xylene cyanol and 50 % glycerol ) was added to each reaction mix , and the samples were loaded onto a 5 % polyacrylamide gel ( 1:30 bisacrylamide - acrylamide buffered with 10 mM Tris [ pH 7.4 ] , 0.38 M glycine , and 1 mM EDTA ) .
+Gels were prerun at 9 V/cm for 1 h before loading and run at 12 V/cm for 1.5 h after the samples were loaded .
+The gels were then stained with ethidium bromide and photographed .
+Gels comparing MetR binding to mutant and wild - type DNA were photographed with Polaroid type 665 positive/negative film at several different exposure times .
+Negatives from these photographs were used to analyze the density of shifted and unshifted bands with a scanning densitometer .
+At least two tracings per lane were made .
+Results from the scanning densitometer were quantified by photocopying the tracings , cutting out the peaks from each band , and weighing each peak .
+The percentage of DNA shifted by the addition of MetR to the reaction mix was determined by adding the weights of the shifted and unshifted bands for each sample .
+The ratio of the weight of the shifted band to the total weight was then determined , and the percentage of DNA shifted for each sample was calculated .
+The experiments were repeated at least three times for each sample .
+RESULTS Location of the MetR binding site .
+The MetR protein belongs to the lysR family of DNA binding proteins ( 7 ) and binds to the metE metR control region ( 1 , 24 ) .
+Since the MetR protein positively regulates metH expression , we tested whether MetR could bind to the metH control region .
+DNase - I-protection assays with the purified MetR protein and the 420 - bp EcoRI - BamHI DNA fragment from plasmid pGS201 carrying the metH control region were done .
+At low concentrations ( 2 to 4 ng ) , the MetR protein protects an approximately 23 - to 26 - bp region upstream of the -35 region of the metH promoter from DNase I digestion ( Fig. 3A ) .
+This protected region includes the sequence 5 ' - TGAANNNNNCTCA - 3 ' , previously proposed to be a possible MetR recognition sequence for metH on the basis of its homology to the MetR binding site for metE , 5 ' - TGAANNNNNTTCA - 3 ' ( 24 ) .
+Figure 2 shows the location of the MetR binding site in the metH control region .
+At the highest MetR concentration used ( 8 ng ) , a second MetR binding site was seen .
+Since the secondary binding site was located high in the gel , the metH fragment was labeled at the opposite end and the DNase - I-protection assay was repeated .
+The secondary MetR binding site is approximately > .
+: zper : : a. : : : 4b3e r : : < 3550 BYERLY ET AL. .
+SUU I1 - t -- U - S .
+r4e , ''  t - X. t : : .
+e. M : i : ... * : SB 6 .
+, = : apINF - i w j - ... * w w ; B '' .
+DNase - I-protection assay of MetR protein bound to the metH control region .
+The 32P - labeled 420 - bp EcoRI - BamHI fragment carrying the metH control region was incubated with purified MetR protein and then subjected to partial DNase I digestion .
+The digestion products were run alongside the A+G ( lane 1 ) and C+T ( lane 2 ) DNA sequencing reaction products of the fragment .
+( A ) 32P - labeling at the EcoRI site .
+Lane 3 , no MetR protein ; lanes 4 through 8 , 0.5 , 1.0 , 2.0 , 4.0 , and 8.0 ng of MetR protein , respectively .
+( B ) 32P - labeling at the BamHI site .
+Lane 3 , no MetR protein ; lanes 4 through 7 , 0.06 , 0.32 , 1.6 , and 8.0 ng of MetR protein , respectively .
+The primary protected site in the metH upstream control region is indicated as region 1 and the lower - affinity secondary site in the metH structural gene is indicated as region 2 to the right of each gel .
+22 to 26 bp long , covering bases 117 to 143 in the metH structural gene ( Fig. 3B ) , and includes the sequence 5 ' - TG AANNNNNTTTC - 3 ' , matching six of eight base pairs with the proposed MetR recognition sequence .
+Isolation of point mutations in the MetR recognition sequence .
+To determine which bases in the primary binding site are necessary for MetR recognition and binding , point mutations were constructed by site - directed mutagenesis .
+Effects of mutations on metH - lacZ expressiona , B - Galactosi - 3 - Galactosi - Lysogen dase activity Lysogen dase activity - HC + HC - HC + HC 719X201 242 77 761X201 13 12 719X201 - 62G 68 25 761X201 - 62G 24 22 719X201 - 61A 17 12 761X201 - 61A 17 16 719X201 - 59G 131 27 761X201 - 59G 10 10 719X201 - 56G 64 15 761X201 - 56G 11 10 719X201 - 53T 135 58 761X201 - 53T 11 9 719X201 - 51T 34 14 761X201 - 51T 16 14 719X201 - 50G 24 11 761X201 - 50G 11 11 a Lysogens of strains GS719 ( metJ metB ) and GS761 ( metJ metB metR ) were grown in GM supplemented with either D - met or D - met plus HC , as indicated .
+,3 - Galactosidase activity is given in Miller units of activity ( 12 ) .
+these experiments , we assumed that the consensus recognition sequence for MetR binding is 5 ' - TGAANNNNNTTCA - 3 ' , the 8 - bp interrupted palindrome found within the MetR footprint in the metE promoter region ( 24 ) .
+Seven point mutations were isolated ( Fig. 2 ) .
+Mutations -62 G , -61 A , -59 G , - SiT , and -50 G all change bases away from the proposed consensus sequence .
+Mutation -53 T changed the sequence towards consensus , creating a perfect match with the MetR binding site found in the metE promoter region .
+The base pair in the center of the palindrome is conserved as a TA base pair in the MetR binding sites of the metE ( 24 ) , metA ( unpublished data ) , and glyA ( unpublished data ) genes .
+Therefore , mutation -56 G was constructed to determine if this base is important in binding and activation .
+Effects of the mutations on metH - lacZ expression .
+After the mutations were verified by sequencing , they were cloned from the M13mpl9 phage into the lac fusion vector pMC1403 and subsequently cloned into phage Xgt2 ( see Materials and Methods ) .
+The resulting phages , X201 - 62G , X201 - 61A , X201 - 59G , X201 - 56G , X201 - 53T , X201 - 51T , and X201 - 50G , along with the parental phage X201 , were used to lysogenize strain GS719 ( metJ metB ) .
+Strain GS719 does not produce HC by the nonfolate branch of the methionine pathway because of the metB mutation .
+However , this strain does produce low levels of HC from S - adenosylhomocysteine via a regenerative pathway in E. coli ( 4 ) .
+HC is known to have an inhibitory role on the MetR - mediated activation of the metH gene ( 25 ) .
+We tested the effects of the mutations on MetR - and HC - mediated activation of the metH - lacZ gene fusion .
+The lysogens were grown in GM supplemented with D - met ( limiting methionine source ) or D - met plus HC and were assayed for , B - galactosidase activity ( Table 2 ) .
+In derepressed cultures ( no HC ) , for mutants -61 A , - SiT , and -50 G , P - galactosidase levels dropped 14 - , 7 - , and 10 - fold , respectively , compared with that for the parental lysogen 719X201 .
+In mutants -62 G and -56 G P - galactosidase levels dropped fourfold , and in mutants -53 T and -59 G P - galactosidase levels dropped about twofold .
+In the parental lysogen 719A201 , addition of HC to the growth media resulted in a threefold reduction in , - galactosidase levels , as found previously ( 25 ) .
+In all of the mutant lysogens except 719X201 - 61A , HC addition to the growth media resulted in two - to fourfold reductions in P - galactosidase levels compared with the levels in those cultures grown without HC .
+Thus , although the absolute levels of activation of the mutant fusions have been greatly reduced , all but VOL .
+173 , 1991 MetR BINDING SITE IN THE metH CONTROL REGION 3551 bound unbound I 'll , T Al 0 ( A. ' 4 ; 4 ~ ~ ~ K ~ ~ ~ ~ ~ ~ ~ ~ .
+K ~ ~ ~ ~ ~ ~ ~ ~ ~ , 0 C - i ,11 % / bound 42 3 50 10 42 37 6 4 -0 K ?
+Representative gel mobility - shift assay of MetR binding to wild - type and mutant metH control region DNA .
+The parental plasmid pGS201 and the mutant derivatives were cleaved at the EcoRI and BamHI sites , and the DNA was incubated with 10 ng of purified MetR protein ( see Materials and Methods ) .
+The specific protein - DNA complexes were then separated from the unbound 420 - bp EcoRI - BamHI fragment by gel electrophoresis .
+The percentage of bound or unbound fragment was determined by densitometry of photographic negatives of the gel .
+The parental plasmid pGS201 and the mutant derivatives are indicated above each lane .
+The percentage of the total amount of the 420 - bp EcoRI - BamHI fragment that was shifted to the slower migrating MetR - bound form is indicated below each lane and in Table 3 .
+mutant X201 - 61A retain the ability to down - regulate metHlacZ expression significantly in response to HC .
+To show whether the residual expression and regulation of the mutant metH - lacZ - fusions in the GS719 lysogens are still dependent on MetR activation , strain GS761 ( metJ metB metR ) was lysogenized with the mutant and parental phages .
+The lysogens were grown in GM supplemented with D - met or D - met plus HC and assayed for P - galactosidase activity ( Table 2 ) .
+Introduction of the MetR mutation in the GS761 lysogens resulted in substantially reduced expression of the parental and mutant metH - lacZ - fusions , with a concomitant loss of HC regulation .
+It is not clear why lysogen 761X201 - 62G retains twofold higher , netH - lacZ expression compared with the other GS761 lysogens .
+Effects of the mutations on MetR binding .
+Since all of the mutations negatively affected metH - lacZ expression , we assumed that they would all ncgatively affect MetR binding .
+To determine the effect of the mutations on MetR binding , gel mobility - shift assays with purified MetR protein and the 420 - bp EcoRI - BamHI fragment carrying the metH control region from plasmid pGS201 and the mutant derivatives with single - base - pair changes were done .
+DNA - protein mixtures were run on a 5 % polyacrylamide gel , and a scanning densitometer was used to quantitate the results ( see Materials and Methods ) .
+A concentration of MetR that resulted in approximately half ( 42 % ) of the wild - type metH fragment being shifted ( Fig. 4 ) was used .
+The amount of DNA bound by each mutant sequence compared with that bound by the parental sequence was then calculated as the ratio of mutant to parent binding ( Table 3 ) .
+DNAs isolated from plasmids pGS201 - 53T , pGS201 - 59G , and pGS201 - 56G all showed nearly wild - type levels of binding , suggesting that these mutations do not affect the ability of the sequences to bind MetR .
+When DNA fragments from plasmids pGS201 - 61A , pGS201 - 62G , pGS201 - 51T , and pGS201 - 50G were used , MetR binding ability was decreased by 4 - to 14 - fold , suggesting that these mutations changed bases necessary for MetR binding .
+Comparison of activation of gene expression and MetR TABLE 3 .
+Comparison of metH - lacZ expression in - vivo and MetR DNA binding in - vitro Lysogena l3 - Galactosidaseb MetR bindingc 719X201 1.00 1.00 719X201 - 62G 0.26 ± 0.01 0.24 ± 0.01 719A201 - 61A 0.07 ± 0.01 0.08 ± 0.02 719X201 - 59G 0.50 ± 0.01 1.07 ± 0.06 719X201 - 56G 0.22 ± 0.01 0.83 ± 0.06 719A201 - 53T 0.69 ± 0.02 1.08 ± 0.15 719X201 - 51T 0.13 ± 0.01 0.14 ± 0.01 719A201 - 50G 0.10 ± 0.01 0.09 ± 0.00 a Lysogens of strain GS719 ( metJ metB ) were grown in GM supplemented with D - met .
+b Ratio of f3 - galactosidase enzyme levels in the mutant divided by those in the parent .
+Cultures were grown in GM supplemented with D - met .
+c Ratio of the values for the mutant to those determined for the parent as determined in the gel mobility - shift assays .
+The effects of the mutations on ,3 - galactosidase levels and on MetR binding were compared ( Table 3 ) .
+For mutations -61 A , -62 G , -51 T , and -50 G at the outer ends of the palindrome , the reduction in , B - galactosidase levels correlated well with the reduction in MetR binding affinity .
+, - Galactosidase levels were also significantly reduced ( 1.8 - to 4 - fold ) for lysogens carrying mutations in the interior bases of the palindromic region ( -53 T , -59 G , and -56 G ) .
+However , there was no significant difference in the amount of DNA bound by the MetR protein .
+DISCUSSION The MetR protein belongs to the lysR family of DNA binding proteins ( 7 ) , and DNase - I-protection experiments have shown that MetR binds to the metE metR intergenic promoter region ( 1 , 24 ) .
+We have shown in this study that the MetR protein also binds to the metH control region , protecting a 24 - bp region from DNase I ( Fig. 2 and 3 ) .
+The size of the region protected is similar to the 24 - bp region protected from DNase I digestion by MetR in the metE metR control region ( 1 , 24 ) .
+Within the protected region is the sequence 5 ' - TGAANNNNNCTCA - 3 ' .
+This sequence shows a match in seven of eight base pairs with an interrupted 8 - bp palindrome in the MetR protected region in the metE metR intergenic control region ( 5 ' - TGAANNNNNTTCA - 3 ' ) that was shown to be important for appropriate metE and metR expression ( 24 ) .
+We have shown here that mutations in the 8 - bp interrupted palindrome in the upstream primary MetR binding site for the metH gene interfere with activation of the metH - lacZ fusion .
+In addition to the primary MetR binding site , a second , weaker binding site was located within the metH structural gene ( Fig. 3 ) .
+We are currently mutagenizing this secondary binding site to determine if it is biologically important for metH expression .
+Seven point mutations were introduced into the primary MetR binding site in the metH control region by oligonucleotide mutagenesis .
+On the basis of gel mobility - shift assay results and P - galactosidase levels , the mutations were placed into two classes .
+The first class consists of mutations -62 G , -61 A , - SiT , and -50 G , all located on the outer ends of the palindromic sequence ( Fig. 2 ) .
+These changes severely reduce the affinity of the DNA for the MetR protein , resulting in reduced activation of the metH - lacZ fusion ( Fig. 3 ; Table 2 ) .
+The second class consists of mutations -53 T , -59 G , and -56 T , located in the center of the dyad symmetry ( Fig. 2 ) .
+These changes do not greatly affect the affinity of the binding 3552 BYERLY ET AL. site for MetR but still prevent normal activation of the metH - lacZ - fusions .
+These results suggest that MetR binding is necessary but not sufficient for activation of the metHlacZ fusion .
+Recently Ray et al. ( 15 ) , working with the nitrogen regulator protein NRI - phosphate , reported that activator binding is not sufficient for activation .
+They showed that the nucleotide sequence of the u '' ' promoter plays an important role as well .
+However , the specific nucleotide determinants appear to lie in the C54 RNA polymerase binding site , well outside of the NRI - phosphate activator binding site .
+It is not known how bound MetR protein activates transcription .
+The spatial grouping of the mutations suggests that there may be two functional domains to the MetR binding site in the metH control region .
+The binding domain , which consists of the outer ends of the palindrome ( defined by mutations -62 G , -61 A , - SiT , and -50 G ) is necessary for recognition and binding of the MetR protein .
+The activation domain ( defined by mutations -53 T , -59 G , and -56 G ) may be necessary for proper orientation or conformation of the MetR protein .
+Alternatively , this region of the DNA may undergo a MetR - induced structural change ( e.g. , bending or strand unwinding ) necessary for activation .
+Additional mutational analysis to further define the two domains and to provide information on the mechanism of activation is being done .
+Homocysteine supplementation inhibits MetR - mediated activation of the parental metH - IacZ fusion about threefold ( 25 ) ( Table 2 ) .
+Mutations -62 G , - SiT , and - SOG , which result in a 4 - to 10 - fold reduction in binding affinity for the MetR protein in - vitro ( Table 3 ) , still allow a significant response in vivo to the addition of HC ( Table 2 ) .
+Mutation -61 A results in a 14 - fold reduction in the binding affinity for the MetR protein in - vitro and an almost total loss of the HC response in - vivo .
+This mutation may define the lower limit of affinity that still allows some MetR - mediated regulation of the metH promoter .
+Interestingly , mutations -53 T , -59 G , and -56 G do not disrupt MetR binding yet result in reduced levels of metH - lacZ expression .
+It is worth noting that these mutations still allow a normal or even greater range of response to HC .
+Thus , the ability of HC to regulate metH - lacZ expression does not appear to be strongly dependent either on the efficiency with which MetR binds to the metH - lacZ control region or on the efficiency with which already bound MetR can activate metH - lacZ expression .
+Although HC inhibition is clearly dependent on a functional metR gene ( Table 2 ) , the HC - regulated event may not necessarily occur at the metH control region .
+For example , HC has been shown to regulate the production of MetR protein at the metR metE locus ( 22 , 24 ) , and it is possible that regulation of the metH - lacZ fusion depends solely on the fluctuation in MetR levels .
+We are currently testing this hypothesis by constructing a strain that constitutively expresses the MetR protein .
+ACKNOWLEDGMENT This investigation was supported by Public Health Service grant GM38912 from the National Institute of General Medical Sciences .
+Cai , X. - Y. , M. E. Maxon , B. Redfield , R. Glass , N. Brot , and H. Weissbach .
+Methionine synthesis in Escherichia coli : effect of the MetR protein on metE and metH expression .
+Cai , X. - Y. , B. Redfield , M. Maxon , H. Weissbach , and N. Brot .
+The effect of homocysteine on MetR regulation of metE , metR and metH expression in - vitro .
+Casadaban , M. J. , J. Chou , and S. N. Cohen .
+In vitro gene fusions that join an enzymatically active P - galactosidase segment to amino - terminal fragments of exogenous proteins : Escherichia coli plasmid vectors for the detection and cloning of translational initiation signals .
+Duerre , J. A. , and R. D. Walker .
+Metabolism of adenosylhomocysteine , p. 43 - 57 .
+In F. Salvatore , E. Borek , V. Zappia , H. G. Williams - Ashman , and F. Schlenk ( ed .
+) , The biochemistry of adenosylmethionine .
+Columbia University Press , New York .
+Fried , M. , and D. M. Crothers .
+Equilibria and kinetics of lac repressor - operator interactions by polyacrylamide gel electrophoresis .
+Garner , M. M. , and A. Revzin .
+A gel electrophoresis method for quantifying the binding of proteins to specific DNA regions : application to components of the Escherichia coli lactose operon regulatory system .
+Henikoff , S. , G. W. Haughn , J. M. Calvo , and J. C. Wallace .
+A large family of bacterial activator proteins .
+Rapid and efficient site - specific mutagenesis without phenotypic selection .
+Maniatis , T. , E. F. Fritsch , and J. Sambrook .
+Molecular cloning : a laboratory manual .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 10 .
+Maxam , A. M. , and W. Gilbert .
+Sequencing end - labeled DNA with base - specific chemical cleavages .
+Maxon , M. E. , B. Redfield , X. Cai , R. Shoeman , K. Fujita , W. Fisher , G. Stauffer , H. Weissbach , and N. Brot .
+Regulation of methionine synthesis in Escherichia coli : effect of the MetR protein on the expression of the metE and metR genes .
+Experiments in molecular genetics , p. 352 - 355 .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 13 .
+Panasenko , S. M. , J. R. Cameron , R. W. Davis , and I. R. Lehman .
+Five hundred - fold overproduction of DNA ligase after induction of a hybrid lambda lysogen constructed in - vitro .
+Plamann , M. D. , and G. V. Stauffer .
+Regulation of the Escherichia coli glyA gene by the metR gene product and homocysteine .
+Ray , L. , F. Claverie - Martin , P. Weglenski , and B. Magasanik .
+Role of the promoter in activation of transcription by nitrogen regulator I phosphate in Escherichia coli .
+Saint - Girons , I. , C. Parsot , M. M. Zakin , 0 .
+Barzu , and G. N. Cohen .
+Methionine biosynthesis in Enterobacteriaceae : biochemical , regulatory , and evolutionary aspects .
+Sanger , F. , S. Nicklen , and A. R. Coulson .
+DNA sequencing with chain - terminating inhibitors .
+Schmitz , A. , and D. J. Galas .
+The interaction of RNA polymerase and lac repressor with the lac control region .
+Shimada , K. , R. A. Weisberg , and M. E. Gottesman .
+Prophage lambda at unusual chromosomal locations .
+I. Location of the secondary attachment sites and the properties of the lysogens .
+Stauffer , G. V. , M. D. Plamann , and L. T. Stauffer .
+Construction and expression of hybrid plasmids containing the Escherichia coli glyA gene .
+Urbanowski , M. L. , and G. V. Stauffer .
+Autoregulation by tandem promoters of the Salmonella typhimurium LT2 metJ gene .
+Urbanowski , M. L. , and G. V. Stauffer .
+Regulation of the metR gene of Salmonella typhimurium .
+173 , 1991 MetR BINDING SITE IN THE metH CONTROL REGION 3553 23 .
+Urbanowski , M. L. , and G. V. Stauffer .
+The control region of the metH gene of Salmonella typhimurium LT2 : an atypical met promoter .
+Urbanowski , M. L. , and G. V. Stauffer .
+Genetic and biochemical analysis of the MetR activator - binding site in the metE metR control region of Salmonella typhimurium .
+Urbanowski , M. L. , and G. V. Stauffer .
+Role of homocysteine in metR - mediated activation of the metE and metH genes in Salmonella typhimurium and Escherichia coli .
+Urbanowski , M. L. , L. T. Stauffer , L. S. Plamann , and G. V. Stauffer .
+A new methionine locus , metR , that encodes a trans - acting protein required for activation of metE and metH in Escherichia coli and Salmonella typhimurium .
+Yanisch - Perron , C. , J. Vieira , and J. Messing .
+Improved M13 phage cloning vectors and host strains : nucleotide sequences of the M13mpl8 and pUC19 vectors .
+Zoller , M. J. , and M. Smith .
+Oligonucleotide - directed mutagenesis : a simple method using two oligonucleotide primers and a single - stranded DNA template .

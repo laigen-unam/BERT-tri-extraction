@@ -1,0 +1,532 @@
+JOURNAL OF BACTERIOLOGY , Mar. 2005 , p. 1568 -- 1580 Vol .
+187 , No. 5 0021 - 9193/05 / $ 08.00 0 doi : 10.1128 / JB .187.5.1568 -- 1580.2005 Fis Regulates Transcriptional Induction of RpoS in Salmonella enterica Matthew Hirsch and Thomas Elliott * Department of Microbiology , Immunology , and Cell Biology , West Virginia University , Morgantown , West Virginia The sigma factor RpoS is known to regulate at least 60 genes in response to environmental sources of stress or during - growth to stationary - phase ( SP ) .
+Accumulation of RpoS relies on integration of multiple genetic controls , including regulation at the levels of transcription , translation , protein stability , and protein activity .
+Growth to SP in rich - medium results in a 30 - fold induction of RpoS , although the mechanism of this regulation is not understood .
+We characterized the activity of promoters serving rpoS in Salmonella enterica serovar Typhimurium and report that regulation of transcription during - growth into SP depends on Fis , a DNAbinding protein whose abundance is high during exponential - growth and very low in SP. .
+A fis mutant of S. enterica serovar Typhimurium showed a ninefold increase in expression from the major rpoS promoter ( P rpoS ) during exponential - growth , whereas expression during SP was unaffected .
+Increased transcription from P rpoS in the absence of Fis eliminated the transcriptional induction as cells enter SP. .
+The mutant phenotype can be complemented by wild - type fis carried on a single - copy plasmid .
+Fis regulation of rpoS requires the presence of a Fis site positioned at 50 with respect to P rpoS , and this site is bound by Fis in - vitro .
+A model is presented in which Fis binding to this site allows repression of rpoS specifically during exponential - growth , thus mediating transcriptional regulation of rpoS .
+Bacteria maintain intricate signaling networks that sense the environment and adjust cellular physiology accordingly .
+In Salmonella enterica serovar Typhimurium and Escherichia coli , less favorable growth - conditions ( e.g. , nutrient limitation , starvation , low - temperature , or osmotic shock ) initiate a general stress response by triggering the synthesis of the RNA polymerase sigma factor RpoS ( S ) .
+By directing RNA polymerase to promoters of specific genes involved in stress resistance , RpoS serves as the central regulator of the general protective response , also known as stationary - phase ( SP ) , and thus increases survival ( 28 ) .
+The importance of RpoS to serovar Typhimurium pathogenesis is evident from a mouse model involving lethal infections where rpoS mutants are completely avirulent ( 22 ) .
+The complexity of RpoS regulation is illustrated by the variety of mechanisms reported thus far in E. coli : transcription , translation , protein turnover , and protein activity ( 28 ) .
+One of the best - characterized induction phenomena is regulation of RpoS translation at low - temperature in rich - medium ( 30 °C ) .
+This stimulus increases transcription of a regulatory RNA , DsrA , which can pair with an upstream antisense element in the leader region of the rpoS transcript to relieve the antisense element 's inhibition of rpoS translation ( 38 ) .
+This process requires the Sm - like RNA - binding protein , Hfq , and results in activation of RpoS expression at a posttranscriptional step .
+Notably , hfq mutants show normal SP induction of RpoS in rich - medium , both in E. coli ( 29 ) and in serovar Typhimurium ( our unpublished data ) .
+Another regulatory pathway limiting RpoS abundance in growing cells is proteolytic degradation involving the ATPdependent ClpXP protease and a response regulator called Health Science Center , MICB , HSC - N , Morgantown , WV 26506 .
+MviA ( in serovar Typhimurium ) or SprE/RssB in E. coli ( 52 , 62 ) .
+In this pathway MviA is activated by an unknown stimulus through phosphorylation on D58 , which substantially increases its ability to bind to RpoS .
+The relevant kinase has not yet been found ( 16 , 28 ) .
+The binding event ( dependent on K173 of RpoS ) results in a sequestered nonfunctional RpoS molecule and thus can modulate RpoS activity in itself ( 8 , 75 ) .
+The MviA - RpoS complex also interacts with the ClpXP protease , which then actively degrades RpoS , recycling MviA ( 44 , 52 ) .
+RpoS elevates transcription of the response regulator during SP , thus constituting an autoregulatory loop in which the concentration of MviA is a limiting factor for the rate of RpoS degradation in - vivo ( 53 , 57 ) .
+Perhaps the most striking induction of RpoS is observed during - growth to SP in rich - medium , where the level of induction exceeds 30 - fold , based on the activity of RpoS - responsive reporters and rpoS - lac fusions ( 28 ; unpublished data ) .
+The transcriptional component of this induction ranges from 5 - to 10 - fold ( 28 , 29 ) .
+Expression levels are significantly lower in the absence of guanosine tetraphosphate during both growth and SP , but the actual induction ratio is nearly unchanged ( 29 ) .
+The cyclic AMP ( cAMP ) receptor protein , Crp , is also thought to be involved in rpoS transcriptional control , and yet the effect of the mutants is modest and interpretation is difficult due to the growth deficiency of the crp or cya ( defective in adenylate cyclase ) mutants in combination with growth - rate transcriptional control of rpoS ( 36 , 37 ) .
+In the present study we show that the Fis protein ( factor for inversion stimulation ) is involved in RpoS regulation during growth in rich - medium .
+Fis is a DNA - binding and bending protein that was initially characterized for its stimulatory role in site - specific DNA recombination ( 31 , 34 ) .
+Fis has been implicated in many other processes such as stimulation of excision and integration of lambda ( 4 , 5 , 20 , 67 ) , DNA replication at oriC ( 24 , 26 , 58 ) , transposition ( 70 ) , invasion of HEp - 2 cells ( 71 ) , and transcriptional activation and repression of several 1568 VOL .
+187 , 2005 Fis REGULATES INDUCTION OF RpoS IN S. ENTERICA 1569 genes , including hns , leuV , gyr , tyrT , proP , nuo , osmE , and rRNA operons ( 3 , 12 , 21 , 33 , 56 , 68 , 72 , 74 ) .
+We investigate here rpoS promoter activity and demonstrate that Fis mutants have elevated expression of rpoS that is specific to exponential phase .
+This pattern of regulation is in good agreement with the known variation in Fis abundance in different phases of growth : Fis is undetectable in SP but is present at over 40,000 dimers per cell upon dilution into fresh medium ( 2 , 6 , 50 ) .
+Based on these results and the requirement for specific sequences upstream of the major rpoS promoter , we present an intuitive model for transcriptional regulation of rpoS in which Fis binds to and represses transcription from P rpoS .
+MATERIALS AND METHODS Medium and growth - conditions .
+Bacteria were grown at 37 °C ( except where noted ) in various media : Luria - Bertani ( LB ) medium ( 63 ) , LB - medium containing 1 NCE minimal salts ( buffered LB - medium [ 10 ] ) , nutrient broth supplemented with5gofNaCl/liter ( NB ; Difco ) , and brain heart infusion ( BHI ; Difco ) .
+Liquid minimal - medium was morpholinepropanesulfonic acid medium ( 48 ) as modified ( 11 ) , supplemented with 0.2 % glucose as the carbon and energy source .
+When indicated , minimal - medium was supplemented with 1 % Casamino Acids ( Difco ) .
+Plates were prepared by using nutrient agar ( Difco ) .
+Antibiotics were added to final concentrations in selective media as follows : 100 g of sodium ampicillin/ml , 20 g of chloramphenicol/ml , 50 g of kanamycin sulfate/ml , and 20 g of tetracycline hydrochloride/ml , except that the ampicillin concentration was reduced to 50 g/ml for use with single - copy plasmids .
+MacConkey lactose agar was prepared as described previously ( 43 ) .
+X - Gal ( 5 - bromo - 4-chloro - 3 - indolyl - - D - galactopyranoside ) was used at 50 g/ml .
+Bacterial strains and construction .
+Most of the strains used in the present study were derived from wild - type S. enterica serovar Typhimurium strain LT2 ; all strains are described in Table 1 .
+We obtained strain LT2 from John Roth .
+Although this strain is the reference wild type , it has been shown to contain a nonfunctional mviA gene ( V102G substitution ) and is therefore defective in regulated RpoS turnover by ClpXP proteolysis ( 9 , 16 ) .
+LT2A is a derivative of LT2 whose only known difference is that it contains a functional mviA gene .
+LT2A was used to investigate RpoS proteolysis as indicated in the text ( 16 ) .
+The phage P22 mutant HT105/1 int - 201 was used for transduction in serovar Typhimurium by standard methods ( 18 ) , while P1 vir was used for transduction of fusions carried on the E. coli chromosome into serovar Typhimurium strain TE7304 ( see below ) .
+Transductants inheriting cya : : Tn10 and crp : : Tn10 insertions were selected on NB plates containing tetracycline and supplemented with 0.2 % glucose .
+The crp * allele used in the present study was originally isolated by Ailion et al. ( 1 ) .
+Construction of promoter fusions .
+The system used to construct promoter fusions relies on the cloning of PCR products amplified from serovar Typhimurium LT2 chromosomal DNA .
+In the GenBank sequence file AE008833 .1 ( 40 ) , the complement of the nlpD and rpoS sequences is given .
+Here , positions are indicated by using coordinates from AE008833 .1 , including nlpD ( bp 13178 to 12045 ) and rpoS ( bp 11982 to 10990 ) , and coordinates are listed with the same polarity as the genes ( higher to lower numbers ) .
+DNA fragments were produced with flanking EcoRI ( upstream ) and BamHI ( downstream ) sites and cloned into pRS551 to generate transcriptional lacZ - fusions ( 19 , 64 ) .
+To this end , we made four different P rpoS - lac [ op ] ( operon ) fusions : construct A , bp 12764 to 12338 ( TE8744 ) ; construct D , bp 12663 to 12467 ( TE8971 ) ; construct E , bp 12663 to 12528 ( TE8868 ) ; and construct F , bp 12586 to 12467 ( TE8947 ) .
+( All primer sequences are available upon request .
+) The P nlpD - lac [ op ] fusion was generated in the same manner and contains the region encompassing bp 13471 to 13052 .
+Recombinant plasmids were used to transform DH5 , and the fusions confirmed by PCR and DNA sequencing .
+The fusions were recombined into the E. coli chromosome as described previously ( 19 ) and then transduced into serovar Typhimurium by using P1 vir .
+In serovar Typhimurium , they are located at the put locus in single copy .
+Construction of deletion and/or insertions and point mutations .
+Most other constructs were made by direct transformation of serovar Typhimurium with different DNA segments amplified by PCR , utilizing the lambda red recombination system as provided on plasmid pKD46 ( 17 ) .
+Exponential - phase recipient cells , growing at 30 °C with selection for ampicillin resistance ( Amp r ) , were induced by treatment with 0.2 % arabinose for 1 h before electroporation , after which transformants were plated and selected at 37 °C .
+To construct site - directed mutations in P rpoS - lac [ op ] , we developed a multistep method .
+In order to prevent unwanted recombination events , a chloramphenicol resistance ( Cam r ) cassette was inserted at the native rpoS locus ( deleting bp 12720 to 12142 ) .
+The Cam r cassette was amplified by using rpoS - specific primers extended to provide homology to cat at the 3 end as follows : TGCTT TTGCCGTTACGCACCAC ( upstream ) and GCCTCAGGCATTTGAGAA GCAC ( downstream ) .
+The resulting insertion deleted the rpoS promoter region and gave loss of rpoS function as determined by the absence of visible catalase activity ( production of bubbles after spotting 5 l of hydrogen - peroxide on a patch of bacteria ) .
+In the second step , a tetAR cassette ( pWM7 as the template [ 42 ] ) was inserted to delete the rpoS promoter of the P rpoS - lac [ op ] fusion .
+Amplification used rpoS - specific primers extended to provide homology to tet at the 3 end as follows : CTCTTGGGTTATCAAGAGGG ( tetA ) ; ACTCGACAT CTTGGTTACCG ( tetR ) .
+The tetAR cassette is inserted at bp 12580 to 12555 of the P rpoS - lac fusion in strain TE8864 .
+In the third step , a point mutation and an in - frame deletion mutation ( both unmarked by drug resistance ) were introduced by transformation of strain TE8864 .
+PCR products were prepared containing either three point mutations or an in - frame deletion of a predicted Fis binding site .
+The upstream ( mutagenic ) primers used were GACCAGGTCTGCACCAAATGCCACGGTTGCAG TTGC and CACCCAGGCGGATGCAGCACAGCAAGGAGTTGTGACCAG G - - GCAGTTGCGTCTCAACCAAC , together with a downstream primer from within lacZ .
+The desired transformants acquired the Fis site mutation and lost the tetAR insertion .
+These transformants also acquired a functional rpoS promoter ; this allowed screening for them as Lac tetracycline - sensitive ( Tet s ) colonies that were confirmed by sequencing .
+Isolation of rpoS : : MudJ insertion and construction of promoter deletions .
+A large pool of MudJ insertions in LT2 was first generated by standard methods ( 30 ) .
+A phage P22 lysate grown on this pool was then used to transduce strain TE8607 to Cys kanamycin resistance ( Kan r ) on minimal - medium containing X - Gal .
+Blue ( Lac ) transductants were then screened by testing patches of cells grown on NB - kanamycin agar for catalase activity as described above .
+Putative rpoS mutants were purified and tested by PCR and then confirmed by DNA sequencing .
+The rpoS1082 : : MudJ insertion used in these experiments lies at codon 66 of rpoS ( bp 11784 ; strain TE8737 ) .
+Several insertion/deletion mutations were constructed in the TE8737 background by using the tetAR cassette and the lambda red method .
+This method utilized strain TE8738 , rpoS : : MudJ containing pKD46 ( 17 ) as the target for transformation with PCR - generated tetAR inserts derived from pWM7 .
+The linked MudJ and tetAR insertions were then backcrossed by P22 - mediated transduction to serovar Typhimurium LT2 , and the insertion joint was confirmed by DNA sequencing ( see Table 1 for the exact location of the tetAR insertions ) .
+To construct an in - frame deletion of the rpoS promoter region , we inserted tetAR to knock out P rpoS in the context of the MudJ fusion ( TE8913 ) and subsequently transformed the strain with pKD46 ( TE8915 ) .
+This strain served as the recipient for transformation with a PCR product carrying an in - frame deletion of the rpoS promoter ( bp 12582 to 12540 ) .
+The deletion was generated by PCR using a 60 - mer oligonucleotide with rpoS sequence interrupted by a 30 - bp deletion covering both the 35 and the 10 hexamers of the rpoS promoter : AGGAG TTGTGACCAGGTCTGCACAAAATTCCACCGTTGCA - - GAGGGCTCAG GTGAACAAAG , together with a downstream primer at bp 12301 .
+Although deleted for the P rpoS promoter , lac is expressed from P nlpD in these strains ; hence , transformants were screened for a subtle Lac phenotype and confirmed as Tet s and by DNA sequencing .
+RNA was isolated from wild - type LT2 cells during exponential phase by using an RNeasy minikit ( Qiagen ) .
+RNA served as the template for the 5 - rapid - amplification - of - cDNA - end ( 5 RACE ) reactions performed with a BD SMART RACE cDNA amplification kit as described by the manufacturer ( BD Biosciences ) with one exception .
+An rpoS - specific primer was used in firststrand cDNA synthesis , positioned at the initiation codon of rpoS .
+RACE reaction products were eluted from 1 % agarose gels by using the NucleoTrap gel extraction kit ( BD Biosciences ) , cloned into a pCR4 - TOPO vector ( Invitrogen ) and subsequently used to transform TOP 10 Electrocomp cells ( Invitrogen ) .
+Transformants were selected on NB - kanamycin plates containing X - Gal ( screening for a Lac phenotype ) .
+Plasmids were analyzed by PCR amplification of the insert , followed by DNA sequencing .
+Cells were centrifuged , resuspended in Z buffer ( 100 mM NaPO 4 [ pH 7.0 ] , 10 mM KCl , 1 mM MgSO 4 ) , diluted in Z buffer containing - mercaptoethanol , and then permeabilized by treatment with sodium dodecyl sulfate and chloroform ( 43 ) .
+The samples from exponential - phase time points were concentrated before assay to be approximately equal in density to samples 1570 HIRSCH AND ELLIOTT J. BACTERIOL .
+These numbers refer either to the extent of material included in a putPA : : Kan r - X - lac fusion or to the site of insertion or extent of material included in a deletion for tetAR constructs .
+Str r , streptomycin resistance ; Nal r , nalidixic - acid resistance .
+b [ op ] , operon ( transcriptional ) fusion .
+187 , 2005 Fis REGULATES INDUCTION OF RpoS IN S. ENTERICA 1571 obtained at later times .
+For all experiments , the exponential phase is defined by an optical density at 600 nm ( OD 600 ) of 0.25 .
+Assays were performed in Z buffer containing 50 mM - mercaptoethanol by a kinetic method with a plate reader ( Molecular Dynamics ) .
+Activities ( change in OD 420 per minute ) were normalized to the actual cell density ( OD 650 ) and were always compared to appropriate controls assayed at the same time .
+All of the - galactosidase assays were performed within1hofthetime of sampling ; during this interval cultures were kept on ice in Z buffer .
+The values shown are averages of at least three experiments with a standard deviation of 15 % unless otherwise stated .
+Immunological detection of proteins .
+For Western blots , cultures were grown as described in the text .
+Electrophoresis and protein transfer were as described previously ( 13 , 16 ) .
+After transfer to a Sequi - Blot polyvinylidene difluoride membrane ( Bio - Rad ) , blots were blocked in nonfat milk and incubated in phosphate - buffered saline ( PBS ) -- Tween containing the anti - RpoS monoclonal antibody R12 ( 13 ) , which is of the 2a isotype .
+After 30 min of incubation , blots were washed twice in PBS - Tween , incubated for 30 min in PBS - Tween containing biotinylated goat anti - mouse immunoglobulin , and finally incubated with streptavidin - conjugated horseradish peroxidase ( both from Southern Biotechnology Associates ) .
+Detection was performed by using enhanced chemiluminescence ( Amersham Biosciences ) .
+TE8905 harbors pFis349 ( 71 ) , which contains a 1.68 - kb DNA fragment encoding the orf1 - fis operon of serovar Typhimurium cloned into the single - copy plasmid pGS349 ( 32 ) .
+Plasmid DNA isolated from an E. coli host was used to transform an r m serovar Typhimurium strain ( TE315 ) and , subsequently , wild - type ( TE8744 ) and fis ( TE8764 ) strains containing the P rpoS - lac [ op ] fusion .
+Cultures were grown in LB - medium with - ampicillin and assayed for - galactosidase as described here .
+DNA target fragments were amplified from the serovar Typhimurium chromosome by using primers engineered to generate EcoRI and BamHI restriction sites at opposite ends of the product .
+We made three different shift targets , designated A , B , and C , that correspond , respectively , to bp 12750 to 12604 , 12643 to 12547 , and 12574 to 12475 of the P rpoS promoter .
+We also generated two mutant targets derived from target B , designated B * and B , using the same primers as for B but with chromosomal templates isolated from strains TE8887 and TE8895 .
+The PCR products were purified ( Qiagen ) and digested with EcoRI and BamHI restriction endonucleases .
+The fragment ends were then labeled by incorporation of [ 32 P ] ATP using the Klenow fragment of DNA polymerase as described by the manufacturer ( Promega ) and purified by using a PCR purification kit .
+Radiolabeled DNA fragments ( ca. 15,000 cpm per reaction ) were incubated with purified Fis protein ( R. Johnson ) for 15 min at room temperature in buffer containing 20 mM Tris - HCl [ pH 7.5 ] , 80 mM NaCl , 1 mM EDTA , 5 % glycerol , and 2 ng of poly ( dI - dC ) / l. Binding reaction products were analyzed by electrophoresis on a 8 % native polyacrylamide gel as previously described ( 72 ) .
+The gels were then dried , and the radioactive DNA was detected by autoradiography .
+RESULTS SP induction of RpoS in serovar Typhimurium is normal even in the absence of regulated proteolysis .
+Studies of Schweder et al. ( 62 ) and Zgurskaya et al. ( 73 ) suggest that in starving E. coli cells , RpoS abundance increases mainly as a result of increased protein stability .
+Another E. coli study reports RpoS induction in the absence of an intact RpoS degradation pathway ( 52 ) .
+We investigated the role of this pathway in the induction of RpoS for serovar Typhimurium grown to SP in rich - medium ( i.e. , LB - medium ) .
+A katE - lac [ op ] fusion was used as a reporter of RpoS activity ( 13 , 45 ) .
+Expression of the katE - lac fusion was measured both in a wild - type LT2A background and in clpX and mviA mutants defective in regulated turnover of RpoS .
+( The mviA gene is the serovar Typhimurium ortholog of E. coli rssB/sprE [ 9 ] .
+) During exponential - growth ( OD 600 0.25 ) , expression of katE - lac in both the clpX and mviA mutants was 5 - fold higher than in the wild type ( Fig. 1A ) .
+This result is consistent with the idea that MviA and ClpXP function together to degrade RpoS during exponential - growth ( 16 , 44 , 52 ) .
+A quantitatively similar increase in katE - lac expression in the mutant backgrounds was FIG. 1 .
+SP induction of RpoS is normal in turnover - defective mutants .
+( A ) LT2A strains harboring the RpoS reporter , katE - lac [ op ] , and carrying the indicated mutations were sampled for - galactosidase activity during exponential phase at an OD 600 of 0.25 ( E ) and after 24 h of growth ( SP ) .
+SP induction was calculated as the ratio of the SP activity to the exponential - phase value ( SP/E ) .
+( B ) The indicated strains were probed for RpoS protein at time points E and SP by Western analysis .
+The gel for the exponential experiment was loaded with the lysate recovered from 10 - fold more cells in order to visualize low concentrations of RpoS in the LT2A background .
+All strains were grown at 37 °C in LB - medium .
+Strains : LT2A mviA ( TE6851 ) ; LT2A clpX ( TE6850 ) .
+also observed after 24 h of growth ( defined as the SP ) .
+This result suggests that the MviA and ClpXP pathway for RpoS degradation functions at a similar level during both exponential growth and at SP in LB - medium .
+The normal SP induction ratio for katE - lac expression in the mviA and clpX mutants indicates that this proteolytic pathway does not regulate SP induction of RpoS ( ratio shown as SP/E , Fig. 1A ) .
+Somewhat higher katE - lac activity in the mviA mutant compared to the clpX mutant is consistent with a role for MviA to sequester RpoS even if proteolysis is blocked ( 8 , 75 ) .
+To confirm this result , the abundance of RpoS was determined by Western blot analysis of cells in both exponential growth and SP ( 10 - fold more material was loaded for exponential cells to allow visualization of RpoS in the wild type ) .
+Both clpX and mviA mutations resulted in a marked increase in RpoS abundance compared to wild - type LT2A .
+The increased amount of RpoS in the mutants appeared to be similar to the amount of RpoS detected in the LT2 strain , which is naturally defective in mviA function .
+The relative increase in RpoS observed in the mutant backgrounds for cells in exponential growth is apparently the same as during SP ( Fig. 1B ) .
+The combined lac fusion and Western blot results indicate that in serovar Typhimurium , the MviA/ClpXP turnover pathway does not mediate the SP induction of RpoS in LB - medium .
+Promoters contributing to rpoS expression in serovar Typhimurium .
+We next considered transcriptional regulation of rpoS .
+Studies in E. coli ( 28 , 29 , 60 ) indicate that regulation of 1572 HIRSCH AND ELLIOTT J. BACTERIOL .
+Promoter activity analyzed with rpoS : : MudJ as a reporter .
+The top line depicts the genetic organization of the rpoS region , with long horizontal arrows showing gene and transcriptional polarity and with small bent arrows indicating the promoters contributing to rpoS expression .
+Construct A contains the lac fusion formed by MudJ insertion at codon 66 of rpoS , and is otherwise wild type .
+Constructs B to E contain the same rpoS : : MudJ insertion as construct A and , in addition , contain insertions of a tetracycline resistance ( Tet r ) cassette accompanied by deletions ( insertion/deletions ) .
+Construct F is identical to construct A except it contains an in - frame deletion ( represented by slanted lines ) of the P rpoS promoter .
+Construct G is like construct F but also contains the insertion/deletion from construct B .
+The MudJ element is not drawn to scale .
+Construction details are given in Materials and Methods , and precise insertion sites are given in Table 1 .
+Shown next to each fusion is the - galactosidase activity as determined at an OD 600 of 0.25 ( E ) in cultures grown at 37 °C in LB - medium .
+Strain numbers for these constructs are as follows : A , TE8737 ; B , TE8901 ; C , TE8907 ; D , TE8913 ; E , TE8914 ; F , TE8925 ; and G , TE8937 .
+rpoS at the transcriptional level may be particularly important when cells grow to SP in rich - medium , in contrast to the posttranscriptional mechanisms mediating response to osmotic shock , carbon - starvation , or low - temperature .
+We previously demonstrated a 15 - fold induction of an rpoS - lac transcriptional fusion when the rpoS gene was derived from E. coli and studied both in E. coli ( 29 ) and in serovar Typhimurium ( 13 ) .
+Analysis of rpoS transcription in E. coli by primer - extension and in a second S. enterica serovar ( serovar Dublin ) by both primer - extension and Northern blot established that rpoS is transcribed from two distinct promoter regions ( 35 , 51 , 66 ) .
+Two closely spaced and relatively weak promoters ( P nlpD ) generate a bicistronic nlpD - rpoS message , whereas the major promoter ( P rpoS ) is located approximately in the center of the nlpD gene and generates a monocistronic rpoS transcript with a long untranslated leader region of 566 nucleotides ( 35 , 51 ) .
+E. coli and serovar Dublin share identical 35 and 10 hexamers for P rpoS with a 17 - bp spacer and initiate transcription at the same nucleotide .
+This region of serovar Typhimurium is identical to serovar Dublin , and therefore it is likely that the defined P rpoS promoter of E. coli and serovar Dublin is conserved in serovar Typhimurium .
+We investigated the transcriptional start of P rpoS in serovar Typhimurium by using RACE cDNA amplification .
+Total cellular RNA harvested during exponential phase served as a template in a reverse transcription reaction that exhibits terminal transferase activity , adding three to five residues to the 3 end of the first - strand cDNA .
+These residues anneal to an oligonucleotide that serves as an extended template for reverse transcriptase , thus generating a complete cDNA copy of the original RNA with a known sequence at both ends .
+The first - strand cDNA is then used directly in a 5 RACE PCR to generate double - stranded cDNA products .
+Three cDNA products were observed by using a primer positioned at the initiation codon of rpoS , and these corresponded to the predicted sizes of transcripts from P nlpD and P rpoS ( data not shown ) .
+The product representing P rpoS was cloned and sequenced .
+The results positioned the first base of the transcript 566 nucleotides upstream of the rpoS coding region at the identical initiating nucleotide of P rpoS in E. coli and serovar Dublin .
+Genetic analysis of the region upstream of rpoS in serovar Typhimurium suggests a pattern of transcriptional control similar to that seen in serovar Dublin and E. coli .
+We first isolated an insertion of the lac fusion - forming transposon MudJ in the VOL .
+187 , 2005 Fis REGULATES INDUCTION OF RpoS IN S. ENTERICA 1573 TABLE 2 .
+Activity of P rpoS in different media Growth medium - Galactosidase activity a E SP SP/E LB 31 230 7.6 Buffered LB 28 262 9.3 Buffered LB and glucose 28 208 7.4 BHI 31 232 7.4 Minimal glucose 124 191 1.5 Minimal glucose and Casamino Acids 109 203 1.8 a Exponential - phase ( E ) and SP are as defined in the text .
+Units for activity are defined in Materials and Methods .
+Values are averages with a variation of 17 % .
+SP induction is defined as SP/E .
+Testing autotranscription of rpoS .
+LT2 strains harboring transcriptional lacZ - fusions , expressed from the indicated promoters , in either a wild - type or a rpoS mutant background , were grown at 37 °C in LB - medium for 24 h , and the - galactosidase activity was determined .
+Promoter activity in the rpoS mutant is plotted as a percentage of the activity in the corresponding wild - type strain .
+Strains were as follows : P rpoS ( TE8744 and TE8758 ) , P nlpD ( TE8698 and TE8761 ) , P katE ( TE6153 and TE8760 ) , and P lacUV5 ( TE6676 and TE8759 ) .
+rpoS gene , forming a transcriptional - fusion of rpoS to lac ( at codon 66 of rpoS ) , to use as a reporter of in - vivo transcriptional regulation ( Fig. 2 ) .
+Expression of the rpoS : : MudJ fusion was analyzed during exponential phase in combination with insertion/deletion mutations constructed with a tet cassette predicted to affect the promoters serving rpoS or a deletion mutation of P rpoS ( Fig. 2 ) .
+All constructs were placed at the native rpoS locus in the bacterial chromosome .
+Insertion of tet downstream of P rpoS or an insertion of tet that also makes a small deletion encompassing P rpoS eliminated detectable activity of the rpoS : : MudJ reporter ( Fig. 2 , constructs C and D , the lower limit of detection is 0.8 U ) .
+In contrast , an insertion/deletion of the P nlpD promoter region but retaining P rpoS showed relatively high ( 75 % ) expression of the parental rpoS : : MudJ ( construct B ) .
+In a further test , a precise in - frame deletion of 30 bp , including the conserved 35 and 10 hexamers of the P rpoS promoter , was constructed ( Fig. 2 , construct F ) .
+This deletion reduces the expression of rpoS : : MudJ to 15 % of that seen in the wild type .
+We conclude that , similar to rpoS transcription in E. coli , P rpoS is the major rpoS promoter and P nlpD plays a minor role in serovar Typhimurium .
+Activity of the major rpoS promoter , P rpoS .
+Since most transcription of rpoS originates from P rpoS , we characterized this promoter in isolation by using a lac fusion system described previously ( 19 ) in which the fusion is transferred to the serovar Typhimurium chromosome at the put locus .
+The fusion used , P rpoS - lac [ op ] ( strain TE8744 ) , includes 426 bp encompassing P rpoS , from 209 to 217 with respect to the transcriptional start site .
+The activity of - galactosidase was determined during exponential - growth and in SP for cultures grown at 37 °C in different media ( Table 2 ) .
+Expression of the P rpoS - lac [ op ] fusion increased eightfold in SP during - growth in two different rich media , a finding which is consistent with results obtained for E. coli ( 28 ) .
+Both carbon availability and the production of weak - acids have been shown to affect rpoS transcription in E. coli ( 37 , 46 , 60 ) , and we hypothesized that these stimuli might be involved in SP induction of S. enterica rpoS .
+However , when activity and SP induction of P rpoS - lac [ op ] were assayed in buffered LB medium and buffered LB supplemented with 0.2 % glucose , the results were very similar to those observed in LB - medium and BHI medium .
+This suggests that neither pH changes nor the lack of a suitable carbon source is responsible for SP induction .
+When strain TE8744 was grown in minimal - medium ( either with or without Casamino Acids ) , rpoS - lac expression increased 3.5 - fold over expression in LB - medium .
+This increase in expression was specific to exponential - growth in minimal medium .
+As a result , SP induction of rpoS transcription was much reduced .
+This result might be explained by growth rate regulation of rpoS transcription ; however , our previous analysis of rpoS growth - rate regulation in serovar Typhimurium indicated that it occurs mainly at a posttranscriptional level ( 16 ) .
+No autotranscriptional role of rpoS .
+The transcriptional start of P rpoS is preceded by a typical sigma - 70 RNA polymerasedependent promoter consensus sequence ( TTGCGT -- 17 - nucleotide spacer -- TATTCT ) .
+To examine whether RpoS contributes to its own transcription , we investigated the activity of several promoters , as well as P rpoS , in both wild - type and rpoS mutant backgrounds .
+Strains harboring P rpoS - lac [ op ] or a P nlpD - lac [ op ] fusion in either a wild - type or rpoS background were grown at 37 °C in LB - medium for 24 h and assayed for - galactosidase activity ( Fig. 3 ) .
+A small increase in the expression of P nlpD and P rpoS was evident in the mutant background rather than the decrease predicted by a model involving selftranscription .
+As a positive control , we used the katE - lac [ op ] fusion and observed a 95 % reduction in katE - lac activity in the rpoS mutant ( 13 , 59 ) .
+A lacUV5 - lac [ op ] fusion was used as a negative control .
+Expression of this fusion demonstrated a 15 to 20 % increase in the absence of RpoS similar to that seen with the P nlpD and P rpoS fusions .
+These results confirm that RpoS is not involved in autoregulation during SP. .
+The increased expression of sigma - 70 promoters in the absence of RpoS is consistent with competition of sigma factors for RNA polymerase ( 13 , 23 ) .
+Computational analysis of the rpoS promoter .
+To further explore the transcriptional regulation of rpoS , we used a DNA motif search engine ( http://arep.med.harvard.edu / / ) to determine potential protein - binding sites in the region of the P rpoS promoter ( Fig. 4 ) ( 55 ) .
+This program utilizes the known , characterized binding sites of 59 transcriptional regulators to predict putative binding sites throughout the entire E. coli chromosome .
+The results suggested putative binding sites for a large number of regulators , including CytR , CRP , DnaA , FarR , Fis , FNR , HNS , IHF , GlpR , Lrp , MalT , MetJ , MetR , NarL , OmpR , SoxS , and TyrR .
+Of these , only CRP has been reported as a reg - 1574 HIRSCH AND ELLIOTT J. BACTERIOL .
+Analysis of the sequence near P rpoS .
+( A ) The sequence of the P rpoS promoter region is shown ( bp 12764 to 12338 of AE008833 .1 ) .
+Predicted Fis binding sites are underlined , and arrows designate putative CRP - binding half - sites .
+The numbering is relative to the transcriptional start site ( labeled 1 ) .
+( B ) The consensus sequence for Fis protein binding is given , as well as the sequences of predicted Fis - binding sites near P rpoS , individually designated by Roman numerals .
+The column labeled `` bit score '' represents the similarity of each putative site to a collection of known Fis - binding sites as determined by information analysis ( described in the text ) .
+Five of the most conserved base pairs in the consensus are marked with an underline ( where present in each sequence ) , and the asterisk marks the axis of rotational symmetry for the Fis consensus sequence .
+ulator of rpoS transcription ( 36 , 37 ) .
+We constructed tet insertion/deletions in cytR , fnr , and dps .
+No role for these three genes in the control of rpoS transcription was indicated based on equivalent activity of P rpoS - lac [ op ] in the wild - type and mutant backgrounds ( data not shown ) .
+The roles of Fis and CRP were further investigated .
+P rpoS expression and RpoS protein level are elevated in a fis mutant .
+One of the most convincing ( and intriguing ) potential binding sites was a strong Fis site centered at bp 50 with respect to the transcriptional start .
+Repression of rpoS transcription by Fis was an attractive hypothesis because the amount of Fis varies substantially at different points along the growth curve : Fis is abundant during exponential phase when RpoS is at a low level , whereas the Fis level drops sharply in SP as RpoS is induced ( 2 , 6 ) .
+To investigate the role of Fis in rpoS regulation , we tested the effect of a fis insertion/deletion ( 49 ) on the activity of P rpoS - lac [ op ] .
+During exponential phase , P rpoS - lac expression was ninefold higher in the fis mutant than in wild type ( Fig. 5A ) .
+This large increase was evident throughout exponential phase , and yet there was little difference from the wild type during SP. .
+Since the negative effect of Fis is restricted to exponential phase , this finding supports a role for Fis as negative regulator of rpoS at the transcriptional level .
+The activity of P rpoS - lac [ op ] in both wild - type and fis mutant backgrounds did not change even after extended growth in exponential phase , achieved by three repeated dilutions of dividing cells into prewarmed fresh LB - medium ( data not shown ) .
+Western blot analysis was used to determine the abundance of RpoS protein in the fis mutant .
+Samples for Western analysis were taken two mass doublings after dilution ( OD 600 0.05 ) and near the mid - exponential - phase ( OD 600 0.2 ) ( Fig. 5B ) .
+At both exponential time points RpoS protein abundance appeared to be significantly higher in the fis mutant ( three - to fourfold as measured by densitometry ) .
+RpoS protein observed in the fis mutant after 24 h of growth , a time when Fis levels are at a minimum , was indistinguishable from that of the wild type ( data not shown ) .
+We also observed increased exponentialphase expression of the RpoS - dependent reporters katE - lac [ op ] ( threefold ) and proV - lac [ op ] ( fourfold ) in the fis mutant , a finding consistent with the Western blot analysis of RpoS protein .
+Again , the specificity of the fis effect to exponential phase defines a regulatory role .
+187 , 2005 Fis REGULATES INDUCTION OF RpoS IN S. ENTERICA 1575 FIG. 5 .
+RpoS protein is elevated in a fis mutant .
+( A ) Wild - type and fis mutant strains carrying P rpoS - lac [ op ] ( TE8744 and TE8764 , respectively ) were grown to SP , and the - galactosidase activity was determined .
+The same cultures were diluted into prewarmed fresh LB medium to allow exponential - growth into SP , and the activity was determined for both E and SP. ( B ) Wild - type ( TE6285 ) and fis mutant ( TE8768 ) strains were analyzed for RpoS protein at two exponentialphase time points as described in Materials and Methods .
+Complementation of the fis mutation .
+To confirm that the increase in rpoS transcription in the fis mutant was due to the absence of Fis , the exponential - phase activity of P rpoS - lac [ op ] was measured in wild - type and fis mutant backgrounds harboring either the single - copy fis expression plasmid , pFis349 , or the empty vector control pGS349 ( 32 , 71 ) .
+The ninefold elevation of rpoS transcription in the fis mutant was completely FIG. 6 .
+Complementation of the fis mutation .
+LT2 wild - type and fis mutant strains containing the P rpoS - lac [ op ] fusion and also harboring pFis349 ( fis ; TE8916 and TE8917 ) or its vector control pGS349 ( TE8911 and TE8912 ) were grown at 37 °C in LB - medium containing ampicillin .
+The - galactosidase activity was determined for cultures grown to an OD 600 of 0.25 .
+eliminated by pFis349 ( Fig. 6 ) .
+The presence of pFis349 in the wild - type strain slightly decreased P rpoS - lac activity , a finding consistent with the idea that Fis represses rpoS transcription .
+The wild - type and fis strains containing the control plasmid exhibited activities similar to those of the plasmid - free strains .
+Elevation of P rpoS activity in a fis mutant depends on a predicted Fis binding site .
+Fis - binding DNA sequences have been analyzed by using information analysis ( 27 ) .
+In this method , known binding sites are first aligned based on highly conserved nucleotides .
+The nucleotide distribution at each position within the alignment is then used to derive a weight matrix according to classic information theory ( 61 , 65 ) .
+To determine the quantitative `` goodness '' of a candidate site , the relevant entries for each position in the weight matrix are summed .
+If a particular position were completely conserved within the known sites , a correct match in the candidate site would contribute 2 bits to its score .
+Characterized Fis sites have total scores that range from 2.5 to 15.7 , and the wellstudied ones in hin proximal to the hixL site have scores of 8 to 9 ( 27 ) , whereas the total scores for random sequences average 0 .
+Information analysis has been shown to accurately predict new Fis DNA - binding sites ( 27 ) .
+Software to perform the calculations is available ( http://www .
+lecb.ncifcrf.gov / toms/delila.html ) , but we chose to implement these relatively simple computations as a Python script ( unpublished data ) .
+Our analysis predicted a single high - scoring Fis binding site centered at position 50 with respect to the P rpoS start site ( bit score of 10.9 ; TCTGCACAAAATTCCAC CGTT , Fig. 4 ; Fis site III in Fig. 7 ) .
+Only 10 of 60 characterized Fis sites have a higher score .
+Weaker Fis sites near P rpoS were also predicted ( scores from 4.1 , Fig. 4B ) .
+In fact , we found 83 sites with scores equal to or greater than that of rpoS Fis site III within the first 10 6 bp of the E. coli genomic sequence .
+Nevertheless , since Fis is an abundant DNA - binding protein at its peak levels ( up to 100,000 monomers per cell ) , it is possible that most predicted sites are actually bound by Fis protein during exponential - growth .
+The contribution of Fis site III to rpoS regulation was determined by constructing mutant derivatives of the standard P rpoS - lac [ op ] fusion ( Fig. 7 , construct A ) .
+This construct displays a 9 - fold elevation during exponential - growth in the fis mutant compared to a wild - type background .
+Construct B contains a deletion of Fis site III ( in frame for nlpD , deletion from 60 to 40 ) in which half of a putative CRP binding site , which overlaps Fis site III , was also deleted ( Fig. 4 and 7 ) .
+This construct was nearly blind to the effect of the fis mutation and demonstrated a ratio of activity ( i.e. , fis mutant to wild type ) similar to that of the P lacUV5 - lac control ( Fig. 8 ) .
+Construct C is identical to construct A except for three point mutations at critical base pairs in Fis site III [ A ( 53 ) G , T ( 48 ) G , and C ( 43 ) G ; bit score of 3.3 ] that do not alter the predicted CRP site .
+This fusion also failed to show elevated expression of P rpoS in the fis mutant .
+Both of the Fis site III mutations ( constructs B and C ) confer a modest defect in expression in the fis mutant compared to construct A ( 1.5 - and 2.4 - fold decrease , respectively ) , perhaps because these mutations also affect basal promoter activity slightly .
+All fusions that retained the intact Fis site III were subject to control by Fis ( Fig. 7 , constructs A , D , E , and F ) .
+Conversely , constructs in which Fis site III was altered or deleted ( Fig. 7 , constructs B , C , and G ) 1576 HIRSCH AND ELLIOTT J. BACTERIOL .
+Transcriptional regulation of rpoS by Fis depends on Fis site III .
+Construct A represents the full - length , wild - type P rpoS - lac [ op ] fusion .
+Predicted Fis - binding sites ( labeled I to V ) are represented by black boxes , and predicted CRP half - sites are indicated by straight arrows .
+The bent arrow represents the transcriptional start .
+Construct B is a derivative of construct A carrying an in - frame deletion of the high - scoring Fis site III .
+Construct C is identical to construct A except for a set of three point mutations ( represented by an asterisk ) altering conserved nucleotides of Fis site III .
+In constructs D , E , F , and G , additional segments of this region are deleted as shown .
+Constructs H and I are control transcriptional - fusions driven by either the P lacUV5 or the P tac promoter .
+These constructs were assayed during exponential - phase growth in LB - medium in wild - type and fis mutant backgrounds .
+The results are plotted as the ratio of activity in the fis strain to the activity observed in wild type .
+Wild - type and fis mutant strains are , respectively , as follows : A , TE8744 and TE8764 ; B , TE8899 and TE8900 ; C , TE8887 and TE8888 ; D , TE8971 and TE8972 ; E , TE8868 and TE8869 ; F , TE9083 and TE9096 ; G , TE8947 and TE8949 ; H , TE6676 and TE8766 ; and I , TE6675 and TE8948 .
+were independent of regulation by Fis .
+We used the P tac promoter as a second control in addition to P lacUV5 ; its activity was not increased and in fact was slightly depressed in the fis background .
+Fis protein binds to the P rpoS region .
+Next , we characterized Fis binding in the P rpoS promoter region by using gel shift analysis .
+All binding reactions were performed in the presence of the nonspecific competitor DNA , poly ( dI - dC ) .
+As a control for these studies , we first demonstrated the binding of purified Fis protein ( R. Johnson ) to the E. coli proP 2 promoter region over the concentration range reported by Xu and Johnson ( 72 ) .
+PCR products corresponding to three adjacent regions near P rpoS ( Fig. 8 , fragments A , B , and C ) were used as binding targets .
+Fis bound to each of the fragments , notably with apparent affinities that reflected the score for the predicted Fis site ( s ) carried on each fragment .
+Fragment B includes Fis site III required for the in - vivo effect of Fis on rpoS ( Fig. 7 ) .
+This fragment exhibited binding at a low concentration of Fis ( 32 nM ) , and 90 % of the DNA target was in the bound form at 325 nM Fis .
+In marked contrast , fragments A and C demonstrate 15 and 1 % , respectively , of bound target at the same Fis concentration .
+To further define the contribution of Fis site III , fragment B * was generated from a template carrying the three point mutations in site III that block Fis regulation in vivo .
+At a higher Fis concentration , in which the wild - type B target was essentially all ( 98 % ) in the bound form , the mutant target B * was predominantly unbound .
+The B target that has a 21 - bp deletion of Fis site III also lost the ability to bind Fis .
+These results suggest that Fis acts directly as a repressor of the P rpoS promoter .
+Testing the interaction of CRP and Fis in the transcriptional regulation of rpoS .
+In E. coli , cAMP - CRP is reported as a negative regulator of rpoS transcription during exponential phase , whereas during entry to SP the complex may activate transcription ( 28 , 39 ) .
+A motif search of the P rpoS promoter region by the method of Schneider et al. ( 61 ) confirmed two putative CRP binding sites that were also previously predicted in E. coli ( 37 ) .
+The higher - scoring of the two sites is centered at 63.5 and actually overlaps Fis site III ( Fig. 4 ) .
+187 , 2005 Fis REGULATES INDUCTION OF RpoS IN S. ENTERICA 1577 FIG. 8 .
+Fis binds several DNA sites near P rpoS in - vitro .
+Electrophoretic mobility - shift assay analysis of Fis protein binding to the P rpoS region .
+A map of the region is depicted at the top with black boxes representing predicted Fis - binding sites ( labeled I to V ) .
+PCR was used to generate targets for shift assays , which are labeled A through C. For B * and B , respectively , the asterisk and the slanted lines represent either a set of three point mutations altering Fis site III or a deletion of that site .
+Radiolabeled fragments were incubated with increasing concentrations of purified Fis protein and analyzed by electrophoresis on a native polyacrylamide gel as described previously ( 72 ) .
+ment suggests a potential relationship between Fis and CRP in the regulation of rpoS transcription .
+Coordinate transcriptional regulation between Fis and CRP has been reported for several systems ( 14 , 72 ) .
+To investigate the role of CRP , we measured expression of P rpoS - lac [ op ] during exponential - growth in strains bearing the indicated mutations ( Fig. 9 ) .
+These experiments were performed at 37 °C in buffered LB - medium supplemented with 0.2 % glucose to minimize any growth deficiency of the cya and crp mutants .
+The cya and crp mutants both demonstrated a threefold increase in rpoS transcription during exponential phase .
+When a mutant crp * gene encoding a constitutively active form of CRP was introduced into the cya mutant background , wild - type expression was restored .
+In the fis crp double mutant , only a slight increase in P rpoS - lac [ op ] expression was observed compared to the fis single mutant .
+Furthermore , expression in the double mutant was substantially elevated compared to that in the crp single mutant .
+These results are consistent with a model in which most Fis regulation of rpoS is independent of CRP function , and is not mediated through , for example , competitive binding of the two regulators at the overlapping Fis III and CRP sites .
+DISCUSSION The sigma factor RpoS has been described as the `` master regulator of the general stress response '' ( 28 ) .
+It is noteworthy that this transcriptional regulatory protein is itself upregulated in response to a number of different stresses by pathways that act on diverse targets including transcription , translation , protein stability , and protein activity .
+The SP induction of RpoS in rich - medium is a dramatic effect , whether observed by Western blotting of RpoS protein ( 25 ) or in a number of studies using rpoS - lac fusions , including our own work , where we estimate the magnitude of the response at 30 - fold ( 28 , 29 ; unpublished data ) .
+What seems surprising is that various stimuli induce RpoS by such different mechanisms .
+Starvation for carbon seems to involve mainly stabilization of the protein against attack by the ClpXP protease ( 36 , 66 , 73 ) .
+Osmotic shock involves both protein stabilization ( 44 ) and a posttranscriptional effect dependent mainly on DsrA RNA and the Hfq protein .
+This pathway does not lead to an increase in the amount of DsrA ( 38 ) .
+In contrast , low - temperature leads to increased synthesis of DsrA RNA and Hfq - dependent activation of RpoS translation ( 54 ) .
+Finally , SP induction of RpoS in 1578 HIRSCH AND ELLIOTT J. BACTERIOL .
+CRP and cAMP influence rpoS transcription .
+P rpoS - lac [ op ] activity was assayed during exponential phase ( OD 600 0.25 ) in strains containing the indicated mutations .
+Growth was at 37 °C in buffered LB medium supplemented with 0.2 % glucose .
+The crp * allele encodes a constitutively active form of the CRP protein ( independent of cAMP ) .
+rich - medium involves both transcriptional and posttranscriptional components ( 28 , 29 ) .
+We initially eliminated the ClpXP - MviA degradation pathway as a regulator of SP induction of RpoS in rich - medium ( Fig. 1 ) .
+This conclusion is consistent with the results of Pratt et al. ( 52 ) who demonstrated increased RpoS during both exponential and SP in a sprE mutant of E. coli grown in LB medium .
+However , during - growth of E. coli in minimal - medium , the RpoS protein has a short half - life ( 1 min ) , and upon osmotic challenge , starvation , or switch to an acidic pH , protein stabilization is responsible for RpoS induction ( 7 , 44 , 73 ) .
+These reports are consistent with only a small transcriptional induction of P rpoS during - growth to SP in minimal - medium ( Table 2 ) .
+In rich media ( i.e. , LB and BHI media ) , control of SP induction of RpoS is exerted at the transcriptional and translational level , whereas in minimal - medium proteolysis seems to play the major role .
+Consistent with previous reports , rpoS is transcribed from two promoter regions P nlpD and P rpoS ( 35 , 51 ) .
+P nlpD is a minor contributor during both growth and SP and does not exhibit SP induction beyond the P lacUV5 control ( Fig. 2 and data not shown ) .
+P rpoS is the major rpoS promoter during - growth and SP , when increased transcriptional activity coincides with elevated RpoS .
+Three lines of evidence suggest that 70 recognizes P rpoS in - vivo : ( i ) the presence of an apparent 70 promoter sequence ( Fig. 4 ) , ( ii ) RpoS does not contribute to expression from its own promoter ( Fig. 3 ) , and ( iii ) RNA polymerase holoenzyme ( 70 ) transcribes this promoter in vitro ( data not shown ) .
+The elevation of P rpoS activity in the fis mutant during exponential phase eliminated SP transcriptional induction , an effect that can be totally complemented by plasmid - encoded Fis .
+The standard P rpoS fusion ( Fig. 7 , construct A ) contains five predicted Fis binding sites .
+Fis binding was demonstrated to at least three sites ( Fig. 8 ) , suggesting a nucleoprotein complex forms near P rpoS in - vivo .
+However , only Fis site III , positioned at 50 , was required for the regulatory effect .
+The importance of a single Fis binding site near transcriptional start sites has been reported for two other promoters , P fis and P2 proP ( 50 , 72 ) .
+In each case Fis binds to several positions , although nearly all regulation is conferred by a single Fis binding site centered at 42 ( P fis ) and 41 ( P2 proP ) from the transcriptional start sites ( 41 , 50 , 72 ) .
+Transcriptional regulation by Fis at P fis causes repression , possibly by blocking RNA polymerase interactions at the 35 region .
+During growth , the fis mutant displayed a ninefold elevation of P rpoS activity , although the increase of RpoS protein was estimated at three - to fourfold ( Fig. 5 ) .
+This suggests that additional ( posttranscriptional ) regulation may prevent some of the expected increase in protein levels , thereby making both rpoS transcription and translation rate limiting .
+Concerning the role of CRP - cAMP in the regulation of P rpoS , we suggest that it functions as a repressor although its effect is modest ( two - to threefold ) .
+The relationship between CRP and Fis appears to be one of Fis epistasis .
+The fis crp double mutant does not display an additive effect on P rpoS activity ; instead , but there is only a slight increase over the large effect of the fis single mutant .
+From this it seems that Fis regulation does not require CRP and that full CRP regulation is hindered in the absence of Fis .
+Further experimentation is necessary to define the role of CRP in the regulation of rpoS transcription .
+In the present study , we document a role for the DNAbinding protein , Fis , as a negative regulatory element for RpoS , acting at the transcriptional level .
+This model is intuitive , because Fis abundance varies inversely with RpoS .
+Synthesis of Fis is under transcriptional control and Fis abundance varies dramatically from undetectable in SP to over 40,000 dimers per cell upon dilution into fresh medium ( 2 , 6 , 50 ) .
+In E. coli , Fis displays autoregulation in which Fis protein competes with RNA polymerase for binding to the fis promoter , thus repressing its own transcription ( 6 ) .
+This autoregulatory effect is less pronounced in serovar Typhimurium ( 50 ) .
+In both organisms growth - phase expression of fis is thought to occur by a mechanism involving a nonoptimal region from 35 to 10 and specific base pairs near the transcriptional start site ( 69 ) .
+It has been demonstrated that normal regulation is also dependent upon CRP , and in - vitro results suggest fis promoter activation in the absence of Fis , with Fis and CRP acting synergistically as transcriptional repressors ( 47 ) .
+We believe that Fis probably acts directly as a repressor given that a specific site positioned at 50 is necessary for complete repression and that this site is specifically bound in vitro .
+Fis activates transcription of rRNA and many other genes , including some involved in replication , so it is conceivable that Fis also works indirectly .
+Further investigations into the regulation of Fis expression would provide a greater understanding of the interplay of global regulators in physiological adaptation .
+This study was supported by Public Health Service grant GM63616 .
+We thank Reid Johnson for the gift of purified Fis protein and the individuals cited in the text for bacterial strains .
+We also thank Joan Olson for comments and suggestions in the preparation of the manuscript .
+187 , 2005 Fis REGULATES INDUCTION OF RpoS IN S. ENTERICA 1579 1 .
+Ailion , M. , T. A. Bobik , and J. R. Roth .
+Two global regulatory systems ( Crp and Arc ) control the cobalamin/propanediol regulon of Salmonella typhimurium .
+Ali Azam , T. , A. Iwata , A. Nishimura , S. Ueda , and A. Ishihama .
+Growth phase - dependent variation in protein composition of the Escherichia coli nucleoid .
+Auner , H. , M. Buckle , A. Deufel , T. Kutateladze , L. Lazarus , R. Mavathur , G. Muskhelishvili , I. Pemberton , R. Schneider , and A. Travers .
+Mechanism of transcriptional activation by FIS : role of core promoter structure and DNA topology .
+Ball , C. A. , and R. C. Johnson .
+Efficient excision of phage lambda from the Escherichia coli chromosome requires the Fis protein .
+Ball , C. A. , and R. C. Johnson .
+Multiple effects of Fis on integration and the control of lysogeny in phage lambda .
+Ball , C. A. , R. Osuna , K. C. Ferguson , and R. C. Johnson .
+Dramatic changes in Fis levels upon nutrient upshift in Escherichia coli .
+Bearson , S. M. , W. H. Benjamin , Jr. , W. E. Swords , and J. W. Foster .
+Acid shock induction of RpoS is mediated by the mouse virulence gene mviA of Salmonella typhimurium .
+Becker , G. , E. Klauck , and R. Hengge - Aronis .
+The response regulator RssB , a recognition factor for sigma S proteolysis in Escherichia coli , can act like an anti - sigma S factor .
+Benjamin , W. H. , Jr. , X. Wu , and W. E. Swords .
+The predicted amino acid sequence of the Salmonella typhimurium virulence gene mviAA ( ) strongly indicates that MviA is a regulator protein of a previously unknown S. typhimurium response regulator family .
+Berkowitz , D. J. , J. M. Hushon , H. J. Whitfield , J. Roth , and B. N. Ames .
+Procedure for identifying nonsense mutants .
+Bochner , B. R. , and B. N. Ames .
+Complete analysis of cellular nucleotides by two - dimensional thin - layer chromatography .
+Bordes , P. , J. Bouvier , A. Conter , A. Kolb , and C. Gutierrez .
+Transient repressor effect of Fis on the growth phase - regulated osmE promoter of Escherichia coli K - 12 .
+Brown , L. , and T. Elliott .
+Efficient translation of the RpoS sigma factor in Salmonella typhimurium requires host factor I , an RNA - binding protein encoded by the hfq gene .
+Browning , D. F. , C. M. Beatty , E. A. Sanstad , K. E. Gunn , S. J. Busby , and A. J. Wolfe .
+Modulation of CRP - dependent transcription at the Escherichia coli acsP2 promoter by nucleoprotein complexes : anti - activation by the nucleoid proteins FIS and IHF .
+Cunning , C. , L. Brown , and T. Elliott .
+Promoter substitution and deletion analysis of upstream region required for rpoS translational regulation .
+Cunning , C. , and T. Elliott .
+RpoS synthesis is growth - rate regulated in Salmonella typhimurium , but its turnover is not dependent on acetyl phosphate synthesis or PTS function .
+Datsenko , K. A. , and B. L. Wanner .
+One - step inactivation of chromosomal genes in Escherichia coli K - 12 using PCR products .
+Davis , R. W. , D. Botstein , and J. Roth .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 19 .
+A method for constructing single - copy lac fusions in Salmonella typhimurium and its application to the hemA - prfA operon .
+Esposito , D. , and G. F. Gerard .
+The Escherichia coli Fis protein stimulates bacteriophage lambda integrative recombination in - vitro .
+Falconi , M. , N. P. Higgins , R. Spurio , C. L. Pon , and C. O. Gualerzi .
+Expression of the gene encoding the major bacterial nucleotide protein H - NS is subject to transcriptional auto - repression .
+Fang , F. C. , S. J. Libby , N. A. Buchmeier , P. C. Loewen , J. Switala , J. Harwood , and D. G. Guiney .
+The alternative sigma factor katF ( rpoS ) regulates Salmonella virulence .
+Farewell , A. , K. Kvint , and T. Nystrom .
+Negative regulation by RpoS : a case of sigma factor competition .
+Filutowicz , M. , W. Ross , J. Wild , and R. L. Gourse .
+Involvement of Fis protein in replication of the Escherichia coli chromosome .
+Gentry , D. R. , V. J. Hernandez , L. H. Nguyen , D. B. Jensen , and M. Cashel .
+Synthesis of the stationary - phase sigma factor sigma s is positively regulated by ppGpp .
+Gille , H. , J. B. Egan , A. Roth , and W. Messer .
+The FIS protein binds and bends the origin of chromosomal DNA replication , oriC , of Escherichia coli .
+Hengen , P. N. , S. L. Bartram , L. E. Stewart , and T. D. Schneider .
+Information analysis of Fis binding sites .
+Signal transduction and regulatory mechanisms involved in control of the sigma S ( RpoS ) subunit of RNA polymerase .
+Hirsch , M. , and T. Elliott .
+Role of ppGpp in rpoS stationary - phase regulation in Escherichia coli .
+Hughes , K. T. , and J. R. Roth .
+Conditionally transposition - defective derivative of Mu d1 ( Amp Lac ) .
+Johnson , R. C. , M. F. Bruist , and R. I. Simon .
+Host protein requirements for in - vitro site - specific DNA inversion .
+Jourdan , A. D. , and G. V. Stauffer .
+Genetic analysis of the GcvA binding site in the gcvA control region .
+Keane , O. M. , and C. J. Dorman .
+The gyr genes of Salmonella enterica serovar Typhimurium are repressed by the factor for inversion stimulation , Fis .
+Koch , C. , and R. Kahmann .
+Purification and properties of the Escherichia coli host factor required for inversion of the G segment in bacteriophage Mu .
+Lange , R. , D. Fischer , and R. Hengge - Aronis .
+Identification of transcriptional start sites and the role of ppGpp in the expression of rpoS , the structural gene for the sigma S subunit of RNA polymerase in Escherichia coli .
+Lange , R. , and R. Hengge - Aronis .
+The cellular concentration of the sigma S subunit of RNA polymerase in Escherichia coli is controlled at the levels of transcription , translation , and protein stability .
+Lange , R. , and R. Hengge - Aronis .
+Identification of a central regulator of stationary - phase gene expression in Escherichia coli .
+Majdalani , N. , C. Cunning , D. Sledjeski , T. Elliott , and S. Gottesman .
+DsrA RNA regulates translation of RpoS message by an anti - antisense mechanism , independent of its action as an antisilencer of transcription .
+McCann , M. P. , J. P. Kidwell , and A. Matin .
+The putative sigma factor KatF has a central role in development of starvation - mediated general resistance in Escherichia coli .
+McClelland , M. , K. E. Sanderson , J. Spieth , S. W. Clifton , P. Latreille , L. Courtney , S. Porwollik , J. Ali , M. Dante , F. Du , S. Hou , D. Layman , S. Leonard , C. Nguyen , K. Scott , A. Holmes , N. Grewal , E. Mulvaney , E. Ryan , H. Sun , L. Florea , W. Miller , T. Stoneking , M. Nhan , R. Waterston , and R. K. Wilson .
+Complete genome sequence of Salmonella enterica serovar Typhimurium LT2 .
+McLeod , S. M. , S. E. Aiyar , R. L. Gourse , and R. C. Johnson .
+The C - terminal domains of the RNA polymerase alpha subunits : contact site with Fis and localization during co - activation with CRP at the Escherichia coli proP P2 promoter .
+Metcalf , W. W. , W. Jiang , L. L. Daniels , S. K. Kim , A. Haldimann , and B. L. Wanner .
+Conditionally replicative and conjugative plasmids carrying lacZ alpha for cloning , mutagenesis , and allele replacement in bacteria .
+Experiments in molecular genetics .
+Cold Spring Harbor laboratory , Cold Spring Harbor , N.Y. 44 .
+Muffler , A. , D. Fischer , S. Altuvia , G. Storz , and R. Hengge - Aronis .
+The response regulator RssB controls stability of the sigma S subunit of RNA polymerase in Escherichia coli .
+Mulvey , M. R. , and P. C. Loewen .
+Nucleotide sequence of katF of Escherichia coli suggests KatF protein is a novel sigma transcription factor .
+Mulvey , M. R. , J. Switala , A. Borys , and P. C. Loewen .
+Regulation of transcription of katE and katF in Escherichia coli .
+Nasser , W. , R. Schneider , A. Travers , and G. Muskhelishvili .
+CRP modulates fis transcription by alternate formation of activating and repressing nucleoprotein complexes .
+Neidhardt , F. C. , P. L. Bloch , and D. F. Smith .
+Culture medium for enterobacteria .
+Numrych , T. E. , R. I. Gumport , and J. F. Gardner .
+A genetic analysis of Xis and FIS interactions with their binding sites in bacteriophage lambda .
+Osuna , R. , D. Lienau , K. T. Hughes , and R. C. Johnson .
+Sequence , regulation , and functions of fis in Salmonella typhimurium .
+Paesold , G. , and M. Krause .
+Analysis of rpoS mRNA in Salmonella dublin : identification of multiple transcripts with growth - phase - dependent variation in transcript stability .
+Pratt , L. A. , and T. J. Silhavy .
+The response regulator SprE controls the stability of RpoS .
+Pruteanu , M. , and R. Hengge - Aronis .
+The cellular level of the recognition factor RssB is rate - limiting for sigma S proteolysis : implications for RssB regulation and signal transduction in sigma S turnover in Escherichia coli .
+Repoila , F. , and S. Gottesman .
+Signal transduction cascade for regulation of RpoS : temperature regulation of DsrA .
+1580 HIRSCH AND ELLIOTT J. BACTERIOL .
+Robison , K. , A. M. McGuire , and G. M. Church .
+A comprehensive library of DNA - binding site matrices for 55 proteins applied to the complete Escherichia coli K - 12 genome .
+Ross , W. , J. Salomon , W. M. Holmes , and R. L. Gourse .
+Activation of Escherichia coli leuV transcription by FIS .
+Ruiz , N. , C. N. Peterson , and T. J. Silhavy .
+RpoS - dependent transcriptional control of sprE : regulatory feedback loop .
+Ryan , V. T. , J. E. Grimwade , J. E. Camara , E. Crooke , and A. C. Leonard .
+Escherichia coli prereplication complex assembly is regulated by dynamic interplay among Fis , IHF and DnaA .
+Sak , B. D. , A. Eisenstark , and D. Touati .
+Exonuclease III and the catalase hydroperoxidase II in Escherichia coli are both regulated by the katF gene product .
+Schellhorn , H. E. , and V. L. Stones .
+Regulation of katF and katE in Escherichia coli K - 12 by weak - acids .
+Schneider , T. D. , G. D. Stormo , L. Gold , and A. Ehrenfeucht .
+Information content of binding sites on nucleotide sequences .
+Schweder , T. , K. H. Lee , O. Lomovskaya , and A. Matin .
+Regulation of Escherichia coli starvation sigma factor ( sigma s ) by ClpXP protease .
+Silhavy , T. J. , M. L. Berman , and L. W. Enquist .
+Experiments with gene fusions .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 64 .
+Simons , R. W. , F. Houman , and N. Kleckner .
+Improved single and multicopy lac - based cloning vectors for protein and operon fusions .
+Stormo , G. D. , and G. W. Hartzell III .
+Identifying protein - binding sites from unaligned DNA fragments .
+Takayanagi , Y. , K. Tanaka , and H. Takahashi .
+Structure of the 5 upstream region and the regulation of the rpoS gene of Escherichia coli .
+Thompson , J. F. , U. K. Snyder , and A. Landy .
+Helical - repeat dependence of integrative recombination of bacteriophage lambda : role of the P1 and H1 protein binding sites .
+Wackwitz , B. , J. Bongaerts , S. D. Goodman , and G. Unden .
+Growth phase - dependent regulation of nuoA - N expression in Escherichia coli K - 12 by the Fis protein : upstream binding sites and bioenergetic significance .
+Walker , K. A. , and R. Osuna .
+Factors affecting start site selection at the Escherichia coli fis promoter .
+Weinreich , M. D. , and W. S. Reznikoff .
+Fis plays a role in Tn5 and IS50 transposition .
+Wilson , R. L. , S. J. Libby , A. M. Freet , J. D. Boddicker , T. F. Fahlen , and B. D. Jones .
+Fis , a DNA nucleoid - associated protein , is involved in Salmonella typhimurium SPI - 1 invasion gene expression .
+Xu , J. , and R. C. Johnson .
+Fis activates the RpoS - dependent stationary - phase expression of proP in Escherichia coli .
+Zgurskaya , H. I. , M. Keyhan , and A. Matin .
+The sigma S level in starving Escherichia coli cells increases solely as a result of its increased stability , despite decreased synthesis .
+Zhi , H. , X. Wang , J. E. Cabrera , R. C. Johnson , and D. J. Jin .
+Fis stabilizes the interaction between RNA polymerase and the ribosomal promoter rrnB P1 , leading to transcriptional activation .
+Zhou , Y. , and S. Gottesman .
+Regulation of proteolysis of the stationary - phase sigma factor RpoS .

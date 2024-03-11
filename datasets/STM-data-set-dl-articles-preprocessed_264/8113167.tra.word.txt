@@ -1,0 +1,349 @@
+JOURNAL OF BACrERIOLOGY , Mar. 1994 , p. 1287 - 1296 Vol .
+176 , No. 5 0021 - 9193/94 / $ 04.00 +0 A Rationale for Autoinduction of a Transcriptional Activator : Ethanolamine Ammonia - Lyase ( EutBC ) and the Operon Activator ( EutR ) Compete for Adenosyl - Cobalamin in Salmonella typhimurium School of Life and Health Sciences , DAVID E. SHEPPARD ' * AND JOHN R. ROTH2 University of Delaware , Newark , Delaware 19716,1 and Department of Biology , University of Utah , Salt Lake City , Utah 841122 The ethanolamine utilization ( eut ) operon of Salmonella typhimurium is controlled by a positive regulatory protein ( EutR ) which stimulates eut operon expression in response to the simultaneous presence of two effectors , ethanolamine and adenosyl - cobalamin ( Ado - B12 ) .
+Ado - B12 is a cofactor for ethanolamine ammonialyase ( lyase ) , the first enzyme in the ethanolamine - degradative pathway .
+The dependence of this pathway on the use of Ado - B12 as an effector in eut operon induction may be explained by its role in the degradation of ethanolamine and the fact that this cofactor is not always made by S. typhimurium .
+The eutR gene lies within the eut operon , and its autoinduction is required for maximum operon expression .
+Evidence is presented that the placement of the eutR regulatory gene within the operon provides a means of balancing the competition between lyase and the regulatory protein for a very small pool of Ado - B12 .
+Since both lyase and the regulatory protein are induced , they can compete more equally for a small pool of Ado - B12 .
+This permits both continued eut operon induction and lyase activity .
+Two general observations support this model .
+First , mutations that inactivate lyase allow the operon to be fully induced by a lower level of exogenous cobalamin ( CN - B12 ) than required by a wild - type operon .
+This increase in sensitivity is measured as a reduction in the apparent Km for operon induction by exogenous CN - B12 .
+Second , the maximum level of operon induction by excess CN - B12 is dictated by the level of EutR regulatory protein , regardless of the level of lyase .
+The eut operon of Salmonella typhimurium encodes enzymes necessary for utilization of ethanolamine as a carbon , nitrogen , and energy source ( Fig. 1 ) ( 21 - 23 ) .
+The first enzyme in the ethanolamine - degradative pathway , ethanolamine ammonialyase ( lyase ) ( EC 4.3.1.7 ) ( 4 - 6 , 11 , 24 ) , catalyzes conversion of ethanolamine to acetaldehyde and ammonia .
+The two protein subunits of lyase are encoded by the eutB and eutC genes ( 22 ) .
+A second enzyme in the pathway , acetaldehyde dehydrogenase ( EC 1.2.1.10 ) ( 17 , 18 ) catalyzes conversion of acetaldehyde to acetyl coenzyme A and is encoded by the eutE gene .
+Lyase activity alone allows utilization of ethanolamine as a nitrogen source , whereas dehydrogenase is also required to initiate utilization of ethanolamine as a carbon source ( 7 ) .
+Adenosylcobalamin ( Ado - B12 ) performs two distinct functions in ethanolamine utilization ; it is a cofactor for lyase activity and is required , with ethanolamine , as an effector for eut operon induction ( 21 - 23 ) .
+Induction of the eut operon by these two effectors requires the action of a positive regulatory protein , EutR .
+The eutR gene is located at the promoter distal end of the eut operon ( Fig. 1 ) .
+In the absence of eut operon induction , the eutR gene is expressed by one ( eutP1I ) or more weak constitutive promoters located within the operon .
+This low constitutive level of EutR , with the effectors ethanolamine and Ado - B12 , initiates induction of the eut operon .
+Induced operon expression from the main promoter ( eutP , ) ( Fig. 1 ) can result in as much as a 200 - fold increase in transcription of the eutR gene .
+This increase in EutR is required for full induction of the * Sciences , University Delaware , Newark , DE 19716 .
+Electronic mail address : deshep @ brahms.udel.edu .
+The autoinduction of the EutR regulatory protein is the object of this study .
+Autoinduction of EutR seems to help the operon manage its regulation in the face of low pools of Ado - B12 and competition from lyase for binding of Ado - B12 .
+Ado - B12 can be synthesized de novo by S. typhimurium anaerobically but not aerobically ( 15 , 16 ) .
+Under anaerobic - growth - conditions , cells contain approximately 100 molecules of cobalamin ( 1 , 2 ) .
+Under both aerobic and anaerobic conditions , exogenously supplied Ado - B12 or cyanobalamin ( CN - B12 ) can be imported ( 3 , 22 ) , increasing the cobalamin level to several thousand molecules per cell ( 1 ) .
+Imported CN - B12 can be converted to Ado - B12 by the cobA gene product , thereby providing this effector and cofactor under aerobic conditions ( 13 ) .
+Regardless of whether these corrinoids are synthesized or imported , a small pool of not more than a few thousand molecules of Ado - B12 must serve as inducer of the eut operon ( by EutR ) and as cofactor for the pool of any newly synthesized lyase enzyme .
+One might expect that the new lyase molecules , produced following induction , would compete with the EutR regulatory protein for limiting levels of Ado - B12 .
+Two consequences of the autoinduction of EutR regulatory protein may be important for achieving and maintaining levels of eut operon induction that are sufficient for ethanolamine utilization .
+First , the increase in EutR regulatory protein levels insures that the major eut promoter ( eutP , ) approaches saturation with the EutR - ethanolamine - Ado - B12 - activating complex .
+An increased level of EutR protein would allow significant levels of the activating complex to form , even at relatively low intracellular concentrations of Ado - B12 .
+Second , under inducing conditions , a parallel increase in EutR and lyase could prevent newly synthesized lyase from sequestering a 1288 SHEPPARD AND ROTH Pi The eut Operon Pint J. BACTrERIOL .
+AtE A I - -- - - - I -- -- -- -- -- 1 -- -- -- -- -- Gene Function Acetaldehyde ?
+Dehydrogenase Ethanolamine Ammonia Lyase Operon Activator Protein 1 Acetaldehyde Pathway - Acetyl - CoA + .04 Ethanolamine Ammonia FIG. 1 .
+The pathway for ethanolamine breakdown to acetyl coenzyme A ( acetyl - CoA ) is shown at the bottom of the figure .
+The horizontal line in the middle is the genetic map , with inferred transcription starts indicated above .
+Inverted triangles indicate insertion mutations ; J , Mu dJ insertion ; A , Mu dA insertion ; T , TnlOd ( Tc ) insertion ; allele numbers are given above the triangles .
+Other numbers above the map indicate point mutations .
+Mutation DEL733 is a constructed deletion that extends from the insertion eut - 5 : : Mu dA ( located near the border between the eutA and eutB genes ) rightward to the cysA gene .
+Pint is a promoter [ ( probably within eutA208 : : TnJOd ( Tc ) ] which was created or activated by mutation .
+disproportionate amount of Ado - B12 .
+Such a mechanism could partition Ado - B12 more equitably between the regulatory protein and lyase , thereby permitting both continued degradation of ethanolamine ( by lyase ) and eut operon induction ( by EutR ) .
+The proposed sequence of events in eut operon induction can be summarized as follows .
+Initial induction is achieved with the effectors ethanolamine and Ado - B12 and the basal levels of EutR regulatory protein .
+EutR levels increase by autoinduction , and this allows the maximum level of expression typical of the eut operon to be achieved .
+In addition , the coordinated induction of both EutR and lyase permits limiting Ado - B12 to continue to play a significant role as both cofactor for lyase and effector for operon induction .
+In this study , strains that produce altered relative levels of lyase and activator protein have been constructed .
+The effect of these alterations on apparent Km values for induction by exogenous CN - B12 and on maximum operon expression have been used to infer the distribution of Ado - Bl2 between lyase and EutR protein .
+The results confirm some of the predictions inherent in the above model for eut operon induction .
+( i ) Increased levels of EutR protein result in a higher maximum level of operon induction ; ( ii ) reduction or loss of lyase allows maximum eut operon expression to occur at reduced levels of Ado - B12 effector , suggesting that the normal binding of the Ado - Bl2 cofactor to lyase represents a competition for available Ado - B12 .
+MATERIALS AND METHODS Bacterial strains and transposons .
+All strains are derivatives of S. typhimurium LT2 ( Table 1 ) .
+The eut mutations have been previously described previously ( 21 - 23 ) .
+The Mu dJ ( Kn ) ( 9 ) and Mu dA ( Ap ) ( 8 ) elements are transposition - defective derivatives of the specialized transducing phage Mu dl ( Apr lac cts ) ( 14 ) .
+A transposition - defective TnJO derivative , TnJOd ( Tc ) ( 27 ) , was used by Roof and Roth to produce the eutA208 : : TnlOd ( Tc ) mutation described here ( 21 ) .
+Complex medium was nutrient broth ( NB ) ( 0.8 % ; Difco Laboratories ) supplemented with NaCl ( 0.5 % ) .
+The carbon - free minimal - medium was NCE or Vogel and Bonner E medium ( 12 ) , and minimal - medium free of both carbon and nitrogen sources was NCN ( 20 ) .
+Ethanolamine hydrochloride ( 0.2 % ; Aldrich ) was used as a carbon source in NCE medium , as a nitrogen source in NCN medium with glycerol ( 0.2 % ) , or both as the carbon and nitrogen source in NCN medium .
+CN - B12 ( Sigma Chemical Co. ) was used as the exogenous vitamin - B12 source at the concentrations specified .
+Amino acids and purines were added to minimal - medium as described previously ( 12 ) .
+Complex medium contained the following antibiotics at the concentrations indicated : ampicillin , 30 , ug / ml ; kanamycin , 50 , ug/ml ; and tetracycline , 20 , ug/ml .
+Agar ( 1.5 % Difco ) was added to E , NCE , NCN , and NB media to prepare solid media .
+Transductional crosses were performed with the high - frequency generalized transducing phage mutant P22 HT105/1 int - 201 as previously described ( 25 ) .
+Transductant clones were purified and made phage free by streaking for single colonies on nonselective green indicator plates ( 10 ) .
+Strains to be assayed for , B - galactosidase activity were inoculated from a 1/150 dilution of an overnight NB culture into 2.5 ml of NCE - glycerol medium containing 20.5 mM ethanolamine and CN - B12 concentrations ranging from 0 to 0.08 , uM .
+All strains employed were able to transport VOL .
+TT17312 ... TT17313 ... TT17314 ... TJ ' 17315 ... .
+TT17317 ... TT17318 ... 1T17319 ... IT17320 ... 1T17321 ... .
+Following growth to mid - exponential - phase ( approximately 8 h ) at 37 °C on a New Brunswick shaker , model 50 , cells were held at 4 °C until assayed .
+, - Galactosidase enzyme activity was determined as previously described by Miller ( 19 ) , with toluene - sodium dodecyl sulfate - permeabilized cells .
+Enzyme activity was expressed in units defined as nanomoles of nitrophenol produced per minute per optical density at 650 nm of cell culture turbidity .
+Determination of apparent Km values for eut operon induction by CN - B12 .
+Strains were grown in NCE - ethanolamineglycerol medium over a range of CN - B12 concentrations .
+Induction of the eut operon was determined by measuring P - galactosidase expression from a Mu d lac operon fusion element inserted in the eut operon .
+When Km determinations were made for strains containing specific eut gene insertion mutations , 3 - galactosidase expression was measured directly from the Mu d lac insertion fusion in that particular eut gene .
+When Km determinations were made for strains containing point mutations in specific genes , eut operon expression was measured from the eut - 38 : : Mu dA lac fusion insertion located distal to all known point mutations .
+This insertion mutation does not result in any known eut phenotype ( 21 - 23 ) and is used routinely in this study either to measure the wild - type rate of eutR expression or to measure the effect of a eut point mutation AUTOINDUCTION OF eut OPERON ACTIVATOR 1289 on downstream eut operon expression .
+Apparent Km values for eut operon induction by CN - B12 were determined from the x - axis intercept of double - reciprocal plots of the following type : ( 1/percent maximal , B - galactosidase ) versus ( 1/CN - B 12 ) .
+Isolation of mutants with a new internal promoter .
+A saturated NB culture of strain TT17299 ( eutA208 : : Tn1Od ( Tc ) eutRl56 : : Mu dJ lac ) ( 0.1 ml ) was plated onto NCE - lactose agar medium .
+After several days , spontaneous Lac + mutant colonies arose with a frequency of about 10 to 20 per plate .
+One isolate ( TT17300 ) was characterized further .
+The mutation in this strain results in constitutive expression of the eutRl56 : : Mu dJ lac fusion and is referred to as Pi. , .
+In the experiments presented below , the general procedure is to construct a series of strains , each with a Mu d lac operon fusion at some point in the eut operon .
+In these strains , the inducibility of , B - galactosidase is dictated by the position of the fusion and the presence of additional mutations .
+These strains vary in their levels of EutR and lyase , and these differences affect regulation of the main promoter .
+These strains were grown with an excess of ethanolamine ( 20.5 mM ) and various concentrations of CN - B12 .
+Each culture was assayed for , B - galactosidase to determine the level of induction of the eut operon achieved at each concentration of CN - B12 .
+The internal concentration of the effector Ado - B12 was increased following the addition of exogenous CN - B12 ( 1 ) .
+Although the internal levels of Ado - B12 have not been measured directly , the linear increase in eut operon induction over a limiting range of exogenous CN - B12 concentrations ( Fig. 2A ) suggests a proportional relationship between exogenous concentrations of CN - B12 and internal concentrations of Ado - B12 .
+The apparent Km value for induction by exogenous CN - Bl2 was determined .
+The percent maximum 3 - galactosidase was used to determine Km values because strains containing different Mu d : : lac insertion mutations exhibit different maximum levels of 3 - galactosidase expression .
+The maximum achievable level of operon induction at excess CN - Bl2 was also determined .
+Some strains tested carry the eut - 38 : : Mu dA insertion ; this is an insertion within the operon , distal to all known eut genes .
+This insertion creates a eut : : lac operon fusion but causes no known Eut phenotype .
+We presume that expression of the lacZ gene in this strain reflects the behavior of a wild - type eut operon .
+Additional mutations were added to this strain to assess their effect on operon induction .
+Although the eut - 38 : : lac fusion detects the combined effect of the eutP , and eutP1j promoters , the eutP , , promoter is weak and only the eutP1 promoter is stimulated by the EutR - ethanolamine - Ado - B12 complex ( 21 - 23 ) .
+Thus the variation in eut operon induction in response to the CN - B12 concentration reflects the response of the eutP , promoter to Ado - B12 ( via the EutRethanolamine - Ado - B12 complex .
+The locations of fusions , point mutations , and the promoters used can be seen in Fig. 1 .
+Point mutations afect sensitivity of the operon to induction by exogenous CN - B12 .
+When strains were surveyed for inducibility of the eut operon by low levels of CN - B12 , two patterns of induction were seen .
+Sensitive strains were induced by a significantly lower level of CN - B12 than insensitive strains .
+This is illustrated in Fig. 2A .
+A strain with a simple eut - 38 : : lac fusion ( TT10674 ) was insensitive to induction .
+This sensitivity was greatly increased by the addition of a mutation eliminating lysase production ( eutCllO ) .
+A mutation in the dehydrogenase ( eutE56 ) had only a slight effect on induction sensitivity .
+The sensitive and insensitive strains differed by about 10 - fold in 1290 SHEPPARD AND ROTH J. BACTERIOL .
+130 eutC11 0 eut - 38 : : Mu dA 120 eutE56 eut - 38 : : Mu dA A w 110 1 < 100 -- a ) 90 0 01 1 - 80 w 01 00 eut - 38 : : Mu dA 60 ~ ~ ~ ~ ~ ~ ~ ~ 0.08 < 0.07 - < 50 : 0.06 I - ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 0.05 Olr I I z I I B I I 1 ~ ~ ~ -30 ~ ~ ~ ~ ~ ~ ~ ~ ~ w 0.03 - eutE5 t - 38 : : & A * i dA Z 3 0.02 - 20 .1 cc 1 0 ~ ~ eut - 38 : : Mu dA 0 a. ~ ~ ~ ~ ~ I ~ 0 SW/C - B 2 0 I I I I I I 0 0.02 0.04 0.06 0.08 [ CN - B12 ] ( uM ) FIG. 2 .
+Induction of the eut operon by exogenous CN - Bl2 : effect of eut point mutations on induction sensitivity .
+Cultures were grown aerobically on NCE - glycerol - ethanolamine as described in Materials and Methods over a range of CN - B12 concentrations .
+, - Galactosidase activities for each strain are presented as a fraction of the maximum induced level achieved .
+This was done to allow easy and direct comparison of the sensitivities of operon induction in these strains by exogenously supplied CN - B12 , some of which show very different maximum induced levels of operon induciton .
+These differences in maximum induced levels in strains with point mutations and insertion mutations ( Tables 2 to 4 ) will be described later .
+( A ) Operon expression was measured from a Mu dA lac fusion located in a noncritical downstream region of the eut transcription unit .
+The strains assayed were eut - 38 : : Mu dA ( TT10674 ) , eutE56 eut - 38 : : Mu dA ( TT17310 ) , and eutCl1O eut - 38 : : Mu dA ( TT17317 ) .
+( B ) Double - reciprocal plots were used to demonstrate the differences in induction sensitivity of the various strains and to calculate the apparent Km values for induction by CN - B12 ( Ado - B12 ) .
+Linear regression analysis was used to fit the data to straight lines .
+their apparent Km values for induction by exogenous CN - B12 ( Fig. 2B and Table 2 ) .
+When this survey was extended to a series of point mutations , the results ( Table 2 ) provided the initial evidence suggesting that lyase levels might affect induction sensitivity .
+The most striking increase in sensitivity was caused by mutations in genes for lyase ( eutB and eutC ) .
+Mutations in genes other than lyase had only small effects on the apparent Km of the operon for induction by exogenous CN - B12 .
+While these results were suggestive , they included some exceptions .
+Several mutations outside of eutB and eutC ( e.g. , eutE65 [ Table 2 ] ) caused a significant increase in sensitivity .
+We suggest that these mutations cause a slight reduction in lyase levels by exerting a polar effect on expression of the eutB and eutC genes .
+Furthermore , two mutations in the eutC gene failed to exhibit the increase in induction sensitivity .
+One of these mutations ( eutC72 ) is `` leaky '' and likely to allow production of a lyase with ability to bind Ado - B12 ; the other mutation is not phenotypically leaky but may produce a protein able to bind Ado - B12 .
+It is possible that only the eutB subunit of lyase binds Ado - B12 directly ; if this were the case , then many eutC mutations might allow production of nonfunctional lyase in which the wild - type eutB subunit is capable of binding Ado - B12 .
+Despite the exceptions , the general pattern of mutations affecting sensitivity suggested that lyase influences sensitivity to induction by Ado - B12 .
+These data suggested that lyase might sequester Ado - B12 , making it more difficult for limiting levels of Ado - B12 to induce the operon in the face of an increasing level of lyase ( Fig. 3 ) .
+The data above could be explained if mutations that eliminate lyase ( or its Ado - B12 - binding ability ) allowed all Ado - B12 to serve as inducer and thus caused the sensitive induction phenotype seen .
+Stated as a model for function of the normal operon , we suggest that the operon is very sensitive to initial induction ( no lyase is present ) , but full induction occurs only if Ado - B12 levels are sufficient to populate both the lyase and the regulatory protein .
+Since both lyase and the activator protein are induced together , they can compete equally for available Ado - B12 throughout the course of induction .
+If a sufficient level of Ado - B12 is present , the cell can populate both ligase and the activator protein and maintain induction even when lyase levels are very high .
+Maintenance of maximal induction may require sufficient Ado - B12 to saturate the high levels of both lyase and activator protein .
+Fusions early in the operon show increased sensitivity to induction .
+To test the above - described model , we assayed strains with insertion mutations ( Mu dJ and Mu dA ) which form fusions of the lac operon to various points in the eut operon .
+The fusion points are within structural genes , either within or promoter - proximal to the eutB and eutC genes ( Fig. 1 ) .
+All of the upstream insertion mutations are strongly polar on expression of distal genes in the operon and eliminate ~ ~ ~ ~ ~ + VOL .
+176 , 1994 AUTOINDUCTION OF eut OPERON ACTIVATOR 1291 TABLE 2 .
+Apparent KM values and maximum eut operon induction by Ado - B12 : effect of eut point mutations on induction of the eut - 38 : : lac fusion eut operon induction ( , B - galactosidase ) a Strain eut point K. ( 109 ) Km relative to mutation Km ( O ) eut - 38 : : Mu dA Fully induced Uninduced Fully relative to induced eut - 38 : : Mu dA VT10674 23.3 1.00 4.9 305.8 1.0 TT17309 eutDI24 9.7 0.42 4.2 165.3 0.5 1T17319 eutDlOl 9.6 0.41 5.0 192.6 0.6 Tl 17310 eutE56 18.2 0.78 4.4 177.8 0.6 Tl 17311 eutE65 5.4 0.23 4.5 105.5 0.3 TT17313 eutAI1I 7.9 0.34 4.6 208.2 0.7 TT17312 eutA4114 20.7 0.89 4.4 213.5 0.7 TT17314 eutBllS 1.3 0.06 4.6 316.4 1.0 TT17315 eutBI07 1.4 0.06 3.8 239.5 0.8 1T17317 eutClIO 1.2 0.05 3.5 39.9 0.1 1T17316 eutC85 12.4 0.53 4.6 293.0 1.0 T117318 eutC72 38.5 1.65 4.4 327.7 1.1 a Cultures were grown for analysis as described in Materials and Methods .
+Induction of the eut operon was measured from the eut38 : : 1ac fusion .
+Apparent Km values for CN - B12 induction were determined from the value of the x - axis intercept of reciprocal plots : ( 1/percent maximal , B - galactosidase ) versus ( 1/CN - B 12 ) ( Fig. 2 ) .
+expression of both the eutB and eutC genes .
+These fusion low level of expression of eutR : : lac from the internal weak strains retain inducibility by Ado - Bl2 because the eutR gene is constitutive eutR promoter eutPI , is not sufficient to permit this intact and can be expressed from the weak internal promoter strain to use lactose as a sole carbon and energy source .
+The behavior of these fusion strains ( all of which lack selecting for Lac ' derivatives of this strain , one can obtain lyase ) was compared with behavior of the distal fusion ( eut - 38 ) , mutants in which the transcription of the eutR : : lac fusion is which leaves the entire operon intact .
+Typical results are increased .
+One Lac ' derivative , TT17300 , showed an constitutive level of P - galactosidase fivefold higher than that of a presented in Fig. 4 .
+When operon induction is monitored from internal fusion points , the sensitivity to induction is much fully induced wild - type eut operon measured with a fusion greater than that seen for the fusion outside of the coding distal to all structural genes ( Table 4 , lines 1 to 4 ) .
+When the sequences , eut - 38 : : lac .
+The apparent Km values for induction of eutR156 : : 1ac fusion was replaced with the eut - 38 : : lac fusion ( to these fusions by exogenous CN - B12 are presented in Table 3 ; form strain TT17302 ) , the new promoter , all the fusions show a strongly increased sensitivity ( reduced Pinv , caused constitutive expression of the distal lac fusion at levels slightly higher apparent Km values ) for induction compared with that of the than that seen during full induction of eut - 38 : : lac fusion .
+Pin , ' strains with the same fusion ( Table 4 , lines 4 to 6 ) .
+P1.t , a mutationally altered internal promoter that causes high constitutive Map position of expression of lyase and EutR regulatory Pi .
+Several pieces of evidence suggest that protein .
+To test further the mutation the which creates or activates hypothesis that lyase and EutR Pin , is upstream of the regulatory protein compete for Ado - B12 , we eutB isolated a gene and mutant probably lies within the eutA208 : : TnlOd ( Tc ) that expresses both the lyase and regulatory protein element genes at in strain TT17300 .
+In the transductional crosses used high constitutive levels .
+This mutant was selected as a in derivative of a strain ( TT17299 ) which carries a mapping and in construction of several strains , the Pin , mutation has never been TnlOd ( Tc ) insertion separated by recombination from the in the eutA gene , just promoter - proximal to the lyase genes Tcr determinant .
+To test linkage of Pin , to eutA208 : : TnlOd ( Tc ) , ( Fig. 1 ) .
+This strain also carries a insertion P22 eutRl56 : : Mu dJ lac , transducing phage lysate grown on TT17306 which fuses the lac operon to the eutR gene .
+In this strain , the [ eutA208 : : TnlOd ( Tc ) Pint ] was used to transduce eut mutation eutA208 : : TnlOd ( Tc ) polar DEL733 insertion mutation prevents expression of all distal genes by the ( in strain TT11704 ) to Tcr .
+DEL733 is a constructed deletion mutation major eut promoter ( eutPI ) .
+The extending from the cysA gene into the promoter - distal end of the eut operon ; the deletion ends near the border between the eutA and eutB genes ( Fig. 1 ) and has a Mu dA ( Apr Lac ) element marking the site of the deleted material Ethanolamine Acetaldehyde ( 21 ) .
+In this cross , 10 of 96 Tcr transductants were Apr , indicating that recombination occurred between EutBO NH3 eutA208 : : Tn1Od ( Tc ) and the endpoint of the Apr - marked lyase deletion .
+All 10 Apr recombinants are Lac ' , indicating that none of the 10 exchanges within the portion of the eutA gene distal to the TnlOd ( Tc ) insertion separated Tcr from Pint .
+Ado - B12 eutPR ( These exchanges could also occur within the lac sequences shared by both the donor and recipient .
+) P22 transducing phage lysates were prepared on two double mutants that carried both the eutA : : TnlOd ( Tc ) Pin , insertion and the Apr - marked DEL733 mutation ( TT17307 and TT17308 ) .
+This phage lysate was used to transduce a recipient Ethanolamine strain containing fusion eutR156 : : 1ac ( TT13738 ) to Tcr .
+Model for the distribution of Ado - B12 between EutBC Pint mutation is located within the TnlOd ( Tc ) element or the lyase and EutR regulatory protein .
+region between this element and the region defined by the 1292 SHEPPARD AND ROTH J. BACT1ERIOL .
+w CO 0CO z w 0 a : 120 110 100 90 0c - 80 0 70 co 60 50 40 30 20 w 0L 10 0 N I I I I I I I o 0.02 0.04 0.06 0.08 [ CN - B12 ] ( uM ) FIG. 4 .
+Induction of the eut operon by exogenous CN - B12 : effect of eut insertion mutations on induction sensitivity .
+Cultures were grown and data were analyzed as described in the legend to Fig. 2 .
+Induction of the eut operon was measured directly from the Mu dA lac or Mu dJ lac insertion mutation .
+The strains assayed were eut - 38 : : Mu dA ( T110674 ) , eutC34 : : Mu dA ( 17110670 ) , and eutE181 : : Mu dJ ( 1T13762 ) .
+beginning of DEL733 , two Tcr Aps cysA + recombinant types are possible ; recombinants that contain the Pint mutation will be Lac ' , whereas those in which the Pint mutation has been separated from TnlOd ( Tc ) will be Lac - .
+None of 192 recombinant events occurring between eutA208 : : TnlOd ( Tc ) and the Mu dA element of DEL733 separated the Pint mutation from the TnlOd ( Tc ) element .
+This indicates that the Pint mutation is not located within DEL733 and is not easily separated from the TnlOd ( Tc ) element by recombination .
+The TnlOd ( Tc ) element includes promoters for divergent genes that confer the Tcr phenotype .
+These promoters direct tetracycline - inducible transcripts that extend out of both sides of the transposable material into the chromosomal region adjoining the insertion site ( 26 ) .
+The Pint mutation described here may cause constitutive expression of a promoter within the TnlOId ( Tc ) element .
+Further support for the positioning of the Pint mutation within TnlOd ( Tc ) will require sequence analysis and an analysis of Pin , transcripts .
+Effect of P ,1 t on the phenotype of eutA208 : : TnlOd ( Tc ) - containing strains .
+S. typhimurium can use ethanolamine as both a carbon and nitrogen source when grown aerobicilly and provided with cobalamin .
+Strains defective in the eut operon TABLE 3 .
+Apparent Km values and maximum eut operon induction by Ado - B12 : effect of eut insertion mutations Strain lac fusion Km ( 109 ) Km , relative to eut operon induction ( p - galactosidase ) a eut - 38 : : Mu dA Uninduced Fully Fully induced relative induced to eut - 38 : : Mu dA TT10674 eut - 38 : : Mu dA 23.3 1.00 4.9 305.8 1.0 1T10271 eutDl8 : : Mu dJ 1.1 0.05 1.9 184.1 0.6 IT10642 eutD6 : : Mu dA 2.8 0.12 1.2 61.1 0.2 TT10647 eutDll : : Mu dA 6.8 0.29 1.3 111.0 0.4 1T13762 eutE181 : : Mu dJ 1.6 0.07 1.6 145.1 0.5 1T13745 eutE163 : : Mu dJ 3.4 0.15 2.0 181.6 0.6 TT13754 eutA473 : : Mu dJ 1.7 0.07 1.7 118.0 0.4 TT10662 eutA26 : : Mu dA 1.7 0.07 2.9 151.4 0.5 1T710638 eutB2 : : Mu dA 2.1 0.09 4.2 44.2 0.1 1710670 eutC34 : : Mu dA 1.4 0.06 4.2 32.9 0.1 a Cultures were grown for analysis as described in Materials and Methods .
+Induction of the eut operon was measured directly from the eut : : lac insertion mutation .
+Apparent Km values for Ado - B12 induction were determined from the value of the x - axis intercept of reciprocal plots : ( 1/percent maximal 0 - galactosidase ) versus ( 1/CN - B 12 ) ( Fig. 4 ) .
+The fully induced levels of eut operon expression from different eut : Jac insertion mutations varied considerably .
+This is a common characteristic of different Mu d lac insertion mutants and does not appear to have regulatory significance for the eut operon .
+176 , 1994 have been placed into two physiologically distinct groups .
+Strains lacking lyase activity ( eutBC ) are unable to use ethanolamine as either nitrogen or carbon source ( N - C - ) .
+Strains that have lyase but are unable to catabolize sufficient acetaldehyde ( eutD and eutE ) can use ethanolamine as a nitrogen but not as a carbon source ( N + C - ) .
+Nonpolar eutA mutants exhibit a N - C - phenotype when given CN - B12 as a cobalamin source , even though 40 % of wild - type levels of lyase and 75 % of wild - type levels of dehydrogenase activity can be detected in these strains in cell - free assays ( 22 ) .
+These nonpolar eutA mutants are N + C - when Ado - B12 is provided .
+It has been suggested that the eutA function may protect lyase from inhibition by excess CN - B12 ( 22 ) or a toxic breakdown product of Ado - B12 produced during the lyase enzymatic reaction .
+Strains containing the polar eutA208 : : TnlOd ( Tc ) mutation exhibit the N - C - phenotype ( even with Ado - B12 ) since the insertion prevents expression of the eutB and eutC ( lyase ) genes .
+The Pi. , mutation changes the phenotype of the eutA insertion mutant from N - C - to N + C - in the presence of CN - B12 , suggesting that it restores lyase expression ( eutBC ) .
+The Pi , , mutation causes an increase in the expression of both lyase and EutR regulatory protein and must lie upstream of both the eutB and eutC genes .
+This location of Pi. , is supported by the observation that strains TT17307 and TT17308 [ eutA : : Tn1Od ( Tc ) Pi , t DEL733 ] show high constitutive expression of lacZ from the Mu dA fusion present at the deletion endpoint near the junction of the eutA and eutB genes ( Fig. 1 ) .
+This places Pj1t either within the TnlOd ( Tc ) element or within the eutA gene or immediately upstream of the eutB gene .
+Effect of high levels of lyase and activator protein on eut operon induction .
+Three isogenic strains that produced different relative levels of lyase and regulatory protein were constructed .
+In each case , expression of the operon was monitored by the promoter - proximal eutD18 : : 1ac fusion .
+Strain TT17321 carries the original eutA208 : : Tn1Od ( Tc ) polar insertion and produces no lyase but a low level of EutR regulatory protein .
+Strain TT17320 carries the eutA208 : : TnlOd ( Tc ) polar insertion with Pi.n and produces high levels of both lyase and EutR .
+Strain TT17298 carries the eutA208 : : TnlOd ( Tc ) polar insertion with Pint and the nonpolar lyase mutation eutC110 ; it produces no lyase but makes a high level of EutR .
+These three strains , T717321 , T717320 , and T717298 , were tested for their sensitivity to induction by CN - B12 .
+The results are shown in Fig. 5 ; Km values are presented in the last six lines of Table 4 .
+Strain TT17298 ( high EutR and no lyase ) exhibits a higher absolute level of eut operon expression than does strain TT17321 ( low EutR and no lyase ) over the entire range of CN - B12 concentrations tested ( Fig .
+This demonstrates that in the absence of lyase increased EutR synthesis allows eut operon induction to be maintained at low levels of exogenous CN - B12 ( and presumably correspondingly low intracellular concentrations of Ado - B12 ) .
+The strain with a high EutR level also shows a higher maximal level of operon expression .
+This is expected , since under these conditions a greater degree of saturation of the main eut promoter ( eutP , ) by the EutRethanolamine - Ado - B12 complex should occur .
+The competition between lyase and the EutR regulatory protein for Ado - B12 is demonstrated by comparing the sensitivity of eut operon induction in strain T717320 ( high EutR and high lyase ) with strain TT17298 ( high EutR and no lyase ) .
+With high lyase production , more Ado - B12 is required to induce eutP , .
+When synthesis of functional lyase is blocked by the mutation eutCI1O ( Fig .
+SA ) or by two different eutB point mutations ( Table 4 ) , the apparent Km values for operon induction are decreased five - to 10 - fold relative to those of the AUTOINDUCTION OF eut OPERON ACTIVATOR 1293 eutBC + strain TT17320 ( see strains TT17296 , TT17297 , and TT17298 in Table 4 ) .
+The maximum level of operon expression is dictated by EutR protein level and is not affected by lyase levels .
+Isogenic strains harboring various eut mutations differed not only in their sensitivity to induction by low levels of exogenous CN - B12 but also exhibited differences in the maximal induction levels achieved in the presence of excess CN - B12 .
+These differences correlate with the expression level of the eutR gene and not with the expression of eutBC lyase .
+For example , strains containing fusions located promoter - proximal to the eutR gene , such as eutD18 : : 1ac , exhibit a low level of eutR gene expression because of the weak internal promoter ( eutP , , ) and thus exhibit a low level of maximal eut operon expression ( Table 4 , strain TT10271 ) .
+Presumably the main eutP , promoter is only partially saturated by the EutR - ethanolamine - Ado - B12 complex .
+When the Pint mutation is added to such a strain , the eutD18 : : 1ac fusion attains a much higher maximal level of induction ( Table 4 , strain TT17320 ) .
+Presumably the higher level of expression of the eutR gene results in a greater saturation of eutP , by the EutR - ethanolamine - Ado - B12 complex .
+These high maximal levels of eut operon induction ( seen with excess Ado - B12 ) are not altered by the introduction of nonpolar lyase point mutations in eutB and eutC ( Table 4 , strains TT17296 , TT17297 , and TT17298 ) .
+Similar results are obtained when eut operon induction is measured from the eut - 38 : : lac fusion at the distal end of the operon ( Table 4 , strains TT14492 , TT17302 , TT17303 , TT17305 , and TT17304 ) .
+DISCUSSION The eut operon in S. typhimurium requires ethanolamine , the substrate of this degradative pathway , and Ado - B12 , the cofactor for the first enzyme in the pathway ( lyase ) as effectors for induction .
+Induction is mediated by the EutR activator protein ( 21 - 23 ) .
+The eutR gene is positioned within the operon at the distal end of the cotransduced region ( Fig. 1 ) .
+Transcription initiated at the regulated main promoter ( eutPj ) extends through the eutR gene .
+Thus synthesis of EutR protein increases with the expression of other genes in the operon .
+This autoinduction of EutR protein is necessary to provide levels of the EutR - ethanolamine - Ado - B12 complex sufficient to achieve maximal induction of the operon from the eutP , promoter and to successfully compete with newly synthesized EutBC lyase for available Ado - B ,2 ( Fig. 3 ) .
+To understand the physiological significance of the autoinduction of EutR protein , we examined the sensitivity of the eut operon to induction by the effector CN - B12 , a precursor of the Ado - B12 effector ( presented with excess ethanolamine ) .
+Strains that contained different combinations of eut : : lac fusions and point mutations were tested .
+The apparent Km values for eut operon induction by exogenous CN - B12 varied over a 10 - fold range .
+Low apparent Km values were exhibited in strains with eut : : lac fusions within or upstream of the eutBC lyase genes ( sensitive strains ) .
+Fusions that did not disrupt any eut gene exhibited a relatively high apparent Km value for operon induction ( insensitive strains ) .
+This high Km value was reduced by point mutations that eliminate synthesis of lyase .
+Point mutations in genes other than the eutBC lyase genes had little effect on the sensitivity of induction of a distal operon fusion , and the slight effects seen probably result from polarity effects of those point mutations on expression of the eutBC gene .
+The strongly polar Mu d lac fusion mutations in these same eut genes are uniform in their reduction of the apparent Km value for operon induction ; we attribute this to low expression of the lyase .
+Two exceptional eutC lyase mutations , 1294 SHEPPARD AND ROTH J. BACTERIOL .
+- V ) 1 0.9 LLi CI ) 0.8 o 0.7 O 0.6 o ) 0.5 0.4 0.3 0.2 mD 0.1 0 0.21 w 0.2 ( ) 0.19 4 0.18 0.17 o 0.16 I - 0.15 o ) 0.14 5i 0.13 !
+: 0.12 I 0.11 4 : 0.1 tL 0.09 X 0.08 z 0.07 w 0.06 O 0.05 cc 0.04 w m. 0.03 ~ - 0.02 [ CN - B12 ] ( uM ) B High EutR , High Lyase 0.01 0 High EutR , No Lyase Low EutR , Low Lyase 0 0.2 0.4 0.6 0.8 1 / [ CN - B12 ] , 10 9 ( M - 1 ) FIG. 5 .
+Induction of the eut operon by exogenous CN - B12 : effect of high levels of lyase ( eutB and eutC ) and activator protein ( eutR ) on induction sensitivity .
+Cultures were grown and data were analyzed as described in the legend to Fig. 2 , except that for panel A 3 - galactosidase activity was expressed in absolute units rather than as a percentage of the maximum expressed levels so that absolute levels of eut operon induction can be compared .
+The strains assayed were 71T17298 ( High EutR , No Lyase ) , TT17320 ( High EutR , High Lyase ) , and 1T17321 ( Low EutR , No Lyase ) .
+( A ) actual data ; ( B ) double reciprocal plots of the data .
+l4 1.2 both nonpolar point mutations , failed to improve the sensitivity of induction .
+One of these is a leaky mutation .
+We think such mutations are expected and can be explained as missense mutants which produce lyase with impaired catalytic activity but normal ability to bind to Ado - B12 .
+If the mutations do not eliminate protein capable of binding Ado - B12 , they are not expected to improve induction sensitivity .
+Since impaired catalytic activity alone does not increase sensitivity to induction , it seems likely that this regulatory effect is due to binding of Ado - B12 by lyase protein rather than depletion of the inducer ethanolamine by lyase enzymatic activity .
+In summary , strains that are sensitive to induction have reduced levels of lyase synthesis .
+We interpret this to mean that lyase competes with the EutR regulatory protein for Ado - B12 .
+Eliminating lyase allows all available Ado - B12 to serve as an effector for eut operon induction .
+The autoinduction model for EutR synthesis predicts that the absolute level of eut operon induction should be controlled by the level of EutR protein available to the main promoter ( eutP , ) .
+To test this prediction , a mutant was selected with high constitutive expression of both the eutBC lyase and eutR regulatory protein genes .
+An internal promoter mutation located just upstream of the eutB gene is responsible for this expression .
+This made it possible to measure the absolute expression from eutP , at both a low and high constitutive rate of expression of eutR , with and without competition by lyase .
+Cp CD ~ C CD ACL CD ` I DJQ CD ci 00 CD ~ C CD CD < ` oD DDC - CD0 - CDCD CD c U u CD P0 CD 0 CD CD CD - 0 .
+00 t0.P 0CD D0.t CDc.C CD C 0 0 0 CD 1D !
+C0 o CZ CO ) 0 CD Q 0 * pz CD 0 .
+0 0 ' 0 C DC CD , nCD O CL CD C 00 D CC 0 .
+n O CD CD 0 ' 0 DC oo AUTOINDUCTION OF eut OPERON ACTIVATOR 1295 3n .
+C - ` IC 00 -.4 ON 0 ~ -- ~ - P - ~ PL - ( - 1.4 k ) - 01C 100C O H 000000 0000 00 000 0 CD CDqCDCDCDC t ' : t : t : t - 0 0 .
+F3 -3 -3 -3 0 - 3 o3 3 o3 o3 -3 0 F + CDCD CD D D CD7D CD r + r + tF0 00 00 CD 0 CD cDI C ) CD It 0 0 C. D 0 CA 113 0 .
+CD 0 CD 0 - = 1 00 > 0 CD c0 iDCiCDDCDCLO 0 r7 C ) ~ ~ L - k ) = ~ 1 - = rS 0 I - I CD utl r , CD .
+cow - o CD ; 1D 00 000000 W LA I - ' tA 0 N ol ~ - 0 c 3 0 L sj b > o > c 0 * 0 - - o o ~ - o - Lo b 0CD CD m 0 .
+0 o ) P - 4v W - W \ C Zs 0 - 0o i `` o oo O ( A00o o i o - 0 oooo \ A CL 1 CCD : i ~ 004 0j = -0 - CD 0 0 .
+c CD - F. S C = 0 ao 00CD 5 ( DCsA u > ui 0bN ) 0 : 0 ~ 0 01 p 3 .
+- < c > C0 1296 SHEPPARD AND ROTH Measurement of eutP , expression in otherwise isogenic strains demonstrates that an increase in eutR expression causes an increase in the maximal level of eutP , induction .
+An autoinduced regulatory gene , such as seen for the eut operon , has several properties that appear to be valuable .
+Uninduced cells need only produce a low basal level of activator regulatory protein sufficient to start the process of induction .
+Since little or no lyase is present before induction , the initial phase of induction should be extremely sensitive to Ado - B12 .
+Once operon induction starts and the level of lyase increases , a competition will develop between the EutR protein , which requires Ado - B12 as an effector for induction , and lyase , which requires Ado - B12 as a cofactor for enzymatic activity .
+At low levels of Ado - B12 , full induction will fail since lyase will sequester the inducer .
+By increasing the level of EutR regulatory protein in parallel with lyase , the cell can partition available Ado - B12 between the enzyme and the available protein .
+This permits the EutR protein to continue to sense the Ado - B12 level even when a high level of lyase competes for Ado - B12 binding .
+While autoinduction of eutR is important in maintaining an effective distribution of Ado - B12 between EutR regulatory protein and lyase , differences in the binding constants of these two proteins may also contribute to the balance between eut operon induction and ethanolamine degradation .
+In the absence of separate regulatable promoters for eutBC and eutR , it is not possible to determine whether the condition of high levels of EutBC lyase with low levels of EutR regulatory protein results in less - efficient induction .
+This premise will be tested when these constructs become available .
+D.E.S. thanks John Roth for the opportunity to pursue this work in his laboratory .
+We thank Michael Ailion , Nicholas Benson , Thomas Bobik , Kenneth Haack , and Jeffrey Lawrence for critical review of the manuscript and Thomas Doak for helpful discussions during the course of the work .
+This work was supported by Public Health Service grant GM34804 from the National Institutes of Health to J.R.R. 1 .
+Andersson , D. I. , and J. R. Roth .
+Mutations affecting regulation of cobinamide biosynthesis in Salmonella typhimurium .
+Andersson , D. I. , and J. R. Roth .
+Redox regulation of the genes for cobinamide biosynthesis in Salmonella typhimurium .
+Bassford , P. J. , Jr. , and R. J. Kadner .
+Genetic analysis of components involved in vitamin - B12 uptake in Escherichia coli .
+Blackwell , C. M. , F. A. Scarlett , and J. M. Turner .
+Microbial metabolism of amino - alcohols : control of formation and stability of partially purified ethanolamine ammonia - lyase in Escherichia coli .
+Blackwell , C. M. , and J. M. Turner .
+Microbial metabolism of amino - alcohols .
+Formation of coenzyme B12 - dependent ethanolamine ammonia - lyase and its concerted induction in Escherichia coli .
+Blackwell , C. M. , and J. M. Turner .
+Microbial metabolism of amino - alcohols .
+Purification and properties of coenzyme B12 - dependent ethanolamine ammonia - lyase of Escherichia coli .
+The clostridial fermentations of choline and ethanolamine .
+Requirement for a cobamide coenzyme by an J. BACTERIOL .
+Casadaban , M. J. , and S. N. Cohen .
+Lactose genes fused to exogenous promoters in one step using a Mu - lac bacteriophage : an in - vivo probe for transcriptional control sequences .
+Castilho , B. A. , P. Olfson , and M. J. Casadaban .
+Plasmid insertion mutagenesis and lac gene fusion with mini - Mu bacteriophage transposons .
+Chan , R. K. , D. Botstein , T. Watanabe , and Y. Ogata .
+Specialized transduction of tetracycline resistance by phage P22 in Salmonella typhimurium .
+Properties of a high - frequency - transducing lysate .
+Chang , G. W. , and J. T. Chang .
+Evidence for the B12 - dependent enzyme ethanolamine deaminase in Salmonella .
+Davis , R W. , D. Botstein , and J. R. Roth .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 13 .
+Escalante - Semerena , J. C. , S. - J .
+Suh , and J. R Roth .
+cobA function is required for both de novo cobalamin biosynthesis and assimilation of exogenous corrinoids in Salmonella typhimurium .
+Hughes , K. T. , and J. R Roth .
+Conditionally transpositiondefective derivative of Mu dl ( Amp Lac ) .
+Jeter , R. , J. C. Escalante - Semerena , D. Roof , B. Olivera , and J. R. Roth .
+Synthesis and use of vitamin - B12 , p. 551 - 556 .
+In F. C. Neidhardt , J. L. Ingraham , K. B. Low , B. Magasanik , M. Schaechter , and H. E. Umbarger ( ed .
+) , Escherichia coli and Salmonella typhimurium : cellular and molecular biology , vol .
+American Society for Microbiology , Washington , D.C. 16 .
+Jeter , R. M. , B. M. Olivera , and J. R Roth .
+Salmonella typhimurium synthesizes cobalamin ( vitamin - B12 ) de novo under anaerobic - growth - conditions .
+Jones , P. W. , and J. M. Turner .
+Interrelationships between the enzymes of ethanolamine metabolism in Escherichia coli .
+Jones , P. W. , and J. M. Turner .
+A model for the common control of enzymes of ethanolamine catabolism in Escherichia coli .
+Experiments in molecular genetics .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 20 .
+Ratzkin , B. , and J. R. Roth .
+Cluster of genes controlling proline degradation in Salmonella typhimurium .
+Roof , D. M. , and J. R. Roth .
+Ethanolamine utilization in Salmonella typhimurium .
+Roof , D. M. , and J. R. Roth .
+Functions required for vitamin B12 - dependent ethanolamine utilization in Salmonella typhimurium .
+Roof , D. M. , and J. R. Roth .
+Autogenous regulation of ethanolamine utilization by a transcriptional activator of the eut operon in Salmonella typhimurium .
+Scarlett , F. A. , and J. M. Turner .
+Microbial metabolism of amino - alcohols : ethanolamine catabolism mediated by coenzyme B12 - dependent ethanolamine ammonia - lyase in Escherichia coli and Klebsiella aerogenes .
+A method for detection of phage mutants with altered transducing ability .
+Takiff , H. E. , T. Baker , T. Copeland , S. - M .
+Chen , and D. L. Court .
+Locating essential Escherichia coli genes by using Mini - TnJO transposons : the pdxJ operon .
+Way , J. C. , M. A. Davis , D. Morisato , D. E. Roberts , and N. Kleckner .
+New TnlO derivatives for transposon mutagenesis and for construction of lacZ operon fusions by transposition .

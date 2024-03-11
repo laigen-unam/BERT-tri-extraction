@@ -1,0 +1,385 @@
+JOURNAL OF BACTERIOLOGY , May 2009 , p. 3003 -- 3010 Vol .
+191 , No. 9 0021 - 9193/09 / $ 08.00 0 doi : 10.1128 / JB.01694 - 08 Role of FimW , FimY , and FimZ in Regulating the Expression of Type I Fimbriae in Salmonella enterica Serovar Typhimurium Supreet Saini , § Jeffrey A. Pearl , § and Christopher V. Rao * Department of Chemical and Biomolecular Engineering , University of Illinois at Urbana - Champaign , Urbana , Illinois 61801 Type I fimbriae in Salmonella enterica serovar Typhimurium are surface appendages that facilitate binding to eukaryotic cells .
+Expression of the fim gene cluster is known to be regulated by three proteins -- FimW , FimY , and FimZ -- and a tRNA encoded by fimU .
+In this work , we investigated how these proteins and tRNA coordinately regulate fim gene expression .
+Our results indicate that FimY and FimZ independently activate the P fimA promoter which controls the expression of the fim structural genes .
+FimY and FimZ were also found to strongly activate each other 's expression and weakly activate their own expression .
+FimW was found to negatively regulate fim gene expression by repressing transcription from the P fimY promoter , independent of FimY or FimZ .
+Moreover , FimW and FimY interact within a negative feedback loop , as FimY was found to activate the P fimW promoter .
+In the case of fimU , the expression of this gene was not found to be regulated by FimW , FimY , or FimZ .
+We also explored the effect of fim gene expression on Salmonella pathogenicity island 1 ( SPI1 ) .
+Our results indicate that FimZ alone is able to enhance the expression of hilE , a known repressor of SPI1 gene expression .
+Based on our results , we were able to propose an integrated model for the fim gene circuit .
+As this model involves a combination of positive and negative feedback , we hypothesized that the response of this circuit may be bistable and thus a possible mechanism for phase variation .
+However , we found that the response was continuous and not bistable .
+Type I fimbriae in Salmonella enterica serovar Typhimurium are proteinaceous surface appendages that carry adhesions specific for mannosylated glycoproteins ( 9 ) .
+Type I fimbriae are involved in serovar Typhimurium pathogenicity by facilitating the binding to and invasion of intestinal epithelial cells ( 43 ) .
+In orally inoculated mice , a wild - type strain has been shown to cause more infections and deaths than a fim mutant strain ( 18 ) .
+A fim mutant has also been shown to exhibit severalfold weaker binding to HEp - 2 and HeLa cells , and the defect in binding could be restored by complementing the fim system on a plasmid ( 4 ) .
+Apart from type I fimbriae , mutations in different Salmonella fimbrial systems -- lpf , pef , and agf -- have all also been shown to greatly reduce virulence in mice ( 47 ) .
+These systems appear to work synergistically in order to facilitate colonization of the ileum ( 5 ) .
+In serovar Typhimurium , the fim gene cluster possesses all of the genes necessary for type I fimbrial production .
+This gene cluster is composed of six structural genes , three regulators , and a tRNA specific for rare arginine codons ( AGA and AGG ) .
+The structural genes fimA , fimI , fimC , fimD , fimH , and fimF are all expressed in one transcript from the P fimA promoter ( 26 , 36 -- 38 ) .
+The regulators fimZ , fimY , and fimW are all expressed from independent promoters ( 44 , 46 , 48 ) .
+The tRNA encoded by fimU is located at one end of the cluster and is required for the effective translation of the regulatory genes that all carry rare arginine codons ( 42 ) .
+Type I fimbriation is environmentally regulated with fim and Biomolecular Engineering , University of Illinois at Urbana - Champaign , 600 S. Mathews Ave. , Urbana , IL 61810 .
+§ These authors contributed equally to this work .
+Published ahead of print on 13 February 2009 .
+gene expression favored in static liquid medium , whereas growth on solid medium inhibits expression ( 17 ) .
+Moreover , serovar Typhimurium cultures in fimbriae - inducing conditions contain cells in both fimbriated and nonfimbriated states ( 35 ) .
+While the regulation of fim gene expression has been studied extensively in Escherichia coli , far less is known about the regulation in serovar Typhimurium ( 1 , 27 ) .
+In particular , despite homology between the structural genes for type I fimbriae in E. coli and serovar Typhimurium , their expression is regulated in completely different manners .
+No homologs of E. coli regulators , FimB and FimE , are present in serovar Typhimurium ( 24 , 28 ) .
+Also , the serovar Typhimurium P fimA promoter is inactive in E. coli , indicating that the P fimA promoter is regulated by different factors in these two organisms ( 48 ) .
+In serovar Typhimurium , the expression of the structural genes is regulated by three transcription factors , FimY , FimZ , and FimW ( 44 , 46 , 48 ) .
+Both FimZ and FimY are essential for the expression of the structural genes from the P fimA promoter ( 48 ) .
+In particular , the deletion of either the fimY or fimZ gene reduces expression from the P fimA promoter and prevents serovar Typhimurium from making type I fimbriae .
+FimZ has been shown to bind the P fimA promoter and promote transcription ( 13 , 48 ) .
+FimY , on the other hand , is thought to facilitate the activation of the P fimA promoter , as direct binding has not been observed ( 44 ) .
+FimW is a negative regulator of fim gene expression ( 45 ) .
+FimW has also been suggested to autoregulate its expression , as enhanced P fimW activity has been observed in the fimW mutant .
+In DNA - binding assays , FimW was not observed to bind any of the fim promoters .
+However , FimW was found to interact with FimZ in a LexA - based two - hybrid system in E. coli ( 45 ) .
+Thus , a possible mechanism for FimWmediated repression may be that it binds FimZ and prevents it from activating transcription .
+However , an analysis of the 3003 3004 SAINI ET AL. .
+FimW amino - acid sequence predicts that it has a DNA - binding domain .
+Moreover , it is related to a broad range of prokaryotic transcription factors , with its closest relatives being BpdT from Rhodococcus spp. and an uncharacterized response regulator , TodD , from Pseudomonas putida ( 29 , 30 ) .
+Thus , FimW may also act by an alternate mechanism involving DNA binding .
+In addition to these transcription factors , the fimU tRNA also plays a role in fim gene expression ( 42 ) .
+All three regulators -- FimZ , FimY , and FimW -- contain a number of the rare arginine codons , AGA and AGG , recognized by the fimU tRNA .
+In the case of FimY , fimU mutants have been shown to be nonfimbriated due to the inefficient translation of fimY mRNA .
+This translational regulation results from FimY having three rare arginine codons within its first 14 amino - acids .
+The phenotypic effect of the fimU mutation could , however , be overcome by expressing fimU from a plasmid or by changing these three rare arginine codons in fimY to ones more efficiently translated .
+As a pathogen , serovar Typhimurium invades host cells by a process in which effector proteins are injected into the target cells with the help of the Salmonella pathogenicity island 1 ( SPI1 ) type III secretion system ( 12 , 14 ) .
+SPI1 gene expression is regulated by a number of proteins , with the critical activator being HilA ( 2 ) .
+The expression of hilA , in turn , is regulated by three AraC - like transcriptional activators , hilC , hilD , and rtsA ( 19 , 21 , 22 , 32 , 40 , 41 ) .
+HilD activity is controlled by HilE ; this protein binds HilD and is thought to prevent it from activating the P hilA promoter ( 6 , 8 ) .
+FimY and FimZ have been previously shown to regulate SPI1 gene expression by repressing hilA expression through their activation of the P hilE promoter ( 7 ) .
+In this work , we investigated the gene circuit regulating fim expression .
+Using genetic approaches , we found that FimZ and FimY activate each other 's expression and that each protein can independently activate the P fimA promoter .
+Moreover , FimZ and FimY were found to be weak autoactivators .
+Our data also suggest that FimW - mediated repression occurs at the level of fimY transcription .
+With regard to fimU , we found that none of the fim regulatory genes had any effect on its transcription .
+As the fim gene circuit involves a combination of positive and negative feedback , we tested whether induction was bistable .
+However , we found the cell population responded homogeneously when induced .
+Finally , we looked at the link between the fim and SPI1 gene circuits and found that the P hilE promoter is activated solely by FimZ .
+Collectively , these results allow us to propose an integrated model for the regulation of the fim gene circuit in serovar Typhimurium .
+MATERIALS AND METHODS General techniques and growth - conditions .
+All culture experiments were performed in Luria - Bertani ( LB ) broth ( 10 g/liter tryptone , 5 g/liter yeast extract , and 10 g/liter NaCl ) at 37 °C unless otherwise noted .
+Antibiotics were used at the following concentrations : ampicillin at 100 g/ml , chloramphenicol at 20 g/ml , and kanamycin at 40 g/ml .
+All experiments involving the growth of cells carrying pKD46 were performed at 30 °C as previously described ( 15 ) .
+Loss of the helper plasmid pKD46 was achieved by growth in nonselective conditions on LB agar at 42 °C .
+The removal of the antibiotic cassette from the FLP recombinant target ( FRT ) - chloramphenicol/kanamycin - FRT insert was obtained by the transformation of pCP20 into the respective strain and selection on ampicillin at 30 °C .
+The loss of the helper plasmid pCP20 was obtained by growth at 42 °C under nonselective conditions on LB agar ( 10 ) .
+Integrations into the attB sites of the serovar Typhimurium and E. coli genomes were done using the helper plasmid pInt - ts as Strain TABLE 1 .
+Strains are from this study except for the wild - type 14028 , which is from the American Type Culture Collection .
+The loss of the helper plasmid pInt - ts was obtained by growth at 42 °C under nonselective conditions .
+Primers were purchased from IDT , Inc. .
+Enzymes were purchased from New England Biolabs and Fermentas and used according to the manufacturer 's recommendations .
+Strain and plasmid construction .
+All bacterial strains and plasmids used in this study are described in Tables 1 and 2 , respectively .
+All serovar Typhimurium strains are isogenic derivatives of strain 14028 ( American Type Culture Collection [ ATCC ] ) .
+The generalized transducing phage of serovar Typhimurium P22 HT105/1int -201 was used in all transductional crosses ( 16 ) .
+The plasmids pKD3 and pKD4 were used as templates to generate scarred FRT mutants as described previously ( 14 ) .
+The fimYZ mutant was made using primers SS105F and SS105R .
+The fimZ mutant was made using primers SS105FII and SS105F .
+The fimY mutant was made using the primers SS105RII and SS105R .
+The fimW mutant was made using primers SS152F and SS152R .
+The fimU mutant was made using the primers SS165F and SS165R .
+All mutations were checked by PCR using primers that bound outside the deleted region .
+Prior to the removal of the antibiotic resistance marker , the constructs resulting from this procedure were moved into a clean wild - type background ( 14028 ) by P22 transduction .
+In order to construct the fluorescent Venus reporter plasmid ( 34 ) , PCR was used to amplify Venus from pBS7 using primers LC294F and LC296R .
+The resulting PCR product was used as a template with primers LC295F and LC296R to add three out - of - frame stop codons and a synthetic Shine - Dalgarno sequence before the Venus start codon .
+The resultant PCR product was then digested with EcoRI and HindIII and subcloned into the EcoRI and HindIII cut sites of pQE80L ( Qiagen ) , VOL .
+191 , 2009 TYPE I FIMBRIATION IN S. ENTERICA SEROVAR TYPHIMURIUM 3005 Plasmid TABLE 2 .
+Plasmids used during this study Relevant characteristics Source or reference a pKD46 bla P BAD gam beto exo pSC101 15 oriTS pCP20 bla cat cI857 PRflp pSC101 10 oriTS pKD3 bla FRT cm FRT oriR6K 15 pKD4 bla FRT kan FRT oriR6K 15 plnt - ts bla lnt oriR6K 29 pQE80L bla lacI q ColE1 Qiagen pAH125 kan lacZ att oriR6K 29 pVenus kan venus att oriR6K P fimA - Venus kan P fimA venus att oriR6K P fimY - Venus kan P fimY venus att oriR6K P fimZ - Venus kan P fimZ venus att oriR6K P fimw - Venus kan P fimw venus att oriR6K P fimU - Venus kan P fimU venus att oriR6K P hilE - Venus kan P hilE venus att oriR6K pPROTet.E cm P LtetO - 1 ori ColE1 Stratagene pSS012 cm P LtetO - 1 tetR ori ColE1 45 ( pPROTet.E tetR ) pSS039 ( pFimY ) cm P LtetO - 1 fimY tetR ori ColE1 pSS040 ( pFimZ ) cm P LtetO - 1 fimZ tetR ori ColE1 pSS041 ( pFimW ) cm P LtetO - 1 fimW tetR ori ColE1 pSS042 ( pFimY * ) cm P LtetO - 1 fimY * tetR ori ColE1 a Plasmids are from this study unless specified otherwise .
+The plasmid pQE80L was digested with EcoRI and NheI , and the fragment was cloned into the conditional - replication , integration , and modular ( CRIM ) plasmid pAH125 digested with EcoRI and NheI ( 25 ) .
+The resulting CRIM plasmid was called pVenus .
+Venus transcriptional - fusions were made by amplifying the promoter of interest and then cloning these PCR fragments into the multiple cloning site of pVenus .
+The fimA transcriptional - fusion was made using primers SS104F and SS104R .
+The fimY transcriptional - fusion was made using primers SS037F and SS037R .
+The fimZ transcriptional - fusion was made using primers SS103F and SS103R .
+The fimW transcriptional - fusion was made using primers SS154F and SS154R .
+The fimU transcriptional - fusion was made using primers SS162F and SS162R .
+The hilE transcriptional - fusion was made using primers SS024F and SS024R .
+The PCR fragments were then digested with KpnI and EcoRI ( sequences underlined ) and cloned into the multiple cloning site of the pVenus vector .
+The resulting transcriptional - fusions were integrated into the serovar Typhimurium and E. coli chromosomes at the attB site using Int produced from the CRIM helper plasmid pInt - ts , thus creating single - copy transcriptional - fusions .
+In the case of serovar Typhimurium , the integrated plasmid was moved into different mutant strains by P22 transduction .
+Expression plasmids for fimY , fimZ , and fimW were made by cloning the respective gene into the multiple cloning site of pPROTet.E ( Clontech ) under the control of a strong promoter , P LTetO - 1 , resulting in plasmids pFimY , pFimZ , and pFimW ( 33 ) .
+The plasmid pFimZ was made first by amplifying the fimZ gene using the primers SS106F and SS106R .
+The PCR product was then digested with EcoRI and KpnI and cloned into pPROTet.E .
+The plasmid pFimY was made by amplifying the fimY gene using the primers SS107F and SS107R .
+The PCR product was then digested with SalI and BamHI and cloned into pPROTet.E .
+The plasmid pFimW was made by amplifying the fimW gene using the primers SS160F and SS160R .
+The PCR product was then digested with EcoRI and HindIII and cloned into pPROTet.E .
+In order to mutate the first three arginine rare codons at positions 7 , 9 , and 14 in fimY , primers SS162F and SS107R were used to amplify fimY with the rare arginine codons mutated to consensus arginine codons .
+The resulting PCR product was used as a template with primers SS167F and SS107R .
+The amplified product was digested with EcoRI and BamHI and cloned into the multiple cloning site of pPROTet.E .
+The plasmid is called pFimY * .
+In our expression plasmids , in the absence of TetR , the P LTetO - 1 promoter is constitutively active .
+To regulate the expression levels from the P LTetO - 1 promoter , the tetR gene was also cloned downstream of the gene target into the plasmids as previously described ( 39 ) .
+In this arrangement , in the absence of the inducer anhydrotetracycline ( aTc ) , expression from the promoter is inhibited due to TetR .
+The inhibition , however , is relieved upon the addition of 100 ng/ml of aTc , and expression from the P LTetO - 1 promoter then takes place .
+All constructs were sequenced prior to transforming into the wild - type and mutant strains .
+The sequences for all the primers used in this study are given in Table 3 .
+As an indirect measure of gene expression , end - point and dynamic measurements of the fluorescent reporter system were made using a Tecan Safire2 microplate reader .
+For fluorescence end - point measurements , 1 ml culture was grown at 37 °C overnight and then subcultured 1:1,000 in fresh medium and grown in static conditions for 24 h at 37 °C .
+A total of 100 l ofthe culture was then transferred to a 96 - well microplate , and the relative fluorescence and optical density at 600 nm ( OD 600 ) measured .
+The fluorescence readings were normalized with the OD 600 to account for cell density .
+For time course measurements , overnight cultures at 37 °C were subcultured to an OD of 0.05 in fresh medium and allowed to grow to an OD of 0.15 .
+A total of 100 l ofthe culture was then transferred to a 96 - well microplate and overlaid with 25 lofoil to prevent evaporation .
+The temperature was maintained at 37 °C , and fluorescence and OD readings were taken every 5 min .
+All experiments were done in triplicate and average values with the standard deviations reported .
+Single - cell measurements were done similarly by growing the cells in noninducing conditions with vigorous shaking at 37 °C .
+Overnight cultures were subcultured to an OD of 0.05 in fresh medium ( LB ) and grown in inducing conditions of high oxygen and no shaking at 37 °C .
+Samples were collected at different time points by spinning the cells down , resuspending them in phosphate - buffered saline supplemented with - chloramphenicol ( 34 g/ml ) to stop all translation and arrest the cells in their respective state , and finally storing on ice .
+All flow cytometry experiments were performed on a BD LRS II system ( BD Biosciences ) .
+The data extraction and analysis for the flow cytometry experiments were done using FCS Express version 3 ( De Novo Software ) .
+RESULTS FimZ and FimY are activators and FimW is a repressor of fim gene expression .
+FimZ and FimY have previously been reported as activators of fim gene expression in serovar Typhimurium ( 44 , 48 ) .
+Both have also been reported as essential for fimbriation , as the deletion of either one results in the loss of expression from the P fimA promoter ( 49 ) .
+To understand the roles of FimZ and FimY in the fim gene circuit , we measured expression from the P fimA , P fimZ , P fimY , and P fimW promoters in the wild type and the fimZ , fimY , fimYZ , and fimW mutants ( Fig. 1 ) .
+Chromosomally integrated Venus transcriptional reporters were employed as indirect measures of promoter activities ( 34 ) .
+In the cases of all four promoters , activity levels were found to be about two times less active in the fimZ , fimY , and fimYZ mutants than in the wild type .
+For all four promoters , note that no further reduction in promoter activity was observed in the double mutant .
+In a fimW mutant , the activities of all four promoters were approximately two times higher than the wild - type levels .
+While these results agree with previously published data regarding the fim system in serovar Typhimurium , they still do not tell us how FimW , FimY , and FimZ individually contribute to P fimA activation .
+FimY and FimZ are strong activators of each other 's expression and weak activators of their own expression .
+To determine the relative effect of FimY and FimZ on fim gene expression , the P fimY and P fimZ promoter activities were measured in a fimYZ mutant in which either FimZ or FimY was expressed from a strong , aTc - inducible promoter on a plasmid ( see Materials and Methods ) .
+Using this system , we found that expressing FimZ in the fimYZ mutant led to a more than 10 - fold increase in P fimY activity ( Fig. 2A ) .
+Likewise , expressing FimY in the fimYZ mutant led to about a 10 - fold increase in P fimZ levels .
+In addition to their ability to activate each other 's promoters , FimY and FimZ were found to increase expression from their own promoters roughly threefold .
+Even though E. coli makes type I fimbriae , the serovar Ty - 3006 SAINI ET AL. .
+Therefore , we performed an identical set of experiments with E. coli using the serovar Typhimurium proteins and promoters .
+Overall , the results were identical to those for serovar Typhimurium ( Fig. 2B ) .
+In particular , FimZ expression led to a more than 10 - fold increase in P fimY promoter activity , and FimY expression led to a 10 - fold increase in P fimZ activity .
+Both FimZ and FimY were again found to weakly activate expression from their own promoters .
+The goal of these experiments was to remove the effect of any serovar Typhimuriumspecific regulatory mechanisms , thus allowing us to more confidently conclude that the observed results are due to direct interactions .
+Collectively , these results show that FimY and FimZ strongly activate each other 's expression and weakly activate their own expression .
+This cross - regulation also explains why both FimY and FimZ are required for strong P fimA promoter activity , as the expression of each is dependent on the other .
+FimZ and FimY can independently activate expression from the P fimA promoter .
+Next , we looked at how FimZ and FimY independently affected P fimA expression .
+To investigate this problem , we measured P fimA promoter activity in a fimYZ mutant in which either FimY or FimZ was expressed using the aTc - inducible system .
+FimZ expression was found to strongly ( 15 - fold ) activate the P fimA promoter , whereas FimY could only weakly ( more than twofold ) activate it ( Fig. 3 ) .
+We also performed these experiments with E. coli with similar results ( data not shown ) .
+Based on these results , we conclude that FimZ and FimY can both independently activate the P fimA promoter .
+In the case of FimY , the weak activation of the P fimA promoter is likely due to its strong dependence on fimU tRNA ( see below ) ( 42 ) .
+FimY activates the P fimW promoter , and FimW represses the P fimY promoter .
+FimW has previously been observed to repress fim gene expression ( 45 ) .
+Consistent with these results , we observed that P fimA , P fimW , P fimY , and P fimZ promoter activities were all elevated in a fimW mutant ( Fig. 1 ) .
+To understand the mechanism of FimW - mediated repression , we first sought to identify the proteins that regulate expression from the P fimW promoter .
+To answer this question , we measured the level of expression from the P fimW promoter in a fimYZ mutant in which FimW , FimY , and FimZ were independently expressed using the aTc - inducible system .
+In the case of FimW and FimZ , expression had no effect on P fimW promoter activity VOL .
+191 , 2009 TYPE I FIMBRIATION IN S. ENTERICA SEROVAR TYPHIMURIUM 3007 FIG. 1 .
+FimY and FimZ are activators and FimW is a repressor of fim gene expression .
+Shown is a comparison of the P fimA , P fimY , P fimZ , and P fimW promoter activities in the wild type and the fimY , fimZ , fimYZ , and fimW mutants .
+Data are averages of the results from three experiments .
+Each experiment was done in triplicate .
+FimY and FimZ are strong activators of each other 's expression and also weak autoactivators .
+Shown is a comparison of the P fimY and P fimZ promoter activities in a serovar Typhimurium fimYZ mutant ( A ) and E. coli ( B ) in which FimY and FimZ are independently expressed from an aTc - inducible promoter on a plasmid .
+Note that tetR is also expressed from this plasmid in order to achieve aTcinducible expression .
+Data are averages of the results from three experiments .
+Each experiment was done in triplicate .
+However , in the case of FimY , we observed a significant increase in P fimW promoter activity ( 1,052 381 relative fluorescence units [ RFU ] / OD [ uninduced ] versus 14,718 1,032 RFU/OD [ induced ] ) .
+Similar results were also obtained when these experiments were performed with E. coli ( data not shown ) .
+To identify the regulatory targets of FimW , we measured the expression of the P fimA , P fimZ , and P fimY promoters in a fimW fimYZ mutant in which FimW was expressed using the aTc - inducible system .
+In the cases of the P fimA and P fimZ promoters , we found that FimW expression had no effect .
+However , in the case of the P fimY promoter , FimW expression led to about a threefold decrease in P fimY activity ( 7,462 319 RFU/OD [ uninduced ] versus 2,781 188 RFU/OD [ induced ] ) .
+Based on these results , we conclude that FimY activates expression from the P fimW promoter and that FimW represses expression from the P fimY promoter .
+The P fimU promoter is not regulated by FimW , FimY , or FimZ .
+Both fimY and fimZ contain rare arginine codons ( AGA and AGG ) and need fimU , a tRNA specific for rare arginine codons , for effective translation .
+In a fimU mutant , P fimA activity was less than 10 - fold compared to the wild - type levels ( wild type , 16,723 1,173 RFU/OD ; the fimU mutant , 1,389 261 RFU/OD ) .
+The expression of FimY in the fimU mutant using the aTc - inducible system , however , did not increase P fimA activity ( 988 319 [ uninduced ] versus 1,343 166 [ induced ] ) .
+Replacing the rare arginine codons in the fimY gene with consensus ones did restore P fimA activity to the wild - type levels ( 817 73 RFU/OD [ uninduced ] versus 11,294 462 RFU/OD [ induced ] ) .
+These experiments are consistent with previously published results ( 45 ) and indicate that fimU is essential for effective fimY translation .
+As fimU has a strong effect on P fimA promoter activity , we hypothesized that it may be subject to regulation by the other proteins within the circuit .
+To test this hypothesis , we measured P fimU promoter activity in different regulatory mutants .
+Contrary to our hypothesis , we did not observe any change in P fimU promoter activity in any mutant ( wild type , 26,717 1,381 RFU/OD ; the fimZ mutant , 28,991 2,164 RFU/OD ; the fimY mutant , 25,884 1,983 RFU/OD ; the fimYZ mutant , 26,516 1,772 RFU/OD ; and the fimW mutant , 24,829 2,073 RFU/OD ) .
+Likewise , we did not observe any change in P fimU promoter activity when FimW , FimY , and FimZ were expressed using the aTc - inducible system in wildtype serovar Typhimurium or E. coli ( data not shown ) .
+Based on these results , we conclude that the P fimU promoter is not regulated by any fim protein .
+FimZ alone is able to regulate SPI1 gene expression .
+Previous studies have shown that both FimY and FimZ regulate 3008 SAINI ET AL. .
+FimY and FimZ can independently activate expression from the P fimA promoter .
+Shown is a comparison of P fimA promoter activities in a fimYZ mutant in which FimY and FimZ are independently expressed from an aTc - inducible promoter on a plasmid .
+Data are averages of the results from three experiments .
+Each experiment was done in triplicate .
+SPI1 expression through their activation of the P hilE promoter ( 7 ) .
+HilE , in turn , is known to bind HilD and repress the HilD - mediated activation of the P hilA , P hilC , P rtsA , and P hilD promoters ( 6 , 20 ) .
+To test which protein activates the P hilE promoter , we independently expressed FimY and FimZ in a fimYZ mutant using the aTc - inducible system and then measured the level of expression from the P hilE promoter .
+Of the two , only FimZ was found to affect P hilE expression ( 1,089 421 RFU/OD [ uninduced ] versus 17,654 2,234 RFU/OD [ induced ] ) .
+Similar results were also observed for E. coli ( data not shown ) .
+We note that these results are contrary to those previously reported , for which it was shown that both FimY and FimZ were necessary for activation of the P hilE promoter ( 7 ) .
+One possible explanation for the discrepancy involves how the two gene products were selectively expressed .
+In the original study , a DNA fragment containing the fimYZ gene cluster was cloned onto a plasmid and expressed using the tetracycline promoter .
+To study their relative effects , each gene was selectively inactivated using a universal translational terminator .
+As part of the P fimY promoter and the whole P fimZ promoter were left intact in their construct , transcriptional inference may have occurred between the various promoters .
+In our design , we selectively cloned each gene and then expressed it from an inducible promoter , eliminating any potential interfering effects from having the native promoters still present .
+Dynamics of fim gene expression .
+Finally , we wished to investigate the dynamics of fim gene expression .
+We first measured P fimA promoter activity in the wild type and the fimY , fimZ , fimYZ , and fimW mutants using a microplate reader ( Fig. 4A ) .
+Consistent with our end - point measurements , we found that the P fimA promoter was weakly expressed in the fimY , fimZ , and fimYZ mutants .
+Likewise , expression was enhanced in a fimW mutant .
+Note that the microplate experiments tell us only about the average response of the population and nothing about how individual cells are behaving .
+To test whether the cells were responding homogeneously , we also performed single - cell measurements of P fimA promoter activity at selected times in the wild type and a fimW mutant using FIG. 4 .
+Dynamics of P fimA promoter activity .
+( A ) Population average P fimA activity as a function of time in the wild type and the fimY , fimZ , fimYZ , and fimW mutants .
+Data are averages of the results from a single experiment with an average of six independent cultures .
+The experiment was repeated thrice , and identical results were observed .
+( B ) Histogram of single - cell P fimA promoter activity at selected times in the wild type and a fimW mutant .
+Single - cell measurements of promoter activity were obtained using flow cytometry .
+Population distribution data are from a single experiment .
+The experiment was repeated thrice , and identical results were observed ( data not shown ) .
+flow cytometry ( Fig. 4B ) .
+Our results indicate that individual wild - type and fimW mutant cells are responding homogeneously with respect to P fimA promoter activity at all times tested .
+In other words , we did not observe any phase variation or heterogeneity with regard to P fimA promoter activity in our kinetic experiments .
+DISCUSSION In this work , we investigated the regulatory gene circuit controlling the expression of type I fimbriae in serovar Typhimurium .
+Using genetic approaches , we demonstrated that FimY and FimZ independently activate the P fimA promoter .
+Of the two , FimZ was found to be the dominant activator .
+191 , 2009 TYPE I FIMBRIATION IN S. ENTERICA SEROVAR TYPHIMURIUM 3009 FIG. 5 .
+Model for the type I fimbria gene circuit in serovar Typhimurium .
+found that FimY and FimZ strongly activate each other 's expression and weakly activate their own expression .
+In addition to these two positive regulators , a third regulator , FimW , is known to repress fim gene expression .
+We found that FimW negatively regulates fim gene expression by repressing expression from the P fimY promoter .
+Furthermore , FimW participates in a negative feedback loop as FimY was found to enhance P fimW expression .
+Interestingly , these results suggest that FimY is both an activator and a repressor of fim gene expression , as it can directly activate the P fimZ , P fimY , and P fimA promoters and indirectly repress them by enhancing FimW expression .
+In addition to these regulators , type I fimbriation is also dependent on the expression of a rare arginine codon tRNA , fimU .
+However , our results showed that the P fimU promoter is not regulated by FimY , FimZ , or FimW .
+The results suggest that fimU does not play a role in the internal regulation of the circuit .
+Finally , we demonstrated that the previously observed coordinate regulation of SPI1 gene expression by the fim gene circuit ( 7 ) occurs through the activation of hilE expression by FimZ .
+Based on these results , we are able to propose the following model for the fim gene circuit in serovar Typhimurium ( Fig. 5 ) .
+According to our model , the induction of the fim circuit begins with the activation of the P fimY and P fimZ promoters , resulting in small amounts of fimY and fimZ being expressed .
+FimY and FimZ then rapidly accumulate in the cell due to the positive feedback loop formed by the cross - activation of the P fimY and P fimZ promoters by these two proteins .
+The expression of the type I fimbrial structural genes from the P fimA promoter commences when the concentration of FimY and FimZ within the cell rises beyond a critical level .
+These two regulators can independently activate the P fimA promoter ; however , their expression is correlated , as each activates the other 's expression .
+Moreover , FimY and FimZ protein expression levels are controlled by a negative feedback loop involving FimW .
+In this loop , FimY activates the expression of the P fimW promoter , and FimW represses the expression of the P fimY promoter .
+We hypothesize that this negative feedback loop involving FimW prevents the runaway expression of FimY and FimZ arising from their participation in interacting positive feedback .
+Specifically , we hypothesize that when FimY and FimZ reach their optimum expression levels , the FimW negative feedback loop is activated and halts expression from the P fimY and P fimZ promoters .
+While our model for the fim circuit explains internal regulation , it still does not explain how the circuit is activated .
+In particular , we do not know which factors induce the P fimY and P fimZ promoters .
+We suspect that these factors activate both promoters , as each alone exhibits some activity in a fimYZ mutant ( Fig. 1 ) .
+In addition to these factors , another open question concerns whether fimU plays a role in regulating circuit dynamics .
+While it is tempting to speculate that fimU expression is tuned in response to environmental signals and thus affects circuit dynamics , more likely this gene is constitutively expressed like other tRNAs .
+Our results also indicate that the FimW - mediated inhibition of fim gene expression is through repression of the P fimY promoter .
+Earlier reports suggested that FimW binds FimZ and somehow inhibits the FimZ - dependent activation of fim promoters ( 45 ) .
+Moreover , FimW was not found to bind to the P fimW promoter .
+Based on these results , FimW would appear to repress the P fimY promoter by preventing FimZ from activating it .
+However , we found that FimW is able to repress the P fimY promoter in the absence of FimZ .
+Our results would suggest that FimW directly binds the P fimY promoter and represses transcription independently of FimZ .
+Consistent with our model , FimW has a C - terminal LuxR - type helix - turn - helix DNA domain ( SM00421 ) ( 31 ) .
+However , at this time we have no direct experimental support for such a mechanism .
+Moreover , an equally likely hypothesis is that repression by FimW is indirect .
+Further experiments are clearly required to determine the mechanism of FimW - mediated repression and distinguish between these different putative models .
+A final unanswered question concerns the role of the positive and negative feedback loops in the fim gene circuit .
+Our initial hypothesis was that these feedback loops would result in bistability .
+In particular , interacting positive and negative feedback loops are known to be sufficient ingredients for bistability ( 23 ) .
+This bistability could potentially explain the phase variation observed in type I fimbriation during - growth in inducing conditions ( 35 ) .
+To test whether the fim circuit exhibited bistability , we measured P fimA activity at single - cell resolution as a function of time .
+Contrary to our initial hypothesis , we did not observe a heterogeneous or switch - like response in induction , the telltale indicator of bistability .
+Rather , we observed a continuous or rheostat - like response in both the wild type and a fimW mutant ( 3 ) .
+One possibility is that there is a lack of correlation between fim gene expression and the production of type I fimbria in serovar Typhimurium ( 11 ) .
+Another is that the environment may dictate the response characteristics .
+For example , under conditions different from those used in our study , Duguid and coworkers observed subpopulations of cells expressing type I fimbriae , indicative of phase variation ( 17 ) .
+With these in mind , we hypothesize that the bacteria exhibit type I fimbria phase variation under specific environmental 3010 SAINI ET AL. .
+conditions and that the regulation of this process involves posttranscriptional mechanisms as well .
+We thank James Slauch and Philip Aldridge for strains and technical advice .
+This work was partially supported by grants from the National Science Foundation and the National Institutes of Health .
+Abraham , J. M. , C. S. Freitag , J. R. Clements , and B. I. Eisenstein .
+An invertible element of DNA controls phase variation of type 1 fimbriae of Escherichia coli .
+Bajaj , V. , C. Hwang , and C. A. Lee .
+hilA is a novel ompR/toxR family member that activates the expression of Salmonella typhimurium invasion genes .
+Batchelor , E. , T. J. Silhavy , and M. Goulian .
+Continuous control in bacterial regulatory circuits .
+Baumler , A. J. , R. M. Tsolis , and F. Heffron .
+Contribution of fimbrial operons to attachment to and invasion of epithelial cell lines by Salmonella typhimurium .
+Baumler , A. J. , R. M. Tsolis , and F. Heffron .
+Fimbrial adhesins of Salmonella typhimurium .
+Role in bacterial interactions with epithelial cells .
+Baxter , M. A. , T. F. Fahlen , R. L. Wilson , and B. D. Jones .
+HilE interacts with HilD and negatively regulates hilA transcription and expression of the Salmonella enterica serovar Typhimurium invasive phenotype .
+Baxter , M. A. , and B. D. Jones .
+The fimYZ genes regulate Salmonella enterica serovar Typhimurium invasion in addition to type 1 fimbrial expression and bacterial motility .
+Boddicker , J. D. , B. M. Knosp , and B. D. Jones .
+Transcription of the Salmonella invasion gene activator , hilA , requires HilD activation in the absence of negative regulators .
+Buchanan , K. , S. Falkow , R. A. Hull , and S. I. Hull .
+Frequency among Enterobacteriaceae of the DNA sequences encoding type 1 pili .
+Cherepanov , P. P. , and W. Wackernagel .
+Gene disruption in Escherichia coli : TcR and KmR cassettes with the option of Flp - catalyzed excision of the antibiotic - resistance determinant .
+Clegg , S. , L. S. Hancox , and K. - S .
+Salmonella typhimurium fimbrial phase variation and FimA expression .
+Collazo , C. M. , and J. E. Galan .
+The invasion - associated type - III protein secretion system in Salmonella -- a review .
+Cotter , P. A. , and J. F. Miller .
+BvgAS - mediated signal transduction : analysis of phase - locked regulatory mutants of Bordetella bronchiseptica in a rabbit model .
+Darwin , K. H. , and V. L. Miller .
+Molecular basis of the interaction of Salmonella with the intestinal mucosa .
+Datsenko , K. A. , and B. L. Wanner .
+One - step inactivation of chromosomal genes in Escherichia coli K - 12 using PCR products .
+Davis , R. W. , D. Botsein , and J. R. Roth .
+Advanced bacterial genetics : a manual for genetic engineering .
+Cold Spring Harbor Laboratory Press , Cold Spring Harbor , NY .
+Duguid , J. P. , E. S. Anderson , and I. Campbell .
+Fimbriae and adhesive properties in Salmonellae .
+Duguid , J. P. , M. R. Darekar , and D. W. Wheater .
+Fimbriae and infectivity in Salmonella typhimurium .
+Eichelberg , K. , W. D. Hardt , and J. E. Galan .
+Characterization of SprA , an AraC - like transcriptional regulator encoded within the Salmonella typhimurium pathogenicity island 1 .
+Ellermeier , C. D. , J. R. Ellermeier , and J. M. Slauch .
+HilD , HilC and RtsA constitute a feed forward loop that controls expression of the SPI1 type three secretion system regulator hilA in Salmonella enterica serovar Typhimurium .
+Ellermeier , C. D. , and J. M. Slauch .
+RtsA and RtsB coordinately regulate expression of the invasion and flagellar genes in Salmonella enterica serovar Typhimurium .
+Fahlen , T. F. , N. Mathur , and B. D. Jones .
+Identification and characterization of mutants with increased expression of hilA , the invasion gene transcriptional activator of Salmonella typhimurium .
+Self - perpetuating states in signal transduction : positive feedback , double - negative feedback and bistability .
+Gally , D. L. , J. Leathart , and I. C. Blomfield .
+Interaction of FimB and FimE with the fim switch that controls the phase variation of type 1 fimbriae in Escherichia coli K - 12 .
+Haldimann , A. , and B. L. Wanner .
+Conditional - replication , integration , excision , and retrieval plasmid - host systems for gene structure - function studies of bacteria .
+Hancox , L. S. , K. S. Yeh , and S. Clegg .
+Construction and characterization of type 1 non - fimbriate and non - adhesive mutants of Salmonella typhimurium .
+The fimA gene encoding the type - 1 fimbrial subunit of Escherichia coli .
+Nucleotide sequence and primary structure of the protein .
+Two regulatory fim genes , fimB and fimE , control the phase variation of type 1 fimbriae in Escherichia coli .
+Labbe , D. , J. Garnon , and P. C. Lau .
+Characterization of the genes encoding a receptor - like histidine kinase and a cognate response regulator from a biphenyl/polychlorobiphenyl - degrading bacterium , Rhodococcus sp. strain M5 .
+Lau , P. C. , Y. Wang , A. Patel , D. Labbe , H. Bergeron , R. Brousseau , Y. Konishi , and M. Rawlings .
+A bacterial basic region leucine zipper histidine kinase regulating toluene degradation .
+Letunic , I. , R. R. Copley , B. Pils , S. Pinkert , J. Schultz , and P. Bork .
+SMART 5 : domains in the context of genomes and networks .
+Lucas , R. L. , and C. A. Lee .
+Roles of hilC and hilD in regulation of hilA expression in Salmonella enterica serovar Typhimurium .
+Lutz , R. , and H. Bujard .
+Independent and tight regulation of transcriptional units in Escherichia coli via the LacR/O , the TetR/O and AraC / I1 - I2 regulatory elements .
+Nagai , T. , K. Ibata , E. S. Park , M. Kubota , K. Mikoshiba , and A. Miyawaki .
+A variant of yellow fluorescent protein with fast and efficient maturation for cell - biological applications .
+Old , D. C. , and J. P. Duguid .
+Selective outgrowth of fimbriate bacteria in static liquid medium .
+Piknova , L. , E. Kaclikova , D. Pangallo , B. Polek , and T. Kuchta .
+Quantification of Salmonella by 5 - nuclease real - time polymerase chain reaction targeted to fimC gene .
+Purcell , B. K. , J. Pruckler , and S. Clegg .
+Nucleotide sequences of the genes encoding type 1 fimbrial subunits of Klebsiella pneumoniae and Salmonella typhimurium .
+Rossolini , G. M. , P. Muscas , A. Chiesurin , and G. Satta .
+Analysis of the Salmonella fim gene cluster : identification of a new gene ( fimI ) encoding a fimbrin - like protein and located downstream from the fimA gene .
+Saini , S. , J. D. Brown , P. D. Aldridge , and C. V. Rao .
+FliZ is a posttranslational activator of FlhD4C2 - dependent flagellar gene expression .
+Schechter , L. M. , S. M. Damrauer , and C. A. Lee .
+Two AraC/XylS family members can independently counteract the effect of repressing sequences upstream of the hilA promoter .
+Schechter , L. M. , and C. A. Lee .
+AraC/XylS family members , HilC and HilD , directly bind and derepress the Salmonella typhimurium hilA promoter .
+Swenson , D. L. , K. J. Kim , E. W. Six , and S. Clegg .
+The gene fimU affects expression of Salmonella typhimurium type 1 fimbriae and is related to the Escherichia coli tRNA gene argU .
+Tavendale , A. , C. K. Jardine , D. C. Old , and J. P. Duguid .
+Haemagglutinins and adhesion of Salmonella typhimurium to HEp2 and HeLa cells .
+Tinker , J. K. , and S. Clegg .
+Characterization of FimY as a coactivator of type 1 fimbrial expression in Salmonella enterica serovar Typhimurium .
+Tinker , J. K. , and S. Clegg .
+Control of FimY translation and type 1 fimbrial production by the arginine tRNA encoded by fimU in Salmonella enterica serovar Typhimurium .
+Tinker , J. K. , L. S. Hancox , and S. Clegg .
+FimW is a negative regulator affecting type 1 fimbrial expression in Salmonella enterica serovar Typhimurium .
+van der Velden , A. W. , A. J. Baumler , R. M. Tsolis , and F. Heffron .
+Multiple fimbrial adhesins are required for full virulence of Salmonella typhimurium in mice .
+Yeh , K. S. , L. S. Hancox , and S. Clegg .
+Construction and characterization of a fimZ mutant of Salmonella typhimurium .
+Yeh , K. S. , J. K. Tinker , and S. Clegg .
+FimZ binds the Salmonella typhimurium fimA promoter region and may regulate its own expression with FimY .

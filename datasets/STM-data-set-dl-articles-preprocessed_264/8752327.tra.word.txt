@@ -1,0 +1,389 @@
+JOURNAL OF BACTERIOLOGY , Sept. 1996 , p. 5112 -- 5120 Vol .
+178 , No. 17 0021 - 9193/96 / $ 04.00 0 Identification of S - Regulated Genes in Salmonella typhimurium : Complementary Regulatory Interactions between S and Cyclic AMP Receptor Protein FERRIC C. FANG , 1 * CHIN - YI CHEN , 2 DONALD G. GUINEY , 2 AND YISHENG XU 1 Departments of Medicine , Pathology , and Microbiology , University of Colorado Health Sciences Center , Denver , Colorado 80262 1 , and Department of Medicine , University of California at San Diego , La Jolla , California 92093 - 0640 2 S ( RpoS ) - regulated lacZ - transcriptional - fusions in Salmonella typhimurium were identified from a MudJ transposon library by placing the rpoS gene under the control of the araBAD promoter and detecting lacZ expression in the presence or absence - of - arabinose supplementation .
+Western blot ( immunoblot ) analysis of bacteria carrying P BAD : : rpoS demonstrated arabinose - dependent rpoS expression during all phases of growth .
+S - dependent gene expression of individual gene fusions was confirmed by P22 - mediated transduction of the MudJ insertions into wild - type or rpoS backgrounds .
+Analysis of six insertions revealed the known S - regulated gene otsA , as well as five novel loci .
+Each of these genes is maximally expressed in stationary - phase , and all but one show evidence of cyclic AMP receptor protein - dependent repression during logarithmic growth which is relieved in stationary - phase .
+For these genes , as well as for the S - regulated spvB plasmid virulence gene , a combination of rpoS overexpression and crp inactivation can result in high - level expression during logarithmic growth .
+The approach used to identify S - regulated genes in this study provides a general method for the identification of genes controlled by trans - acting regulatory factors .
+The alternative sigma factor S ( also known as RpoS , KatF , or 38 ) regulates the expression of more than 30 bacterial genes ( 45 ) during conditions of nutrient deprivation or the stationary - phase of growth .
+Since its initial identification in Escherichia coli more than 15 years ago ( 45 , 57 , 76 ) , the rpoS gene encoding S has been cloned from Salmonella typhimurium ( 66 ) , Shigella flexneri ( 71 ) , Pseudomonas aeruginosa ( 74 ) , and Yersinia enterocolitica ( 4 ) .
+The existence of S homologs in Acetobacter methanolicus , Xanthomonas campestris , Pseudomonas putida , and Rhizobium meliloti has further been suggested ( 53 ) .
+There are many factors which interact in a complex manner to determine expression of each constituent of the RpoS regulon .
+Expression of the rpoS gene itself is controlled at transcriptional , translational , and posttranslational levels ( 43 , 46 , 50 ) and is influenced by at least five discrete systems including the cyclic AMP ( cAMP ) - cAMP receptor protein ( CRP ) complex ( 42 , 43 ) , guanosine 3 ,5 - bispyrophosphate ( ppGpp ) ( 22 , 40 ) , the ClpXp protease ( 70 ) , the putative regulatory protein MviA ( RssB , SprE ) ( 6 , 56 , 65 ) , and the histone - like protein H - NS ( 5 , 83 ) .
+Possible signalling roles of homoserine lactone ( 30 ) and UDP - glucose ( 8 ) have also been suggested to regulate expression of S .
+At the level of individual S - regulated genes , control by S may overlap with numerous modulatory DNAbinding proteins including CRP ( 42 , 48 , 60 , 75 , 78 , 80 ) , the leucine - responsive regulatory protein ( 39 ) , and the histonelike proteins HU ( 47 ) , H - NS ( 5 , 61 , 62 ) , integration host factor ( 3 , 39 ) , and the factor for inversion stimulation ( 81 , 82 ) .
+Furthermore , individual S - regulated genes are under the control of specific transcriptional activators such as SpvR ( 14 , 38 ) or OxyR ( 3 ) .
+Health Sciences Center , 4200 E. Ninth Ave. , B168 , Denver , CO 80262 .
+Previous work has demonstrated that S is necessary for the ability of starved or stationary - phase bacteria to resist diverse environmental stresses such as heat - shock , acid stress , oxidative stress , hyperosmolarity , and nutrient deprivation itself ( 51 ) .
+Moreover , S in S. typhimurium controls expression of the spv plasmid virulence genes ( 19 , 37 ) , which are induced both during stationary - phase ( 18 ) and in the intracellular environment ( 20 ) .
+S. typhimurium mutants carrying rpoS mutations are more attenuated for virulence in mice than isogenic plasmidcured strains ( 19 , 37 ) , suggesting that chromosomal S - regulated genes also contribute to Salmonella virulence .
+Interest in the S. typhimurium S regulon has been heightened by the discovery that the widely used attenuated Ty21a Salmonella typhi vaccine strain carries an rpoS mutation ( 67 ) .
+This report describes a method for identifying S - regulated genes in S. typhimurium by placing rpoS under the control of an inducible promoter .
+In initial studies , P tac ( 21 ) was employed ; however , excessive uninduced levels of transcription despite the presence of lacI q in cis made this approach unsatisfactory .
+An expression vector based on the P BAD promoter of the araBAD ( arabinose ) operon ( 25 ) resulted in tighter rpoS regulation , facilitating the recognition of S - regulated lacZ transcriptional fusions carried on MudJ transposon insertions .
+S regulation of these gene fusions under native conditions was verified by assaying stationary - phase - galactosidase activity following transduction of the MudJ insertions into wild - type and isogenic rpoS backgrounds .
+Preliminary characterization of six of the S - regulated S. typhimurium genes identified by this strategy is detailed in this report .
+One of these genes has been identified as otsA , encoding trehalose - 6-phosphate synthase , a well - characterized member of the S regulon in E. coli ( 28 , 35 , 73 ) .
+Although higher stationary - phase levels of the S protein could account for growth phase variation in the expression of S - regulated genes , it has not been established whether overexpression of S is sufficient to result in expression of S - 5112 VOL .
+178 , 1996 S - REGULATED GENES IN S. TYPHIMURIUM 5113 TABLE 1 .
+In the present study , the P BAD : : rpoS transcriptional - fusion vector made it possible to directly address this question .
+The results indicate that high - level S expression is necessary but not sufficient to activate many S - regulated genes during logarithmic growth .
+A regulatory analysis which suggests complex and complementary regulatory interactions between S and CRP during logarithmic and stationary - phases of growth is presented .
+MATERIALS AND METHODS Media and growth - conditions .
+Luria - Bertani ( LB ) broth ( 64 ) was used for all experiments , with the addition of 1.5 % agar for solid medium .
+EBU medium ( 7 ) was used to identify pseudolysogen - free transductants .
+Penicillin ( 250 g/ml ) , kanamycin ( 50 g/ml ) , tetracycline ( 15 g/ml ) , chloramphenicol ( 20 g/ml ) , L - ( ) - arabinose ( 0.1 % ) , isopropylthio - - D - galactoside ( IPTG ) ( 1 mM ) , or 5 - bromo - 4-chloro - 3-indolyl - - D - galactoside ( X - Gal ) ( 50 g/ml ) was used as a supplement as needed .
+Cultures were incubated at 37 C , and liquid cultures were vigorously aerated .
+Growth was monitored by measuring the optical density at 600 nm ( OD 600 ) .
+Bacterial strains and plasmids .
+Strains and plasmids used in this study are listed in Table 1 .
+E. coli DH5 was employed for routine DNA manipulations .
+MudJ junction fragments were cloned in ultracompetent E. coli XL1 - Blue ( 11 ) ( Stratagene , La Jolla , Calif. ) .
+All Salmonella gene regulation and phenotypic studies were performed with S. typhimurium 14028s or its isogenic derivatives .
+S. typhimurium 3367 was obtained from R. Curtiss III ( Washington University , St. Louis , Mo. ) , and plasmid pGZ119EHcm was obtained from E. Lanka ( Max - Planck Institut , Berlin , Germany ) .
+S. typhimurium strains XF259 , XF262 , XF272 , XF317 , XF326 , and XF373 are described in Results .
+Plasmid pGZ : : rpoS was constructed by cloning a fragment containing the promoterless rpoS gene ( 77 ) into the SmaI and HindIII sites of pGZ119EHcm .
+Routine genetic manipulations were performed by conventional methods ( 68 ) .
+DNA sequencing was performed by a cyclic sequencing protocol ( Stratagene ) .
+An S. typhimurium SF1005 ( rpoS ) MudJ ( MudI1734 ) transposon library containing approximately 7 10 4 independent insertions was constructed by using S. typhimurium TT10288 , as previously described ( 29 ) .
+MudJ insertion results in a lacZYA transcriptional - fusion ( 12 ) .
+The oligonucleotide primer 5 - CCAATGTCCTCCCGGTTTTT - 3 was used to determine host sequences flanking the attL end of MudJ transposon insertions after cloning of transposon junction fragments in pBluescript ( Stratagene ) .
+Nucleotide sequence data were compared with the Combined Nucleic Acids Database using the blastn program ( 2 ) , and predicted peptide sequences were compared by using blastp ( 2 ) .
+- Galactosidase activity was assayed from sodium dodecyl sulfate ( SDS ) - chloroform - permeabilized cells with o - nitrophenyl - - D - galactopyranoside ( ONPG ) as a substrate ( 54 ) .
+Stationary - phase assays were performed on overnight cultures ( at an approximate OD 600 of 4.0 ) .
+Logarithmicphase assays were obtained after synchronous dilution of overnight cultures 1:1,000 into fresh prewarmed medium and reincubation for 4 to 5 h ( to an OD 600 of approximately 0.4 ) .
+Each assay was performed a minimum of two times .
+Western blot ( immunoblot ) analysis of S .
+Overnight cultures of wild - type S. typhimurium 14028s or rpoS mutant CC1024 carrying plasmid pBAD : : rpoS were diluted 1:2,000 into fresh LB broth and allowed to enter logarithmic phase .
+Logarithmic - phase cultures were rediluted in fresh prewarmed medium to an OD 600 of 0.03 .
+Arabinose ( 0.1 % ) was added to one of the samples containing CC1024 with pBAD : : rpoS .
+Samples were obtained at timed intervals ( 1.5 , 2.5 , and 5.0 h ) after dilution and subjected to Western analysis .
+Bacteria were adjusted to identical OD 600 s and boiled in a standard lysis buffer ( 68 ) for 10 min .
+Samples were subjected to SDS -- 12 % polyacrylamide gel electrophoresis and electrotransferred onto a nitrocellulose membrane .
+The membrane was blocked with 5 % nonfat milk in TN buffer ( 50 mM Tris - HCl , 150 mM NaCl ) and reacted with a 1:2,000 dilution of anti- S monoclonal antibody ( 59 ) and then with a 1:5,000 dilution of horseradish peroxidase - conjugated goat anti - mouse antibody .
+Immunoreactive bands were detected by using enhanced chemiluminescence substrate ( Amersham ) .
+In recognition of the central role of the S regulon in withstanding nutrient deprivation ( 39 , 48 ) , each strain carrying a MudJ insertion in a S - regulated gene was evaluated for starvation survival .
+Osmotolerance and thermotolerance were also evaluated , since the otsA gene mutated in strain XF373 has been shown to be required for stationary - phase osmotolerance ( 24 ) and thermotolerance ( 28 ) in E. coli .
+Since the S regulon has been strongly implicated in Salmonella pathogenesis ( 19 , 37 , 67 ) , the virulence of each mutant S. typhimurium strain in 6 - week - old female BALB/c mice was determined .
+Each phenotypic assay was performed at least twice , with the exception of the screening virulence determinations .
+For determination of starvation survival , 1:1,000 dilutions of overnight cultures of mutant or wild - type S. typhimurium strains were inoculated into screw - top 5114 FANG ET AL. .
+flasks containing LB broth and agitated at 37 C for 14 days , whereupon aliquots were diluted and plated onto LB agar for quantitation of CFU .
+Osmotolerance was determined by the method of McCann et al. ( 51 ) .
+Stationary - phase cultures were suspended in medium containing 2.4 M NaCl .
+Aliquots were removed at 0 , 6 , and 24 h for dilution and plating with quantitation of CFU .
+Thermotolerance was determined by the method of Lange and Hengge - Aronis ( 42 ) .
+Cells from stationary - phase cultures were washed , diluted in 0.9 % NaCl to a density of 5 10 3 cells per ml , and placed at 55 C. Aliquots were removed at 0 , 2 , 4 , 6 , 8 , and 10 min for plating and quantitation of CFU .
+For virulence studies , 10 3 bacteria from an overnight culture , representing approximately 100 times the 50 % lethal dose of the parent 14028s strain , were suspended in phosphate - buffered saline and administered intraperitoneally to groups of three mice .
+Saline alone or equivalent inocula of wild - type S. typhimurium were administered to control groups .
+Roles of RpoS , CRP , and growth phase in spvB expression .
+- Galactosidase assays of cells carrying pFF14 ( spvRAB : : lacZ ) were performed on logarithmically growing ( A ) or stationary - phase ( B ) cultures of S. typhimurium 14028s ( wild type [ WT ] ) , S. typhimurium SF1005 ( rpoS ) , or S. typhimurium SF1005 carrying a P BAD : : rpoS expression plasmid ( rpoS ) or the corresponding crp : : Tn10 derivatives of these strains .
+Arabinose ( 0.1 % ) was added to cultures of strains carrying P BAD : : rpoS to induce P BAD .
+Error bars indicate standard deviations ( SD ) .
+RESULTS IPTG - inducible RpoS expression .
+Plasmid pGZ : : rpoS was constructed to place rpoS under the control of the tac promoter .
+pGZ : : rpoS also contains lacI q sequences encoding the lac repressor , allowing the use of IPTG for induction of rpoS expression .
+To assess the degree of IPTG inducibility , pGZ : : rpoS was introduced into E. coli UM315 ( rpoS : : Tn10 ) along with plasmid pFF12 , which carries a S - regulated spvRAB : : lacZ gene fusion , or pRSkatE16 , which carries a S - regulated katE : : lacZ gene fusion .
+- Galactosidase assays ( 54 ) were performed on stationary - phase cells with or without the addition of 1 mM IPTG ( data not shown ) .
+Although complementation of the rpoS mutation by pGZ : : rpoS and IPTG inducibility of rpoS expression were evident , rpoS - dependent spvB and katE expression was also demonstrable in cells containing pGZ : : rpoS in the absence of IPTG , and these levels of expression were sufficient to confer a blue colony phenotype on medium containing X - Gal .
+Therefore , an alternative system of inducible rpoS expression with a lower uninduced level of transcription was sought .
+Construction of the pBAD : : rpoS and pUBAD : : rpoS plasmids expressing rpoS under the control of the arabinose - inducible araBAD promoter ( 25 ) has been reported previously ( 77 ) .
+E. coli UM315 ( rpoS : : Tn10 ) carrying pBAD : : rpoS and plasmid pFF14 ( which contains a S - regulated spvRAB : : lacZ gene fusion ) produced pale colonies on LB agar and blue colonies on LB agar supplemented with 0.1 % arabinose and 50 g of X - Gal per ml .
+Similar colony phenotypes were confirmed after the introduction of pUBAD : : rpoS into S. typhimurium SF1005 ( rpoS ) carrying pFF14 , suggesting that a P BAD : : rpoS plasmid would be appropriate for the purposes of identifying S - regulated lacZ gene fusions .
+- Galactosidase activities of cells carrying pFF14 were compared for wild - type S. typhimurium 14028s , rpoS mutant S. typhimurium SF1005 , and rpoS mutant S. typhimurium carrying pUBAD : : rpoS in the presence of 0.1 % arabinose ( Fig. 1 ) .
+spvB expression is greater in stationary - phase and reduced by approximately 80 % in an rpoS background , as has been demonstrated previously ( 18 , 19 ) .
+Overexpression of rpoS is able to restore normal levels of spvB expression in an rpoS mutant during stationary - phase , but this overexpression is not sufficient to significantly induce spvB expression during mid - logarithmic phase .
+Western analysis of wild - type and P BAD - dependent S expression .
+Wild - type S protein levels are seen to increase substantially during stationary - phase ( Fig. 2 ) .
+In contrast , virtually no S is detectable in rpoS mutant strain CC1024 carrying pBAD : : rpoS in the absence - of - arabinose .
+Following arabinosedependent induction of P BAD , dramatically elevated S levels during the logarithmic phase of growth which exceed wild - type levels during stationary - phase are evident .
+This demonstrates that the P BAD - based expression system is capable of overexpressing S during logarithmic growth , despite the presence of posttranslational proteolytic control mechanisms ( 6 , 56 , 65 , 70 ) .
+In stationary - phase , S levels in CC1024 with pBAD : : rpoS are somewhat diminished , presumably resulting from depletion of arabinose .
+An approximately 31 - kDa cross - reactive band is barely detectable in some logarithmic - phase samples ( Fig. 2 ) , possibly representing a degradation product .
+Identification of S - regulated lacZ - fusions .
+pUBAD : : rpoS was introduced into a MudJ transposon library created in S. typhimurium SF1005 .
+Colonies were replica plated onto X - Galcontaining LB agar with or without 0.1 % arabinose supplementation ( Fig. 3 ) .
+Colonies appearing white on LB agar but blue in the presence of arabinose were selected for further investigation ( this phenotype has been initially observed in approximately 1 % of all colonies ) .
+Candidate MudJ insertions VOL .
+178 , 1996 S - REGULATED GENES IN S. TYPHIMURIUM 5115 FIG. 2 .
+Western analysis of wild - type and P BAD - dependent S expression .
+Wild - type S. typhimurium 14028s ( lanes 1 to 3 ) or rpoS mutant S. typhimurium CC1024 carrying pBAD : : rpoS ( lanes 4 to 9 ) were cultured in LB broth .
+Arabinose ( 0.1 % ) was added to cells in lanes 7 to 9 to induce the P BAD promoter .
+Whole - cell lysates were assayed for the presence of S ( arrow ) at 1.5 , 2.5 , and 5 h after dilution .
+Lane 1 , 14028s ( OD 600 , 0.314 ) ; lane 2 , 14028s ( OD 600 , 0.874 ) ; lane 3 , 14028s ( OD 600 , 2.765 ) ; lane 4 , CC1024/pBAD : : rpoS ( OD 600 , 0.355 ) ; lane 5 , CC1024/pBAD : : rpoS ( OD 600 , 1.032 ) ; lane 6 , CC1024/pBAD : : rpoS ( OD 600 , 3.025 ) ; lane 7 , CC1024 / pBAD : : rpoS ( OD 600 , 0.322 ) plus 0.1 % arabinose ; lane 8 , CC1024/pBAD : : rpoS ( OD 600 , 1.104 ) plus 0.1 % arabinose ; and lane 9 , CC1024/pBAD : : rpoS ( OD 600 , 4.160 ) plus 0.1 % arabinose .
+were transduced into new wild - type S. typhimurium 14028s ( wild - type ) and SF1005 ( rpoS ) backgrounds by using P22 , and - galactosidase assays were performed on stationary - phase cultures to confirm S - regulated expression .
+Fewer than half of candidate insertions have been confirmed to be controlled by S ; many of the remaining MudJ insertions appear to be induced by the presence of arabinose itself or demonstrate S - FIG. 3 .
+Strategy for identification of RpoS - regulated lacZ transcriptional fusions .
+Salmonella cells containing MudJ ( lacZ ) insertions and rpoS under the control of the arabinose - inducible P BAD promoter were replica plated onto X - Gal - containing medium with or without 0.1 % arabinose ( A ) .
+Colonies containing S - regulated lacZ - fusions are recognizable as white in the absence of arabinose and blue in the presence of arabinose ( gray arrowheads ) , resulting from arabinose - dependent rpoS expression and hydrolysis of X - Gal by - galactosidase ( B ) .
+dependent regulation only in the presence of supraphysiologic levels of rpoS expression .
+Expression of the S - regulated lacZ - fusions was assayed during stationary and logarithmic phases of growth .
+Data for six of the S - regulated MudJ insertions ( designated XF259 , XF262 , XF272 , XF317 , XF326 , and XF373 ) are shown in Fig. 4 .
+As in the case of the spvB : : lacZ fusion , lacZ expression from strains carrying each of the MudJ insertions is greater in stationary phase than during logarithmic growth .
+rpoS overexpression from P BAD : : rpoS is able to complement the rpoS mutation during stationary - phase in each case .
+Medium supplementation with arabinose has no significant effect on lacZ expression in the absence of P BAD : : rpoS ( data not shown ) .
+Also as for the spvB : : lacZ fusion , rpoS overexpression fails to significantly increase logarithmic - phase expression from strains XF259 , XF 262 , XF317 , and XF326 .
+In contrast , rpoS overexpression increases logarithmic - phase expression from strains XF272 and XF373 to nearly wild - type stationary - phase levels .
+Junction fragments containing chromosomal sequences flanking the attL termini of each MudJ insertion were cloned and sequenced .
+The results are as follows : nucleotide sequence data from the junction fragment of XF259 do not match any known S. typhimurium or E. coli sequence .
+The predicted peptide sequence demonstrates some limited homology ( Fig. 5 ) with a Bacillus starch - digesting amylase ( 31 ) .
+Nucleotide sequence data from the junction fragment of XF262 also fail to match any known S. typhimurium or E. coli sequence .
+Predicted peptide sequences have some homology ( Fig. 5 ) with the enteric bacterial sucrose porin encoded by scrY ( 26 ) .
+The nucleotide sequence of the XF272 junction fragment corresponds closely with an open reading frame ( ORF ) designated ORF O186 ( GenBank U18997 ) , with a map location of 69 min in E. coli .
+The functional significance of the protein encoded by ORF O186 ( Fig. 5 ) is unknown .
+The nucleotide sequence and predicted peptide sequence of the XF317 junction fragment do not correspond to any known S. typhimurium or E. coli sequence .
+The nucleotide and predicted partial peptide sequence of the XF326 junction fragment show significant relatedness ( Fig. 5 ) to the yohF ORF and its putative protein ( GenBank P33368 ) , with 62 % amino - acid identity .
+This ORF is found in the cdd - dld intergenic region of E. coli ( 34 ) .
+The predicted peptide sequence of YohF suggests that this protein belongs to a family of oxidoreductases .
+Sequence analysis shows that the MudJ insertion in XF373 is situated between nucleotides 1079 5116 FANG ET AL. .
+Roles of RpoS , CRP , and growth phase in expression of RpoS - regulated lacZ - fusions .
+- Galactosidase assays of strains containing S - regulated lacZ - fusions were performed with logarithmically growing ( A ) or stationary - phase ( B ) S. typhimurium cultures in wild - type ( WT ) , rpoS : : pRR10 ( trfA ) ( rpoS ) , crp : : Tn10 ( crp ) , a P BAD : : rpoS expression plasmid ( rpoS ) , or combined genetic backgrounds .
+Original strains in which lacZ - fusions were isolated are designated along the x axis .
+Arabinose ( 0.1 % ) was added to cultures of strains carrying pUBAD : : rpoS to induce P BAD .
+Error bars indicate SD .
+and 1080 in the coding sequence of otsA , which encodes trehalose - 6-phosphate synthase .
+The partial peptide sequence is 93 % identical ( Fig. 5 ) with the corresponding region of the E. coli OtsA protein ( 35 ) .
+Effect of CRP on expression of S - regulated lacZ - fusions .
+The inability of rpoS overexpression during logarithmic growth to induce significant increases in expression of spvB or the S - regulated lacZ - fusions contained in strains XF259 , XF262 , XF317 , and XF326 suggested possible growth phase - dependent repression of these loci .
+CRP was evaluated for a possible role in logarithmic - phase repression of these S - activated genes , because global transcriptional analyses of E. coli have indicated that CRP represses a large number of genes during logarithmic phase ( 16 ) , and a negative regulatory role of cAMP - CRP has been suggested previously for the S - regulated genes osmY , appA , spvB , proP , and bolA ( 41 , 42 , 60 , 78 , 81 ) .
+crp : : Tn10 was introduced into strains harboring S - regulated lacZ - fusions , with or without the rpoS : : pRR10 ( trfA ) allele or the rpoS overexpression plasmid pBAD : : rpoS .
+These strains were immediately assayed for - galactosidase activity during logarithmic or stationary - phase ( Fig. 1 and 4 ) to avoid problems resulting from crp : : Tn10 instability ( 1 ) .
+During logarithmic growth , the crp mutation derepresses expression of each of the S - regulated lacZ - fusions , with the exception of strain XF373 ( otsA : : lacZ ) .
+In the case of spvB and the S - regulated lacZ - fusions in strains XF259 and XF317 , this derepression is evident only when rpoS is overexpressed .
+The combination of rpoS overexpression and a crp : : Tn10 mutation results in logarithmic - phase expression of S - regulated genes to levels approximating those seen in wild - type cells during stationary - phase .
+During stationary - phase , crp - dependent repression appears to be mostly relieved , since the introduction of a crp mutation has no significant effect on expression of any of the S - regulated lacZ - fusions , provided that normal levels of S are present .
+Nevertheless , expression of spvB and the S - regulated VOL .
+178 , 1996 S - REGULATED GENES IN S. TYPHIMURIUM 5117 TABLE 2 .
+Osmotolerance of otsA S. typhimurium a Survival ( % of original inoculum SD ) at : Strain Genotype 0h 6h 24h 14028s Wild type 100 102 10.8 115 13.3 SF1005 rpoS 100 53.6 4.3 35.2 1.6 XF373 otsA 100 68.7 8.4 25.3 2.9 a The survival of stationary - phase bacteria challenged with 2.4 M NaCl was determined by serial plating and quantitation of viable cells .
+Predicted peptide sequences flanking S - regulated MudJ insertions .
+Junction fragments containing chromosomal sequences flanking attL termini of S - regulated MudJ insertions were cloned and sequenced .
+Partial predicted peptide sequences are shown for selected mutants .
+Identical ( ) or conservative ( F ) amino - acid - residues are noted in alignment with partial sequences of known proteins ( see text for details ) .
+lacZ - fusions in XF272 , XF317 , XF326 , and XF373 is increased further when crp : : Tn10 is introduced in the setting of rpoS overexpression .
+Significantly , expression of each of these genes is nearly completely abolished in an rpoS background .
+The sole exception is spvB , which demonstrates both S - dependent and S - independent stationary - phase expression ( which is negatively regulated by CRP ) .
+Although each of the strains harboring a S - regulated lacZ fusion had some reduction in starvation survival at 14 days compared with that of wild - type S. typhimurium ( Fig. 6 ) , only XF259 showed a reduction in survival approaching the 10 - fold decrease seen with rpoS mutant S. typhimurium SF1005 .
+Effects of otsA : : MudJ on osmotolerance and thermotolerance .
+S. typhimurium XF373 ( otsA ) was found to have a significantly impaired ability to survive hyperosmolar stress compared with wild - type S. typhimurium 14028s ( Table 2 ) , exceeding even rpoS mutant S. typhimurium SF1005 in susceptibility to 2.4 M NaCl after 24 - h exposure .
+S. typhimurium XF373 ( otsA ) was found to be minimally hypersusceptible to thermal stress compared with wild - type S. typhimurium 14028s at the final 10 - min time point ( Table 3 ) but not as susceptible as rpoS mutant S. typhimurium SF1005 .
+MudJ mutant strains XF259 , XF262 , XF272 , XF317 , and XF326 were also evaluated for osmotolerance and thermotolerance but did not differ significantly from wild - type S. typhimurium 14028s ( data not shown ) .
+In screening studies performed with BALB/c mice , none of the strains harboring MudJ insertions in S - regulated genes were found to be attenuated in virulence .
+S. typhimurium strains were cultured in LB broth at 37 C for 14 days and plated for viable counts .
+Results are expressed as percent survival compared with that of the wild type ( 14028s ) .
+Error bars indicate SD .
+Thermotolerance of otsA S. typhimurium a Survival ( % of original inoculum SD ) at : Strain 0 min 2 min 6 min 10 min 14028s 100 78.9 7.3 43.0 3.1 18.8 5.6 SF1005 100 87.6 4.9 58.6 0 1.6 0.2 XF373 100 113 18 70.5 3.2 12.4 1.2 a Stationary - phase bacteria at a density of 5 10 3 cells per ml were placed at 55 C , and survival was determined by serial plating and quantitation of viable cells .
+mice receiving strain XF259 , XF262 , XF272 , XF317 , XF326 , or XF373 or wild - type 14028s were dead within 10 days after receiving 10 3 organisms intraperitoneally .
+In contrast , no animals died after receiving equivalent inocula of rpoS mutant strain SF1005 .
+DISCUSSION The central role of the S regulon in starvation - induced general resistance provides a unique opportunity to investigate the specific molecular mechanisms by which bacteria withstand a broad range of environmental extremes .
+The present report described an effective strategy for the identification and mutagenesis of S - regulated genes , utilizing a recently described expression vector ( 25 ) based on the arabinose - inducible P BAD promoter .
+Low basal levels of uninduced P BAD : : rpoS expression have proven to be advantageous for the identification of S - dependent lacZ - transcriptional - fusions .
+The screening strategy employed in this study is likely to be generally applicable for the identification of loci controlled by specific trans - acting regulatory factors .
+Some limitations of this strategy must be acknowledged .
+First , since most S - regulated transposon insertions are located within structural genes , MudJ mutagenesis will be unlikely to identify genes which are essential for viability .
+This was not a major concern in the present study since the rpoS gene itself is not essential for viability , but it remains possible that some S genes are essential since not all such genes are absolutely dependent upon S for expression .
+Second , the initial screening strategy spuriously identified some arabinoseregulated lacZ - fusions , as well as genes which appeared to be S activated only in the presence of supraphysiologic levels of S .
+However , these were readily eliminated from further consideration after transduction of the MudJ insertions into wildtype and rpoS backgrounds .
+The identification of the S. typhimurium otsA locus , a wellcharacterized S - regulated gene in E. coli ( 73 ) , serves to validate the screening method employed in this study .
+otsA appears to have a major role in osmotolerance and a minor role in thermotolerance during stationary - phase in S. typhimurium , analogous to its associated phenotypes in E. coli ( 24 , 28 ) .
+In addition to otsA , five novel S - regulated S. typhimurium loci have been identified in these initial studies .
+The mutated locus in strain XF259 appears to play a major role in starvation survival ( Fig. 6 ) .
+However , in contrast to the plasmid - encoded spv genes ( 19 ) , none of the chromosomal S - regulated loci thus far identified appear to be required for virulence in BALB/c mice .
+The identification of S - regulated MudJ insertions will facilitate the analysis of complex interactions between S and other regulatory systems .
+Virtually all genes constituting the S regulon are coregulated by overlapping modulatory or specific control elements in addition to S .
+CRP appears to have a particularly important counterregulatory influence on the expression of some S - regulated genes .
+Previous observations of global regulatory patterns have suggested that many of the starvation - induced genes which are not positively regulated by cAMP - CRP are in fact repressed by cAMP - CRP ( 16 , 49 , 72 ) .
+It has become clear that cAMP - CRP can act as both an activator and a repressor of gene expression , sometimes displaying both activities even at a single promoter ( 23 ) .
+Along with its transcriptional repression of rpoS itself ( 42 , 43 ) , CRP appears to exert a direct repressive effect on many S - regulated genes , including osmY , appA , spvB , proP , bolA , and several of the novel loci described in the current report ( 39 , 41 -- 43 , 60 , 75 , 78 , 81 ) .
+Although participation by an unidentified CRP - regulated intermediate can not be excluded , the demonstration of consensus CRP - binding sites upstream of some S - regulated loci ( 39 , 81 ) , the ability of the crp : : Tn10 mutation to derepress S - regulated genes even when rpoS is controlled by the heterologous P BAD promoter ( present study ) , the ability of cAMP to repress a S - regulated gene ( osmY ) in an rpoS background ( 39 ) , and the ability of the crp : : Tn10 mutation to derepress a S - regulated gene ( spvB ) in an rpoS background ( present study ) are all consistent with a direct effect of CRP at the level of individual S - regulated genes .
+CRP repression is not a universal feature of the S regulon , as the E. coli aldB , poxB , glgS , and mcc genes have been found to be activated by both S and CRP ( 13 , 27 , 55 , 80 ) , and other incompletely characterized loci coactivated by S and CRP have also been reported ( 63 , 72 , 78 ) .
+CRP repression of S - regulated loci is most evident during logarithmic growth .
+Although stationary - phase CRP - dependent repression of spvB has been described in one report ( 60 ) , this finding may be related to a mutant rpoS allele present in the S. typhimurium LT2 strain ( 44 ) employed by those investigators .
+CRP does not appear to repress spvB during stationary phase in an S. typhimurium strain possessing a wild - type rpoS allele ( 19 ) .
+Since cAMP levels are low during logarithmic growth ( 9 , 16 ) , it is conceivable that CRP regulates logarithmic - phase gene expression in a cAMP - independent manner , as some investigators have suggested ( 16 , 72 ) .
+However , observations in E. coli have implicated cAMP in the logarithmic - phase regulation of at least some S - controlled genes ( 27 , 41 , 42 , 78 ) .
+Inappropriate rpoS overexpression driven by a heterologous promoter ( P BAD ) during logarithmic growth failed to significantly increase expression for the majority of S - regulated genes examined in this study [ strains XF259 , XF262 , XF317 , XF326 , and 14028s ( pFF14 ) ] .
+Similarly , crp : : Tn10 moderately elevated the levels of logarithmic - phase expression of lacZ fusions in some strains ( XF262 , XF272 , and XF326 ) but not in others [ XF259 , XF317 , XF373 , and 14028s ( pFF14 ) ] .
+However , the combination of rpoS overexpression and crp inactivation is sufficient to confer high - level expression of each of these genes during logarithmic phase .
+Therefore , the balance between opposing effects of S and CRP provides a homeostatic mechanism which determines the expression of S - regulated genes .
+Because studies with E. coli have demonstrated rapid degradation of S in growing cells ( 43 ) , we were initially concerned that induction of P BAD : : rpoS would be insufficient to elevate S levels during logarithmic growth .
+However , rpoS overexpression during logarithmic growth was inferred by the ability of P BAD : : rpoS to stimulate expression of lacZ - fusions in strains XF272 and XF373 ( Fig. 4 ) and directly demonstrated by Western analysis ( Fig. 2 ) .
+It is noteworthy that the P BAD promoter used to overexpress rpoS in these experiments is actually positively regulated by cAMP - CRP ( 33 , 36 ) , although P BAD activation does not absolutely require cAMP - CRP ( 33 ) and remains arabinose inducible in logarithmic phase ( 25 ) despite VOL .
+178 , 1996 S - REGULATED GENES IN S. TYPHIMURIUM 5119 the low cAMP levels found in nonstarved cells ( 9 , 16 ) .
+Therefore , the positive effects of the crp mutation on expression of S - regulated genes can not be attributed to the action of the mutation on rpoS expression from the P BAD : : rpoS expression plasmid , which would be predicted to have the opposite effect .
+Moreover , the effects of the crp mutation can not be attributed solely to the effects of the mutation on the native rpoS promoter , because elevated levels of expression in strains XF259 and XF317 were seen only in the presence of both crp : : Tn10 and P BAD : : rpoS .
+Since CRP is required for the expression of many genes during stationary - phase ( 51 , 69 ) , and since a burst of cAMP production occurs upon transition from logarithmic growth to stationary - phase ( 10 ) , an additional mechanism must be invoked to explain the relief of CRP - dependent repression of S - regulated genes during stationary - phase .
+This mechanism could conceivably involve logarithmic - phase corepressors , stationary - phase coactivators , competitive interactions between CRP and the cAMP - CRP complex , or growth phase - related alterations in DNA topology ( 17 , 32 ) .
+The DNA - binding protein Fis is one particularly attractive candidate corepressor molecule , since it previously has been demonstrated to repress certain S - regulated genes ( 82 ) and appears to be present exclusively in logarithmically dividing cells ( 64 ) .
+There is also some evidence that expression of S - regulated genes is sensitive to changes in DNA superhelicity ( 61 ) .
+The novel lacZ fusions identified in the current study will help to elucidate the role of these factors in determining the expression of S - regulated genes .
+We gratefully acknowledge Stanley Maloy , Roy Curtiss III , Peter Loewen , Stephen Libby , Eduardo Groisman , Jon Beckwith , Richard Burgess , and Erich Lanka for their helpful suggestions and generous gifts of strains , plasmids , and antibodies .
+We also thank John Foster , Peter Loewen , and Traci Testerman for their review of the manuscript prior to publication .
+This work was supported in part by grants from the U.S. Department of Agriculture ( 9401954 and 9337204 ) and the National Institutes of Health ( AI32463 and AI32178 ) .
+Ailion , M. , T. A. Bobik , and J. R. Roth .
+Two global regulatory systems ( Crp and Arc ) control the cobalamin/propanediol regulon of Salmonella typhimurium .
+Altschul , S. F. , W. Gish , W. Miller , E. W. Myers , and D. J. Lipman .
+Basic local alignment search tool .
+Altuvia , S. , M. Almiron , G. Huisman , R. Kolter , and G. Storz .
+The dps promoter is activated by OxyR during - growth and by IHF and S in stationary phase .
+Badger , J. L. , and V. L. Miller .
+Role of RpoS in survival of Yersinia enterocolitica to a variety of environmental stresses .
+Barth , M. , C. Marschall , A. Muffler , D. Fischer , and R. Hengge - Aronis .
+Role for the histone - like protein H - NS in growth phase - dependent and osmotic regulation of S and many S - dependent genes in Escherichia coli.J .
+Bearson , S. M. D. , W. H. Benjamin , Jr. , W. E. Swords , and J. W. Foster .
+Acid shock induction of RpoS is mediated by the mouse virulence gene mviA of Salmonella typhimurium .
+Curing bacterial cells of lysogenic viruses by using UCB indicator plates .
+Bohringer , J. , D. Fischer , G. Mosler , and R. Hengge - Aronis .
+UDPglucose is a potential intracellular signal - molecule in the control of expression of S and S - dependent genes in Escherichia coli .
+Botsford , J. L. , and J. G. Harman .
+Cyclic AMP in prokaryotes .
+Buettner , M. J. , E. Spitz , and H. V. Rickenberg .
+Cyclic 3 ,5 - monophosphate in Escherichia coli .
+Bullock , W. O. , J. M. Fernandez , and J. M. Short .
+XL1 - Blue : a high efficiency plasmid transforming recA Escherichia coli strain with beta - galactosidase selection .
+Castilho , B. A. , P. Olfson , and M. J. Casadaban .
+Plasmid insertion mutagenesis and lac gene fusion with mini - Mu bacteriophage transposons .
+Chang , Y. Y. , A. Y. Wang , and J. E. Cronan , Jr. 1994 .
+Expression of Escherichia coli pyruvate oxidase ( PoxB ) depends on the sigma factor encoded by the rpoS ( katF ) gene .
+Chen , C. Y. , N. A. Buchmeier , S. Libby , F. C. Fang , M. Krause , and D. G. Guiney .
+Central regulatory role for the RpoS sigma factor in expression of Salmonella dublin plasmid virulence genes .
+Chen , C. Y. , L. Eckmann , S. J. Libby , F. C. Fang , S. Okamoto , M. F. Kagnoff , J. Fierer , and D. G. Guiney .
+Chuang , S. E. , D. L. Daniels , and F. R. Blattner .
+Global regulation of gene expression in Escherichia coli .
+DNA topology and the global control of bacterial gene expression : implications for the regulation of virulence gene expression .
+Fang , F. C. , M. Krause , C. Roudier , J. Fierer , and D. G. Guiney .
+Growth regulation of a Salmonella plasmid gene essential for virulence .
+Fang , F. C. , S. J. Libby , N. A. Buchmeier , P. C. Loewen , J. Switala , J. Harwood , and D. G. Guiney .
+The alternative sigma factor KatF ( RpoS ) regulates Salmonella virulence .
+Fierer , J. , L. Eckmann , F. Fang , C. Pfeifer , B. B. Finlay , and D. Guiney .
+Expression of the Salmonella virulence plasmid gene spvB in cultured macrophages and nonphagocytic cells .
+Furste , J. P. , W. Pansegrau , R. Frank , H. Blocker , P. Scholz , M. Bagdasarian , and E. Lanka .
+Molecular cloning of the plasmid RP4 region in a multi - host - range tacP expression vector .
+Gentry , D. R. , V. J. Hernandez , L. H. Nguyen , D. B. Jensen , and M. Cashel .
+Synthesis of the stationary - phase sigma factor S is positively regulated by ppGpp .
+Gerlach , P. , L. Sogaard - Andersen , H. Pedersen , J. Martinussen , P. Valentin - Hansen , and E. Bremer .
+The cyclic AMP ( cAMP ) - cAMP receptor protein complex functions both as an activator and as a corepressor at the tsx - p 2 promoter of Escherichia coli K - 12 .
+Glæver , H. M. , O. B. Styrvold , I. Kaasen , and A. R. Strøm .
+Biochemical and genetic characterization of osmoregulatory trehalose synthesis in Escherichia coli .
+Guzman , L. M. , D. Belin , M. J. Carson , and J. Beckwith .
+Tight regulation , modulation , and high - level expression by vectors containing the arabinose P BAD promoter .
+Hardesty , C. , C. Ferran , and J. M. DiRienzo .
+Plasmid - mediated sucrose metabolism in Escherichia coli : characterization of scrY , the structural gene for a phosphoenolpyruvate - dependent sucrose phosphotransferase system outer membrane porin .
+Hengge - Aronis , R. , and D. Fischer .
+Identification and molecular analysis of glgS , a novel growth - phase - regulated and rpoS - dependent gene involved in glycogen synthesis in Escherichia coli .
+Hengge - Aronis , R. , W. Klein , R. Lange , M. Rimmele , and W. Boos .
+Trehalose synthesis genes are controlled by the putative sigma factor encoded by rpoS and are involved in stationary - phase thermotolerance in Escherichia coli .
+Hughes , K. , and J. R. Roth .
+Transitory cis - complementation : a general method for providing transposase to defective transposons .
+Huisman , G. W. , and R. Kolter .
+Sensing starvation : a homoserine lactone - dependent signaling pathway in Escherichia coli .
+Itkor , P. , N. Tsukagoshi , and S. Udaka .
+Nucleotide sequence of the raw - starch - digesting amylase gene from Bacillus sp. .
+B1018 and its strong homology to the cyclodextrin glucanotransferase genes .
+Jensen , P. R. , L. Loman , B. Petra , C. van der Weijden , and H. V. Westerhoff .
+Energy buffering of DNA structure fails when Escherichia coli runs out of substrate .
+Johnson , C. M. , and R. F. Schleif .
+In vivo induction kinetics of the arabinose promoters in Escherichia coli .
+Josephsen , J. , K. Hammer - Jespersen , and T. D. Hansen .
+Mapping of the gene for cytidine deaminase ( cdd ) inEscherichia coli .
+Kaasen , I. , P. Falkenberg , O. B. Styrvold , and A. R. Strøm .
+Molecular cloning and physical mapping of the otsBA genes , which encode the osmoregulatory trehalose pathway of Escherichia coli : evidence that transcription is activated by KatF ( AppR ) .
+Kolodrubetz , D. , and R. Schleif .
+Regulation of the L - arabinose transport operons in Escherichia coli .
+Kowarz , L. , C. Coynault , V. Robbe - Saule , and F. Norel .
+The Salmonella typhimurium katF ( rpoS ) gene : cloning , nucleotide sequence , and regulation of spvR and spvABCD virulence plasmid genes .
+Krause , M. , F. C. Fang , and D. G. Guiney .
+Regulation of plasmid 5120 FANG ET AL. .
+virulence gene expression in Salmonella dublin involves an unusual operon structure .
+Lange , R. , M. Barth , and R. Hengge - Aronis .
+Complex transcriptional control of the S - dependent stationary - phase - induced and osmotically regulated osmY ( csi - 5 ) gene suggests novel roles for Lrp , cyclic AMP ( cAMP ) receptor protein - cAMP complex , and integration host factor in the stationary - phase response of Escherichia coli .
+Lange , R. , D. Fischer , and R. Hengge - Aronis .
+Identification of transcriptional start sites and the role of ppGpp in the expression of rpoS , the structural gene for the S subunit of RNA polymerase in Escherichia coli .
+Lange , R. , and R. Hengge - Aronis .
+Growth phase - regulated expression of bolA and morphology of stationary - phase Escherichia coli cells are controlled by the novel sigma factor S .
+Lange , R. , and R. Hengge - Aronis .
+Identification of a central regulator of stationary - phase gene expression in Escherichia coli .
+Lange , R. , and R. Hengge - Aronis .
+The cellular concentration of the S subunit of RNA polymerase in Escherichia coli is controlled at the levels of transcription , translation , and protein stability .
+Lee , I. S. , J. Lin , H. K. Hall , B. Bearson , and J. W. Foster .
+The stationary - phase sigma factor S ( RpoS ) is required for a sustained acid tolerance response in virulent Salmonella typhimurium .
+Loewen , P. C. , and R. Hengge - Aronis .
+The role of the sigma factor S ( KatF ) in bacterial global regulation .
+Loewen , P. C. , I. von Ossowski , J. Switala , and M. R. Mulvey .
+KatF ( S ) synthesis in Escherichia coli is subject to posttranscriptional regulation .
+Manna , D. , and J. Gowrishankar .
+Evidence for involvement of proteins HU and RpoS in transcription of the osmoresponsive proU operon in Escherichia coli .
+Marschall , C. , and R. Hengge - Aronis .
+Regulatory characteristics and promoter analysis of csiE , a stationary - phase - inducible gene under the control of S and the cAMP - CRP complex in Escherichia coli .
+The molecular basis of carbon - starvation - induced general resistance in Escherichia coli .
+McCann , M. P. , C. D. Fraley , and A. Matin .
+The putative sigma factor KatF is regulated posttranscriptionally during carbon - starvation .
+McCann , M. P. , J. P. Kidwell , and A. Matin .
+The putative factor KatF has a central role in development of starvation - mediated general resistance in Escherichia coli .
+Mead , D. A. , E. S. Skorupa , and B. Kemper .
+Single stranded DNA SP6 promoter plasmids for engineering mutant RNAs and proteins : synthesis of a `` stretched '' preparathyroid hormone .
+Miksch , G. , and P. Dobrowolski .
+Growth phase - dependent induction of stationary - phase promoters of Escherichia coli in different gram - negative bacteria .
+Experiments in molecular genetics .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 55 .
+Moreno , F. , J. L. San Millán , I. del Castillo , J. M. Gómez , M. C. Rodríguez - Sáinz , J. E. González - Pastor , and L. Díaz - Guerra .
+Escherichia coli genes regulating the production of microcins MccB17 and MccC7 , p. 3 -- 13 .
+In R. James , C. Lazdunski , and F. Pattus ( ed .
+) , Bacteriocins , microcins and lantibiotics .
+Muffler , A. , D. Fischer , S. Altuvia , G. Storz , and R. Hengge - Aronis .
+The response regulator RssB controls stability of the S subunit of RNA polymerase in Escherichia coli .
+Mulvey , M. R. , and P. C. Loewen .
+Nucleotide sequence of katF of Escherichia coli suggests KatF protein is a novel transcription factor .
+Mulvey , M. R. , J. Switala , A. Borys , and P. C. Loewen .
+Regulation of transcription of katE and katF in Escherichia coli .
+Nguyen , L. H. , D. B. Jensen , N. E. Thompson , D. R. Gentry , and R. R. Burgess .
+In vitro functional characterization of overproduced Escherichia coli katF/rpoS gene product .
+O'Byrne , C. P. , and C. J. Dorman .
+The spv virulence operon of Salmonella typhimurium LT2 is regulated negatively by the cyclic AMP ( cAMP ) - cAMP receptor protein system .
+O'Byrne , C. P. , and C. J. Dorman .
+Transcription of the Salmonella typhimurium spv virulence locus is regulated negatively by the nucleoidassociated protein H - NS .
+Olsén , A. , A. Arnqvist , L. Sukulpovi , and S. Normark .
+The RpoS sigma factor relieves H - NS - mediated transcriptional repression of csgA , the subunit gene of fibronectin binding curli in Escherichia coli .
+O'Neal , C. R. , W. M. Gabriel , A. K. Turk , S. J. Libby , F. C. Fang , and M. P. Spector .
+RpoS is necessary for both the positive and negative regulation of starvation survival genes during phosphate , carbon , and nitrogen starvation in Salmonella typhimurium .
+Osuna , R. , D. Lienau , K. T. Hughes , and R. C. Johnson .
+Sequence , regulation , and functions of fis in Salmonella typhimurium .
+Pratt , L. A. , and T. J. Silhavy .
+The response regulator SprE controls the stability of RpoS .
+Prince , R. W. , Y. Xu , S. J. Libby , and F. C. Fang .
+Cloning and sequencing of the gene encoding the Rpos ( KatF ) sigma factor from Salmonella typhimurium 14028s .
+Robbe - Saule , V. , C. Coynault , and F. Norel .
+The live oral typhoid vaccine Ty21a is a rpoS mutant and susceptible to various environmental stresses .
+Sambrook , J. , E. F. Fritsch , and T. Maniatis .
+Molecular cloning : a laboratory manual , 2nd ed .
+Cold Spring Harbor Laboratory Press , Cold Spring Harbor , N.Y. 69 .
+Schultz , J. E. , G. I. Latter , and A. Matin .
+Differential regulation by cyclic AMP of starvation protein synthesis in Escherichia coli .
+Schweder , T. , K. H. Lee , O. Lomovskaya , and A. Matin .
+Regulation of Escherichia coli starvation sigma factor ( S ) by ClpXp protease .
+Small , P. , D. Blankenhorn , D. Welty , E. Zinser , and J. L. Slonczewski .
+Acid and base resistance in Escherichia coli and Shigella flexneri : role of rpoS and growth pH. J. Bacteriol .
+Spector , M. P. , and C. L. Cubitt .
+Starvation - inducible loci of Salmonella typhimurium : regulation and roles in starvation - survival .
+Strøm , A. R. , and I. Kaasen .
+Trehalose metabolism in Escherichia coli : stress protection and stress regulation of gene expression .
+Tanaka , K. , and H. Takahashi .
+Cloning , analysis and expression of an rpoS homologue gene from Pseudomonas aeruginosa PAO1 .
+Touati , E. , and A. Danchin .
+The structure of the promoter and amino terminal region of the pH 2.5 acid phosphatase structural gene ( appA ) ofE .
+coli : a negative control of transcription mediated by cyclic AMP .
+Tuveson , R. W. , and R. B. Jonas .
+Genetic control of near - UV ( 300 - 400 nm ) sensitivity independent of the recA gene in strains of Escherichia coli K - 12 .
+Volkert , M. R. , L. I. Hajec , Z. Matijasevic , F. C. Fang , and R. Prince .
+Induction of the Escherichia coli aidB gene under oxygen - limiting conditions requires a functional rpoS ( katF ) gene .
+Weichart , D. , R. Lange , N. Henneberg , and R. Hengge - Aronis .
+Identification and characterization of stationary - phase - inducible genes in Escherichia coli .
+Woodcock , D. M. , P. J. Crowther , J. Doherty , S. Jefferson , E. DeCruz , M. Noyer - Weidner , S. S. Smith , M. Z. Michael , and M. W. Graham .
+Quantitative evaluation of Escherichia coli host strains for tolerance to cytosine methylation in plasmid and phage recombinants .
+Xu , J. , and R. C. Johnson .
+aldB , an RpoS - dependent gene in Escherichia coli encoding an aldehyde dehydrogenase that is repressed by Fis and activated by Crp .
+Xu , J. , and R. C. Johnson .
+Fis activates the RpoS - dependent stationary - phase expression of proP in Escherichia coli .
+Xu , J. , and R. C. Johnson .
+Identification of genes negatively regulated by Fis : Fis and RpoS comodulate growth - phase - dependent gene expression in Escherichia coli .
+Yamashino , T. , C. Ueguchi , and T. Mizuno .
+Quantitative control of the stationary - phase - specific sigma factor , S , inEscherichia coli : involvement of the nucleoid protein H - NS .

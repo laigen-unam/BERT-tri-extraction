@@ -1,0 +1,330 @@
+JOURNAL OF BACTERIOLOGY , July 1992 , p. 4482 - 4489 0021 - 9193/92 / 134482 - 08 $ 02.00 / 0 Vol .
+174 , No. 13 Regulation of Plasmid Virulence Gene Expression in Salmonella dublin Involves an Unusual Operon Structure MARTIN KRAUSE , lt * FERRIC C. FANG ,1 AND DONALD G. GUINEY1 ' 2 Division of Infectious Diseases 8416 , Department of Medicine , UCSD Medical Center , San Diego , California 92103 , 1 and Center for Molecular Genetics , University of California , San Diego , La Jolla , California 920932 The 80 - kb plasmid pSDL2 of SalmoneUla dublin Lane is essential for lethal systemic infection in experimental mice .
+A cluster of five plasmid genes , designated spvR , spvA , spvB , spvC , and spvD , is sufficient to express the plasmid - related virulent phenotype .
+The spvR gene product has recently been identified as a positive regulator of spvB expression in the stationary - phase of bacterial growth ( F. C. Fang , M. Krause , C. Roudier , J. Fierer , and D. G. Guiney , J. Bacteriol .
+In this study , we evaluated the role of SpvR in the transcription of the downstream virulence genes spvABCD .
+Analysis of mRNA synthesis revealed that SpvR promotes transcription of the downstream spvABCD genes in the stationary growth phase .
+Transcript mapping of the spv region demonstrated an unusual operon structure involving messages for spvA , spvAB , spvABC , and spvABCD .
+Quantitative measurement of transcription and of gene expression by use of translational spv - lacZ fusions suggested that SpvA , SpvB , SpvC , and SpvD are produced in decreasing abundance .
+Primer extension assays identified two transcriptional start sites - 70 and 98 bp upstream of the start codon of spvA , but none upstream of spvB , spvC , or spvD .
+Deletion of a 320 - bp EcoRI - ApaI segment that contains both start sites abolished expression of the downstream spvB and spvC genes .
+Our results establish a central function of SpvR as a positive regulator of the downstream spvABCD genes in the stationary - phase of bacterial growth and indicate that the primary mechanism of regulation is by activation of promoters upstream of spvA .
+Nontyphoid Salmonella serovars are enteric pathogens responsible for a variety of clinical syndromes , ranging from localized gastroenteritis to septicemia and systemic disease .
+Salmonella dublin is an unusually invasive serotype that is host - adapted to cattle , constituting a major veterinary problem worldwide .
+In humans , infection is acquired by drinking unpasteurized milk or by ingestion of raw calf liver extracts and frequently results in bacteremia with metastatic suppurative infections at extraintestinal sites ( 7 ) .
+In experimental mice , S. dublin causes septicemia without concomitant diarrhea and uniformly leads to death .
+Along with other Salmonella serovars , such as S. typhimurium , S. choleraesuis , S. enteritidis , S. gallinarum , and S. pullorum , S. dublin harbors a large plasmid that is required for virulence ( 1 , 11 , 15 - 17 , 41 ) .
+In mice infected by either the oral or intraperitoneal route of inoculation , the plasmid promotes bacterial survival and proliferation in the reticuloendothelial tissues of the liver and spleen ( 14 ) .
+Our laboratory has been studying the 80 - kb plasmid pSDL2 from S. dublin Lane , a strain that was originally isolated from a patient with bacteremia ( 5 ) .
+A cluster of five genes contained in an 8.2 - kb SalI - XhoI segment was shown to be required to confer lethal disease in BALB/c mice ( 2 , 21 , 44 ) .
+The complete nucleotide sequence of this region was determined and showed that the genes are all oriented in the same direction ( 21 ) .
+Comparison of the DNA sequence of the S. dublin virulence region with corresponding plasmid sequences from S. typhimurium and S. choleraesuis indicates that these genes are closely related alleles , with very few amino - acid differences .
+Additional homology studies indicate that this region is also highly conserved among the other * t Present address : Medizinische Klinik Universitatsspital Zurich , Ramistrasse 100 , CH - 8091 Zurich , Switzerland .
+4482 Salmonella serovars that harbor virulence plasmids ( 9 , 35 , 43 ) .
+In several instances , functional conservation has also been demonstrated by replacement of the virulence plasmid in one serovar with the plasmid from a different serovar ( 1 , 2 ) .
+Because of these similarities , a universal genetic nomenclature for the five genes has been adopted which designates the loci as Salmonella plasmid virulence ( spv ) genes and recognizes that they are closely related alleles that are present in several serovars ( 12 ) .
+The genes are given the designations spvR , spvA , spvB , spvC , and spvD , and the correlation between this nomenclature and previous names is summarized in Table 1 .
+The spvR gene product was found to have substantial amino - terminal homology with a large family of bacterial transcriptional activator proteins , including MetR , OxyR , LysR , CysB , and other proteins , at least some of which are involved in amino - acid metabolic pathways ( 21 , 34 ) .
+The spvABCD genes , however , revealed no significant homology with other known genes and appear to encode peptides unique to the Salmonella genus ( 10 , 21 ) .
+Presently , the functions of these genes and the mechanisms by which their products interact with the host tissue at the molecular level are unknown .
+The recent finding that spvB is expressed selectively in the stationary growth phase has led to the hypothesis that starvation - induced bacterial growth limitation within the phagosomes of host phagocytes may be the environmental signal for plasmid - mediated virulence gene expression ( 8 ) .
+None of the proteins seems to be secreted into the extracellular compartment ; however , when overexpressed , SpvA was detected in the outer membranes , and SpvB and SpvC were found in the cytosolic as well as the particulate fraction of the cells ( 36 , 42 ) .
+Little is known about the regulation and transcriptional organization of the spv genes .
+Recently , Fang et al. ( 8 ) , Caldwell and Gulig ( 4 ) , and Matsui et al. ( 25 ) have independently shown that the spvR gene product regulates expres - VOL .
+174 , 1992 PLASMID VIRULENCE GENE EXPRESSION IN S. DUBLIN 4483 TABLE 1 .
+Serovar Correlation between current spv nomenclature and previous gene designations used for these loci in different serovars Gene designation spvR spvA spvB spvC spvD S. dublin vsdA vsdB vsdC vsdD vsdE 21 Reference ( s ) S. typhimurium mkaC mkaB mkaA mkaD 37 - 39 ORFI ORF2 mkjB mkfA 31 - 33 vagA 34 virA 10 , 11 S. choleraesuis mbal mba2 mba3 mba4 25 - 27 sion of the downstream spvB gene .
+These observations appear to contradict the report of Williamson et al. , which suggested that spvA regulates the expression of spvR ( 45 ) .
+Taira et al. have found that spvA and spvB are expressed as a unit ; however , conclusive evidence demonstrating the presence of an spv operon is still lacking ( 37 , 40 ) .
+The head - to - tail orientation of the spvA , spvB , spvC , and spvD genes suggests a polycistronic transcription of the region , although the intergenic sequences of 180 to 280 nucleotides between the genes are unusually long for a classical bacterial operon ( 21 , 30 ) .
+In this study , we demonstrate that spvR plays a central regulatory role for the entire spv region by acting as a transcriptional activator of the downstream spvABCD genes in the stationary growth phase .
+Transcription initiation in a region upstream of spvA results in multiple mRNA species of increasing length which include spvA , spvAB , spvABC , and spvABCD transcripts .
+We propose that the positive regulation exerted by spvR is mediated by activation of promoters upstream of spvA that results in the transcription of monoand polycistronic messages .
+MATERIALS AND METHODS Bacterial strains and culture conditions .
+S. dublin Lane is a clinical blood isolate that contains the virulence plasmid pSDL2 .
+S. dublin LD842 is the pSDL2 - cured avirulent derivative of S. dublin Lane ( 5 ) .
+Eschenichia coli DH5a [ F - 480d lacZAM15 A ( lacZYA - argF ) U169 recAl endAl hsdR17 supE44 X - thi - 1 gyrA relA ] was used as the host for cloning and plasmid constructions ( 13 ) .
+To move new constructs into S. dublin LD842 , plasmids were first passed through restriction - deficient S. typhimurium LB5000 before introduction into S. dublin LD842 ( 3 , 19 ) .
+To culture bacteria in the stationary - phase , organisms were grown for at least 20 h at 37 °C with vigorous shaking ( 250 to 300 rpm ) .
+Antibiotics were added to Luria - Bertani ( LB ) broth or agar to the following final concentrations : penicillin , 400 , ug/ml ; kanamycin , 50 , ug/ml ; and chloramphenicol , 20 , ug/ml .
+The 80 - kb wild - type virulence plasmid pSDL2 has been described in detail earlier ( 2 ) .
+pSD15 - 2 is an avirulent derivative of pSDL2 that contains a TnS - oniT insertion within the spvR virulence gene ( 2 , 21 ) .
+pUD5 contains spvR within a 2.4 - kb SalI - EcoRI fragment cloned into a low - copy - number RK2 derivative ( 21 ) and was used to complement the spvR mutation in pSD15 - 2 .
+pFF18 contains the same 2.4 - kb SalI - EcoRI fragment in pUC19 ( 8 ) .
+pUD8 was constructed to provide spvA in trans by ligating an 866 - bp PstI fragment into pUC18 under the control of the lac promoter .
+The recently described pFF14 , which contains spvR , spvA , and an spvB - lacZ fusion on a piSA replicon , was used to construct pFF14 - 1 , pFF14 - 2 , pSpvA - Z , pSpvC - Z , and pSpvD - Z ( 8 ) .
+The constructions of these plasmids are outlined in Fig. 1 .
+pFF14 - 1 is almost identical to pFF14 but lacks the upstream sequences and start region of spvA .
+To obtain pFF14 - 1 , pFF14 was partially digested with EcoRI andApaI , treated with Klenow fragment , and recircularized .
+Plasmids were screened by clone analysis for deletion of the 320 - bp EcoRI - ApaI fragment .
+pFF14 - 2 differs from pFF14 by the lack of spvA ; pFF14 was cut with PstI and religated , and deletion of the 866 - bp PstI fragment was confirmed by clone analysis .
+pSpvA - Z encodes a translational spvA - lacZ fusion ; pFF14 was partially digested with NcoI and BamHI , R A B C D Ns H RI N St B pUD8 pFF14 - 1 - .
+- RRI PA N P B K B IacZ I 14pFF14 R - A t Bs A A , a 8pvB - a pFF14 - 2 I  - -- v - 8B - IVCZ pSpvA - Z R I I spvAIA Iu mutR pSpvA - Z mutR v -- I sotA - / aCZ pSpvC - Z pSpvC - Z-1 pSpVC - ZmutR pSpvD - Z R A a A B R -1 -- 7R A B R , * - -LCB- l - -LCB- - E A B C spvc IaS SDVC - / aa I a - PV FIG. 1 .
+Construction of spv - lacZ - fusions and derivatives .
+The map of the virulence region containing the five spv genes ( R , A , B , C , and D ) is shown at the top .
+pFF14 was used to construct pFF14 - 1 , pFF14 - 2 , pSpvA - Z , pSpvC - Z , and pSpvD - Z ( 8 ) ; the strategies for their constructions are marked with 1 ( pFF14 - 1 ) , 2 ( pFF14 - 2 ) , 3 ( pSpvA - Z ) , 4 ( pSpvC - Z ) , and 5 ( pSpvD - Z ) .
+For details , see the text .
+The relevant segments of the new constructs are shown below .
+Ns , NsiI ; H , HpaI ; RI , EcoRI ; N , NcoI ; K , YpnI ; St , StuI ; Bs , BstBI ; P , PstI ; A , ApaI ; B , BamHI ; V , termination linker .
+4484 KRAUSE ET AL. blunt ended with Klenow fragment , and reannealed .
+Plasmids were screened by clone analysis for deletion of the 1.2 - kb NcoI - BamHI segment .
+pSpvC - Z and pSpvD - Z contain translational spvC - lacZ and spvD - lacZ - fusions , respectively , with conservation of the upstream sequences , including spvR .
+To obtain pSpvC - Z , the KpnI - StuI fragment that contained the second half of spvB and the first 16 bp of spvC was inserted into KpnI - and BamHI - digested pFF14 ( Fig. 1 ) .
+A small SmaI - BamHI adapter sequence from the multiple cloning region of pUC19 was used to anneal the StuI end to the BamHI site of lacZ .
+Nucleotide sequencing confirmed the presence of an in - frame fusion .
+To construct pSpvD - Z , the 2.5 - kb KpnI - BstBI fragment containing the second half of spvB , all of spvC , and the first part of spvD was inserted into KpnI - and BamHI - digested pFF14 .
+A ClaI - BamHI adapter sequence from pBluescript KS ' connected the BstBI site and the BamHI site of lacZ .
+pSpvA - ZmutR and pSpvC - Zm , uR are identical to pSpvA - Z and pSpvC - Z , respectively , except for the presence of a multiple reading frame termination linker at the HpaI site in spvR .
+These two constructs were obtained by exchange of the 1.5 - kb NsiI - ApaI fragment from pSpvA - Z and pSpvC - Z with the corresponding NsiI - ApaI segment of pFF26 ( 8 ) .
+pSpvC - Z-1 is a derivative of pSpvC - Z that lacks the 320 - bp EcoRI - ApaI segment from the upstream region of spvA .
+It was constructed by exchange of the 3.4 - kb NsiI - KpnI fragment from pSpvC - Z with the 3.1 - kb NsiI - IpnI fragment of pFF14 - 1 .
+Maps of all the new constructs are shown in Fig. 1 .
+CsCl - purified plasmid DNA was prepared by the cleared - lysate procedure .
+Rapid plasmid clone analysis , cleavage with restriction endonucleases , gel purification , random priming of DNA fragments with [ a - 32P ] dCTP , 5 ' - terminus labeling of oligonucleotides with T4 polynucleotide kinase and [ y - 3 P ] ATP , ligations , and transformations were performed by standard methods ( 24 ) .
+Measurement of 1 - galactosidase activity .
+The standard procedure described by Miller was used for quantitative measurement of ( 3 - galactosidase activity ( 29 ) .
+Briefly , 100 , u of cells with a known optical density at 600 nm ( OD6w ) were resuspended in 0.9 ml of phosphate buffer , lysed with 10 of 0.1 % sodium dodecyl sulfate ( SDS ) and 20 pI of chloroform , and equilibrated at 28 °C .
+Then , 200 pI of ONPG ( o - nitrophenyl - , - D - galactopyranoside ; 4 mg/ml ) was added each minute until the mixture turned yellow .
+The OD420 and OD550 of the reaction mix , the reaction duration ( in minutes ) , and the OD6 .
+of the bacterial culture were used to calculate the corrected 3 - galactosidase activity units .
+Each assay was repeated at least two times .
+RNA isolation and Northern ( RNA ) blotting .
+Pellets of cultures grown to different OD6 .
+values in LB were resuspended in 1 ml of 0.02 M sodium acetate - 1 mM EDTA ( pH 5.3 ) .
+Then 1 ml of 0.02 M sodium acetate - 1 mM EDTA ( pH 5.3 ) -1 % SDS was added , and the solution was immediately transferred to 5 ml of phenol saturated with water and equilibrated at 65 °C .
+The solutions were mixed for 5 min at 65 °C , and the aqueous phase was reextracted with phenol twice ( 22 ) .
+The aqueous phase was then layered on a 3 - ml 9.5 M CsCl cushion and centrifuged in a horizontal rotor at 40,000 rpm for 12 h .
+After careful removal of the supernatant , the pellet was washed with 70 % ethanol , dried , and resuspended in diethyl pyrocarbonate - treated water .
+RNA integrity was determined by the presence of discrete rRNA bands after electrophoresis , and RNA concentration was determined by measuring the A2 .
+RNA samples ( 10 to 20 , g ) were electrophoresed on horizontal denaturing formaldehyde gels and transferred to nylon membranes ( Oncor , Gaithersburg , Md. ) .
+Probes were labeled by random priming with [ a - 32P ] dCTP or by the kinase reaction with [ , y - 32PJATP .
+Hybridization was performed overnight at 45 °C in the presence of 50 % formamide .
+The membranes were washed three times for 1 h each at room temperature and once for 1 h at 550C with O. 1x SSC - 0.1 % SDS ( lx SSC is 0.15 M NaCl plus 0.015 M sodium citrate ) .
+Oligonucleotides complementary to the noncoding strand 24 to 36 bp downstream of the initiation codon of spvA , spvB , spvC , and spvD were used as primers for each individual spv gene ( spvA , 5 ` ACCTGTG AAAGTGCCGG3 ' ; spvB , 5 ` ATCAGCGCTAAAGTGGC3 ' ; spvC , 5 ` TACAATATTCAAAGGAGGG3 ' ; spvD , 5 ` ATCTT GGGATGACGCAC3 ' ) .
+They were synthesized on an Applied Biosystems DNA synthesizer .
+[ - y - 32P ] ATP - labeled primer ( 0.1 pmol ) was annealed with 50 , ug of total RNA by heating the mixture to 100 °C for 5 min and allowing the temperature to drop gradually to 42 °C .
+Then , 1/10 volume of lOx AMV buffer ( 50 mM Tris - HCl [ pH 8.3 ] , 500 mM KCI , 100 mM MgCl2 , 10 mM dithiothreitol ) , 0.1 mM ( final concentration ) of each deoxynucleoside triphosphate , and 10 U of avian myeloblastosis virus reverse transcriptase ( Boehringer ) were added .
+After incubation at 42 °C for 30 min , 1 , ug of RNase A per ml was added .
+Finally , 7 RI of formaldehyde stop buffer was added , and the samples were electrophoresed on 6 % polyacrylamide sequencing gels ( 22 ) .
+Transcription and expression of spvA , spvC , and spvD are growth phase dependent .
+In order to determine whether the expression of spvA , spvC , and spvD is regulated by growth , analogous to spvB , we constructed translational spv - lacZ fusions which were derived from pFF14 ( 8 ) ( Fig. 1 ) .
+Plasmids pSpvA - Z , pSpvC - Z , and pSpvD - Z were introduced into S. dublin LD842 , and P - galactosidase activity was plotted versus the optical density of cell cultures grown in LB .
+In a manner analogous to expression of spvB , expression of spvA , spvC , and spvD increased with higher optical densities ( Fig. 2 ) .
+Significant quantitative differences in expression were seen among the four lacZ fusion proteins , SpvA being the most abundant , followed by SpvB , SpvC , and SpvD .
+Likewise , the increase in spvA expression occurred earliest in the growth cycle , followed by spvB , spvC , and spvD .
+This expression pattern was confirmed at the transcriptional level by Northern blot hybridization .
+Equivalent amounts of total RNA isolated from S. dublin Lane ( containing the wild - type plasmid pSDL2 ) at different phases of cell growth were electrophoresed ( 1.2 M formaldehyde , 1.0 % agarose ) , transferred to nylon membranes , and probed with specific spvA , spvC , and spvD probes .
+Transcription of spvA was detectable in the late log phase , and with increasing optical density , the intensity and number of bands increased substantially ( Fig. 3 ) .
+Transcription of spvC and spvD was not detectable until the cultures reached the late stationary growth phase ( Fig. 3 ) .
+Transcription signals were most intense for spvA , followed by spvC and spvD .
+These results , together with the recently published data on spvB , indicate that all four spvABCD genes are transcribed progressively and expressed during the growth cycle , reaching maximal expression in the late stationary - phase .
+Polycistronic messages are transcribed from the spv region of the native pSDL2 plasmid .
+The presence of multiple mRNA species in the Northern blot assays indicated a complex transcriptional organization of the spv region .
+174 , 1992 PLASMID VIRULENCE GENE EXPRESSION IN S. DUBLIN 4485 Miller Units Thousands 14 12 10 SpvA - lacZ SpvB - lacZ 0.3 0.7 1.2 1.6 2.0 0.3 0.7 1.2 1.6 2.0 0.3 0.7 1.2 1.6 2.0 -2904 * 1541 -2904 -1641 -2904 -1641 0 0.5 SpvC - lacZ SpvD - lacZ 1.5 2 0D600 1.5 2OD600 FIG. 2 .
+Expression of the spv genes in relation to bacterial growth phase .
+A 20 - , ul amount of an overnight culture of S. dublin LD842 harboring pSpvA - Z , pSpvC - Z , or pSpvD - Z was grown simultaneously in 10 ml of LB to increasing cell densities .
+The spvB - lacZ fusion plasmid ( pFF14 ) served as a positive control .
+At different phases of cell growth , p - galactosidase activity was determined and plotted against OD6w .
+The measurements were repeated twice , and curves from a representative experiment are shown .
+The expression of all spv genes increases in the stationary - phase of growth .
+define the origin and length of the different transcripts , RNA extracted from a late - stationary - phase culture of S. dublin Lane was mapped with multiple radioactively labeled DNA probes ( Fig. 4 ) .
+To obtain good separation of all mRNA bands on agarose gel electrophoresis , different conditions than those used in the previous section were employed ( 4 M formaldehyde , 1.4 % agarose ) .
+Standard mRNA markers and the internal rRNA bands were used for estimating the mRNA sizes ( rRNA bands saturate the binding sites on the nylon membrane at 1,542 and 2,904 nucleotides and create `` white shadows '' in the mRNA pattern ) .
+The spvA probes Al , A3 , and A4 revealed four major bands of 0.9 , 3.0 , 4.0 , and 4.8 kb ( Fig. 4 ) .
+However , the end - labeled A2 probe ( 202 - bp EcoRI - PstI fragment ) failed to hybridize , suggesting that the 5 ' ends of all four mRNAs were located in the same segment in the region upstream of the spvA start codon .
+From the length of the mRNAs , it was extrapolated that the messages represented spvA , spvAB , spvABC , and spvABCD mRNAs , respectively ( Fig. 4 ) .
+The B , C , and D probes confirmed the predicted lengths of the different messages .
+The Bi and B2 probes revealed identical 3.0 - , 4.0 - , and 4.8 - kb bands , the Cl and C2 probes revealed the 4.0 - and 4.8 - kb bands , and the Dl and D2 probes revealed the 4.8 - kb band ( Fig. 4 ) .
+Weak bands running just ahead of the 1,541 - and 2,904 - bp rRNAs seen with the A and B probes ( also seen with the C and D probes after longer radiographic exposure and shown in Fig. 3 ) are most likely artifacts due to abundant rRNA , which condenses the degraded mRNA smear , causing the appearance of extra bands ( 30 ) .
+A faint 3.0 - kb band was consistently observed with the C probes ( Fig. 4 ) .
+Since this band was not seen with the D probes , it is possible that it represents an spvBC transcript that migrates at the same speed as the 3.0 - kb spvAB transcript on gel electrophoresis .
+The relative amounts of the mRNA species were determined by densitometric scans of the autoradiogram in lane 1 of Fig. 4 .
+Integration of the peaks gave an A/AB/ABC / ABCD spvA spvC spvD FIG. 3 .
+Northern blots with spvA , spvC , and spvD probes at different stages of the bacterial growth cycle .
+Equal amounts of total RNA from S. dublin Lane at different ODwo values ( 0.3 , 0.7 , 1.2 , 1.6 , and 2.0 ) were probed with a specific spvA probe ( 866 - bp PstI - PstI fragment ) , a specific spvC probe ( 621 - bp DraI - DraI fragment ) , and a specific spvD probe ( 446 - bp SspI - SspI fragment ) .
+The rRNA bands are indicated as size markers ( in nucleotides ) .
+Like that of spvB ( 8 ) , the transcriptional activity of spvA , spvC , and spvD clearly increases in the stationary growth phase .
+The ratio of the four transcripts did not appear to change during the bacterial growth cycle ; as shown in Fig. 1 , the most predominant 0.9 - kb spvA band is first detected when cells enter the stationary growth phase , followed by the spvAB , spvABC , and spvABCD messages .
+The spvR gene product acts as transcriptional activator for the spvABCD genes .
+Amino acid homology and recent published data suggested that spvR encodes a protein with a transcriptional activator function ( 4 , 8 , 25 , 40 ) .
+To establish spvR - dependent regulation of spvA , spvB , spvC , and spvD , we analyzed their transcription with and without the presence of SpvR by comparing pSDL2 and pSD15 - 2 .
+pSD15 - 2 is a pSDL2 derivative that does not encode spvR because of a TnS - oriT insertion 87 bp after the start codon of spvR , rendering S. dublin avirulent ( 2 , 21 ) .
+S. dublin LD842 containing pSD15 - 2 and S. dublin Lane ( pSDL2 ) were harvested in the late stationary - phase , and total RNA was probed with gene - specific probes .
+The spvR mutation in pSD15 - 2 reduced transcription of spvABCD to undetectable levels ( data not shown ) .
+The spvR mutation was complemented by introduction of pUD5 , which contains spvR on a low - copy - number RK2 replicon ( 21 ) .
+In S. dublin LD842 ( pSD15 - 2 , pUD5 ) , the transcriptional activity of the spvABCD genes was restored to the original levels found in pSDL2 , indicating that SpvR acts as a transcriptional activator for the downstream spv genes .
+The dependence on spvR was further confirmed at the level of gene expression for spvA and spvC .
+A translation termination linker introduced into the HpaI site of spvR in pSpvA - Z and pSpvC - Z was shown to reduce the , B - galactosidase activity of the resulting plasmids , pSpvA - ZmutR and pSpvC - ZmutR , respectively , more than 10 - fold in comparison to the parent plasmids ( Table 2 ) .
+When this mutation was complemented by providing spvR on pFF18 in trans , full activity Was restored ( Table 2 ) .
+These results clearly establish a central role for SpvR as a positive transcriptional activator of the downstream spv genes .
+Primer extension analysis identifies a promoter region controlling transcription of the spvABCD genes .
+Since all spv messages originate in a segment upstream of spvA , we 4486 KRAUSE ET AL. .
+A B 1 2 3 4 A AB ABC ABCD ABCD -- ABC - AB - ... 2904 - 1542 - FIG. 4 .
+Northern blot mapping of the spv transcripts .
+( A ) The different probes used to hybridize to RNA from S. dublin Lane are depicted as open horizontal bars below the map .
+Al , 866 - bp PstI - PstI ( bp 2503 to 3369 in reference 21 ) ; A2 , 202 - bp EcoRI - PstI ( bp 2301 to 2503 ) ; A3 , 222 - bp PstI - SstII ( bp 2503 to 2725 ) ; A4 , 644 - bp SstII - PstI ( bp 2725 to 3369 ) ; Bi , 1,048 - bp Eco47III - HincII ( bp 3548 to 4596 ) ; B2 , 802 - bp BamHI - BamHI ( bp 4382 to 5184 ) ; Cl , 414 - bp StyI - StyI ( bp 5379 to 5793 ) ; C2 , 621 - bp DraI - DraI ( bp 5728 to 6349 ) ; Dl , 446 - bp SspI - SspI ( bp 6510 to 6956 ) ; and D2 , 367 - bp SspI - SspI ( bp 6956 to 7223 ) .
+( B ) The Northern blots show the transcription pattern with the Al ( lane 1 ) , Bi ( lane 2 ) , C2 ( lane 3 ) , and D2 ( lane 4 ) probes .
+The sizes of the rRNA bands are marked ( 1,541 and 2,904 nucleotides ) .
+For details , see the text .
+The arrows in panel A indicate the maps of the four main transcripts A , AB , ABC , and ABCD .
+RI , EcoRI ; P , PstI ; SII , SstII ; E , Eco47III ; HII , HincII ; B , BamHI ; St , StyI ; D , DraI ; Sp , SspI .
+expected to find a transcriptional start site upstream of the start codon of spvA by primer - extension assays .
+The labeled spvA primer was annealed to total RNA from late - stationaryphase cultures of S. dublin Lane , and the reverse transcriptase reaction sample was run on a sequencing gel beside an appropriate marker .
+Two distinct signals - 28 nucleotides apart were obtained , suggesting the presence of two transcriptional start sites , at positions -70 and -98 upstream of the spvA initiation codon ( Fig. 5 ) .
+Each putative start site was located downstream of a -10 region closely resembling the -10 region of consensus E. coli promoter sequences .
+The reactions with the spvB , spvC , and spvD primers revealed the presence of multiple bands without obvious or unambiguous transcriptional starts in the regions upstream of the corresponding start codons .
+These results support the previously outlined observation that spvA , spvAB , spvABC , and spvABCD messages originate in the same promoter region upstream of spvA .
+Deletion of the promoter region upstream of spvA reduces TABLE 2 .
+P - Galactosidase activity of spv - lacZ fusion plasmids in S. dublin LD842 grown to late stationary growth phase ( OD6.J , 2.0 ) , B - Galactosidase Plasmid activity ' ( 103 Miller units ) pSpvA - Z ... 11.3 ± 1.5 pSPVAZmutR .
+... ... 0.8 ± 0.1 pSpvA - Zm , tR + pFF18 ... 10.3 0.7 pFF14 ... 8.5 ± 0.9 pFF14 - 1 ... 0.6 +0.4 pFF14 - 2 ... 9.4 ± 0.5 pSpvC - Z ... 5.6 +1.0 PSPvC - ZmutR ... 0.5 ± 0.3 pSpvC - Zm , utR + pFF18 ... 5.5 ± 0.5 pSpvC - Z-1 ... 0.9 ± 0.4 a Mean + standard deviation for three experiments .
+Units of activity have been defined by Miller ( 29 ) .
+expression of the downstream genes spvB and spvC .
+The importance of the promoter region identified for the downstream genes was further emphasized by removal of the 320 - bp EcoRI - ApaI fragment in pFF14 and pSpvC - Z .
+This deletion removed both identified transcriptional start sites as well as the start sequences of spvA ( Fig. 5 ) .
+The resulting constructs , pFF14 - 1 and pSpvC - Z-1 , respectively ( Fig. 1 ) , were transferred into S. dublin LD842 ( Fig. 1 ) , in which 0 - galactosidase activity was shown to be significantly reduced compared with that of the parent plasmids ( Table 2 ) .
+In contrast , the deletion of the 866 - bp PstI fragment in pFF14 did not decrease , - galactosidase activity ( pFF14 - 2 in Table 2 ) .
+This result was expected , since both transcriptional start sites were located upstream of the PstI site and thus were still present in pFF14 - 2 ( Fig. 1 ) .
+The intact spvB - lacZ activity in pFF14 - 2 shows that spvA and its gene product are not required for spvB expression .
+This result was confirmed by introduction of pUD8 ( which produces SpvA from the pUC lac promoter ) into S. dublin LD842 carrying pFF14 - 1 or pSpvC - Z-1 .
+P - Galactosidase activity was not restored , demonstrating that spvA in trans has no effect on spvB or spvC expression in the absence of the promoter region upstream of spvA .
+The cis - acting effect of the 320 - bp EcoRI - ApaI deletion on spvB expression was also demonstrated at the level of transcription .
+Total RNA from late - stationary - phase cultures of S. dublin LD842 harboring pSpvC - Z and S. dublin LD842 carrying pSpvC - Z-1 was probed with the B2 probe ( Fig. 4 ) .
+The intense transcriptional signals seen with pSpvC - Z were almost completely abolished with pSpvC - Z-1 ( data not shown ) .
+DISCUSSION We have identified an unusual operon structure of the spv virulence locus on the S. dublin virulence plasmid pSDL2 .
+This study has confirmed that the spvABCD genes are transcribed and expressed in the stationary - phase of the cell growth cycle and are dependent on SpvR .
+174 , 1992 PLASMID VIRULENCE GENE EXPRESSION IN S. DUBLIN 4487 .
+S ~ ~ EcoRI 5 ' GAATTCCTGAAATGGGACCACGCCAGCGGTCAGGTTGTTCCCGGCCTGACCCGACGC CGGAGCGCTGAACGT TGT TTAT TCCTGAGT TAATTTGT TGTGCCATCTT TGCACACCG -10 GGAACCGCGATTCCGCACAGCAGAAAAATAGCACATAA ~ TAAACtCAATATAAGCCACTC K -10 - Pt ZDs pst ATTTTCTGGCAATACAAAATAATTCCCCTGCAGACATTATCAGTCTTCAGGATTTCATTC rbs TGT T TAT T T TCAG G AGTCATCAT TAT T TATG AATATAATCAGACCACCAGTCCGGCACT Apal T TCACAGGTCGAAACCGCCATCCGGGCCCCGGCAGG 3 ' FIG. 5 .
+Primer extension analysis of S. dublin Lane mRNA .
+The radiolabeled spvA primer was annealed to total RNA from late - stationary - phase cultures , and primer - extension was performed with avian myeloblastosis virus reverse transcriptase .
+The reaction sample was run beside a sequencing marker with the same spvA primer ( left ) .
+Two start sites are visible , which correspond to the nucleotides indicated with an asterisk and a solid arrow on the depicted sequence .
+The putative -10 boxes , the start of spvA ( open arrow ) , and the ribosome - binding site ( rbs ) are marked .
+regulation of these genes was found to involve a complex polycistronic transcriptional organization , with A , AB , ABC , and ABCD transcripts .
+The following findings of this study confirm the operon structure of the spvABCD region .
+( i ) The 5 ' end of all transcripts maps in a region upstream of spvA and results in A , AB , ABC , and ABCD messages .
+( ii ) Transcriptional start sites were found upstream of spvA but not upstream of the other spv genes .
+( iii ) Deletion of the region that encompasses the spvA start sites abolishes transcription and expression of the downstream genes .
+By using a single probe for the spvA gene , the relative abundance of each transcript was determined by Northern blotting .
+At all stages of the growth cycle , the abundance of the major transcripts decreased in the order spvA > spvAB > spvABC > spvABCD .
+This quantitative measure of transcription was also reflected in the expression of the corresponding , - galactosidase fusion proteins ( Fig. 2 ) .
+Although differences in translation efficiency , enzyme activity , and protein degradation dictate caution in comparing the levels of the fusion proteins , the kinetics of protein synthesis during the growth cycle strongly confirms the mRNA analysis .
+Both the order of appearance and the quantity of gene - specific mRNA and fusion protein support the expression order spvA > spvB > spvC > spvD .
+Progressively longer messages , from A to AB to ABC to ABCD , are seen with increasing age of the bacterial cell culture , resulting in the sequential expression of spvA , spvB , spvC , and spvD with respect to the growth phase ( Fig. 2 and 3 ) .
+The mechanism responsible for the different transcript lengths may involve a combination of termination or antitermination processes within the intergenic regions A - B , B - C , and C - D ( 23 ) .
+Although the intergenic regions were examined carefully for hairpin termination structures , only one segment within the B - C region was found to resemble a classic rho - independent terminator .
+Interestingly , this structure was previously shown to be homologous to a hairpin loop on the Yersinia pseudotuberculosis plasmid pIBl ( 18 , 20 ) .
+No significant DNA sequence homology between the different intergenic areas ( A - B , B - C , and C - D ) was detected .
+Processing of polycistronic mRNA into smaller units by RNA endonucleases is an alternative mechanism that may be responsible for the observed transcription pattern ( 30 ) .
+In such a case , one would expect to detect numerous additional bands by mRNA mapping which include BCD , BC , CD , B , C , and D transcripts .
+Only with the spvC probes were we able to detect a 3 - kb band that could correspond to BC mRNA ( Fig. 4 ) .
+It is possible that the processed mRNA products undergo rapid degradation by exonucleolytic cleavage , therefore becoming invisible on the Northern blots ( 28 ) .
+It is noteworthy that the mRNA ratio of the major transcripts ( AIAB/ABC/ABCD ) remains relatively unchanged throughout the growth cycle .
+This suggests that the putative termination or RNA - processing activity within the intergenic areas is not directly dependent on the growth cycle .
+The simplest model to account for the changing transcription pattern during - growth involves increasing initiation at the spvA promoter , dependent on SpvR , as cells progress from log through stationary - phase .
+According to this model , termination or RNA processing to produce shorter messages would occur with certain probability in the intergenic regions but would not vary with growth phase .
+More frequent initiation would increase the number of short as well as longer messages , eventually raising the latter above the limit of detection .
+This model accounts for the fact that the short spvA message level continues to increase throughout the growth cycle ( Fig. 3 ) .
+This study has established the central regulatory role of the spvR gene product as a transcriptional activator of the downstream spvABCD genes .
+SpvR appears to direct progressively increasing initiation of transcription at the spvA promoter as growth slows and the cells enter stationary phase .
+SpvR contains an amino - terminal helix - turn - helix motif that has significant homology with corresponding regions of bacterial transcriptional activators of the MetR / LysR family ( 21 , 34 ) .
+We have mapped the 5 ' ends of the ABCD transcripts within a region upstream of spvA , and primer - extension identified two putative transcriptional start sites - 70 and 98 bp upstream of the start codon of spvA .
+The absence of transcriptional start sites upstream of the other spv genes suggests that SpvR alone activates the promoters upstream of spvA and induces polycistronic mRNA synthesis .
+This was confirmed by demonstration of a cis - acting polar effect by the 320 - bp EcoRI - ApaI deletion ( deleting both promoters ) , which considerably reduced expression of the downstream spv genes .
+The finding of two start sites 27 bp apart upstream of spvA implies the presence of two SpvR 4488 KRAUSE ET AL. binding sites , a phenomenon that is frequently observed in the transcriptional regulation of E. coli sigma promoters ( 6 ) .
+Our study emphasizes the important role of spvR in the regulation of the other plasmid virulence genes .
+The loss of virulence after spvR mutation by transposon insertions has been repeatedly demonstrated ( 2 , 4 , 34 ) .
+Taken together , these results suggest that SpvR mediates a coordinate regulation of the plasmid virulence genes in the course of infection that allows the microorganisms to respond to a specific hostile environment beyond the Peyer 's patches in mesenteric lymph nodes , liver , and spleen .
+The roles of SpvA , SpvB , SpvC , and SpvD remain to be determined .
+Since the coordinate transcription of these genes involves polycistronic messages , the role of individual virulence genes can not be extrapolated from the effects of transposon insertions which exert polar effects on the downstream genes .
+This work was supported by Program Project PHS AM35108 from the National Institutes of Health , grant R91SDO57 from the University of California - wide AIDS Research Program , and grant 32 - 32401.91 from the Swiss National Science Foundation .
+F.C.F. is a recipient of a Physician - Scientist Award from the National Institutes of Health ( DK01408 - 05 ) .
+Barrow , P. A. , and M. A. Lovell .
+Functional homology of virulence plasmids in Salmonella gallinarum , S. pullorum , and S. typhimuinum .
+Beninger , P. R. , G. Chikami , K. Tanabe , C. Roudier , J. Fierer , and D. G. Guiney .
+Physical and genetic mapping of Salmonella dublin virulence plasmid pSDL2 .
+Relationship to plasmids from other Salmonella strains .
+Bullas , L. R. , and J. - I .
+Salmonella typhimunum LT2 strains which are r - m + for all three chromosomally located systems of DNA restriction and modification .
+Caldwell , A. L. , and P. A. Gulig .
+The Salmonella typhimunium virulence plasmid encodes a positive regulator of a plasmid - encoded virulence gene .
+Chikami , G. K. , J. Fierer , and D. G. Guiney .
+Plasmidmediated virulence in Salmonella dublin demonstrated by use of a TnS - oniT construct .
+Collado - Vides , J. , B. Magasanik , and J. D. Gralla .
+Control site location and transcriptional regulation in Escherichia coli .
+Fang , F. C. , and J. Fierer .
+Human infection with Salmonella dublin .
+Fang , F. C. , M. Krause , C. Roudier , J. Fierer , and D. G. Guiney .
+Growth regulation of a Salmonella plasmid gene essential for virulence .
+Virulence plasmids of Salmonella typhimurium and other salmonellae .
+Gulig , P. A. , and V. A. Chiodo .
+Genetic and DNA sequence analysis of the Salmonella typhimu : ium plasmid gene encoding the 28,000 - molecular - weight protein .
+Gulig , P. A. , and R. Curtiss m. 1987 .
+Plasmid - mediated virulence of Salmonella typhimurium .
+Gulig , P. A. , H. Danbara , D. G. Guiney , A. Lax , F. Norel , and M. Rhen .
+Studies on transformation of Escherichia coli with plasmids .
+Heffernan , E. J. , J. Fierer , G. Chikami , and D. G. Guiney .
+The natural history of oral Salmonella dublin infection in BALB/c mice : effect of an 80 - kilobase - pair plasmid on virulence .
+Hovi , M. , S. Sukupolvi , M. F. Edwards , and M. Rhen .
+Plasmid - associated virulence of Salmonella enteritidis .
+Jones , G. W. , D. K. Rabert , D. M. Svinarich , and H. J. Whitfield .
+Association of adhesive , invasive , and virulent phenotypes of Salmonella typhimurium with autonomous 60 - megadalton plasmids .
+Kawahara , K. , Y. Haraguchi , M. Tsuchimoto , N. Terakado , and H. Danbara .
+Evidence of correlation between 50 - kilobase plasmid of Salmonella choleraesuis and its virulence .
+Krause , M. , J. Fierer , and D. Guiney .
+Homologous DNA sequences on the virulence plasmids of pathogenic Yersinia and Salmonella dublin Lane .
+Krause , M. , and D. G. Guiney .
+Identification of a multimer resolution system of the Salmonella dublin virulence plasmid pSDL2 .
+Krause , M. , J. Harwood , J. Fierer , and D. Guiney .
+Genetic analysis of the homology between the virulence plasmids of Salmonella dublin and Yersinia pseudotuberculosis .
+Krause , M. , C. Roudier , J. Fierer , J. Harwood , and D. G. Guiney .
+Molecular analysis of the virulence locus of the Salmonella dublin plasmid pSDL2 .
+Laoide , B. M. , and A. Ullmann .
+Virulence dependent and independent regulation of the Bordetella pertussis cya operon .
+Li , S. , C. L. Squires , and C. Squires .
+Antitermination of E. coli rRNA transcription is caused by a control region segment containing lambda nut - like sequences .
+Maniatis , T. , E. F. Fritsch , and J. Sambrook .
+Molecular cloning : a laboratory manual .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 25 .
+Matsui , H. , A. Abe , K. Kawahara , N. Terakado , and H. Danbara .
+Positive regulator for the expression of Mba protein of the virulence plasmid pKDSC50 of Salmonella choleraesuis .
+Matsui , H. , K. Kawahara , N. Terakado , and H. Danbara .
+Nucleotide sequence of a gene encoding a 29 kDa polypeptide in mba region of the virulence plasmid , pKDSC50 , of Salmonella choleraesuis .
+Matsui , H. , K. Kawahara , N. Terakado , and H. Danbara .
+Nucleotide sequences of genes encoding 32 kDa and 70 kDa polypeptides in mba region of the virulence plasmid , pKDSC50 , of Salmonella choleraesuis .
+McCarthy , J. E. G. 1990 .
+Post - transcriptional control in the polycistronic operon environment : studies of the atp operon of Escherichia coli .
+Experiments in molecular genetics .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 30 .
+Murakawa , G. J. , C. Kwan , J. Yamashita , and D. P. Nierlich .
+Transcription and decay of the lac messenger : role of an intergenic terminator .
+Norel , F. , M. - R Pisano , J. Nicoli , and M. Y. Popoff .
+A plasmid - borne virulence region ( 2.8 kb ) from Salmonella typhimunum contains two open reading frames .
+Pisano , J. Nicoli , and M. Y. Popoff .
+Nucleotide sequence of the plasmid - borne virulence gene mfkA encoding a 28 kDa polypeptide from Salmonella typhimunum .
+Pisano , J. Nicoli , and M. Y. Popoff .
+Nucleotide sequence of the plasmid - borne virulence gene mfkB from Salmonella typhimunium .
+Pullinger , G. D. , G. D. Baird , G. M. Williamson , and A. J. Lax .
+Nucleotide sequence of a plasmid gene involved in the virulence of salmonellas .
+Roudier , C. , M. Krause , J. Fierer , and D. G. Guiney .
+Correlation between the presence of sequences homologous to the vir region of Salmonella dublin plasmid pSDL2 and virulence of twenty - two Salmonella serotypes in mice .
+Taira , S. , M. Baumann , P. Riikonen , S. Sukupolvi , and M. Rhen .
+Amino - terminal sequence analysis of four plasmid - encoded virulence - associated proteins of Salmonella typhimu - VOL .
+174 , 1992 PLASMID VIRULENCE GENE EXPRESSION IN S. DUBLIN 4489 rium .
+Taira , S. , and M. Rhen .
+Identification and genetic analysis of mkaA , a gene of the Salmonella typhimurium virulence plasmid necessary for intracellular growth .
+Taira , S. , and M. Rhen .
+Molecular organization of genes constituting the virulence determinants on the Salmonella typhimurium 96 kilobase pair plasmid .
+Taira , S. , and M. Rhen .
+Nucleotide sequence of mkaD , a virulence - associated gene of Salmonella typhimurium containing variable and constant regions .
+Taira , S. , P. Riikonen , H. Saarilathi , S. Sukupolvi , and M. Rhen .
+The mkaC virulence gene of Salmonella serovar typhimurium 96 kb plasmid encodes a transcriptional activator .
+Gen. Genet. , in press .
+Terakado , N. , T. Sehizaki , K. Hashimoto , and S. Naitoh .
+Correlation between the presence of a fifty - megadalton plasmid in Salmonella dublin and virulence for mice .
+Valone , S. E. , and G. K. Chikami .
+Characterization of three proteins expressed from the virulence region of plasmid pSDL2 in Salmonella dublin .
+Williamson , C. M. , G. D. Baird , and E. J. Manning .
+A common virulence region on plasmids from eleven serotypes of Salmonella .
+Williamson , C. M. , G. D. Pullinger , and A. J. Lax .
+Identification of an essential virulence region on Salmonella plasmids .
+Williamson , C. M. , G. D. Pullinger , and A. J. Lax .
+Identification of proteins expressed by the essential virulence region of the Salmonella dublin plasmid .

@@ -1,0 +1,506 @@
+JOURNAL OF BACTERIOLOGY , Apr. 1997 , p. 2389 -- 2400 Vol .
+179 , No. 7 0021 - 9193/97 / $ 04.00 0 The flk Gene of Salmonella typhimurium Couples Flagellar P - and L - Ring Assembly to Flagellar Morphogenesis JOYCE E. KARLINSEY , 1 ANDREW J. PEASE , 2 † MALCOLM E. WINKLER , 2 JEANNE L. BAILEY , 1 ‡ AND KELLY T. HUGHES 1 * Department of Microbiology , University of Washington , Seattle , Washington 98195 , 1 and Department of Molecular Microbiology and Molecular Genetics , University of Texas Houston Medical School , Houston , Texas 77030 2 The flagellum of Salmonella typhimurium is assembled in stages , and the negative regulatory protein , FlgM , is able to sense the completion of an intermediate stage of assembly , the basal body - hook ( BBH ) structure .
+Mutations in steps leading to the formation of the BBH structure do not express the flagellar filament structural genes , fliC and fljB , due to negative regulation by FlgM ( K. L. Gillen and K. T. Hughes , J. Bacteriol .
+We have discovered another novel regulatory gene , flk , which appears to sense the completion of another assembly stage in the flagellar morphogenic pathway just prior to BBH formation : the completion of the P - and L - rings .
+Cells that are unable to assemble the L - or P - rings do not express the flagellin structural genes .
+Mutations by insertional inactivation in either the flk or flgM locus allow expression of the fljB flagellin structural gene in strains defective in flagellar P - and L - ring assembly .
+Mutations in the flgM gene , but not mutations in the flk gene , allow expression of the fljB gene in strains defective in all of the steps leading to BBH formation .
+The flk gene was mapped to min 52 of the S. typhimurium linkage map between the pdxB and fabB loci .
+A null allele of flk was complemented in trans by a flk allele present in a multicopy pBR - based plasmid .
+DNA sequence analysis of the flk gene has revealed it to be identical to a gene of Escherichia coli of unknown function which has an overlapping , divergent promoter with the pdxB gene promoter ( P. A. Schoenlein , B. B. Roa , and M. E. Winkler , J. Bacteriol .
+An open reading frame of 333 amino acids corresponding to the flk gene product of S. typhimurium and 331 amino - acids from the E. coli sequence was identified .
+The transcriptional start site of the S. typhimurium flk gene was determined and transcription of the flk gene was independent of the FlhDC and 28 flagellar transcription factors .
+The Flk protein observed in a T7 RNA polymerase - mediated expression system showed an apparent molecular mass of 35 kDa , slightly smaller than the predicted size of 37 kDa .
+The predicted structure of Flk is a mostly hydrophilic protein with a very C - terminal membrane - spanning segment preceded by positively charged amino - acids .
+This finding predicts Flk to be inserted into the cytoplasmic membrane facing inside the cytoplasm .
+Flagellar biosynthesis in Salmonella typhimurium and Escherichia coli represents the best - understood system in which a large regulatory network of over 50 genes is coupled to the assembly of a large , complex structure , the flagellar organelle .
+The flagellum is required for motility in response to chemical attractants and repellents in a liquid environment ( 5 , 35 , 54 ) .
+The flagellum is commonly divided into three parts : the basal body , the hook , and the filament .
+The basal body is contained within the cell envelope , and over 30 genes are required for its synthesis ( reviewed in references 2 and 35 ) .
+The flagellar structure is diagrammed in Fig. 1 .
+The basal body is composed of the following components : ( i ) a reversible rotary motor driven by a proton pump ; ( ii ) a rod structure that transverses the cell wall , cell membranes , and periplasm ; ( iii ) three ring proteins that stabilize the rod structure in the inner membrane , peptidoglycan layer , and lipopolysaccharide ; ( iv ) a switch complex that determines clockwise or counterclockwise rotation in response to the chemosensory system ; and ( v ) a flagellum - specific type III secretion pathway .
+Attached to the basal body on the outside of the cell is a flexible hook structure , from which the long filament structure extends .
+The flagellum is hollow , Box 357242 , University of Washington , Seattle , WA 98195 .
+† Present address : National Institutes of Health , Bethesda , MD 20892 - 4255 .
+‡ Present address : Department of Genetics , University of Washington , Seattle , WA 98195 .
+and a flagellum - specific export pathway sends subunits through the hollow passage to be assembled at the tip of the growing structure ( 35 ) .
+The flagellar genes are organized into a transcriptional hierarchy of three classes that are coupled to morphogenesis of the flagellar organelle ( Fig. 1 ) ( 25 ) .
+Each class must be functional for the subsequent class to be expressed .
+Class 1 genes , flhD and flhC , determine whether flagella are made .
+Expression of the FlhD and - C proteins is dependent on the general state of the cell .
+In addition , these proteins are required for normal cell growth .
+The flhDC operon is regulated in response to environmental stimuli such as cyclic AMP levels and temperature ( 23 , 53 ) , heat - shock ( 50 ) , osmolarity and membrane biosynthesis ( 22 , 38 , 50 , 51 ) , and the H - NS protein ( 4 ) .
+In addition , mutants of the flhDC operon affect cell division ( 45 ) .
+The FlhD and FlhC proteins make up a heteromultimeric complex that acts as a transcriptional activator to stimulate transcription from promoters of class 2 flagellar genes by 70 - containing RNA polymerase ( 32 ) .
+The FlhDC complex binds a 40 - bp region upstream of the 35 promoter sequence and is thought to interact with the C - terminal region of the subunit of RNA polymerase to initiate transcription ( 32 , 33 ) .
+Class 2 genes ( Fig. 1 ) encode the proteins needed for the structure and assembly of the basal body - hook ( BBH ) structure as well as the fliA regulatory gene ( 25 ) .
+The fliA gene encodes an alternative sigma transcription factor , 28 , necessary for transcription of most class 3 genes ( 41 ) .
+In addition , 2389 2390 KARLINSEY ET AL. .
+Morphogenesis of the flagellar organelle is coupled to regulation of transcription in the flagellar regulon .
+Class 1 gene expression is regulated in response to a variety of environmental signals .
+Class 2 genes require the class 1 gene products for expression .
+Class 2 genes code for proteins involved in the structure and assembly of the BBH complex , a structural intermediate in organelle assembly , and two regulatory factors , FlgM and 28 ( product of the fliA gene ) .
+The class 3 promoters are dependent on the alternative sigma factor , 28 , for promoter recognition by RNA polymerase and transcription .
+However , the FlgM protein inhibits 28 - dependent transcription in the absence of a completed BBH structure .
+The BBH acts as an anti - FlgM factor by exporting FlgM out of the cell , thereby relieving inhibition of class 3 promoter transcription .
+The class 3 genes are expressed , and flagellar biosynthesis is completed .
+Class 3 genes encode the flagellin filament proteins , HAPs Cap ( see text ) , and factors required for the chemosensory response .
+cAMP/CAP , cyclic AMP/catabolite gene activator protein ; LPS , lipopolysaccharide .
+28 - containing RNA polymerase will transcribe from promoters of several class 2 genes , including the structural gene for 28 itself ( fliA ) ( 34 ) .
+There are class 3 genes expressed from both FlhDC - dependent and 28 - dependent promoters .
+These include hook - associated protein ( HAP ) genes located at the hook - filament junction , the flagellar cap gene ( encoding Cap ) , and the flgM regulatory gene ( 13 , 29 ) .
+Following hook assembly , the HAP - 1 , HAP - 2 , and Cap subunits are added to the end of the hook ( 35 ) .
+These proteins are necessary for polymerization of the long external filament structure .
+The filament subunits initiate polymerization between the HAP - 2 and Cap structures ( 35 ) .
+Even though the HAP - and the Cap - encoding genes are expressed from FlhDC - dependent promoters , their protein products are not exported for assembly at the tip of the growing structure until after completion of the BBH .
+Genes expressed solely from 28 - dependent promoters encode the flagellin subunits ( FliC and FljB ) whose products make up the long external filament , the proteins required for chemotactic signal transduction , and the flagellar motors .
+The entire flagellum structure has a hollow center through which subunits transverse to polymerize at the tip of the growing organelle ( 10 ) .
+Flagellin subunits polymerize at the cap - filament junction at the distal end of the growing filament ( 21 ) .
+It has been shown in both E. coli and S. typhimurium that if any of the class 2 genes are defective or absent , the class 3 flagellin genes are not expressed ( 11 , 25 ) .
+This is due to the action of the flgM gene product , which prevents 28 - dependent transcription of the class 3 genes in the absence of a functional BBH complex ( 42 ) .
+In the presence of a functional BBH complex , FlgM is found in the external medium , and its presence outside the cell is dependent on the cell 's ability to assembly the BBH intermediate structure ( 20 , 26 ) .
+This finding led to the hypothesis that FlgM is exported through a completed BBH structure into the medium .
+Coupling export of FlgM through a completed BBH structure provides a simple mechanism to inhibit 28 - dependent transcription prior to BBH completion .
+Upon BBH completion , export of FlgM relieves inhibition of 28 - dependent transcription ( the class 3 genes are transcribed ) , and flagellar assembly is completed .
+In this manner , FlgM is able to sense the completion of the BBH structure .
+This is probably necessary for at least two reasons .
+FlgMmediated repression of 28 - dependent transcription prevents the intracellular accumulation of flagellin , which might be toxic .
+Also , flagella can be sheared off , in which case FlgM is presumably exported , thereby allowing the immediate transcription and synthesis of more flagellin .
+This mechanism provides a system of gene regulation that can sense the development of the flagella and satisfies requirements for new filament protein subsequent to flagellar completion and following filament loss .
+There are two separate secretory pathways utilized in BBH formation ( Fig. 2 ) .
+With the exception of the P - and L - rings , components assembled beyond the cytoplasmic membrane are exported through a type III flagellar export pathway through a hollow core within the organelle .
+These include the rod and VOL .
+179 , 1997 ROLE OF S. TYPHIMURIUM flk IN FLAGELLAR MORPHOGENESIS 2391 FIG. 2 .
+Final stages of BBH assembly ( 24 ) .
+Two extracytoplasmic protein export pathways are utilized for completion of the BBH structure .
+The flagellumspecific type III export system is required for assembly of the rod and extracellular components of the flagellum .
+The P - and L - rings are the only components of the flagellum known to possess a cleavable signal peptide and have been shown to be transported into the periplasm by the general secretory pathway of the cell ( 16 , 17 ) .
+The FlgD protein acts as a scaffold for the hook subunits ( 40 ) .
+hook structures ; however , the hook will not polymerize until the P - and L - rings are assembled around the rod ( 24 ) .
+The second pathway is via the general secretory pathway ( 39 ) and is required for export of P - and L - ring subunits ( 16 , 17 ) .
+FlgH and FlgI are the only proteins within the flagellar regulon with known sec - dependent signal sequences and are presumed to be secreted across the cytoplasmic membrane by the general secretory pathway into the periplasm , where they assemble into the P - and L - rings of the flagellum ( 16 , 17 ) .
+The FlgA protein is required for P - ring assembly ( 24 , 57 ) .
+FlgA has a deduced N - terminal hydrophobic stretch of amino - acids proposed to be a signal sequence , although that was not verified experimentally ( 28 ) .
+Hook completion is detected by the fliK gene product .
+In the absence of FliK , hook growth continues and extended hooks , called polyhooks , are formed ( 43 , 52 , 56 ) .
+Polyhook mutants are nonmotile , but suppressors of fliK null mutations ( motile revertants ) which map to the flhB locus have been isolated ( 15 , 27 ) .
+Since FlhB is part of the type III export machinery , it is thought that FliK senses completion of the hook and then signals the export machinery to change specificity from class 2 proteins that make up the BBH to class 3 proteins , including FlgM , FlgK , FlgL , FliD , FliC , and FljB ( 63 ) .
+Given that ring assembly utilized a different export system than the rest of the basal body assembly , it seemed possible that ring completion might be sensed by the flagellar regulatory system by a different mechanism than the rest of the basal body assembly .
+In this study , a novel regulatory locus , the flk locus , that regulates flagellin gene expression in response to P - and L - ring assembly was identified .
+A genetic and molecular characterization of the flk gene and its product is described .
+The flk gene had not been described before , and given its chromosomal location distinct from those of all known flagellar genes ( 52 min ) , flk is likely to be involved in cellular processes other than flagellar assembly .
+We present a model suggesting that Flk plays a role in the transition from the export of hook subunits to the export of class 3 proteins including flagellin by sensing P - and L - ring assembly .
+Thus , the role of Flk is to ensure the efficient transition in the export apparatus from hook subunits to flagellin subunits , thereby reducing the time required for flagellar biosynthesis to occur .
+This would imply that the speed of flagellar assembly is an important survival advantage .
+MATERIALS AND METHODS Strains .
+Bacterial strains used in this study and their origins are listed in Table 1 .
+Media and standard genetic manipulations .
+Media , growth - conditions , transductional methods , and motility assays were as described previously ( 8 , 11 ) .
+p322KS and p322SK were constructed in order to place a multiple cloning site ( MCS ) flanked by T3 and T7 promoters into pBR322 for subsequent isolation of flk clones into medium - copy - number vectors .
+The MCS from pBSIISK ( Stratagene ) on a 173 - bp BssHII fragment was blunt ended with Klenow enzyme and was subsequently ligated into an EcoRI - NruI blunt - ended site with mung bean nuclease of pBR322 ( 6 ) .
+The notations KS and SK denote the orientation of the MCS .
+Isolation of chromosomal flk : : Tn10dCm and flk : : Tn10dTc insertion mutants .
+Insertions of Tn10dCm and Tn10dTc in the flk gene of S. typhimurium were first described as an uncharacterized class of flagellar regulatory mutations affecting class 3 gene expression in a flgI mutant strain ( 11 ) .
+An insertion in the pdxB gene was isolated by transducing strain TR5661 to AroC with a P22 lysate grown on pooled cells containing randomly inserted Tn10dTc transposons .
+AroC transductants were screened for cotransduction of Tn10dTc - encoded tetracycline resistance and for pyridoxine auxotrophy .
+Isolation of the flk gene of S. typhimurium .
+Genomic DNAs containing Tn10dCm insertions in flk were isolated and cloned into a medium - copy - number vector .
+Restriction fragments containing the partial flk gene from these clones served as DNA probes to hybridize a flk - enriched plasmid library made from purF : : Mud - P22 phage DNA .
+Potential full - length clones were then checked for complementation in a flk mutant background .
+Isolation of flk : : Tn10dCm clones was done as follows .
+Genomic DNA from strain TH2859 containing the flk gene with a Tn10dCm insertion was isolated as described previously ( 46 ) .
+The genomic DNA was partially digested with Sau3A1 , and 5 - kb DNA fragments were agarose gel purified and ligated into BamHI - cut p322SK vector .
+The ligation mix was transformed into MC1061 , and chloramphenicol - resistant ( Cm r ) colonies were selected .
+Potential flk : : Tn10dCm clones were identified by restriction mapping and partially sequenced .
+One subclone , pJK205 , was subsequently used as a DNA probe for the isolation of full - length flk clones .
+Full - length flk clones were screened from a flk - enriched plasmid library as follows .
+Isolation of phage DNA from a purF : : Mud - P22 lysogen ( TH878 ) was performed as described previously ( 64 ) .
+The genomic DNA was partially digested with Sau3A1 , and 3 - to 5 - kb DNA fragments were agarose gel purified , ligated into BamHI - cut p322KS vector , and transformed into E. coli DH5 .
+A HindIII - BamHI 0.5 - kb DNA fragment from pJK205 was radiolabeled with [ - 32 P ] dCTP by using a Random Prime labeling kit ( Boehringer Mannheim Biochemicals ) , and the transformants were screened by colony hybridization as described previously ( 46 ) .
+Potential clones were transformed into TH2858 , a flk mutant , and screened for an ability to complement the flk mutation on triphenyl tetrazolium chloride ( TTC ) - lactose ( Lac ) indicator plates ( 31 ) .
+Isolation of lac transcriptional - fusions to the S. typhimurium flk gene .
+Transcriptional fusions of the lac operon to the flk promoter were made using the MudJ - lac fusion vector by the transitory cis - complementation method ( 19 ) .
+MudJ refers to the transposon - defective lac operon fusion vector Mu d1734 ( Km lac ) ( 14 ) .
+P22 lysate grown on the MudJ donor strain TT10288 was used to transduce an S. typhimurium strain harboring the flk plasmid , pJK232 , to MudJencoded kanamycin resistance ( Km r ) .
+P22 lysates prepared on pools of Km r transductants were used to transduce wild - type strain LT2 to both plasmidencoded ampicillin resistance ( Ap r ) and MudJ - encoded Km r .
+The Ap r Km r transductants were screened for loss of flk - complementing activity .
+In a flk : : Tn10dTc ring mutant , the P fliC - cat strain is Cm r .
+Introduction of pJK232 complements the flk null mutation , resulting in a Cm s phenotype .
+If a MudJ transposon inserts into the flk gene in pJK232 , the MudJ - containing plasmid will no longer complement the chromosomal flk mutation , resulting in Ap r Km r Cm r transductants .
+Putative plasmid flk : : MudJ fusions were screened for linkage to the plasmid and expression of lac .
+Isolation of the flk gene of E. coli and construction of a flk : : ( Cm r ) mutant .
+The E. coli pdxB and flk genes were contained in a 4.4 - kb EcoRI fragment isolated from Kohara phage 407 .
+The pdxB - flk fragment was ligated into the EcoRI site of vector pBR322 to give plasmid pTX277 , which complemented the pyridoxine requirement of pdxB mutants and was the source of DNA for sequencing flk and the region downstream .
+The EcoRI fragment from pTX277 was recloned into the EcoRI site of vector pGEM4Z ( Promega Corp. ) to give plasmid pTX446 .
+Plasmid pHP45 - Cm ( 44 ) was digested with BamHI , and the fragment containing the ( Cm r ) cassette was ligated into the BglII site in the middle of the flk coding region in pTX446 to give plasmid pTX447 .
+pTX447 was linearized by BamHI digestion , and the flk : : ( Cm r ) gene was crossed into the chromosome of a recBC sbc mutant to give strain TX3430 ( 59 ) .
+The flk : : ( Cm r ) mutation was transduced into E. coli K - 12 W3110 prototroph NU426 by P1 vir bacteriophage to give strain TX3447 .
+DNA sequencing of flk clones .
+The flk gene was sequenced by a transposonbased DNA sequencing strategy as described previously ( 55 ) .
+The part of the E. coli flk gene not reported previously ( 48 ) was determined by automated DNA sequencing of both DNA strands as described before ( 59 ) .
+DNA sequence analysis was performed by using the DNA Strider program ( 37 ) and the Genetics Computer Group sequence analysis software package ( 9 ) .
+Total RNA was isolated as described previously ( 46 ) .
+Primer Flk214 ( 5 TGG AGG CTG TGC AGG GGC GCC GGA GAT GGG 3 ) was radiolabeled with [ - 32 P ] ATP by using T4 polynucleotide kinase ( New England Biolabs ) and hybridized to 100 g of total RNA .
+The reaction was extended by using avian myeloblastosis virus reverse transcriptase ( Promega ) , and 2392 KARLINSEY ET AL. .
+the transcript products were processed and electrophoresed on a 6 % denaturing polyacrylamide gel as described previously ( 1 ) .
+Construction of truncated and full - length flk under the P trc promoter .
+Truncated and full - length flk genes were placed downstream of the P trc promoter as follows .
+Primers Flk1 ( 5 ACA GAA TTC GCA TGC ATC CCA TCT CCG3 ) and Flk2 ( 5 ACA GAA TTC TTA GGT TTC AAT CAT CGG C3 ) for the truncated flk gene and primers Flk1 and Flk3 ( 5 ACA GAA TTC TTA AGA AAC CAG CCA GAA A3 ) for the full - length flk gene were used to PCR amplify 946 - and 1,024 - bp fragments , respectively , from pJK232 .
+The PCR product ends were filled in with Klenow enzyme , digested with EcoRI , agarose gel isolated , and ligated into EcoRI - digested pBSIISK ( Stratagene ) to make pJK293 ( truncated flk ) and pJK284 ( full - length flk ) .
+pJK293 and pJK294 were digested with SphI , blunt ended with mung bean nuclease , and digested with EcoRI , and fragments of 946 bp ( truncated flk ) and 1,024 bp ( full - length flk ) were agarose gel isolated and ligated into ptrc99A ( Pharmacia ) digested with NcoI , blunt ended with Klenow , and then digested with EcoRI .
+This placed the flk genes under the P trc promoter in constructs pJK296 ( truncated Flk [ amino acids 1 to 307 ] ) and pJK297 ( full - length Flk [ amino - acids 1 to 333 ] ) .
+Overproduction of Flk protein .
+Plasmids for T7 polymerase - dependent expression of flk were made as follows .
+pJK232 was digested with XbaI and EcoRI , blunt ended with Klenow enzyme , and religated with T4 ligase to make pJK262 .
+This placed the flk gene downstream of the T7 promoter .
+pJK262 was digested with HpaI and HindIII and blunt ended with Klenow enzyme , and the 5.5 - kb fragment was religated with T4 ligase to make pJK263 .
+This placed the T7 promoter within 125 bp of the translational start codon of the flk gene .
+pJK262 and p322KS ( vector control ) were transformed into E. coli BL21 ( DE3 ) ( Nova - VOL .
+179 , 1997 ROLE OF S. TYPHIMURIUM flk IN FLAGELLAR MORPHOGENESIS 2393 TABLE 2 .
+Expression of fljB - lac in various flagellar mutant backgrounds Genotype gen ) , which has the T7 polymerase under control of the tac promoter and can be induced by the addition of isopropylthiogalactopyranoside ( IPTG ) .
+Cells were grown at 37 C in1 E minimal - medium containing 0.2 % glycerol and 100 g of ampicillin per ml and supplemented with all amino - acids except methionine .
+The cells were grown to a Klett value of 35 , 1 mM IPTG was added , and incubation continued for 15 min .
+Rifampin was added to 200 g/ml to prevent transcription from cellular RNA polymerase ( 58 ) .
+[ 35 S ] methionine - cysteine protein labeling mix ( NEN ) was added at 50 Ci/ml , and the mixture was incubated for 5 to 15 min .
+Cells were isolated by centrifugation , washed in buffered saline , and resuspended in 50 l of1 sodium dodecyl sulfate ( SDS ) - polyacrylamide gel electrophoresis sample buffer ( 30 ) .
+Equal counts per minute of each sample were electrophoresed onto a 10 % Tricine SDS - polyacrylamide gel ( 47 ) ; the gels were dried and autoradiographed with Hyperfilm - MP ( Amersham ) .
+- Galactosidase assays were performed in triplicate on mid - log - phase cells as described previously ( 36 ) .
+- Galactosidase activities are expressed as nanomoles/minute/unit of optical density at 650 nm/milliliter .
+Nucleotide sequence accession numbers .
+The nucleotide sequence data presented in this report have been assigned GenBank accession numbers U77618 ( S. typhimurium sequence ) and U76961 ( E. coli sequence ) .
+RESULTS Lac phenotype a a Phenotype was scored on TTC - Lac indicator medium .
+Identification of negative regulators of flagellin expression by insertion mutagenesis .
+We sought insertion mutations that relieved negative regulation in strains defective in only the ring assembly pathway of BBH assembly ( a flgI mutant was arbitrarily chosen ) .
+These mutations were compared to the insertion mutations obtained in a strain defective in both ring assembly and in rod formation ( flgG - L ) .
+The flgI gene encodes the structural protein for the periplasmic ring component of the flagellum .
+A strain carrying both a flgI mutation and a fljB - lac transcriptional - fusion is Lac ( 11 ) .
+This strain was mutagenized with transposons Tn10dTc and Tn10dCm ( 61 ) .
+Insertion mutants were screened for loss of the negative regulatory effect of the flgI allele on fljB - lac expression .
+The results given in Table 2 demonstrate that screens for insertions resulting in a Lac phenotype , allowing fljB - lac expression in a flgI mutant strain , yielded mutations in a novel regulatory locus in addition to the expected mutations in flgM , while previous screens in the flgG - L mutant background yielded insertions only in the flgM locus .
+The novel negative regulatory locus was found by P22 cotransductional analysis to be unlinked to the flg , flh , fli , and flj flagellar gene clusters and was named flk .
+( Since as shown below flk represents a single - gene operon , it is referred to as flk and not flkA [ i.e. , there is no flkB ] .
+) Identical results were obtained in assays using a fliC - lac reporter for class 3 gene expression ( data not shown ) .
+The effect of flagellar mutations on expression of a fljB - lac transcriptional - fusion are presented in Table 3 .
+Only flagellar mutations in class 3 genes ( the flgK , flgL , and fliD genes , which encode the HAPs and Cap , respectively , or a mutation in the alternate flagellin gene , fliC ) have no effect on fljB gene expression .
+This negative regulation of fljB gene expression in any class 2 mutant background , except fliA , which encodes 28 , TABLE 3 .
+Effects of flgM and flk on expression of the fljB flagellin gene in flagellar mutant strains on either TTC - Lac or Mac - Lac indicator plates Strain a Flagellar regulatory class Mac - Lac or TTC - Lac fljB - lac expression on : TTC - Lac or Mac - Lac in flgM mutant strain Mac - Lac in flk mutant strain TTC - Lac in flk mutant strain Wild type flgA 2 flgB 2 flgC 2 flgD 2 flgE 2 flgF 2 flgG 2 flgH 2 flgI 2 flgJ 2 flgK 3 flgL 3 flhA 2 flhB 2 flhC 1 flhD 1 fljA 2 fliC 3 fliD 3 fliE 2 fliF 2 fliG 2 fliH 2 fliI 2 fliJ 2 fliK 2 fliL 2 fliM 2 fliN 2 fliO 2 fliP 2 fliQ 2 fliR 2 a Flagellar mutant alleles used , a gift from S. Yamaguchi , were previously described ( 11 ) .
+is relieved by inactivation of the flgM negative regulatory gene ( Table 3 ) ( 11 ) .
+In addition , fljB was not expressed in class 1 mutant strains ( flhC and flhD ) .
+This is expected since class 1 genes are required to transcribe the class 2 operons ( 25 ) .
+As for flgM , mutations in flk relieved repression of a fljB - lac fusion in a flgI mutant strain .
+The effect of flk on expression of the fljB - lac fusion in all individual flagellar mutant backgrounds was determined and is presented in Table 3 .
+Unlike flgM mutants , mutants in flk had a regulatory effect on only a subset of the flagellar mutant strains .
+In addition , the subset of flagellar mutants in which the effect of flk was seen depended on the indicator medium used .
+Three lactose indicator media are routinely used : medium with the chromogenic substrate 5 - bromo - 4-chloro - 3-indolyl - - D - galactopyranoside ( X - Gal ) , MacConkey - lactose ( Mac - Lac ) indicator medium , and medium with TTC - Lac .
+Medium containing X - Gal is the most sensitive to low levels of - galactosidase , whereas Mac - Lac requires higher levels of - galactosidase to appear Lac and TTC - Lac requires even higher levels of - galactosidase to appear Lac .
+The introduction of an insertion mutation in flk resulted in loss of repression of the fljB - lac fusion in flgA , flgH , 2394 KARLINSEY ET AL. .
+and flgI mutant strains , evident as a Lac phenotype on either TTC - Lac or Mac - Lac indicator plates .
+It did not relieve repression in the other class 2 flagellar mutant strains on TTC - Lac indicator medium .
+However , on Mac - Lac plates , loss of Flk relieved repression of BBH genes required after proximal rod formation , including the flgD , flgE , flgF , flgG , and flgJ genes in addition to the flgA , flgH , and flgI genes .
+The relevant - galactosidase activities are presented in Fig. 3 .
+As shown previously , fljB - lac expression was inhibited in BBH mutants , and this inhibition is relieved by inactivation of FlgM ( 12 ) .
+Loss of Flk significantly affected flagellin expression only in P - and L - ring mutant strains , but the effect was different from that seen with loss of FlgM .
+Loss of FlgM resulted in a full derepression of fljB - lac expression regardless of the presence of a BBH mutation .
+Loss of Flk brought fljB - lac expression back to the level measured for fljB - lac in a wild - type Fla strain .
+The effect of a flk mutation on fljB - lac expression in the flgD , flgE , flgF , flgG , and flgJ mutant strains was only twofold , albeit this was enough for a change on Mac - Lac indicator plates to be seen .
+The significance of this twofold effect is unclear at this time .
+Identical results were obtained in assays using a fliC - lac reporter for class 3 gene expression ( data not shown ) .
+Genetic characterization of the flk locus .
+The new flagellar regulatory locus , flk , was roughly mapped on the S. typhimurium chromosome by Hfr mapping ( 7 ) .
+Mapping experiments placed the flk locus at the 50 - min region of the S. typhimurium genetic linkage map ( data not shown ) .
+Linkage analysis by P22 transductional crosses to genetic markers in the region refined the mapping of the flk locus to 52 min on the standard linkage map between the aroC and pdxB genes .
+A detailed genetic map of the region is shown in Fig. 4 .
+This map includes P22 cotransduction frequencies in the flk region .
+Isolation of the flk gene from S. typhimurium using Mud - P22 .
+Inhibition of fliC gene expression in a flgI mutant background is relieved when the flk gene is insertionally inactivated ( Table 2 ) .
+Libraries of chromosomal S. typhimurium DNA were cloned into a pBR322 - derived plasmid vector .
+Clones were screened for the ability to complement a chromosomal flk null mutant and restore inhibition of lac expression ( Lac phenotype ) in a flk flgI fljB - lac background .
+Many plasmids which complemented the flk mutant phenotype were isolated .
+However , restriction analysis revealed that these plasmids contained different nonoverlapping regions of the chromosome .
+To determine which plasmid carried the flk region of the chromosome , DNA corresponding to the flk gene was isolated and used as a probe in hybridization experiments .
+The source of the probe was a plasmid that carried the flk : : Tn10dCm insertion ( see Materials and Methods ) .
+DNA flanking the insertion was used to probe plasmids for those that carried the flk locus .
+Surprisingly , none of the plasmids isolated as complementing the flk null phenotype hybridized to the flk probe .
+These plasmids probably include clones of the fliA gene , which when present in multicopy will overcome FlgM - mediated inhibition in BBH mutant strains ( 20 ) .
+To facilitate cloning of the flk locus , DNA localized to the flk region of the chromosome was specifically isolated following induction of a Mud - P22 insertion in the nearby purF locus .
+Mud - P22 is a derivative of P22 that lacks integrase functions so that upon prophage induction , it can not excise ( 64 ) .
+When induced , the defective P22 genome of the Mud - P22 insertion replicates in situ , amplifying both the Mud - P22 DNA and the adjacent chromosomal DNA of approximately 100 kb .
+A cotransduction frequency of 2 to 6 % between purF and flk ( Fig. 4 ) represents approximately 30 kb of chromosomal DNA between the two genes ( 62 ) .
+This is within the 100 kb of flanking FIG. 3 .
+Effects of Flk and FlgM on fljB expression in various flagellar mutant strains .
+Expression of fljB is measured from a fljB5001 : : MudJ insertion which is a transcriptional - fusion of the lac operon .
+Expression of - galactosidase is dependent on expression from the class 3 fljB promoter ( 11 , 13 ) .
+( a ) Effect of either loss of Flk or loss of FlgM on expression in the different flagellar mutant strains shown .
+Symbols : u , flk ; 1 , flk ; s , flgM .
+( b ) Effect of loss of only Flk on expression of fljB in the different flagellar mutant strains shown .
+Symbols : u , flk ; 1 , flk .
+The following flagellar mutant alleles were used : flgA1529 , flgH2136 , flgI1376 , flgHI958 , flgG - L2157 , flgB2164 , flgC2036 , flgD1156 , flgE2122 , flgF2083 , flgG2028 , flgJ2076 , flgK2408 , flhA2007 , flhB2033 , fliA2087 , and fliK1107 ( Table 1 and reference 11 ) .
+The flgM allele used in panel a was flgM5222 : : MudCm ; the flk allele used in both panel a and panel b was flk - 5212 : : Tn10dTc .
+179 , 1997 ROLE OF S. TYPHIMURIUM flk IN FLAGELLAR MORPHOGENESIS 2395 FIG. 4 .
+P22 - mediated cotransduction frequencies of the flk region of the S. typhimurium genetic map .
+A scaled portion of the 52 - min region of the linkage map is illustrated .
+chromosomal DNA packaged by induction of a Mud - P22 insertion in purF .
+A pBR - based plasmid bank was prepared from this DNA and screened for those that hybridized to a fragment adjacent to the Tn10dCm insertion in flk .
+Of five plasmids that hybridized to this fragment , one was able to complement a chromosomal flk null mutation .
+This plasmid , pJK232 , was used for obtaining the DNA sequence of the flk gene .
+Isolation of Tn1000 insertions in the flk gene .
+To facilitate DNA sequence analysis of the flk - complementing region of plasmid pJK232 , insertions of transposon Tn1000 that lost the ability to complement a chromosomal flk null allele ( 55 ) were isolated in pJK232 .
+Insertions of Tn1000 into pJK232 were isolated as described in Materials and Methods .
+These plasmids were transferred into the S. typhimurium test strain TH2858 by electroporation and screened for loss of flk - complementing function .
+Thus , in strain TH2858 , a plasmid carrying an intact and expressed flk gene converts the cells to a Lac phenotype whereas an insertion in the flk locus would allow the cells to remain Lac .
+Eleven different Tn1000 insertions that resulted in a Flk phenotype were isolated in pJK232 , and their sequences are shown in Fig. 5a .
+These were used for DNA sequence analysis .
+All of the insertions were within a 900 - bp segment of the flk - complementing clone and therefore defined the flk locus .
+DNA sequence of the flk gene of S. typhimurium .
+Once the flk locus in pJK232 was defined by Tn1000 mutagenesis , primers that hybridize to either end of Tn1000 were used to obtain DNA sequence flanking the different insertions .
+Using this method , a sequence of 1,313 bp was obtained ( Fig. 5a ) .
+One large open reading frame ( ORF ) of 333 amino - acid codons that includes all sites of the Tn1000 insertion was observed within this sequence .
+This finding suggests that flk is a single gene .
+No apparent ORFs immediately downstream of flk were detected as potential genes in an operon with flk .
+Amino acids 314 through 332 represent a hydrophobic stretch of 18 amino acids which may represent a membrane - spanning domain .
+DNA sequence of the flk gene from E. coli .
+A search of the sequence databases revealed that the 5 end of the E. coli flk gene was originally identified as an ORF which shares its 10 promoter region with the overlapping , divergent promoter for the pdxB gene .
+The pdxB gene is required for de novo biosynthesis of the vitamin - B 6 - derived coenzyme pyridoxal 5 - phosphate .
+The sequence of the promoter - proximal part of E. coli flk was reported previously ( 48 ) , and the remainder of the E. coli flk gene and the region downstream were sequenced as part of this study ( Fig. 5b ) .
+The E. coli flk gene corresponds to an ORF of 331 amino - acids .
+DNA sequence downstream of the E. coli flk gene revealed an ORF of 391 amino - acids that is in the opposite orientation on the chromosome compared to flk ; however , the stop codons for the two genes overlap .
+While the S. typhimurium sequence of this ORF was not fully determined , the C - terminal 45 amino - acids of the ORF could be determined and were found to be 82 % identical to the corresponding sequence from E. coli ( not shown ) .
+These results suggest that flk is a single - gene operon flanking two genes , pdxB and an unidentified ORF , present in both species .
+There is no evidence of coregulation between flk and either flanking genetic locus , although the overlap of the flk and pdxB promoters may somehow coordinate expression of these two divergent genes .
+An omega cassette imparting Cm r was cloned into the BglII site near the middle of the E. coli flk coding sequence and crossed into the bacterial chromosome ( 60 ) .
+The resulting E. coli flk : : ( Cm r ) mutant TX3447 ( Table 1 ) grew at the same rate as its isogenic flk parent NU426 in LB at 37 or 44 C or minimal salts medium supplemented - with - glucose or glycerol at 37 C ( data not shown ) .
+The amount of cellular PdxB protein was measured in the flk parent and flk : : ( Cm r ) mutant strain by quantitative Western immunoblotting using polyclonal antibodies prepared against affinity - tagged purified PdxB ( 66 ) .
+The flk : : ( Cm r ) mutation did not affect PdxB expression levels in bacteria grown in LB or minimal salts medium supplemented - with - glucose or glycerol at 37 C ( data not shown ) .
+Thus , unlike many other divergent gene pairs ( 3 ) , flk does not seem to regulate pdxB expression .
+The deduced amino - acid sequences for the S. typhimurium ( 333 residues , 37,032 Da ) and E. coli ( 331 residues , 36,645 Da ) Flk proteins are aligned in Fig. 6 .
+The level of identity is relatively low at 61 % , although there is 78 % similarity .
+Both E. coli Flk and S. typhimurium Flk are rich in glutamine residues , containing 40 glutamine residues each , or 12 mol % .
+The significance of this is unclear .
+Hydropathy analysis of both proteins ( Fig. 7 ) suggests that the proteins have similar threedimensional structures .
+A striking feature of both proteins is the presence of a completely hydrophobic sequence of 18 amino - acid - residues , representing a potential membrane - spanning segment , at their very C termini .
+The presence of arginine residues immediately preceding the putative transmembrane segment would suggest that Flk is inserted into the cytoplasmic membrane via its C - terminal 18 - amino - acid hydrophobic stretch facing into the cytoplasm ( 61 ) .
+This C - terminal hydrophobic tail is essential for either the stability or function of Flk .
+An insertion on Tn1000 which removes the C - terminal 13 amino - acids of Flk ( including 12 amino - acids of the 18 - aminoacid hydrophobic stretch ) and results in a null phenotype was isolated .
+Transcription of the S. typhimurium flk gene is independent of the flagellar regulatory hierarchy .
+To identify the promoter region for flk and determine if transcription was under the control of the flagellar regulatory hierarchy , a primer - extension experiment was performed .
+If transcription was under flagellar regulation , then it should not occur in the absence of the FlhDC positive activators required for both class 2 and class 3 gene expression .
+Primer extension using a primer to the promoter - proximal coding sequence of the flk gene was used to map the transcriptional start site of the flk gene by reverse transcriptase - mediated extension of a complementary DNA product back to the start of the flk mRNA .
+RNA samples isolated from isogenic fla and flhDC mutant strains were used to determine the transcriptional start point in both strain backgrounds .
+The results of primer - extension analysis presented in Fig. 8 demonstrate that the two strains use the same two start sites at adjacent positions 45 and 46 bp upstream 2396 KARLINSEY ET AL. .
+Nucleotide sequences of the flk genes from S. typhimurium ( a ) and E. coli ( b ) and the flanking 5 and 3 sequences .
+The flk genes from both species are flanked by divergent ORFs .
+On the 5 end of flk is the pdxB gene , which is required for pyridoxal 5 - phosphate biosynthesis , and the 10 regions of the flk and pdxB promoters overlap ( 48 ) .
+On the 3 end of flk is a hypothetical ORF corresponding to 391 amino - acids from the E. coli sequence ( not shown ) .
+The deduced amino - acid sequences are shown below the corresponding DNA sequences .
+Potential ribosome binding sites ( labeled S/D ) are underlined , as are the presumed 10 and 35 promoter regions .
+The transcriptional start sites from the S. typhimurium flk gene are denoted by dots above the consecutive bases .
+Insertion mutants in the S. typhimurium flk gene ( a ) whose location has been determined by DNA sequence analysis are indicated by diamonds for MudJ insertions , open triangles for Tn1000 insertions , and a closed triangle for a Tn10dCm insertion .
+The BglII site , into which an ( Cm r ) cassette was inserted in the E. coli flk gene to generate a null mutation of flk in E. coli , is labeled and underlined in panel b. from the amino - acid start codon .
+Given that the promoter is not affected by the flhDC mutation and that it matches the canonical 70 promoter sequence , it is unlikely that transcription of the flk gene itself is regulated along with the class 2 and class 3 flagellar operons and may represent a novel class 1 flagellar gene .
+Moreover , the DNA sequences of the 35 , spacer , and 10 regions of the flk promoter are exactly conserved in S. typhimurium and E. coli ( Fig. 5a ) ( 48 ) .
+This conservation makes it likely that flk expression is controlled in the same way in these bacteria .
+In contrast , the 35 regions of the overlapping pdxB promoters are slightly different in the two bacteria and do not match the consensus .
+In addition to primer - extension analysis , Mud - lac operon fusions within the flk structural gene were isolated in plasmid pJK232 .
+The three chosen were determined by DNA sequence analysis to be located in the N - terminal portion , middle portion , and C - terminal portion of the flk gene ( Fig. 5 ) .
+Expression of the lac operon in each fusion was unaffected by introduction of insertion mutations in either the flhDC operon or the fliA gene ( data not shown ) .
+This result agrees with the primer - extension data presented above .
+T7 RNA polymerase - mediated expression of the Flk protein .
+To verify that the 333 - amino - acid ORF encodes the flk gene product responsible for complementation of chromosomal null mutations in flk , in - vivo expression of Flk was assayed .
+Plasmid pJK263 contains the flk gene downstream from a T7 RNA polymerase promoter .
+This plasmid was introduced into E. coli BL21 ( DE3 ) .
+Strain BL21 ( DE3 ) contains the lacI gene and a lysogen , DE3 , with T7 RNA polymerase expressed from the tac promoter .
+Following induction of T7 RNA polymerase by IPTG and inhibition of the host 's RNA polymerase by the addition of rifampin , a 35 S - labeled protein labeling mix was added to the cells , and the labeled protein products were analyzed by SDS - polyacrylamide gel electrophoresis .
+35 S - labeled protein products obtained from pJK263 are shown in Fig. 9 .
+The only difference between the vector - only control ( p322KS ) and pJK263 following Flk induction was the appearance of a protein with an apparent molecular mass of 35 VOL .
+179 , 1997 ROLE OF S. TYPHIMURIUM flk IN FLAGELLAR MORPHOGENESIS 2397 FIG. 5 -- Continued .
+The predicted molecular mass of Flk is 37 kDa .
+A poly - His tag was fused to the N terminus of Flk in plasmids pJK264 and pJK266 such that His - tagged Flk is expressed from the T7 and trc promoters , respectively .
+( The trc promoter is a fusion of the trp and lac promoters and repressible by LacI [ Pharmacia ] .
+) The apparent molecular mass of these fusions was 36 kDa , which was also less than the predicted mass of 39 kDa ( data not shown ) .
+Transcriptional start - site mapping for the S. typhimurium flk gene .
+Lanes G , A , T , and C , sequencing ladder .
+Primer extensions were measured in wild - type Fla and an isogenic flhDC mutant strain .
+The bases shown in boldface to the left are the transcriptional start sites .
+Alignment of the deduced amino - acid sequences from the flk genes of S. typhimurium ( Flk S ) and E. coli ( Flk E ) .
+Identical amino - acids are connected by vertical lines , conservative changes are indicated by dots ( two dots for more conservative changes than indicated by single dots ) , and gaps are indicated by hyphens .
+A putative C - terminal membrane - spanning segment is highlighted in boldface for each sequence .
+DISCUSSION The flk gene is a single - gene operon present in both S. typhimurium and E. coli .
+There was no other homology found in searches using either flk DNA or Flk amino - acid sequences and available databases ( BLAST , Prosite , GCG motifs , Fasta Swiss PROT , and Blocks ) .
+The very C - terminal codon at the end of the hydrophobic tail is Ser - 333 for S. typhimurium Flk and Arg - 331 for E. coli Flk .
+Although formally possible , it seems unlikely that a cytoplasm - facing Flk protein could sense P - and L - ring completion through a single , periplasm - facing amino - acid - residue .
+We propose that the flk gene product is involved directly or indirectly in detecting completion of the P - and L - rings .
+The deduced amino - acid sequence of Flk predicts a protein attached to the cytoplasmic membrane by a C - terminal hydrophobic tail .
+Whether the rest of Flk is within the cytoplasm or periplasm awaits availability of Flk antibodies or isolation and characterization of alkaline phosphatase protein fusions to Flk .
+Regardless of the orientation of Flk within the cytoplasm or the FIG. 7 .
+Hydrophobicity plots for the deduced amino - acid sequences from the S. typhimurium ( a ) and E. coli ( b ) flk genes .
+179 , 1997 ROLE OF S. TYPHIMURIUM flk IN FLAGELLAR MORPHOGENESIS 2399 FIG. 9 .
+Flk translated protein product from T7 RNA polymerase - mediated expression of the flk gene .
+Proteins were produced from wild - type strains carrying a vector - only control plasmid ( p322KS ) and plasmid pJK263 , which has the flk gene placed downstream of the T7 promoter .
+The Flk protein is indicated .
+Positions of molecular mass markers are shown on the left .
+periplasm , the fact that only one amino - acid extends beyond the proposed membrane segment suggests that Flk might interact with at least one other protein in order to assess the state of P - and L - ring assembly and transmit this signal to affect class 3 transcription .
+Mutations in the flk gene were isolated as null mutations that allowed class 3 gene expression in P - and L - ring mutant strains .
+If the hypothetical coregulatory protein exists , then a null mutation would have either no phenotype or a superrepressor phenotype .
+Suppose the role of Flk is to increase FlgM activity until ring completion .
+After ring completion , Flk activity is inhibited by the hypothetical sensor of ring completion .
+This results in a reduction in FlgM activity allowing some initiation of class 3 transcription prior to FlgM export by the completed BBH structure and possibly more efficient flagellar synthesis .
+If the hypothetical protein were mutated , then Flk would act as if the rings were never completed and FlgM activity would remain maximal .
+If this FlgM activity were significant compared to reduction in FlgM activity by export of FlgM through the BBH , then loss of the hypothetical coregulator would always keep FlgM activity high , resulting in the inhibition of class 3 gene expression .
+If the Flk - induced FlgM activity were not very significant , such that export of FlgM still resulted in derepression of class 3 gene expression , then loss of the coregulator would have no significant effect on class 3 gene expression .
+On the other hand , suppose the role of Flk is to decrease FlgM activity after ring completion and prior to hook completion , where FlgM is exported and its activity is further decreased .
+If the coregulator were defective , Flk would always sense that the rings were incomplete and FlgM would remain active until hook completion and export of FlgM .
+It is also possible that the coregulator is part of the basal body and that a null mutation would not allow FlgM export such that class 3 gene expression is always inhibited .
+How does loss of Flk activity result in class 3 gene transcription in ring mutant strains but not in other BBH mutant strains ?
+Recent results support a mechanism by which loss of Flk in P - and L - ring mutant strains results in a reduction in the levels of FlgM protein in the cell ( 21a ) .
+Reduction in FlgM protein levels could be due to decreased transcription , decreased translation , modification to an inactive form , increased turnover , or export through a basal body structure lacking rings .
+These possibilities are currently under investigation .
+Is Flk uniquely part of the flagellar regulon ?
+This is unlikely , given that the flk gene is not coregulated with other flagellar genes and a flk null mutant is still motile .
+It is more likely that Flk is of general importance to the periplasm .
+Further characterization of how Flk couples P - and L - ring assembly to regulation of class 3 gene expression is likely to elucidate what such a role might be .
+The discovery that loss of the Flk protein results in derepression of 28 - dependent transcription uniquely in strains defective in P - and L - ring assembly ( flgA , flgH , and flgI mutants ) supports a model where two signals are required for the export machinery to switch to class 3 export : one signal that the hook is complete via FliK and one signal that the P - and L - rings are complete via Flk .
+Once the flagellar export apparatus is converted from class 2 protein export to class 3 export , FlgM is removed from the cytoplasm , 28 - dependent transcription of class 3 promoters occurs , and flagellar biosynthesis is completed .
+A role for Flk in modulating FlgM levels in response to ring biosynthesis might be to fine - tune the efficiency of the assembly process in response to gene expression .
+By sensing that the rings were complete , the cell could act through Flk to reduce FlgM levels enough to initiate class 3 gene expression .
+Ring completion would signal that hook completion was imminent .
+By lowering FlgM levels enough to initiate some flagellin synthesis , a small pool of flagellin subunits would be immediately available for export upon hook completion .
+Otherwise , the cell might have to wait for hook completion followed by FlgM export before class 3 derepression occurs , and this would result in a small lag time between hook completion and initiation of filament assembly .
+We are forever indebted to Shigeru Yamaguchi for his generous gift of flagellar mutant alleles , without which none of this work would have been possible .
+This work was supported by PHS grant GM43149 and NSF grant MCB - 9318890 to K.T.H. and PHS grant GM37561 to M.E.W. J.L.B. was the recipient of a Howard Hughes undergraduate research fellowship .
+K.T.H. is a recipient of a Faculty Research Award from the American Cancer Society .
+Methods in molecular genetics : molecular microbiology techniques part A. Academic Press , Inc. , San Diego , Calif. 2 .
+Flagellar assembly in Salmonella typhimurium .
+Beck , C. F. , and R. A. Warren .
+Divergent promoters , a common form of gene organization .
+Bertin , P. , E. Terao , E. H. Lee , P. Lejeune , C. Colson , A. Danchin , and E. Collatz .
+The H - NS protein is involved in the biogenesis of flagella in Escherichia coli .
+How bacteria sense and swim .
+Bolivar , F. , R. L. Rodriguez , P. J. Greene , M. C. Betlach , H. L. Heyneker , and H. W. Boyer .
+Construction and characterization of new cloning vehicles .
+A multipurpose cloning system .
+Chumley , F. G. , R. Menzel , and J. R. Roth .
+Hfr formation directed by Tn10 .
+Davis , R. W. , D. Botstein , and J. R. Roth .
+A manual for genetic engineering : advanced bacterial genetics .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 9 .
+Devereau , J. , P. Haeberli , and O. Smithies .
+A comprehensive set of sequence analysis programs for the VAX .
+Emerson , S. U. , K. Tokuyasu , and M. I. Simon .
+Bacterial flagella : polarity of elongation .
+Gillen , K. L. , and K. T. Hughes .
+Negative regulatory loci coupling flagellin synthesis to flagellar assembly in Salmonella typhimurium .
+Gillen , K. L. , and K. T. Hughes .
+Molecular characterization of flgM , a gene encoding a negative regulator of flagellin synthesis in Salmonella typhimurium .
+Gillen , K. L. , and K. T. Hughes .
+Transcription from two promoters and autoregulation contribute to the control of expression of the Salmonella typhimurium flagellar regulator gene flgM .
+In vivo genetic engineering with bacteriophage Mu .
+Hirano , T. , S. Yamaguchi , K. Oosawa , and S. - I .
+Roles of FliK and FlhB in determination of flagellar hook length in Salmonella typhimurium .
+Homma , M. , Y. Komeda , T. Iino , and R. M. Macnab .
+The flaFIX gene product of Salmonella typhimurium is a flagellar basal body component with a signal peptide for export .
+Homma , M. , K. Ohnishi , T. Iino , and R. M. Macnab .
+Identification of flagellar hook and basal body gene products ( FlaFV , FlaFVI , FlaFVII , and FlaFVIII ) in Salmonella typhimurium .
+Hong , J. S. , and B. N. Ames .
+Localized mutagenesis of any specific small region of the bacterial chromosome .
+Hughes , K. T. , and J. R. Roth .
+Transitory cis complementation : a method for providing transposition functions to defective transposons .
+Hughes , K. T. , K. L. Gillen , M. J. Semon , and J. E. Karlinsey .
+Sensing structural intermediates in bacterial flagellar assembly by export of a negative regulator .
+Ikeda , T. , M. Homma , T. Iino , S. Asakura , and R. Kamiya .
+Localization and stoichiometry of hook - associated proteins within Salmonella typhimurium flagella .
+Karlinsey , J. E. , and K. T. Hughes .
+Kitamura , E. , Y. Nakayama , H. Matsuzaki , K. Matsumoto , and I. Shibuya .
+Acidic phospholipid deficiency represses the flagellar master operon through a novel regulatory region in Escherichia coli .
+Komeda , Y. , H. Suzuki , J. - I .
+Ishidsu , and T. Iino .
+The role of cAMP in flagellation of Salmonella typhimurium .
+Kubori , T. , N. Shimamoto , S. Yamaguchi , K. Namba , and S. - I .
+Morphological pathway of flagellar assembly in Salmonella typhimurium .
+Kutsukake , K. , Y. Ohya , and T. Iino .
+Transcriptional analysis of the flagellar regulon in Salmonella typhimurium .
+Excretion of the anti - sigma factor through a flagellar substructure couples flagellar gene expression with flagellar assembly in Salmonella typhimurium .
+Kutsukake , K. , T. Minamino , and T. Yokoseki .
+Isolation and characterization of FliK - independent flagellation mutants from Salmonella typhimurium .
+Kutsukake , K. , T. Okada , T. Yokoseki , and T. Iino .
+Sequence analysis of the flgA gene and its adjacent region in Salmonella typhimurium , and identification of another flagellar gene , flgN .
+Kutsukake , K. , and N. Ide .
+Transcriptional analysis of the flgK and fliD operons of Salmonella typhimurium which encode flagellar hook - associated proteins .
+Laemmli , U. K. , and M. Favre .
+Maturation of the head of bacteriophage T4 .
+I. DNA packaging events .
+Detection of fermentation variants with tetrazolium .
+Liu , X. , and P. Matsumura .
+The FlhD/FlhC complex , a transcriptional activator of the Escherichia coli flagellar class II operons .
+Liu , X. , and P. Matsumura .
+The C - terminal region of the alpha subunit of Escherichia coli RNA polymerase is required for transcriptional activation of the flagellar level II operons by the FlhD/FlhC complex .
+Liu , X. , and P. Matsumura .
+Differential regulation of multiple overlapping promoters in flagellar class II operons in Escherichia coli .
+Flagella and motility , p. 123 -- 145 .
+In F. C. Neidhardt et al. ( ed .
+) , Escherichia coli and Salmonella : cellular and molecular biology , 2nd ed .
+American Society for Microbiology , Washington , D.C. 36 .
+Experimental techniques in bacterial genetics .
+Jones and Bartlett Publishers , Boston , Mass. 37 .
+DNA strider program , version 1.2 .
+Mizushima , T. , R. Koyanagi , E. Suzuki , A. Tomura , K. Kutsukake , T. Miki , and K. Sekimizu .
+Control by phosphotidylglycerol of expression of the flhD gene of Escherichia coli .
+Murphy , C. K. , and J. Beckwith .
+Export of proteins to the cell envelope in Escherichia coli , p. 967 -- 978 .
+In F. C. Neidhardt et al. ( ed .
+) , Escherichia coli and Salmonella : cellular and molecular biology , 2nd ed .
+American Society for Microbiology , Washington , D.C. 40 .
+Ohnishi , K. , K. Ohta , S. - I .
+Aizawa , R. M. Macnab , and T. Iino .
+FlgD is a scaffolding protein needed for flagellar hook assembly in Salmonella typhimurium .
+Ohnishi , K. , K. Kutsukake , H. Suzuki , and T. Iino .
+Gene fliA encodes an alternative sigma factor specific for flagellar operons in Salmonella typhimurium .
+Ohnishi , K. , K. Kutsukake , H. Suzuki , and T. Iino .
+A novel transcriptional regulatory mechanism in the flagellar regulon of Salmonella typhimurium : an anti - sigma factor inhibits the activity of the flagellum - specific sigma factor F .
+Patterson - Delafield , J. , R. J. Martinez , B. A. D. Stocker , and S. Yamaguchi .
+A new fla gene in Salmonella typhimurium , flaR , and its mutant phenotype -- superhooks .
+Prentki , P. , and H. M. Krisch .
+In vitro insertional mutagenesis with a selectable DNA fragment .
+Pruss , B. M. , and P. Matsumura .
+A regulator of the flagellar regulon of Escherichia coli , flhD , also affects cell division .
+Sambrook , J. , E. F. Fritsch , and T. Maniatis .
+Molecular cloning : a laboratory manual , 2nd ed .
+Cold Spring Harbor Laboratory Press , Cold Spring Harbor , N.Y. 47 .
+Schägger , H. , and G. Jagow .
+Tricine - sodium dodecyl sulfate - polyacrylamide gel electrophoresis for the separation of proteins in the range from 1 to 100 kDa .
+Schoenlein , P. A. , B. B. Roa , and M. E. Winkler .
+Divergent transcription of pdxB and homology between the pdxB and serA gene products in Escherichia coli K - 12 .
+Shi , W. , Y. Zhou , J. Wild , J. Alder , and C. A. Gross .
+DnaK , DnaJ , and GrpE are required for flagellum synthesis in Escherichia coli .
+Shi , W. , M. Bogdanov , W. Dowhan , and D. R. Zusman .
+The pss and psd genes are required for motility and chemotaxis in Escherichia coli .
+Shin , S. , and C. Park .
+Modulation of flagellar expression in Escherichia coli by acetyl phosphate and the osmoregulator , OmpR .
+Silverman , M. , and M. I. Simon .
+Flagellar assembly mutants in Escherichia coli .
+Silverman , M. , and M. I. Simon .
+Characterization of Escherichia coli flagellar mutants that are insensitive to catabolite - repression .
+Stock , J. B. , and M. S. Surette .
+In F. C. Neidhardt et al. ( ed .
+) , Escherichia coli and Salmonella : cellular and molecular biology , 2nd ed .
+American Society for Microbiology , Washington , D.C. 55 .
+Strathmann , M. , B. A. Hamilton , C. A. Mayeda , M. I. Simon , E. M. Meyerowitz , and M. J. Palazzolo .
+Suzuki , T. , and T. Iino .
+Role of the flaR gene in flagellar hook formation in Salmonella spp. .
+Suzuki , T. , T. Iino , T. Horiguchi , and S. Yamaguchi .
+Incomplete flagellar structures in nonflagellate mutants of Salmonella typhimurium .
+Tabor , S. , and C. C. Richardson .
+A bacteriophage T7 RNA polymerase - promoter system for controlled exclusive expression of specific genes .
+Tsui , H. - C. , G. Zhao , G. Feng , H. - C .
+E. Leung , and M. E. Winkler .
+The mutL repair gene of Escherichia coli K - 12 forms a superoperon with a gene encoding a new cell - wall amidase .
+The distribution of positively charged residues in bacterial inner membrane proteins correlates with trans - membrane topology .
+Way , J. C. , M. A. Davis , D. Morisato , D. E. Roberts , and N. Kleckner .
+New Tn10 derivatives for transposon mutagenesis and for construction of lacZ operon fusions by transposition .
+A model for three - point analysis of random general transduction .
+Williams , A. W. , S. Yamaguchi , F. Togashi , S. - I .
+Aizawa , I. Kawagishi , and R. M. Macnab .
+Mutations in fliK and flhB affecting flagellar hook and filament assembly in Salmonella typhimurium .
+Youderian , P. , P. Sugiono , K. L. Brewer , N. P. Higgins , and T. Elliott .
+Packaging specific segments of the Salmonella chromosome with locked - in Mud - P22 prophages .
+Zhao , G. , A. J. Pease , N. Bharani , and M. E. Winkler .
+Biochemical characterization of gapB - encoded erythrose 4 - phosphate dehydrogenase of Escherichia coli K - 12 and its possible role in pyridoxal 5 - phosphate biosynthesis .

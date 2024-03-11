@@ -1,0 +1,312 @@
+JOURNAL OF BACTERIOLOGY , Feb. 2002 , p. 645 -- 653 Vol .
+184 , No. 3 0021 - 9193/02 / $ 04.00 0 DOI : 10.1128 / JB .184.3.645 -- 653.2002 The ClpXP ATP - Dependent Protease Regulates Flagellum Synthesis in Salmonella enterica Serovar Typhimurium Toshifumi Tomoyasu , 1 Tomiko Ohkishi , 1 Yoshifumi Ukyo , 1 Akane Tokumitsu , 1 Akiko Takaya , 1 Masato Suzuki , 1 Kachiko Sekiya , 2 Hidenori Matsui , 3 Kazuhiro Kutsukake , 4 and Tomoko Yamamoto 1 * Department of Microbiology and Molecular Genetics , Graduate School of Pharmaceutical Sciences , Chiba University , Chiba 263 - 8522 1 , School of Pharmaceutical Sciences 2 and Kitasato Institute for Life Sciences , 3 Kitasato University , Tokyo 108 - 8641 , and Department of Biology , Faculty of Science , Okayama University , Okayama 700 - 8530 4 , Japan The ClpXP protease is a member of the ATP - dependent protease family and plays a dynamic role in the control of availability of regulatory proteins and the breakdown of abnormal and misfolded proteins .
+The proteolytic activity is rendered by the ClpP component , while the substrate specificity is determined by the ClpX component that has ATPase activity .
+We describe here a new role of the ClpXP protease in Salmonella enterica serovar Typhimurium in which ClpXP is involved in the regulation of flagellum synthesis .
+Cells deleted for ClpXP show `` hyperflagellate phenotype , '' exhibit overproduction of the flagellar protein , and show a fourfold increase in the rate of transcription of the fliC encoding flagellar filament .
+The assay for promoter activity of the genes responsible for expression of the fliC showed that the depletion of ClpXP results in dramatic enhancement of the expression of the fliA encoding sigma factor 28 , leaving the expression level of the flhD master operon lying at the top of the transcription hierarchy of flagellar regulon almost normal .
+These results suggest that the ClpXP may be responsible for repressing the expression of flagellar regulon through the control of the FlhD/FlhC master regulators at the posttranscriptional and/or posttranslational levels .
+Proteome analysis of proteins secreted from the mutant cells deficient for flhDC and clpXP genes demonstrated that the flhD mutation abolished the enhanced effect by clpXP mutation on the production of flagellar proteins , suggesting that the ClpXP possibly defines a regulatory pathway affecting the expression of flagellar regulon that is dependent on FlhD/FlhC master regulators .
+Proteolysis is essential to rid the cell of abnormal and misfolded proteins and to limit availability of regulatory proteins .
+More than 90 % of all proteolysis in Escherichia coli is induced by ATP - dependent proteases including the Clp proteases , Lon and FtsH ( for reviews , see references 11 and 13 ) .
+These are also known to be heat - shock proteins that are selectively overexpressed in response to unfavorable conditions such as a sudden increase in temperature for cell growth ( for a review , see reference 35 ) .
+Two types of Clp protease , ClpP and ClpQ ( or HslV ) , exist in E. coli as proteolytic cores .
+The ClpP component associates with either of two ATPases , ClpA or ClpX ( 14 , 19 ) , whereas the ClpQ component associates with the ClpY ( or HslU ) ATPase ( 20 , 38 ) .
+ClpP and ClpQ are unrelated proteins in both amino - acid sequence and mode of proteolysis .
+The ClpP subunits form a cylindrical heptameric particle , possessing the catalytic core characteristic of serine proteases ( 28 , 33 ) .
+Substrate specificity is determined by either ClpA or ClpX as a regulatory ATPase .
+A hexamer of the Clp ATPase is located on the ClpP rings .
+The overall architecture of the ClpAP complex resembles that of the eukaryotic 26S proteasome , whereas the ClpP peptidase component resembles that of the 20S proteasome ( 21 ) .
+In the absence of ClpP , ClpA , and ClpX exhibit activities characteristic of a molecular chaperone ( 46 ) .
+and Molecular Genetics , Graduate School of Pharmaceutical Sciences , Chiba University , Chiba 263 - 8522 , Japan .
+The ClpP protease has been demonstrated to be involved in the degradation of certain carbon - starvation proteins and the starvation sigma factor , S , inE .
+coli and in the proteolysis of two bacteriophage regulators , the O replication protein and the Mu vir repressor protein ( 3 , 15 , 40 , 47 ) .
+However , the disruption of clpP in E. coli shows no obvious phenotype , and the mutant appears to grow normally ( 33 ) .
+On the contrary , the ClpP protease performs more important and diverse roles in gram - positive bacteria .
+The Bacillus subtilis clpP deletion mutant is highly filamentous and nonmotile ( 36 ) and can not grow under several stress conditions , most severely during starvation ( 45 ) and at high - temperatures ( 9 , 36 ) .
+ClpP is also required for sporulation in B. subtilis ( 36 ) .
+The inactivation of the clpP gene in Lactococcus lactis results in significant loss of cell viability ( 7 ) , indicating a major role for ClpP in basic cell metabolism .
+The importance of ClpP has been also demonstrated in connection with bacterial pathogenesis .
+In Salmonella enterica serovar Typhimurium , a facultative intracellular parasite which can establish infections in the mouse that closely resemble typhoid fever , the clpP gene was detected during a transposontagged mutagenesis screen for new virulence genes ( 16 ) .
+In Listeria monocytogenes , a facultative intracellular pathogen responsible for infrequent but often serious opportunistic infections in humans and animals , the clpP gene plays a crucial role in intracellular parasitism and virulence ( 8 ) .
+Recently , we constructed mutations in the operon consisting of the clpP and clpX genes of the S. enterica serovar Typhimurium pathogenic strain 3306 and found that the ClpXP 645 646 TOMOYASU ET AL. .
+protease - depleted mutants lost virulence and could persist in BALB/c mice for long periods of time without causing an overwhelming systemic infection ( 48 ) .
+In the course of the phenotypic characterization of these mutants , we also found that the depletion of the ClpXP protease results in a `` hyperflagellate phenotype '' in S. enterica serovar Typhimurium .
+The flagellum is an organelle consisting of three distinctive structural parts : the basal body consisting of a central rod and several rings , the short carved structure called the hook , and the long helical filament ( for a review , see reference 31 ) .
+Flagellar assembly proceeds from cell - proximal to cell - distal structures , that is , it begins with the basal body , proceeds with the hook , and is completed by the filament .
+More than 50 genes are known to be involved in flagellar formation and function in S. enterica serovar Typhimurium .
+The transcription of these genes forms a highly ordered cascade called the flagellar regulon and is co - ordered with the flagellar assembly hierarchy ( 21 , 24 , 25 ) .
+Expression of the flagellar master operon at the top of the transcription hierarchy is known to be affected by growth - conditions and by mutations in a variety of genes , which are unrelated to the flagellar genes .
+Positive regulation is mediated by cyclic AMP ( cAMP ) and cAMP receptor protein ( CRP ) complex and the nucleoid protein H - NS ( 1 , 23 , 50 ) .
+Part of the negative regulation is mediated by the osmoregulator OmpR ( 43 ) .
+Flagellum synthesis is also known to be inhibited by mutation in a variety of genes , such as the dnaK , dnaJ , and grpE genes , whose products are known to be heat - shock - induced chaperones ; the pss and psd genes involved in phospholipid synthesis ; and the apaH gene involved in the degradation of AppppA ( 5 , 41 , 42 ) .
+In this study , we provide evidence that the ClpXP protease functions as a negative regulator for flagellum synthesis by a possible regulatory pathway that is dependent on the FlhD/FlhC regulators encoded in the master operon .
+S. enterica serovar Typhimurium strain TABLE 1 .
+Bacterial strains used in this study Relevant characteristic ( s ) a Source or reference 3306 Mouse virulent strain , gyrA R. Curtiss III CS2007 clpP : : Cm r in 3306 , clpP clpX 48 CS2016 clpP : : Km r in 3306 , clpP 48 CS2018 clpX : : Cm r in 3306 , clpX 48 CS2029 3306 fliC : : Tn10 This study CS2031 CS2016 fliC : : Tn10 This study CS2033 3306 fljB : : Tn10 This study CS2034 CS2007 fljB : : Tn10 This study CS2035 CS2016 fljB : : Tn10 This study CS2036 CS2018 fljB : : Tn10 This study CS2055 CS2033 fliC - lac This study CS2057 CS2035 fliC - lac This study CS2058 CS2036 fliC - lac This study CS2140 CS2033 fliA - lac This study CS2142 CS2035 fliA - lac This study CS2143 CS2036 fliA - lac This study CS2144 CS2033 flhD - lac This study CS2145 CS2034 flhD - lac This study CS2146 CS2035 flhD - lac This study CS2147 CS2036 flhD - lac This study KK2503 LT2 fliC : : Tn10 26 KK2504 LT2 fljB : : Tn10 26 KK2091 LT2 fliA : : Tn10 26 KK1107 LT2 flhD - lac 24 KK1108 LT2 fliA - lac 24 KK1109 LT2 fliC - lac 24 a Km r , kanamycin resistance ; Cm r , chloramphenicol resistance .
+MATERIALS AND METHODS Bacterial strains and growth - conditions .
+Bacterial strains used in this study are shown in Table 1 .
+To construct the fliC and fljB disruption mutants , P22 phages were propagated on KK2503 and KK2504 to transduce the fliC : : Tn10 and fljB : : Tn10 mutations , respectively .
+The lysates were used for infection of the S. enterica serovar Typhimurium strains 3306 , CS2016 , and CS2018 , and the transductants were selected by tetracycline resistance .
+Strains containing flhD - lac , fliA - lac , and fliC - lac fusions on the chromosome were constructed by transduction with P22 phages propagated on KK1107 , KK1108 , and KK1109 , respectively .
+P22 transductants were selected with a linked ampicillin resistance .
+Bacteria were routinely grown in L broth and L agar ( Difco Laboratories , Detroit , Mich. ) .
+When necessary , the media were supplemented with - ampicillin ( 50 g/ml ) , kanamycin ( 25 g/ml ) , chloramphenicol ( 25 g/ml ) , and tetracycline ( 25 g/ml ) .
+Bacterial cells were suspended in phosphate - buffered saline , deposited on the grids , fixed with 2.5 % glutaraldehyde for 1 min , washed with distilled water , and stained with 0.5 % phosphotungstic - acid .
+These negatively stained samples were viewed on a transmission electron microscope at a 100 - kV accelerating voltage .
+Collection of proteins secreted in media and whole - cell proteins .
+For preparation of the protein components secreted in media , bacterial cells were grown in 15 ml of L broth to optical density at 600 nm of 1.0 at 37 °C and removed by centrifugation at 10,000 rpm for 30 min .
+The supernatant was filtrated by using a Millex - GV filter ( Millipore , Bedford , Mass. ) and then concentrated to 200 l with an Amicon Concentrator B15 ( Amicon , Inc. , Beverly , Mass. ) .
+Alternatively , the filtrates were mixed with prechilled trichloroacetic acid ( TCA ; final concentration , 10 % ) , chilled on ice for 15 min , and centrifuged at 15,000 rpm for 10 min .
+The pellets were suspended with 1 ml of acetone and centrifuged at 15,000 rpm for 10 min .
+Acetone washing was repeated twice to remove TCA from the precipitate completely .
+For preparation of whole - cell proteins , bacterial cells were harvested by centrifugation of 1 ml of the same culture at 10,000 rpm for 5 min and then suspended in 200 l of sample buffer ( 27 ) .
+SDS - polyacrylamide gel electrophoresis and immunoblot analysis .
+Gel electrophoresis was carried out according to the method of Laemmli ( 27 ) by using sodium dodecyl sulfate ( SDS ) -- 12 % polyacrylamide gel electrophoresis gels , followed by staining with Coomassie brilliant blue .
+For immunoblot analysis , proteins separated on the SDS -- 12 % polyacrylamide gels were transferred after electrophoresis onto Immobilon - P ( Millipore ) as previously reported ( 49 ) .
+Proteins were reacted with either rabbit anti - S .
+enterica serovar Typhimurium FliC ( 1:25,000 ) or FliA ( 1:12,500 ) antiserum , followed by treatment with alkaline phosphatase - conjugated anti - rabbit immunoglobulin G .
+The enzymatic reactions were performed in the presence of 300 g of nitroblue tetrazolium ( Dojindo , Kumamoto , Japan ) / ml and 150 g of bromochloroindolyl phosphate ( aM - ReSCO , Solon , Ohio ) / ml .
+Isoelectric focusing in the first dimension was performed by using PTOTEAN IEF Cell ( Bio - Rad , Hercules , Calif. ) .
+Briefly , the proteins precipitated with TCA described above were solubilized in 200 l of sample buffer containing 8 M urea , 0.5 % Nonidet P - 40 , 10 mM dithiothreitol , and 0.2 % Bio - Lyte 3/10 ( Bio - Rad ) and were focused in polyacrylamide gels within a pH range of 3 to 10 according to the manufacturer 's instructions and resolved in the second dimension on SDS -- 12 % polyacrylamide slab gels .
+Total proteins were stained with Coomassie brilliant blue .
+Identification of proteins on the two - dimensional gel .
+To analyze the N - terminal protein sequence , proteins were separated by two - dimensional electrophoresis and transferred on to a polyvinylidene difluoride membrane ( Millipore ) from gel .
+The stained protein spots with Coomassie brilliant blue were cut out and analyzed with a protein sequencer .
+Alternatively , protein spots of interest were excised from the gel , destained , and digested in situ with endopeptidase Lys - C .
+After digestion overnight at 37 °C , samples were centrifuged and further purified by using Zip - TipC18 pipette tips ( Millipore ) .
+An aliquot of the sample was taken for analysis by matrix - assisted laser desorption ionization -- mass spectrometry .
+The activity of - galactosidase was determined by the method of Platt et al. ( 37 ) .
+The enzyme units presented here were the average of at least three independent assays .
+184 , 2002 ClpXP , A NEGATIVE REGULATOR OF FLAGELLAR REGULON 647 RESULTS The clpP gene - disrupted mutant of S. enterica serovar Typhimurium exhibits a hyperflagellate phenotype .
+In a previous study , we cloned the clpP and clpX operon of the S. enterica serovar Typhimurium pathogenic strain 3306 and constructed an insertional mutation in the clpP gene ( 48 ) .
+The mutation was created by insertion of a kanamycin resistance cassette that provides a promoter for the transcription of a downstream gene ( 34 ) and therefore does not affect the expression of the clpX gene , which is downstream of clpP .
+This was confirmed by immunoblotting analysis in which the protein band recognized by anti - ClpX antibody was detected in the cell lysate of mutant strain ( 48 ) .
+Disruption of the clpP gene did not affect the rate of cell growth at 30 , 37 , or 42 °C ( data not shown ) .
+Since ClpP is known to be a heat - shock protein , we characterized the clpP mutant for its response to various stresses , e.g. , thermal stress by survival assay at 50 °C , oxidative - stress by oxygen - dependent killing assay with hydrogen - peroxide and paraquat ( a superoxide anion generator ) and low pH stress by survival assay at pH 3.5 .
+The results demonstrated that the clpP mutant was as resistant to all of the stresses examined as the wild - type strain ( data not shown ) .
+A significant phenotypic change due to disruption of the clpP gene was observed by electron microscopic analysis .
+The wild - type and clpP mutant strains were incubated without aeration at 37 °C and observed by electron microscopy .
+Electron micrographs show the dramatic increase in the number of flagellar filaments on the bacterial surface of the clpP mutant compared to that of wild - type bacteria ( Fig. 1 ) .
+Swimming motility was also different for the mutant cells in that faster runs , compared to the wild - type cells , could be observed in semisolid stabs containing 0.7 % agar ( data not shown ) .
+The ClpXP ATP - dependent protease is responsible for production of both FliC and FljB components of the flagellar filament of S. enterica serovar Typhimurium .
+The flagellum is composed of a filament , a hook , and a basal body .
+The filament extends into the extracellular spaces and is connected by the hook to the basal body embedded in the cell membrane .
+The filament consists of an assembly of ca. 20,000 subunits of a single protein , flagellin ( 31 ) .
+To examine whether the hyperflagellated phenotype of the clpP mutant reflects an overproduction of flagellar component proteins , we compared the protein profiles of the clpP mutant cells with those of the wildtype cells .
+Since flagellin protein is known to be secreted into culture medium as a monomeric form ( 22 ) , proteins in the culture medium were concentrated and examined with cellular proteins by electrophoresis in SDS - polyacrylamide gels and then subjected to immunoblotting analysis with anti - flagellin antibody ( Fig. 2 ) .
+The antibody identified two proteins having a molecular size of either 51 or 52 kDa in both secreted and cytoplasmic protein preparations of the wild - type strain ( Fig. 2C and D ) .
+S. enterica serovar Typhimurium expresses two antigenically distinct flagellins , each containing a different H antigen ( i and 1,2 ) , the combination of which is highly specific for this serotype .
+The H : i ( phase 1 ) and H : 1,2 ( phase 2 ) antigens are encoded by fliC and fljB genes , respectively , and the alternative expression of the two genes results in the oscillation of phenotype known as phase variation , which occurs with frequencies ranging from 10 3 to 10 5 per bacterium per generation ( 44 ) .
+On the basis of the DNA sequences of both flagellin genes reported , FliC and FljB consist of 495 amino acids ( molecular size of 51,611 Da ) and 506 amino - acids ( molecular size of 52,504 Da ) , respectively , and both proteins are highly similar , sharing the sequence of 170 amino - acid - residues from the N terminus and the sequence of 46 amino - acid - residues from the C terminus ( 4 , 18 ) .
+It was also demonstrated that a minimal area , consisting of 86 amino - acids for FliC and 102 amino - acids for FljB , located in the central variable domain of each flagellin is required for the binding of serotype - specific antibodies ( 4 ) .
+Therefore , it is probable that anti - FliC flagellin antibody used in this study recognizes an alternative antigen , FljB , besides the corresponding antigen .
+To define two proteins reacted with the anti - FliC antibody , we performed mass spectrometry analysis after separation of proteins by two - dimensional gel electrophoresis in combination with the generation of a protein database ( ProFounD , The Rockefeller University Edition ) .
+The results revealed that the protein indicated by arrow a and the protein indicated by arrow b shown in Fig. 2 correspond to the FljB and FliC components of the flagellin filament , respectively ( data not shown ) .
+Comparative analysis of the protein profiles revealed that the amount of FljB protein was significantly higher in the clpP mutant cells than in wildtype cells ( Fig. 2A , lanes 1 and 2 ) .
+Since the cell cultures of strain 3306 prepared in the present study appeared to include both FliC and FljB proteins ( Fig. 2C and D , lane 1 ) , we then introduced a disruption mutation by transduction of either fliC : : Tn10 or fljB : : Tn10 with P22 phages into the wild - type strain ( 3306 ) and the clpP mutant strain ( CS2016 ) .
+The protein profiles of the resulting mutants , clpP fliC and clpP fljB , were then compared to those in a clpP background ( Fig. 2 , lanes 3 to 6 ) .
+The results show that the amount of both FljB and FliC proteins are significantly higher in the clpP background than in the isogenic clpP strains .
+ClpP is the proteolytic core of the ATP - dependent protease and functions by association with either of two ATPases , ClpA or ClpX .
+The clpX gene has already been identified by us downstream of the clpP gene in an operon ( 48 ) .
+To examine whether the activity of the ClpXP complex is required for the modulation of flagellin protein synthesis , we constructed the clpX and fljB double mutant and subjected it to further analysis .
+The profile of secreted proteins from the resulting mutant was compared with that of the isogenic clpX strain by electrophoresis in an SDS - polyacrylamide gel ( Fig. 2E ) .
+The results show that the amount of the FliC protein was greatly increased by the disruption of the clpX gene , suggesting that the ClpXP complex is essentially required for the regulation of flagellar formation in S. enterica serovar Typhimurium .
+The ClpXP ATP - dependent protease is a negative regulator of flagellar regulon expression .
+To address the possibility that the accumulation of flagellin protein in the clpP and clpX mutants is due to the enhanced expression of the flagellin gene , we measured the level of transcription from the promoter of the fliC gene in genetically different backgrounds by construction of fliC - lac fusions on the chromosome of each strain , followed by assay of - galactosidase activity .
+The fliC gene is subject to repression by the product of the fljA gene which is contained in the fljB operon .
+To avoid the effect of FljA , we used the fljB : : Tn10 mutation in the background for this assay .
+Transmission electron microscopy of Salmonella strains 3306 ( A ) and CS2016 ( B ) .
+184 , 2002 ClpXP , A NEGATIVE REGULATOR OF FLAGELLAR REGULON 649 FIG. 2 .
+Coomassie blue - stained SDS - polyacrylamide gel patterns of culture supernatants ( A ) and whole - cell lysates ( B ) prepared from S. enterica serovar Typhimurium 3306 ( lane 1 ) , CS2016 ( clpP : : Km r , lane 2 ) , CS2029 ( fliC : : Tn10 , lane 3 ) , CS2031 ( clpP : : Km r fliC : : Tn10 , lane 4 ) , CS2033 ( fljB : : Tn10 , lane 5 ) , and CS2035 ( clpP : : Km r fljB : : Tn10 , lane 6 ) .
+Lane M contains molecular mass standards , ranging in size ( from top to bottom ) as follows : 97.4 , 66.2 , 45.0 , 31.0 , 21.5 , and 14.4 kDa .
+Immunoblotting analysis of culture supernatant ( C ) and whole - cell lysates ( D ) with anti - FliC antibody .
+Arrows a and b indicate FljB and FliC proteins , respectively ( see text ) .
+( E ) Coomassie blue - stained SDS - polyacrylamide gel patterns of the culture supernatants prepared from S. enterica serovar Typhimurium CS2033 ( fljB : : Tn10 , lane 1 ) and CS 2036 ( clpX : : Cm r fljB : : Tn10 , lane 2 ) .
+Small bars on the left represent the migration position of molecular mass standards of 66.2 , 45.0 , 31.0 , and 21.5 kDa .
+The chromosomal fliC - lac fusion was introduced by transduction from strain KK1109 into strains CS2033 ( clpP clpX ) , CS2035 ( clpP ) , and CS2036 ( clpX ) .
+- Galactosidase activity with the resulting transductants was measured .
+As shown in Table 2 , the disruption of the clpP gene resulted in overexpression from the fliC promoter of the fusion gene by almost fourfold the level in the clpP background .
+Similarly , in the clpX mutant , expression from the fliC promoter was significantly enhanced .
+These results indicate that the enhanced synthesis of flagellin protein by cells deleted for clpP or clpX could be due to the highly active expression of the flagellin gene .
+The transcription of flagellin - related genes forms a highly ordered cascade .
+The transcription of the fliC gene in the class 3 operons that are furthest downstream in the cascade requires the class 3 - specific sigma factor ( 28 ) encoded by the fliA gene in the class 2 operons at the upper hierarchy ( see Discussion ) .
+Furthermore , the transcription of fliA gene is positively controlled by the class 1 gene products , FlhD and FlhC , which are encoded by the sole operon lying at the top of the transcriptional hierarchy .
+The effect of mutations in the clpP and clpX genes on the expression of the fliC gene would be explained if they modulated the expression of master regulators FlhD/FlhC and/or the flagellin - specific sigma factor FliA .
+To determine whether this was the case , we measured the levels of transcription from the flhD and fliA promoters in Salmonella strains carrying a transcriptional flhD - lac or fliA - lac fusion on the chromosome ( Table 2 ) .
+In clpP and clpX backgrounds , an 8 - fold increase in the - galactosidase activity from the fliAlac transcriptional - fusion was observed .
+It was also confirmed that the increasing of the fliA transcription resulted in the accumulation of the sigma factor FliA in clpP and clpX cells by immunoblotting analysis with anti - FliA serum ( Fig. 3 ) .
+In contrast , the - galactosidase activity in cells carrying flhD - lac fusion reveals that neither clpP mutation nor clpX mutation affects the rate of transcription of the flhD master operon ( Table 2 ) .
+This result suggests that the ClpXP may be responsible for the modulation of the FlhD/FlhC master regulators at TABLE 2 .
+Effects of clpP or clpX disruption on - galactosidase activities of transcriptional - fusions of flagellum genes with lac genes Strain Presence ( ) or absence ( ) of : - Galactosidase activity ( Miller units ) clpP clpX fliC - lac fliA - lac flhD - lac CS2055 623.0 CS2057 2,515.9 CS2058 2,144.8 CS2140 70.5 CS2142 580.2 CS2143 556.9 CS2144 87.8 CS2146 62.5 CS2147 65.2 650 TOMOYASU ET AL. .
+Immunoblotting for detection of FliA protein in S. enterica serovar Typhimurium strains 3306 ( lane 1 ) , CS2016 ( clpP : : Km r , lane 2 ) , CS2018 ( clpX : : Cm r , lane 3 ) , and KK2091 ( fliA : : Tn10 , lane 4 ) .
+The separated proteins in an SDS - polyacrylamide gel were transferred to a membrane and immunostained with S. enterica serovar Typhimurium anti - FliA antibody .
+( B ) Coomassie blue - stained SDS - polyacrylamide gel patterns of the same sample used for immunoblotting analysis shown in panel A. Lane M contains the molecular mass standards .
+the posttranscriptional and/or posttranslational levels .
+To test the possibility that the ClpXP works via the pathway dependent on the FlhD/FlhC regulators , we examined the effect of clpP mutation on the synthesis of flagellar proteins in the flhD/flhC background by proteome analysis ( Fig. 4 ) .
+On the two - dimensional gels , FliC was identified by mass spectrometry analysis .
+HAP1 and HAP3 , which are hook - filament junction proteins , and HAP2 , a filament cap protein , are identified by both mass spectrometry and amino - terminal sequence analyses .
+The results indicate that the enhanced effect by the depletion of ClpXP on the production of flagellar proteins disappears in the flhD/flhC background , suggesting that the ClpXP protease is possibly responsible for repressing the flagellar synthesis by a regulatory pathway that depends on the FlhD / FlhC master regulators .
+DISCUSSION In the present study , we demonstrate that the ClpXP ATPdependent protease negatively regulates flagellar synthesis in S. enterica serovar Typhimurium .
+This conclusion is based on the results that cells deleted for clpP or clpX are highly motile , exhibit a `` hyperflagellate phenotype '' ( Fig. 1 ) , produce higher levels of flagellin protein ( Fig. 2 ) , and show the enhanced transcription of the fliC gene ( Table 2 ) .
+The genes required for flagellar formation and function are expressed in a highly ordered transcription cascade that is coordinated with the flagellar assembly hierarchy .
+The flagellar operons are divided into three classes with respect to their transcription hierarchy ( 25 ) .
+The fliC in class 3 operons is furthest downstream in the cascade .
+The class 3 contains three operons involved in filament formation and at least two operons involved in flagellar rotation and chemotaxis .
+Expression of the class 3 operons requires the class 3 operon - specific sigma factor , FliA .
+The fliA gene is included with other six operons in class 2 .
+All of the class 2 genes except the fliA operon are involved in formation of the hook - basal complex .
+The fliA gene is positively controlled by activator proteins , FlhD and FlhC , which are encoded by the flhD class 1 operon ( also called the master operon ) lying at the top of the transcription hierarchy ( 26 , 30 ) .
+The assay for fliA promoter activity with the chromosomal fliA - lac fusion revealed that the transcription from the promoter of the fliA gene was dramatically enhanced by deletion of the clpP and clpX genes ( Table 2 ) .
+Furthermore , immunoblotting analysis revealed that the sigma factor FliA accumulates to significant levels in cells deleted of either clpP or clpX ( Fig. 3 ) .
+Though the fliA gene is in a class 2 operon , it is transcribed also from a FliA - dependent class 3 promoter ( 17 ) .
+Therefore , fliA is under positive autoregulation .
+FliA - dependent expression of class 3 operons is under the negative control of FlgM which acts as an anti - sigma factor specific for FliA to prevent its association with the RNA polymerase subunit ( 24 ) .
+The flgM gene is transcribed from both class 2 and class 3 promoters ( 10 , 24 ) .
+Thus , the relative concentration of FliA and FlgM in cells would determine the expression level of the fliC gene .
+Actually , it was demonstrated that overproduction of FliA by using a strong promoter , tac , inanflgM background resulted in a 10 - fold increase in transcription from the promoter of the fliC gene ( 24 ) .
+On the basis of this information , the accumulation of FliA shown in the present study would be sufficient to explain the enhancement of the expression of fliC gene in ClpXP - depleted cells .
+The possibility that the FlgM is targeted by ClpXP protease was not examined in the present study .
+However , even if this were true , the accumulation of FlgM as an anti - sigma factor would not directly explain the enhanced expression of the fliC gene in the ClpXP - depleted cells .
+As mentioned above , the expression of the class 2 is positively regulated by the flhD master operon consisting of flhD and flhC genes .
+The FlhD 2 / FlhC 2 heterotetrameric complex was postulated to act as an activator through contacting the subunit of RNA polymerase in E. coli ( 29 ) .
+The expression of the flhD operon is known to be regulated by a variety of genes which are unrelated to the flagellar regulon .
+The expression of the flhD operon is positively regulated by global regulators such as the cAMP - CRP complex and H - NS ( 1 , 23 , 50 ) .
+The heat - shock proteins DnaK , DnaJ , and GrpE , which together ( DnaK - DnaJ - GrpE ) form a molecular chaperone machine , were also shown to be required for the expression of the flhD master operon independent the cAMP - CRP system , although the mechanism by which these heat - shock proteins control the VOL .
+184 , 2002 ClpXP , A NEGATIVE REGULATOR OF FLAGELLAR REGULON 651 FIG. 4 .
+Two - dimensional gel electrophoresis patterns of the proteins - secreted into medium from S. enterica serovar Typhimurium CS2033 ( fljB : : Tn10 ) ( A ) , CS2034 ( fljB : : Tn10 clpP : : Cm r ) ( B ) , CS2144 ( fljB : : Tn10 flhD - lac ) ( C ) , and CS2145 ( fljB : : Tn10 flhD - lac clpP : : Cm r ) ( D ) .
+Protein spots excised for mass spectrometry analysis or transferred to the polyvinylidene difluoride membrane for amino - terminal sequence analysis are interpreted in the text .
+expression of the master operon is not known ( 42 ) .
+Since these proteins have been shown to be involved in protein folding and unfolding in many structures as molecular chaperones , it is likely that DnaK - DnaJ - GrpE is required for the proper folding or activity of an unknown positive regulator of the flhD operon .
+It was also demonstrated that the expression of the master operon is negatively regulated by the osmoregulator OmpR ( 43 ) .
+Osmoregulation is known to be mediated by a two - component regulatory system consisting of OmpR and EnvZ .
+The sensor protein EnvZ controls phosphorylation of OmpR , a regulatory protein that has a DNA - binding property ( 39 ) .
+Transcriptional modulation is mediated by direct interaction of OmpR with the promoter region of flhD , suggesting that repression of the flhD operon may occur through the phosphorylation of OmpR by EnvZ ( 44 ) .
+We found that the ClpXP , in contrast to these regulatory factors , is not responsible for controlling the transcription from the promoter of flhD operon but seems to control the FlhD / FlhC regulators at the posttranscriptional and/or posttranslational levels ( Table 2 ) .
+The ClpXP protease has been shown to affect different cellular activities of regulatory proteins .
+This was first demonstrated for the degradation of excess O protein , which functions as an initiation protein in DNA replication ( 48 ) .
+Furthermore , ClpXP proteolytic activity has been linked to the turnover of the bacteriophage Mu vir repressor protein ( 14 ) , the efficient transmission of genes encoding representatives of the type I restriction - modification system in E. coli ( 32 ) , and DNA repair after mutagenesis ( 6 ) .
+Furthermore , recent reports have strongly suggested that the ClpXP preferentially recognizes the dimeric form as a substrate for proteolysis ( 12 , 51 ) .
+Thus , in analogy with these regulator proteins , the transcriptional activator proteins FlhD 2 and/or FlhC 2 may be a target of negative regulation by the ClpXP protease .
+Since an immunoblotting analysis with antibodies specific to FlhD or FlhC would be effective for examination of the possible proteolysis of FlhD/FlhC by ClpXP , we established those antibodies by immunizing rabbits with purified either FlhD or FlhC protein and intended to detect both proteins in cellular levels .
+However , we were not successful , that is , neither FlhD nor FlhC could be detected in either wild - type cells or ClpXPdepleted mutant cells by using these sera .
+As far as we know , no studies detecting FlhD or FlhC in Salmonella cells by using antibodies have been reported , suggesting that both regulator proteins can not be detected with antibodies .
+The only study with the anti - FlhD and anti - FlhC antibodies had been done in Proteus mirabilis in which the FlhD and FlhC regulators were detectable with antibodies only during bacterial differentiation into elongated hyperflagellated swarming cells ( 2 ) .
+We tried to detect both proteins in our system by using anti - P .
+mirabilis FlhD and anti - P .
+mirabilis FlhC antibodies ( kindly provided by K. Hughes ) .
+However , neither antibody could recognize the FlhD or FlhC proteins of S. enterica serovar Typhimurium .
+Finally , we decided to test the possibility that the ClpXP works via a pathway dependent on the FlhD/FlhC master regulators .
+As shown in Fig. 4 , proteome analysis of the secreted proteins from the mutant cells deficient for clpP and flhD/flhC genes demonstrated that the flhD/flhC mutation completely abolished the enhanced effect of the clpP mutation on the production of the flagellar proteins , suggesting that the ClpXP possibly works via a pathway dependent on the FlhD/FlhC master regulators Rapid turnover of FlhD and FlhC by protease during P. mirabilis swarming was recently demonstrated ( 2 ) .
+In addition to stage - specific transcriptional control of flhDC master operon , the FlhD and FlhC proteins are subjected to severe posttranslational control at the level of protein degradation in P. mirabilis swarm cells .
+It was speculated that the degradation is energy dependent and putatively involves the Lon protease .
+Recently , we cloned the gene encoding Lon protease of S. enterica serovar Typhimurium ( A. Takaya , T. Tomoyasu , and T. Yamamoto , unpublished data ) .
+Characterization of a strain containing an inactivated chromosomal copy of lon demonstrated that Lon is not involved in the regulation for expression of flagellar regulon ( unpublished results ) in S. enterica serovar Typhimurium .
+To show a direct interaction of ClpXP ATPdependent protease and the FlhD/FlhC regulator proteins , biochemical analysis in - vitro with purified proteins is now in progress .
+We thank D. Ang for critical reading of the manuscript .
+This research was supported by a grant - in - aid for scientific research ( 13470058 ) from the Ministry of Education , Culture , Sports , Science , and Technology of Japan .
+Bertin , P. , E. Terao , E. H. Lee , P. Lejeune , C. Colson , A. Danchin , and E. Collatz .
+The H - NS protein is involved in the biogenesis of flagella in Escherichia coli .
+Claret , L. , and C. Hughes .
+Rapid turnover of FlhD and FlhC , the flagellar regulon transcriptional activator proteins , during Proteus swarming .
+Damerau , K. , and A. C. St. John .
+Role of Clp protease subunits in degradation of carbon - starvation proteins in Escherichia coli .
+de Vries , N. , K. A. Zwaagstra , J. H. Huis i n't Veld , F. van Knapen , F. G. van Zijderveld , and J. G. Kusters .
+Production of monoclonal antibodies specific for the i and 1,2 flagellar antigens of Salmonella typhimurium and characterization of their respective epitopes .
+Farr , S. B. , D. N. Arnosti , M. J. Chamberlin , and B. N. Ames .
+An apaH mutation causes AppppA to accumulate and affects motility and catabolite repression in Escherichia coli .
+Frank , E. G. , D. G. Ennis , M. Gonzalez , A. S. Levine , and R. Woodgate .
+Regulation of SOS mutagenesis by proteolysis .
+Frees , D. , and H. Ingmer .
+ClpP participates in the degradation of misfolded protein in Lactococcus lactis .
+Gaillot , O. , E. Pellegrini , S. Bregeholt , S. Nair , and P. Berche .
+The ClpP serine protease is essential for the intracellular parasitism and virulence of Listeria monocytogenes .
+Gerth , U. , E. Kruger , I. Derre , T. Msadek , and M. Hecker .
+Stress induction of the Bacillus subtilis clpP gene encoding a homologue of the proteolytic component of in stress rolerance .
+Gillen , K. L. , and K. Hughes .
+Transcription from two promoters and autoregulation contribute to the control of expression of the Salmonella typhimurium flagellar regulatory gene flgM .
+The mechanism and functions of ATP - dependent proteases in bacterial and animal cells .
+Gonzalez , M. , F. Rasulova , M. R. Maurizi , and R. Woodgate .
+Subunitspecific degradation of the UmuD/D heterodimer by the ClpXP protease : the role of trans recognition in UmuD stability .
+Gottesman , S. , S. Wickner , and M. R. Maurizi .
+Protein quality control : triage by chaperones and proteases .
+Gottesman , S. , W. P. Clark , V. de Crecy - Lagard , and M. R. Maurizi .
+ClpX , an alternative subunit for the ATP - dependent Clp protease of Escherichia coli .
+Gueskens , V. , A. Mhammedi - Aloui , L. Desmet , and A. Toussaint .
+Virulence in bacteriophage Mu : a case of transdominant proteolysis by the Escherichia coli Clp serine protease .
+Hensel , M. , H. E. Shea , C. Gleeson , M. D. Johrns , E. Dalton , and D. W. Holden .
+Simultaneous identification of bacterial virulence genes by negative selection .
+Ikebe , T. , S. Iyoda , and K. Kutsukake .
+Promoter analysis of the class 2 flagellar operon of Salmonella .
+The covalent structure of the phase - 1 flagellar filament protein of Salmonella typhimurium and its comparison with other flagellins .
+Katayama , Y. , S. Gottesman , J. Pumphrey , S. Rudikoff , and W. P. Clark .
+Two - component , ATP - dependent Clp protease of Escherichia coli .
+Kessel , M. , M. R. Maurizi , B. Kim , E. Kocsis , B. Trus , S. K. Singh , and A. C. Steven .
+Homology in structural organization between E. coli ClpAP protease and the eukaryotic 26S proteasome .
+Transcriptional control of flagellar genes in Escherichia coli K - 12 .
+Komoriya , K. , N. Shibano , T. Higano , N. Azuma , S. Yamaguchi , and S. Aizawa .
+Flagellar proteins and type III - exported virulence - factors are the predominant proteins secreted into the culture media of Salmonella typhimurium .
+Autogenous and global control of the flagellar master operon , .
+flhD , in Salmonella typhimurium .
+Kutsukake , K. , and T. Iino .
+Role of the FliA - FlgM regulatory system on the transcriptional control of the flagellar regulon and flagellar formation in Salmonella typhimurium .
+Kutsukake , K. , Y. Ohya , and T. Iino .
+Transcriptional analysis of the flagellar regulon of Salmonella typhimurium .
+Kutsukake , K. , Y. Ohya , S. Yamaguchi , and T. Iino .
+Operon structure of flagellar genes in Salmonella typhimurium .
+Cleavage of structural proteins during the assembly of the head of bacteriophage T4 .
+Larsen , C. N. , and D. Finley .
+Protein translocation channels in the proteasome and other proteases .
+Liu , X. , N. Fujita , A. Ishihama , and P. Matsumura .
+The C - terminal region of the alpha subunit of Escherichia coli RNA polymerase is required for transcriptional activation of the flagellar level II operons by the FlhD / FlhC complex .
+Liu , X. , and P. Matsumura .
+The FlhD/FlhC complex , a transcriptional activator of the Escherichia coli flagellar class II operons .
+Flagella and motility , p. 123 -- 145 .
+In F. C. Neidhardt , R. Curtiss III , H. L. Ingraham , E. C. C. Lin , K. B. Low , B. Magasanik , W. S. Reznikoff , M. Riley , M. Schaechter , and H. E. Umbarger ( ed .
+) , Escherichia coli and Salmonella : cellular and molecular biology , 2nd ed .
+ASM Press , Washington , D.C. 32 .
+Makovets , S. , A. J. Titheradge , and N. E. Murray .
+ClpX and ClpP are essential for the efficient acquisition of genes specifying type IA and IB restriction systems .
+Maurizi , M. R. , W. P. Clark , Y. Katayama , S. Rudikoff , and J. Pumphrey .
+Sequence and structure of ClpP , the proteolytic component of the ATP - dependent Clp protease of Escherichia coli .
+Menard , R. , and P. J. Sansonetti .
+Isolation of noninvasive mutants of gram - negative pathogens .
+Morimoto , R. I. , A. Tissieres , and C. Georgopoulos .
+The stress response , function of the proteins , and perspectives , p. 1 -- 36 .
+In R. I. Morimoto , A. Tissieres , and C. Georgopoulos ( ed .
+) , Stress proteins in biology and medicine .
+Cold Spring Harbor Laboratory Press , New York , N.Y. 36 .
+Msadek , T. , V. Dartois , F. Kunst , M. L. Herbaud , F. Denizot , and G. Rapoport .
+ClpP of Bacillus subtilis is required for competence , development , motility , degradative enzyme synthesis , growth at high - temperature and sporulation .
+Platt , T. , B. Muller - Hill , and J. H. Miller .
+Assay of - galactosidase , p. 352 -- 355 .
+In J. H. Miller ( ed .
+) , Experiments in molecular genetics .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N. Y. 38 .
+Rohrwild , M. , O. Coux , H. C. Huang , R. P. Moerschell , S. J. Yoo , J. H. Seol , C. H. Chung , and A. L. Goldberg .
+HslV - HslU : a novel ATP - dependent protease complex in Escherichia coli related to the eukaryotic proteasome .
+Russo , F. D. , and T. J. Silhavy .
+EnvZ controls the concentration of phosphorylated OmpR to mediate osmoregulation of the porin genes .
+Schweder , T. , K. H. Lee , O. Lomovskaya , and A. Martin .
+Regulation of Escherichia coli starvations sigma factor ( S ) by ClpXP protease .
+Shi , W. , M. Bogdanov , W. Dowhan , and D. Zusman .
+The pss and psd VOL .
+184 , 2002 ClpXP , A NEGATIVE REGULATOR OF FLAGELLAR REGULON 653 genes are required for motility and chemotaxis in Escherichia coli .
+Shi , W. , Y. Zhou , J. Wild , J. Alder , and C. A. Gross .
+DnaK , DnaJ , and GrpE are required for flagellum synthesis .
+Shin , S. , and C. Park .
+Modulation of flagellar expression in Escherichia coli by acetyl phosphate and the osmoregulator OmpR .
+Stocker , B. A. D. 1949 .
+Measurement of the rate of mutation of flagellar antigenic phase in Salmonella typhimurium .
+Volker , U. , S. Engelmann , B. Maul , S. Riethdorf , A. Volker , R. Schmid , M. Hiltraut , and M. Hecker .
+Analysis of the induction of general stress proteins of Bacillus subtilis .
+Wawrzynow , A. , D. Wojtkowiak , J. Marszalek , B. Banecki , M. Jonsen , B. Graves , C. Georgopoulos , and M. Zylicz .
+The ClpX heat - shock protein of Escherichia coli , the ATP - dependent substrate specificity component of the ClpP - ClpX protease , is a novel molecular chaperone .
+Wojtkowiak , D. , C. Georgopoulos , and M. Zylicz .
+Isolation and characterization of ClpX , a new ATP - dependent specificity component of the Clp protease of Escherichia coli .
+Yamamoto , T. , H. Sashinami , A. Takaya , T. Tomoyasu , H. Matsui , T. Hanawa , S. Kamiya , and A. Nakane .
+Disruption of the genes for ClpXP protease in Salmonella enterica serovar Typhimurium results in a persistent infection in mouse and development of the persistence requires endogenous Interferon gamma and tumor necrosis factor alpha .
+Yamamoto , T. , T. Hanawa , S. Ogata , and S. Kamiya .
+The Yersinia enterocolitica GsrA stress protein , involved in intracellular survival , is induced by macrophage phagocytosis .
+Yokota , T. , and J. S. Gots .
+Requirement of adenosine 3 ,5 - cyclic phosphate for flagella formation in Escherichia coli and Salmonella typhimurium .
+Zhou , Y. , S. Gottesman , J. R. Hoskins , M. R. Maurizi , and S. Wickner .
+The RssB response regulator directly targets sigma ( S ) for degradation by ClpXP .

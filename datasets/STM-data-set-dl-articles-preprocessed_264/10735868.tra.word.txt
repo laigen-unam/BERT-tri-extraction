@@ -1,0 +1,346 @@
+JOURNAL OF BACTERIOLOGY , Apr. 2000 , p. 2245 -- 2252 Vol .
+182 , No. 8 0021 - 9193/00 / $ 04.00 0 OmpR Regulates the Stationary - Phase Acid Tolerance Response of Salmonella enterica Serovar Typhimurium IEL SOO BANG , 1,2 BAE HOON KIM , 1 JOHN W. FOSTER , 2 AND YONG KEUN PARK 1 * Graduate School of Biotechnology , Korea University , Seoul 136701 , Korea , 1 and Department of Microbiology and Immunology , University of South Alabama College of Medicine , Mobile , Alabama 36688 2 Tolerance to acidic environments is an important property of free - living and pathogenic enteric bacteria .
+Salmonella enterica serovar Typhimurium possesses two general forms of inducible acid tolerance .
+One is evident in exponentially growing cells exposed to a sudden acid shock .
+The other is induced when stationaryphase cells are subjected to a similar shock .
+These log - phase and stationary - phase acid tolerance responses ( ATRs ) are distinct in that genes identified as participating in log - phase ATR have little to no effect on the stationary - phase ATR ( I. S. Lee , J. L. Slouczewski , and J. W. Foster , J. Bacteriol .
+An insertion mutagenesis strategy designed to reveal genes associated with acid - inducible stationary - phase acid tolerance ( stationary - phase ATR ) yielded two insertions in the response regulator gene ompR .
+The ompR mutants were defective in stationary - phase ATR but not log - phase ATR .
+EnvZ , the known cognate sensor kinase , and the porin genes known to be controlled by OmpR , ompC and ompF , were not required for stationary - phase ATR .
+However , the alternate phosphodonor acetyl phosphate appears to play a crucial role in OmpR - mediated stationary - phase ATR and in the OmpR - dependent acid induction of ompC .
+This conclusion was based on finding that a mutant form of OmpR , which is active even though it can not be phosphorylated , was able to suppress the acid - sensitive phenotype of an ack pta mutant lacking acetyl phosphate .
+The data also revealed that acid shock increases the level of ompR message and protein in stationary - phase cells .
+Thus , it appears that acid shock induces the production of OmpR , which in its phosphorylated state can trigger expression of genes needed for acid - induced stationary - phase acid tolerance .
+Korea University , Seoul 136 - 701 , Korea .
+Bacteria in nature are often exposed to dramatic fluctuations in external pH that threaten viability .
+Survival , therefore , depends on the presence of adaptive mechanisms that sense an acidifying environment and coordinate an appropriate molecular response ( 15 , 17 ) .
+Salmonella enterica serovar Typhimurium employs several strategies to avoid or repair damage associated with acid stress .
+Two major low - pH - inducible systems , known as acid tolerance responses ( ATR ) , have been identified .
+They are classified based on the growth phase at which each becomes induced .
+Most studies have focused on the log - phase ATR system induced when exponentially growing cells suddenly undergo a rapid transition to low pH ( 16 ) .
+Over 50 acid shock proteins ( ASPs ) are produced during this response ( 14 ) .
+The regulatory genes rpoS , encoding an alternative sigma factor , and fur , encoding the major iron regulator , are required for log - phase acid tolerance and control the production of subsets of the ASPs ( 15 , 17 , 19 , 33 ) .
+The second ATR system , referred to as the stationary - phase ATR , is induced by exposing stationary - phase cells to low pH ( 34 ) .
+It is distinct from the general stress response system that is induced by entry into stationary - phase regardless of the culture pH. The general stress response system requires stationary - phase induction of the alternative sigma factor S , while the acid - induced stationary - phase ATR does not .
+The Fur protein , also required for log - phase ATR , is not involved in the stationary - phase ATR , indicating that the two acidinducible acid tolerance systems are functionally distinct .
+Consistent with this idea , 10 stationary - phase ASPs have been found that are not log - phase ASPs ( 34 ) .
+However , the identities of these proteins and their genetic regulation have not been characterized .
+In this study , we present the first report of an acid - induced gene required for the stationary - phase ATR of serovar Typhimurium .
+MATERIALS AND METHODS Bacterial strains and media .
+The bacterial strains used are listed in Table 1 .
+Bacteria were grown in Luria - Bertani ( LB ) broth or minimal E medium containing 0.4 % glucose ( EG medium ) ( 55 ) .
+Buffered LB broth contained 100 mM MOPS ( morpholine propanesulfonic acid ) buffer for pH 8 medium or MES ( morpholineethanesulfonic acid ) for pH 5 medium .
+The pHs of minimal E media used for moderate - acid ( pH 4.3 ) and extreme - acid ( pH 3.0 ) exposures was adjusted with HCl .
+Antibiotics were used at the concentrations of 30 g/ml for ampicillin , 20 g/ml for kanamycin , and 20 ( rich - medium ) and 10 ( minimal medium ) g/ml for tetracycline .
+General transduction was performed with P22 HT105 / int , and nonlysogenic segregants were identified by sensitivity to P22 H5 ( 37 ) .
+The MudJ insertion library in UK1 cells ( SF530 ) was generated by the technique of transitory cis complementation outlined by Hughes and Roth ( 25 ) .
+Assay of acid - inducible stationary - phase - and log - phase - specific ATR .
+Acidinduced stationary - phase ATR was measured as previously reported with the following modifications ( 34 ) .
+Cells were grown overnight in 3 ml of minimal E medium ( pH 8.0 ; 37 °C ; shaking ) .
+A 500 - l sample of each strain to be tested was harvested by centrifugation , washed in an equal volume of pH 3.0 ( EG ) broth ( for unadapted culture ) or pH 4.3 EG broth ( for adapted culture ) , and reharvested , and the pellets were resuspended to 2 10 8 cells/ml in EG broth ( 3 ml ) at the same pH. Viable counts were made to confirm the cell density of each resuspended culture by plating dilutions onto LB agar .
+Adapted cultures were incubated for 2 h and then washed and resuspended in pH 3.0 EG broth for challenge .
+Aliquots were collected at timed intervals , and viable counts were measured by serial dilution and plating on LB agar .
+The results are representative of triplicate experiments with variability observed within 50 % of the reported value .
+Log - phase ATR assays were conducted using strains grown overnight at 37 °C in EG broth containing the appropriate antibiotic .
+A 1/100 dilution of the overnight broth was inoculated into 3 ml of EG broth , pH 7.7 , and incubated at 37 °C with shaking .
+The cells were grown to an optical density at 600 nm of 0.40 ( 2 10 8 CFU/ml ) , at which point cultures to be adapted were adjusted with HCl to pH 4.4 and incubated for 60 min .
+Acid challenge of unadapted and adapted cultures involved readjusting the pH to 3.1 ( HCl ) for the indicated time .
+CFUs were calculated following dilution and plating of the cultures on LB agar .
+Percent 2245 2246 BANG ET AL. .
+survival was calculated by dividing the CFUs at time points post - acid challenge by the CFUs prior to acid challenge and multiplying by 100 .
+Cloning of ompR - MudJ junctions .
+The left ends of MudJ junctions were cloned from chromosomal digests of the acid - sensitive mutants JF2757 and YK3092 by first identifying the sizes of SalI restriction fragments containing the kanamycin resistance gene via Southern blot hybridization with a kanamycin gene probe .
+The appropriate - size fragments were excised and extracted from an agarose gel and ligated to SalI - digested pBluescript SK ( ) vector ( Stratagene , La Jolla , Calif. ) .
+The ligated mixtures were transformed ( CaCl 2 method ) into XL1 - Blue ( EK112 ) , selecting for ampicillin resistance .
+Sequencing of the junction sites was VOL .
+182 , 2000 OmpR REGULATES STATIONARY - PHASE ATR 2247 performed using an oligonucleotide on the left end of Mu ( Oligo 47 , 5 CCAA TGTCCTCCCGGTTTTT ) .
+OmpR protein levels were determined through Western blot analysis as previously described by Lee et al. ( 33 ) .
+Cells were grown at 37 °C for 18 h in 3 ml of EG ( pH 8.0 ) medium ( 12 - by 100 - mm test tube with shaking ) , washed once , and resuspended to 2 10 8 cells/ml in pH 4.4 EG medium for acid shock adaptation .
+Samples were removed at timed intervals , harvested , and resuspended in 0.01 % sodium dodecyl sulfate ( SDS ) solution .
+After the total protein in each sample was quantified ( Bio - Rad [ Hercules , Calif. ] protein assay ) , an equal amount ( 5 g ) of total protein from each sample was mixed with 2 SDS - polyacrylamide gel electrophoresis loading buffer ( 125 mM Tris [ pH 7.0 ] , 20 % glycerol , 10 % - mercaptoethanol , 6 % SDS , 0.2 % bromophenol blue ) , boiled for 5 min , and then electrophoresed through an SDS -- 10 % polyacrylamide gel .
+The proteins were transferred to polyvinylidene difluoride membranes ( Millipore Co. , Bedford , Mass. ) using 3 - [ cyclohexylamino ] -1 - propanesulfonic acid transfer buffer ( pH 11.0 ) and a semidry transfer unit ( Hoeffer Scientific Instruments ) for 1hat100V .
+Nonspecific protein interactions were blocked with 5 % powdered milk in TBST buffer ( 150 mM NaCl , 10 mM Tris - HCl [ pH 8.0 ] , 0.05 % [ vol/vol ] Tween 20 ) for 2 h at room temperature .
+The membrane was probed with a 1:5,000 dilution of polyclonal antiserum against OmpR ( courtesy of C. Park [ 27 ] ) in TBST buffer for 1hatroom temperature .
+The blots were washed several times in TBST buffer and then incubated with a 1:2,000 dilution of secondary anti - rabbit immunoglobulin G - peroxidase conjugate ( Sigma Co. ) in TBST buffer for 1 h .
+The proteins were visualized by using a chemiluminescence kit ( ECL Western blotting detection reagent ; Amersham - Pharmacia Biotech , UK Ltd. , Piscataway , N.J. ) following the manufacturer 's specified protocol .
+Following autoradiography , densitometry was used to analyze relative levels of OmpR protein and message using Scion Image software ( Scion Co. , Frederick , Md. ) .
+Cells were grown at 37 °C for 18 h in 3 ml of pH 8.0 EG medium , washed once , and resuspended to 2 10 8 / ml in pH 4.4 EG medium ( for acid - adapted cells ) or pH 8.0 EG medium ( for unadapted cells ) .
+Cell aliquots were removed at various time intervals and immediately frozen until cell lysis .
+Total RNA was extracted by the method of Laoide and Ullman ( 32 ) with modifications ( 29 ) .
+Cultured cells ( 20 ml ) were collected and resuspended in a solution of 5 ml of 20 mM sodium acetate ( pH 5.5 ) , 1 mM ethylenediaminetetraacetic acid , and 0.5 % SDS .
+Then , 5 ml of acidic phenol saturated with 20 mM Na acetate preheated to 65 °C was added to the reaction solution and equilibrated at 65 °C for 5 min .
+The aqueous phase was reextracted with acidic phenol until no visible residue was apparent at the interface .
+The RNA was precipitated by adding KCl to 0.1 M final concentration and adding 3 volumes of ethanol .
+RNA was collected by centrifugation after overnight incubation at 20 °C and resuspended in 100 l of RNase - free water .
+RNA samples were separated by electrophoresis in a denaturing formaldehyde - agarose gel and transferred to nylon membrane ( Amersham - Pharmacia ) .
+The membranes were probed with a PCR product of ompR ( 5 - CAATCGCCTCATGCTTTAGA for the forward primer and 5 - TTGCGAACCTTTGGGAGTA for the reverse primer ) labeled with [ - 32 P ] dCTP ( Amersham ) using a random - primed - DNA labeling kit ( Boehringer - Mannheim Co. ) and a 23S ribosomal DNA probe ( 5 - GGTGTCGACT ATGAACCTGCTTCCCATCGACTAC ) end labeled with [ - 32 P ] dATP .
+RESULTS Isolation of mutants defective in stationary - phase ATR .
+The method used to isolate stationary - phase ATR mutants involved a brute force screening of a 10,000 - member MudJ insertion library constructed in UK1 cells .
+Microtiter wells containing LB broth ( pH 5.0 ) were inoculated with individual insertion mutants .
+Overnight culture in this medium produces adapted , acid - tolerant cells .
+Samples from each well were transferred with a multipronged replicator to pH 2.5 EG broth for acid challenge .
+The survivors were rescued from acid challenge by replicating them to pH 7 LB plates at 1 , 2 , and 4 h postchallenge .
+Mutants that failed to survive compared to controls were taken from the original stock microtiter plate and retested .
+Although several mutants isolated by this screening procedure showed modest decreases in stationary - phase acid tolerance ( 5 - to 10 - fold lower than that of wild - type cells [ data not shown ] ) , two atr SP mutants , JF2757 and YK3092 , proved to be very acid sensitive ( Fig. 1A ) .
+Adapted cultures of these mutants exhibited approximately 500 - to 1,000 - fold less survival than UK1 cells after4hatpH3.Figure 1A also illustrates that the acid - inducible stationary - phase ATR does not require RpoS ( Fig. 1A , UK1 versus JF2690 ) .
+The rpoS mutant JF2690 did exhibit a decrease in unadapted acid tolerance ( Fig. 1A ) , as would be expected from the role of RpoS in stationary - phase general stress resistance ( 0.0002 % for the rpoS mutant JF2690 versus 0.25 % for UK1 after 4 h at pH 3 ) .
+However , the rpoS mutant was still able to adapt ( Fig. 1A , JF2690 ) to normal levels in response to acid shock ( 10 to 20 % survival after 4hat pH 3 ) .
+The results indicate that RpoS is required for the basal levels of acid tolerance provided by entry into stationary - phase but is not required for subsequent acid - induced tolerance of low pH. In contrast to the situation with stationary - phase cells , the atr SP mutants possessed a normal log - phase ATR ( Fig. 1B , JF2757 ) ( unadapted , 0.08 % ; adapted , 70 % ) while the rpoS mutant was acid sensitive , as previously described ( 30 ) ( Fig. 1B , JF2690 ) .
+Identification of ompR as an atr SP gene .
+The gene affected in the atr SP mutants was identified by cloning the MudJ junctions from chromosomal digests as described in Materials and Methods .
+DNA sequence analysis of these clones showed that both mutants contained a MudJ insertion in the ompR structural gene .
+JF2757 and YK3092 insertions occurred 43 and 132 bp , respectively , after the first base of the ompR open reading frame .
+The ompR gene is the response regulator of a twocomponent system known to regulate the osmotically controlled genes ompC and ompF , which encode two major outer membrane proteins ( 11 , 51 ) .
+However , neither of these known OmpR - regulated genes , either singly ( data not shown ) or in combination ( Fig. 1A , JF4352 versus UK1 ) , had any effect on stationary - phase ATR , indicating that OmpR - dependent genes other than ompC or ompF are involved in stationaryphase acid tolerance ( Fig. 1A ) .
+Figure 2 shows that plasmids expressing ompR ( pLAN701 and pLAN801 ) complemented the acid - sensitive phenotype of the ompR : : MudJ insertions , confirming a role for OmpR in acid - inducible stationary - phase acid tolerance .
+Plasmids pUC19 and pACYC177 , backbone vectors for the pLAN plasmids , did not complement the ompR mutation ( data not shown ) .
+It should be noted that the low survival levels of the stationary - phase ompR rpoS double mutant ( Fig. 1A , JF3063 versus UK1 ) reflect the simultaneous losses of basal acid tolerance afforded by the RpoS system and the acid - induced acid tolerance requiring OmpR .
+Although this strain exhibited a severely diminished stationary - phase ATR , the mutations did not completely eliminate acid - inducible stationary - phase acid tolerance ( Fig. 1A , JF3063 ) .
+A small yet reproducible acid - inducible stationary - phase ATR was still evident .
+This result indicates the presence of an OmpR - independent , acid - inducible acid tolerance system that functions in stationary - phase .
+OmpR is an acid shock - inducible protein .
+Since the stationary - phase ATR requires de novo protein synthesis , we questioned whether ompR might itself be an acid shock protein .
+Western blot results presented in Fig. 3A revealed that OmpR production increased approximately fourfold within 30 min in stationary - phase cells after acid shock at pH 4.4 .
+No increase was observed over the same time period when cells were resuspended in pH 8 EG broth ( data not shown ) .
+The protein shown in the figure proved to be OmpR , since it was not detected in ompR mutant extracts probed with anti - OmpR antibody .
+Thus , OmpR is a stationary - phase ASP .
+However , RpoS , responsible for the stationary - phase induction of many proteins , was not required for this induction ( data not shown ) .
+Northern blot analysis indicated that the amount of ompR message increased dramatically in response to acid shock ( Fig. 3B , lanes 1 through 5 ) .
+This message was not detected in an ompR mutant ( Fig. 3B , lane 6 ) .
+Following acid shock , levels of OmpR message in UK1 cells began to increase within 15 min and reached a maximum by 30 min .
+In contrast , placing stationary - phase cells at pH 8 did not induce an accumulation of OmpR message ( Fig. 3B , lane 7 ) .
+Whether the acid shock - 2248 BANG ET AL. .
+Mutations in ompR result in defective stationary - phase acid tolerance .
+( A ) Cells were grown in minimal EG medium overnight .
+Unadapted cells ( ) were immediately washed and resuspended in fresh pH 3 EG medium to 2 10 8 CFU/ml .
+Adapted cells ( ) were washed and resuspended in pH 4.4 EG medium for adaptation ( 2 h ) , after which the cells were washed and resuspended in pH 3 EG medium for challenge .
+Viable counts were taken at 2 ( t2 ) and 4 ( t4 ) h after challenge .
+Cell density at t 0 was approximately 2 10 8 CFU/ml .
+( B ) Cells were grown to log phase ( 2 10 8 CFU/ml ) in pH 7.7 EG medium .
+Unadapted cell cultures were immediately adjusted to pH 3.1 .
+Adapted cultures were adjusted to pH 4.4 for 60 min and then readjusted to pH 3.1 .
+The data represent the means of triplicate experiments with variations ranging less than 50 % of the stated percent survival value .
+Viable counts were taken at 1 ( t1 ) and 2 ( t2 ) h after challenge .
+induced increase in OmpR message was the result of increased transcription or decreased message turnover is not known .
+Although neither envZ , the gene downstream of ompR encoding the sensor kinase of the OmpR - EnvZ two - component system , nor acetyl phosphate , known to phosphorylate OmpR in the absence of EnvZ , is known to be involved with the transcription of ompR , both were checked to determine if they might be involved in the acid shock increases in OmpR .
+Mutants lacking EnvZ or acetyl phosphate ( ack pta ) exhibited normal acid shock induction of OmpR ( data not shown ) .
+The effect of EnvZ and acetyl phosphate synthesis on acidinduced stationary - phase acid tolerance .
+OmpR is a wellknown and extensively studied transcriptional activator that is part of a bacterial two - component regulatory system ( 10 ) .
+Considered to be active only in its phosphorylated form ( OmpR - P ) , OmpR is phosphorylated at residue Asp - 55 by its cognate histidine kinase , EnvZ ( 1 , 8 ) , or by other cellular phosphate donors , such as acetyl phosphate ( 40 ) .
+Therefore , it is reasonable to predict that increased levels of OmpR might require activation by phosphorylation to regulate other atr SP genes .
+182 , 2000 OmpR REGULATES STATIONARY - PHASE ATR 2249 FIG. 2 .
+Effects of envZ and acetyl phosphate ( ack - pta ) mutations and cloned ompR on stationary - phase ATR .
+Stationary - phase ATR was measured as described in the legend to Fig. 1A .
+pLAN701 , ompR in pACYC177 ( medium copy number ) ; pLAN801 , ompR in pUC19 ( high copy number ) ; pAC2005 , envZ EC .
+pAC2005 was able to complement a chromosomal envZ mutation and regulate serovar Typhimurium ompC - lacZ expression .
+Viable counts were taken at 2 ( t2 ) and 4 ( t4 ) h after challenge .
+explore this hypothesis , we tested the stationary - phase acid tolerance of an envZ mutant lacking the cognate histidine kinase and of an ack - pta double mutant that does not synthesize acetyl phosphate .
+The envZ mutant ( Fig. 2 , JF4240 ) , which FIG. 3 .
+Acid induction of ompR .
+( A ) Western blot analysis .
+Cells ( UK1 ) were grown for 18 h in EG minimal - medium , washed , and resuspended to 2 10 8 in pH 4.4 EG medium .
+The cells were harvested at the times indicated and processed for Western blot analysis using anti - OmpR antibody as described in Materials and Methods ; 5 g of protein was added per lane .
+( B ) Northern blot analysis .
+Cells ( UK1 , ompR [ lanes 1 to 5 and 7 ] ; JF2757 , ompR : : MudJ [ lane 6 ] ) were grown and acid shocked as for panel A .
+As a control , stationary - phase UK1 cells were processed as for acid shock but instead of pH 4.4 , they were placed in a pH 8 medium ( lane 7 ) .
+At the times indicated , the samples were harvested and processed for Northern blot analysis as described in Materials and Methods ; 5 g of RNA was added per lane .
+23S rRNA hybridization was used as a control .
+still expresses OmpR , showed a very slight decrease in acid tolerance ( 10 - fold ) relative to UK1 , suggesting that EnvZ does not play a major role in signaling activation of the OmpRdependent , acid - inducible , stationary - phase acid tolerance system ( stationary - phase ATR ) .
+This also confirmed that the acidsensitive phenotype of the ompR insertion mutation was not due to a polar effect on envZ expression .
+Consistent with this conclusion was the finding that EnvZ expressed from a plasmid did not affect acid tolerance in ompR mutant or wild - type backgrounds ( Fig. 2 , JF4479 versus UK1 ) .
+In contrast to envZ , the ack pta double mutant , which expresses envZ normally , proved to be acid sensitive to the same degree as an ompR mutant ( Fig. 2 , JF4414 versus JF2757 ) .
+However , a mutant lacking OmpR and acetyl phosphate was not any more acid sensitive than mutant lacking OmpR or acetyl phosphate alone ( data not shown ) .
+This is consistent with acetyl phosphate acting through OmpR , although these results do not exclude the possibility that acetyl phosphate also affects the ATR independently of OmpR ( see below ) .
+We also examined the acid tolerance of an ack pta envZ mutant and found it was no more acid sensitive than the ack pta mutant ( data not shown ) .
+Thus , EnvZ does not play an obvious role in controlling the OmpR - dependent , acid - induced stationaryphase ATR .
+To address whether acetyl phosphate acts via OmpR , we tested two mutant forms of E. coli OmpR in which aspartate residue 55 , the phosphorylation target site , had been changed via site - directed mutagenesis to residues that can not be phosphorylated ( 31 ) .
+When placed in an ompR ack pta mutant , a plasmid carrying wild - type ompR did not rescue the acidsensitive phenotype ( Fig. 4 , JF4419 versus JF2757 ) .
+However , when the normally acid - sensitive ompR ack pta cells contained a plasmid expressing ompR D55E , they adapted well to acid stress ( Fig. 4 , JF4420 versus JF2757 ) .
+While this mutant form of OmpR can not be phosphorylated at residue 55 , it has been 2250 BANG ET AL. .
+Phosphorylation - independent ompR D55E compensates for the loss of acetyl phosphate in stationary - phase ATR .
+Stationary - phase ATR was measured as described in the legend to Fig. 1A .
+reported to be an active form of OmpR that does not require phosphorylation ( 31 ) .
+Another mutant form of ompR , ompR D55Q , did not act to restore acid tolerance to an ack pta mutant ( data not shown ) .
+The results suggest that the effect of acetyl phosphate on acid tolerance involves OmpR and probably does not occur by a mechanism independent of OmpR .
+The data support a model in which acetyl phosphate is a phosphodonor for OmpR under acid shock conditions and the hypothesis that phosphorylated OmpR is required for an optimal , acid - inducible , stationary - phase ATR .
+Acetyl phosphate is required for acid induction of ompC .
+Expression of the outer membrane porin gene ompC is OmpR dependent and is induced by low pH in serovar Typhimurium .
+We used ompC - lacZ as a reporter for OmpR activity to confirm a role for acetyl phosphate as a potential phosphodonor under acid conditions .
+JF4289 grown to log phase in minimal glucose at pH - 5.8 induced three times as much ompC - lacZ as at pH 7.7 ( Fig. 5 ) .
+An envZ mutation lowered overall expression , but ompC was now induced 15 - fold by growth at low pH. This result indicates that while EnvZ contributes to ompC expression , the acid induction of ompC was EnvZ independent , suggesting the presence of an alternative phosphodonor .
+Acetyl phosphate appears to fill this role , since a mutant lacking both EnvZ and acetyl phosphate failed to express ompC under either acid or alkaline conditions .
+However , an ack pta mutant lacking acetyl phosphate but possessing EnvZ managed normal log - phase acid induction of ompC at pH - 5.8 .
+So , while acetyl phosphate proved to be essential for the pH 4.4 - induced stationary - phase ATR , it was not needed for acid induction of ompC - lacZ in log - phase cells .
+Nevertheless , the data using exponential - phase cells grown at pH - 5.8 support a model in which acetyl phosphate will serve as an OmpR phosphodonor under acidic conditions .
+It is not clear why the EnvZ present in the acetyl phosphate mutant enabled acid induction of ompClacZ in log - phase cells grown at pH - 5.8 but participated little in pH 4.4 acid - induced stationary - phase acid tolerance .
+It may be that EnvZ will not function in stationary - phase cells at the internal pH ( ca. 6.5 ) generated after a pH 4.4 acid shock .
+In this situation , acetyl phosphate may be the primary phosphodonor .
+DISCUSSION Inducible acid tolerance in serovar Typhimurium is a complex phenomenon involving log - phase and stationary - phase FIG. 5 .
+Effect of envZ and acetyl phosphate on acid induction of ompC - lacZ in exponential - phase cells .
+The cells were grown to approximately 10 8 per ml at 37 °C in EG medium ( pH 7.7 or 5.8 as indicated ) .
+- Galactosidase activity was assayed according to the method of Miller ( 41 ) .
+The values are representative of triplicate experiments .
+182 , 2000 OmpR REGULATES STATIONARY - PHASE ATR 2251 systems .
+Both growth phase - dependent acid tolerance systems are induced by acid shock regimens in which cells grown at pH 7.7 or 8.0 are subjected to rapid or gradual acidic transitions to pH 4.5 .
+Once induced , the ATR systems will protect cells for extended periods of time against pH 3 stress .
+Fifty log - phase ASPs have been noted on two - dimensional gels ( 13 , 14 ) , subsets of which are controlled by RpoS , PhoP , or Fur ( 2 , 19 , 33 ) .
+Acid - inducible log - phase and stationary - phase ATR are separate systems based on the fact that mutations having a dramatic effect on log - phase acid tolerance , namely , rpoS and fur , have little effect on stationary - phase acid - inducible acid tolerance .
+In addition , 10 unique stationary - phase ASPs have been identified ( 34 ) .
+Prior to this report , no gene participating in the stationary - phase ATR had been identified .
+Our results indicate that ompR and genes associated with the synthesis of acetyl phosphate are important for effective acid induction of a stationary - phase ATR .
+The EnvZ - OmpR regulatory system is a paradigm of intracellular signal transduction involving two common families of signaling components , sensor histidine kinases and response regulators , that communicate by phosphotransfer mechanisms ( 12 , 42 ) .
+EnvZ , a transmembrane protein , is thought to sense various environmental signals , such as high - osmolarity .
+Upon sensing a signal , EnvZ phosphorylates itself at histidine residue 243 ( 28 , 48 ) and then transfers the phosphate to aspartate 55 of OmpR ( 8 ) .
+How EnvZ senses environmental change is unclear , since the periplasmic portion of the protein is apparently not required ( 35 ) .
+EnvZ also possesses a phosphatase that will remove phosphate from OmpR - P ( 22 , 26 , 27 ) .
+The conventional model for OmpR regulation holds that the degree of phosphorylation of OmpR governs the expression of ompC and ompF ( 1 ) .
+Phosphorylation induces a conformational change in OmpR ( 29 ) , but how this change influences OmpR control of ompC and ompF is not clearly understood ( 20 ) .
+Conformational reshaping of OmpR may increase DNA binding affinity to the ompC and ompF promoters and enable interaction of OmpR with the subunit of RNA polymerase , thereby activating transcription ( 29 ) .
+A variety of studies indicate that alternative phosphodonors are capable of phosphorylating OmpR in the absence of EnvZ ( 23 , 39 , 44 , 45 ) .
+One proven alternative phosphodonor is acetyl phosphate , although a primary role for this compound in the in vivo phosphorylation of OmpR has only been suggested for flhDC ( 40 , 50 ) .
+We have now demonstrated that the regulatory protein OmpR plays an integral role in controlling acid induction of the stationary - phase ATR .
+Acid shock leads to a significant increase in ompR message and OmpR protein .
+The data suggest that OmpR - P , formed from acetyl phosphate as the phosphodonor , is the form required to induce acid tolerance .
+EnvZ does not play a primary role in OmpR - dependent induction of acid tolerance .
+These conclusions are based on several findings .
+First , the envZ mutant exhibited a normal acid - inducible acid tolerance .
+Second , although the acid - sensitive ompR : : MudJ mutant was deficient in both OmpR and EnvZ , plasmids containing only ompR were able to complement the acid - sensitive phenotype .
+Third , in contrast to other systems in which acetyl phosphate plays a role in OmpR phosphorylation only in the absence of EnvZ , the ack pta mutant proved to be acid sensitive even in the presence of EnvZ ( although it might have been an inactive EnvZ due to low internal pH following acid shock ) .
+Finally , a constitutively active OmpR ( OmpR D55E ) complemented the acid - sensitive phenotype of an ack pta mutant while a wild - type OmpR would not , suggesting that acetyl phosphate acts through OmpR .
+Although the molecular details of EnvZ - OmpR signaling have been extensively examined , it has proven difficult to identify a clear physiological consequence associated with the loss of OmpR .
+The EnvZ - OmpR system , in response to various environmental stresses , appears to influence nutrient availability by changing the ratio of two porins ( OmpC and OmpF ) that produce pores of different sizes .
+Studies have also connected OmpR with flagellar expression ( 50 ) , cell division ( 47 ) , fatty acid transport ( 21 ) , microcin synthesis ( 38 ) , curli fibers ( 49 ) , and Salmonella virulence ( 3 , 6 , 9 , 36 ) .
+One mechanism by which OmpR may affect virulence is through its involvement in controlling cytotoxicity toward infected macrophages ( 36 ) .
+We can now add a role for OmpR in acid tolerance , although precisely what genes are regulated and how they provide acid tolerance is unknown .
+Several genes with very different functions ( ompC , ompF , flhDC , fadL , tppB , csgD , and the plasmidencoded mcb ) are known to be regulated by OmpR , confirming that OmpR has an effect on cell physiology beyond its role in governing porin expression ( 18 , 21 , 38 , 49 , 50 ) .
+To our knowledge , this is only the second report that ompR itself is regulated by environmental stress and the first indicating control by acid - pH ( 30 ) .
+Several questions regarding this control remain unanswered .
+How does acid shock induce ompR ?
+InEscherichia coli , CRP and cyclic AMP ( cAMP ) have been shown to affect transcription of ompR from four potential start sites ( 24 ) .
+Two of the transcripts are negatively regulated by CRP - cAMP , while the other two are positively regulated by this complex .
+In addition , integration host factor ( IHF ) has been shown to bind to the promoter region and inhibit transcription ( 53 ) .
+Whether acid shock alters cAMP levels or influences IHF interaction with the ompR promoter is unknown .
+However , other acid - pH - controlled genes are known to be CRP dependent ( 46 ) .
+As an alternative , it is also possible that ompR message increases in response to acid shock because of decreased RNA turnover .
+These various models are currently being tested .
+Another question centers on whether acid - pH might influence phosphorylation of OmpR or whether phosphorylation occurs at a steady rate .
+If the phosphorylation level of OmpR is influenced by pH , does the ratio of OmpR to OmpR - P change because acid increases phosphorylation or decreases dephosphorylation ?
+If the effect of acid is to alter dephosphorylation , it is unlikely that the dephosphorylase activity of EnvZ is involved , since envZ mutants adapted normally .
+Finally , it will be important to determine what OmpR - dependent genes are involved in acid tolerance .
+The results presented here have refined our knowledge of the intricate regulatory networks associated with inducible acid tolerance and revealed additional physiological relevance for the response regulator OmpR in serovar Typhimurium .
+The work presented here was supported by grants from the United States Public Health Service ( GM48017 ) to J.W.F. and from the Korean Science and Engineering Foundation ( 961 - 0507 - 062 - 2 and 981 - 0507 - 037 - 2 ) to Y.K.P. .
+We thank M. Koh and C. Park for their kind gifts of antibody .
+We are also grateful to M. Igo and T. Mizuno for providing several key plasmids used in this study .
+J.W.F. and Y.K.P. contributed equally to this work .
+Aiba , H. , F. Nakasai , S. Mizushima , and T. Mizuno .
+Phosphorylation of a bacterial activator protein , OmpR , by a protein kinase , EnvZ , results in stimulation of its DNA - binding ability .
+Bearson , B. L. , L. Wilson , and J. W. Foster .
+A low pH - inducible , PhoPQ - dependent acid tolerance response protects Salmonella typhimurium against inorganic acid stress .
+Bernardini , M. L. , A. Fontaine , and P. J. Sansonetti .
+The two - component regulatory system ompR - envZ controls the virulence of Shigella flexneri .
+Brown , L. , and T. Elliott .
+Efficient translation of the RpoS sigma factor in Salmonella typhimurium requires host factor I , an RNA - binding protein encoded by the hfq gene .
+Bullas , L. R. , and J. - I .
+Salmonella typhimurium LT2 strains which are r m for all three chromosomally located systems of DNA restriction and modification .
+Chatfield , S. N. , C. J. Dorman , C. Hayward , and G. Dougan .
+Role of ompR - dependent genes in Salmonella typhimurium virulence : mutants deficient in both OmpC and OmpF are attenuated in - vivo .
+Curtiss , R. , III , S. B. Porter , M. Munson , S. A. Tinge , J. O. Hassan , C. Gentry - Weeks , and S. M. Kelly .
+Nonrecombinant and recombinant avirulent Salmonella vaccines for poultry , p. 169 -- 198 .
+In L. C. Blankenship , J. H. S. Bailey , N. A. Cox , N. J. Stern , and R. J. Meinersmann ( ed .
+) , Colonization control of human bacterial enteropathogens in poultry .
+Academic Press , New York , N.Y. 8 .
+Delgado , J. , S. Forst , S. Harlocker , and M. Inouye .
+Identification of a phosphorylation site and functional analysis of conserved aspartic acid residues of OmpR , a transcriptional activator for ompF and ompC in Escherichia coli .
+Dorman , C. J. , S. Chatfield , C. F. Higgens , C. Hayward , and G. Dougan .
+Characterization of porin and ompR mutants of a virulent strain of Salmonella typhimurium : ompR mutants are attenuated in - vivo .
+Egger , L. A. , H. Park , and M. Inouye .
+Signal transduction via the histidyl - aspartyl phosphorelay .
+Forst , S. , J. Delgado , A. Rampersaud , and M. Inouye .
+In vivo phosphorylation of OmpR , the transcription activator of the ompF and ompC genes in Escherichia coli .
+Forst , S. A. , and D. L. Roberts .
+Signal transduction by the EnvZ - OmpR phosphotransfer system in bacteria .
+The acid tolerance response of Salmonella typhimurium involves transient synthesis of key acid shock proteins .
+Salmonella acid shock proteins are required for the adaptive acid tolerance response .
+When protons attack ; microbial strategies of acid adaptation .
+Foster , J. W. , and H. K. Hall .
+Adaptive acidification tolerance response of Salmonella typhimurium .
+Foster , J. W. , and M. Moreno .
+Inducible acid tolerance mechanisms in enteric bacteria , p. 55 -- 70 .
+In D. Chadwick and G. Cardew ( ed .
+) , Bacterial response to pH. John Wiley & Sons , Ltd. , Chichester , England .
+Gibson , M. M. , E. M. Ellis , K. A. Graeme - Cook , and C. F. Higgins .
+OmpR and EnvZ are pleiotropic regulatory proteins : positive regulation of the tripeptide permease ( tppB ) ofSalmonella typhimurium .
+Hall , H. K. , and J. W. Foster .
+The role of Fur in the acid tolerance response of Salmonella typhimurium is physiologically and genetically separable from its role in iron acquisition .
+Head , C. G. , A. Tardy , and L. J. Kenney .
+Relative binding affinities of OmpR and OmpR - phosphate at the ompF and ompC regulatory sites .
+Higashitani , A. , Y. Nishimura , H. Hara , H. Aiba , T. Mizuno , and K. Horiuchi .
+Osmoregulation of the fatty acid receptor gene fadL in Escherichia coli .
+Hsing , W. , F. D. Russo , K. K. Bernd , and T. J. Silhavy .
+Mutations that alter the kinase and phosphatase activities of the two - component sensor EnvZ .
+Hsing , W. , and T. J. Silhavy .
+Function of conserved histidine - 243 in phosphatase activity of EnvZ , the sensor for porin osmoregulation in Escherichia coli .
+Huang , L. , P. Tsui , and M. Freundlich .
+Positive and negative control of ompB transcription in Escherichia coli by cyclic AMP and the cyclic AMP receptor protein .
+Hughes , K. , and J. Roth .
+Transitory cis - complementation : a general method for providing transposase to defective transposons .
+Igo , M. M. , A. J. Ninfa , and T. J. Silhavy .
+A bacterial environmental sensor that functions as a protein kinase and stimulates transcriptional activation .
+Igo , M. M. , A. J. Ninfa , J. B. Stock , and T. J. Silhavy .
+Phosphorylation and dephosphorylation of a bacterial transcriptional activator by a transmembrane receptor .
+Igo , M. M. , and T. J. Silhavy .
+EnvZ , a transmembrane environmental sensor of E. coli K - 12 is phosphorylated in - vitro .
+Kenney , L. J. , M. D. Bauer , and T. J. Silhavy .
+Phosphorylation - dependent conformational changes in OmpR , an osmoregulatory DNA - binding protein of Escherichia coli .
+Ko , M. , and C. Park .
+CheY - OmpR hybrid protein acting on the osmoregulatory system .
+Lan , C. Y. , and M. M. Igo .
+Differential expression of the OmpF and OmpC porin proteins in Escherichia coli K - 12 depends upon the level of active OmpR .
+Laoide , B. M. , and A. Ullmann .
+Virulence dependent and independent regulation of the Bordetella pertussis cya operon .
+Lee , I. S. , J. Lin , H. K. Hall , B. Bearson , and J. W. Foster .
+The stationary - phase sigma factor S ( RpoS ) is required for a sustained acid tolerance response in virulent Salmonella typhimurium .
+Lee , I. S. , J. L. Slonczewski , and J. W. Foster .
+A low - pH - inducible stationary - phase acid tolerance response in Salmonella typhimurium .
+Leonardo , M. R. , and S. Forst .
+Re - examination of the role of the periplasmic domain of EnvZ in sensing of osmolarity signals in Escherichia coli .
+Lindgren , S. W. , I. Stojiljkovic , and F. Heffron .
+Macrophage killing is an essential virulence mechanism of Salmonella typhimurium .
+Experimental techniques in bacterial genetics .
+Jones and Bartlett Publishers , Boston , Mass. 38 .
+Mao , W. , and D. A. Siegele .
+Genetic analysis of the stationary - phaseinduced mcb operon promoter in Escherichia coli .
+Matsubara , M. , and T. Mizuno .
+EnvZ - independent phosphotransfer signaling pathway of the OmpR - mediated osmoregulatory expression of OmpC and OmpF in Escherichia coli .
+McCleary , W. R. , and J. B. Stock .
+Acetyl phosphate and the activation of two - component response regulators .
+A short course in bacterial genetics .
+A laboratory manual and handbook for Escherichia coli and related bacteria .
+Cold Spring Harbor Laboratory Press , Cold Spring Harbor , N.Y. 42 .
+Mizuno , T. , and S. Mizushima .
+Signal transduction and gene regulation through the phosphorylation of two regulatory components : the molecular basis for the osmotic regulation of the porin genes .
+Morisato , D. , J. C. Way , H. J. Kim , and N. Kleckner .
+Tn10 transposase acts preferentially on nearby transposon ends in - vivo .
+Nagasawa , S. , K. Ishige , and T. Mizuno .
+Novel members of the twocomponent signal transduction genes in Escherichia coli .
+Nagasawa , S. , S. Tokishita , H. Aiba , and T. Mizuno .
+A novel sensorregulator protein that belongs to the homologous family of signal - transduction proteins involved in adaptive responses in Escherichia coli .
+Park , K. R. , J. C. Giard , J. H. Eom , S. Bearson , and J. W. Foster .
+Cyclic AMP receptor protein and TyrR are required for acid - pH and anaerobic induction of hyaB and aniC in Salmonella typhimurium .
+Acetyl phosphate and the phosphorylation of OmpR are involved in the regulation of the cell division rate in Escherichia coli .
+Roberts , D. L. , D. W. Bennett , and S. A. Forst .
+Identification of the site of phosphorylation on the osmosensor , EnvZ , of Escherichia coli .
+Romling , U. , Z. Bian , M. Hammar , W. D. Sierralta , and S. Normark .
+Curli fibers are highly conserved between Salmonella typhimurium and Escherichia coli with respect to operon structure and regulation .
+Shin , S. , and C. Park .
+Modulation of flagellar expression in Escherichia coli by acetyl phosphate and the osmoregulator OmpR .
+Slauch , J. M. , S. Garrett , D. E. Jackson , and T. J. Silhavy .
+EnvZ functions through OmpR to control porin gene expression in Escherichia coli .
+Tokishita , S. , and T. Mizuno .
+Transmembrane signal transduction by the Escherichia coli osmotic sensor , EnvZ : intermolecular complementation of transmembrane signalling .
+Tsui , P. , L. Huang , and M. Freundlich .
+Integration host factor binds specifically to multiple sites in the ompB promoter of Escherichia coli and inhibits transcription .
+Van Dyk , T. K. , and R. A. LaRossa .
+Involvement of ack - pta operon products in alpha - ketobutyrate metabolism by Salmonella typhimurium .
+Vogel , H. J. , and D. M. Bonner .
+Acetylornithase of Escherichia coli : partial purification and some properties .

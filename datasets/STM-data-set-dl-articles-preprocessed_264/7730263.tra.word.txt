@@ -1,0 +1,413 @@
+JOURNAL OF BACTERIOLOGY , May 1995 , p. 2343 -- 2353 Vol .
+177 , No. 9 0021 - 9193/95 / $ 04.00 0 Hydroxyl Radical Footprints and Half - Site Arrangements of Binding Sites for the CysB Transcriptional Activator of Salmonella typhimurium MONIKA M. HRYNIEWICZ † AND NICHOLAS M. KREDICH * Departments of Medicine and Biochemistry , Duke University Medical Center , Durham , North Carolina 27710 CysB is a transcriptional activator for the cysteine regulon and negatively autoregulates its own gene , cysB .
+Transcription activation also requires an inducer , N - acetyl - L-serine .
+CysB is known to bind to activation sites just upstream of the 35 regions of the positively regulated cysJIH , cysK , and cysP promoters and to a repressor site centered at about 1 inthecysB promoter .
+Additional accessory sites have been found in positively regulated promoters .
+The hydroxyl radical footprinting experiments reported here indicate that the activation sites CBS - J1 , CBS - K1 , and CBS - P1 in the cysJIH , cysK , and cysP promoters are composed of two convergently oriented 19 - bp half - sites separated by 1 or 2 bp .
+N - Acetyl - L-serine stimulates binding to these sites as well as to the accessory sites CBS - J2 and CBS - P2 , both of which share a similar topology with activation sites .
+A second topology is found in the accessory site CBS - K2 and the repressor site CBS - B , which contain divergently oriented 19 - bp half - sites separated by one or two helical turns .
+N - Acetyl - L-serine inhibits binding to these two sites .
+A third topology is present in the cysK and cysP promoters , where an additional half - site is oriented toward the activation site and separated from it by one helical turn .
+Here , CysB binds to all three half - sites , bending the DNA , and N - acetyl - L-serine decreases the extent of bending .
+The marked dissimilarities of these half - site arrangements and of their responses to N - acetyl - L-serine suggest that CysB , a homotetramer , binds to them with different combinations of subunits .
+† Permanent address : Institute of Biochemistry and Biophysics , Polish Academy of Sciences , Warsaw , Poland .
+Prokaryotic transcription activators of the LysR family constitute a large group that share a predicted helix - turn - helix DNA - binding motif within the first 60 amino - terminal - residues as well as other regions of homology ( 16 , 39 ) .
+Members of this family typically bind at and just upstream of the 35 regions of activated promoters and at the RNA polymerase - binding sites of their own genes , where they act as transcription repressors and negatively autoregulate their own expression .
+A number of LysR - type activators have been purified and studied in - vitro , and of those specifically examined , all have been reported to be either dimers ( 1 , 10 , 29 , 36 , 43 , 45 ) or tetramers ( 7 , 30 , 40 ) .
+By analogy with helix - turn - helix prokaryote transcription activators that have been characterized crystallographically ( 35 ) , one would predict LysR - type proteins to bind to DNA sites that themselves are composed of two half - sites , with an equivalence of one protein subunit per DNA half - site .
+Such interactions generally involve contiguous halfsites related by a symmetry dyad and a pair of protein subunits arranged in the same manner .
+The non - LysR - type transcription activator AraC is an interesting exception to this rule and has been shown to bind to half - sites arranged as either inverted or direct repeats , with a preference for the latter arrangement in the presence of an inducer ( 5 ) .
+Elements of dyad symmetry have been noted in the binding sites for a number of LysR - type proteins , including AmpR ( 26 ) , IlvY ( 49 ) , MetR ( 4 , 47 ) , NahR ( 19 ) , OccR ( 8 ) , and TrpI ( 6 ) , while plausible arrangements of both inverted and direct repeats have been noted for NodD ( 10 , 13 , 48 ) .
+In some cases , relationships between DNA - binding elements and protein subunit structure are obscured by ambiguities in the internal structures of binding sites ( 26 , 43 ) , the occurrence of multiple , contiguous binding sites ( 6 -- 8 , 17 , 31 , 49 ) , and a lack of data regarding binding stoichiometry .
+CysB is a LysR - type transcriptional activator that provides an excellent opportunity to determine relationships between subunit structure and DNA - binding determinants because it binds to a number of different DNA targets with known stoichiometry ( 17 , 18 , 31 , 34 ) .
+CysB regulates expression of the Salmonella typhimurium cysteine regulon , a group of 19 or more genes that function in the uptake and assimilatory reduction of oxidized forms of inorganic sulfur to sulfide , culminating in the incorporation of reduced sulfur into L - cysteine ( for reviews , see references 24 and 25 ) .
+A virtually identical system is found in Escherichia coli , and individual components are interchangeable between the two species .
+CysB positively regulates at least six different promoters within the cysteine regulon by activating transcription initiation in the presence of the inducer N - acetyl - L-serine ( 32 ) and negatively autoregulates its own expression from cysB ( 3 , 23 , 34 ) .
+In vitro studies of the cysJIH , cysK , cysP , and cysB promoters have identified several different types of CysB - binding sites , which can be categorized by function and by their responses to N - acetyl - L-serine ( Fig. 1 ) .
+DNase I footprints of these sites are all 40 bp or more in length .
+The activation sites CBS - J ( now designated CBS - J1 ) , CBS - K1 , and CBS - P1 are located just upstream of the 35 regions of the positively regulated cysJIH , cysK , and cysP promoters and are required for transcription activation ( 17 , 31 -- 33 ) .
+The repressor site CBS - B is part of the RNA polymerase - binding region of the cysB promoter and mediates negative autoregulation ( 34 ) .
+The accessory sites CBS - K2 , CBS - P2 , and CBS - P3 in the cysK and cysP promoters and CBS - J2 and CBS - J3 in the cysJIH promoter ( described in this report ) are of unknown function .
+N - Acetyl - L-serine stimulates binding to the three activation sites , as well as to CBS - P2 and CBS - J2 , and inhibits binding to CBS - K2 , CBS - P3 , CBS - B , 2343 2344 HRYNIEWICZ AND KREDICH J. BACTERIOL .
+CysB binding sites in the cysJIH , cysK , cysP , and cysB promoters .
+CBS - J1 , CBS - K1 , and CBS - P1 are activation sites and are required for transcription activation .
+CBS - B is a repressor site , which mediates negative autoregulation of cysB .
+The function of the other , accessory sites is unknown .
+CBS - J2 and CBS - J3 are described for the first time in the present report .
+N - Acetyl - L-serine stimulates binding to the sites shown in gray and inhibits binding to the others .
+CysB bends the cysK and cysP promoters at the positions marked with arrows ( 18 ) , and N - acetyl - L-serine decreases the extent of bending .
+In the cysK and cysP promoters , binding of a single CysB tetramer to both an activation site and a portion of an adjacent accessory site ( Fig. 1 ) induces a bend in the DNA , which is partially relieved by N - acetyl - L-serine ( 17 , 18 , 31 ) .
+Comparisons of S. typhimurium binding sites have shown some elements of identity but not a strong consensus sequence .
+This is particularly true for CBS - K2 and CBS - B , which appear to differ substantially from each other and from activation sites .
+Such analyses have been limited by the high frequency of short repeats , which result in multiple possible alignments that are compatible with DNase I footprints .
+We report here hydroxyl radical footprints of CysB - binding sites , which show protected regions in finer detail than DNase I footprints ( 46 ) and allow more precise alignments of different sites with one another .
+Our results indicate that CysB - binding sites are composed of 19 - bp half - sites and differ with respect to half - site spacing and orientation in patterns that can be correlated with DNA bending and responses to N - acetyl - L-serine .
+We conclude that the CysB tetramer uses different subunit combinations for various binding sites and may require at least three of its four subunits for certain interactions .
+MATERIALS AND METHODS Recombinant DNA methods .
+Our general methods were those described by Sambrook et al. ( 38 ) .
+PCR was performed with a reagent kit from Perkin - Elmer Cetus .
+Templates consisted of DNA from linearized plasmids containing the S. typhimurium cysJIH , cysK , cysP , and cysB promoters , which have been described elsewhere ( 17 , 31 , 32 ) .
+The reaction mixtures contained 2 to 6 ng of template , 100 pmol of each oligodeoxynucleotide primer , and 2.5 U of Taq polymerase in 100 l of 10 mM Tris hydrochloride ( pH 8.3 ) -- 50 mM KCl -- 1.5 mM MgCl 2 -- 0.2 mM each deoxynucleoside triphosphate -- 0.01 % gelatin and were incubated for 30 cycles as follows : 94 C for 1 min , 55 C for 1.5 min , and 72 C for 0.5 min .
+One of the two oligodeoxynucleotides was 5 labeled with [ - 32 P ] ATP ( 3,000 Ci/mmol ) and T4 polynucleotide kinase .
+After extraction with phenol - chloroform - isoamyl alcohol ( 25:24:1 ) and ethanol precipitation , DNA products were purified by electrophoresis in 6 % polyacrylamide gels , electroeluted , and reconcentrated by ethanol precipitation .
+For analyses of the cysJIH promoter , oligodeoxynucleotides were chosen to generate fragments extending from position 108 to position 48 or 97 relative to the transcription start site .
+cysK promoter fragments had upstream boundaries of 144 , 81 , or 75 and downstream boundaries of 31 , 50 , 65 , or 79 .
+cysP promoter fragments had upstream boundaries of 174 , 163 , 122 , or 40 and downstream boundaries of 27 , 40 , 65 , or 151 .
+cysB promoter fragments extended from 112 to either 124 or 224 .
+Hydroxyl radical cleavage of DNA was performed by a modification of the method described by Tullius and Dombrowski ( 46 ) .
+Binding reactions were carried out at 37 C ina20 - l volume containing 40 mM Tris hydrochloride ( pH 8.0 ) , 0.1 M KCl , 10 mM MgCl 2 , 1 mM dithiothreitol , 100 g of bovine serum albumin per ml , 5 to 10 ng of 5 - labeled DNA fragment ( approximately 2 10 5 dpm ) , 60 to 600 ng of purified CysB , and 5 mM N - acetyl - L - serine when indicated .
+These are the conditions that we have used previously in gel shift binding studies ( 17 , 31 ) .
+In some experiments the MgCl 2 concentration was decreased to 1 mM .
+During the binding reaction , a mixture containing 50 parts of 50 mM sodium ascorbate ( prepared daily ) , 15 parts of 10 mM ferrous ammonium sulfate ( prepared within the hour ) , and 35 parts of 5.7 mM disodium EDTA was prepared .
+The binding reaction was terminated after 5 min by the addition of 4 l of this mixture and then by the immediate addition of 2 l of0 .2 MH 2 O 2 .
+Hydroxyl radical cleavage of DNA proceeded at about 23 C for 5 min and was stopped by the addition of 26 l of a solution containing 4 M ammonium acetate , 15 mM disodium EDTA , 20 mM thiourea , and 100 g of yeast tRNA per ml .
+DNA was precipitated by the addition of 156 l of ethanol , collected by centrifugation , dried under vacuum , and analyzed on a 7 % polyacrylamide DNA sequencing gel .
+A portion of the labeled DNA was cleaved chemically ( 28 ) to generate size markers .
+Gels were analyzed with a scanner .
+S. typhimurium CysB was purified through the methyl agarose step as described previously ( 30 ) and was estimated to be 85 to 90 % pure .
+N - Acetyl - L-serine was synthesized as described elsewhere ( 37 ) .
+RESULTS Hydroxyl radical footprints of four different promoters provided evidence for nine CysB binding sites , seven of which had been identified previously by DNase I footprinting ( 17 , 31 ) .
+The two new sites were found in the cysJIH promoter , and the activation site CBS - J was redesignated CBS - J1 ( Fig. 1 ) .
+Footprints of the nontranscribed strands of the cysJIH , cysK , and cysP promoters at 10 mM MgCl 2 are shown in Fig. 2 , in which they can be seen to extend from approximately 73 to 15 for the cysJIH promoter , from 123 to 35 for the cysK promoter , and from 83 to 16 for the cysP promoter .
+These boundaries were defined more precisely from footprints of other fragments ( not shown ) .
+The cysJIH promoter footprint was substantially larger at 1 mM MgCl 2 ( not shown ; described below ) .
+The effects of N - acetyl - L-serine on the patterns and intensity of these footprints varied from one promoter to another as detailed below .
+In order to develop a model relating all nine sites to one another , we first analyzed the footprints of the three activation sites .
+The hydroxyl radical footprints of CBS - J1 , CBS - K1 , and CBS - P1 each spanned a distance of about 40 bp and consisted of alternating regions of protected and unprotected DNA with an average periodicity of about 10 bp , indicating that CysB binds to one face of the DNA helix as depicted in an open cylinder projection in Fig. 3 , where adjacent sites have been omitted for clarity .
+If one assumes a DNA pitch of 10.5 bp per helical turn , this view suggests that the footprints have a slight left - handed pitch of about 0.5 bp per turn .
+For each site , upstream protection of the nontranscribed strand begins with the sequence 5 - TTA , which precedes the first position of the 10 region by 60 nucleotides in the cysK and cysJIH promoters and by 71 nucleotides in the cysP promoter .
+Thus , the footprints of all three sites have the same radial position relative to the 10 region ; however , CBS - P1 is situated an extra turn of the helix further upstream .
+N - Acetyl - L-serine enhanced protection so that clear footprints of CBS - K1 and CBS - P1 could be obtained at 3 g of CysB per ml , whereas 10 g/ml was required otherwise .
+Footprints of CBS - J1 required severalfold more CysB , which is consistent with gel shift experiments indicating a sixfold - lower affinity for this promoter in the absence of N - acetyl - L-serine ( 18 ) .
+N - Acetyl - L-serine extended protection at the downstream boundaries of CBS - J1 and CBS - K1 across a major groove to positions 31 and 32 , respectively , of the transcribed strand ( Fig. 3 ) .
+In the cysJIH promoter , part or all of this effect could have been due to binding of a second CysB to a close downstream site , CBS - J2 , which is described below ; however , the lack of a downstream site in the cysK promoter suggests that VOL .
+177 , 1995 HYDROXYL RADICAL FOOTPRINTS OF CysB BINDING SITES 2345 FIG. 2 .
+Hydroxyl radical footprints of the nontranscribed strands of the cysJIH , cysK , and cysP promoters .
+The MgCl 2 concentration was 10 mM ; DNA concentrations were approximately 2 10 5 dpm of 32 P per 20 - l reaction mixture ( 0.25 to 0.5 g/ml ) ; CysB and N - acetyl - L-serine were varied as indicated .
+DNA templates extended from positions 108 to 97 for the cysJIH promoter , from positions 144 to 31 for the cysK promoter , and from positions 174 to 40 for the cysP promoter .
+Reaction mixtures were analyzed on a DNA sequencing gel with template that had been chemically cleaved at either A or A G to estimate positions ( not shown ) .
+Additional upstream protection of the cysK and cysJIH promoters was noted on other gels .
+2346 HRYNIEWICZ AND KREDICH J. BACTERIOL .
+Open cylinder projections of hydroxyl radical footprints of the activation sites CBS - J1 , CBS - K1 , and CBS - P1 .
+Other binding - site footprints have been omitted for clarity .
+The uppercase and lowercase letters represent the transcribed and nontranscribed DNA strands , respectively .
+Both strands were footprinted without ( lightly shaded ) and with ( darkly shaded ) 5 mM N - acetyl - L-serine , which generally increased the extent of protected areas and their intensity .
+The figure summarizes results from multiple separate footprints of each promoter at 10 mM MgCl 2 at CysB concentrations of 3 to 20 g/ml .
+A small portion of the downstream end of the CBS - J1 footprint ( positions 31 to 33 on the transcribed strand ) may be due to binding to CBS - J2 ( see Fig. 6 ) .
+Each binding site is considered to start on the nontranscribed strand with a 5 - TTA , which precedes the 10 region ( enclosed in rectangles ) by 60 bp in the cysJIH and cysK promoters and by 71 bp in the cysP promoter .
+N - acetyl - L-serine causes CysB to extend its contacts , perhaps in order to interact with RNA polymerase .
+In the cysP promoter , N - acetyl - L-serine appeared to contract the downstream boundary of the CBS - P1 footprint slightly , but this was probably due to its effects on binding to CBS - P3 , a downstream site that overlaps CBS - P1 and that is occupied only in the absence of N - acetyl - L-serine ( see below ) .
+Alignment of the three S. typhimurium activation sites according to protection patterns and with their homologous E. coli sequences gave a consensus sequence with 15 conserved nucleotides , including 12 that are present in all six sites and three that are present in five sites ( Fig. 4 ) .
+As noted previously , the alignment is improved significantly by assuming the existence of an extra base pair at or near the center of CBS - K1 ( 17 , 31 ) , which is consistent with the slightly extended footprint of this site compared with those of CBS - J1 and CBS - P1 ( Fig. 3 ) .
+In order to test this possibility , we examined a hydroxyl radical footprint of a mutant cysK promoter designated ( A50 ) , which has a deletion of the A residue at position 50 , and found it to be identical to that of the wild type , except for a decrease of 1 nucleotide in the distance between the protected regions on either side of the deletion ( Fig. 5 ) .
+It is interesting to note that this promoter has normal in - vivo activity ( 30a ) .
+Thus , CysB appears to recognize specific determinants on either side of position 50 and is sufficiently flexible to contact them and activate promoters in which the distances between these determinants vary by 1 bp .
+Fine structure of activation sites .
+The relatively large sizes of activation site footprints and apparent flexibility of binding across the center of CBS - K1 suggest that each may be composed of two separate half - sites separated at or near positions equivalent to position 50 of the cysK promoter .
+If each half - VOL .
+177 , 1995 HYDROXYL RADICAL FOOTPRINTS OF CysB BINDING SITES 2347 FIG. 4 .
+Comparison of the S. typhimurium activation sites CBS - J1 , CBS - K1 , and CBS - P and their E. coli homologs .
+The consensus sequence shows positions at which either five of six ( lowercase letters ) or six of six ( uppercase letters ) of the individual sequences contain the same base .
+Binding sites are represented as two 19 - bp half - sites separated by either 1 or 2 bp .
+Positions of dyad symmetry are marked by asterisks above the sequence , and direct repeat matches are marked by carets below the sequence .
+site were to interact with the binding domain of a separate CysB subunit , their footprint patterns would be expected to be identical or nearly so , either on the same strand if they are oriented in the same direction or on opposite strands if they are oriented in opposite directions .
+We found that individual binding sites contain dyad symmetries in their DNA sequences that correspond to the same symmetries in their hydroxyl radical footprints and are centered at positions 53 , 51 to 52 , and 64 of CBS - J1 , CBS - K1 , and CBS - P1 , respectively ( Fig. 3 and 4 ) .
+Far less dyad symmetry was noted in the consensus sequence ( only 6 of the 15 conserved positions ) .
+For the purpose of further analyses , we will assume that a CysB activation site consists of two 19 - bp half - sites , inverted with respect to each other and separated by 2 bp in CBS - K1 and by 1 bp in CBS - J1 and CBS - P1 .
+We arbitrarily consider this orientation convergent ( it could just as well be considered divergent ) and will designate upstream half - sites by the suffix a ( e.g. , CBS - J1a ) and downstream half - sites by the suffix b ( e.g. , CBS - J1b ) .
+It should be noted that half - sites of CBS - J1 and CBS - K1 also show evidence of direct repeats ( Fig. 4 ) .
+cysJIH promoter binding sites .
+Hydroxyl radical footprints of the cysJIH promoter at 10 mM MgCl 2 showed a region of protection downstream of CBS - J1 ( Fig. 2 and 6 ) , which had not been appreciated in DNase I footprints ( 31 ) and which was designated CBS - J2 .
+In addition , a footprint at 1 mM MgCl 2 revealed a region of upstream protection ( data not shown ) , designated CBS - J3 , which was easily seen at 3 g of CysB per ml but was barely detectable at 10 mM MgCl 2 with as much as 30 g of CysB per ml .
+Protection at CBS - J1 and CBS - J2 was also enhanced by the lower MgCl 2 concentration .
+N - Acetyl - Lserine at 5 mM completely eliminated protection at CBS - J3 and stimulated protection at CBS - J1 and CBS - J2 ( Fig. 6 ) .
+In fact , protection was barely detected at CBS - J2 in the absence of N - acetyl - L-serine , even at 1 mM MgCl 2 .
+The composite hydroxyl radical footprint of the cysJIH promoter shown in Fig. 6 extends from position 13 to as far upstream as position 98 , which was as far as our DNA fragments allowed resolution .
+The nontranscribed strand was footprinted only to about position 85 in the upstream direction .
+Approximate boundaries are 76 to 35 for CBS - J1 , 33 to 13 , for CBS - J2 and at least 98 to 77 for CBS - J3 .
+The CBS - J3 and CBS - J1 footprints fall close to the same face of the DNA , while the radial position of the CBS - J2 footprint is offset from that of CBS - J1 by about a third of a helical turn .
+Both strands of the cysJIH promoter were searched for halfsite binding motifs using scoring matrices that were weighted according to the number of occurrences of each base at each position of the six activation sites .
+Separate matrices were used for 1a half - sites and for 1b half - sites .
+High - scoring sequences were then evaluated to determine whether they were in proper phase with the footprint .
+This analysis indicated that CBS - J2 begins 6 bp downstream of CBS - J1 with a 5 - TTA - 3 at position 28 and consists of two 19 - bp half - sites separated by 2 bp at positions 8 and 9 ( Fig. 6 ) .
+The upstream CBS - J2a most resembles a 1a half - site oriented downstream .
+The downstream CBS - J2b scored equally well as either a 1a or a 1b half - site ; therefore , its orientation is ambiguous .
+A search of the CBS - J3 region identified a potential 1a half - site beginning at position 83 and extending upstream to position 101 , i.e. , opposite in direction from CBS - J1a .
+The DNA sequence further upstream of position 101 contains several additional FIG. 5 .
+Hydroxyl radical footprints of positions 78 to 27 of the transcribed strands of the wild - type cysK promoter and the ( A50 ) cysK promoter , which has a 1 - bp deletion at position 50 .
+This position is aTonthetranscribed strand .
+The bottom of the gel is on the right , and tracings are shown below .
+CysB was used at 10 g/ml , and the N - acetyl - L-serine and MgCl 2 concentrations were 5 and 10 mM , respectively .
+Protection upstream of the deletion is shifted downstream by 1 bp in the mutant promoter , indicating recognition of specific determinants on both sides of position 50 .
+2348 HRYNIEWICZ AND KREDICH J. BACTERIOL .
+Open cylinder projection of a composite hydroxyl radical footprint of the S. typhimurium cysJIH promoter .
+The uppercase and lowercase letters represent the transcribed and nontranscribed DNA strands , respectively .
+Data were obtained with fragments extending from positions 108 to either 48 or 97 relative to the transcription start site .
+CysB concentrations ranged from 2.5 to 30 g/ml .
+Footprints are shown without ( lightly shaded ) and with ( darkly shaded ) 5 mM N - acetyl - Lserine .
+Protection at CBS - J2 was extremely faint without N - acetyl - L-serine .
+Although CBS - J1 and CBS - J2 were easily identified at a concentration of 10 mM MgCl 2 , the CBS - J3 footprint , which is indicated by hatched areas , was obtained only at a concentration of 1 mM MgCl 2 and only in the absence of N - acetyl - L-serine .
+Half - site sequences are indicated below , and intersite sequences are shown in parentheses .
+The orientation of the CBS - J2b sequence is ambiguous .
+potential half - site sequences ; however , these were not evaluated because of a lack of footprint data .
+CBS - K2 and CBS - B binding sites .
+With cysK promoter fragments encompassing positions 144 to 31 , hydroxyl radical footprints extended upstream to position 136 relative to the transcription start site , which is further than the 115 boundary observed in the DNase I footprint ( 31 ) .
+We now define CBS - K2 as extending from 136 to the beginning of CBS - K1 at about position 75 ( Fig. 7 ) .
+Protection between 115 and 136 was very faint at CysB concentrations of lower than 10 to 30 g/ml , at which most complexes have been shown to contain a single CysB tetramer , which is bound to CBS - K1 in the presence of N - acetyl - L-serine and to both CBS - K1 and the downstream portion of CBS - K2 in its absence ( 18 , 31 ) .
+The latter complex contains bent DNA and can be formed with DNA fragments lacking sequences upstream of position 104 but not with fragments lacking sequences upstream of position 92 .
+Therefore , we attribute the smaller footprint extending to position 115 to binding by a single CysB tetramer and the larger footprint extending to position 136 to binding by two tetramers , one at CBS - K1 and the other at CBS - K2 .
+Such two - protein complexes have been observed in gel mobility - shift experiments both with and without N - acetyl - L-serine ( 18 ) .
+CBS - K1 and CBS - K2 footprints were the same whether the DNA contained both sites ( a 144 - to - 31 fragment ) , CBS - K2 alone ( a 144 - to - 79 fragment ) , or CBS - K1 alone ( a 75 - to - 31 fragment ) .
+In the CBS - K2 region , N - acetyl - L-serine shifted the protected portion of both strands downstream by about 2 nucleotides in the vicinity of positions 94 to 80 ( see Fig. 2 for this effect on the nontranscribed strand at about position 90 ) .
+This corresponds to the region where CysB induces DNase I hypersensitivity sites ( depicted in Fig. 7 ) , which disappear with N - acetyl - L-serine and are probably due to DNA bending ( 31 ) .
+The alignment of the CBS - K1 and CBS - K2 footprints on the same face of the DNA helix is consistent with a previously proposed model in which bending occurs through binding of a single CysB tetramer to CBS - K1 and a portion of CBS - K2 situated between 104 and 75 ( 18 , 31 ) .
+A computer analysis showed that CBS - K2 contains three high - scoring sequences of the 1a type with footprint patterns appropriate for such a half - site .
+The upstream site , CBS - K2a , is oriented in an upstream direction and extends from positions 115 to 133 .
+The other two half - sites are oriented downstream and overlap each other by 7 bp .
+One , designated CBS - K2b , extends from positions 91 to 73 ; the second , designated CBS - K2c , extends from positions 103 to 85 .
+Because of the shift in the downstream protection pattern caused by N - acetyl - L-serine , CBS - K2c is in proper phase with the footprint only in the absence of N - acetyl - L-serine , while CBS - K2b is in proper phase only in its presence .
+This effect was noted regardless of whether CBS - K1 was present on the DNA fragment .
+These results suggest that CysB binds to the K2a and K2c half - sites in the absence of N - acetyl - L-serine and to the K2a and K2b half - sites in its presence .
+The hydroxyl radical footprint of CBS - B ( data not shown but depicted in Fig. 7 ) extended 19 bp further upstream than was previously noted with DNase - I-protection ( 34 ) and encompassed the region from positions 29 to 33 relative to the transcription start site .
+N - Acetyl - L-serine decreased the intensity of protection slightly but did not alter the pattern of protection as it did with CBS - K2 .
+A computer search revealed an upstream half - site sequence , designated CBS - Ba , which most resembles a 1a half - site and is oriented upstream in proper phase with the footprint , beginning at position 8 and ending at position 26 .
+As in CBS - K2 , two other potential half - site sequences were found further downstream .
+The first , designated CBS - Bb , extends from 15 to 33 and is in good register with the footprint , scoring highly either as a 1b site oriented in the same direction as transcription or as a 1a site oriented in either direction .
+The second potential half - site extends from 3to 21 but is 1 or 2 bp out of register with the footprint .
+When viewed in the context of our half - site model , CBS - B and CBS - K2 have similar topographies ( Fig. 7 ) ; however , the sequence starting at 3 may be too close to CBS - Ba to function as a half - site that would be equivalent to CBS - K2c .
+Thus , CysB appears to bind to CBS - Ba and CBS - Bb both in the absence and in the presence of N - acetyl - L-serine .
+Binding sites in the cysP promoter region .
+Hydroxyl radical footprints of the cysP promoter region ( Fig. 2 and 8 ) extended from positions 87 to 22 and encompassed CBS - P1 , CBS - P2 , and CBS - P3 ( 17 ) .
+The CBS - P1 and CBS - P2 footprints are separated by more than 20 bp and lie on almost opposite faces of the helix .
+The footprint of a fragment containing CBS - P1 alone extended from positions 87 to 40 ( Fig. 8A ) and that VOL .
+177 , 1995 HYDROXYL RADICAL FOOTPRINTS OF CysB BINDING SITES 2349 FIG. 7 .
+Open cylinder projections of hydroxyl radical footprints of the S. typhimurium CBS - K2 and CBS - B binding sites .
+The uppercase and lowercase letters represent the transcribed and nontranscribed DNA strands , respectively .
+CBS - K2 was defined with a fragment including CBS - K1 and extending from positions 144 to 31 as well as with a fragment lacking CBS - K1 and including sequences from positions 144 to 79 .
+CBS - B was defined with a fragment extending from positions 112 to 124 .
+Data were obtained at a concentration of 10 mM MgCl 2 with 2.5 to 30 g of CysB per ml .
+The CBS - K2 footprint includes a small portion of the CBS - K1 footprint and is shown without ( lightly shaded ) and with ( darkly shaded ) 5 mM N - acetyl - L-serine , which gave an overall slight decrease in intensity and shifted protection of the downstream half of CBS - K2 .
+The CBS - B footprint was not affected by N - acetyl - L-serine , except for an overall slight decrease in the intensity of protection , and is indicated only by the lightly shaded area .
+DNase I - hypersensitive sites have been noted only with CBS - K2 ( 31 ) and are indicated by triangles .
+Half - site sequences are indicated below , with intersite sequences shown in parentheses .
+Three half - sites in CBS - K2 and only two in CBS - B were identified .
+Note the overlap between CBS - K2c and CBS - K2b .
+A CBS - B sequence corresponding to the CBS - K2c half - site is labeled by a question mark because it is slightly out of phase with the protection pattern expected for a half - site .
+of a fragment containing only CBS - P2 ( only the transcribed strand was footprinted ) extended from positions 13 to 22 ( Fig. 8B ) .
+N - Acetyl - L-serine enhanced protection at both sites .
+On a fragment containing all three sites , the footprint with N - acetyl - L-serine was virtually identical to a combination of those found for the two smaller fragments with N - acetyl - Lserine , i.e. , there was no protection in the region separating CBS - P1 and CBS - P2 ( Fig. 2 and 8C ) .
+Since these two sites are situated on almost opposite faces of the helix , it seems unlikely that a single CysB can bind simultaneously to both , and we attribute the protection noted with N - acetyl - L-serine to binding by two separate tetramers ( 18 ) .
+Without N - acetyl - L-serine , the large cysP promoter fragment gave a very different footprint .
+Protection was slightly diminished at the upstream portion of CBS - P1 and was absent at CBS - P2 .
+Protection of the downstream portion of CBS - P1 was enhanced and now extended an additional 30 bp into the downstream portion of the site that we have designated CBS - P3 .
+It should be noted that 14 of these 30 bp were present in the smaller CBS - P1 fragment and that all were present in the fragment containing CBS - P2 alone ; however , this region was protected in neither .
+The footprint in the absence of N - acetyl - L-serine extended along the same face of the DNA duplex for about 70 bp , which is consistent with gel shift binding and stoichiometric data indicating that a single CysB tetramer binds to this region of the cysP promoter and bends it ( 17 , 18 ) .
+As with the cysK promoter , binding to the cysP promoter in the absence of N - acetyl - L-serine is known to create DNase I hypersensitivity sites ( Fig. 8C ) , which probably result from DNA bending .
+CBS - P2 was found to have two convergently oriented 1a half - site sequences separated by 3 bp , the first extending from positions 19 to 1 and the second from positions 4to 22 .
+Both were in proper phase with the footprint , while an alternative upstream half - site sequence extending from positions 17 to 2 was not .
+With either upstream site , CBS - P2 is composed of two convergently oriented half - sites separated by 3 or 1 bp .
+An additional 1a half - site was identified beginning at position 14 and oriented upstream to position 32 , which is relatively low scoring but starts with 5 - TTA on the transcribed strand .
+This sequence is in phase with the footprint in the 2350 HRYNIEWICZ AND KREDICH J. BACTERIOL .
+Open cylinder projections of hydroxyl radical footprints of DNA fragment from the S. typhimurium cysP promoter .
+The uppercase and lowercase letters represent the transcribed and nontranscribed DNA strands , respectively .
+Footprints were obtained at 10 mM MgCl 2 without ( lightly shaded ) and with ( darkly shaded ) 5mMN - acetyl - L-serine , and CysB concentrations were 10 to 30 g/ml .
+( A ) Footprint of a fragment ending at position 27 , which includes all of CBS - P1 and a portion of CBS - P3b .
+( B ) Footprint of a fragment extending from 40 to 65 , which includes all of CBS - P2 and CBS - P3b .
+Only the transcribed strand was footprinted .
+The CBS - P2 footprint was barely detectable in the absence of N - acetyl - L-serine .
+( C ) Footprint of a fragment extending through all three binding sites ( positions 174 to 40 ) .
+Half - site sequences are indicated below , with intersite sequences shown in parentheses , and DNase I - hypersensitive sites are marked by triangles .
+absence of N - acetyl - L-serine , and we designate it CBS - P3b , the downstream half - site of CBS - P3 ( Fig. 8C ) .
+Although the CBS - P3b sequence overlaps that of CBS - P2a by 6 bp , the footprints indicate that binding occurs on opposite sides of the helix .
+The upstream half - site of CBS - P3 is actually CBS - P1b , which is separated from CBS - P3b by 12 bp .
+DISCUSSION The three activation sites CBS - J1 , CBS - K1 , and CBS - P1 are positioned in their promoters in the manner expected for binding by a class I transcription activator ( 21 , 22 ) .
+Such factors bind upstream of the 35 region and are distinguished by the fact that they are inactive with RNA polymerase containing subunits with deletions or certain point mutations in the C - terminal one - third ( 20 , 51 ) .
+Class I activators are presumed to make contact with the carboxyl - terminal portion of the RNA polymerase subunit , and in the case of the lac promoter , a specific surface region of the Escherichia coli catabolite gene activator protein that is required for contact has been identified ( 9 , 50 ) .
+Two LysR - type proteins , TrpI and OxyR , are known to be class I activators ( 14 , 21 , 42 ) , and the Cys phenotype of two rpoA mutants ( encoding the subunit ) suggests that CysB is also a member of this group ( 11 , 27 ) .
+In addition , Bennett and Shi ( 2 ) have found that cysB is required for efficient expression of adi , the gene for a biodegradative arginine decarboxylase of E. coli , and that this process is defective in a strain containing one of these mutations , rpoA341 , which results in an Glu - to - Lys change at amino - acid - residue 271 ( 44 ) .
+The other allele , S. typhimurium rpoA155 , results in a Leu - to - Thr change at amino acid residue 289 ( 27 ) .
+The E. coli rpoA341 strain is of interest because it has been characterized as behaving like a cysA mutant , and cysA is part of a gene cluster , cysPTWA , that is under control of the cysP promoter ( 41 ) .
+Our finding that CBS - P1 is situated one turn of the helix further upstream than CBS - J1 and CBS - K1 leads us to speculate that this spacing might account for differential sensitivity of cysPTWA expression to the rpoA341 mutation .
+This possibility could be tested by in vitro transcription experiments with the mutant RNA polymerase .
+Furthermore , if CysB binding to CBS - P1 results in an subunit contact point that is different from those used for other cys promoters , it might also be possible to isolate a cysB mutant specifically defective in cysP promoter activation .
+Half - site size and orientations .
+The precise alignments provided by hydroxyl radical footprints have allowed us to identify DNA determinants shared by nine different CysB binding sites and to generate a model based on 19 - bp half - sites .
+177 , 1995 HYDROXYL RADICAL FOOTPRINTS OF CysB BINDING SITES 2351 about twice as large as those recognized by several well - characterized helix - turn - helix - binding proteins ( reviewed in reference 15 ) but are comparable to the 17 - bp half - sites recognized by AraC ( 5 ) , a non - LysR - type transcriptional activator , which is also thought to bind through a helix - turn - helix .
+With our 19 - bp half - site model , binding of a CysB tetramer to an activation site would leave two subunits potentially free for interactions with other half - sites , and we believe that one of these is so employed during bending of the cysK and cysP promoters in the absence of N - acetyl - L-serine , in which binding occurs to both an activation site and part of an adjacent accessory site ( see below ) .
+A model consisting of 9 - or 10 - bp half - sites would require six CysB subunits for this type of interaction ; however , stoichiometric measurements have shown that such complexes contain only a single tetramer ( 18 ) .
+The orientations proposed for half - sites differ among binding sites and are ambiguous in some cases .
+Similar ambiguity has been noted for NodD recognition sites .
+Goethals et al. ( 13 ) suggested that nod boxes are composed of two or three 15 - bp targets , each with an interrupted dyad symmetry , while Wang and Stacey ( 48 ) proposed that they consist of four relatively degenerate 9 - bp direct repeats .
+Recently , Fisher and Long ( 10 ) have noted symmetry in the ethylation interference footprints of the nodA nod box that is consistent with an arrangement of two direct repeats separated by 31 bp .
+In the case of CysB activation sites , CBS - P1 has only dyad symmetry , but CBS - J1 and CBS - K1 half - sites score well as either direct or inverted repeats ( Fig. 4 ) .
+Overall , however , our data are most consistent with the idea that activation sites are composed of two halfsites with dyad symmetry in an orientation we arbitrarily term convergent .
+Half - site arrangements , responses to N - acetyl - L-serine , and DNA bending .
+A half - site model allows us to correlate the binding characteristics of different sites with their topology .
+Thus , we find that N - acetyl - L-serine stimulates binding to activation sites , which are composed of convergently oriented half - sites separated by 1 or 2 bp , and to CBS - J2 and CBS - P2 ( Fig. 9A ) , which fit into this same category if one assumes that the ambiguous CBS - J2 half - site arrangement is convergent and that half - sites can be as separated by as many as 3 bp , as in CBS - P2 .
+A second type of arrangement is found in CBS - K2 and CBS - B , in which N - acetyl - L-serine decreases binding affinity .
+Here , two half - sites are separated by two turns of the DNA helix ( Fig. 9B ) .
+CBS - K2 also contains a third half - site , CBS - K2c , which is separated from the upstream CBS - K2a half - site by a single helical turn .
+Our footprinting data indicate that CysB binds to CBS - K2a and CBS - K2c in the absence of N - acetyl - L-serine and to CBS - K2a and CBS - K2b in its presence .
+For both combinations , half - sites are oriented divergently .
+In CBS - B , the orientation of the CBS - Bb half - site is ambiguous , but we believe it is probably oriented downstream .
+If so , decreased binding affinity in the presence of N - acetyl - L-serine would correlate with an arrangement of divergently oriented half - sites separated by one or two helical turns .
+The relatively large size of CBS - B and CBS - K2 footprints ( 60 bp ) suggested to us that they might result from binding of more than one CysB tetramer or that these DNAs are also bent or looped by CysB .
+We have not determined binding stoichiometry for these sites , but preliminary studies indicate that CysB bends both CBS - B and a fragment containing only CBS - K2 and that N - acetyl - L-serine does not affect such bending other than to decrease binding affinity ( 47a ) .
+Thus , the CBS - B and CBS - K2 half - site arrangements can be correlated not only with decreased binding affinity in the presence of FIG. 9 .
+A model showing relationships between half - site arrangements and the effects of N - acetyl - L-serine on CysB binding affinity and on DNA bending .
+Half - sites are depicted by broad arrows , which are white in the left - to - right orientation and shaded in the opposite orientation .
+The orientations of CBS - J2b and CBS - Bb are ambiguous .
+( A ) N - acetyl - L-serine stimulation of binding when half - sites are convergent and separated by 1 to 3 bp ; ( B ) N - acetyl - L-serine inhibition of binding to sites with divergently oriented half - sites separated by one or two turns of the helix ; ( C ) regions in the cysP and cysK promoters that contain a half - site oriented toward an activation site and separated from it by 12 or 13 bp are bent by CysB but less so in the presence of N - acetyl - L-serine .
+CBS - K2a , the upstream half - site of CBS - K2 , is not required for cysK promoter bending ( 31 ) and is not shown .
+N - acetyl - L-serine but also with DNA bending that is not responsive to this effector .
+A third type of half - site topography is found in the cysP and cysK promoters , in which CysB bends the DNA at an angle of approximately 100 and N - acetyl - L-serine decreases the angle to about 50 ( 17 , 18 ) .
+With the cysP promoter , our footprinting and stoichiometric binding data indicate that in the absence of N - acetyl - L-serine , a single CysB tetramer binds to three halfsites , CBS - P1a , CBS - P1b , and CBS - P3b ( Fig. 8 and 9C ) .
+This interaction bends the cysP promoter somewhere within the 12 bp that separate CBS - P1b and CBS - P3b and presumably employs three CysB subunits .
+N - Acetyl - L-serine prevents binding to CBS - P3b , which probably accounts for its ability to decrease the extent of DNA bending .
+A similar phenomenon occurs in the cysK promoter , in which a single CysB tetramer binds to CBS - K2c , CBS - K1a , and CBS - K1b in the absence of N - acetyl - L - serine ( Fig. 9C ) and bends the DNA between CBS - K2c and CBS - K1a , which are separated by 13 bp ( 17 , 31 ) .
+Here , too , N - acetyl - L-serine decreases the extent of bending , presumably by preventing binding to CBS - K2c .
+Involvement of CBS - K2c rather than CBS - K2b in this phenomenon is supported by the finding that this type of bending is not affected by an upstream deletion ending 1 bp before CBS - K2c but is abolished when the deletion is extended an additional 12 bp , ending 1 bp short of CBS - K2b ( 31 ) .
+Thus , N - acetyl - L-serine - sensitive bending of the cysK and cysP promoters can be correlated with a three - half - site configuration consisting of one half - site that is oriented toward an activation whole site and separated from it by 12 or 13 bp ( Fig. 9C ) .
+This arrangement allows a single CysB tetramer to bind to 2352 HRYNIEWICZ AND KREDICH J. BACTERIOL .
+A model for how the CysB tetramer interacts with different binding sites ( see Fig. 9 ) .
+Activation sites , as well as CBS - J2 and CBS - P2 , are recognized by two CysB subunits related by dyad symmetry , and N - acetyl - L-serine alters CysB to increase binding affinity .
+A third subunit can bind to another half - site that is oriented toward an activation site and separated from it by 12 or 13 bp , as in the case of the cysK and cysP promoters .
+Such binding induces a bend between the activation site and the third half - site .
+N - Acetyl - L-serine relieves this bend by preventing simultaneous binding to both the activation site and the third halfsite .
+The distance between CBS - K2c and CBS - K1a in the absence of N - acetyl - L - serine is exaggerated in the figure .
+A third type of interaction employs two subunits arranged in a manner that allows binding to divergently oriented halfsites separated by two helical turns or by one turn ( in the case of CBS - K2 without N - acetyl - L-serine ) .
+The figure implies that this type of binding also bends DNA both with and without N - acetyl - L-serine , which only decreases binding affinity .
+all three half - sites on the same helical face , but only in the absence of N - acetyl - L-serine .
+The presence of multiple binding sites in the cysJIH promoter suggests that it too might be bent by CysB in a manner analogous to that observed for the cysK and cysP promoters .
+The only half - site spacing appropriate for such bending is found with a combination of the CBS - J3 half - site and CBS - J1 , which are separated by 10 bp ; however , the CBS - J3 half - site is oriented away from CBS - J1 rather than toward it ( Fig. 6 ) .
+We have not systematically evaluated DNA bending in this promoter , but the failure of N - acetyl - L-serine to change complex mobility in gel shift experiments suggests that N - acetyl - L-serine sensitive bending does not occur .
+Footprints showing protection of more than one binding site in the cysJIH promoter are probably the result of binding by two or more CysB tetramers , which has been observed in stoichiometric studies ( 18 ) .
+Binding - site topography and CysB subunit interactions .
+Our proposed half - site model implies that CysB uses at last three different subunit combinations for binding to various sites .
+Binding to activation sites , as well as to CBS - P2 and CBS - J2 , would employ a pair of subunits related by dyad symmetry with sufficient flexibility to permit interaction with halfsites separated by 1 to 3 bp ( Fig. 10 ) .
+N - Acetyl - L-serine would affect this type of interaction to result in transcription activation and increased binding affinity .
+In the cysK and cysP promoters , another subunit would have to be recruited for binding to a third half - site , either CBS - K2c or CBS - P3b , in an interaction that induces DNA bending .
+N - Acetyl - L-serine would alter subunit relationships in a way that prevents binding to the third half - site , thereby decreasing the bending angle .
+If our model for CBS - B and CBS - K2 is correct , a third type of interaction would require a pair of subunits that are also related by dyad symmetry but with a divergent orientation , in contrast to a convergent orientation for activation sites .
+The binding domains in this subunit pair would have to be separated by a distance great enough to accommodate the one or two helical turns between half - sites in CBS - B and CBS - K2 .
+N - Acetyl - Lserine would decrease binding affinity for this kind of subunit pair but would not eliminate it altogether , as in the case of the three subunit interactions with the cysK and cysP promoters .
+Therefore , binding to CBS - B or CBS - K2 would induce a DNA bend both with and without N - acetyl - L-serine .
+Physiological role of accessory sites .
+The similarity of CBS - P2 and CBS - J2 half - site arrangements to those of activation sites suggests their possible role as activators of downstream promoters ; however , transcripts from such hypothetical promoters have not been observed in - vivo or in - vitro ( 17 , 32 ) .
+Since both sites overlap the RNA polymerase - binding domain , they might act as repressor sites , and in - vitro studies have shown that CysB at high concentrations does inhibit transcription initiation at the cysP promoter ( 17 ) .
+CysB did not affect transcription from the p L promoter , which was used as a control in these experiments , but it did inhibit transcription from the cysJIH promoter , which was also used as a control because it was thought to lack a downstream CysB binding site .
+It now seems likely that binding to CBS - J2 was responsible for that effect .
+However , the physiologic significance of such repression is questionable , because the CysB concentrations required for transcription inhibition are 40 - to 100 - fold higher than those required for activation .
+With respect to CBS - K2 , deletion of this site has been shown not to affect in - vivo promoter function in either a repressed or a derepressed state , even though it eliminates N - acetyl - L-serine - sensitive bending of the cysK promoter ( 31 ) .
+Since accessory sites appear to increase binding affinity in the absence of N - acetyl - L-serine ( 17 , 18 ) , we speculate that their physiologic function is to sequester CysB at cys promoters when sulfur is replete in order to ensure a rapid response to sulfur limitation .
+Similarities between CysB and AraC .
+AraC is probably a class I transcription activator , on the basis of the position of its activation binding site and the fact that a strain carrying the rpoA341 mutation is Ara ( 12 ) .
+This is the same strain that was shown to be CysA ( see above ) , suggesting that the RNA polymerase subunit uses the same determinant to contact both AraC and CysB .
+AraC recognizes 17 - bp half - sites that are separated by 4 bp ( 5 ) , which is almost equivalent to our 19 - bp half - sites separated by 1 or 2 bp .
+Furthermore , AraC can interact with half - site pairs arranged either as direct or inverted repeats ; however , since AraC is only a dimer , this versatility can not be attributed to different fixed faces , as we have suggested for tetrameric CysB .
+Instead , AraC subunit domains involved in DNA binding appear to be flexible enough to alternate between inverted - and direct - repeat orientations in response to the coinducer D - arabinose ( 5 ) .
+It is intriguing to consider whether CysB and , by extension , other members of the LysR family are also capable of reorienting DNA recognition domains in order to interact with different half - site combinations .
+Such a phenomenon would allow recognition of activation half - sites as either direct or inverted repeats , depending on the presence of N - acetyl - L-serine , and would account for the fact that our consensus sequence for activation sites contains elements that are consistent with both arrangements .
+177 , 1995 HYDROXYL RADICAL FOOTPRINTS OF CysB BINDING SITES 2353 ACKNOWLEDGMENT This work was supported by research grant DK - 12828 from the National Institutes of Health .
+The role of the NAC protein in the nitrogen regulation of Klebsiella aerogenes .
+Bennett , G. N. , and X. Shi .
+Effects of rpoA and cysB mutations on acid induction of biodegradative arginine decarboxylase in Escherichia coli .
+Bielinska , A. , and D. Hulanicka .
+Regulation of the cysB gene expression in Escherichia coli .
+Byerly , K. A. , M. L. Urbanowski , and G. V. Stauffer .
+The MetR binding site in the Salmonella typhimurium metH gene : DNA sequence constraints on activation .
+Carra , J. H. , and R. F. Schlief .
+Variation of half - site organization and DNA looping by AraC protein .
+Chang , M. , and I. P. Crawford .
+The roles of indoleglycerol phosphate and the TrpI protein in the expression of trpBA from Pseudomonas aeruginosa .
+Chang , M. , and I. P. Crawford .
+In vitro determination of the effect of indoleglycerol phosphate on the interaction of purified TrpI protein with its DNA - binding sites .
+Cho , K. , and S. C. Winans .
+Altered - function mutations in the Agrobacterium tumefaciens OccR protein and in an OccR - regulated promoter .
+Transcription activation at class I CAP - dependent promoters .
+Fisher , R. F. , and S. R. Long .
+Interactions of NodD at the nod box : NodD binds to two distinct sites on the same face of the helix and induces a bend in the DNA .
+Giffard , P. M. , and I. R. Booth .
+The rpoA341 allele of Escherichia coli specifically impairs the transcription of a group of positively regulated operons .
+Giffard , P. M. , G. C. Rowland , R. G. Kroll , L. M. D. Stewart , E. P. Bakker , and I. R. Booth .
+Phenotypic properties of a unique rpoA mutation ( phs ) of Escherichia coli .
+Goethals , K. , M. Van Montagu , and M. Holsters .
+Conserved motifs in a divergent nod box of Azorhizobium caulinodans ORS571 reveal a common structure in promoters regulated by LysR - type proteins .
+Gussin , G. N. , C. Olson , K. Igarashi , and A. Ishihama .
+Activation defects caused by mutations in Escherichia coli rpoA are promoter specific .
+Harrison , S. C. , and A. K. Aggarwal .
+DNA recognition by proteins with the helix - turn - helix motif .
+Henikoff , S. , G. W. Haughn , J. M. Calvo , and J. C. Wallace .
+A large family of bacterial activator proteins .
+Hryniewicz , M. M. , and N. M. Kredich .
+The cysP promoter of Salmonella typhimurium : characterization of two binding sites for CysB protein , studies of in - vivo transcription initiation , and demonstration of the antiinducer effects of thiosulfate .
+Hryniewicz , M. M. , and N. M. Kredich .
+Stoichiometry of binding of CysB to the cysJIH , cysK , and cysP promoter regions of Salmonella typhimurium .
+Huang , J. , and M. A. Schell .
+In vivo interactions of the NahR transcriptional activator with its target sequences .
+Igarashi , K. , and A. Ishihama .
+Bipartite functional map of the E. coli polymerase subunit : involvement of the C - terminal region in transcription activation by cAMP - CRP .
+Role of the RNA polymerase subunit in transcription activation .
+Protein - protein communication within the transcription apparatus .
+Jagura - Burdzy , G. , and D. Hulanicka .
+Use of gene fusions to study expression of cysB , the regulatory gene of the cysteine regulon .
+Biosynthesis of cysteine , p. 419 -- 428 .
+In F. C. Neidhardt , J. L. Ingraham , K. B. Low , B. Magasanik , M. Schaechter , and H. E. Umbarger ( ed .
+) , Escherichia coli and Salmonella typhimurium : cellular and molecular biology .
+American Society for Microbiology , Washington , D.C. 25 .
+The molecular basis for positive regulation of cys promoters in Salmonella typhimurium and Escherichia coli .
+Lindquist , S. , F. Lindberg , and S. Normark .
+Binding of the Citrobacter freundii AmpR regulator to a single DNA site provides both autoregulation and activation of the inducible ampC - lactamase gene .
+Lombardo , M. J. , D. Bagga , and C. G. Miller .
+Mutations in rpoA affect expression of anaerobically regulated genes in Salmonella typhimurium .
+Maxam , A. M. , and W. Gilbert .
+Sequencing end - labeled DNA with base - specific chemical cleavages .
+Maxon , M. E. , J. Wigboldus , N. Brot , and H. Weissbach .
+Structurefunction studies on E. coli MetR protein , a putative prokaryotic leucine zipper protein .
+Miller , B. E. , and N. M. Kredich .
+Purification of the CysB protein from Salmonella typhimurium .
+Molecular characterization of cysK regulation in Salmonella typhimurium .
+Duke University , Durham , N.C. 31 .
+Monroe , R. S. , J. Ostrowski , M. M. Hryniewicz , and N. M. Kredich .
+In vitro interactions of CysB protein with the cysK and cysJIH promoter regions of Salmonella typhimurium .
+Ostrowski , J. , and N. M. Kredich .
+Molecular characterization of the cysJIH promoters of Salmonella typhimurium and Escherichia coli : regulation by CysB protein and N - acetyl - L-serine .
+Ostrowski , J. , and N. M. Kredich .
+In vitro interactions of CysB protein with the cysJIH promoter of Salmonella typhimurium : inhibitory effects of sulfide .
+Ostrowski , J. , and N. M. Kredich .
+Negative autoregulation of cysB in Salmonella typhimurium : in - vitro interactions of cysB protein with the cysB promoter .
+Pabo , C. O. , and R. T. Sauer .
+Transcription factors : structural families and principles of DNA recognition .
+Parsek , M. R. , D. L. Shinabarger , R. K. Rothmel , and A. M. Chakrabarty .
+Roles of CatR and cis , cis - muconate in activation of the catBC operon , which is involved in benzoate degradation in Pseudomonas putida .
+Sakami , W. , and G. Toennies .
+The investigation of amino - acid reactions by methods of non - aqueous titrimetry .
+Sambrook , J. , E. F. Fritsch , and T. Maniatis .
+Molecular cloning : a laboratory manual , 2nd ed .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 39 .
+Molecular biology of the LysR family of transcriptional activators .
+Schell , M. A. , P. H. Brown , and S. Raju .
+Use of saturation mutagenesis to localize probable functional domains in the NahR protein , a LysR - type transcription activator .
+Sirko , A. , M. Hryniewicz , D. Hulanicka , and A. Böck .
+Sulfate and thiosulfate transport in Escherichia coli K - 12 : nucleotide sequence and expression of the cysTWAM gene cluster .
+Tao , K. , N. Fujita , and A. Ishihama .
+Involvement of the RNA polymerase subunit C - terminal region in co - operative interaction and transcription activation with OxyR protein .
+Tartaglia , L. A. , C. J. Gimeno , G. Storz , and B. N. Ames .
+Multidegenerate DNA recognition by the OxyR transcriptional regulator .
+Thomas , M. S. , and R. E. Glass .
+Escherichia coli rpoA mutation which impairs transcription of positively regulated systems .
+Thony , B. , D. S. Hwang , L. Fradkin , and A. Kornberg .
+iciA , and Escherichia coli gene encoding a specific inhibitor of chromosomal initiation of replication in - vitro .
+Tullius , T. D. , and B. A. Dombrowski .
+Hydroxyl radical `` footprinting '' : high resolution information about DNA - protein contacts and application to repressor and Cro protein .
+Urbanowski , M. L. , and G. V. Stauffer .
+Genetic and biochemical analysis of the MetR activator - binding site in the metE metR control region of Salmonella typhimurium .
+Wang , D. , N. Rahman , T. Colyer , and N. Kredich .
+Wang , S. - P. , and G. Stacey .
+Studies of the Bradyrhizobium japonicum nodD1 promoter : a repeated structure for the nod box .
+Wek , R. C. , and G. W. Hatfield .
+Transcriptional activation at adjacent operators in the divergent - overlapping ilvY and ilvC promoters of Escherichia coli .
+Zhou , Y. , X. Zhang , and R. H. Ebright .
+Identification of the activating region of catabolite gene activator protein ( CAP ) : isolation and characterization of mutants of CAP specifically defective in transcription activation .
+Zou , C , N , Fujita , K. Igarashi , and A. Ishihama .
+Mapping the cAMP receptor protein contact site on the subunit of Escherichia coli RNA polymerase .

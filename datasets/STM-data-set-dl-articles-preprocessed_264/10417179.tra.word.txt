@@ -1,0 +1,273 @@
+INFECTION AND IMMUNITY , Aug. 1999 , p. 4099 -- 4105 Vol .
+67 , No. 8 0019 - 9567/99 / $ 04.00 0 Differential Regulation of Salmonella typhimurium Type III Secreted Proteins by Pathogenicity Island 1 ( SPI - 1 ) - Encoded Transcriptional Activators InvF and HilA KATRIN EICHELBERG AND JORGE E. GALÁN * Section of Microbial Pathogenesis , Boyer Center for Molecular Medicine , Yale School of Medicine , New Haven , Connecticut 06536 - 0812 Salmonella enterica encodes a type III protein secretion system within a pathogenicity island ( SPI - 1 ) that is located at centisome 63 of its chromosome .
+This system is required for the ability of these bacteria to stimulate cellular responses that are essential for their pathogenicity .
+Expression of components and substrates of this system is subject to complex regulatory mechanisms .
+These mechanisms involve the function of HilA and InvF , two transcriptional regulatory proteins encoded within SPI - 1 .
+In this study , we examined the functional relationship between these two regulatory proteins .
+We found that strains carrying loss - of - function mutations in either hilA or invF differ in their ability to stimulate cellular responses .
+An S. typhimurium hilA mutant strain retained considerable signaling capacity that resulted in significant levels of internalization into host cells .
+In contrast , introduction of a nonpolar loss - of - function mutation in invF rendered S. typhimurium significantly impaired in its ability to enter host cells .
+Consistent with these different phenotypes , we found that HilA and InvF control the expression of different genes .
+HilA regulates the expression of components of the type III secretion machinery , whereas InvF controls the expression of type III secreted proteins encoded outside of SPI - 1 .
+We also found that the expression of secreted proteins encoded within SPI - 1 are under the control of both HilA and InvF .
+Our results therefore indicate that InvF and HilA differentially control the expression of components and substrates of the invasion - associated type III secretion system .
+Pathogenesis , Boyer Center for Molecular Medicine , Yale School of Medicine , New Haven , CT 06536 - 0812 .
+All serovars of Salmonella enterica encode a type III protein secretion system within a pathogenicity island ( SPI - 1 ) at centisome 63 of their chromosome ( 16 ) .
+This system mediates the translocation of a battery of bacterial proteins into host cells which stimulate or interfere with host cellular functions ( 15 ) .
+These effector proteins include an exchange factor for Rho GTPases ( SopE ) ( 24 ) , a tyrosine phosphatase ( SptP ) ( 14 , 34 ) , an actin - binding protein ( SipA ) ( 44 ) , and an inositol phosphate phosphatase ( SopB ) ( 38 ) .
+The concerted action of these effector proteins results in host cell actin cytoskeleton rearrangements and nuclear responses that ultimately lead to bacterial internalization and the production of proinflammatory cytokines ( 6 , 27 ) .
+In addition , this type III secretion system is involved in the initiation of programmed cell death in macrophages ( 7 , 37 ) , the stimulation of neutrophil migration across the intestinal epithelium ( 36 ) , and fluid accumulation in ligated intestinal loops and the generation of diarrhea ( 10 , 20 ) .
+Functionally , proteins associated with the centisome 63 type III protein secretion system can be divided into at least three categories ( 8 ) : ( i ) proteins that are components of the type III secretion machinery ( e.g. , InvA , InvC , InvG , and PrgH ) , ( ii ) proteins that are involved in the translocation of effector molecules into the cytoplasm of the host cell ( e.g. , SipB , SipC , and SipD ) , and ( iii ) proteins that upon translocation modulate host cell functions ( e.g. , SopE , SipA , SopB , SptP , and AvrA ) .
+Although most of the proteins associated with the invasion - associated type III secretion system are encoded within SPI - 1 , at least two effector molecules delivered by this system are encoded elsewhere in the bacterial chromosome .
+SopB is encoded within a pathogenicity island ( SPI - 5 ) at centisome 25 ( 20 in S. dublin ) ( 43 ) , and SopE is encoded within the genome of a cryptic bacteriophage located at centisome 60 ( 26 ) .
+The expression of components and substrates of this type III secretion system is subject to complex regulatory mechanisms ( 30 ) .
+A number of environmental cues are known to affect type III secretion - associated gene expression ( 3 , 4 , 13 , 18 , 35 , 41 , 42 ) .
+Thus , growth under high - osmolarity and low - oxygen conditions stimulates the expression of type III secretion - associated proteins , resulting in increased levels of bacterial internalization into host cells .
+Bacterial internalization is influenced by the bacterial growth state as well as by carbohydrate utilization .
+The actual mechanisms by which these environmental signals influence gene expression are not understood .
+At least two transcriptional regulatory proteins are encoded within SPI - 1 ( 3 , 32 ) .
+These are HilA , a member of the OmpR / ToxR family of transcriptional regulators ( 3 ) , and InvF , which belongs to the AraC family of regulatory proteins ( 32 ) .
+Although both of these proteins influence the expression of the invasion phenotype , their actual regulatory target genes and their functional relationship with each other are poorly understood .
+HilA presumably directly activates the transcription of the invF and prgH promoters , but its direct role in the regulation of expression of genes encoding effector proteins delivered through the type III secretion system has not been rigorously investigated ( 3 , 4 ) .
+InvF is required for efficient entry into host cells , but its regulatory target genes have not been identified ( 32 ) .
+In addition to the specific regulatory proteins encoded within SPI - 1 , the expression of the invasion - associated type III secretion system is influenced by several global regulatory networks .
+A growing list of loci have various degrees of influence on the expression of the centisome 63 type III secretion system .
+This includes the PhoP - PhoQ and RcsB - RcsC two - component regulatory systems ( 2 , 5 , 39 ) , the flagellum - 4099 4100 EICHELBERG AND GALÁN INFECT .
+It is now clear that the centisome 63 type III secretion system delivers a complex array of effector proteins into the host cell ( 15 ) .
+It is therefore conceivable that their function may actually be required at different stages of the Salmonella infection cycle .
+As a consequence , the expression of genes encoding effector proteins may be differentially controlled to ensure their delivery at the proper time and place during infection .
+The display of different effector proteins may be then ensured by establishing differential patterns of gene expression through the activity of distinct transcriptional regulators such as InvF , HilA , and/or others .
+In this study , we have used a combination of nonpolar lossof - function mutations in hilA and invF and plasmids which allow the expression of these genes from an inducible heterologous promoter to investigate the roles of InvF and HilA in controlling the expression of components and substrates of the centisome 63 type III secretion system .
+MATERIALS AND METHODS Bacterial strains , cell lines , and culture conditions .
+The strains used in this study are listed in Table 1 .
+Bacteria were grown on L agar plates or L - broth containing 0.3 M sodium chloride .
+When required , the following antibiotics were added at the indicated final concentrations : ampicillin ( 100 g/ml ) , chloramphenicol ( 30 g/ml ) , kanamycin ( 50 g/ml ) , streptomycin ( 100 g/ml ) , and/or tetracycline ( 12.5 g/ml ) .
+Bacteriophage P22 HTint - mediated transduction and bacterial conjugation was carried out as described elsewhere ( 32 ) .
+Henle - 407 cells were grown in Dulbecco 's minimal essential medium containing 10 % bovine calf serum .
+Plasmid and strain constructions .
+The xylE reporter gene fusion to invJ was constructed by cloning a 957 - bp xylE reporter gene cassette into the unique NsiI site of invJ .
+The nonpolar mutation in hilA was constructed by introducing a terminatorless aphT gene cassette ( 19 ) into the unique SacI site of hilA .
+The mutated hilA and invJ genes were introduced into the chromosome of wild - type S. typhimurium by allelic exchange as described elsewhere ( 32 ) .
+To express hilA from a heterologous inducible promoter , a 2.2 - kb AvaI fragment carrying hilA and its ribosome - binding site was cloned into the vector pBAD18 ( 23 ) in the direction of the Para BAD promoter , yielding plasmid pSB667 .
+The same AvaI fragment was cloned in the same vector but in the opposite orientation , resulting in plasmid pSB668 .
+To express invF from a heterologous promoter , a PCR fragment was generated to fuse the predicted ATG start codon of invF to the ATG codon of the expression vector pBAD24 .
+The resulting plasmid pSB624 expresses invF under the control of the inducible Para BAD promoter .
+Catechol - 2,3 - dioxygenase and - galactosidase assays .
+Bacterial strains were grown overnight ( for 12 to 14 h ) in L broth containing 0.3 M NaCl and diluted 1:50 in a total volume of 20 ml .
+Cultures were then grown for 4 h under low aeration to an approximate optical density at 600 nm of 1.0 .
+These conditions induce the expression of invasion - associated genes in SPI - 1 .
+When required , the expression of HilA and InvF under the control of the Para BAD promoter was induced by adding arabinose to a final concentration of 0.05 % .
+The presence of arabinose itself did not influence the expression of genes associated with SPI - 1 ( data not shown ) .
+Cells were lysed by sonication , and the levels of catechol - 2,3 - dioxygenase activity in the bacterial lysates were determined as described elsewhere ( 32 ) .
+The protein concentrations in the different lysates were measured by using a bicinchoninic acid kit ( Pierce ) as specified by the manufacturer .
+The enzymatic activity of - galactosidase was monitored as described elsewhere ( 40 ) .
+Entry of S. typhimurium strains into cultured Henle - 407 cells was assayed by the gentamicin resistance assay as described previously ( 17 ) .
+RESULTS Comparison of the effect of loss - of - function mutations in hilA and invF on the ability of S. typhimurium to interact with cultured epithelial cells .
+Both HilA and InvF regulate the expression of phenotypes associated with the centisome 63 type III secretion system ( 3 , 32 ) .
+However , it is not known whether these two regulatory proteins control the expression of a distinct set of genes .
+HilA activates the transcription of several genes within SPI - 1 including prgH , prgK , sipC , sipA , orgA , and invF ( 3 , 4 ) .
+The regulatory targets of InvF have not yet been identified , and it is not known whether InvF and HilA have overlapping phenotypes .
+We compared the effect of nonpolar loss - of - function mutations in hilA and invF on the ability S. typhimurium to invade cultured intestinal epithelial cells , a VOL .
+67 , 1999 REGULATION OF S. TYPHIMURIUM SPI - 1 TYPE III SECRETION SYSTEM 4101 FIG. 1 .
+Comparison of the effect of mutations in invF and hilA on the ability of S. typhimurium to enter cultured intestinal Henle - 407 cells .
+Values represent the percentage of the bacterial inoculum that survives the gentamicin treatment and have been standardized to the internalization level of wild - type ( w.t. ) S. typhimurium , which was considered 100 % ( the actual value in this case was 66.2 % 8.5 % ) .
+The values represent the mean and standard deviation from one representative experiment performed with triplicate samples .
+Equivalent results were obtained in several repetitions of this experiment .
+pinvF and philA express invF or hilA under the control of their endogenous promoters ; Para invF and ParahilA expresses invF or hilA under the control of the Para BAD promoter .
+Effect of a loss - of - function mutation in hilA on the transcription of components of the SPI - 1 type III secretion system .
+The levels of transcription of the different reporter gene fusions in different S. typhimurium genetic backgrounds were measured by assaying catechol - 2,3 - dioxygenase activity in bacterial cell lysates as indicated in Materials and Methods .
+The values represent the mean and standard deviation from one representative experiment performed with triplicate samples .
+Equivalent results were obtained in several repetitions of this experiment .
+philA expresses hilA under the control of its endogenous promoters ; Para invF expresses invF under the control of the Para BAD promoter .
+phenotype strictly dependent on the function of the SPI - 1 - encoded type III protein secretion system .
+Henle - 407 cells were infected with either the hilA or invF mutant S. typhimurium strains , and the ability of the bacteria to invade these cells was examined by the gentamicin resistance assay .
+As previously shown , both the invF and hilA mutant strains were deficient for entry into Henle - 407 cells ( 3 , 32 ) ( Fig. 1 ) .
+However , the S. typhimurium invF mutant was significantly more impaired for invasion than was the hilA mutant strain ( Fig. 1 ) .
+Introduction into the mutant strains of the appropriate complementing plasmid carrying either invF ( pSB370 ) or hilA ( pSB668 ) effectively restored the invasion phenotype to wildtype levels , confirming that the phenotype observed was solely due to the corresponding mutation ( Fig. 1 ) .
+We also examined the ability of a strain carrying nonpolar loss - of - function mutations in both hilA and invF to invade cultured Henle - 407 cells .
+The introduction of mutations in both of these regulatory proteins resulted in a much more severe defect in invasion than the introduction of individual mutations in either of the two genes ( Fig. 1 ) .
+In fact , the invasion defect of the hilA invF double mutant was comparable to that of a strain carrying a mutation in invA , which encodes an essential component of the type III secretion apparatus ( 19 ) .
+Since the expression of invF is influenced by hilA , we tested the effect of expression of invF from a heterologous inducible promoter ( Para BAD ) on the ability of the double - mutant strain to invade cultured host cells .
+As shown in Fig. 1 , introduction of a plasmid expressing either hilA ( pSB667 ) or invF ( pSB624 ) from an arabinose - inducible heterologous promoter into the double - mutant strain did not restore wild - type levels of invasion .
+These results indicate that both HilA and InvF are required for the complete expression of the S. typhimurium entry phenotype and that these two regulatory proteins may act in a cooperative manner to regulate the expression of the invasion phenotype .
+Differential regulation of invasion - associated gene expression by HilA and InvF .
+Strains carrying single mutations in hilA and invF exhibit different phenotypes .
+Furthermore , the hilA invF double mutant displays a stronger phenotype than does either single mutant .
+These results suggest that HilA and InvF may control the expression of different subsets of genes .
+We therefore investigated the effect of nonpolar mutations in hilA or invF on the expression of components or secreted substrates of the SPI - 1-encoded type III secretion system .
+We examined the effect of a nonpolar hilA insertion mutation on the expression of invA and invJ , which encode proteins that are required for secretion through the centisome 63 type III secretion system ( 9 , 19 , 22 ) .
+Introduction of a nonpolar mutation into hilA resulted in a significant reduction in the expression of these genes .
+Expression was restored to wild - type levels upon complementation with a plasmid encoding hilA ( pSB668 ) ( Fig. 2 ) .
+In contrast , neither a loss - of - function mutation in invF ( 32 ) nor the expression of the invF gene from a heterologous promoter ( pSB624 ) had any effect on the transcription of these genes .
+These results demonstrate that HilA but not InvF controls the expression of genes that encode structural components of the invasion - associated type III secretion system .
+We then examined the effect of hilA and invF on the expression of proteins secreted via the SPI - 1 type III secretion system that are encoded either within or outside this pathogenicity island .
+We introduced hilA and invF nonpolar loss - of - function insertion mutations into strains carrying chromosomal xylE reporter gene fusions to sipC ( 33 ) , sptP ( 34 ) , avrA ( 25 ) , or sopE ( 26 ) or a chromosomal lacZ fusion to sopB ( 20 ) .
+Mutations in both invF and hilA significantly reduced the expression of genes encoding secreted proteins either within ( sipC , sptP ) ( Fig. 3A ) or outside ( sopB , sopE ) ( Fig. 3B ) of SPI - 1 .
+In contrast , mutations in either hilA or invF ( but not both ) did not affect the expression of avrA ( Fig. 3A ) , which encodes a secreted protein within SPI - 1 .
+Taken together , these results indicate that HilA and InvF control the expression of different sets of genes associated with the SPI - 1 type III protein secretion system .
+Furthermore , these results also indicate that InvF and HilA control the expression of only a subset of the proteins secreted through the SPI - 1 type III secretion system , since avrA is apparently not regulated by either of these two regulators .
+Functional relationship between HilA and InvF .
+It has been previously shown that hilA affects the expression of invF , suggesting the possibility that these two genes function in a reg - 4102 EICHELBERG AND GALÁN INFECT .
+Effect of a loss - of - function mutation in invF or hilA on their own expression .
+The levels of transcription of the different reporter gene fusions were measured by assaying catechol - 2,3 - dioxygenase activity in bacterial cell lysates as indicated in Materials and Methods .
+The values represent the mean and standard deviation from one representative experiment performed with triplicate samples .
+Equivalent results were obtained in several repetitions of this experiment .
+Effect of a loss - of - function mutation in invF and hilA on the expression of type III secreted proteins encoded inside ( A ) or outside ( B ) of SPI - 1 .
+Levels of transcription of the different reporter gene fusions in different S. typhimurium genetic backgrounds were measured by assaying the catechol - 2,3 - dioxygenase activity in bacterial cell lysates as indicated in Materials and Methods .
+The values represent the mean and standard deviation from one representative experiment performed with triplicate samples .
+Equivalent results were obtained in several repetitions of this experiment .
+However , the observation that strains carrying loss - of - function mutations in both hilA and invF exhibit a different phenotype from strains carrying individual mutations in these genes suggests a cooperative role for these two regulatory proteins .
+This notion is strengthened by the finding that HilA and InvF appear to control the expression of distinct sets of invasion - associated genes .
+To investigate the functional relationship between InvF and HilA , we first examined the influence of HilA on invF transcription and the effect of InvF on hilA transcription .
+Nonpolar mutations in each of these genes were introduced into strains carrying chromosomal reporter gene fusions to hilA or invF .
+As previously shown ( 3 ) , a mutation in hilA significantly reduced the expression of invF ( Fig. 4 ) .
+In contrast , a mutation in invF had no effect on the expression of hilA ( Fig. 4 ) .
+These results are consistent with the notion that HilA acts upstream of InvF but do not rule out the possibility that , as suggested by the results obtained with the double mutant , these regulatory proteins act cooperatively to control gene expression .
+Overexpression of either hilA or invF from the Para BAD promoter did not increase their own expression ( it actually caused a slight decrease ) , indicating that these genes are not subject to autoactivation ( data not shown ) .
+To further examine the functional relationship between HilA and InvF , plasmids containing either invF ( pSB624 ) or hilA ( pSB667 ) under the control of the Para BAD promoter were introduced into a S. typhimurium hilA invF double mutant carrying a chromosomal reporter gene fusion to the secreted protein genes sipC , sptP , orsopB .
+We reasoned that if the expression of genes encoding secreted proteins is dependent solely on InvF , expression of invF from a heterologous promoter should be able to activate the transcription of secreted protein genes in a hilA - independent manner .
+As shown in Fig. 5 , expression of invF from the Para BAD promoter in an invF hilA double - mutant background restored the expression of sipC , sptP , and sopB to wild - type levels .
+Introduction of a plasmid expressing invF from its endogenous promoter , however , failed to restore sipC or sptP transcription in the same mutant background ( data not shown ) , consistent with the requirement of HilA for invF expression .
+Constitutive expression of hilA in the invF hilA double - mutant background rescued the expression of sipC and sptP but failed to restore the transcription of sopB ( Fig. 5 ) .
+Taken together , these results demonstrate that HilA and InvF play different roles in the expression of type III secretion - associated genes .
+DISCUSSION A type III secretion system encoded within a pathogenicity island ( SPI - 1 ) located at centisome 63 of the S. enterica chromosome plays an essential role in the ability of these bacteria to engage host cells in intimate interactions ( 16 ) .
+This system exerts its function by delivering into the host cell cytosol a set of effector proteins which have the capacity to stimulate or interfere with host cell signal transduction pathways ( 15 ) .
+The outcome of this bacterium - host cell interaction is the stimulation of actin cytoskeleton rearrangements that lead to bacterial uptake and nuclear responses that result in the production of proinflammatory cytokines .
+The expression of the components of this protein secretion system as well the substrate proteins that are destined to be delivered to the host cell cytosol is carefully regulated by a complex array of transcriptional as well as posttranscriptional mechanisms ( 30 ) .
+For example , the secretion process itself is stimulated upon bacterial contact with the host cell ( 21 , 45 ) .
+Although the mechanisms underlying the contact stimulation of secretion are poorly understood , it is clear that they do not involve de novo protein synthesis ( 21 , 45 ) .
+In addition to this posttranscriptional regulation , the centisome 63 type III secretion system is subject to complex transcriptional regulation that involves both specific regulatory proteins and global regulators ( 30 ) .
+At least two specific regulatory proteins encoded within SPI - 1 , HilA and InvF , are known to play an essential role in the regulation of this type III secretion system ( 3 , 32 ) .
+However , the mechanisms and in some instances the actual regulatory target proteins are un - VOL .
+67 , 1999 REGULATION OF S. TYPHIMURIUM SPI - 1 TYPE III SECRETION SYSTEM 4103 FIG. 5 .
+Differential control of the expression of type III secreted proteins by InvF and HilA .
+The levels of transcription of the different reporter gene fusions were measured by assaying catechol - 2,3 - dioxygenase activity in bacterial cell lysates as indicated in Materials and Methods .
+The values represent the mean and standard deviation from one representative experiment performed with triplicate samples .
+Equivalent results were obtained in several repetitions of this experiment .
+Para invF and Para hilA express invF or hilA under the control of the Para BAD promoter .
+In this study , we investigated the functional relationship between these two specific regulatory proteins and found that they play distinct roles in controlling SPI - 1 gene expression ( Fig. 6 ) .
+Our results show that although InvF is clearly downstream of HilA in a regulatory cascade , both genes exert a direct effect on the expression of a different set of SPI - 1-associated genes .
+For example , HilA but not InvF is involved in controlling the expression of genes that encode proteins which are components of the type III secretion apparatus .
+In contrast , the transcription of genes encoding proteins that are substrates of this secretion machinery is controlled by InvF either alone or in conjunction with HilA .
+sptP and sipC are regulated by both HilA and InvF , since constitutive expression of either of these regulatory proteins was sufficient to restore the expression of sptP and sipC to wild - type levels in a hilA invF double - mutant strain .
+In contrast , expression of sopB in a hilA invF doublemutant strain was restored only by the constitutive expression of invF .
+These results indicate that the expression of different substrates of the type III secretion system is controlled by different regulatory proteins ( Fig. 6 ) .
+This hypothesis is further supported by the observation that the transcription of at least one gene encoding a protein secreted via the SPI - 1 type III secretion system , avrA , is not controlled by either InvF or HilA .
+Several different phenotypes are mediated by the centisome 63 type III secretion system ( 15 ) .
+These include membrane ruf - FIG. 6 .
+Model for the differential control of SPI - 1-associated gene expression by HilA and InvF .
+A diagram of SPI - 1 and the relative locations of invF and hilA are shown .
+Horizontal arrows below the diagram indicate the direction of transcription of putative operons .
+4104 EICHELBERG AND GALÁN INFECT .
+fling , nuclear responses , chloride secretion , and , in some cell types , apoptosis .
+It is likely that cellular responses may require different effector proteins or that the bacteria may need to elicite different cellular responses at different stages during the pathogenic cycle .
+Therefore , it is conceivable that different effector proteins may be subject to different regulatory mechanisms in order to adjust the function of the type III secretion machinery to stimulate these different arrays of cellular responses .
+Consistent with this hypothesis , our results showed that expression of different type III secreted proteins is subject to different regulatory control mechanisms .
+It has recently become evident that substrates of the SPI - 1 - associated type III secretion system are also encoded outside of this pathogenicity island ( 26 , 43 ) .
+We have found that expression of sopB ( sigD ) and sopE is also under the regulatory control of genes located within SPI - 1 .
+However , unlike other effector proteins encoded by genes within SPI - 1 , expression of sopB is under the direct control of InvF but not HilA .
+These results may be a reflection of a more recent acquisition of genes encoding effector proteins which may have not yet completely adapted to the more complex regulatory mechanisms involving more than one transcription regulator .
+On the other hand , such a regulatory control may respond to other constrains such as the temporal or spatial requirements for the expression of these gene products .
+Our findings are in agreement with a recent report by Ahmer et al. ( 1 ) , who showed that HilA was required for the expression of sopB ( sigD ) but in conflict with results reported by Hong and Miller , who reported a HilA - independent expression of this gene ( 29 ) .
+It is likely that the discrepancy of results may be due to the experimental conditions , since Hong and Miller used a plasmidborne gene fusion to measure sopB transcription while our studies were carried out with a chromosomal gene fusion .
+Expression of at least one gene encoding a protein secreted via the SPI - 1-encoded type III secretion system , AvrA , is not under the regulatory control of either HilA or InvF .
+avrA may be under the control of a yet unidentified regulatory protein associated with this system .
+Alternatively , this gene may have been recently acquired and may not yet have evolved to be subject to the same regulatory constraints as other ancillary components or substrates of this type III secretion system .
+Further studies are required to distinguish between these possibilities .
+During the dynamic interaction between S. typhimurium and the host , this pathogen must monitor and adapt to different environmental conditions .
+Our results indicate that the control of the expression of genes associated with the type III protein secretion system encoded in centisome 63 of S. typhimurium is subject to complex regulatory mechanisms .
+Further studies are required to establish the connection between the function of regulatory proteins such as HilA and InvF and specific environmental cues .
+We thank members of the Galán laboratory for critical review of the manuscript .
+This work was supported by Public Health Service grant AI30492 from the National Institutes of Health .
+J.E.G. is an investigator of the American Heart Association .
+Ahmer , B. M. , J. van Reeuwijk , P. R. Watson , T. S. Wallis , and F. Heffron .
+Salmonella SirA is a global regulator of genes mediating enteropathogenesis .
+Arricau , N. , D. Hermant , H. Waxin , C. Ecobichon , P. S. Duffey , and M. Y. Popoff .
+The RcsB - RcsC regulatory system of Salmonella typhi differentially modulates the expression of invasion proteins , flagellin and Vi antigen in response to osmolarity .
+Bajaj , V. , C. Hwang , and C. A. Lee .
+hilA is a novel ompR toxR family member that activates the expression of Salmonella typhimurium expression genes .
+Bajaj , V. , R. L. Lucas , C. Hwang , and C. A. Lee .
+Co - ordinate regulation of Salmonella typhimurium invasion genes by environmental and regulatory factors is mediated by control of hilA expression .
+Behlau , I. , and S. J. Miller .
+A Pho - P-repressed gene promotes Salmonella typhimurium invasion of epithelial cells .
+Chen , L. M. , S. Hobbie , and J. E. Galan .
+Requirement of CDC42 for Salmonella - induced cytoskeletal and nuclear responses .
+Chen , L. M. , K. Kaniga , and J. E. Galán .
+Salmonella spp. are cytotoxic for cultured macrophages .
+Collazo , C. , and J. E. Galán .
+Requirement of exported proteins for secretion through the invasion - associated type III system in Salmonella typhimurium .
+Collazo , C. M. , M. K. Zierler , and J. E. Galán .
+Functional analysis of the Salmonella typhimurium invasion genes invI and invJ and identification of a target of the protein secretion apparatus encoded in the inv locus .
+Eckmann , L. , M. T. Rudolf , A. Ptasznik , C. Schultz , T. Jiang , N. Wolfson , R. Tsien , J. Fierer , S. B. Shears , M. F. Kagnoff , and A. E. Traynor - Kaplan .
+D - myo - Inositol - 1,4,5,6 - tetrakisphosphate produced in human intestinal epithelial cells in response to Salmonella invasion inhibits phosphoinositide 3 - kinase signaling pathways .
+Eichelberg , K. , and J. E. Galán .
+Characterization of SprA , an AraC - like transcriptional regulator encoded within the Salmonella typhimurium pathogenicity island 1 .
+Eichelberg , K. , K. Kaniga , and J. E. Galán .
+Regulation of Salmonella inv gene expression by the flagellar sigma factor FliA ( 28 ) , p. 221 .
+In Abstracts of the 95th General Meeting of the American Society for Microbiology 1995 .
+American Society for Microbiology , Washington , D.C. 13 .
+Ernst , R. K. , D. M. Domboski , and J. M. Merrick .
+Anaerobiosis , type 1 fimbriae , and growth phase are factors that affect invasion of HEp - 2 cells by Salmonella typhimurium .
+Fu , Y. , and J. E. Galán .
+The Salmonella spp. protein tyrosine phosphatase SptP is translocated into host cells and disrupts the host - cell cytoskeleton .
+Interaction of Salmonella with host cells : encounters of the closest kind .
+Molecular bases of Salmonella entry into host cells .
+Galán , J. E. , and R. Curtiss III .
+Cloning and molecular characterization of genes whose products allow Salmonella typhimurium to penetrate tissue culture cells .
+Galán , J. E. , and R. Curtiss III .
+Expression of Salmonella typhimurium genes required for invasion is regulated by changes in DNA supercoiling .
+Galán , J. E. , C. Ginocchio , and P. Costeas .
+Molecular and functional characterization of the Salmonella typhimurium invasion gene invA : homology of InvA to members of a new protein family .
+Galyov , E. E. , M. W. Wood , R. Rosqvist , P. B. Mullan , P. R. Watson , S. Hedges , and T. S. Wallis .
+A secreted effector protein of Salmonella dublin is translocated into eukaryotic cells and mediates inflammation and fluid secretion in infected ileal mucosa .
+Ginocchio , C. , S. B. Olmsted , C. L. Wells , and J. E. Galán .
+Contact with epithelial cells induces the formation of surface appendages on Salmonella typhimurium .
+Ginocchio , C. , J. Pace , and J. E. Galán .
+Identification and molecular characterization of a Salmonella typhimurium gene involved in triggering the internalization of salmonellae into cultured epithelial cells .
+Guzman , L. M. , D. Belin , M. J. Carson , and J. Beckwith .
+Tight regulation , modulation , and high - level expression by vectors containing the arabinose PBAD promoter .
+Chen , K. E. Schuebel , X. R. Bustelo , and J. E. Galán .
+Salmonella typhimurium encodes an activator of Rho GTPases that induces membrane ruffling and nuclear responses in host cells .
+Hardt , W. - D. , and J. E. Galán .
+A secreted Salmonella protein with homology to an avirulence determinant of plant pathogenic bacteria .
+Hardt , W. - D. , H. Urlaub , and J. E. Galán .
+A target of the centisome 63 type III protein secretion system of Salmonella typhimurium is encoded by a cryptic bacteriophage .
+Hobbie , S. , L. M. Chen , R. Davis , and J. E. Galán .
+Involvement of the mitogen - activated protein kinase pathways in the nuclear responses and cytokine production induced by Salmonella typhimurium in cultured intestinal cells .
+Hoiseth , S. K. , and B. A. Stocker .
+67 , 1999 REGULATION OF S. TYPHIMURIUM SPI - 1 TYPE III SECRETION SYSTEM 4105 typhimurium are non - virulent and effective as live vaccines .
+Hong , K. H. , and V. L. Miller .
+Identification of a novel Salmonella invasion locus homologous to Shigella ipgDE .
+Type III protein secretion systems in bacterial pathogens of animals and plants .
+Johnston , C. , D. A. Pegues , C. J. Hueck , A. Lee , and S. I. Miller .
+Transcriptional activation of Salmonella typhimurium invasion genes by a member of the phosphorylated response - regulator superfamily .
+Kaniga , K. , J. C. Bossio , and J. E. Galán .
+The Salmonella typhimurium invasion genes invF and invG encode homologues to the PulD and AraC family of proteins .
+Kaniga , K. , S. C. Tucker , D. Trollinger , and J. E. Galán .
+Homologues of the Shigella IpaB and IpaC invasins are required for Salmonella typhimurium entry into cultured epithelial cells .
+Kaniga , K. , J. Uralil , J. B. Bliska , and J. E. Galán .
+A secreted tyrosine phosphatase with modular effector domains encoded by the bacterial pathogen Salmonella typhimurium .
+Kaniga , K. , and J. E. Galán .
+Lee , C. A. , and S. Falkow .
+The ability of Salmonella to enter mammalian cells is affected by bacterial growth state .
+McCormick , B. A. , S. P. Colgan , C. Delp - Archer , S. I. Miller , and J. L. Madara .
+Salmonella typhimurium attachment to human intestinal epithelial monolayers : transcellular signalling to subepithelial neutrophils .
+Monack , D. M. , B. Raupach , A. E. Hromockyj , and S. Falkow .
+Salmonella typhimurium invasion induces apoptosis in infected macrophages .
+Norris , F. A. , M. P. Wilson , T. S. Wallis , E. E. Galyov , and P. W. Majerus .
+SopB , a protein required for virulence of Salmonella dublin , isan inositol phosphate phosphatase .
+Pegues , D. A. , M. J. Hantman , I. Behlau , and S. I. Miller .
+PhoP/PhoQ transcriptional repression of Salmonella typhimurium invasion genes : evidence for a role in protein secretion .
+Sambrook , J. , E. F. Fritsch , and T. Maniatis .
+Molecular cloning : a laboratory manual , 2nd ed .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 41 .
+Schiemann , D. A. , and S. R. Shope .
+Anaerobic - growth of Salmonella typhimurium results in increased uptake by Henle 407 epithelial and mouse peritoneal cells in - vitro and repression of a major outer membrane protein .
+Tartera , C. , and E. S. Metcalf .
+Osmolarity and growth phase overlap in regulation of Salmonella typhi adherence to and invasion of human intestinal cells .
+Wood , M. W. , M. A. Jones , P. R. Watson , S. Hedges , T. S. Wallis , and E. E. Galyov .
+Identification of a pathogenicity island required for Salmonella enteropathogenicity .
+Zhou , D. , M. Mooseker , and J. E. Galán .
+Role of the S. typhimurium actin - binding protein SipA in bacterial internalization .
+Zierler , M. K. , and J. E. Galan .
+Contact with cultured epithelial cells stimulates secretion of Salmonella typhimurium invasion protein InvJ .
