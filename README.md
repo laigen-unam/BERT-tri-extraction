@@ -1,11 +1,6 @@
 # BERT-trn-extraction
 Automatic extraction of transcriptional regulatory interactions of bacteria from biomedical literature using a fine-tuned BERT model
 
-Computational Genomics, Center for Genome Sciences, UNAM 
-- Dr. Carlos Francisco Méndez Cruz
-- Dr. Ali Berenice Posada Reyes
-- LCG. Alfredo Varela Vega 
-
 ## datasets
 
 Datasets used for TRN reconstructions (e.coli and salmonella)
